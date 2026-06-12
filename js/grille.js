@@ -12,11 +12,22 @@ export function carte(s, etat = Etat) {
   const el = document.createElement("a");
   el.className = "carte-script" + (relu ? " relu" : "");
   el.href = `lecture.html?s=${s.no}`;
-  el.innerHTML = `
-    <div class="no">${String(s.no).padStart(3, "0")} ${relu ? "✓" : ""} ${enCours ? "📝" : ""}</div>
-    <div class="label">${s.label || "<i>sans titre</i>"}</div>
-    <div class="persos">${s.personnages.slice(0, 4).join(", ")}${s.personnages.length > 4 ? "…" : ""}</div>
-    <div class="compte">${s.repliques} répliques</div>`;
+  // textContent partout : les labels/noms viennent des données de trad,
+  // jamais interprétés comme HTML.
+  const no = document.createElement("div");
+  no.className = "no";
+  no.textContent = `${String(s.no).padStart(3, "0")} ${relu ? "✓" : ""} ${enCours ? "📝" : ""}`.trim();
+  const label = document.createElement("div");
+  label.className = "label";
+  if (s.label) label.textContent = s.label;
+  else { const i = document.createElement("i"); i.textContent = "sans titre"; label.append(i); }
+  const persos = document.createElement("div");
+  persos.className = "persos";
+  persos.textContent = s.personnages.slice(0, 4).join(", ") + (s.personnages.length > 4 ? "…" : "");
+  const compte = document.createElement("div");
+  compte.className = "compte";
+  compte.textContent = `${s.repliques} répliques`;
+  el.append(no, label, persos, compte);
   return el;
 }
 
@@ -71,5 +82,9 @@ if (document.getElementById("grille")) {
     fetch("data/recherche.json").then(r => r.json()),
   ]).then(([index, recherche]) => {
     initGrille({ index, recherche });
-  }).catch(err => console.error("Erreur chargement données grille :", err));
+  }).catch(err => {
+    console.error("Erreur chargement données grille :", err);
+    document.getElementById("grille").textContent =
+      "Erreur : impossible de charger data/index.json — lancer « python3 sync.py » ?";
+  });
 }
