@@ -4,8 +4,6 @@ import re
 import json
 import os
 import glob
-import shutil
-import sys
 
 TRAD = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                     "..", "..", "Trad_Persona2", "P2-FR-IS-PSP")
@@ -134,7 +132,8 @@ def ecrire(chemin, obj):
     tmp = chemin + ".tmp"
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=1); f.write("\n")
-    json.load(open(tmp, encoding="utf-8"))       # relecture avant remplacement
+    with open(tmp, encoding="utf-8") as f:       # relecture avant remplacement
+        json.load(f)
     os.replace(tmp, chemin)
 
 
@@ -142,11 +141,12 @@ def generer_dictionnaire():
     """Parse le tableau markdown de Dictionnaire.md -> [{en, fr}]."""
     chemin = os.path.join(TRAD, "scripts", "Dictionnaire.md")
     termes = []
-    for ligne in open(chemin, encoding="utf-8"):
-        c = [x.strip() for x in ligne.strip().strip("|").split("|")]
-        if len(c) >= 2 and c[0] and not c[0].startswith("-") and c[0] != "Anglais":
-            fr = re.sub(r"\*\(.*?\)\*", "", c[1]).strip()   # retire les annotations
-            termes.append({"en": c[0], "fr": fr})
+    with open(chemin, encoding="utf-8") as fh:
+        for ligne in fh:
+            c = [x.strip() for x in ligne.strip().strip("|").split("|")]
+            if len(c) >= 2 and c[0] and not c[0].startswith("-") and c[0] != "Anglais":
+                fr = re.sub(r"\*\(.*?\)\*", "", c[1]).strip()   # retire les annotations
+                termes.append({"en": c[0], "fr": fr})
     return termes
 
 
@@ -156,8 +156,9 @@ def main():
     index, recherche = [], {}
     for p in sorted(glob.glob(os.path.join(TRAD, "traduction", "event_scripts", "script_*.json"))):
         no = int(re.search(r"(\d+)", os.path.basename(p)).group(1))
-        entrees = [c for e in json.load(open(p, encoding="utf-8"))
-                   if (c := convertir_entree(e))]
+        with open(p, encoding="utf-8") as f:
+            brutes = json.load(f)
+        entrees = [c for e in brutes if (c := convertir_entree(e))]
         noms = sorted({e["nom_fr"] for e in entrees if e["nom_fr"]})
         for n in noms:
             persos.setdefault(n, {"emoji": EMOJI_DEFAUT})
@@ -166,7 +167,8 @@ def main():
         index.append({"no": no, "label": labels.get(f"{no:03d}", ""),
                       "personnages": noms, "repliques": len(entrees)})
         recherche[f"{no:03d}"] = " ".join(
-            seg.get("t", "") for e in entrees for b in e["bulles_fr"] for seg in b["seg"]).lower()
+            seg.get("t") or seg.get("hl") or seg.get("enc") or ""
+            for e in entrees for b in e["bulles_fr"] for seg in b["seg"]).lower()
     ecrire(os.path.join(DATA, "index.json"), index)
     ecrire(os.path.join(DATA, "recherche.json"), recherche)
     ecrire(os.path.join(DATA, "personnages.json"), persos)
