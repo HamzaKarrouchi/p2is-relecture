@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="nuit">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lecture — P2IS Relecture</title>
+  <link rel="stylesheet" href="css/commun.css">
+  <link rel="stylesheet" href="css/theme-nuit.css">
+  <link rel="stylesheet" href="css/theme-rouge.css">
+</head>
+<body>
+  <header class="barre">
+    <a href="scripts.html">← Scripts</a>
+    <span id="titre"></span>
+    <span id="avancement"></span>
+    <label class="toggle"><input type="checkbox" id="cmp"> EN</label>
+    <button id="btn-derouler" title="Tout dérouler">⏬</button>
+    <button id="btn-theme" title="Thème">🎨</button>
+    <button id="btn-panier" title="Panier">📋<span id="badge-panier"></span></button>
+  </header>
+  <main class="page"><div id="fil"></div>
+    <div id="fin" hidden>
+      <p>— Fin du script —</p>
+      <button id="btn-relu">✓ Marquer comme relu</button>
+      <nav><a id="prec">◀ précédent</a> <a id="suiv">suivant ▶</a></nav>
+    </div>
+    <div id="indicateur">▼ cliquer / Espace : suite</div>
+  </main>
+  <aside id="panneau-editeur" hidden></aside>
+  <aside id="panneau-panier" hidden></aside>
+  <script type="module" src="js/lecteur.js"></script>
+</body>
+</html>
