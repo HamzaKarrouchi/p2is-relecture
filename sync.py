@@ -63,3 +63,28 @@ def en_bulles(texte):
         nom = morceaux[i].replace("[SP]", " ").strip()
         bulles.append({"nom": nom, "seg": en_segments(morceaux[i + 1])})
     return [b for b in bulles if b["seg"]]
+
+
+_MENU = re.compile(r'\[(?:U\+)?1208\](?:\[(?:U\+)?[0-9A-Fa-f]{4}\])?')
+_STRUCT_OPT = re.compile(r'\[1432\]|\[NULL\]|\[0014\]|\[111F\]|\[1210\]|\[U\+[0-9A-Fa-f]{4}\]|\[0002\]')
+
+def extraire_choix(texte):
+    """-> (choix|None, texte_question). choix = {"options": [str]}.
+    La question (avant [1208]) reste à normaliser par l'appelant via en_segments."""
+    m = _MENU.search(texte)
+    if not m:
+        return None, texte
+    question = texte[:m.start()].rstrip("\n")
+    corps = texte[m.end():]
+    options = []
+    if "[0014]" in corps:                      # type [1432] : split sur [0014]
+        for part in re.split(r'\[0014\]', corps):
+            p = _STRUCT_OPT.sub("", part).replace("[SP]", " ").strip("\n").strip()
+            if p and "\n" not in p:
+                options.append(p)
+    else:                                       # type simple : lignes nues
+        for line in corps.split("\n"):
+            p = _STRUCT_OPT.sub("", line).replace("[SP]", " ").strip()
+            if p:
+                options.append(p)
+    return ({"options": options} if options else None), question
