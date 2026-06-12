@@ -26,7 +26,8 @@ export function estimateBytes(text) {
 export const cost = (nomFr, texteFr) => estimateBytes('"' + nomFr + "\n" + texteFr + "\n");
 export const budgetOf = (dataSize) => dataSize - 8;
 
-// Caractères affichables par le jeu (liste du CLAUDE.md de la trad)
+// Caractères affichables par le jeu (liste du CLAUDE.md de la trad).
+// Ü et Ï absents : non supportés par la police du jeu (volontaire).
 const ACCENTS_OK = "éèêàçùâîôûœüïÉÈÊÀÇÙÂÎÔÛŒ";
 export function caracteresInterdits(texte) {
   const sansBalises = texte.replace(/\[[^\]]*\]/g, "");
