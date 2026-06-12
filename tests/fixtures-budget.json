@@ -1,0 +1,917 @@
+[
+ {
+  "nom": "???",
+  "texte": "....?",
+  "attendu": 22
+ },
+ {
+  "nom": "Délinquant",
+  "texte": "Hep... On va où comme ça?",
+  "attendu": 76
+ },
+ {
+  "nom": "Petite frappe",
+  "texte": "Héhé! Tu pourras jamais démarrer\ncette poubelle sans ça.",
+  "attendu": 144
+ },
+ {
+  "nom": "Délinquant",
+  "texte": "Rien à dire, hein?[1205][001E] Ta tronche me\nrevient pas. Tu te crois\nplus malin que les autres, c'est ça?",
+  "attendu": 218
+ },
+ {
+  "nom": "???",
+  "texte": "......!?",
+  "attendu": 28
+ },
+ {
+  "nom": "???",
+  "texte": "Ahah, je savais que t'y serais, [1113].\nJ'ai pensé qu'il valait mieux t'attendre\nprès de ton bébé.",
+  "attendu": 198
+ },
+ {
+  "nom": "Mme Saeko",
+  "texte": "T'inquiète pas, l'entretien\nd'orientation c'est pas formel.",
+  "attendu": 142
+ },
+ {
+  "nom": "Mme Saeko",
+  "texte": "Bien. Commençons ! As-tu une idée de ce\nque tu voudrais faire après le lycée ?",
+  "attendu": 180
+ },
+ {
+  "nom": "Mme Saeko",
+  "texte": "T'as une idée de ce que tu veux faire\nplus tard ?     \n[1208][0002][1432][NULL][NULL][0014]Ouais, j'ai décidé.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Rien... [1432][NULL][NULL][0014]",
+  "attendu": 226
+ },
+ {
+  "nom": "Mme Saeko",
+  "texte": "Et? Tu tentes l'université\nou chercher du boulot?",
+  "attendu": 122
+ },
+ {
+  "nom": "???",
+  "texte": "Ouf...[1205][001E] Merci pour le repas.",
+  "attendu": 70
+ },
+ {
+  "nom": "???",
+  "texte": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A]Gah!",
+  "attendu": 50
+ },
+ {
+  "nom": "???",
+  "texte": "Hé! Elle est vraiment une de mes\nfans!?[1205][001E] C'est n'importe quoi!",
+  "attendu": 138
+ },
+ {
+  "nom": "Ken",
+  "texte": "C-Calmez-vous, Michel!",
+  "attendu": 56
+ },
+ {
+  "nom": "Shogo",
+  "texte": "O-Ouais. Si on attend encore un peu,\n[1113] va se pointer!",
+  "attendu": 122
+ },
+ {
+  "nom": "Philémon",
+  "texte": "Bienvenue dans l'abîme entre conscience\net inconscience...[1205][001E] Mon nom est Philémon.[1205][001E]\nAvez-vous oublié?",
+  "attendu": 226
+ },
+ {
+  "nom": "Lisa",
+  "texte": "Phile...mon...?",
+  "attendu": 44
+ },
+ {
+  "nom": "Philémon",
+  "texte": "Ce pouvoir s'appelle [E4][NULL][NULL][U+0006]Persona[E4][NULL][NULL][0002].[1205][001E]\nIl permet d'invoquer les entités en\nvous, vos dieux et démons intérieurs.",
+  "attendu": 248
+ },
+ {
+  "nom": "Philémon",
+  "texte": "Le moi baigné d'amour divin...[1205][001E]\nLe moi capable de cruauté démoniaque...[1205][001E]\nLes gens vivent en portant des masques.",
+  "attendu": 250
+ },
+ {
+  "nom": "Philémon",
+  "texte": "Votre moi actuel n'est qu'un de ces\ninnombrables masques. Votre Persona\nest une de vos multiples facettes.",
+  "attendu": 234
+ },
+ {
+  "nom": "Kozy",
+  "texte": "Eikichi-ku--[1205][001E] Boss-san!\nVous allez bien!?",
+  "attendu": 98
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "C'était...[1205][001E] pas un rêve, hein?",
+  "attendu": 82
+ },
+ {
+  "nom": "Lisa",
+  "texte": "Je le savais![1205][001E] J'ai vu aussi.\nÇa appelait ça des Personae...?",
+  "attendu": 138
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Même les rumeurs qui deviennent réalité,\net les trucs sur l'avenir...?[1205][001E]\nTrop pour que ce soit une coïncidence.",
+  "attendu": 242
+ },
+ {
+  "nom": "Lisa",
+  "texte": "Je sais...[1205][001E] Tu veux tenter le\nJeu du Joker?",
+  "attendu": 102
+ },
+ {
+  "nom": "Joker",
+  "texte": "Ces yeux...[1205][001E] Tu n'as pas changé.[1205][001E]\nQuel genre de rêves as-tu bâti sur\nles cadavres des idéaux d'autrui ?",
+  "attendu": 226
+ },
+ {
+  "nom": "Joker",
+  "texte": "Ton masque ne me trompe pas.\nTu voulais aller à la fac...\nN'est-ce pas?",
+  "attendu": 158
+ },
+ {
+  "nom": "Joker",
+  "texte": "Hahaha...[1205][001E] Aaaaahahahaha !\nTes rêves ne se réaliseront jamais !",
+  "attendu": 144
+ },
+ {
+  "nom": "Joker",
+  "texte": "Tu sais maintenant...[1205][001E]\npourquoi je suis ici!",
+  "attendu": 106
+ },
+ {
+  "nom": "Joker",
+  "texte": "Ton masque ne me trompe pas.\nTu voulais trouver du travail...\nN'est-ce pas?",
+  "attendu": 166
+ },
+ {
+  "nom": "Lisa",
+  "texte": "Je me demande s'il\ns'est passé un truc.",
+  "attendu": 92
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Pourquoi tout ce foin\npour une simple horloge?",
+  "attendu": 112
+ },
+ {
+  "nom": "Lisa",
+  "texte": "Y'a des tonnes de rumeurs flippantes\nsur cette tour! Des fantômes\net d'autres trucs quand\nl'horloge redémarre.",
+  "attendu": 234
+ },
+ {
+  "nom": "Concierge",
+  "texte": "Oh non... Mauvais présage...\nNamu Amida Butsu, Namu Amida Butsu...",
+  "attendu": 156
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Du calme, pépé ! Y'a pas de quoi\navoir peur. Tant que je suis dans le\ncoin, t'as pas à t'en faire !",
+  "attendu": 218
+ },
+ {
+  "nom": "Concierge",
+  "texte": "Non! Un malheur va arriver!\nAvant sa mort, le prof a dit: [1432][NULL][NULL][0014]Le monde\nfinira si on n'arrête pas le temps.[1432][NULL][NULL][0014]",
+  "attendu": 244
+ },
+ {
+  "nom": "Lisa",
+  "texte": "Hein ? Le proviseur est pas là.",
+  "attendu": 76
+ },
+ {
+  "nom": "Lisa",
+  "texte": "Hé ! Toi ! T'as vu le proviseur ?",
+  "attendu": 80
+ },
+ {
+  "nom": "Lycéen",
+  "texte": "Euh, non, on a cherché partout et il est\nintrouvable. Où a-t-il bien pu passer avec ce\nchaos dans l'école... ?",
+  "attendu": 238
+ },
+ {
+  "nom": "Lycéenne",
+  "texte": "J'étais sûre que le proviseur\nHanya règlerait cette histoire!",
+  "attendu": 144
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Le grand Michel se déplace jusqu'à Seven\net son propre proviseur n'est pas là !?\n*soupir*[1205][001E] Quelle belle arnaque !",
+  "attendu": 248
+ },
+ {
+  "nom": "Maya",
+  "texte": "Ouf..[1205][001E] Vous allez bien ?",
+  "attendu": 64
+ },
+ {
+  "nom": "Maya",
+  "texte": "Waouh ! Quoi ? Vous avez eu si peur ?",
+  "attendu": 88
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Hein?[1205][0014] Pourquoi je pleure? C'est\nétrange. *sniff*[1205][0014] J'peux pas m'arrêter.",
+  "attendu": 164
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "C'est..[1205][001E] si chaleureux.. Plus que ce que\nje ressens avec [1113] et Ginko..[1205][001E]\nComme un câlin..",
+  "attendu": 198
+ },
+ {
+  "nom": "Maya",
+  "texte": "Bizarre..[1205][0014] Moi aussi. C'était\nquoi cette nostalgie.. ?",
+  "attendu": 124
+ },
+ {
+  "nom": "Mme Saeko",
+  "texte": "Hé!",
+  "attendu": 30
+ },
+ {
+  "nom": "Mme Saeko",
+  "texte": "Ça suffit! Cessez de suivre ces rumeurs![1205][001E]\nFranchement... Quelle migraine...",
+  "attendu": 176
+ },
+ {
+  "nom": "Yukino",
+  "texte": "Mme Saeko!? Mais que...",
+  "attendu": 64
+ },
+ {
+  "nom": "Mme Saeko",
+  "texte": "Yu-Yukino...?[1205][001E] C'est bien toi!",
+  "attendu": 86
+ },
+ {
+  "nom": "Mme Saeko",
+  "texte": "Je suis ici depuis un an. Mais TOI,\nque fais-tu là? Ne me dis pas que\ntu redoubles ton lycée...?",
+  "attendu": 216
+ },
+ {
+  "nom": "Maya",
+  "texte": "Bonjour! Pardon...",
+  "attendu": 50
+ },
+ {
+  "nom": "Maya",
+  "texte": "On voudrait emprunter la\nclé de la tour.",
+  "attendu": 94
+ },
+ {
+  "nom": "Concierge",
+  "texte": "Hein?",
+  "attendu": 34
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Hai! La clé de la tour!\nVous l'avez, hein, papy?",
+  "attendu": 112
+ },
+ {
+  "nom": "Concierge",
+  "texte": "La clé de la tour...[1205][001E] Hmmm,\noù l'ai-je mise?",
+  "attendu": 114
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "*tousse* Quelle poussière...[1205][001E]\nMes cheveux vont être décoiffés.",
+  "attendu": 146
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "M. Hanya est pas là non plus.\nOn casse vite cette grande horloge\net on se casse d'ici.",
+  "attendu": 192
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Cette sensation...[1205][001E]\nC'était quoi...?",
+  "attendu": 90
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Boss des Calbutes!\nDerrière toi!",
+  "attendu": 80
+ },
+ {
+  "nom": "Prof fantôme",
+  "texte": "...pas être...",
+  "attendu": 58
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Hah! On a gagné! Dis-nous\nce que tu sais sur Joker!",
+  "attendu": 118
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Qu-Quoi !?",
+  "attendu": 40
+ },
+ {
+  "nom": "Yukino",
+  "texte": "Attention! Ça s'effondre!",
+  "attendu": 68
+ },
+ {
+  "nom": "Maya",
+  "texte": "Aïe... Tout va bien?",
+  "attendu": 54
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Hé ! Attends, enfoiré !",
+  "attendu": 66
+ },
+ {
+  "nom": "Noriko",
+  "texte": "Grande sœur! Je savais que tu serais ici...[1205][001E]\nAllez, on rentre ensemble!",
+  "attendu": 162
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Aiya! Noriko est là!?",
+  "attendu": 58
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Elle n'a pas encore laissé tomber\nAnna Yoshizaka...",
+  "attendu": 118
+ },
+ {
+  "nom": "Noriko",
+  "texte": "Grande sœur, non! Arrête ça ou ta santé\nva empirer! Tu ne pourras plus\njamais courir...",
+  "attendu": 192
+ },
+ {
+  "nom": "Anna",
+  "texte": "....",
+  "attendu": 22
+ },
+ {
+  "nom": "Ginko",
+  "texte": "J'avais entendu la rumeur sur ce salon\nsecret,aussi...[1205][001E] Mais le voir en vrai,\nc'est assez bizarre.",
+  "attendu": 214
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Avant, je venais ici autant qu'au\nlycée.\nQuand la ville est elle devenue pourrie...?",
+  "attendu": 184
+ },
+ {
+  "nom": "Maya",
+  "texte": "Un rassemblement? Qui les a convoques ici?\n[1205][001E] Ça sent mauvais.",
+  "attendu": 138
+ },
+ {
+  "nom": "Yukino",
+  "texte": "Eikichi n'est pas là non plus. Si on tarde, il va avoir des ennuis?",
+  "attendu": 152
+ },
+ {
+  "nom": "Homme masqué",
+  "texte": "Content que mes poils aient disparu,\nmais je déteste ces réunions.",
+  "attendu": 162
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Ce stupide Boss n'est pas là non plus!\nIl y a toujours un boulet dans\nchaque groupe. Punaise, quel égoïste!",
+  "attendu": 230
+ },
+ {
+  "nom": "Maya",
+  "texte": "La Dame? Des masques? Des cartes? Je\nsens une embrouille! Il se passe\ndes choses louches ici!",
+  "attendu": 200
+ },
+ {
+  "nom": "Maya",
+  "texte": "Hmm... Je m'inquiète aussi pour Eikichi.\nJ'espère qu'on pourra entrer dans\nce salon secret...",
+  "attendu": 200
+ },
+ {
+  "nom": "Yukino",
+  "texte": "Tu es plutôt mortel avec ce katana,\n[1113].",
+  "attendu": 94
+ },
+ {
+  "nom": "Yukino",
+  "texte": "Un vieux pote était un as au katana,\nmais tu te débrouilles bien. Je parie que tu\nsais aussi te servir de tes poings, hein?",
+  "attendu": 264
+ },
+ {
+  "nom": "Leader",
+  "texte": "Oh mec, matez un peu ça! Le Boss! Pourquoi tu\nte tiens le bide comme ça? Envie de chier?\nTu veux que je te baisse ton froc?",
+  "attendu": 264
+ },
+ {
+  "nom": "Leader",
+  "texte": "Doucement! Tu sais ce qui va arriver à\ncette meuf si tu sors ton esprit\nde la mort, pas vrai...?",
+  "attendu": 210
+ },
+ {
+  "nom": "Élève de Kasu",
+  "texte": "Héhé! T'es rien du tout sans ton\nesprit de la mort!",
+  "attendu": 134
+ },
+ {
+  "nom": "Élève de Kasu",
+  "texte": "Ces conneries de [1432][NULL][NULL][0014]je tolère pas\nle harcèlement[1432][NULL][NULL][0014]? Tu disais\nça car T'ES faible!",
+  "attendu": 200
+ },
+ {
+  "nom": "Élève de Kasu",
+  "texte": "Ce [1432][NULL][NULL][0014]rassemblement[1432][NULL][NULL][0014] avait l'air\nchiant, mais ravi d'être venu\npour voir un truc aussi génial!",
+  "attendu": 228
+ },
+ {
+  "nom": "Leader",
+  "texte": "Bleuuuh! D-Désolé...[1205][001E] B-Baisse pas\nmon froc!",
+  "attendu": 108
+ },
+ {
+  "nom": "Michel",
+  "texte": "J'ai pas le droit de faire le malin\nface à Hiroki. Y a pas de différence\nentre ça et ce que j'ai fait, en vrai.",
+  "attendu": 240
+ },
+ {
+  "nom": "Michel",
+  "texte": "J'ai joué au héros, ordonnant à\nmes gars de pas harceler les faibles...\nMais c'était qu'une façade.",
+  "attendu": 216
+ },
+ {
+  "nom": "Michel",
+  "texte": "C'était juste une excuse pour\nfrapper les gens avec ma Persona...[1205][001E]\nC'est pas digne d'un homme!",
+  "attendu": 208
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Aiya!? Qu'est-il arrivé au\ngros con égoïste et\ninsouciant qu'on connaît tous?",
+  "attendu": 170
+ },
+ {
+  "nom": "Michel",
+  "texte": "Yasuo! T'es où!? Sors de là!",
+  "attendu": 74
+ },
+ {
+  "nom": "Michel",
+  "texte": "Aïe! Tu vas me le payer!",
+  "attendu": 66
+ },
+ {
+  "nom": "Maya",
+  "texte": "Attends, Michel. Bouge pas avant\nque j'allume ma lampe.",
+  "attendu": 124
+ },
+ {
+  "nom": "Maya",
+  "texte": "Euh...[1205][001E] J'étais sûre d'avoir\nune lampe...",
+  "attendu": 98
+ },
+ {
+  "nom": "Maya",
+  "texte": "Grazie![1205][001E] J'y vois clair--\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n...Tu sais, [1113]...[1205][001E] La\nprochaine fois que t'as un truc utile,\nsors-le un peu plus tôt.",
+  "attendu": 264
+ },
+ {
+  "nom": "Maya",
+  "texte": "Boussole HS...[1205][001E] Mon sens de\nl'orientation aussi. Sans lumière,\non serait perdus depuis longtemps.",
+  "attendu": 210
+ },
+ {
+  "nom": "Maya",
+  "texte": "Personne ne sait où est la\nsortie...[1205][001E] Hmm...",
+  "attendu": 104
+ },
+ {
+  "nom": "Maya",
+  "texte": "Un miroir...[1205][001E] Une rumeur dit\nque la sortie est inconnue, l'autre qu'on\npeut fuir avec un miroir...",
+  "attendu": 212
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Y'a une porte, mais ça peut pas\nêtre la sortie.[1205][001E] La rumeur dit\nque personne ne la connaît...",
+  "attendu": 206
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Nooon! Ici aussi!? Il y a la sortie\nnulle part!",
+  "attendu": 114
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Houshounah...[1205][001E] Je suis crevée...\nY'a pas de sortie ou quoi!",
+  "attendu": 136
+ },
+ {
+  "nom": "Maya",
+  "texte": "Eh, Lisa... T'aurais un miroir?",
+  "attendu": 76
+ },
+ {
+  "nom": "Maya",
+  "texte": "Eikichi a évoqué une rumeur:\nla seule personne qui est sortie avait un miroir, non?",
+  "attendu": 180
+ },
+ {
+  "nom": "Ginko",
+  "texte": "J'en ai pas avec moi maintenant...[1205][001E]\nJ'en ai normalement un dans mon sac.",
+  "attendu": 162
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Oh la la...[1205][001E] Trois demoiselles ici et\naucune n'a de miroir!? *soupire* Heureusement que je suis\nsi beau...",
+  "attendu": 234
+ },
+ {
+  "nom": "Gamin",
+  "texte": "Hé, [1113].[1205][001E] On se ressemble ?",
+  "attendu": 68
+ },
+ {
+  "nom": "Gamin",
+  "texte": "Ouais...[1205][001E] Ça me va aussi.",
+  "attendu": 68
+ },
+ {
+  "nom": "Gamin",
+  "texte": "Cool!",
+  "attendu": 26
+ },
+ {
+  "nom": "Gamin",
+  "texte": "C'est la trésor que Papa ma donné.\nTu peux le prendre.",
+  "attendu": 124
+ },
+ {
+  "nom": "Gamin",
+  "texte": "C’est bon…, enfin… tu es moi\nEt je suis toi. C'est comme si je l’avais encore !",
+  "attendu": 174
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Ho Oi Dik![1205][001E]\n[1113] est mignon\nquand il dort!",
+  "attendu": 96
+ },
+ {
+  "nom": "Yukino",
+  "texte": "Eh bien, on dirait que tout le monde va\nmieux. Devrait-on réfléchir à comment\nsortir d'ici?",
+  "attendu": 200
+ },
+ {
+  "nom": "Maya",
+  "texte": "On s'est tous focalisés sur l'idée\nqu'il n'y a pas d'issue.",
+  "attendu": 132
+ },
+ {
+  "nom": "Maya",
+  "texte": "Vous savez ce qu'on dit: [1432][NULL][NULL][0014]L'essentiel est\ninvisible pour les yeux.[1432][NULL][NULL][0014]\nPas vrai, [1113]-kun?",
+  "attendu": 194
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Hm!? Qu'est-ce qu'ils ont...?",
+  "attendu": 74
+ },
+ {
+  "nom": "Maya",
+  "texte": "Woah ! La fête bat son plein à ce que je vois. \nÇa a l'air luxueux pour un festival \nde lycée.",
+  "attendu": 202
+ },
+ {
+  "nom": "Maya",
+  "texte": "Un souci [1113]?\nMon masque est de travers?",
+  "attendu": 90
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Que fout Yasuo bordel!?\nCe crâne ressemble\nà celui de Joker!?",
+  "attendu": 142
+ },
+ {
+  "nom": "Yasuo",
+  "texte": "A..Assez ! Arrêtez... Arrêtez !!",
+  "attendu": 80
+ },
+ {
+  "nom": "Ginko",
+  "texte": "On doit se dépêcher d'en finir, \nou tout le monde se transformera en ombres!",
+  "attendu": 168
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Yasuo ! Tu-[1205][001E] Hein ? ",
+  "attendu": 62
+ },
+ {
+  "nom": "Voix de Yasuo",
+  "texte": "Gnihihi... Vous êtes venus.",
+  "attendu": 86
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Espèce de...[1205][001E]Pourquoi transformer\nles gens en ombres !?",
+  "attendu": 132
+ },
+ {
+  "nom": "Voix de Yasuo",
+  "texte": "Nul ne sert de crier. Je ne\nfais que rendre service à ce\nlycée.",
+  "attendu": 158
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Quoi ?",
+  "attendu": 32
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Je le savais...[1205][001E]La couleur diffère\nmais c'est bien le même crâne qu'avait\nJoker.",
+  "attendu": 178
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Hé, Yasuo !",
+  "attendu": 42
+ },
+ {
+  "nom": "Yasuo",
+  "texte": "O-oui !? Pardonnez moi je suis\npacifiste !",
+  "attendu": 100
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "T'es dans l'organisation de Joker?\nPourquoi il récolte les idéaux des gens!",
+  "attendu": 170
+ },
+ {
+  "nom": "Yasuo",
+  "texte": "M-même moi je ne sais pas...",
+  "attendu": 72
+ },
+ {
+  "nom": "Maya",
+  "texte": "Wow ! Regardez cette foule...[1205][001E] Les Muses\nsont vraiment populaires.",
+  "attendu": 148
+ },
+ {
+  "nom": "Yukino",
+  "texte": "On dirait qu'ils se disputent.",
+  "attendu": 78
+ },
+ {
+  "nom": "Homme qui danse",
+  "texte": "Je veut être dans le clip !\nRegardez-moi danser !",
+  "attendu": 134
+ },
+ {
+  "nom": "Homme aux cheveux longs",
+  "texte": "Je suis bien meilleur que ce minable !\nJe chante à la gare tous les soirs.\nje sais chanter\ndevant une foule !",
+  "attendu": 270
+ },
+ {
+  "nom": "Assistant",
+  "texte": "Qui prendre ? On m'a dit de prendre quelqu'un \nqui en jette...",
+  "attendu": 148
+ },
+ {
+  "nom": "Directeur",
+  "texte": "C'est la bonne prise ![1205][001E] Et... action !",
+  "attendu": 102
+ },
+ {
+  "nom": "Miho",
+  "texte": "Où est-ce que t'étais passée Lisa ?\nOn t'a cherchée absolument partout !",
+  "attendu": 158
+ },
+ {
+  "nom": "Miho",
+  "texte": "Où est-ce que t'étais passée Lisa ?\nOn t'a cherchée absolument partout !",
+  "attendu": 158
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Vos débuts étaient donc vrais.\nEt la rumeur du 3e membre...",
+  "attendu": 134
+ },
+ {
+  "nom": "Mami",
+  "texte": "Lisa, tu te souviens de notre photo\nPrint Club ? On l'a affichée avec\nle vœu de devenir idoles toutes les trois.",
+  "attendu": 238
+ },
+ {
+  "nom": "Meteor Masa",
+  "texte": "...Et voilà! Nous attendons plus de\nlettres de VOTRE PART, auditeurs!",
+  "attendu": 166
+ },
+ {
+  "nom": "Meteor Masa",
+  "texte": "À ce propos, Ginji, tu as dit que tu avais une annonce\nimportante à faire aujourd'hui. Tu ne veux pas dire...?[1205][001E]",
+  "attendu": 252
+ },
+ {
+  "nom": "???",
+  "texte": "Ahahah...[1205][001E]Là tu m'as eu. Ouais,\nc'est le moment. Il semblerait que notre dernière invitée\nvient d'arriver.",
+  "attendu": 226
+ },
+ {
+  "nom": "Ginji",
+  "texte": "Je vais donné aux gens ce qu'ils veulent\net que j'annonce le troisième membre de Muses![1205][001E]\nLisa Silverman! Te voilà!",
+  "attendu": 246
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Bon sang! Je fais quoi, [1113]!?\nKaumena! Aide moi!",
+  "attendu": 108
+ },
+ {
+  "nom": "Maya",
+  "texte": "On dirait la porte de derrière. Comment\non rentre?",
+  "attendu": 114
+ },
+ {
+  "nom": "Maya",
+  "texte": "Même si on dit qu'on est là pour une\ninterview, ils vont le voir une fois qu'ils\nverront qu'on n'a pas rendez-vous...",
+  "attendu": 248
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Hé! Il y'a des gars qui ressemblent\nà du personnel par là. On dirait qu'ils se la coulent douce\nau travail.",
+  "attendu": 234
+ },
+ {
+  "nom": "Yukino",
+  "texte": "Yep, on dirait. S'ils sont employés à temps-\npartiel, ils ont peut-être des badges.",
+  "attendu": 184
+ },
+ {
+  "nom": "Yukino",
+  "texte": "Pourquoi ne pas leur racheter? On dira\nqu'on n'a pas pu avoir de billets.",
+  "attendu": 164
+ },
+ {
+  "nom": "Maya",
+  "texte": "On dirait qu'elles sont devenues\nidoles avec la même rumeur que Lisa.",
+  "attendu": 152
+ },
+ {
+  "nom": "Yukino",
+  "texte": "SPADE...?[1205][001E] C'est quoi ce nom à la\nnoix? Elles espèrent vendre des disques?",
+  "attendu": 168
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "C'est dur, Yukino-san. Même si j'avoue\nque c'est plutôt bête... Je devrais être\nsympa et demander un autographe, non?",
+  "attendu": 254
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Écoutez, les filles! Un autographe\nd'un futur grand rockeur, ça vous dit?\nIl vaudra de l'or d'ici quelques années!",
+  "attendu": 248
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Ce pervers est juste à côté!\nJe parie que Ginko est avec lui!",
+  "attendu": 142
+ },
+ {
+  "nom": "Voix de Ginji",
+  "texte": "Ahaha... Mes jolis papillons...[1205][001E] L'énergie\nde vos idéaux va concrétiser les rêves\ndu Cercle Masqué...",
+  "attendu": 236
+ },
+ {
+  "nom": "Voix de Ginji",
+  "texte": "Voletez encore plus fort... Plus haut...\net plus loin...[1205][001E] Ne laissez pas ces rêves\ns'épuiser...",
+  "attendu": 224
+ },
+ {
+  "nom": "Mami[1121]& Miho",
+  "texte": "Gloire au Masque...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Prince Taureau\nGinji Sasaki...[1205][001E] ou plutôt\nPrince Taureau, vous présente\nun nouveau membre.",
+  "attendu": 266
+ },
+ {
+  "nom": "Prince Taureau",
+  "texte": "Lisa...[1205][001E] Appelle\nMaître Joker.",
+  "attendu": 96
+ },
+ {
+  "nom": "Mami",
+  "texte": "Lisa...[1205][001E] On s'envole ensemble, ok?",
+  "attendu": 84
+ },
+ {
+  "nom": "Roi Lion",
+  "texte": "Il semble que les choses ont dérapé,\nTaurus.[1205][001E] C'est bien l'Étoile Maudite\nprédite par les cieux...[1205][001E]\nTu ne devrais pas les prendre de haut.",
+  "attendu": 302
+ },
+ {
+  "nom": "Prince Taureau",
+  "texte": "Ngh...[1205][001E] La [1432][NULL][NULL][0014]chanson étrangère[1432][NULL][NULL][0014] s'est\nfinie...[1205][001E] Ma tâche est presque finie.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Prince Taureau\nLe crâne de cristal de la Terre sera\nbientôt plein...[1205][001E] Je m'assurerai que\ntout soit prêt pour la Fin de Nahui-Ollin...",
+  "attendu": 484
+ },
+ {
+  "nom": "Maya",
+  "texte": "Quel est votre but avec ces crânes qui\nrécoltent le cœur rêveur des gens !?\nC'est quoi cette [1432][NULL][NULL][0014]Fin de Nahui-Ollin[1432][NULL][NULL][0014] !?",
+  "attendu": 258
+ },
+ {
+  "nom": "Roi Lion",
+  "texte": "Quitte ces lieux, Taurus. Si tu meurs\nmaintenant, tu gêneras le plan.",
+  "attendu": 160
+ },
+ {
+  "nom": "Prince Taureau",
+  "texte": "Je... ne peux partir sans rien.",
+  "attendu": 96
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Hé! C'est la voix de Ginko!",
+  "attendu": 74
+ },
+ {
+  "nom": "Voix de Mami",
+  "texte": "Attends, tu plaisantes? Lisa...?",
+  "attendu": 94
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Je savais pas que Ginko était\nsi stressée...",
+  "attendu": 108
+ },
+ {
+  "nom": "Mami",
+  "texte": "...Ginji a raison.",
+  "attendu": 50
+ },
+ {
+  "nom": "Miho",
+  "texte": "Vite, appelle Maître Joker...",
+  "attendu": 72
+ },
+ {
+  "nom": "Maya",
+  "texte": "Attends, Eikichi! Ça l'aidera pas\nd'y aller par la force!",
+  "attendu": 128
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Tu racontes quoi!? À ce rythme,\nGinko va se faire manipuler\net nous trahir!",
+  "attendu": 170
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Je savais pas que Ginko était\nsi stressée...",
+  "attendu": 108
+ },
+ {
+  "nom": "Yukino",
+  "texte": "Je compatis un peu...[1205][001E] Se faire\nbousculer et ignorer juste parce\nqu'on est différent...",
+  "attendu": 194
+ },
+ {
+  "nom": "Voix de Ginko[E4][NULL][NULL][0002]",
+  "texte": "Faut que j'y réfléchisse...",
+  "attendu": 94
+ },
+ {
+  "nom": "Eikichi",
+  "texte": "Hé, [1113]! Ginko est partie!\nIls vont la manipuler pour\nqu'elle nous trahisse!",
+  "attendu": 168
+ },
+ {
+  "nom": "Maya",
+  "texte": "Faites confiance à Lisa...[1205][001E] Un rêve n'est\npas une béquille ni un cadeau qu'on\nreçoit. Je suis sûre qu'elle comprendra.",
+  "attendu": 252
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Me faites pas répéter ! C'est n'importe\nquoi que je sois douée en anglais.\nJe baragouine à peine un mot !",
+  "attendu": 226
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Tous les blonds parlent anglais !?\nC'est si bizarre qu'une fille aux yeux\nbleus parle japonais ? J'suis un monstre !?",
+  "attendu": 250
+ },
+ {
+  "nom": "Miho",
+  "texte": "T-T'es pas bizarre...[1205][001E] T'es\ncool car tu te démarques, Lisa.",
+  "attendu": 134
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Donc j'étais harcelée pour ça avant, mais\ndésormais c'est [1432][NULL][NULL][0014]cool[1432][NULL][NULL][0014]? C'est [1432][NULL][NULL][0014]unique[1432][NULL][NULL][0014]?[1205][001E]\nJ'en ai marre que les autres me définissent!",
+  "attendu": 296
+ },
+ {
+  "nom": "Ginko",
+  "texte": "Mon père ne m'a jamais appris l'anglais...[1205][001E]\nMais tous croient que les étrangers\nle parlent...[1205][001E] Faut se démarquer...",
+  "attendu": 250
+ }
+]
