@@ -1,0 +1,805 @@
+{
+ "no": 7,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pourquoi tout ce foin"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour une simple horloge?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's the matter? Why all this fuss over"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a clock starting?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pourquoi tout ce foin\npour une simple horloge?",
+   "brut_en": "What's[SP]the[SP]matter?[SP]Why[SP]all[SP]this[SP]fuss[SP]over\na[SP]clock[SP]starting?",
+   "data_size": 144,
+   "budget": 136
+  },
+  {
+   "id": 1,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y'a des tonnes de rumeurs flippantes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur cette tour! Des fantômes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et d'autres trucs quand"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'horloge redémarre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's tons of scary rumors about this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tower! Like, ghosts appearing and other"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bad stuff when the clock starts again."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Y'a des tonnes de rumeurs flippantes\nsur cette tour! Des fantômes\net d'autres trucs quand\nl'horloge redémarre.",
+   "brut_en": "There's[SP]tons[SP]of[SP]scary[SP]rumors[SP]about[SP]this\ntower![SP]Like,[SP]ghosts[SP]appearing[SP]and[SP]other\nbad[SP]stuff[SP]when[SP]the[SP]clock[SP]starts[SP]again.",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 2,
+   "nom_fr": "Concierge",
+   "nom_en": "Janitor",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh non... Mauvais présage..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Namu Amida Butsu, Namu Amida Butsu..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh no... What a terrible omen..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Namu Amida Butsu, Namu Amida Butsu..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh non... Mauvais présage...\nNamu Amida Butsu, Namu Amida Butsu...",
+   "brut_en": "Oh[SP]no...[SP]What[SP]a[SP]terrible[SP]omen...\nNamu[SP]Amida[SP]Butsu,[SP]Namu[SP]Amida[SP]Butsu...",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Du calme, pépé ! Y'a pas de quoi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avoir peur. Tant que je suis dans le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "coin, t'as pas à t'en faire !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Take it easy, gramps! There's no need to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be scared. Long as I'm around, you got"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nothing to worry about!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Du calme, pépé ! Y'a pas de quoi\navoir peur. Tant que je suis dans le\ncoin, t'as pas à t'en faire !",
+   "brut_en": "Take[SP]it[SP]easy,[SP]gramps![SP]There's[SP]no[SP]need[SP]to\nbe[SP]scared.[SP]Long[SP]as[SP]I'm[SP]around,[SP]you[SP]got\nnothing[SP]to[SP]worry[SP]about!",
+   "data_size": 232,
+   "budget": 224
+  },
+  {
+   "id": 4,
+   "nom_fr": "Concierge",
+   "nom_en": "Janitor",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non! Un malheur va arriver!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Avant sa mort, le prof a dit: "
+      },
+      {
+       "enc": "Le monde"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "finira si on n'arrête pas le temps."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No! Something awful will happen! Before"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he died, that teacher said, "
+      },
+      {
+       "enc": "The world"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "will end if time is not stopped."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non! Un malheur va arriver!\nAvant sa mort, le prof a dit: [1432][NULL][NULL][0014]Le monde\nfinira si on n'arrête pas le temps.[1432][NULL][NULL][0014]",
+   "brut_en": "No![SP]Something[SP]awful[SP]will[SP]happen![SP]Before\nhe[SP]died,[SP]that[SP]teacher[SP]said,[SP][1432][NULL][NULL][0014]The[SP]world\nwill[SP]end[SP]if[SP]time[SP]is[SP]not[SP]stopped.[1432][NULL][NULL][0014]",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 5,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous parlez de..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ce prof mort"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dans la tour de l'horloge ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Are you talking about..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " that teacher who"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "died in the clock tower?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous parlez de...[1205][0014] ce prof mort\ndans la tour de l'horloge ?",
+   "brut_en": "Are[SP]you[SP]talking[SP]about...[1205][0014][SP]that[SP]teacher[SP]who\ndied[SP]in[SP]the[SP]clock[SP]tower?",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 6,
+   "nom_fr": "Concierge",
+   "nom_en": "Janitor",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oui, c'est ça... Ce prof a sacrifié"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sa vie pour sauver les enfants"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et assurer la paix mondiale!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yes, that's right... That teacher nobly"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sacrificed his life to save the children"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and ensure world peace!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oui, c'est ça... Ce prof a sacrifié\nsa vie pour sauver les enfants\net assurer la paix mondiale!",
+   "brut_en": "Yes,[SP]that's[SP]right...[SP]That[SP]teacher[SP]nobly\nsacrificed[SP]his[SP]life[SP]to[SP]save[SP]the[SP]children\nand[SP]ensure[SP]world[SP]peace!",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 7,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non... Impossible! "
+      },
+      {
+       "enc": "Les sept Pléiades"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "ont libéré le temps figé"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "commencé!?"
+      }
+     ]
+    },
+    {
+     "nom": "Mme Ideal",
+     "seg": [
+      {
+       "t": "*halète*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " La Pierre Narurato!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Et la Pierre Narurato!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No... This can't be! "
+      },
+      {
+       "enc": "The seven Pleiades set"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "the frozen time free"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Has it begun!?"
+      }
+     ]
+    },
+    {
+     "nom": "Ms. Ideal",
+     "seg": [
+      {
+       "t": "*gasp*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The Narurato Stone! What about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the Narurato Stone!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non... Impossible! [1432][NULL][NULL][0014]Les sept Pléiades\nont libéré le temps figé[1432][NULL][NULL][0014]...[1205][001E] Ça a\ncommencé!?[E1][E2]\n[E3][E4][NULL][NULL]\"Mme Ideal\n*halète*[1205][0014] La Pierre Narurato!\nEt la Pierre Narurato!?",
+   "brut_en": "No...[SP]This[SP]can't[SP]be![SP][1432][NULL][NULL][0014]The[SP]seven[SP]Pleiades[SP]set\nthe[SP]frozen[SP]time[SP]free[1432][NULL][NULL][0014]...[1205][001E][SP]Has[SP]it[SP]begun!?[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\n*gasp*[1205][0014][SP]The[SP]Narurato[SP]Stone![SP]What[SP]about\nthe[SP]Narurato[SP]Stone!?",
+   "data_size": 370,
+   "budget": 362
+  },
+  {
+   "id": 8,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'est-ce qui prend à Mme Ideal?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Cette journée peut être pire!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's gotten into Ms. Ideal? Can this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "day get any crazier!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'est-ce qui prend à Mme Ideal?\nCette journée peut être pire!?",
+   "brut_en": "What's[SP]gotten[SP]into[SP]Ms.[SP]Ideal?[SP]Can[SP]this\nday[SP]get[SP]any[SP]crazier!?",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 9,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La grande horloge a redémarré,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "alors... je dirais oui!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The big clock's started again, so..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'd say yes!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La grande horloge a redémarré,\nalors... je dirais oui!",
+   "brut_en": "The[SP]big[SP]clock's[SP]started[SP]again,[SP]so...\nI'd[SP]say[SP]yes!",
+   "data_size": 134,
+   "budget": 126
+  },
+  {
+   "id": 10,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On peut stopper la malédiction"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en retirant les emblèmes de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nos uniformes!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Can we really prevent the curse by"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "taking the emblems off our uniforms!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On peut stopper la malédiction\nen retirant les emblèmes de\nnos uniformes!?",
+   "brut_en": "Can[SP]we[SP]really[SP]prevent[SP]the[SP]curse[SP]by\ntaking[SP]the[SP]emblems[SP]off[SP]our[SP]uniforms!?",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 11,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Iiiiik !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eeeek!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Iiiiik !",
+   "brut_en": "Eeeek!",
+   "data_size": 54,
+   "budget": 46
+  },
+  {
+   "id": 12,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh dieu! T-Ton visage...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh god! Y-Your face...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh dieu! T-Ton visage...!",
+   "brut_en": "Oh[SP]god![SP]Y-Your[SP]face...!",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 13,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est la malédiction de l'emblème!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The curse! It's the emblem curse!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est la malédiction de l'emblème!",
+   "brut_en": "The[SP]curse![SP]It's[SP]the[SP]emblem[SP]curse!",
+   "data_size": 106,
+   "budget": 98
+  },
+  {
+   "id": 14,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mec, quoi!? Le visage de cette fille...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dude, what!? Did that girl's face just...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mec, quoi!? Le visage de cette fille...?",
+   "brut_en": "Dude,[SP]what!?[SP]Did[SP]that[SP]girl's[SP]face[SP]just...?",
+   "data_size": 110,
+   "budget": 102
+  },
+  {
+   "id": 15,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quoi!? Qu'est-ce qui se passe!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Enlever les emblèmes de nos uniformes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "n'est donc pas suffisant!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kehhei!? What's going on!? Does this mean"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it isn't enough to take the emblems off"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "our uniforms!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quoi!? Qu'est-ce qui se passe!?\nEnlever les emblèmes de nos uniformes\nn'est donc pas suffisant!?",
+   "brut_en": "Kehhei!?[SP]What's[SP]going[SP]on!?[SP]Does[SP]this[SP]mean\nit[SP]isn't[SP]enough[SP]to[SP]take[SP]the[SP]emblems[SP]off\nour[SP]uniforms!?",
+   "data_size": 214,
+   "budget": 206
+  }
+ ]
+}

@@ -1,0 +1,888 @@
+{
+ "no": 29,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Directeur",
+   "nom_en": "Director",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est la bonne prise !"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et... action !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alright, this take's for real!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " And... Action!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est la bonne prise ![1205][001E] Et... action !",
+   "brut_en": "Alright,[SP]this[SP]take's[SP]for[SP]real![1205][001E][SP]And...[SP]Action!",
+   "data_size": 124,
+   "budget": 116
+  },
+  {
+   "id": 1,
+   "nom_fr": "Miho",
+   "nom_en": "Miho",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Où est-ce que t'étais passée Lisa ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On t'a cherchée absolument partout !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Where've you been all this time, Lisa?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We were looking all over for you!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Où est-ce que t'étais passée Lisa ?\nOn t'a cherchée absolument partout !",
+   "brut_en": "Where've[SP]you[SP]been[SP]all[SP]this[SP]time,[SP]Lisa?\nWe[SP]were[SP]looking[SP]all[SP]over[SP]for[SP]you!",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 2,
+   "nom_fr": "Miho",
+   "nom_en": "Miho",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Où est-ce que t'étais passée Lisa ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On t'a cherchée absolument partout !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Where've you been all this time, Lisa?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We were looking all over for you!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Où est-ce que t'étais passée Lisa ?\nOn t'a cherchée absolument partout !",
+   "brut_en": "Where've[SP]you[SP]been[SP]all[SP]this[SP]time,[SP]Lisa?\nWe[SP]were[SP]looking[SP]all[SP]over[SP]for[SP]you!",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vos débuts étaient donc vrais."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Et la rumeur du 3e membre..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So it was true that you made your debut."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Then the rumored third member is..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vos débuts étaient donc vrais.\nEt la rumeur du 3e membre...",
+   "brut_en": "So[SP]it[SP]was[SP]true[SP]that[SP]you[SP]made[SP]your[SP]debut.\nThen[SP]the[SP]rumored[SP]third[SP]member[SP]is...",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 4,
+   "nom_fr": "Mami",
+   "nom_en": "Mami",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lisa, tu te souviens de notre photo"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Print Club ? On l'a affichée avec"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le vœu de devenir idoles toutes les trois."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lisa, you remember that Print Club photo we"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "took here? We posted it on the board with a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "wish for us three to become idols someday."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Lisa, tu te souviens de notre photo\nPrint Club ? On l'a affichée avec\nle vœu de devenir idoles toutes les trois.",
+   "brut_en": "Lisa,[SP]you[SP]remember[SP]that[SP]Print[SP]Club[SP]photo[SP]we\ntook[SP]here?[SP]We[SP]posted[SP]it[SP]on[SP]the[SP]board[SP]with[SP]a\nwish[SP]for[SP]us[SP]three[SP]to[SP]become[SP]idols[SP]someday.",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 5,
+   "nom_fr": "Mami",
+   "nom_en": "Mami",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et ce voeu s'est exhaussé ! Sasaki a vu notre photo"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et nous a recrutées !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And the wish came true! That producer Sasaki"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "saw the photo and recruited us!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et ce voeu s'est exhaussé ! Sasaki a vu notre photo\net nous a recrutées !",
+   "brut_en": "And[SP]the[SP]wish[SP]came[SP]true![SP]That[SP]producer[SP]Sasaki\nsaw[SP]the[SP]photo[SP]and[SP]recruited[SP]us!",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 6,
+   "nom_fr": "Mami",
+   "nom_en": "Mami",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lisa, tu te souviens de notre photo"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Print Club ? On l'a affichée avec"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le vœu de devenir idoles toutes les trois."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lisa, you remember that Print Club photo we"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "took here? We posted it on the board with a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "wish for us three to become idols someday."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Lisa, tu te souviens de notre photo\nPrint Club ? On l'a affichée avec\nle vœu de devenir idoles toutes les trois.",
+   "brut_en": "Lisa,[SP]you[SP]remember[SP]that[SP]Print[SP]Club[SP]photo[SP]we\ntook[SP]here?[SP]We[SP]posted[SP]it[SP]on[SP]the[SP]board[SP]with[SP]a\nwish[SP]for[SP]us[SP]three[SP]to[SP]become[SP]idols[SP]someday.",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 7,
+   "nom_fr": "Mami",
+   "nom_en": "Mami",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et ce voeu s'est exhaussé ! Sasaki a vu notre photo"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et nous a recrutées !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And the wish came true! That producer Sasaki"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "saw the photo and recruited us!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et ce voeu s'est exhaussé ! Sasaki a vu notre photo\net nous a recrutées !",
+   "brut_en": "And[SP]the[SP]wish[SP]came[SP]true![SP]That[SP]producer[SP]Sasaki\nsaw[SP]the[SP]photo[SP]and[SP]recruited[SP]us!",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 8,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "U-Une seconde ! Je me souviens de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la photo, mais de là à être idole..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "W-Wait a sec! Sure, I remember posting that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "picture, but actually being an idol is..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "U-Une seconde ! Je me souviens de\nla photo, mais de là à être idole...",
+   "brut_en": "W-Wait[SP]a[SP]sec![SP]Sure,[SP]I[SP]remember[SP]posting[SP]that\npicture,[SP]but[SP]actually[SP]being[SP]an[SP]idol[SP]is...",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 9,
+   "nom_fr": "Miho",
+   "nom_en": "Miho",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Attends d'entendre notre chanson !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Y'a un solo en anglais juste pour toi,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "puisque tu es bilingue !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, and wait until you hear our debut song!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "There's a solo part in English for you,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "since you're bilingual!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Attends d'entendre notre chanson !\nY'a un solo en anglais juste pour toi,\npuisque tu es bilingue !",
+   "brut_en": "Oh,[SP]and[SP]wait[SP]until[SP]you[SP]hear[SP]our[SP]debut[SP]song!\nThere's[SP]a[SP]solo[SP]part[SP]in[SP]English[SP]for[SP]you,\nsince[SP]you're[SP]bilingual!",
+   "data_size": 236,
+   "budget": 228
+  },
+  {
+   "id": 10,
+   "nom_fr": "Mami",
+   "nom_en": "Mami",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lisa? Ça va?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lisa? What's wrong?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Lisa? Ça va?",
+   "brut_en": "Lisa?[SP]What's[SP]wrong?",
+   "data_size": 60,
+   "budget": 52
+  },
+  {
+   "id": 11,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'en est assez ! Je ne veux pas être une idole !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This has gone far enough! I don't want to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be an idol!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'en est assez ! Je ne veux pas être une idole !",
+   "brut_en": "This[SP]has[SP]gone[SP]far[SP]enough![SP]I[SP]don't[SP]want[SP]to\nbe[SP]an[SP]idol!",
+   "data_size": 130,
+   "budget": 122
+  },
+  {
+   "id": 12,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous me voulez juste car à deux,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vous n'attirerez personne ! Jouez pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les amies si c'est pour m'utiliser !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You only want me to join because you know you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "two alone won't get enough press! Don't act"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "like my friends when you're just using me!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous me voulez juste car à deux,\nvous n'attirerez personne ! Jouez pas\nles amies si c'est pour m'utiliser !",
+   "brut_en": "You[SP]only[SP]want[SP]me[SP]to[SP]join[SP]because[SP]you[SP]know[SP]you\ntwo[SP]alone[SP]won't[SP]get[SP]enough[SP]press![SP]Don't[SP]act\nlike[SP]my[SP]friends[SP]when[SP]you're[SP]just[SP]using[SP]me!",
+   "data_size": 288,
+   "budget": 280
+  },
+  {
+   "id": 13,
+   "nom_fr": "Miho",
+   "nom_en": "Miho",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quoi... ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " T'es terrible Lisa..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu ne nous aime plus ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wha...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That's horrible, Lisa... Do you not"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "like us anymore?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quoi... ?[1205][001E] T'es terrible Lisa...\nTu ne nous aime plus ?",
+   "brut_en": "Wha...?[1205][001E][SP]That's[SP]horrible,[SP]Lisa...[SP]Do[SP]you[SP]not\nlike[SP]us[SP]anymore?",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 14,
+   "nom_fr": "Mami",
+   "nom_en": "Mami",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Désolée d'avoir agi sans t'en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "parler. On a un direct à la radio"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Giga Macho, là."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...I'm sorry we went ahead with it without"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "asking you. We have a live radio performance"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "at Giga Macho now."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Désolée d'avoir agi sans t'en\nparler. On a un direct à la radio\nGiga Macho, là.",
+   "brut_en": "...I'm[SP]sorry[SP]we[SP]went[SP]ahead[SP]with[SP]it[SP]without\nasking[SP]you.[SP]We[SP]have[SP]a[SP]live[SP]radio[SP]performance\nat[SP]Giga[SP]Macho[SP]now.",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 15,
+   "nom_fr": "Mami",
+   "nom_en": "Mami",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rejoins-nous si tu changes d'avis."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Allez, Mee-ho..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If you change your mind, could you meet"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "us there? Come on, Mee-ho..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rejoins-nous si tu changes d'avis.\nAllez, Mee-ho...",
+   "brut_en": "If[SP]you[SP]change[SP]your[SP]mind,[SP]could[SP]you[SP]meet\nus[SP]there?[SP]Come[SP]on,[SP]Mee-ho...",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 16,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'pense pas que tu aurais dû être si crue."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "T'es sûre que tu vas juste les laisser partir ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't think you needed to be so harsh"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "on them. Are you sure you want to just let"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "them go?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'pense pas que tu aurais dû être si crue.\nT'es sûre que tu vas juste les laisser partir ?",
+   "brut_en": "I[SP]don't[SP]think[SP]you[SP]needed[SP]to[SP]be[SP]so[SP]harsh\non[SP]them.[SP]Are[SP]you[SP]sure[SP]you[SP]want[SP]to[SP]just[SP]let\nthem[SP]go?",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 17,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tais-toi ! Elles font ce qu'elles veulent. Laisse-les."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Shut up! They'll do what they feel like."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Just leave them be!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tais-toi ! Elles font ce qu'elles veulent. Laisse-les.",
+   "brut_en": "Shut[SP]up![SP]They'll[SP]do[SP]what[SP]they[SP]feel[SP]like.\nJust[SP]leave[SP]them[SP]be!",
+   "data_size": 144,
+   "budget": 136
+  },
+  {
+   "id": 18,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Calme-toi, Lisa ! Tu sais..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Devenir idoles juste avec une photo..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Le Cercle Masqué est sûrement derrière ça."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cool down for a second, Lisa! You know..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "If they got a debut off just a Print Club"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "photo, the Masked Circle might be involved."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Calme-toi, Lisa ! Tu sais...\nDevenir idoles juste avec une photo...\nLe Cercle Masqué est sûrement derrière ça.",
+   "brut_en": "Cool[SP]down[SP]for[SP]a[SP]second,[SP]Lisa![SP]You[SP]know...\nIf[SP]they[SP]got[SP]a[SP]debut[SP]off[SP]just[SP]a[SP]Print[SP]Club\nphoto,[SP]the[SP]Masked[SP]Circle[SP]might[SP]be[SP]involved.",
+   "data_size": 276,
+   "budget": 268
+  }
+ ]
+}

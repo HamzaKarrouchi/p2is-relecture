@@ -1,0 +1,614 @@
+{
+ "no": 210,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yo, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Mme Saeko te cherchait."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Un truc à propos de ton orientation..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yo, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Ms. Saeko was looking for you."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Something about guidance counseling..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Yo, [1113]! Mme Saeko te cherchait.\nUn truc à propos de ton orientation...",
+   "brut_en": "Yo,[SP][1113]![SP]Ms.[SP]Saeko[SP]was[SP]looking[SP]for[SP]you.\nSomething[SP]about[SP]guidance[SP]counseling...",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 1,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça va? Ta moto est en panne?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's up? Your motorcycle busted?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça va? Ta moto est en panne?",
+   "brut_en": "What's[SP]up?[SP]Your[SP]motorcycle[SP]busted?",
+   "data_size": 106,
+   "budget": 98
+  },
+  {
+   "id": 2,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aïe, ça craint. Je sais que réparer des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "trucs c'est pas ta tasse de thé alors rentre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plutôt en train. Voilà, le message est passée."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yikes! This looks bad. I know you're not that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "good at fixing stuff, so you might wanna take"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the train home. Well, I delivered my message."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aïe, ça craint. Je sais que réparer des\ntrucs c'est pas ta tasse de thé alors rentre\nplutôt en train. Voilà, le message est passée.",
+   "brut_en": "Yikes![SP]This[SP]looks[SP]bad.[SP]I[SP]know[SP]you're[SP]not[SP]that\ngood[SP]at[SP]fixing[SP]stuff,[SP]so[SP]you[SP]might[SP]wanna[SP]take\nthe[SP]train[SP]home.[SP]Well,[SP]I[SP]delivered[SP]my[SP]message.",
+   "data_size": 312,
+   "budget": 304
+  },
+  {
+   "id": 3,
+   "nom_fr": "Mme Saeko",
+   "nom_en": "Ms. Saeko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah! Te voilà "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Tu ne m'échapperas pas cette fois."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aha! There you are, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! You're not"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "getting away from me this time."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah! Te voilà [1113]! Tu ne m'échapperas pas cette fois.",
+   "brut_en": "Aha![SP]There[SP]you[SP]are,[SP][1113]![SP]You're[SP]not\ngetting[SP]away[SP]from[SP]me[SP]this[SP]time.",
+   "data_size": 162,
+   "budget": 154
+  },
+  {
+   "id": 4,
+   "nom_fr": "Mme Saeko",
+   "nom_en": "Ms. Saeko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bon, venons-en au faits. As-tu décidé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de ce que tu veux faire après le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "lycée?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well then, let's get straight to business."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Have you decided what you want to do"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "after graduation?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bon, venons-en au faits. As-tu décidé\nde ce que tu veux faire après le\nlycée?",
+   "brut_en": "Well[SP]then,[SP]let's[SP]get[SP]straight[SP]to[SP]business.\nHave[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 5,
+   "nom_fr": "Mme Saeko",
+   "nom_en": "Ms. Saeko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "As-tu décidé de ce que tu veux faire après le lycée?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Have you decided what you want to do"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "after graduation?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Ouais, c'est bon.",
+     "Pas encore."
+    ],
+    "question": [
+     {
+      "t": "As-tu décidé de ce que tu veux faire après le lycée?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yeah, I've decided.",
+     "Not yet."
+    ],
+    "question": [
+     {
+      "t": "Have you decided what you want to do"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "after graduation?"
+     }
+    ]
+   },
+   "brut_fr": "As-tu décidé de ce que tu veux faire après le lycée?\n[1208][0002][1432][NULL][NULL][0014]Ouais, c'est bon.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas encore.[1432][NULL][NULL][0014]",
+   "brut_en": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?\n[1208][0002][1432][NULL][NULL][0014]Yeah,[SP]I've[SP]decided.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]yet.[1432][NULL][NULL][0014]",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 6,
+   "nom_fr": "Mme Saeko",
+   "nom_en": "Ms. Saeko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah! C'est tout ce que je voulais savoir. On"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en reparlera demain lors de ton entretien."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Is that so! Well, that's all I needed to hear"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "for today. We can discuss it more tomorrow"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "at your guidance interview."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah! C'est tout ce que je voulais savoir. On\nen reparlera demain lors de ton entretien.",
+   "brut_en": "Is[SP]that[SP]so![SP]Well,[SP]that's[SP]all[SP]I[SP]needed[SP]to[SP]hear\nfor[SP]today.[SP]We[SP]can[SP]discuss[SP]it[SP]more[SP]tomorrow\nat[SP]your[SP]guidance[SP]interview.",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 7,
+   "nom_fr": "Mme Saeko",
+   "nom_en": "Ms. Saeko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vois. Rien ne presse après tout. C'est ta vie alors"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "réfléchis-y bien avant de faire ton choix."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I see. Well, there's no rush. It's your life,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "so think hard about it before you make your"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "decision."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vois. Rien ne presse après tout. C'est ta vie alors\nréfléchis-y bien avant de faire ton choix.",
+   "brut_en": "I[SP]see.[SP]Well,[SP]there's[SP]no[SP]rush.[SP]It's[SP]your[SP]life,\nso[SP]think[SP]hard[SP]about[SP]it[SP]before[SP]you[SP]make[SP]your\ndecision.",
+   "data_size": 230,
+   "budget": 222
+  },
+  {
+   "id": 8,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "......",
+   "brut_en": "......",
+   "data_size": 34,
+   "budget": 26
+  },
+  {
+   "id": 9,
+   "nom_fr": "Mami",
+   "nom_en": "Mami",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm? Un souci Lisa?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm? What's up, Lisa?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hm? Un souci Lisa?",
+   "brut_en": "Hm?[SP]What's[SP]up,[SP]Lisa?",
+   "data_size": 62,
+   "budget": 54
+  },
+  {
+   "id": 10,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "E-Euh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "J-Je vous attendais! Je savais que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vous finiriez par arriver!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "U-Umm..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I-I was just waiting around! I knew"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you guys would show up soon!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "E-Euh...[1205][001E]J-Je vous attendais! Je savais que\nvous finiriez par arriver!",
+   "brut_en": "U-Umm...[1205][001E][SP]I-I[SP]was[SP]just[SP]waiting[SP]around![SP]I[SP]knew\nyou[SP]guys[SP]would[SP]show[SP]up[SP]soon!",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 11,
+   "nom_fr": "Miho",
+   "nom_en": "Miho",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oooh, C'est "
+      },
+      {
+       "hero": "nom"
+      },
+      {
+       "t": ". Il a trop la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "classe en ce moment!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oooh, it's "
+      },
+      {
+       "hero": "nom"
+      },
+      {
+       "t": "-senpai. He's gotten so"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cool lately!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oooh, C'est [1112]. Il a trop la\nclasse en ce moment!",
+   "brut_en": "Oooh,[SP]it's[SP][1112]-senpai.[SP]He's[SP]gotten[SP]so\ncool[SP]lately!",
+   "data_size": 118,
+   "budget": 110
+  },
+  {
+   "id": 12,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T-Tu penses? Il est mal coiffé."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y-You think? He has weird hair."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T-Tu penses? Il est mal coiffé.",
+   "brut_en": "Y-You[SP]think?[SP]He[SP]has[SP]weird[SP]hair.",
+   "data_size": 84,
+   "budget": 76
+  }
+ ]
+}

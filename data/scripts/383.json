@@ -1,0 +1,165 @@
+{
+ "no": 383,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai  PV et  PC."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "My HP is currently ."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "SP is ."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai [120E][NULL] PV et [120E][U+0001] PC.",
+   "brut_en": "My[SP]HP[SP]is[SP]currently[SP][120E][NULL].\nSP[SP]is[SP][120E][U+0001].",
+   "data_size": 90,
+   "budget": 82
+  },
+  {
+   "id": 1,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai  PV et  PC."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "My HP is currently ."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "SP is ."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai [120E][NULL] PV et [120E][U+0001] PC.",
+   "brut_en": "My[SP]HP[SP]is[SP]currently[SP][120E][NULL].\nSP[SP]is[SP][120E][U+0001].",
+   "data_size": 84,
+   "budget": 76
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai  PV et  PC."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "My HP is currently ."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "SP is ."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai [120E][NULL] PV et [120E][0002] PC.",
+   "brut_en": "My[SP]HP[SP]is[SP]currently[SP][120E][NULL].\nSP[SP]is[SP][120E][0002].",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " a  HP et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": " PC."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun's HP is ."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "SP is ."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113] a [120E][U+0001] HP et\n[120E][U+0003] PC.",
+   "brut_en": "[1113]-kun's[SP]HP[SP]is[SP][120E][U+0001].\nSP[SP]is[SP][120E][U+0003].",
+   "data_size": 74,
+   "budget": 66
+  }
+ ]
+}

@@ -1,0 +1,1374 @@
+{
+ "no": 188,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Voix du père de Maya",
+   "nom_en": "Maya's father's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ecoute, Maya..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le journalisme"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est un métier noble."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On a besoin de nous..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Listen closely, Maya..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Journalism is a job"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you can be proud of. Society needs us..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ecoute, Maya...[1205][001E] Le journalisme\nest un métier noble.\nOn a besoin de nous...",
+   "brut_en": "Listen[SP]closely,[SP]Maya...[1205][001E][SP]Journalism[SP]is[SP]a[SP]job\nyou[SP]can[SP]be[SP]proud[SP]of.[SP]Society[SP]needs[SP]us...",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est pour ça..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je veux être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "reporter et transmettre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des rêves à tous..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's why..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm gonna be a reporter who"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "passes down dreams to everyone..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est pour ça...[1205][001E] Je veux être\nreporter et transmettre\ndes rêves à tous...",
+   "brut_en": "That's[SP]why...[1205][001E][SP]I'm[SP]gonna[SP]be[SP]a[SP]reporter[SP]who\npasses[SP]down[SP]dreams[SP]to[SP]everyone...",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je... désolé..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "< Ça va,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je... ça va..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm... I'm sorry..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "< It's all right,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm... okay..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je... désolé...[1205]< Ça va,\nje... ça va...",
+   "brut_en": "I'm...[SP]I'm[SP]sorry...[1205]<[SP]It's[SP]all[SP]right,\nI'm...[SP]okay...",
+   "data_size": 126,
+   "budget": 118
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça va... je... ça va..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's all right, I'm... okay..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Pleure si tu dois.",
+     "Ça fait mal, mais tiens bon."
+    ],
+    "question": [
+     {
+      "t": "Ça va... je... ça va..."
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Cry if you need to.",
+     "It hurts, but stay strong."
+    ],
+    "question": [
+     {
+      "t": "It's all right, I'm... okay..."
+     }
+    ]
+   },
+   "brut_fr": "Ça va... je... ça va...\n[1208][0002][1432][NULL][NULL][0014]Pleure si tu dois.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ça fait mal, mais tiens bon.[1432][NULL][NULL][0014]",
+   "brut_en": "It's[SP]all[SP]right,[SP]I'm...[SP]okay...\n[1208][0002][1432][NULL][NULL][0014]Cry[SP]if[SP]you[SP]need[SP]to.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It[SP]hurts,[SP]but[SP]stay[SP]strong.[1432][NULL][NULL][0014]",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sanglot*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "< Aaaaaaaaah...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sob*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "< Aaaaaaaaaaaaah...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*sanglot*[1205]< Aaaaaaaaah...!",
+   "brut_en": "*sob*[1205]<[SP]Aaaaaaaaaaaaah...!",
+   "data_size": 74,
+   "budget": 66
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je sais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je sais..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I know..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I... know..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je sais...[1205][001E] Je sais...",
+   "brut_en": "I[SP]know...[1205][001E][SP]I...[SP]know...",
+   "data_size": 70,
+   "budget": 62
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai suivi le métier de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mon père..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Peut-être pour le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dépasser..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I went into the same line of work as my dad..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maybe I was trying to outdo him..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai suivi le métier de\nmon père...[1205][001E] Peut-être pour le\ndépasser...",
+   "brut_en": "I[SP]went[SP]into[SP]the[SP]same[SP]line[SP]of[SP]work[SP]as[SP]my[SP]dad...[1205][001E]\nMaybe[SP]I[SP]was[SP]trying[SP]to[SP]outdo[SP]him...",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Papa est mort pour son rêve."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il ne m'a laissé que ça..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dad died pursuing his dream."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " All he left me"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "was this..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Papa est mort pour son rêve.[1205][001E]\nIl ne m'a laissé que ça...",
+   "brut_en": "Dad[SP]died[SP]pursuing[SP]his[SP]dream.[1205][001E][SP]All[SP]he[SP]left[SP]me\nwas[SP]this...",
+   "data_size": 136,
+   "budget": 128
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est pour ça que je voulais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "réussir comme journaliste,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et concilier travail et famille, contrairement à lui..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's why I... I wanted to be a successful"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "journalist who could balance my work with"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a family, the way he couldn't..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est pour ça que je voulais\nréussir comme journaliste,\net concilier travail et famille, contrairement à lui...",
+   "brut_en": "That's[SP]why[SP]I...[SP]I[SP]wanted[SP]to[SP]be[SP]a[SP]successful\njournalist[SP]who[SP]could[SP]balance[SP]my[SP]work[SP]with\na[SP]family,[SP]the[SP]way[SP]he[SP]couldn't...",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu as..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " déjà entendu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce poème ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Have you..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ever heard this poem before?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu as...[1205][001E] déjà entendu\nce poème ?",
+   "brut_en": "Have[SP]you...[1205][001E][SP]ever[SP]heard[SP]this[SP]poem[SP]before?",
+   "data_size": 106,
+   "budget": 98
+  },
+  {
+   "id": 10,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pire que seul / Exilé."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pire qu'exilé / Mort."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pire que mort / Oublié."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Worse than alone / Exiled."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Worse than exiled / Dead."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Worse than dead / Forgotten."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pire que seul / Exilé.[1205][001E]\nPire qu'exilé / Mort.[1205][001E]\nPire que mort / Oublié.",
+   "brut_en": "Worse[SP]than[SP]alone[SP]/[SP]Exiled.[1205][001E]\nWorse[SP]than[SP]exiled[SP]/[SP]Dead.[1205][001E]\nWorse[SP]than[SP]dead[SP]/[SP]Forgotten.",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 11,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que faut-il pour prouver"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qu'on a vécu...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Même mort, si on est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "souvenu, on continue"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "comme souvenir..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What does it take to prove you were ever"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "alive...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Even if you die, as long as you're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "remembered, you'll live on as a memory..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Que faut-il pour prouver\nqu'on a vécu...?[1205][001E] Même mort, si on est\nsouvenu, on continue\ncomme souvenir...",
+   "brut_en": "What[SP]does[SP]it[SP]take[SP]to[SP]prove[SP]you[SP]were[SP]ever\nalive...?[1205][001E][SP]Even[SP]if[SP]you[SP]die,[SP]as[SP]long[SP]as[SP]you're\nremembered,[SP]you'll[SP]live[SP]on[SP]as[SP]a[SP]memory...",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 12,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais si on est oublié..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ce n'est pas si différent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'être mort..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But then, if you're forgotten..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That's really"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "no different from being dead..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais si on est oublié...[1205][001E] Ce n'est pas si différent\nd'être mort...",
+   "brut_en": "But[SP]then,[SP]if[SP]you're[SP]forgotten...[1205][001E][SP]That's[SP]really\nno[SP]different[SP]from[SP]being[SP]dead...",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 13,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nul n'est une île..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On cherche à laisser"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une trace en autrui..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Suivre ses rêves"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "peut y aider."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No man is an island..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So we try to imprint"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "our existence in others..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Following one's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dream may be one way of doing so."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Nul n'est une île...[1205][001E] On cherche à laisser\nune trace en autrui...[1205][001E] Suivre ses rêves\npeut y aider.",
+   "brut_en": "No[SP]man[SP]is[SP]an[SP]island...[1205][001E][SP]So[SP]we[SP]try[SP]to[SP]imprint\nour[SP]existence[SP]in[SP]others...[1205][001E][SP]Following[SP]one's\ndream[SP]may[SP]be[SP]one[SP]way[SP]of[SP]doing[SP]so.",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 14,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'était pareil pour moi."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Si vous m'aviez vraiment"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "oubliée..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je ne serais peut-être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas là..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's how it was with me."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If you guys had"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "really forgotten about me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I might not be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "here right now..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'était pareil pour moi.[1205][001E] Si vous m'aviez vraiment\noubliée...[1205][001E] Je ne serais peut-être\npas là...",
+   "brut_en": "That's[SP]how[SP]it[SP]was[SP]with[SP]me.[1205][001E][SP]If[SP]you[SP]guys[SP]had\nreally[SP]forgotten[SP]about[SP]me...[1205][001E][SP]I[SP]might[SP]not[SP]be\nhere[SP]right[SP]now...",
+   "data_size": 238,
+   "budget": 230
+  },
+  {
+   "id": 15,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je n'oublierai pas !"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Jamais je n'oublierai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ma grande Maya,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ni personne ici !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I won't forget...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I won't ever forget my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big Maya, or anyone here, ever again!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je n'oublierai pas ![1205][001E] Jamais je n'oublierai\nma grande Maya,\nni personne ici !",
+   "brut_en": "I[SP]won't[SP]forget...![1205][001E][SP]I[SP]won't[SP]ever[SP]forget[SP]my\nBig[SP]Maya,[SP]or[SP]anyone[SP]here,[SP]ever[SP]again!",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 16,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Merci..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Désolée pour les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "problèmes causés."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Allons-y..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Thank you..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm sorry for whatever trouble"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I've caused."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Let's go..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Merci...[1205][001E] Désolée pour les\nproblèmes causés.[1205][001E] Allons-y...",
+   "brut_en": "Thank[SP]you...[1205][001E][SP]I'm[SP]sorry[SP]for[SP]whatever[SP]trouble\nI've[SP]caused.[1205][001E][SP]Let's[SP]go...",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 17,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est comme si j'avais enfin"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "trouvé ma place."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est là que ma Persona"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "me guide depuis dix ans..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's like... I've finally found where I belong."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "This is where my Persona has been guiding me"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "for the last ten years..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est comme si j'avais enfin\ntrouvé ma place.[1205][001E] C'est là que ma Persona\nme guide depuis dix ans...",
+   "brut_en": "It's[SP]like...[SP]I've[SP]finally[SP]found[SP]where[SP]I[SP]belong.[1205][001E]\nThis[SP]is[SP]where[SP]my[SP]Persona[SP]has[SP]been[SP]guiding[SP]me\nfor[SP]the[SP]last[SP]ten[SP]years...",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 18,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je ne veux plus que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quelqu'un souffre..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On doit vite en finir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't want anyone else to suffer..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We need to hurry and put an end to this."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je ne veux plus que\nquelqu'un souffre...[1205][001E] On doit vite en finir.",
+   "brut_en": "I[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]suffer...[1205][001E]\nWe[SP]need[SP]to[SP]hurry[SP]and[SP]put[SP]an[SP]end[SP]to[SP]this.",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 19,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rêver de devenir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une star..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dreaming of becoming a big star..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rêver de devenir\nune star...",
+   "brut_en": "Dreaming[SP]of[SP]becoming[SP]a[SP]big[SP]star...",
+   "data_size": 96,
+   "budget": 88
+  },
+  {
+   "id": 20,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Suivre la mode et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "porter des vêtements"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "branchés, c'est pareil..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Chacun veut se faire"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une place."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wearing trendy clothes and chasing after the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "latest fashion is the same thing..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Everyone's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "desperate to carve out their own niche."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Suivre la mode et\nporter des vêtements\nbranchés, c'est pareil...[1205][001E] Chacun veut se faire\nune place.",
+   "brut_en": "Wearing[SP]trendy[SP]clothes[SP]and[SP]chasing[SP]after[SP]the\nlatest[SP]fashion[SP]is[SP]the[SP]same[SP]thing...[1205][001E][SP]Everyone's\ndesperate[SP]to[SP]carve[SP]out[SP]their[SP]own[SP]niche.",
+   "data_size": 294,
+   "budget": 286
+  },
+  {
+   "id": 21,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On aime et suit ses rêves"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour ne pas disparaître"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des mémoires..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The reason why people fall in love and chase"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dreams is because they want to be remembered..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On aime et suit ses rêves\npour ne pas disparaître\ndes mémoires...",
+   "brut_en": "The[SP]reason[SP]why[SP]people[SP]fall[SP]in[SP]love[SP]and[SP]chase\ndreams[SP]is[SP]because[SP]they[SP]want[SP]to[SP]be[SP]remembered...",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 22,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais ce n'est pas si mal,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "non ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Penser ainsi n'a rien"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de mauvais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Peut-être que je ne suis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas si forte..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But that's not so bad, is it?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There's nothing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "wrong with thinking that way... is there...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maybe I'm not that strong after all.."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais ce n'est pas si mal,\nnon ?[1205][001E] Penser ainsi n'a rien\nde mauvais...[1205][001E]\nPeut-être que je ne suis\npas si forte...",
+   "brut_en": "But[SP]that's[SP]not[SP]so[SP]bad,[SP]is[SP]it?[1205][001E][SP]There's[SP]nothing\nwrong[SP]with[SP]thinking[SP]that[SP]way...[SP]is[SP]there...?[1205][001E]\nMaybe[SP]I'm[SP]not[SP]that[SP]strong[SP]after[SP]all..",
+   "data_size": 288,
+   "budget": 280
+  }
+ ]
+}

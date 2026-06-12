@@ -1,0 +1,5026 @@
+{
+ "no": 390,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et... Action !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bienvenue au Théâtre Climax de Sumaru !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est votre première visite ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Annnnnd... Action!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to Sumaru City's Climax Theater!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is this your first time here?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et... Action !\nBienvenue au Théâtre Climax de Sumaru ![U+07EA]\nC'est votre première visite ?",
+   "brut_en": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]Sumaru[SP]City's[SP]Climax[SP]Theater![U+07EA]\nIs[SP]this[SP]your[SP]first[SP]time[SP]here?",
+   "data_size": 196,
+   "budget": 188
+  },
+  {
+   "id": 1,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je m'appelle Mitsugi, votre guide"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du théâtre. Enchanté !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "My name is Mitsugi, and I'll be your guide"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to the theater. Nice to meet you!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je m'appelle Mitsugi, votre guide\ndu théâtre. Enchanté !",
+   "brut_en": "My[SP]name[SP]is[SP]Mitsugi,[SP]and[SP]I'll[SP]be[SP]your[SP]guide\nto[SP]the[SP]theater.[SP]Nice[SP]to[SP]meet[SP]you!",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 2,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ici, des films grâce aux technologies"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les plus avancées."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Here you can view films using the most"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "advanced technologies available."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ici, des films grâce aux technologies\nles plus avancées.",
+   "brut_en": "Here[SP]you[SP]can[SP]view[SP]films[SP]using[SP]the[SP]most\nadvanced[SP]technologies[SP]available.",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 3,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On dit que les images sont si nettes qu'on a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'impression de"
+      },
+      {
+       "hl": "vraiment vivre les événements du film"
+      },
+      {
+       "t": " !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They say that the pictures are so clear and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "crisp that it feels almost as if you're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "really experiencing the events of the film"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On dit que les images sont si nettes qu'on a\nl'impression de[E4][NULL][NULL][U+0006]vraiment vivre les événements du film[E4][NULL][NULL][0002] !",
+   "brut_en": "They[SP]say[SP]that[SP]the[SP]pictures[SP]are[SP]so[SP]clear[SP]and\ncrisp[SP]that[SP]it[SP]feels[SP]almost[SP]as[SP]if[SP]you're\n[E4][NULL][NULL][U+0006]really[SP]experiencing[SP]the[SP]events[SP]of[SP]the[SP]film[E4][NULL][NULL][0002]!",
+   "data_size": 332,
+   "budget": 324
+  },
+  {
+   "id": 4,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous gagnez aussi des points à chaque film"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "regardé jusqu'à la fin."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ces points s'accumulent !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You'll also earn points each time you watch"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a movie all the way to the end. These points"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "will add up!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous gagnez aussi des points à chaque film\nregardé jusqu'à la fin.\nCes points s'accumulent !",
+   "brut_en": "You'll[SP]also[SP]earn[SP]points[SP]each[SP]time[SP]you[SP]watch\na[SP]movie[SP]all[SP]the[SP]way[SP]to[SP]the[SP]end.[SP]These[SP]points\nwill[SP]add[SP]up!",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 5,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Votre niveau dépend de vos points."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous commencez à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "Framboise Noire"
+      },
+      {
+       "t": " et montez les échelons !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Your membership level is determined by the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "amount of points you have. You'll start at"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "Black Raspberry"
+      },
+      {
+       "t": " and work your way up!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Votre niveau dépend de vos points.\nVous commencez à\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise Noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et montez les échelons !",
+   "brut_en": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
+   "data_size": 340,
+   "budget": 332
+  },
+  {
+   "id": 6,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et bien sûr, plus vous êtes fidèle,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plus je serai heureux de vous revoir."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Amusez-vous bien !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And, of course, the better a patron you are,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the happier I'll be to see you visiting our"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "theater again and again. Have fun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et bien sûr, plus vous êtes fidèle,\nplus je serai heureux de vous revoir.\nAmusez-vous bien !",
+   "brut_en": "And,[SP]of[SP]course,[SP]the[SP]better[SP]a[SP]patron[SP]you[SP]are,\nthe[SP]happier[SP]I'll[SP]be[SP]to[SP]see[SP]you[SP]visiting[SP]our\ntheater[SP]again[SP]and[SP]again.[SP]Have[SP]fun!",
+   "data_size": 308,
+   "budget": 300
+  },
+  {
+   "id": 7,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Quoi ? Mon service irréprochable"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et mon explication magistrale ne suffisent pas ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous plaisantez."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...What? Wasn't my impeccable service"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and masterful explanation enough?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You've got to be joking."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Quoi ? Mon service irréprochable\net mon explication magistrale ne suffisent pas ?\nVous plaisantez.",
+   "brut_en": "...What?[SP]Wasn't[SP]my[SP]impeccable[SP]service\nand[SP]masterful[SP]explanation[SP]enough?\nYou've[SP]got[SP]to[SP]be[SP]joking.",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 8,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On vous offre déjà l'expérience sans égale"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des films les plus réalistes qui soient !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Que voulez-vous de plus ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We're already giving you the unparalleled"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "experience of seeing the most realistic movies"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "known to man! What more could you want?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On vous offre déjà l'expérience sans égale\ndes films les plus réalistes qui soient !\nQue voulez-vous de plus ?",
+   "brut_en": "We're[SP]already[SP]giving[SP]you[SP]the[SP]unparalleled\nexperience[SP]of[SP]seeing[SP]the[SP]most[SP]realistic[SP]movies\nknown[SP]to[SP]man![SP]What[SP]more[SP]could[SP]you[SP]want?",
+   "data_size": 320,
+   "budget": 312
+  },
+  {
+   "id": 9,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et... Action !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bienvenue au Théâtre Climax de Sumaru !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Annnnnnd... Action!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to the Sumaru Climax Theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et... Action !\nBienvenue au Théâtre Climax de Sumaru !",
+   "brut_en": "Annnnnnd...[SP]Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 10,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "nom"
+      },
+      {
+       "t": " !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous étiez là l'autre jour."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, aren't you "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "nom"
+      },
+      {
+       "t": "?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You were here just the other day."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah, [1113] [1112] !\nVous étiez là l'autre jour.",
+   "brut_en": "Oh,[SP]aren't[SP]you[SP][1113][SP][1112]?\nYou[SP]were[SP]here[SP]just[SP]the[SP]other[SP]day.",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 11,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et... Action !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bienvenue au Théâtre Climax !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Annnnnd... Action!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to the Sumaru Climax Theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et... Action !\nBienvenue au Théâtre Climax !",
+   "brut_en": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 12,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " ! Devenu membre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de niveau "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": " l'autre jour, n'est-ce pas ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, it's "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! You became a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "-level member the other day,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "isn't that right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah, [1113] ! Devenu membre\nde niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] l'autre jour, n'est-ce pas ?",
+   "brut_en": "Oh,[SP]it's[SP][1113]![SP]You[SP]became[SP]a\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]the[SP]other[SP]day,\nisn't[SP]that[SP]right?",
+   "data_size": 230,
+   "budget": 222
+  },
+  {
+   "id": 13,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et... Action !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bienvenue au Théâtre Climax !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Annnnnd... Action!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to the Sumaru Climax Theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et... Action !\nBienvenue au Théâtre Climax !",
+   "brut_en": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 14,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous êtes "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", membre de niveau "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Merci de votre fidélité."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "-level member."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Thank you for your continued patronage."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous êtes [1113], membre de niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].\nMerci de votre fidélité.",
+   "brut_en": "You're[SP][1113],[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.\nThank[SP]you[SP]for[SP]your[SP]continued[SP]patronage.",
+   "data_size": 216,
+   "budget": 208
+  },
+  {
+   "id": 15,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Action ! Merci de votre visite."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bienvenue au Théâtre Climax de Sumaru !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Annnnnnd... Action! Thank you for coming today."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to the Sumaru Climax Theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Action ! Merci de votre visite.\nBienvenue au Théâtre Climax de Sumaru !",
+   "brut_en": "Annnnnnd...[SP]Action![SP]Thank[SP]you[SP]for[SP]coming[SP]today.\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 16,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", membre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "niveau "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah, you're "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", the "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "member."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah, [1113], membre\nniveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_en": "Ah,[SP]you're[SP][1113],[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nmember.",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 17,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si vous avez des effets à déposer,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dites-le-nous."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If you have any loose items that you'd like"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "us to keep, let us know."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si vous avez des effets à déposer,\ndites-le-nous.",
+   "brut_en": "If[SP]you[SP]have[SP]any[SP]loose[SP]items[SP]that[SP]you'd[SP]like\nus[SP]to[SP]keep,[SP]let[SP]us[SP]know.",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 18,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Hem ! ...Action !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bienvenue au Théâtre Climax de Sumaru !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*gasp* Oh, excuse me! ...Action!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to the Sumaru Climax Theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Hem ! ...Action !\nBienvenue au Théâtre Climax de Sumaru !",
+   "brut_en": "*gasp*[SP]Oh,[SP]excuse[SP]me![SP]...Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 19,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous êtes M. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", niveau "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're Mr. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", in the "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "level."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous êtes M. [1113], niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_en": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel.",
+   "data_size": 144,
+   "budget": 136
+  },
+  {
+   "id": 20,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Action !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bienvenue au théâtre Climax !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Action!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to the Sumaru Climax Theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Action !\nBienvenue au théâtre Climax !",
+   "brut_en": "Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
+   "data_size": 154,
+   "budget": 146
+  },
+  {
+   "id": 21,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous êtes M. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", de niveau"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're Mr. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", in the "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "level of membership."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous êtes M. [1113], de niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_en": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel[SP]of[SP]membership.",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 22,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Merci infiniment de votre fidélité"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à notre théâtre !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Thank you so much for your continued patronage"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of our theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Merci infiniment de votre fidélité\nà notre théâtre !",
+   "brut_en": "Thank[SP]you[SP]so[SP]much[SP]for[SP]your[SP]continued[SP]patronage\nof[SP]our[SP]theater!",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 23,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Action !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bienvenue au théâtre Climax !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Action!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to the Sumaru Climax Theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Action !\nBienvenue au théâtre Climax !",
+   "brut_en": "Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
+   "data_size": 154,
+   "budget": 146
+  },
+  {
+   "id": 24,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vous attendais, M. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've been expecting you, Mr. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vous attendais, M. [1113] !",
+   "brut_en": "I've[SP]been[SP]expecting[SP]you,[SP]Mr.[SP][1113]!",
+   "data_size": 124,
+   "budget": 116
+  },
+  {
+   "id": 25,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quel film voulez-vous voir aujourd'hui ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What kind of movie have you come to see today?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quel film voulez-vous voir aujourd'hui ?",
+   "brut_en": "What[SP]kind[SP]of[SP]movie[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 26,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Action !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bienvenue au théâtre Climax !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Action!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to the Sumaru Climax Theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Action !\nBienvenue au théâtre Climax !",
+   "brut_en": "Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
+   "data_size": 154,
+   "budget": 146
+  },
+  {
+   "id": 27,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vous attendais, M. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've been expecting you, Mr. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vous attendais, M. [1113] !",
+   "brut_en": "I've[SP]been[SP]expecting[SP]you,[SP]Mr.[SP][1113]!",
+   "data_size": 124,
+   "budget": 116
+  },
+  {
+   "id": 28,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quel film voulez-vous voir aujourd'hui ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What kind of movie have you come to see today?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quel film voulez-vous voir aujourd'hui ?",
+   "brut_en": "What[SP]kind[SP]of[SP]movie[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 29,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Regardez un film jusqu'à la fin pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gagner des points qui s'accumulent."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If you watch a movie through to the end, you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "will earn membership points, which will add up."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Regardez un film jusqu'à la fin pour\ngagner des points qui s'accumulent.",
+   "brut_en": "If[SP]you[SP]watch[SP]a[SP]movie[SP]through[SP]to[SP]the[SP]end,[SP]you\nwill[SP]earn[SP]membership[SP]points,[SP]which[SP]will[SP]add[SP]up.",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 30,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Venez voir un spectacle !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Please take in a show sometime."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Venez voir un spectacle !",
+   "brut_en": "Please[SP]take[SP]in[SP]a[SP]show[SP]sometime.",
+   "data_size": 126,
+   "budget": 118
+  },
+  {
+   "id": 31,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Regardez un film jusqu'à la fin pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gagner des points qui s'accumulent."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If you watch a movie through to the end, you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "will earn membership points, which will add up."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Regardez un film jusqu'à la fin pour\ngagner des points qui s'accumulent.",
+   "brut_en": "If[SP]you[SP]watch[SP]a[SP]movie[SP]through[SP]to[SP]the[SP]end,[SP]you\nwill[SP]earn[SP]membership[SP]points,[SP]which[SP]will[SP]add[SP]up.",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 32,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Venez voir un spectacle !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Please take in a show sometime."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Venez voir un spectacle !",
+   "brut_en": "Please[SP]take[SP]in[SP]a[SP]show[SP]sometime.",
+   "data_size": 126,
+   "budget": 118
+  },
+  {
+   "id": 33,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Entrée en scène, côté cour..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "M. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", niveau"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Entering frame, stage left..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mr. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "-level club"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "member."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Entrée en scène, côté cour...\nM. [1113], niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_en": "Entering[SP]frame,[SP]stage[SP]left...\nMr.[SP][1113],[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]club\nmember.",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 34,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Merci de votre fidélité."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'ai une bonne mémoire pour ça !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Thank you so much for your patronage."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I have a very good memory for these things!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Merci de votre fidélité.\nJ'ai une bonne mémoire pour ça !",
+   "brut_en": "Thank[SP]you[SP]so[SP]much[SP]for[SP]your[SP]patronage.\nI[SP]have[SP]a[SP]very[SP]good[SP]memory[SP]for[SP]these[SP]things!",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 35,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les noms des niveaux deviennent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de plus en plus grandioses avec les points."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Continuez à venir !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The names of the various membership levels get"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "grander and grander as you earn points."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Please keep coming to our shows!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les noms des niveaux deviennent\nde plus en plus grandioses avec les points.\nContinuez à venir !",
+   "brut_en": "The[SP]names[SP]of[SP]the[SP]various[SP]membership[SP]levels[SP]get\ngrander[SP]and[SP]grander[SP]as[SP]you[SP]earn[SP]points.\nPlease[SP]keep[SP]coming[SP]to[SP]our[SP]shows!",
+   "data_size": 302,
+   "budget": 294
+  },
+  {
+   "id": 36,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scène XX2 :"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scene XX2:"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Scène XX2 :",
+   "brut_en": "Scene[SP]XX2:",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 37,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "UN HOMME, vu de dos. Une FEMME"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "travaille en fond. L'HOMME s'approche,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "elle se retourne. GROS PLAN sur son sourire."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "A MAN, viewed from behind. In the background,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "a tireless WOMAN working in a theater. MAN"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "approaches. She turns. CLOSE-UP on WOMAN's smile."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]UN HOMME, vu de dos. Une FEMME\ntravaille en fond. L'HOMME s'approche,\nelle se retourne. GROS PLAN sur son sourire.[1432][NULL][NULL][0014]",
+   "brut_en": "[1432][NULL][NULL][0014]A[SP]MAN,[SP]viewed[SP]from[SP]behind.[SP]In[SP]the[SP]background,\na[SP]tireless[SP]WOMAN[SP]working[SP]in[SP]a[SP]theater.[SP]MAN\napproaches.[SP]She[SP]turns.[SP]CLOSE-UP[SP]on[SP]WOMAN's[SP]smile.[1432][NULL][NULL][0014]",
+   "data_size": 354,
+   "budget": 346
+  },
+  {
+   "id": 38,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous êtes M. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", niveau"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": ". Merci de votre visite !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're Mr. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", in the "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "level of membership. Thank you for coming!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous êtes M. [1113], niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]. Merci de votre visite !",
+   "brut_en": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel[SP]of[SP]membership.[SP]Thank[SP]you[SP]for[SP]coming!",
+   "data_size": 214,
+   "budget": 206
+  },
+  {
+   "id": 39,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Votre rang a augmenté !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Félicitations."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Your club member rank has gone up!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Congratulations."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Votre rang a augmenté !\nFélicitations.",
+   "brut_en": "Your[SP]club[SP]member[SP]rank[SP]has[SP]gone[SP]up!\nCongratulations.",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 40,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh... Ce que j'ai dit à votre arrivée ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je n'en ai aucun souvenir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh... What I said as you walked in?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I have no recollection of it at this time."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh... Ce que j'ai dit à votre arrivée ?\nJe n'en ai aucun souvenir.",
+   "brut_en": "Oh...[SP]What[SP]I[SP]said[SP]as[SP]you[SP]walked[SP]in?\nI[SP]have[SP]no[SP]recollection[SP]of[SP]it[SP]at[SP]this[SP]time.",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 41,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scène XX3 :"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scene XX3:"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Scène XX3 :",
+   "brut_en": "Scene[SP]XX3:",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 42,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Une FEMME affairée."
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Elle s'agite, attendant. PANORAMIQUE."
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Ses yeux s'illuminent. Entrée en scène..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "A WOMAN is busily working. She fidgets, waiting"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "for something. PAN UP to her face. Her eyes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "suddenly light up. Enter..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Une FEMME affairée.\nElle s'agite, attendant. PANORAMIQUE.\nSes yeux s'illuminent. Entrée en scène...[1432][NULL][NULL][0014]",
+   "brut_en": "[1432][NULL][NULL][0014]A[SP]WOMAN[SP]is[SP]busily[SP]working.[SP]She[SP]fidgets,[SP]waiting\nfor[SP]something.[SP]PAN[SP]UP[SP]to[SP]her[SP]face.[SP]Her[SP]eyes\nsuddenly[SP]light[SP]up.[SP]Enter...[1432][NULL][NULL][0014]",
+   "data_size": 316,
+   "budget": 308
+  },
+  {
+   "id": 43,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tiens, M. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " ! Notre nouveau"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "membre niveau "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Why, if it isn't Mr. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", our newest"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "-level member."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tiens, M. [1113] ! Notre nouveau\nmembre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_en": "Why,[SP]if[SP]it[SP]isn't[SP]Mr.[SP][1113],[SP]our[SP]newest\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 44,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Merci de votre fidélité."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous êtes presque un habitué !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je suis très content pour vous."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Thank you for your patronage."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You're like a regular now!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm very happy for you."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Merci de votre fidélité.\nVous êtes presque un habitué !\nJe suis très content pour vous.",
+   "brut_en": "Thank[SP]you[SP]for[SP]your[SP]patronage.\nYou're[SP]like[SP]a[SP]regular[SP]now!\nI'm[SP]very[SP]happy[SP]for[SP]you.",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 45,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous êtes le seul qui me parle d'autre chose,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "alors vous êtes facile à retenir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're the only one who talks to me about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "something other than work, so you're very"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "easy to remember."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous êtes le seul qui me parle d'autre chose,\nalors vous êtes facile à retenir.",
+   "brut_en": "You're[SP]the[SP]only[SP]one[SP]who[SP]talks[SP]to[SP]me[SP]about\nsomething[SP]other[SP]than[SP]work,[SP]so[SP]you're[SP]very\neasy[SP]to[SP]remember.",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 46,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est un plaisir."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hm ? Monologue ? Quel monologue ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm very pleased to be of service to you."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hmm? Monologue? What monologue?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est un plaisir.\nHm ? Monologue ? Quel monologue ?",
+   "brut_en": "I'm[SP]very[SP]pleased[SP]to[SP]be[SP]of[SP]service[SP]to[SP]you.\nHmm?[SP]Monologue?[SP]What[SP]monologue?",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 47,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scène XX4 :"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scene XX4:"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Scène XX4 :",
+   "brut_en": "Scene[SP]XX4:",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 48,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Encore une journée. La FEMME au guichet"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "regarde par la fenêtre. Elle semble attendre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "quelqu'un. Et puis, comme toujours..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Another day at the movies. The WOMAN at the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "counter glances out the window. She seems to be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "waiting for someone. And then, as always..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Encore une journée. La FEMME au guichet\nregarde par la fenêtre. Elle semble attendre\nquelqu'un. Et puis, comme toujours...[1432][NULL][NULL][0014]",
+   "brut_en": "[1432][NULL][NULL][0014]Another[SP]day[SP]at[SP]the[SP]movies.[SP]The[SP]WOMAN[SP]at[SP]the\ncounter[SP]glances[SP]out[SP]the[SP]window.[SP]She[SP]seems[SP]to[SP]be\nwaiting[SP]for[SP]someone.[SP]And[SP]then,[SP]as[SP]always...[1432][NULL][NULL][0014]",
+   "data_size": 348,
+   "budget": 340
+  },
+  {
+   "id": 49,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*Hem* Bienvenue."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous avez atteint le niveau "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*Ahem* Welcome."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You've become a "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "-level"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "club member."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*Hem* Bienvenue.\nVous avez atteint le niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_en": "*Ahem*[SP]Welcome.\nYou've[SP]become[SP]a[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nclub[SP]member.",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 50,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je savais que vous viendriez bientôt."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oh, pas que je vous attendais."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'y pensais, c'est tout."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I thought you'd be here soon."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oh, not that I was waiting for you or anything."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I was just thinking about it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je savais que vous viendriez bientôt.\nOh, pas que je vous attendais.\nJ'y pensais, c'est tout.",
+   "brut_en": "I[SP]thought[SP]you'd[SP]be[SP]here[SP]soon.\nOh,[SP]not[SP]that[SP]I[SP]was[SP]waiting[SP]for[SP]you[SP]or[SP]anything.\nI[SP]was[SP]just[SP]thinking[SP]about[SP]it.",
+   "data_size": 276,
+   "budget": 268
+  },
+  {
+   "id": 51,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai le sens des choses."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I have a good sense for these things."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai le sens des choses.",
+   "brut_en": "I[SP]have[SP]a[SP]good[SP]sense[SP]for[SP]these[SP]things.",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 52,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scène XX5 :"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scene XX5:"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Scène XX5 :",
+   "brut_en": "Scene[SP]XX5:",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 53,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "GROS PLAN sur le visage de la FEMME. Elle regarde,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "pensive, par la fenêtre. Elle réalise qu'elle pense"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "de plus en plus à l'HOMME..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "CLOSE-UP on the WOMAN's face. She stares"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "pensively out the window. She realizes that she's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "been thinking about the MAN more and more..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]GROS PLAN sur le visage de la FEMME. Elle regarde,\npensive, par la fenêtre. Elle réalise qu'elle pense\nde plus en plus à l'HOMME...[1432][NULL][NULL][0014]",
+   "brut_en": "[1432][NULL][NULL][0014]CLOSE-UP[SP]on[SP]the[SP]WOMAN's[SP]face.[SP]She[SP]stares\npensively[SP]out[SP]the[SP]window.[SP]She[SP]realizes[SP]that[SP]she's\nbeen[SP]thinking[SP]about[SP]the[SP]MAN[SP]more[SP]and[SP]more...[1432][NULL][NULL][0014]",
+   "data_size": 348,
+   "budget": 340
+  },
+  {
+   "id": 54,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Elle est surprise quand l'HOMME apparaît, mais il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "ne s'en rend pas compte."
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Et puis, comme toujours..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "She is startled when the MAN appears, but he"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "doesn't realize that he has surprised her."
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "And then, as always..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Elle est surprise quand l'HOMME apparaît, mais il\nne s'en rend pas compte.\nEt puis, comme toujours...[1432][NULL][NULL][0014]",
+   "brut_en": "[1432][NULL][NULL][0014]She[SP]is[SP]startled[SP]when[SP]the[SP]MAN[SP]appears,[SP]but[SP]he\ndoesn't[SP]realize[SP]that[SP]he[SP]has[SP]surprised[SP]her.\nAnd[SP]then,[SP]as[SP]always...[1432][NULL][NULL][0014]",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 55,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bienvenue, M. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Welcome, Mr. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bienvenue, M. [1113].",
+   "brut_en": "Welcome,[SP]Mr.[SP][1113].",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 56,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous êtes enfin membre niveau "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de notre club. Je n'attendais pas moins."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bravo."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You've finally become a "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "-level"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "member our club. I expected nothing less."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Congratulations."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous êtes enfin membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nde notre club. Je n'attendais pas moins.\nBravo.",
+   "brut_en": "You've[SP]finally[SP]become[SP]a[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nmember[SP]our[SP]club.[SP]I[SP]expected[SP]nothing[SP]less.\nCongratulations.",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 57,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tous les employés parlent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de vous."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "All of the workers here have been talking"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "about you."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tous les employés parlent\nde vous.",
+   "brut_en": "All[SP]of[SP]the[SP]workers[SP]here[SP]have[SP]been[SP]talking\nabout[SP]you.",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 58,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je savais que ça arriverait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dès le début !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well, I knew this would happen from the very"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "beginning!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je savais que ça arriverait\ndès le début !",
+   "brut_en": "Well,[SP]I[SP]knew[SP]this[SP]would[SP]happen[SP]from[SP]the[SP]very\nbeginning!",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 59,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tout le monde monte dans mon train..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pour ainsi dire. Héhé."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Everyone else is just jumping on my bandwagon..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "So to speak. Hehe."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tout le monde monte dans mon train...\nPour ainsi dire. Héhé.",
+   "brut_en": "Everyone[SP]else[SP]is[SP]just[SP]jumping[SP]on[SP]my[SP]bandwagon...\nSo[SP]to[SP]speak.[SP]Hehe.",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 60,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scène XX6 :"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Scene XX6:"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Scène XX6 :",
+   "brut_en": "Scene[SP]XX6:",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 61,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "La FEMME, de dos. Elle travaille avec ardeur,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "le bruit de pas se mêle à l'agitation"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "de la ville."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "The WOMAN, from behind. She is working busily,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "and the sounds of footsteps play over the general"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "rush of the city."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]La FEMME, de dos. Elle travaille avec ardeur,\nle bruit de pas se mêle à l'agitation\nde la ville.[1432][NULL][NULL][0014]",
+   "brut_en": "[1432][NULL][NULL][0014]The[SP]WOMAN,[SP]from[SP]behind.[SP]She[SP]is[SP]working[SP]busily,\nand[SP]the[SP]sounds[SP]of[SP]footsteps[SP]play[SP]over[SP]the[SP]general\nrush[SP]of[SP]the[SP]city.[1432][NULL][NULL][0014]",
+   "data_size": 306,
+   "budget": 298
+  },
+  {
+   "id": 62,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Elle entend les pas et se retourne, certaine"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "que c'est lui : l'homme célèbre au théâtre,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "qui gagne sa place dans son cœur."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "She hears the footsteps and turns around, sure"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "that it is him: the man whose name is famous in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "the theater, who's making his way into her heart."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Elle entend les pas et se retourne, certaine\nque c'est lui : l'homme célèbre au théâtre,\nqui gagne sa place dans son cœur.[1432][NULL][NULL][0014]",
+   "brut_en": "[1432][NULL][NULL][0014]She[SP]hears[SP]the[SP]footsteps[SP]and[SP]turns[SP]around,[SP]sure\nthat[SP]it[SP]is[SP]him:[SP]the[SP]man[SP]whose[SP]name[SP]is[SP]famous[SP]in\nthe[SP]theater,[SP]who's[SP]making[SP]his[SP]way[SP]into[SP]her[SP]heart.[1432][NULL][NULL][0014]",
+   "data_size": 366,
+   "budget": 358
+  },
+  {
+   "id": 63,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Félicitations, M. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ". Premier"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "membre de niveau "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": " de l'histoire"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de ce théâtre !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Congratulations, Mr. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ". You're the first"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": "-level member in the history of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Félicitations, M. [1113]. Premier\nmembre de niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de l'histoire\nde ce théâtre !",
+   "brut_en": "Congratulations,[SP]Mr.[SP][1113].[SP]You're[SP]the[SP]first\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]in[SP]the[SP]history[SP]of\nthis[SP]theater!",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 64,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Récemment, vous faisiez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "votre première entrée dans mon cadre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It wasn't too long ago when you first entered my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "frame."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Récemment, vous faisiez\nvotre première entrée dans mon cadre.",
+   "brut_en": "It[SP]wasn't[SP]too[SP]long[SP]ago[SP]when[SP]you[SP]first[SP]entered[SP]my\nframe.",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 65,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous êtes maintenant un personnage clé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du quotidien de nos équipes."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And now you're a major character in the jobs of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the people who work here."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous êtes maintenant un personnage clé\ndu quotidien de nos équipes.",
+   "brut_en": "And[SP]now[SP]you're[SP]a[SP]major[SP]character[SP]in[SP]the[SP]jobs[SP]of\nthe[SP]people[SP]who[SP]work[SP]here.",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 66,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Comme vous ne parlez qu'à moi,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cela me rend aussi un peu célèbre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Though, since I'm the only person you ever talk"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to, that makes me somewhat famous, too."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Comme vous ne parlez qu'à moi,\ncela me rend aussi un peu célèbre.",
+   "brut_en": "Though,[SP]since[SP]I'm[SP]the[SP]only[SP]person[SP]you[SP]ever[SP]talk\nto,[SP]that[SP]makes[SP]me[SP]somewhat[SP]famous,[SP]too.",
+   "data_size": 236,
+   "budget": 228
+  },
+  {
+   "id": 67,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Continuez à soutenir notre théâtre."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je vous suivrai de près."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Please continue to support our theater."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll be following you, too."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Continuez à soutenir notre théâtre.\nJe vous suivrai de près.",
+   "brut_en": "Please[SP]continue[SP]to[SP]support[SP]our[SP]theater.\nI'll[SP]be[SP]following[SP]you,[SP]too.",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 68,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*silence*..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*silence*..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*silence*...",
+   "brut_en": "*silence*...",
+   "data_size": 86,
+   "budget": 78
+  },
+  {
+   "id": 69,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ne devrait pas s'afficher."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "BUG !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This message should never appear."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "BUG IT!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ne devrait pas s'afficher.\nBUG !",
+   "brut_en": "This[SP]message[SP]should[SP]never[SP]appear.\nBUG[SP]IT!",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 70,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quel genre de film vous intéresse ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What genre are you interested in seeing?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "À l'affiche",
+     "Films indé",
+     "Exclusivités",
+     "Films importés",
+     "Annuler"
+    ],
+    "question": [
+     {
+      "t": "Quel genre de film vous intéresse ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Now Playing",
+     "Indie Films",
+     "Single-Theater Films",
+     "Imported Films",
+     "Cancel"
+    ],
+    "question": [
+     {
+      "t": "What genre are you interested in seeing?"
+     }
+    ]
+   },
+   "brut_fr": "Quel genre de film vous intéresse ?\n[1208][U+0005][111F]À l'affiche\n[111F][1210][U+0100]Films indé\n[111F][1210][U+0100]Exclusivités\n[111F][1210][U+0100]Films importés\n[111F]Annuler",
+   "brut_en": "What[SP]genre[SP]are[SP]you[SP]interested[SP]in[SP]seeing?\n[1208][U+0005][111F]Now[SP]Playing\n[111F][1210][U+0100]Indie[SP]Films\n[111F][1210][U+0100]Single-Theater[SP]Films\n[111F][1210][U+0100]Imported[SP]Films\n[111F]Cancel",
+   "data_size": 306,
+   "budget": 298
+  },
+  {
+   "id": 71,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, déjà fini ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, are you done already?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Autre chose ?",
+     "[E4]"
+    ],
+    "question": [
+     {
+      "t": "Oh, déjà fini ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Is there anything else?",
+     "[E4]"
+    ],
+    "question": [
+     {
+      "t": "Oh, are you done already?"
+     }
+    ]
+   },
+   "brut_fr": "Oh, déjà fini ?\n[1208][U+0005][111F]À l'affiche\n[111F][1210][U+0100]Films indé\n[111F][1210][U+0100]Exclusivités\n[111F][1210][U+0100]Films importés\n[111F]Annuler\n[1109][E2][E3][111F][E4][NULL][NULL]\"Mitsugi, la guide du théâtre\n[111F]Aucun chemin ne mène à cette ligne,\n[111F]cette catégorie peut disparaître.\n[111F]Saut vers [E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]Autre chose ?[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
+   "brut_en": "Oh,[SP]are[SP]you[SP]done[SP]already?\n[1208][U+0005][111F]Now[SP]Playing\n[111F][1210][U+0100]Indie[SP]Films\n[111F][1210][U+0100]Single-Theater[SP]Films\n[111F][1210][U+0100]Imported[SP]Films\n[111F]Cancel\n[1109][E2][E3][111F][E4][NULL][NULL]\"Mitsugi,[SP]the[SP]Theater[SP]Guide\n[111F]There[SP]is[SP]no[SP]path[SP]to[SP]this[SP]line[SP]in[SP]the[SP]resources,\n[111F]so[SP]this[SP]category[SP]may[SP]go[SP]away.\n[111F]Jump[SP]to[SP][E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]Is[SP]there[SP]anything[SP]else?[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
+   "data_size": 602,
+   "budget": 594
+  },
+  {
+   "id": 72,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "De quoi voulez-vous parler ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What would you like to talk about?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Sur le théâtre",
+     "Sur les rangs du club",
+     "CATÉGORIE CACHÉE"
+    ],
+    "question": [
+     {
+      "t": "De quoi voulez-vous parler ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about the theater",
+     "Ask about the club ranks",
+     "UNDISPLAYED CATEGORY"
+    ],
+    "question": [
+     {
+      "t": "What would you like to talk about?"
+     }
+    ]
+   },
+   "brut_fr": "De quoi voulez-vous parler ?\n[1208][U+0004]Bavarder\nSur le théâtre\nSur les rangs du club\n[1210][U+0100]CATÉGORIE CACHÉE",
+   "brut_en": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][U+0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]theater\nAsk[SP]about[SP]the[SP]club[SP]ranks\n[1210][U+0100]UNDISPLAYED[SP]CATEGORY",
+   "data_size": 310,
+   "budget": 302
+  },
+  {
+   "id": 73,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Savourez un climax au Théâtre Climax !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Please enjoy a climax at the Climax Theater!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Savourez un climax au Théâtre Climax !"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "Please enjoy a climax at the Climax Theater!"
+     }
+    ]
+   },
+   "brut_fr": "Savourez un climax au Théâtre Climax !\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "Please[SP]enjoy[SP]a[SP]climax[SP]at[SP]the[SP]Climax[SP]Theater!\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 74,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que ferez-vous aujourd'hui ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What would you like to do today?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Que ferez-vous aujourd'hui ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "What would you like to do today?"
+     }
+    ]
+   },
+   "brut_fr": "Que ferez-vous aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "What[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 75,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alors, que ferez-vous aujourd'hui ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well, what would you like to do today?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Alors, que ferez-vous aujourd'hui ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "Well, what would you like to do today?"
+     }
+    ]
+   },
+   "brut_fr": "Alors, que ferez-vous aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 76,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alors, que ferez-vous aujourd'hui ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well, what would you like to do today?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Alors, que ferez-vous aujourd'hui ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "Well, what would you like to do today?"
+     }
+    ]
+   },
+   "brut_fr": "Alors, que ferez-vous aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 77,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alors, que ferez-vous aujourd'hui ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well, what would you like to do today?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Alors, que ferez-vous aujourd'hui ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "Well, what would you like to do today?"
+     }
+    ]
+   },
+   "brut_fr": "Alors, que ferez-vous aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 78,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bienvenue !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Quel film venez-vous voir aujourd'hui ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Welcome!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "What kind of film have you come to see today?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Bienvenue !"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Quel film venez-vous voir aujourd'hui ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "Welcome!"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "What kind of film have you come to see today?"
+     }
+    ]
+   },
+   "brut_fr": "Bienvenue !\nQuel film venez-vous voir aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "Welcome!\nWhat[SP]kind[SP]of[SP]film[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 79,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un film vous intéresse-t-il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en particulier ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Is there a particular film you are interested"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in seeing?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Un film vous intéresse-t-il"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "en particulier ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "Is there a particular film you are interested"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "in seeing?"
+     }
+    ]
+   },
+   "brut_fr": "Un film vous intéresse-t-il\nen particulier ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "Is[SP]there[SP]a[SP]particular[SP]film[SP]you[SP]are[SP]interested\nin[SP]seeing?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 290,
+   "budget": 282
+  },
+  {
+   "id": 80,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Notre théâtre fera tout son possible"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour offrir à ses hôtes la meilleure"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "expérience de cinéma !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Our theater will do everything it can to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ensure that our guests have the best"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "moviegoing experience!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Notre théâtre fera tout son possible"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "pour offrir à ses hôtes la meilleure"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "expérience de cinéma !"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "Our theater will do everything it can to"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "ensure that our guests have the best"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "moviegoing experience!"
+     }
+    ]
+   },
+   "brut_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma !\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 378,
+   "budget": 370
+  },
+  {
+   "id": 81,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Notre théâtre fera tout son possible"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour offrir à ses hôtes la meilleure"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "expérience de cinéma !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Our theater will do everything it can to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ensure that our guests have the best"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "moviegoing experience!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Notre théâtre fera tout son possible"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "pour offrir à ses hôtes la meilleure"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "expérience de cinéma !"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "Our theater will do everything it can to"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "ensure that our guests have the best"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "moviegoing experience!"
+     }
+    ]
+   },
+   "brut_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma !\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 378,
+   "budget": 370
+  },
+  {
+   "id": 82,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et... Coupez ! Bon travail !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Points crédités sur votre compte."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Annnnnnd... Cut! Good job!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Let me add your points to your account."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et... Coupez ! Bon travail !\nPoints crédités sur votre compte.",
+   "brut_en": "Annnnnnd...[SP]Cut![SP]Good[SP]job!\nLet[SP]me[SP]add[SP]your[SP]points[SP]to[SP]your[SP]account.",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 83,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'attendrai votre retour."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'll be waiting for you to return."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'attendrai votre retour.",
+   "brut_en": "I'll[SP]be[SP]waiting[SP]for[SP]you[SP]to[SP]return.",
+   "data_size": 132,
+   "budget": 124
+  },
+  {
+   "id": 84,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Coupez ! C'est un peu décevant..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'attendrai votre retour."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Cut! That was a bit of a disappointment..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll be waiting for you to return."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Coupez ! C'est un peu décevant...\nJ'attendrai votre retour.",
+   "brut_en": "...Cut![SP]That[SP]was[SP]a[SP]bit[SP]of[SP]a[SP]disappointment...\nI'll[SP]be[SP]waiting[SP]for[SP]you[SP]to[SP]return.",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 85,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Autre chose pour vous ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Is there anything else I can do for you?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Choisir un film",
+     "Théâtre Climax",
+     "Parler",
+     "Quitter le théâtre"
+    ],
+    "question": [
+     {
+      "t": "Autre chose pour vous ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Select a film",
+     "Climax Theater",
+     "Talk",
+     "Leave the theater"
+    ],
+    "question": [
+     {
+      "t": "Is there anything else I can do for you?"
+     }
+    ]
+   },
+   "brut_fr": "Autre chose pour vous ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_en": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]do[SP]for[SP]you?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 86,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vais vous expliquer le "
+      },
+      {
+       "hl": "théâtre"
+      },
+      {
+       "t": "."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous devez "
+      },
+      {
+       "hl": "choisir un film"
+      },
+      {
+       "t": " à regarder."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Very well, I'll explain how our "
+      },
+      {
+       "hl": "theater"
+      },
+      {
+       "t": " works."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "At our theater, you must "
+      },
+      {
+       "hl": "select a film"
+      },
+      {
+       "t": " to watch."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vais vous expliquer le [E4][NULL][NULL][U+0006]théâtre[E4][NULL][NULL][0002].\nVous devez [E4][NULL][NULL][U+0006]choisir un film[E4][NULL][NULL][0002] à regarder.",
+   "brut_en": "Very[SP]well,[SP]I'll[SP]explain[SP]how[SP]our[SP][E4][NULL][NULL][U+0006]theater[E4][NULL][NULL][0002][SP]works.\nAt[SP]our[SP]theater,[SP]you[SP]must[SP][E4][NULL][NULL][U+0006]select[SP]a[SP]film[E4][NULL][NULL][0002][SP]to[SP]watch.",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 87,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les films "
+      },
+      {
+       "enc": "À l'affiche"
+      },
+      {
+       "t": " sont des films"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de notre sélection pour ce théâtre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The "
+      },
+      {
+       "enc": "Now Playing"
+      },
+      {
+       "t": " films are movies that we have"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prepared here for this theater."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les films [E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]À l'affiche[1432][NULL][NULL][0014][E4][NULL][NULL][0002] sont des films\nde notre sélection pour ce théâtre.",
+   "brut_en": "The[SP][E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]Now[SP]Playing[1432][NULL][NULL][0014][E4][NULL][NULL][0002][SP]films[SP]are[SP]movies[SP]that[SP]we[SP]have\nprepared[SP]here[SP]for[SP]this[SP]theater.",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 88,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous pouvez quitter votre siège,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais vous ne gagnerez pas de points."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Faites attention."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You can leave your seat while the film is showing,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but if you do, you will not earn points for"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "watching it. Please be careful."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous pouvez quitter votre siège,\nmais vous ne gagnerez pas de points.\nFaites attention.",
+   "brut_en": "You[SP]can[SP]leave[SP]your[SP]seat[SP]while[SP]the[SP]film[SP]is[SP]showing,\nbut[SP]if[SP]you[SP]do,[SP]you[SP]will[SP]not[SP]earn[SP]points[SP]for\nwatching[SP]it.[SP]Please[SP]be[SP]careful.",
+   "data_size": 316,
+   "budget": 308
+  },
+  {
+   "id": 89,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous voulez en savoir plus sur le classement ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Très bien, je vous explique."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You would like to learn more about the ranking"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "system? Very well, I'll explain it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous voulez en savoir plus sur le classement ?\nTrès bien, je vous explique.",
+   "brut_en": "You[SP]would[SP]like[SP]to[SP]learn[SP]more[SP]about[SP]the[SP]ranking\nsystem?[SP]Very[SP]well,[SP]I'll[SP]explain[SP]it.",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 90,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "De bas en haut, les niveaux sont :"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Framboise Noire, Gant Blanc, Homme de Bronze..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "From the bottom, the ranks are:"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Black Raspberry, White Glove, Bronze Man..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "De bas en haut, les niveaux sont :\nFramboise Noire, Gant Blanc, Homme de Bronze...",
+   "brut_en": "From[SP]the[SP]bottom,[SP]the[SP]ranks[SP]are:\nBlack[SP]Raspberry,[SP]White[SP]Glove,[SP]Bronze[SP]Man...",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 91,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Palme d'Argent, Ours d'Or, et notre plus haute"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "distinction, le Lion de Platine."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Silver Palm, Golden Bear, and our highest honor,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Platinum Lion."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Palme d'Argent, Ours d'Or, et notre plus haute\ndistinction, le Lion de Platine.",
+   "brut_en": "Silver[SP]Palm,[SP]Golden[SP]Bear,[SP]and[SP]our[SP]highest[SP]honor,\nPlatinum[SP]Lion.",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 92,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pour monter en rang, vous devrez regarder"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les films jusqu'à la fin."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "In order to raise your member rank, you will need"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to watch films all the way through to the end."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pour monter en rang, vous devrez regarder\nles films jusqu'à la fin.",
+   "brut_en": "In[SP]order[SP]to[SP]raise[SP]your[SP]member[SP]rank,[SP]you[SP]will[SP]need\nto[SP]watch[SP]films[SP]all[SP]the[SP]way[SP]through[SP]to[SP]the[SP]end.",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 93,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Essayez de monter le plus haut possible !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous ne gagnez ni argent ni objets,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais c'est amusant !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Please try to raise your ranking as high as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you can! You won't earn any money or items"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "or anything, but it's fun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Essayez de monter le plus haut possible !\nVous ne gagnez ni argent ni objets,\nmais c'est amusant !",
+   "brut_en": "Please[SP]try[SP]to[SP]raise[SP]your[SP]ranking[SP]as[SP]high[SP]as\nyou[SP]can![SP]You[SP]won't[SP]earn[SP]any[SP]money[SP]or[SP]items\nor[SP]anything,[SP]but[SP]it's[SP]fun!",
+   "data_size": 290,
+   "budget": 282
+  },
+  {
+   "id": 94,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vous attendrai pour votre prochain film."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Et... Fondu au noir !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well then, I'll be waiting for you the next"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "time you come to see a film."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Annnnnd... Fade out!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vous attendrai pour votre prochain film.\nEt... Fondu au noir !",
+   "brut_en": "Well[SP]then,[SP]I'll[SP]be[SP]waiting[SP]for[SP]you[SP]the[SP]next\ntime[SP]you[SP]come[SP]to[SP]see[SP]a[SP]film.\nAnnnnnd...[SP]Fade[SP]out!",
+   "data_size": 250,
+   "budget": 242
+  },
+  {
+   "id": 95,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Votre billet :  yens."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça vous convient ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Your ticket will be  yen."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is that all right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Votre billet :  yens."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Ça vous convient ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "Your ticket will be  yen."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Is that all right?"
+     }
+    ]
+   },
+   "brut_fr": "Votre billet : [120E][NULL] yens.\nÇa vous convient ?\n[1208][0002]Oui\nNon",
+   "brut_en": "Your[SP]ticket[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 96,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Votre billet :  yens."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça vous convient ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Your ticket will be  yen."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is that all right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Votre billet :  yens."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Ça vous convient ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "Your ticket will be  yen."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Is that all right?"
+     }
+    ]
+   },
+   "brut_fr": "Votre billet : [120E][NULL] yens.\nÇa vous convient ?\n[1208][0002]Oui\nNon",
+   "brut_en": "Your[SP]ticket[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 97,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cette séance est indisponible."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Veuillez en choisir une autre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Unfortunately, it seems that this show is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "unavailable. Please select another show."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cette séance est indisponible.\nVeuillez en choisir une autre.",
+   "brut_en": "Unfortunately,[SP]it[SP]seems[SP]that[SP]this[SP]show[SP]is\nunavailable.[SP]Please[SP]select[SP]another[SP]show.",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 98,
+   "nom_fr": "Mitsugi, la guide du théâtre",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bonne séance !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Please enjoy the show!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bonne séance !",
+   "brut_en": "Please[SP]enjoy[SP]the[SP]show!",
+   "data_size": 108,
+   "budget": 100
+  }
+ ]
+}

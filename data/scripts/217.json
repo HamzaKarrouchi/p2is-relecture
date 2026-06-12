@@ -1,0 +1,480 @@
+{
+ "no": 217,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah ! T'es encore là, vieille peau !?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il faut sortir d'ici ! Il y a des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bombes partout !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! You're still here, you old hag!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You need to get out already! There are"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bombs all over the place!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aiyah ! T'es encore là, vieille peau !?\nIl faut sortir d'ici ! Il y a des\nbombes partout !",
+   "brut_en": "Aiyah![SP]You're[SP]still[SP]here,[SP]you[SP]old[SP]hag!?\nYou[SP]need[SP]to[SP]get[SP]out[SP]already![SP]There[SP]are\nbombs[SP]all[SP]over[SP]the[SP]place!",
+   "data_size": 232,
+   "budget": 224
+  },
+  {
+   "id": 1,
+   "nom_fr": "Manager",
+   "nom_en": "Manager",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "V-Vieilles bombes !? Enfin, sortir d'ici"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avant l'explosion !"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Maya",
+     "seg": [
+      {
+       "t": "Elle était secouée..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Allez, vite,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "trouvons l'énigme et filons !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "O-Old bomb!? I mean, bombs!? I-I need to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "explode before they get out! I mean, get out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "before they explode!"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Maya",
+     "seg": [
+      {
+       "t": "She seemed pretty shook up..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'mon, let's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hurry and find that riddle thing so we can"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "grab our asses and run!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "V-Vieilles bombes !? Enfin, sortir d'ici\navant l'explosion !\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nElle était secouée...[1205][001E] Allez, vite,\ntrouvons l'énigme et filons !",
+   "brut_en": "O-Old[SP]bomb!?[SP]I[SP]mean,[SP]bombs!?[SP]I-I[SP]need[SP]to\nexplode[SP]before[SP]they[SP]get[SP]out![SP]I[SP]mean,[SP]get[SP]out\nbefore[SP]they[SP]explode!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nShe[SP]seemed[SP]pretty[SP]shook[SP]up...[1205][001E][SP]C'mon,[SP]let's\nhurry[SP]and[SP]find[SP]that[SP]riddle[SP]thing[SP]so[SP]we[SP]can\ngrab[SP]our[SP]asses[SP]and[SP]run!",
+   "data_size": 490,
+   "budget": 482
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah ! Ici aussi !? Si on ne se presse"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas, on va finir grillés !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! Here too!? If we don't hurry, we're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gonna get burned to a crisp!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aiyah ! Ici aussi !? Si on ne se presse\npas, on va finir grillés !",
+   "brut_en": "Aiyah![SP]Here[SP]too!?[SP]If[SP]we[SP]don't[SP]hurry,[SP]we're\ngonna[SP]get[SP]burned[SP]to[SP]a[SP]crisp!",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu l'as trouvé!? Génial, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Alors"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "partons vite d'ici!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You found it!? Awesome, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Then let's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "get out of here!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu l'as trouvé!? Génial, [1113]! Alors\npartons vite d'ici!",
+   "brut_en": "You[SP]found[SP]it!?[SP]Awesome,[SP][1113]![SP]Then[SP]let's\nget[SP]out[SP]of[SP]here!",
+   "data_size": 132,
+   "budget": 124
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rien ici, Yukino ! À part un soutien-gorge,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas d'indice ou quoi que ce soit !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No good on this end, Yukino-san! All I see"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is a pushup bra, no riddle or anything!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rien ici, Yukino ! À part un soutien-gorge,\npas d'indice ou quoi que ce soit !",
+   "brut_en": "No[SP]good[SP]on[SP]this[SP]end,[SP]Yukino-san![SP]All[SP]I[SP]see\nis[SP]a[SP]pushup[SP]bra,[SP]no[SP]riddle[SP]or[SP]anything!",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 5,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh ? Tu l'as trouvé ! Tu gagnes ce round."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Fichons le camp d'ici !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh? You found it! Alright, you win this round,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "let's just get the hell outta here!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh ? Tu l'as trouvé ! Tu gagnes ce round.\nFichons le camp d'ici !",
+   "brut_en": "Oh?[SP]You[SP]found[SP]it![SP]Alright,[SP]you[SP]win[SP]this[SP]round,\nlet's[SP]just[SP]get[SP]the[SP]hell[SP]outta[SP]here!",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je sèche aussi ! Et toi, Yukki ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm drawing a blank too! How about you, Yukki?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je sèche aussi ! Et toi, Yukki ?",
+   "brut_en": "I'm[SP]drawing[SP]a[SP]blank[SP]too![SP]How[SP]about[SP]you,[SP]Yukki?",
+   "data_size": 114,
+   "budget": 106
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, tu l'as trouvé !? Bien joué "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Allez, on se tire !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, you found it!? That's our "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Good job! Now c'mon, let's scram!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Wow, tu l'as trouvé !? Bien joué [1113]-kun !\nAllez, on se tire !",
+   "brut_en": "Wow,[SP]you[SP]found[SP]it!?[SP]That's[SP]our[SP][1113]-kun!\nGood[SP]job![SP]Now[SP]c'mon,[SP]let's[SP]scram!",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 8,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qui porterait ces dessous !? Rien ici non plus,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maya ! Et toi, Eikichi ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Who would wear lingerie like this!? Yeah, I'm"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "not finding anything over here, Maya-san!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Any luck, Eikichi?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qui porterait ces dessous !? Rien ici non plus,\nMaya ! Et toi, Eikichi ?",
+   "brut_en": "Who[SP]would[SP]wear[SP]lingerie[SP]like[SP]this!?[SP]Yeah,[SP]I'm\nnot[SP]finding[SP]anything[SP]over[SP]here,[SP]Maya-san!\nAny[SP]luck,[SP]Eikichi?",
+   "data_size": 238,
+   "budget": 230
+  }
+ ]
+}

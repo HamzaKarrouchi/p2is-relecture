@@ -1,0 +1,444 @@
+{
+ "no": 395,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ravi de ne plus avoir à descendre ces"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rapides pour aller à Xibalba."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Man, am I glad we won't need to go down those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rapids ever again to get to Xibalba."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ravi de ne plus avoir à descendre ces\nrapides pour aller à Xibalba.",
+   "brut_en": "Man,[SP]am[SP]I[SP]glad[SP]we[SP]won't[SP]need[SP]to[SP]go[SP]down[SP]those\nrapids[SP]ever[SP]again[SP]to[SP]get[SP]to[SP]Xibalba.",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " La 1-C de Seven !"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Dire que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba était relié à cet endroit..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " This is Class 1-C at Sevens!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I can't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "believe Xibalba was hooked up to here..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aiyah!?[1205][U+000F] La 1-C de Seven ![1205][U+000F] Dire que\nXibalba était relié à cet endroit...",
+   "brut_en": "Aiyah!?[1205][U+000F][SP]This[SP]is[SP]Class[SP]1-C[SP]at[SP]Sevens![1205][U+000F][SP]I[SP]can't\nbelieve[SP]Xibalba[SP]was[SP]hooked[SP]up[SP]to[SP]here...",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Descendre les rapides m'allait..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Mais vous n'êtes pas d'accord, hein ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm...."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I personally don't mind shooting the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rapids every time..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But I guess you don't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "agree, huh?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hmm...[1205][U+000F] Descendre les rapides m'allait...\n[1205][U+000F]Mais vous n'êtes pas d'accord, hein ?",
+   "brut_en": "Hmm....[1205][U+000F][SP]I[SP]personally[SP]don't[SP]mind[SP]shooting[SP]the\nrapids[SP]every[SP]time...[1205][U+000F][SP]But[SP]I[SP]guess[SP]you[SP]don't\nagree,[SP]huh?",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 3,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le Bataillon a mis ça. C'est plus sûr"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour voyager, Big Maya.> Aller à Xibalba ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Looks like the Last Battalion set this up."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "With all due respect to Big Maya, I think it's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "safer to use this to travel back and forth.> Warp to Xibalba?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Le Bataillon a mis ça. C'est plus sûr"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "pour voyager, Big Maya.> Aller à Xibalba ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "Looks like the Last Battalion set this up."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "With all due respect to Big Maya, I think it's"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "safer to use this to travel back and forth.> Warp to Xibalba?"
+     }
+    ]
+   },
+   "brut_fr": "Le Bataillon a mis ça. C'est plus sûr\npour voyager, Big Maya.[E1][E2][E3]> Aller à Xibalba ?\n[1208][0002]Oui\nNon",
+   "brut_en": "Looks[SP]like[SP]the[SP]Last[SP]Battalion[SP]set[SP]this[SP]up.\nWith[SP]all[SP]due[SP]respect[SP]to[SP]Big[SP]Maya,[SP]I[SP]think[SP]it's\nsafer[SP]to[SP]use[SP]this[SP]to[SP]travel[SP]back[SP]and[SP]forth.[E1][E2][E3]>[SP]Warp[SP]to[SP]Xibalba?\n[1208][0002]Yes\nNo",
+   "data_size": 346,
+   "budget": 338
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haha, voilà . Regarde autour."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça te rappelle un truc ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahaha, and here comes . Take a look"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "around. Look familiar?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Haha, voilà [1114]. Regarde autour.\nÇa te rappelle un truc ?",
+   "brut_en": "Hahaha,[SP]and[SP]here[SP]comes[SP][1114].[SP]Take[SP]a[SP]look\naround.[SP]Look[SP]familiar?",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyaaaaaaaaah!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyaaaaaaaaah!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aiyaaaaaaaaah!",
+   "brut_en": "Aiyaaaaaaaaah!",
+   "data_size": 66,
+   "budget": 58
+  },
+  {
+   "id": 6,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Euh.."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Ginko?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Uh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ginko?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Euh..[1205][U+000F]Ginko?",
+   "brut_en": "Uh...[1205][U+000F][SP]Ginko?",
+   "data_size": 54,
+   "budget": 46
+  },
+  {
+   "id": 7,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*ha*... *ha*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça va pas !?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'ai bien cru que j'allais y passer !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*pant* *pant*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Wh-What the hell were you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "thinking!? I thought I was dead for sure!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*ha*... *ha*[1205][U+000F] Ça va pas !?\nJ'ai bien cru que j'allais y passer !",
+   "brut_en": "*pant*[SP]*pant*[1205][U+000F][SP]Wh-What[SP]the[SP]hell[SP]were[SP]you\nthinking!?[SP]I[SP]thought[SP]I[SP]was[SP]dead[SP]for[SP]sure!",
+   "data_size": 188,
+   "budget": 180
+  }
+ ]
+}

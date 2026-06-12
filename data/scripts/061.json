@@ -1,0 +1,435 @@
+{
+ "no": 61,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu l'as trouvé!? Super! Bien joué,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Maintenant, détruisons-le!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "> Vous détruisez le "
+      },
+      {
+       "hl": "transmetteur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dans le casier."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Did you find it!? Awesome! Great job,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun! Now let's destroy it!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "> You destroyed the "
+      },
+      {
+       "hl": "transmitter"
+      },
+      {
+       "t": " in the locker."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu l'as trouvé!? Super! Bien joué,\n[1113]! Maintenant, détruisons-le!\n[E1][E2][E3]> Vous détruisez le [E4][NULL][NULL][U+0006]transmetteur[E4][NULL][NULL][0002]\ndans le casier.[E4][NULL][NULL][0002]",
+   "brut_en": "Did[SP]you[SP]find[SP]it!?[SP]Awesome![SP]Great[SP]job,\n[1113]-kun![SP]Now[SP]let's[SP]destroy[SP]it!\n[E1][E2][E3]>[SP]You[SP]destroyed[SP]the[SP][E4][NULL][NULL][U+0006]transmitter[E4][NULL][NULL][0002][SP]in[SP]the[SP]locker.[E4][NULL][NULL][0002]",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'était qui?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Who was that?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'était qui?",
+   "brut_en": "Who[SP]was[SP]that?",
+   "data_size": 50,
+   "budget": 42
+  },
+  {
+   "id": 2,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Étrange qu'une personne normale"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "non évacuée s'enfuie en nous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "voyant comme ça..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Seems odd that a normal person who hadn't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "yet evacuated would run off after seeing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "us like that..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Étrange qu'une personne normale\nnon évacuée s'enfuie en nous\nvoyant comme ça...",
+   "brut_en": "Seems[SP]odd[SP]that[SP]a[SP]normal[SP]person[SP]who[SP]hadn't\nyet[SP]evacuated[SP]would[SP]run[SP]off[SP]after[SP]seeing\nus[SP]like[SP]that...",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Donc..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est sûrement un membre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du Cercle masqué qui gardait le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "transmetteur! Allez, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", attrapons-le!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "In that case..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I bet he's a Masked Circle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "member who was guarding the transmitter!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'mon, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", let's get him!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Donc...[1205][001E] C'est sûrement un membre\ndu Cercle masqué qui gardait le\ntransmetteur! Allez, [1113], attrapons-le!",
+   "brut_en": "In[SP]that[SP]case...[1205][001E][SP]I[SP]bet[SP]he's[SP]a[SP]Masked[SP]Circle\nmember[SP]who[SP]was[SP]guarding[SP]the[SP]transmitter!\nC'mon,[SP][1113],[SP]let's[SP]get[SP]him!",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce type était aussi du Cercle masqué?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "...Il n'avait pas l'air plutôt cool?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pas autant que toi, bien sûr, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Was that guy a Masked Circle member too?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "...Didn't he look kinda cool? Not nearly"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "as cool as you, of course, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce type était aussi du Cercle masqué?\n...Il n'avait pas l'air plutôt cool?\nPas autant que toi, bien sûr, [1113]!",
+   "brut_en": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][1113]!",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 5,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce type s'est enfui direct en nous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "voyant! Il est vraiment louche."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Poursuivons-le, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That guy ran off the second he saw our faces!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "He's suspicious, all right. Let's chase him"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "down, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce type s'est enfui direct en nous\nvoyant! Il est vraiment louche.\nPoursuivons-le, [1113]!",
+   "brut_en": "That[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][1113]!",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce type..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je crois l'avoir déjà vu."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bref, rattrapons-le!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That guy..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I feel like I've seen him"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "somewhere. Well, after him, I guess!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce type...[1205][001E] Je crois l'avoir déjà vu.\nBref, rattrapons-le!",
+   "brut_en": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
+   "data_size": 174,
+   "budget": 166
+  }
+ ]
+}

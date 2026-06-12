@@ -1,0 +1,192 @@
+{
+ "no": 200,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ne me tue pas Maman... Ne me déteste pas... À l'aide Papa..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mama... Don't erase me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Don't hate me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Help me... Papa..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ne me tue pas Maman... Ne me déteste pas... À l'aide Papa...",
+   "brut_en": "Mama...[SP]Don't[SP]erase[SP]me...[1205][001E][SP]Don't[SP]hate[SP]me...[1205][001E]\nHelp[SP]me...[SP]Papa...",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 1,
+   "nom_fr": "Voix d'une femme",
+   "nom_en": "Woman's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ugh, quel enfant difficile!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ugh, what a troublesome child!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ugh, quel enfant difficile!",
+   "brut_en": "Ugh,[SP]what[SP]a[SP]troublesome[SP]child!",
+   "data_size": 100,
+   "budget": 92
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maman en métal",
+   "nom_en": "Metal Mama",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Sans toi et Papa, je serais libre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If not for you and Papa, I'd be free."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun...[1205][001E]Sans toi et Papa, je serais libre.",
+   "brut_en": "Jun...[1205][001E][SP]If[SP]not[SP]for[SP]you[SP]and[SP]Papa,[SP]I'd[SP]be[SP]free.",
+   "data_size": 126,
+   "budget": 118
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maman en métal",
+   "nom_en": "Metal Mama",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahaha..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tout aurait été mieux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "si tu n'étais pas venu au monde! Maintenant,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "disparaît!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahaha..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Everything would have been better"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "if you hadn't been born! Now, vanish from"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this world!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hahaha...[1205][001E] Tout aurait été mieux\nsi tu n'étais pas venu au monde! Maintenant,\ndisparaît!",
+   "brut_en": "Hahaha...[1205][001E][SP]Everything[SP]would[SP]have[SP]been[SP]better\nif[SP]you[SP]hadn't[SP]been[SP]born![SP]Now,[SP]vanish[SP]from\nthis[SP]world!",
+   "data_size": 232,
+   "budget": 224
+  }
+ ]
+}

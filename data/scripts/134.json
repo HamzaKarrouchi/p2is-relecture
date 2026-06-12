@@ -1,0 +1,822 @@
+{
+ "no": 134,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*Snif* Soeurette..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Pardon... Pardon! Je... Je n'ai pas pu te sauver..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sob* Big Sis..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm sorry... I'm sorry!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I... I couldn't save you..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*Snif* Soeurette...[1205][001E]Pardon... Pardon! Je... Je n'ai pas pu te sauver...",
+   "brut_en": "*sob*[SP]Big[SP]Sis...[1205][001E][SP]I'm[SP]sorry...[SP]I'm[SP]sorry![1205][001E]\nI...[SP]I[SP]couldn't[SP]save[SP]you...",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "C'est faux, Jun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Ce que nous venons"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de voir n'est jamais arrivé!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That wasn't it, Jun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " What we just"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "saw wasn't what happened at all!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non...![1205][001E]C'est faux, Jun...[1205][001E]Ce que nous venons\nde voir n'est jamais arrivé!",
+   "brut_en": "No...![1205][001E][SP]That[SP]wasn't[SP]it,[SP]Jun...[1205][001E][SP]What[SP]we[SP]just\nsaw[SP]wasn't[SP]what[SP]happened[SP]at[SP]all!",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est vrai... "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " a essayé de sauver Maya... "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Ce n'était pas notre faute! Souviens toi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's right..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "  tried to save"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big Maya..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We're to blame here! You gotta"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "remember!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est vrai... [1205][001E][1114] a essayé de sauver Maya... [1205][001E]Ce n'était pas notre faute! Souviens toi!",
+   "brut_en": "That's[SP]right...[1205][001E][SP][1114][SP]tried[SP]to[SP]save\nBig[SP]Maya...[1205][001E][SP]We're[SP]to[SP]blame[SP]here![SP]You[SP]gotta\nremember!",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun! "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Je suis en vie, tu vois? S'il-te-plaît, ressaisis-toi..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun-kun!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm alive, see? Please, you have"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to snap out of it..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun! [1205][001E]Je suis en vie, tu vois? S'il-te-plaît, ressaisis-toi...",
+   "brut_en": "Jun-kun![1205][001E][SP]I'm[SP]alive,[SP]see?[SP]Please,[SP]you[SP]have\nto[SP]snap[SP]out[SP]of[SP]it...",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 4,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est faux..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "C'est impossible que tu sois soeurette!"
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " l'a tuée! "
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's a lie..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There's no way you could be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big Sis! "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " killed her!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est faux...[1205][001E]C'est impossible que tu sois soeurette![1113] l'a tuée! ",
+   "brut_en": "That's[SP]a[SP]lie...[1205][001E][SP]There's[SP]no[SP]way[SP]you[SP]could[SP]be\nBig[SP]Sis![SP][1113][SP]killed[SP]her!",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une "
+      },
+      {
+       "hl": "fleur de framboisier"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "enc": "Le regret"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Au fond, Jun"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sait déjà tout ça..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A "
+      },
+      {
+       "hl": "Raspberry flower"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "enc": "Regret"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Deep down,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Jun-kun knows all this already..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une [E4][NULL][NULL][U+0006]fleur de framboisier[E4][NULL][NULL][0002]...[1205][001E] [1432][NULL][NULL][0014]Le regret[1432][NULL][NULL][0014]...[1205][001E] Au fond, Jun\nsait déjà tout ça...",
+   "brut_en": "A[SP][E4][NULL][NULL][U+0006]Raspberry[SP]flower[E4][NULL][NULL][0002]...[1205][001E][SP][1432][NULL][NULL][0014]Regret[1432][NULL][NULL][0014]...[1205][001E][SP]Deep[SP]down,\nJun-kun[SP]knows[SP]all[SP]this[SP]already...",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais quelque chose l'empêche de voir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la vérité..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ou quelqu'un..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Quelqu'un qui rend"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les rumeurs réalité..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But something is stopping him from realizing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the truth..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Or someone..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Someone who's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "making rumors become reality..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais quelque chose l'empêche de voir\nla vérité...[1205][001E] Ou quelqu'un...[1205][001E] Quelqu'un qui rend\nles rumeurs réalité...",
+   "brut_en": "But[SP]something[SP]is[SP]stopping[SP]him[SP]from[SP]realizing\nthe[SP]truth...[1205][001E][SP]Or[SP]someone...[1205][001E][SP]Someone[SP]who's\nmaking[SP]rumors[SP]become[SP]reality...",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 7,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Le regret..."
+      },
+      {
+       "t": "... Jun n'a pas changé du tout... Le vrai Jun est toujours là!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Regret"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Jun hasn't changed at all..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The real Jun is still in there!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Le regret...[1432][NULL][NULL][0014]... Jun n'a pas changé du tout... Le vrai Jun est toujours là!",
+   "brut_en": "[1432][NULL][NULL][0014]Regret[1432][NULL][NULL][0014]...[1205][001E][SP]Jun[SP]hasn't[SP]changed[SP]at[SP]all...[1205][001E]\nThe[SP]real[SP]Jun[SP]is[SP]still[SP]in[SP]there!",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 8,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun était si gentil! Il m'a tant appris sur le sens des fleurs et sur les étoiles! S'il-te-plaît, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", sauve-le!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun was so nice! He taught me a lot about the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "meanings of flowers and about stars! Please,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", you have to save him!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun était si gentil! Il m'a tant appris sur le sens des fleurs et sur les étoiles! S'il-te-plaît, [1113], sauve-le!",
+   "brut_en": "Jun[SP]was[SP]so[SP]nice![SP]He[SP]taught[SP]me[SP]a[SP]lot[SP]about[SP]the\nmeanings[SP]of[SP]flowers[SP]and[SP]about[SP]stars![SP]Please,\n[1113],[SP]you[SP]have[SP]to[SP]save[SP]him!",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je me souviens, Philémon nous a dit..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Nous devons sauver Jun des griffes du "
+      },
+      {
+       "enc": " Chaos Rampant "
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I remember Philemon telling us..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " we had"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to save Jun-kun from the clutches of the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Crawling Chaos"
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je me souviens, Philémon nous a dit...[1205][001E]Nous devons sauver Jun des griffes du [1432][NULL][NULL][0014] Chaos Rampant [1432][NULL][NULL][0014]...",
+   "brut_en": "I[SP]remember[SP]Philemon[SP]telling[SP]us...[1205][001E][SP]we[SP]had\nto[SP]save[SP]Jun-kun[SP]from[SP]the[SP]clutches[SP]of[SP]the\n[1432][NULL][NULL][0014]Crawling[SP]Chaos[1432][NULL][NULL][0014]...",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 10,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'est-ce que c'est que ça?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je parie que c'est ce qui réalise les rumeurs... Et ce qui contrôle Jun..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What in the world is that?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I bet it's what's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "making rumors into reality..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " And controlling"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Jun-kun too..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'est-ce que c'est que ça?[1205][001E] Je parie que c'est ce qui réalise les rumeurs... Et ce qui contrôle Jun...",
+   "brut_en": "What[SP]in[SP]the[SP]world[SP]is[SP]that?[1205][001E][SP]I[SP]bet[SP]it's[SP]what's\nmaking[SP]rumors[SP]into[SP]reality...[1205][001E][SP]And[SP]controlling\nJun-kun[SP]too...",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 11,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai pas oublié que Jun a changé Ken et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les autres en Ombres..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais ça reste"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mon ami."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I haven't forgotten that Jun turned Ken and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the guys into shadowmen..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But he's my good"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "friend all the same."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai pas oublié que Jun a changé Ken et\nles autres en Ombres...[1205][001E] Mais ça reste\nmon ami.",
+   "brut_en": "I[SP]haven't[SP]forgotten[SP]that[SP]Jun[SP]turned[SP]Ken[SP]and\nthe[SP]guys[SP]into[SP]shadowmen...[1205][001E][SP]But[SP]he's[SP]my[SP]good\nfriend[SP]all[SP]the[SP]same.",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 12,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les souvenirs de cet été là me sont chers..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " À Ginko et Maya aussi. Pour nous tous, en fait..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The memories from that summer are important"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " For Ginko and Big Maya, too. For all"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of us, really..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les souvenirs de cet été là me sont chers...[1205][001E] À Ginko et Maya aussi. Pour nous tous, en fait...",
+   "brut_en": "The[SP]memories[SP]from[SP]that[SP]summer[SP]are[SP]important\nto[SP]me...[1205][001E][SP]For[SP]Ginko[SP]and[SP]Big[SP]Maya,[SP]too.[SP]For[SP]all\nof[SP]us,[SP]really...",
+   "data_size": 244,
+   "budget": 236
+  }
+ ]
+}

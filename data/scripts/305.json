@@ -1,0 +1,1641 @@
+{
+ "no": 305,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D-Désolé."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ce n'est rien."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " A-Allez,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cherchons le président."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "S-Sorry."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's nothing."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C-C'mon, let's go look"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "for the president."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "D-Désolé.[1205][U+000F] Ce n'est rien.[1205][U+000F] A-Allez,\ncherchons le président.",
+   "brut_en": "S-Sorry.[1205][U+000F][SP]It's[SP]nothing.[1205][U+000F][SP]C-C'mon,[SP]let's[SP]go[SP]look\nfor[SP]the[SP]president.",
+   "data_size": 162,
+   "budget": 154
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu complotais avec ce président !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu as fait ça en sachant que je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "suis le Boss... enfin, l'ex-Boss Michel !?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So you were scheming stuff with that president!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Did you do it knowing that I'm the Boss..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I mean, ex-Boss Michel!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu complotais avec ce président !\nTu as fait ça en sachant que je\nsuis le Boss... enfin, l'ex-Boss Michel !?",
+   "brut_en": "So[SP]you[SP]were[SP]scheming[SP]stuff[SP]with[SP]that[SP]president!\nDid[SP]you[SP]do[SP]it[SP]knowing[SP]that[SP]I'm[SP]the[SP]Boss...\nI[SP]mean,[SP]ex-Boss[SP]Michel!?",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Euh, y avait pas un nouvel élève ici ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu saurais où il est maintenant ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Er, wasn't there a transfer student here?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Would you happen to know where he is now?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Euh, y avait pas un nouvel élève ici ?[1205][U+000F]\nTu saurais où il est maintenant ?",
+   "brut_en": "...Er,[SP]wasn't[SP]there[SP]a[SP]transfer[SP]student[SP]here?[1205][U+000F]\nWould[SP]you[SP]happen[SP]to[SP]know[SP]where[SP]he[SP]is[SP]now?",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 3,
+   "nom_fr": "Élève",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le nouveau ? Ah, lui..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Non, il ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vient plus ces temps-ci."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il est p't'être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à l'hôpital ou autre, j'sais pas."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Transfer student? Oh, that guy..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Nah, he"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hasn't come to school lately."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Maybe he's in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the hospital or something, I dunno."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le nouveau ? Ah, lui...[1205][U+000F] Non, il ne\nvient plus ces temps-ci.[1205][U+000F] Il est p't'être\nà l'hôpital ou autre, j'sais pas.",
+   "brut_en": "Transfer[SP]student?[SP]Oh,[SP]that[SP]guy...[1205][U+000F][SP]Nah,[SP]he\nhasn't[SP]come[SP]to[SP]school[SP]lately.[1205][U+000F][SP]Maybe[SP]he's[SP]in\nthe[SP]hospital[SP]or[SP]something,[SP]I[SP]dunno.",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D-D'accord..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "O-Okay then..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "D-D'accord...",
+   "brut_en": "O-Okay[SP]then...",
+   "data_size": 54,
+   "budget": 46
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'y a-t-il, Eikichi ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu connais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce nouvel élève ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's up, Eikichi-kun?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Do you know this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "transfer student?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'y a-t-il, Eikichi ?[1205][U+000F] Tu connais\nce nouvel élève ?",
+   "brut_en": "What's[SP]up,[SP]Eikichi-kun?[1205][U+000F][SP]Do[SP]you[SP]know[SP]this\ntransfer[SP]student?",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 6,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-Non, c'est rien..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sûrement"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mon imagination..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-Nah, it's nothing..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Probably just my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "imagination..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "N-Non, c'est rien...[1205][U+000F] Sûrement\nmon imagination...",
+   "brut_en": "N-Nah,[SP]it's[SP]nothing...[1205][U+000F][SP]Probably[SP]just[SP]my\nimagination...",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 7,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est quoi son problème ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il est maussade..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What the hell...? What's with Eikichi?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " He's all"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "broody..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est quoi son problème ?[1205][U+000F]\nIl est maussade...",
+   "brut_en": "What[SP]the[SP]hell...?[SP]What's[SP]with[SP]Eikichi?[1205][U+000F][SP]He's[SP]all\nbroody...",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 8,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ceux qui ont indiqué où était"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le président... bossaient"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour lui ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Aïya, c'est quoi !?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So everyone who told us where the president"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "was... was working for him?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Aiyah, what's up"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "with that!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ceux qui ont indiqué où était\nle président... bossaient\npour lui ?[1205][U+000F] Aïya, c'est quoi !?",
+   "brut_en": "So[SP]everyone[SP]who[SP]told[SP]us[SP]where[SP]the[SP]president\nwas...[SP]was[SP]working[SP]for[SP]him?[1205][U+000F][SP]Aiyah,[SP]what's[SP]up\nwith[SP]that!?",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi cherche le nouvel élève ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Parce qu'il semblait soulagé qu'il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ne soit pas là."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Que se passe-t-il... ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Is Eikichi-kun looking for the transfer student?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Because he seemed relieved that he wasn't here."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "What's going on...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eikichi cherche le nouvel élève ?[1205][U+000F]\nParce qu'il semblait soulagé qu'il\nne soit pas là.[1205][U+000F] Que se passe-t-il... ?",
+   "brut_en": "Is[SP]Eikichi-kun[SP]looking[SP]for[SP]the[SP]transfer[SP]student?[1205][U+000F]\nBecause[SP]he[SP]seemed[SP]relieved[SP]that[SP]he[SP]wasn't[SP]here.[1205][U+000F]\nWhat's[SP]going[SP]on...?",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 10,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Argh ! Il savait qu'on venait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et nous attendait."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il nous a eus, j'avoue."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ugh! That president knew we were coming and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "was ready for us. He got us, I admit."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Argh ! Il savait qu'on venait\net nous attendait.\nIl nous a eus, j'avoue.",
+   "brut_en": "Ugh![SP]That[SP]president[SP]knew[SP]we[SP]were[SP]coming[SP]and\nwas[SP]ready[SP]for[SP]us.[SP]He[SP]got[SP]us,[SP]I[SP]admit.",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 11,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Euh, y avait pas un nouvel élève ici ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu saurais où il est maintenant ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Er, wasn't there a transfer student here?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Would you happen to know where he is now?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Euh, y avait pas un nouvel élève ici ?[1205][U+000F]\nTu saurais où il est maintenant ?",
+   "brut_en": "...Er,[SP]wasn't[SP]there[SP]a[SP]transfer[SP]student[SP]here?[1205][U+000F]\nWould[SP]you[SP]happen[SP]to[SP]know[SP]where[SP]he[SP]is[SP]now?",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 12,
+   "nom_fr": "Élève",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le nouveau ? Ah, lui..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Non, il ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vient plus ces temps-ci."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il est p't'être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à l'hôpital ou autre, j'sais pas."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Transfer student? Oh, that guy..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Nah, he"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hasn't come to school lately."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Maybe he's in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the hospital or something, I dunno."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le nouveau ? Ah, lui...[1205][U+000F] Non, il ne\nvient plus ces temps-ci.[1205][U+000F] Il est p't'être\nà l'hôpital ou autre, j'sais pas.",
+   "brut_en": "Transfer[SP]student?[SP]Oh,[SP]that[SP]guy...[1205][U+000F][SP]Nah,[SP]he\nhasn't[SP]come[SP]to[SP]school[SP]lately.[1205][U+000F][SP]Maybe[SP]he's[SP]in\nthe[SP]hospital[SP]or[SP]something,[SP]I[SP]dunno.",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 13,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D-D'accord..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "O-Okay then..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "D-D'accord...",
+   "brut_en": "O-Okay[SP]then...",
+   "data_size": 54,
+   "budget": 46
+  },
+  {
+   "id": 14,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'y a-t-il, Eikichi ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu connais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce nouvel élève ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's up, Eikichi-kun?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Do you know this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "transfer student?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'y a-t-il, Eikichi ?[1205][U+000F] Tu connais\nce nouvel élève ?",
+   "brut_en": "What's[SP]up,[SP]Eikichi-kun?[1205][U+000F][SP]Do[SP]you[SP]know[SP]this\ntransfer[SP]student?",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 15,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-Non, c'est rien..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sûrement"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mon imagination..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-Nah, it's nothing..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Probably just my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "imagination..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "N-Non, c'est rien...[1205][U+000F] Sûrement\nmon imagination...",
+   "brut_en": "N-Nah,[SP]it's[SP]nothing...[1205][U+000F][SP]Probably[SP]just[SP]my\nimagination...",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 16,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi est bizarre..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " et Lisa a l'air"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "déprimée aussi, sans raison."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qu'ont-ils ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi's acting weird..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " and Lisa seems mopey"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "too, for some reason. What's up with them?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eikichi est bizarre...[1205][U+000F] et Lisa a l'air\ndéprimée aussi, sans raison.\nQu'ont-ils ?",
+   "brut_en": "Eikichi's[SP]acting[SP]weird...[1205][U+000F][SP]and[SP]Lisa[SP]seems[SP]mopey\ntoo,[SP]for[SP]some[SP]reason.[SP]What's[SP]up[SP]with[SP]them?",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 17,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il doit savoir que c'est la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "faute du président."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi must know this is the president's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fault too."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il doit savoir que c'est la\nfaute du président.",
+   "brut_en": "Eikichi[SP]must[SP]know[SP]this[SP]is[SP]the[SP]president's\nfault[SP]too.",
+   "data_size": 128,
+   "budget": 120
+  },
+  {
+   "id": 18,
+   "nom_fr": "Élève",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous cherchez le président ? I-Il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "devrait être en salle du conseil."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est c'qu'on m'a dit."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "V-Vraiment !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're looking for the president, yeah? H-He"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "should be at the student council room. That's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "what I heard, anyway. R-Really!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous cherchez le président ? I-Il\ndevrait être en salle du conseil.\nC'est c'qu'on m'a dit.\nV-Vraiment !",
+   "brut_en": "You're[SP]looking[SP]for[SP]the[SP]president,[SP]yeah?[SP]H-He\nshould[SP]be[SP]at[SP]the[SP]student[SP]council[SP]room.[SP]That's\nwhat[SP]I[SP]heard,[SP]anyway.[SP]R-Really!",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 19,
+   "nom_fr": "Élève",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous cherchez le président ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J-Je crois qu'il est en classe 2-4."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je parie que vous le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "trouverez là-bas."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Are you looking for the president?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I-I'm pretty"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sure he's in Class 2-4. I bet you'll find him"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "if you go there."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous cherchez le président ?[1205][U+000F]\nJ-Je crois qu'il est en classe 2-4.\nJe parie que vous le\ntrouverez là-bas.",
+   "brut_en": "Are[SP]you[SP]looking[SP]for[SP]the[SP]president?[1205][U+000F][SP]I-I'm[SP]pretty\nsure[SP]he's[SP]in[SP]Class[SP]2-4.[SP]I[SP]bet[SP]you'll[SP]find[SP]him\nif[SP]you[SP]go[SP]there.",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 20,
+   "nom_fr": "Élève",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le président ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Euh... J'ai entendu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qu'il était au sous-sol."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I-Il s'y cache..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The president?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Um... I heard he was in the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "basement."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " H-He's hiding out there..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le président ?[1205][U+000F] Euh... J'ai entendu\nqu'il était au sous-sol.[1205][U+000F]\nI-Il s'y cache...",
+   "brut_en": "The[SP]president?[1205][U+000F][SP]Um...[SP]I[SP]heard[SP]he[SP]was[SP]in[SP]the\nbasement.[1205][U+000F][SP]H-He's[SP]hiding[SP]out[SP]there...",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 21,
+   "nom_fr": "Élève",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J-Je suis désolé ! Cet enfoiré m'a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ordonné de vous mener à l'abri."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pour une raison obscure,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je ne peux lui désobéir..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I-I'm sorry! That asshole ordered me to lead"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you guys to the air raid shelter. For some"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "reason, I can't disobey him..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J-Je suis désolé ! Cet enfoiré m'a\nordonné de vous mener à l'abri.\nPour une raison obscure,\nje ne peux lui désobéir...",
+   "brut_en": "I-I'm[SP]sorry![SP]That[SP]asshole[SP]ordered[SP]me[SP]to[SP]lead\nyou[SP]guys[SP]to[SP]the[SP]air[SP]raid[SP]shelter.[SP]For[SP]some\nreason,[SP]I[SP]can't[SP]disobey[SP]him...",
+   "data_size": 272,
+   "budget": 264
+  },
+  {
+   "id": 22,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Euh, y avait pas un nouvel élève ici ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu saurais où il est maintenant ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Er, wasn't there a transfer student here?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Would you happen to know where he is now?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Euh, y avait pas un nouvel élève ici ?[1205][U+000F]\nTu saurais où il est maintenant ?",
+   "brut_en": "...Er,[SP]wasn't[SP]there[SP]a[SP]transfer[SP]student[SP]here?[1205][U+000F]\nWould[SP]you[SP]happen[SP]to[SP]know[SP]where[SP]he[SP]is[SP]now?",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 23,
+   "nom_fr": "Élève",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le nouveau ? Ah, lui..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Non, il ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vient plus ces temps-ci."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il est p't'être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à l'hôpital ou autre, j'sais pas."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Transfer student? Oh, that guy..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Nah, he"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hasn't come to school lately."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Maybe he's in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the hospital or something, I dunno."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le nouveau ? Ah, lui...[1205][U+000F] Non, il ne\nvient plus ces temps-ci.[1205][U+000F] Il est p't'être\nà l'hôpital ou autre, j'sais pas.",
+   "brut_en": "Transfer[SP]student?[SP]Oh,[SP]that[SP]guy...[1205][U+000F][SP]Nah,[SP]he\nhasn't[SP]come[SP]to[SP]school[SP]lately.[1205][U+000F][SP]Maybe[SP]he's[SP]in\nthe[SP]hospital[SP]or[SP]something,[SP]I[SP]dunno.",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 24,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D-D'accord..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "O-Okay then..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "D-D'accord...",
+   "brut_en": "O-Okay[SP]then...",
+   "data_size": 54,
+   "budget": 46
+  },
+  {
+   "id": 25,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'y a-t-il, Eikichi ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu connais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce nouvel élève ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's up, Eikichi-kun?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Do you know this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "transfer student?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'y a-t-il, Eikichi ?[1205][U+000F] Tu connais\nce nouvel élève ?",
+   "brut_en": "What's[SP]up,[SP]Eikichi-kun?[1205][U+000F][SP]Do[SP]you[SP]know[SP]this\ntransfer[SP]student?",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 26,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-Non, c'est rien..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sûrement"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mon imagination..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-Nah, it's nothing..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Probably just my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "imagination..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "N-Non, c'est rien...[1205][U+000F] Sûrement\nmon imagination...",
+   "brut_en": "N-Nah,[SP]it's[SP]nothing...[1205][U+000F][SP]Probably[SP]just[SP]my\nimagination...",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 27,
+   "nom_fr": "Élève",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le nouvel élève..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ouais, cette classe"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en avait un..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais ça fait une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "éternité que je l'ai pas vu..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Peu importe..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça me regarde pas..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Transfer student..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Yeah, this class did have"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "one..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But I haven't seen him in forever..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Doesn't matter..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Has nothing to do with me..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le nouvel élève...[1205][U+000F] Ouais, cette classe\nen avait un...[1205][U+000F] Mais ça fait une\néternité que je l'ai pas vu...[1205][U+000F]\nPeu importe...[1205][U+000F] Ça me regarde pas...",
+   "brut_en": "Transfer[SP]student...[1205][U+000F][SP]Yeah,[SP]this[SP]class[SP]did[SP]have\none...[1205][U+000F][SP]But[SP]I[SP]haven't[SP]seen[SP]him[SP]in[SP]forever...[1205][U+000F]\nDoesn't[SP]matter...[1205][U+000F][SP]Has[SP]nothing[SP]to[SP]do[SP]with[SP]me...",
+   "data_size": 324,
+   "budget": 316
+  }
+ ]
+}

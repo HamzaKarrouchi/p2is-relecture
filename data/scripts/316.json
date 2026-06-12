@@ -1,0 +1,1537 @@
+{
+ "no": 316,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé, ..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On a joué au Cercle masqué,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais jamais à la pharmacie."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, ..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We did play Masked Circle,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but I don't think we ever played drugstore."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé, [1114]...[1205][U+000F] On a joué au Cercle masqué,\nmais jamais à la pharmacie.",
+   "brut_en": "Hey,[SP][1114]...[1205][U+000F][SP]We[SP]did[SP]play[SP]Masked[SP]Circle,\nbut[SP]I[SP]don't[SP]think[SP]we[SP]ever[SP]played[SP]drugstore.",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", quand tout ça sera réglé,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rejouons au Cercle masqué."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça pourrait être amusant !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", once this is all settled, let's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "play Masked Circle again."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It might actually"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be fun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé [1113], quand tout ça sera réglé,\nrejouons au Cercle masqué.[1205][U+000F]\nÇa pourrait être amusant !",
+   "brut_en": "Hey[SP][1113],[SP]once[SP]this[SP]is[SP]all[SP]settled,[SP]let's\nplay[SP]Masked[SP]Circle[SP]again.[1205][U+000F][SP]It[SP]might[SP]actually\nbe[SP]fun!",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu as entendu l'idée de Lisa ? Jouons"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Cercle masqué ! Cette fois, la pharmacie."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Jun-kun se joindra à nous aussi, bien sûr !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Did you hear Lisa's idea? Let's play Masked"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Circle again. This time, we'll do a drugstore!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll get Jun-kun to join in too, of course!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu as entendu l'idée de Lisa ? Jouons\nau Cercle masqué ! Cette fois, la pharmacie.[1205][U+000F]\nJun-kun se joindra à nous aussi, bien sûr !",
+   "brut_en": "Did[SP]you[SP]hear[SP]Lisa's[SP]idea?[SP]Let's[SP]play[SP]Masked\nCircle[SP]again.[SP]This[SP]time,[SP]we'll[SP]do[SP]a[SP]drugstore![1205][U+000F]\nI'll[SP]get[SP]Jun-kun[SP]to[SP]join[SP]in[SP]too,[SP]of[SP]course!",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 3,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pourquoi cette agitation ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's got everyone so excited?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pourquoi cette agitation ?",
+   "brut_en": "What's[SP]got[SP]everyone[SP]so[SP]excited?",
+   "data_size": 80,
+   "budget": 72
+  },
+  {
+   "id": 4,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein ? Au Cercle masqué ? D'accord,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'en suis."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh? Playing Masked Circle again? S-Sure,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm game."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein ? Au Cercle masqué ? D'accord,\nj'en suis.",
+   "brut_en": "Huh?[SP]Playing[SP]Masked[SP]Circle[SP]again?[SP]S-Sure,\nI'm[SP]game.",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 5,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hihihi !"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais... *sniiiif* Autre chose ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heeheehee!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But... *sniiiiiff* Anything else?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Acheter objets",
+     "Vendre objets",
+     "Parler à Sœur n°5",
+     "Voir objets",
+     "Rien",
+     "Quitter"
+    ],
+    "question": [
+     {
+      "t": "Hihihi !"
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Mais... *sniiiif* Autre chose ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Buy items",
+     "Sell items",
+     "Talk to Sister #5",
+     "View items",
+     "Never mind",
+     "Leave the store"
+    ],
+    "question": [
+     {
+      "t": "Heeheehee!"
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " But... *sniiiiiff* Anything else?"
+     }
+    ]
+   },
+   "brut_fr": "Hihihi ![1205][U+000A] Mais... *sniiiif* Autre chose ?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°5\n[1210][U+0100]Voir objets\nRien\nQuitter",
+   "brut_en": "Heeheehee![1205][U+000A][SP]But...[SP]*sniiiiiff*[SP]Anything[SP]else?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#5\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 6,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alors, tu vends quoi ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now, what are you selling?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Sélection cachée",
+     "Objets",
+     "Armes",
+     "Armure de tête",
+     "Armure",
+     "Armure de jambes",
+     "Accessoires"
+    ],
+    "question": [
+     {
+      "t": "Alors, tu vends quoi ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Undisplayed selection",
+     "Sell items",
+     "Sell weapons",
+     "Sell head armor",
+     "Sell armor",
+     "Sell leg armor",
+     "Sell accessories"
+    ],
+    "question": [
+     {
+      "t": "Now, what are you selling?"
+     }
+    ]
+   },
+   "brut_fr": "Alors, tu vends quoi ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_en": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+   "data_size": 324,
+   "budget": 316
+  },
+  {
+   "id": 7,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu veux parler de quoi ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So what do you want to talk about?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Parler boutique",
+     "Sélection cachée"
+    ],
+    "question": [
+     {
+      "t": "Tu veux parler de quoi ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about shopping",
+     "Undisplayed selection"
+    ],
+    "question": [
+     {
+      "t": "So what do you want to talk about?"
+     }
+    ]
+   },
+   "brut_fr": "Tu veux parler de quoi ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
+   "brut_en": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 8,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*renifle* À quoi ça sert une ville dans les airs !?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ils disent que la Terre là-bas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "va être anéantie, c'est ça ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sniff* What good is a city that flies through"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the air!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " And they say the Earth down below"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is going to be annihilated, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*renifle* À quoi ça sert une ville dans les airs !?[1205][U+000F]\nIls disent que la Terre là-bas\nva être anéantie, c'est ça ?",
+   "brut_en": "*sniff*[SP]What[SP]good[SP]is[SP]a[SP]city[SP]that[SP]flies[SP]through\nthe[SP]air!?[1205][U+000F][SP]And[SP]they[SP]say[SP]the[SP]Earth[SP]down[SP]below\nis[SP]going[SP]to[SP]be[SP]annihilated,[SP]right?",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 9,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On n'accomplira jamais notre mission"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'ouvrir des succursales dans le pays !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now we'll never accomplish our mission of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "opening branches all across the country!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On n'accomplira jamais notre mission\nd'ouvrir des succursales dans le pays !",
+   "brut_en": "Now[SP]we'll[SP]never[SP]accomplish[SP]our[SP]mission[SP]of\nopening[SP]branches[SP]all[SP]across[SP]the[SP]country!",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 10,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je me demande ce que mes sœurs font..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je n'abandonne pas encore."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais l'avenir est plein de soucis..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " *renifle*"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I wonder what my sisters plan to do... I'm not"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "giving up yet, anyway."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But the future is full"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of problems..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " *sniff*"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je me demande ce que mes sœurs font...\nJe n'abandonne pas encore.[1205][U+000F]\nMais l'avenir est plein de soucis...[1205][U+000F] *renifle*",
+   "brut_en": "I[SP]wonder[SP]what[SP]my[SP]sisters[SP]plan[SP]to[SP]do...[SP]I'm[SP]not\ngiving[SP]up[SP]yet,[SP]anyway.[1205][U+000F][SP]But[SP]the[SP]future[SP]is[SP]full\nof[SP]problems...[1205][U+000F][SP]*sniff*",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 11,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Satomi Tadashi, ouvert toute l'année !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Revenez !"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Héhéhé ! *renifle* !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Satomi Tadashi is open all year 'round!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Come back soon!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Heeheehee! Also, *sniff*!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Satomi Tadashi, ouvert toute l'année !\nRevenez ![1205][U+000A] Héhéhé ! *renifle* !",
+   "brut_en": "Satomi[SP]Tadashi[SP]is[SP]open[SP]all[SP]year[SP]'round!\nCome[SP]back[SP]soon![1205][U+000A][SP]Heeheehee![SP]Also,[SP]*sniff*!",
+   "data_size": 196,
+   "budget": 188
+  },
+  {
+   "id": 12,
+   "nom_fr": "Employé",
+   "nom_en": "Office worker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*renifle* Mon entreprise a coulé pendant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que j'écoutais cette chanson..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Détruite par ces immenses anneaux..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sniff* My company went under while I was here"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "listening to this song..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Well, more like it"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "got destroyed by those huge rings..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*renifle* Mon entreprise a coulé pendant\nque j'écoutais cette chanson...[1205][U+000F]\nDétruite par ces immenses anneaux...",
+   "brut_en": "*sniff*[SP]My[SP]company[SP]went[SP]under[SP]while[SP]I[SP]was[SP]here\nlistening[SP]to[SP]this[SP]song...[1205][U+000F][SP]Well,[SP]more[SP]like[SP]it\ngot[SP]destroyed[SP]by[SP]those[SP]huge[SP]rings...",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 13,
+   "nom_fr": "Compositeur",
+   "nom_en": "Composer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un compositeur garde toujours ses cinq sens"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en éveil pour saisir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le monde qui l'entoure."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A composer must always keep his five senses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "active to gain new insight from the world"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "around him."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un compositeur garde toujours ses cinq sens\nen éveil pour saisir\nle monde qui l'entoure.",
+   "brut_en": "A[SP]composer[SP]must[SP]always[SP]keep[SP]his[SP]five[SP]senses\nactive[SP]to[SP]gain[SP]new[SP]insight[SP]from[SP]the[SP]world\naround[SP]him.",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 14,
+   "nom_fr": "Compositeur",
+   "nom_en": "Composer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Seules des marches funèbres"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et des préludes à la destruction..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vraiment trop déprimant."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But the only songs I can think of now are dirges"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of destruction and preludes to annihilation..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Much, much too depressing."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Seules des marches funèbres\net des préludes à la destruction...[1205][U+000F]\nVraiment trop déprimant.",
+   "brut_en": "But[SP]the[SP]only[SP]songs[SP]I[SP]can[SP]think[SP]of[SP]now[SP]are[SP]dirges\nof[SP]destruction[SP]and[SP]preludes[SP]to[SP]annihilation...[1205][U+000F]\nMuch,[SP]much[SP]too[SP]depressing.",
+   "data_size": 276,
+   "budget": 268
+  },
+  {
+   "id": 15,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah, oui, bienvenue !"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On travaille dur pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "étendre notre chaîne dans tout le pays !"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais c'est fichu maintenant ! *snif*"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah, yes, welcome!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We work hard to spread our"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chain throughout the country!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But that will"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "never happen now! *sniff*"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Acheter objets",
+     "Vendre objets",
+     "Parler à Sœur n°5",
+     "Voir objets",
+     "Rien",
+     "Quitter"
+    ],
+    "question": [
+     {
+      "t": "Ah, oui, bienvenue !"
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " On travaille dur pour"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "étendre notre chaîne dans tout le pays !"
+     },
+     {
+      "pause": true
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Mais c'est fichu maintenant ! *snif*"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Buy items",
+     "Sell items",
+     "Talk to Sister #5",
+     "View items",
+     "Never mind",
+     "Leave the store"
+    ],
+    "question": [
+     {
+      "t": "Ah, yes, welcome!"
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " We work hard to spread our"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "chain throughout the country!"
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " But that will"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "never happen now! *sniff*"
+     }
+    ]
+   },
+   "brut_fr": "Ah, oui, bienvenue ![1205][U+000A] On travaille dur pour\nétendre notre chaîne dans tout le pays ![1205][U+000F]\nMais c'est fichu maintenant ! *snif*\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°5\n[1210][U+0100]Voir objets\nRien\nQuitter",
+   "brut_en": "Ah,[SP]yes,[SP]welcome![1205][U+000A][SP]We[SP]work[SP]hard[SP]to[SP]spread[SP]our\nchain[SP]throughout[SP]the[SP]country![1205][U+000F][SP]But[SP]that[SP]will\nnever[SP]happen[SP]now![SP]*sniff*\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#5\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
+   "data_size": 430,
+   "budget": 422
+  },
+  {
+   "id": 16,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alors, que veux-tu vendre ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So, what would you like to sell?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Sélection cachée",
+     "Objets",
+     "Armes",
+     "Armure de tête",
+     "Armure",
+     "Armure de jambes",
+     "Accessoires"
+    ],
+    "question": [
+     {
+      "t": "Alors, que veux-tu vendre ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Undisplayed selection",
+     "Sell items",
+     "Sell weapons",
+     "Sell head armor",
+     "Sell armor",
+     "Sell leg armor",
+     "Sell accessories"
+    ],
+    "question": [
+     {
+      "t": "So, what would you like to sell?"
+     }
+    ]
+   },
+   "brut_fr": "Alors, que veux-tu vendre ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_en": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+   "data_size": 336,
+   "budget": 328
+  },
+  {
+   "id": 17,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu veux parler de quoi ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So what do you want to talk about?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Parler boutique",
+     "Sélection cachée"
+    ],
+    "question": [
+     {
+      "t": "Tu veux parler de quoi ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about shopping",
+     "Undisplayed selection"
+    ],
+    "question": [
+     {
+      "t": "So what do you want to talk about?"
+     }
+    ]
+   },
+   "brut_fr": "Tu veux parler de quoi ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
+   "brut_en": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 18,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah, mais vous n'avez rien à vendre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, but you don't have anything you can sell."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah, mais vous n'avez rien à vendre.",
+   "brut_en": "Oh,[SP]but[SP]you[SP]don't[SP]have[SP]anything[SP]you[SP]can[SP]sell.",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 19,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Total :  yens."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça vous convient ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The total comes to  yen."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is that all right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Total :  yens."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Ça vous convient ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "The total comes to  yen."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Is that all right?"
+     }
+    ]
+   },
+   "brut_fr": "Total : [120E][NULL] yens.\nÇa vous convient ?\n[1208][0002]Oui\nNon",
+   "brut_en": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 20,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Héhéhé. Je vais vous expliquer les achats."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heeheehee. Okay, I'll tell you a little about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "shopping."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Héhéhé. Je vais vous expliquer les achats.",
+   "brut_en": "Heeheehee.[SP]Okay,[SP]I'll[SP]tell[SP]you[SP]a[SP]little[SP]about\nshopping.",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 21,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pour acheter, sélectionnez "
+      },
+      {
+       "enc": "Acheter,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "choix parmi nos articles."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "First, buying things. If you select "
+      },
+      {
+       "enc": "Buy items,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you can choose from our sundries."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pour acheter, sélectionnez [1432][NULL][NULL][0014]Acheter,[1432][NULL][NULL][0014]\nchoix parmi nos articles.",
+   "brut_en": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 22,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a une limite par article"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que vous pouvez porter."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, and there's a limit to how many of the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "same item you can carry."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a une limite par article\nque vous pouvez porter.",
+   "brut_en": "Oh,[SP]and[SP]there's[SP]a[SP]limit[SP]to[SP]how[SP]many[SP]of[SP]the\nsame[SP]item[SP]you[SP]can[SP]carry.",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 23,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pour vendre, choisissez "
+      },
+      {
+       "enc": "Vendre"
+      },
+      {
+       "t": ","
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "puis le type, puis l'article"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à nous céder."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Next, selling. Select "
+      },
+      {
+       "enc": "Sell items"
+      },
+      {
+       "t": " first, and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "then choose which type of item to sell. Then"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pick a particular item to sell us."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014],\npuis le type, puis l'article\nà nous céder.",
+   "brut_en": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 24,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Revente à moitié prix environ."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous ne pouvez pas vendre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce qui est équipé ni les spéciaux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Our resale prices are around half the original"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "price. You can't sell anything you have equipped,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and some special items are off-limits too."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Revente à moitié prix environ.\nVous ne pouvez pas vendre\nce qui est équipé ni les spéciaux.",
+   "brut_en": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
+   "data_size": 308,
+   "budget": 300
+  },
+  {
+   "id": 25,
+   "nom_fr": "Sœur n°5",
+   "nom_en": "Sister #5",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Voilà tout. Héhéhé."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's about it. Heeheehee."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Voilà tout. Héhéhé.",
+   "brut_en": "That's[SP]about[SP]it.[SP]Heeheehee.",
+   "data_size": 84,
+   "budget": 76
+  }
+ ]
+}

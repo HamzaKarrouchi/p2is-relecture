@@ -1,0 +1,1206 @@
+{
+ "no": 122,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Maître",
+   "nom_en": "Head monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Est-ce les Léonides...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On dirait le rugissement d'un lion."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Is that the rumored Leonids...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Indeed, it"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "looks as if a lion is roaring."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Est-ce les Léonides...?[1205][001E]\nOn dirait le rugissement d'un lion.",
+   "brut_en": "Is[SP]that[SP]the[SP]rumored[SP]Leonids...?[1205][001E][SP]Indeed,[SP]it\nlooks[SP]as[SP]if[SP]a[SP]lion[SP]is[SP]roaring.",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maître",
+   "nom_en": "Head monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le ciel est rayé d'étoiles qui ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "devraient pas tomber..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Quel terrible présage..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The sky is streaked with stars that should not"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be falling now..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " What a terrible omen..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le ciel est rayé d'étoiles qui ne\ndevraient pas tomber...[1205][001E]\nQuel terrible présage...",
+   "brut_en": "The[SP]sky[SP]is[SP]streaked[SP]with[SP]stars[SP]that[SP]should[SP]not\nbe[SP]falling[SP]now...[1205][001E][SP]What[SP]a[SP]terrible[SP]omen...",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Le cri du lion résonne au loin"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "La Grande Croix va vite commencer!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Le Caracol doit être au sommet! Vite!"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Maya",
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Que faire pour Jun-kun?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je ne veux pas que d'autres"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "souffrent par ma faute..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "The lion's roar echoes far and wide"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The Grand Cross will be starting soon!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The Caracol must be at the summit! Hurry!"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Maya",
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " What can I do for Jun-kun?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I don't want anyone else to suffer because"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of me..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Le cri du lion résonne au loin[1432][NULL][NULL][0014]...[1205][001E]\nLa Grande Croix va vite commencer!\nLe Caracol doit être au sommet! Vite!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n[1113]-kun...[1205][001E] Que faire pour Jun-kun?\nJe ne veux pas que d'autres\nsouffrent par ma faute...",
+   "brut_en": "[1432][NULL][NULL][0014]The[SP]lion's[SP]roar[SP]echoes[SP]far[SP]and[SP]wide[1432][NULL][NULL][0014]...[1205][001E]\nThe[SP]Grand[SP]Cross[SP]will[SP]be[SP]starting[SP]soon!\nThe[SP]Caracol[SP]must[SP]be[SP]at[SP]the[SP]summit![SP]Hurry!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n[1113]-kun...[1205][001E][SP]What[SP]can[SP]I[SP]do[SP]for[SP]Jun-kun?\nI[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]suffer[SP]because\nof[SP]me...",
+   "data_size": 486,
+   "budget": 478
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Se mettre en danger pour son"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rêve..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Carrément! C'est ce à quoi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aspirent tous les vrais hommes!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Putting yourself in harm's way for the sake"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of your dream..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hell yeah! That's what all"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "real men yearn for!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Se mettre en danger pour son\nrêve...[1205][001E] Carrément! C'est ce à quoi\naspirent tous les vrais hommes!",
+   "brut_en": "Putting[SP]yourself[SP]in[SP]harm's[SP]way[SP]for[SP]the[SP]sake\nof[SP]your[SP]dream...[1205][001E][SP]Hell[SP]yeah![SP]That's[SP]what[SP]all\nreal[SP]men[SP]yearn[SP]for!",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais d'un autre côté... Faut penser"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à ce que ressentent ceux qu'on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "laisse derrière, hein?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Though on the other hand... You have to think"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of how the people you leave behind feel, huh?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais d'un autre côté... Faut penser\nà ce que ressentent ceux qu'on\nlaisse derrière, hein?",
+   "brut_en": "Though[SP]on[SP]the[SP]other[SP]hand...[SP]You[SP]have[SP]to[SP]think\nof[SP]how[SP]the[SP]people[SP]you[SP]leave[SP]behind[SP]feel,[SP]huh?",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La ligne suivante de l'Oracle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "était: "
+      },
+      {
+       "enc": "Cinq crânes brillent dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "les profondeurs de la terre."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ils"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "se rapprochent..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The line from the Oracle of Maia after this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "was, "
+      },
+      {
+       "enc": "Five skulls glow in the depths of the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "earth."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " They're steadily getting closer..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La ligne suivante de l'Oracle\nétait: [1432][NULL][NULL][0014]Cinq crânes brillent dans\nles profondeurs de la terre.[1432][NULL][NULL][0014][1205][001E] Ils\nse rapprochent...",
+   "brut_en": "The[SP]line[SP]from[SP]the[SP]Oracle[SP]of[SP]Maia[SP]after[SP]this\nwas,[SP][1432][NULL][NULL][0014]Five[SP]skulls[SP]glow[SP]in[SP]the[SP]depths[SP]of[SP]the\nearth.[1432][NULL][NULL][0014][1205][001E][SP]They're[SP]steadily[SP]getting[SP]closer...",
+   "data_size": 300,
+   "budget": 292
+  },
+  {
+   "id": 6,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun veut vraiment détruire le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "monde? Pourquoi est-il devenu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Joker? "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je pige pas du tout!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Is Jun really trying to destroy the world?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Why did he become Joker? "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I don't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "get it at all!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun veut vraiment détruire le\nmonde? Pourquoi est-il devenu\nJoker? [1113]...[1205][001E] Je pige pas du tout!",
+   "brut_en": "Is[SP]Jun[SP]really[SP]trying[SP]to[SP]destroy[SP]the[SP]world?\nWhy[SP]did[SP]he[SP]become[SP]Joker?[SP][1113]...[1205][001E][SP]I[SP]don't\nget[SP]it[SP]at[SP]all!",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 7,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pardon, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Shunsuke-san..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sois prudent..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sorry I lost my cool, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Shunsuke-san..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Please be okay..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pardon, [1113]...[1205][001E]\nShunsuke-san...[1205][001E]\nSois prudent...",
+   "brut_en": "Sorry[SP]I[SP]lost[SP]my[SP]cool,[SP][1113]...[1205][001E]\nShunsuke-san...[1205][001E][SP]Please[SP]be[SP]okay...",
+   "data_size": 154,
+   "budget": 146
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maître",
+   "nom_en": "Head monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les Léonides surviennent si"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la poussière autour du soleil"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "croise l'orbite de la Terre,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "donnant l'impression de jaillir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du Lion."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Leonid is an phenomenon where, when the rings"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of dust around the sun overlap with Earth's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rotation, look like they're pouring from Leo."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les Léonides surviennent si\nla poussière autour du soleil\ncroise l'orbite de la Terre,\ndonnant l'impression de jaillir\ndu Lion.",
+   "brut_en": "Leonid[SP]is[SP]an[SP]phenomenon[SP]where,[SP]when[SP]the[SP]rings\nof[SP]dust[SP]around[SP]the[SP]sun[SP]overlap[SP]with[SP]Earth's\nrotation,[SP]look[SP]like[SP]they're[SP]pouring[SP]from[SP]Leo.",
+   "data_size": 302,
+   "budget": 294
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maître",
+   "nom_en": "Head monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais c'est périodique."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ce n'est jamais aussi fort"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "maintenant..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But it always happens in season. It's never"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this strong now..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais c'est périodique.\nCe n'est jamais aussi fort\nmaintenant...",
+   "brut_en": "But[SP]it[SP]always[SP]happens[SP]in[SP]season.[SP]It's[SP]never\nthis[SP]strong[SP]now...",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 10,
+   "nom_fr": "Maître",
+   "nom_en": "Head monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quand on parle du loup, on en voit la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "queue..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Les rumeurs qui circulent ont"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "provoqué cet étrange phénomène."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Speak of the devil and he doth appear..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The rumors circulating are what brought about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this strange phenomenon."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quand on parle du loup, on en voit la\nqueue...[1205][001E] Les rumeurs qui circulent ont\nprovoqué cet étrange phénomène.",
+   "brut_en": "Speak[SP]of[SP]the[SP]devil[SP]and[SP]he[SP]doth[SP]appear...[1205][001E]\nThe[SP]rumors[SP]circulating[SP]are[SP]what[SP]brought[SP]about\nthis[SP]strange[SP]phenomenon.",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 11,
+   "nom_fr": "Novice",
+   "nom_en": "Young monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh non... Oh non..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " D'abord"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les soldats, puis les étoiles...?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "M-Mes genoux tremblent trop"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour bouger!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh no... Oh no..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " F-First soldiers and now"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "stars...? M-My knees are shaking so much that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I can't move!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh non... Oh non...[1205][001E] D'abord\nles soldats, puis les étoiles...?\nM-Mes genoux tremblent trop\npour bouger!",
+   "brut_en": "Oh[SP]no...[SP]Oh[SP]no...[1205][001E][SP]F-First[SP]soldiers[SP]and[SP]now\nstars...?[SP]M-My[SP]knees[SP]are[SP]shaking[SP]so[SP]much[SP]that\nI[SP]can't[SP]move!",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 12,
+   "nom_fr": "Novice",
+   "nom_en": "Young monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On s'entraîne dur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chaque jour dans l'espoir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'apprendre l'art ultime"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de Goketsuji, le Mokujinken!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We undergo strict training every day in hopes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of one day learning Goketsuji's ultimate"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "skill, the Mokujinken!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On s'entraîne dur\nchaque jour dans l'espoir\nd'apprendre l'art ultime\nde Goketsuji, le Mokujinken!",
+   "brut_en": "We[SP]undergo[SP]strict[SP]training[SP]every[SP]day[SP]in[SP]hopes\nof[SP]one[SP]day[SP]learning[SP]Goketsuji's[SP]ultimate\nskill,[SP]the[SP]Mokujinken!",
+   "data_size": 252,
+   "budget": 244
+  },
+  {
+   "id": 13,
+   "nom_fr": "Novice",
+   "nom_en": "Young monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J-J'ignorais que Yukino"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pouvait être si effrayante..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Dure comme la pierre..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Elle est si modeste avec Fujii-san!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I-I didn't know Yukino-san could be so"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "scary..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I mean, she was hard as nails..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "She's so modest when she's with Fujii-san!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J-J'ignorais que Yukino\npouvait être si effrayante...[1205][001E]\nDure comme la pierre...\nElle est si modeste avec Fujii-san!",
+   "brut_en": "I-I[SP]didn't[SP]know[SP]Yukino-san[SP]could[SP]be[SP]so\nscary...[1205][001E][SP]I[SP]mean,[SP]she[SP]was[SP]hard[SP]as[SP]nails...\nShe's[SP]so[SP]modest[SP]when[SP]she's[SP]with[SP]Fujii-san!",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 14,
+   "nom_fr": "Novice",
+   "nom_en": "Young monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ta coiffure est trop cool! C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quoi, une coupe au bol? J'aimerais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bien essayer, mais y'a cette"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "histoire de crâne rasé."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Your hairstyle is so cool! What is that,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a pageboy? I wish I could give it a try,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but there's the whole shaved-head thing."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ta coiffure est trop cool! C'est\nquoi, une coupe au bol? J'aimerais\nbien essayer, mais y'a cette\nhistoire de crâne rasé.",
+   "brut_en": "Your[SP]hairstyle[SP]is[SP]so[SP]cool![SP]What[SP]is[SP]that,\na[SP]pageboy?[SP]I[SP]wish[SP]I[SP]could[SP]give[SP]it[SP]a[SP]try,\nbut[SP]there's[SP]the[SP]whole[SP]shaved-head[SP]thing.",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 15,
+   "nom_fr": "Novice",
+   "nom_en": "Young monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le maître a maîtrisé un art martial"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ancien. Il a 68 ans, mais il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "s'entraîne encore tous les jours"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et fait un jogging en forêt."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The head monk has mastered an ancient"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "martial art. He's 68 years old, but he still"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "trains every day and jogs in the forest."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le maître a maîtrisé un art martial\nancien. Il a 68 ans, mais il\ns'entraîne encore tous les jours\net fait un jogging en forêt.",
+   "brut_en": "The[SP]head[SP]monk[SP]has[SP]mastered[SP]an[SP]ancient\nmartial[SP]art.[SP]He's[SP]68[SP]years[SP]old,[SP]but[SP]he[SP]still\ntrains[SP]every[SP]day[SP]and[SP]jogs[SP]in[SP]the[SP]forest.",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 16,
+   "nom_fr": "Novice",
+   "nom_en": "Young monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il est gracieux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "comme un singe. Parfois, les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "randonneurs prennent même le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "maître pour une bête mythique."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "His movements are as graceful as a monkey's."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sometimes, hikers even mistake the head monk"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "for a mythical beast."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il est gracieux\ncomme un singe. Parfois, les\nrandonneurs prennent même le\nmaître pour une bête mythique.",
+   "brut_en": "His[SP]movements[SP]are[SP]as[SP]graceful[SP]as[SP]a[SP]monkey's.\nSometimes,[SP]hikers[SP]even[SP]mistake[SP]the[SP]head[SP]monk\nfor[SP]a[SP]mythical[SP]beast.",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 17,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Voici une "
+      },
+      {
+       "hl": "Némophile"
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This is a "
+      },
+      {
+       "hl": "Nemophilia"
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Voici une [E4][NULL][NULL][U+0006]Némophile[E4][NULL][NULL][0002]...",
+   "brut_en": "This[SP]is[SP]a[SP][E4][NULL][NULL][U+0006]Nemophilia[E4][NULL][NULL][0002]...",
+   "data_size": 84,
+   "budget": 76
+  }
+ ]
+}
