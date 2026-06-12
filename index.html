@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="nuit">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>P2IS Relecture</title>
+  <link rel="stylesheet" href="css/commun.css">
+  <link rel="stylesheet" href="css/theme-nuit.css">
+  <link rel="stylesheet" href="css/theme-rouge.css">
+  <link rel="stylesheet" href="css/accueil.css">
+</head>
+<body>
+  <canvas id="fond" aria-hidden="true"></canvas>
+  <main class="page accueil">
+    <h1>P2IS <span class="rouge">◆</span> Relecture</h1>
+    <p class="sous-titre">Relire la traduction française de Persona 2: Innocent Sin</p>
+    <form id="forme-heros">
+      <label>Prénom du protagoniste
+        <input id="prenom" value="Tatsuya" maxlength="12" autocomplete="off"></label>
+      <label>Nom de famille
+        <input id="nomfam" value="Suou" maxlength="12" autocomplete="off"></label>
+      <button type="submit">Commencer la relecture ▶</button>
+    </form>
+    <nav class="liens">
+      <a href="dictionnaire.html">📖 Dictionnaire</a>
+      <a href="apropos.html">ℹ️ À propos</a>
+    </nav>
+  </main>
+  <script type="module" src="js/accueil.js"></script>
+</body>
+</html>
