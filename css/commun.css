@@ -42,3 +42,17 @@ body { margin: 0; background: var(--fond); color: var(--texte); font-family: sys
 .choix button.fane { opacity: .35; }
 
 @media (max-width: 600px) { .contenu { max-width: 86%; } }
+
+.barre{display:flex;align-items:center;gap:12px;justify-content:space-between;
+       padding:10px 16px;border-bottom:2px solid var(--rouge);position:sticky;top:0;
+       background:var(--fond);z-index:5;}
+.barre a{color:var(--texte);text-decoration:none;font-weight:700;}
+.outils{display:flex;gap:8px;margin:14px 0;flex-wrap:wrap;}
+.outils input,.outils select{background:var(--fond2);border:1px solid var(--bord);
+       color:var(--texte);padding:8px 10px;border-radius:6px;flex:1;min-width:180px;}
+.grille{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px;}
+.carte-script{display:block;background:var(--carte);border:1px solid var(--bord);
+       border-radius:var(--rayon);padding:10px;color:var(--texte);text-decoration:none;}
+.carte-script.relu{border-color:#3a8a4a;}
+.carte-script .no{font-weight:700;color:var(--accent);}
+.carte-script .persos,.carte-script .compte{font-size:.78em;color:var(--texte2);}

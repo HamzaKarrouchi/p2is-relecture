@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="nuit">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Scripts — P2IS Relecture</title>
+  <link rel="stylesheet" href="css/commun.css">
+  <link rel="stylesheet" href="css/theme-nuit.css">
+  <link rel="stylesheet" href="css/theme-rouge.css">
+</head>
+<body>
+  <header class="barre">
+    <a href="index.html">🦋 P2IS Relecture</a>
+    <span id="stats"></span>
+    <button id="btn-theme" title="Changer de thème">🎨</button>
+  </header>
+  <main class="page">
+    <div class="outils">
+      <input id="q" placeholder="🔎 Rechercher un texte, un numéro…">
+      <select id="filtre-perso"><option value="">Tous les personnages</option></select>
+    </div>
+    <div id="grille" class="grille"></div>
+  </main>
+  <script type="module" src="js/grille.js"></script>
+</body>
+</html>
