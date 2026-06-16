@@ -1,6 +1,7 @@
 import { Etat } from "./etat.js";
 import { initTheme } from "./theme.js";
 import { dureeRevele, construireRevele } from "./reveal.js";
+import { toast } from "./toast.js";
 initTheme();
 const champPrenom = document.getElementById("prenom");
 const champNom = document.getElementById("nomfam");
@@ -73,5 +74,5 @@ const inputImport = document.querySelector("#importer-save input");
 if (inputImport) inputImport.onchange = async (ev) => {
   const f = ev.target.files[0]; if (!f) return;
   try { Etat.importer(await f.text()); location.reload(); }
-  catch { alert("Fichier de sauvegarde invalide."); }
+  catch { toast("Fichier de sauvegarde invalide.", { erreur: true }); }
 };
