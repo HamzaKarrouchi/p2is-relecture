@@ -104,3 +104,71 @@ body.compare .version-en,.bulle.montre-en .version-en{display:block;}
 .prose a{color:var(--accent);}
 .prose ul{padding-left:1.2em;}
 .prose li{margin:.3em 0;}
+
+/* ============================================================
+   T21 — Passe de polish UI/UX + responsive
+   ============================================================ */
+
+/* --- 1. Apparition des bulles (conteneur, jamais le texte) --- */
+@keyframes bulle-apparait {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.bulle, .choix { animation: bulle-apparait 180ms ease-out both; }
+
+/* --- 2. Transition douce de thème --- */
+body { transition: background-color .25s, color .25s; }
+
+/* --- 3. Typographie « display » légère sur les titres --- */
+.barre a, #titre { letter-spacing: .5px; }
+.prose h1 { letter-spacing: 1px; font-style: italic; }
+
+/* --- 4. Boutons de la barre : cible tactile correcte --- */
+.barre button {
+  background: none; border: 1px solid transparent; color: var(--texte);
+  min-width: 32px; min-height: 32px; padding: 4px 8px; border-radius: 6px;
+  cursor: pointer; font-size: 1em; line-height: 1;
+}
+.barre button:hover { border-color: var(--bord); }
+
+/* --- 5. Focus visible (a11y) sur tous les interactifs --- */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+label:focus-visible,
+.choix button:focus-visible,
+.swap:focus-visible,
+.edit:focus-visible,
+#ed-zone:focus-visible,
+[contenteditable]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* --- 6. Raccords boutons d'action de bulle --- */
+.swap, .edit { padding: 2px 4px; border-radius: 4px; }
+.warn { font-size: 1em; }
+.infobulle { max-width: min(240px, 90vw); }
+
+/* --- 7. Responsive mobile (375–600px) --- */
+@media (max-width: 600px) {
+  .barre {
+    flex-wrap: wrap; gap: 8px; padding: 8px 12px;
+  }
+  #titre {
+    max-width: 40vw;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  #panneau-editeur, #panneau-panier { width: 100vw; }
+}
+
+@media (max-width: 420px) {
+  .grille { grid-template-columns: 1fr; }
+}
+
+/* --- 8. Respect de prefers-reduced-motion --- */
+@media (prefers-reduced-motion: reduce) {
+  .bulle, .choix { animation: none; }
+  body { transition: none; }
+}
