@@ -1,5 +1,6 @@
 import { Etat } from "./etat.js";
 import { initTheme } from "./theme.js";
+import { dureeRevele, construireRevele } from "./reveal.js";
 initTheme();
 const champPrenom = document.getElementById("prenom");
 const champNom = document.getElementById("nomfam");
@@ -7,9 +8,14 @@ const h = Etat.get("heros", null);
 if (h) { champPrenom.value = h.prenom; champNom.value = h.nom; }
 document.getElementById("forme-heros").addEventListener("submit", (ev) => {
   ev.preventDefault();
-  Etat.set("heros", { prenom: champPrenom.value.trim() || "Tatsuya",
-                      nom: champNom.value.trim() || "Suou" });
-  location.href = "scripts.html";
+  const heros = { prenom: champPrenom.value.trim() || "Tatsuya",
+                  nom: champNom.value.trim() || "Suou" };
+  Etat.set("heros", heros);
+  const reduit = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const aller = () => { location.href = "scripts.html"; };
+  if (reduit) return aller();
+  construireRevele({ ...heros, portrait: "img/portraits/Tatsuya.webp" });
+  setTimeout(aller, dureeRevele(false));
 });
 
 // ── Fond animé : papillon bleu + flammes bleues ───────────────────────────
