@@ -1,20 +1,44 @@
-#fond{position:fixed;inset:0;z-index:-1;}
-.accueil{min-height:100vh;display:flex;flex-direction:column;justify-content:center;
-         align-items:center;text-align:center;gap:18px;}
-.accueil h1{font-size:2.6em;letter-spacing:4px;font-style:italic;font-weight:800;
-         text-transform:uppercase;text-shadow:0 2px 18px #000a;}
-.sous-titre{color:var(--texte2);margin-top:-8px;}
-.rouge{color:var(--rouge);}
-#forme-heros{display:flex;flex-direction:column;gap:12px;
-         background:color-mix(in srgb, var(--fond2) 82%, transparent);
-         padding:24px 30px;border:1px solid var(--bord);
-         border-top:3px solid var(--rouge);border-radius:var(--rayon);
-         box-shadow:0 10px 40px #000a;}
-#forme-heros input{background:var(--fond);border:1px solid var(--bord);color:var(--texte);
-         padding:9px 10px;border-radius:var(--rayon);font-size:1.05em;text-align:center;}
-#forme-heros button{background:var(--rouge);color:#fff;border:0;padding:11px;
-         border-radius:var(--rayon);font-weight:800;letter-spacing:.5px;cursor:pointer;
-         font-size:1.05em;transition:background .15s;}
-#forme-heros button:hover{background:var(--accent);}
-.liens a{color:var(--texte2);margin:0 10px;text-decoration:none;}
-.liens a:hover{color:var(--accent);}
+#fond{ position:fixed; inset:0; z-index:-1; }
+.accueil{ min-height:100vh; display:flex; flex-direction:column; justify-content:center;
+  align-items:center; text-align:center; gap:20px; }
+.accueil h1{ font-family:var(--ff-titre); font-style:italic; font-weight:600;
+  font-size:clamp(2.4rem,7vw,3.6rem); letter-spacing:2px; text-shadow:0 2px 20px rgba(0,0,0,.5);
+  margin:0; display:flex; align-items:center; gap:.4em; }
+.accueil h1 svg{ width:.9em; height:.9em; color:var(--philemon); }
+.sous-titre{ color:var(--texte2); font-style:italic; margin-top:-6px; max-width:60ch; }
+.rouge{ color:var(--rouge); }
+#forme-heros{ display:flex; flex-direction:column; gap:12px;
+  background:color-mix(in srgb,var(--fond2) 85%, transparent);
+  padding:26px 32px; border:1px solid var(--bord);
+  border-top:2px solid var(--accent); border-bottom:2px solid var(--accent);
+  border-radius:var(--rayon); box-shadow:var(--ombre); }
+#forme-heros label{ display:flex; flex-direction:column; gap:5px; text-align:left;
+  font-style:italic; color:var(--texte2); font-size:.9em; }
+#forme-heros input{ background:var(--fond); border:1px solid var(--bord); color:var(--texte);
+  padding:10px 12px; border-radius:var(--rayon); font-size:1.05em; text-align:center;
+  font-family:var(--ff-corps); }
+#forme-heros button{ background:var(--rouge); color:#fff; border:0; padding:12px;
+  border-radius:var(--rayon); font-family:var(--ff-titre); font-style:italic; font-weight:600;
+  letter-spacing:.5px; cursor:pointer; font-size:1.1em; transition:background .15s ease; }
+#forme-heros button:hover{ background:color-mix(in srgb,var(--rouge) 82%,#000); }
+.liens{ display:flex; flex-wrap:wrap; justify-content:center; gap:6px 18px; }
+.liens a,.liens label{ color:var(--texte2); text-decoration:none; cursor:pointer;
+  font-style:italic; display:inline-flex; align-items:center; gap:6px; }
+.liens a:hover,.liens label:hover{ color:var(--accent); }
+.liens svg{ width:15px; height:15px; }
+
+/* ── Révélation portrait + nom ────────────────────── */
+#revele{ position:fixed; inset:0; z-index:60; display:flex; flex-direction:column;
+  align-items:center; justify-content:center; gap:14px; background:var(--voile);
+  backdrop-filter:blur(4px); }
+#revele .cadre{ width:200px; height:200px; border-radius:var(--rayon); overflow:hidden;
+  border:2px solid var(--accent); box-shadow:0 0 0 1px var(--accent), var(--ombre);
+  animation:revele-portrait .8s ease-out both; }
+#revele .cadre img{ width:100%; height:100%; object-fit:cover; }
+#revele .nom-revele{ font-family:var(--ff-titre); font-style:italic; font-size:2rem;
+  color:var(--texte); letter-spacing:1px; animation:revele-nom .6s .5s ease-out both; }
+@keyframes revele-portrait{ from{ opacity:0; transform:scale(.85); } to{ opacity:1; transform:none; } }
+@keyframes revele-nom{ from{ opacity:0; transform:translateY(8px); } to{ opacity:1; transform:none; } }
+@media (prefers-reduced-motion: reduce){
+  #revele .cadre,#revele .nom-revele{ animation:none; }
+}
