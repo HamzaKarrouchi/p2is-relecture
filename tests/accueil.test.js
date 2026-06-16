@@ -17,8 +17,9 @@ describe("index.html", () => {
     expect(html).toContain("dictionnaire.html");
     expect(html).toContain("apropos.html");
   });
-  it("charge les 4 css et le module accueil", () => {
-    for (const f of ["css/commun.css","css/theme-nuit.css","css/theme-rouge.css","css/accueil.css","js/accueil.js"])
+  it("charge les css (commun, thèmes, typo) et le module accueil", () => {
+    for (const f of ["css/commun.css","css/theme-nuit.css","css/theme-jour.css",
+                     "css/typographie.css","css/accueil.css","js/accueil.js"])
       expect(html).toContain(f);
   });
 });

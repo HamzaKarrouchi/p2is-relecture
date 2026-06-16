@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<!-- ============================================================
+     MAQUETTE DE STYLES — P2IS Relecture
+     Fichier de prévisualisation jetable (hors site). Sert à
+     comparer visuellement plusieurs directions de redesign sur
+     un échantillon réel de l'UI : barre, bulles, choix, carte
+     de script, jauge d'octets.
+     Aucune donnée externe : innerHTML est ok ici (mockup).
+     ============================================================ -->
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maquettes de styles — P2IS Relecture</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Chakra+Petch:wght@400;600;700&family=Public+Sans:wght@400;600;800&family=Bebas+Neue&family=Lexend+Mega:wght@400;700;800&family=Source+Sans+3:wght@400;600;800&family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;1,400&family=Orbitron:wght@500;700&family=VT323&family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{ color-scheme: dark; }
+*{ box-sizing: border-box; }
+body{
+  margin:0; background:#0a0a0c; color:#e8e8ee;
+  font-family: Inter, system-ui, sans-serif; line-height:1.5;
+}
+
+/* ── En-tête de la page galerie ── */
+.intro{ max-width:1100px; margin:0 auto; padding:34px 20px 6px; }
+.intro h1{ font-family:"Space Grotesk",sans-serif; font-size:1.9rem; margin:0 0 6px; letter-spacing:.5px; }
+.intro p{ color:#9a9aae; margin:.2em 0; max-width:70ch; }
+.intro .hint{ color:#c8a24b; font-size:.92rem; }
+
+/* ── Conteneur d'un style ── */
+.style-panel{ padding:30px 20px 44px; border-top:1px solid #1c1c22; }
+.style-inner{ max-width:1100px; margin:0 auto; }
+.style-head{ display:flex; flex-wrap:wrap; align-items:baseline; gap:10px 16px; margin-bottom:4px; }
+.style-num{ font-family:"Space Grotesk",sans-serif; font-size:1.05rem; color:#6a6a7a; font-weight:700; }
+.style-name{ font-family:"Space Grotesk",sans-serif; font-size:1.5rem; font-weight:700; margin:0; }
+.style-tags{ display:flex; flex-wrap:wrap; gap:6px; margin-left:auto; }
+.tag{ font-size:.72rem; padding:3px 9px; border-radius:999px; background:#17171d; color:#a9a9bc; border:1px solid #26262f; white-space:nowrap; }
+.style-desc{ color:#9a9aae; margin:.3em 0 14px; max-width:80ch; }
+.meta-row{ display:flex; flex-wrap:wrap; gap:18px 28px; align-items:center; margin-bottom:18px; }
+.swatches{ display:flex; gap:7px; }
+.sw{ width:30px; height:30px; border-radius:7px; border:1px solid #ffffff22; position:relative; }
+.sw::after{ content:attr(data-l); position:absolute; bottom:-16px; left:50%; transform:translateX(-50%);
+  font-size:.6rem; color:#7a7a8a; white-space:nowrap; }
+.fonts{ font-size:.85rem; color:#9a9aae; }
+.fonts b{ color:#cfcfe0; font-weight:600; }
+
+/* ── Échantillon d'UI (rendu dans le thème courant) ── */
+.demo{ border-radius:14px; overflow:hidden; border:1px solid #1c1c22; }
+
+/* Variables consommées par les composants, surchargées par thème */
+.demo{
+  --fond:#111; --fond2:#161616; --carte:#1a1a1a; --bord:#333; --texte:#eee; --texte2:#999;
+  --accent:#e23140; --accent2:#8fd0ff; --heros:#e23140; --herosfond:#241016; --dico:#e8b54a;
+  --rayon:8px; --bordw:1px; --ombre:0 6px 18px #0007;
+  --ff-head:"Space Grotesk",sans-serif; --ff-body:Inter,sans-serif;
+  background:
+    radial-gradient(900px 420px at 50% -10%, color-mix(in srgb, var(--accent) 12%, transparent), transparent 60%),
+    var(--fond);
+  font-family:var(--ff-body); color:var(--texte);
+}
+
+/* barre */
+.d-bar{ display:flex; align-items:center; gap:12px; padding:11px 16px;
+  border-bottom:2px solid var(--accent); background:linear-gradient(180deg,var(--fond2),var(--fond)); }
+.d-logo{ display:flex; align-items:center; gap:8px; font-family:var(--ff-head); font-weight:800;
+  letter-spacing:1px; text-transform:uppercase; color:var(--texte); }
+.d-logo svg{ width:20px; height:20px; color:var(--accent); }
+.d-bar .sp{ flex:1; }
+.d-prog{ font-size:.78rem; color:var(--texte2); }
+.d-btn{ display:inline-flex; align-items:center; gap:6px; background:var(--carte); border:var(--bordw) solid var(--bord);
+  color:var(--texte); padding:6px 11px; border-radius:var(--rayon); font-size:.82rem; font-weight:600; cursor:pointer; }
+.d-btn svg{ width:15px; height:15px; }
+.d-btn.principal{ background:var(--accent); border-color:var(--accent); color:#fff; }
+.d-badge{ background:#fff; color:var(--accent); border-radius:999px; padding:0 6px; font-weight:800; font-size:.75rem; }
+
+.d-body{ padding:20px 18px; display:grid; grid-template-columns:1fr 300px; gap:22px; }
+@media(max-width:780px){ .d-body{ grid-template-columns:1fr; } }
+
+/* bulles */
+.d-bulle{ display:flex; gap:12px; margin:0 0 16px; align-items:flex-start; }
+.d-bulle.heros{ flex-direction:row-reverse; }
+.d-av{ width:64px; height:64px; flex:none; border-radius:var(--rayon); background:var(--carte);
+  border:2px solid var(--accent2); display:flex; align-items:center; justify-content:center; font-size:28px; box-shadow:var(--ombre); }
+.d-bulle.heros .d-av{ width:84px; height:84px; font-size:38px; border-color:var(--heros); }
+.d-co{ position:relative; background:var(--carte); border:var(--bordw) solid var(--bord);
+  border-left:3px solid var(--accent2); border-radius:0 var(--rayon) var(--rayon) var(--rayon);
+  padding:9px 14px; max-width:80%; box-shadow:var(--ombre); }
+.d-bulle.heros .d-co{ background:var(--herosfond); border-color:var(--heros); border-left:var(--bordw) solid var(--heros);
+  border-right:3px solid var(--heros); border-radius:var(--rayon) 0 var(--rayon) var(--rayon); }
+.d-nom{ font-family:var(--ff-head); font-weight:800; color:var(--accent2); font-size:.74rem;
+  letter-spacing:.5px; text-transform:uppercase; margin-bottom:3px; }
+.d-bulle.heros .d-nom{ color:var(--heros); }
+.d-co .dico{ color:var(--dico); border-bottom:1px dotted var(--dico); cursor:pointer; }
+
+/* choix */
+.d-choix{ display:flex; flex-direction:column; gap:7px; align-items:flex-end; margin-top:6px; }
+.d-choix .t{ font-family:var(--ff-head); font-size:.7rem; text-transform:uppercase; letter-spacing:.5px;
+  color:var(--heros); font-weight:800; opacity:.85; }
+.d-choix button{ background:var(--herosfond); border:var(--bordw) solid var(--heros); color:var(--texte);
+  padding:8px 14px; border-radius:var(--rayon); cursor:pointer; text-align:right; max-width:85%; font-family:var(--ff-body); }
+.d-choix button.elu{ background:var(--accent); border-color:var(--accent); color:#fff; font-weight:700; }
+
+/* aside : carte de script + jauge */
+.d-card{ display:flex; flex-direction:column; gap:3px; background:var(--carte); border:var(--bordw) solid var(--bord);
+  border-left:3px solid var(--accent); border-radius:var(--rayon); padding:11px 13px; box-shadow:var(--ombre); }
+.d-card .no{ font-family:var(--ff-head); font-weight:800; color:var(--accent); letter-spacing:.5px; }
+.d-card .lab{ font-weight:600; }
+.d-card .sub{ font-size:.76rem; color:var(--texte2); }
+.d-gauge{ margin-top:14px; background:var(--carte); border:var(--bordw) solid var(--bord); border-radius:var(--rayon); padding:11px 13px; }
+.d-gauge .lbl{ font-size:.76rem; color:var(--texte2); display:flex; justify-content:space-between; margin-bottom:6px; }
+.d-gauge .lbl b{ color:#6ad06a; font-family:var(--ff-head); }
+.d-track{ height:8px; border-radius:999px; background:#ffffff14; overflow:hidden; }
+.d-fill{ height:100%; width:72%; background:linear-gradient(90deg,#6ad06a,#e8b54a); }
+.d-valider{ width:100%; margin-top:10px; padding:9px; border:0; border-radius:var(--rayon);
+  background:var(--accent); color:#fff; font-weight:700; cursor:pointer; font-family:var(--ff-head); letter-spacing:.5px; }
+
+/* ════════════════════════════════════════════════════════════
+   THÈMES
+   ════════════════════════════════════════════════════════════ */
+
+/* ① VELVET EDITORIAL — minimalisme lecture, serif */
+.t-velvet .demo{
+  --fond:#12100e; --fond2:#1a1714; --carte:#1c1a17; --bord:#3a342c; --texte:#ece6dc; --texte2:#a89c88;
+  --accent:#b43a3a; --accent2:#c8a24b; --heros:#b43a3a; --herosfond:#1f1714; --dico:#c8a24b;
+  --rayon:2px; --bordw:1px; --ombre:none;
+  --ff-head:"Cormorant Garamond",serif; --ff-body:"Libre Baskerville",Georgia,serif;
+}
+.t-velvet .d-logo,.t-velvet .d-nom,.t-velvet .d-choix .t{ font-style:italic; text-transform:none; letter-spacing:1px; }
+.t-velvet .d-co{ box-shadow:none; border-left-width:2px; }
+.t-velvet .d-card .no{ font-style:italic; font-size:1.1rem; }
+.t-velvet .d-bar{ border-bottom:1px solid var(--accent2); background:var(--fond); }
+
+/* ② SINFUL GLOW — dark OLED + glass néon */
+.t-glow .demo{
+  --fond:#08080c; --fond2:#0d0d14; --carte:rgba(255,255,255,.05); --bord:rgba(255,255,255,.12);
+  --texte:#f3f3fb; --texte2:#8a8aa6; --accent:#ff2d55; --accent2:#5be0ff; --heros:#ff2d55; --herosfond:rgba(255,45,85,.10); --dico:#ffc857;
+  --rayon:12px; --bordw:1px; --ombre:0 8px 30px #000a;
+  background:radial-gradient(700px 400px at 80% 0%, #ff2d5520, transparent 60%),radial-gradient(700px 400px at 10% 100%, #5be0ff18, transparent 60%),#08080c;
+}
+.t-glow .d-co,.t-glow .d-card,.t-glow .d-gauge,.t-glow .d-btn{ backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); }
+.t-glow .d-bar{ background:rgba(13,13,20,.6); backdrop-filter:blur(12px); border-bottom:1px solid #ff2d5560; }
+.t-glow .d-nom{ text-shadow:0 0 12px currentColor; }
+.t-glow .d-av{ box-shadow:0 0 18px var(--accent2); }
+.t-glow .d-bulle.heros .d-av{ box-shadow:0 0 22px var(--heros); }
+.t-glow .d-valider{ box-shadow:0 0 18px #ff2d5588; }
+
+/* ③ PERSONA POP — neubrutalism Atlus */
+.t-pop .demo{
+  --fond:#0d0d0d; --fond2:#0d0d0d; --carte:#f5f1e6; --bord:#000; --texte:#f5f1e6; --texte2:#bdb7a6;
+  --accent:#e60012; --accent2:#ffd200; --heros:#e60012; --herosfond:#1a1a1a; --dico:#ffd200;
+  --rayon:0px; --bordw:3px; --ombre:6px 6px 0 #000;
+  --ff-head:"Bebas Neue",sans-serif; --ff-body:"Source Sans 3",sans-serif;
+}
+.t-pop .d-bar{ background:var(--accent); border-bottom:4px solid #000; }
+.t-pop .d-logo{ color:#fff; font-family:"Bebas Neue"; font-size:1.4rem; letter-spacing:2px; font-style:italic; }
+.t-pop .d-logo svg{ color:#fff; }
+.t-pop .d-co{ color:#111; border:3px solid #000; box-shadow:6px 6px 0 #000; transform:rotate(-.6deg); }
+.t-pop .d-bulle.heros .d-co{ color:#f5f1e6; background:#111; transform:rotate(.6deg); }
+.t-pop .d-nom{ font-family:"Bebas Neue"; font-size:1rem; letter-spacing:1px; }
+.t-pop .d-card{ color:#111; border:3px solid #000; box-shadow:6px 6px 0 #000; transform:rotate(-.8deg); }
+.t-pop .d-card .no{ font-size:1.4rem; }
+.t-pop .d-gauge{ color:#111; border:3px solid #000; box-shadow:6px 6px 0 #000; }
+.t-pop .d-gauge .lbl,.t-pop .d-card .sub{ color:#555; }
+.t-pop .d-choix button{ color:#fff; box-shadow:4px 4px 0 #000; }
+.t-pop .d-valider{ font-size:1.05rem; box-shadow:4px 4px 0 #000; }
+.t-pop .d-btn{ box-shadow:3px 3px 0 #000; font-weight:800; }
+.t-pop .d-track{ background:#00000022; border:2px solid #000; height:12px; }
+
+/* ④ TAROT NOIR — art déco occulte, or & pourpre */
+.t-tarot .demo{
+  --fond:#0c0814; --fond2:#140d22; --carte:#171026; --bord:#3a2a55; --texte:#ece4f5; --texte2:#9a8ab5;
+  --accent:#b8902f; --accent2:#9b6cff; --heros:#c43a5a; --herosfond:#1c1226; --dico:#d9b75a;
+  --rayon:4px; --bordw:1px; --ombre:0 6px 22px #0009;
+  --ff-head:"Cinzel",serif; --ff-body:"EB Garamond",Georgia,serif;
+}
+.t-tarot .d-logo,.t-tarot .d-nom{ letter-spacing:2px; }
+.t-tarot .d-co,.t-tarot .d-card{ border-image:linear-gradient(180deg,var(--dico),transparent) 1; }
+.t-tarot .d-av{ border-color:var(--dico); box-shadow:0 0 0 1px var(--dico), var(--ombre); }
+.t-tarot .d-bar{ border-bottom:1px solid var(--dico); }
+.t-tarot .d-card .no{ font-family:"Cinzel"; }
+
+/* ⑤ MIDNIGHT CRT — retro-futur PSP, scanlines synthwave */
+.t-crt .demo{
+  --fond:#080014; --fond2:#0d0220; --carte:#120a28; --bord:#3a1f6e; --texte:#d8f5ff; --texte2:#7b6bb5;
+  --accent:#ff2e88; --accent2:#16e0ff; --heros:#ff2e88; --herosfond:#1a0a2e; --dico:#ffe066;
+  --rayon:3px; --bordw:1px; --ombre:0 0 14px #ff2e8844;
+  --ff-head:"Orbitron",sans-serif; --ff-body:"VT323",monospace;
+  position:relative;
+}
+.t-crt .demo{ font-size:1.15rem; }
+.t-crt .demo::after{ content:""; position:absolute; inset:0; pointer-events:none; z-index:3;
+  background:repeating-linear-gradient(0deg, #00000033 0 1px, transparent 1px 3px); mix-blend-mode:overlay; }
+.t-crt .d-nom{ text-shadow:0 0 8px currentColor; letter-spacing:1px; }
+.t-crt .d-av{ box-shadow:0 0 14px var(--accent2); }
+.t-crt .d-valider,.t-crt .d-card .no{ text-shadow:0 0 8px currentColor; }
+
+/* ⑥ CLEAN LAUNCHER — JRPG moderne sobre, la mise à niveau "safe" */
+.t-modern .demo{
+  --fond:#0e1118; --fond2:#141926; --carte:#161b29; --bord:#27304a; --texte:#e7ecf6; --texte2:#8b95ad;
+  --accent:#ef4655; --accent2:#5aa9ff; --heros:#ef4655; --herosfond:#1b1620; --dico:#f2b53d;
+  --rayon:10px; --bordw:1px; --ombre:0 10px 30px #00000066;
+  --ff-head:"Space Grotesk",sans-serif; --ff-body:Inter,sans-serif;
+  background:linear-gradient(180deg,#10141d,#0c0f16);
+}
+.t-modern .d-bar{ border-bottom:1px solid var(--bord); background:#11151fcc; }
+.t-modern .d-co,.t-modern .d-card,.t-modern .d-gauge{ background:linear-gradient(180deg, #ffffff08, transparent), var(--carte); }
+.t-modern .demo{ --accent-grad:linear-gradient(135deg,#ef4655,#ff7a5a); }
+.t-modern .d-valider,.t-modern .d-btn.principal{ background:linear-gradient(135deg,#ef4655,#ff7a5a); }
+</style>
+</head>
+<body>
+
+<!-- icônes SVG (Lucide) réutilisables -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <symbol id="i-butterfly" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 6v16"/><path d="M12 6c-1.5-3-5-4-7.5-2.5C2 5 2.5 9 5 11c2 1.6 5 2 7 1"/><path d="M12 6c1.5-3 5-4 7.5-2.5C22 5 21.5 9 19 11c-2 1.6-5 2-7 1"/><path d="M12 12c-1.5 2-4.5 3-6.5 2C3 15 4 19 6.5 20c2 .8 4.5-.5 5.5-2"/><path d="M12 12c1.5 2 4.5 3 6.5 2 2-1 1-5-1.5-4-2 .8-4.5-.5-5.5-2"/>
+  </symbol>
+  <symbol id="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></symbol>
+  <symbol id="i-pen" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></symbol>
+</defs></svg>
+
+<div class="intro">
+  <h1>Maquettes de styles — P2IS Relecture</h1>
+  <p>Chaque section ci-dessous applique une direction de redesign sur le même échantillon réel de l'interface : barre, bulles héros / PNJ, bloc de choix, carte de script et jauge d'octets.</p>
+  <p class="hint">Tu peux en choisir une seule, ou en garder plusieurs comme thèmes commutables (le système <code>data-theme</code> existe déjà). Dis-moi le(s) numéro(s).</p>
+</div>
+
+<div id="galerie"></div>
+
+<script>
+const STYLES = [
+  { id:"velvet", num:"①", name:"Velvet Editorial",
+    tags:["Minimalisme","Serif","Lecture","WCAG AAA"],
+    desc:"L'outil avant tout. Serif littéraire, encre + or sépia, braise pour le héros. Maximum de lisibilité et de calme — pensé pour relire des heures. Persona en filigrane, sobre et premium.",
+    sw:[["#12100e","fond"],["#1c1a17","carte"],["#c8a24b","or"],["#b43a3a","braise"],["#ece6dc","texte"]],
+    fonts:"Titres <b>Cormorant Garamond</b> · Corps <b>Libre Baskerville</b>" },
+
+  { id:"glow", num:"②", name:"Sinful Glow",
+    tags:["Dark OLED","Glassmorphism","Néon","Atmosphérique"],
+    desc:"La plus immersive. Noir profond, panneaux en verre dépoli, halos rouge / cyan / or maîtrisés. Mysticisme, rumeurs, démons — colle au surnaturel de Persona 2.",
+    sw:[["#08080c","noir"],["#ff2d55","rouge"],["#5be0ff","cyan"],["#ffc857","or"],["#f3f3fb","texte"]],
+    fonts:"Titres <b>Chakra Petch</b> · Corps <b>Public Sans</b>" },
+
+  { id:"pop", num:"③", name:"Persona Pop",
+    tags:["Neubrutalism","Pop-art Atlus","Audacieux","Signature"],
+    desc:"Crie PERSONA au premier regard. Rouge sang, noir, diagonales, ombres dures décalées, italique massif. Le plus mémorable et le plus risqué stylistiquement.",
+    sw:[["#0d0d0d","noir"],["#e60012","rouge"],["#ffd200","jaune"],["#f5f1e6","crème"]],
+    fonts:"Titres <b>Bebas Neue / Lexend Mega</b> · Corps <b>Source Sans 3</b>" },
+
+  { id:"tarot", num:"④", name:"Tarot Noir",
+    tags:["Art déco","Occulte","Or & pourpre","Élégant"],
+    desc:"La Velvet Room en arcanes. Pourpre profond, or filigrane, capitales gravées. Élégant et mystérieux, à mi-chemin entre Velvet Editorial et Sinful Glow.",
+    sw:[["#0c0814","nuit"],["#171026","carte"],["#b8902f","or"],["#9b6cff","arcane"],["#c43a5a","sang"]],
+    fonts:"Titres <b>Cinzel</b> · Corps <b>EB Garamond</b>" },
+
+  { id:"crt", num:"⑤", name:"Midnight CRT",
+    tags:["Retro-futur","Synthwave","Scanlines","PSP"],
+    desc:"Clin d'œil à l'écran PSP et au 80s. Scanlines, phosphore rose / cyan, typo mono. Nostalgique et nerveux — caractère fort, à manier pour la lisibilité.",
+    sw:[["#080014","nuit"],["#ff2e88","rose"],["#16e0ff","cyan"],["#ffe066","jaune"],["#d8f5ff","texte"]],
+    fonts:"Titres <b>Orbitron</b> · Corps <b>VT323</b>" },
+
+  { id:"modern", num:"⑥", name:"Clean Launcher",
+    tags:["Moderne","Sobre","Sûr","Pro"],
+    desc:"La mise à niveau « safe » de l'existant : même esprit dark, mais propre, équilibré et professionnel — coins doux, dégradés discrets, contrastes maîtrisés. Le moindre risque.",
+    sw:[["#0e1118","fond"],["#161b29","carte"],["#ef4655","rouge"],["#5aa9ff","bleu"],["#e7ecf6","texte"]],
+    fonts:"Titres <b>Space Grotesk</b> · Corps <b>Inter</b>" },
+];
+
+const demoHTML = `
+<div class="demo">
+  <div class="d-bar">
+    <span class="d-logo"><svg><use href="#i-butterfly"/></svg> P2IS Relecture</span>
+    <span class="sp"></span>
+    <span class="d-prog">Script 042 · 7/12</span>
+    <button class="d-btn"><svg><use href="#i-moon"/></svg> Thème</button>
+    <button class="d-btn principal"><svg><use href="#i-pen"/></svg> Mes propositions <span class="d-badge">3</span></button>
+  </div>
+  <div class="d-body">
+    <div>
+      <div class="d-bulle">
+        <div class="d-av">🎤</div>
+        <div class="d-co"><div class="d-nom">Lisa</div>Tu as entendu la rumeur du <span class="dico">Joker</span> ? On dit qu'il exauce n'importe quel vœu…</div>
+      </div>
+      <div class="d-bulle heros">
+        <div class="d-av">🎭</div>
+        <div class="d-co"><div class="d-nom">Tatsuya</div>…Encore une de ces histoires qui traînent au lycée.</div>
+      </div>
+      <div class="d-choix">
+        <div class="t">Que répondre ?</div>
+        <button class="elu">« Les rumeurs finissent toujours par se réaliser. »</button>
+        <button>« Ça ne m'intéresse pas. »</button>
+      </div>
+    </div>
+    <div>
+      <div class="d-card">
+        <span class="no">№ 042</span>
+        <span class="lab">Toit du lycée — la rumeur</span>
+        <span class="sub">Lisa · Eikichi · Tatsuya</span>
+        <span class="sub">28 bulles · ✓ relu</span>
+      </div>
+      <div class="d-gauge">
+        <div class="lbl"><span>Budget d'octets</span> <b>142 / 160</b></div>
+        <div class="d-track"><div class="d-fill"></div></div>
+        <button class="d-valider">Valider la proposition</button>
+      </div>
+    </div>
+  </div>
+</div>`;
+
+document.getElementById("galerie").innerHTML = STYLES.map(s => `
+<section class="style-panel t-${s.id}">
+  <div class="style-inner">
+    <div class="style-head">
+      <span class="style-num">${s.num}</span>
+      <h2 class="style-name">${s.name}</h2>
+      <div class="style-tags">${s.tags.map(t=>`<span class="tag">${t}</span>`).join("")}</div>
+    </div>
+    <p class="style-desc">${s.desc}</p>
+    <div class="meta-row">
+      <div class="swatches">${s.sw.map(c=>`<span class="sw" style="background:${c[0]}" data-l="${c[1]}"></span>`).join("")}</div>
+      <div class="fonts">${s.fonts}</div>
+    </div>
+    ${demoHTML}
+  </div>
+</section>`).join("");
+</script>
+</body>
+</html>

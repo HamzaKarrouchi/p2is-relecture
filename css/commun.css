@@ -15,15 +15,21 @@ body {
 .bulle.heros { flex-direction: row-reverse; }
 
 .avatar {
-  width: 64px; height: 64px; border-radius: var(--rayon);
+  width: 72px; height: 72px; border-radius: var(--rayon);
   background: var(--carte); border: 2px solid var(--bord);
   display: flex; align-items: center; justify-content: center;
-  font-size: 30px; flex: none; overflow: hidden;
+  font-size: 32px; flex: none; overflow: hidden;
   box-shadow: 0 2px 10px #0007;
 }
 .avatar img { width: 100%; height: 100%; object-fit: cover; }
-.bulle.heros .avatar { border-color: var(--heros-bord); box-shadow: 0 0 0 1px var(--heros-bord), 0 2px 10px #0008; }
 .bulle:not(.heros) .avatar { border-color: var(--pnj-nom); }
+/* Le héros parle : son portrait est plus grand et à DROITE de son texte */
+.bulle.heros { justify-content: flex-end; }
+.bulle.heros .avatar {
+  width: 104px; height: 104px; font-size: 44px;
+  border-color: var(--heros-bord);
+  box-shadow: 0 0 0 1px var(--heros-bord), 0 3px 14px #0009;
+}
 
 .contenu {
   position: relative;
@@ -223,7 +229,7 @@ label:focus-visible,
 
 /* En-tête du bloc de choix : avatar du héros à droite */
 .choix-entete { display: flex; flex-direction: row-reverse; align-items: center; gap: 10px; margin-bottom: 2px; }
-.choix-entete .avatar { width: 40px; height: 40px; font-size: 20px; border-color: var(--heros-bord); }
+.choix-entete .avatar { width: 56px; height: 56px; font-size: 26px; border-color: var(--heros-bord); }
 
 /* Compteur d'avancement dans la barre */
 #avancement { color: var(--texte2); font-size: .8em; white-space: nowrap; }
