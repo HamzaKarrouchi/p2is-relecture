@@ -1,21 +1,28 @@
 <!DOCTYPE html>
-<html lang="fr" data-theme="rouge">
+<html lang="fr" data-theme="nuit">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Lecture — P2IS Relecture</title>
   <link rel="stylesheet" href="css/commun.css">
   <link rel="stylesheet" href="css/theme-nuit.css">
-  <link rel="stylesheet" href="css/theme-rouge.css">
+  <link rel="stylesheet" href="css/typographie.css">
+  <link rel="stylesheet" href="css/theme-jour.css">
 </head>
 <body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+    <symbol id="i-butterfly" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 6v15"/><path d="M12 6c-1.4-2.8-4.7-3.8-7-2.4C2.7 5 3.2 8.7 5.5 10.5c1.9 1.5 4.7 1.9 6.5 1"/><path d="M12 6c1.4-2.8 4.7-3.8 7-2.4 2.3 1.4 1.8 5.1-.5 6.9-1.9 1.5-4.7 1.9-6.5 1"/><path d="M12 12c-1.4 1.9-4.2 2.8-6 1.9-1.8-.9-1-4.4 1.3-3.5"/><path d="M12 12c1.4 1.9 4.2 2.8 6 1.9 1.8-.9 1-4.4-1.3-3.5"/></symbol>
+    <symbol id="i-theme" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></symbol>
+    <symbol id="i-pen" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"/></symbol>
+    <symbol id="i-back" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="m12 19-7-7 7-7"/></symbol>
+  </defs></svg>
   <header class="barre">
-    <a href="scripts.html">← Scripts</a>
+    <a href="scripts.html"><svg><use href="#i-back"/></svg> Scripts</a>
     <span id="titre"></span>
     <span id="avancement"></span>
     <label class="toggle"><input type="checkbox" id="cmp"> Afficher l'anglais</label>
-    <button id="btn-derouler" title="Afficher tout le script d'un coup">⏬ Tout afficher</button>
-    <button id="btn-theme" title="Changer de thème">🌙 Thème</button>
-    <button id="btn-panier" class="principal" title="Mes propositions de modification">✍️ Mes propositions <span id="badge-panier"></span></button>
+    <button id="btn-derouler" title="Afficher tout le script d'un coup">Tout afficher</button>
+    <button id="btn-theme" title="Changer de thème"><svg><use href="#i-theme"/></svg> Thème</button>
+    <button id="btn-panier" class="principal" title="Mes propositions de modification"><svg><use href="#i-pen"/></svg> Mes propositions <span id="badge-panier"></span></button>
   </header>
   <main class="page"><div id="fil"></div>
     <div id="fin" hidden>
@@ -23,7 +30,7 @@
       <div class="fin-actions">
         <button id="btn-relu">✓ Marquer comme relu</button>
         <button id="btn-recommencer" title="Relire ce script depuis le début">↺ Recommencer la lecture</button>
-        <button id="btn-panier-fin" class="principal" title="Voir mes propositions">✍️ Mes propositions <span id="badge-panier-fin"></span></button>
+        <button id="btn-panier-fin" class="principal" title="Voir mes propositions"><svg><use href="#i-pen"/></svg> Mes propositions <span id="badge-panier-fin"></span></button>
       </div>
       <nav class="fin-nav"><a id="prec">◀ Script précédent</a> <a id="suiv">Script suivant ▶</a></nav>
     </div>
