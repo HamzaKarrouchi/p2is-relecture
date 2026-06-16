@@ -1,32 +1,55 @@
+<div align="center">
+
 # P2IS Relecture 🦋
 
-Outil web de **relecture de la traduction française de Persona 2: Innocent Sin (PSP)** :
-on lit les scripts du jeu comme un visual novel (portraits, bulles, machine à écrire,
-choix), on clique sur une bulle pour proposer une correction — avec contrôle automatique
-de la **limite de taille binaire** du jeu — et on copie ses propositions, formatées,
-pour les poster sur Discord.
+**Outil web de relecture de la traduction française de *Persona 2: Innocent Sin* (PSP).**
+
+On lit les scripts du jeu comme un visual novel — portraits, bulles, machine à
+écrire, choix — on clique sur une bulle pour proposer une correction (avec
+contrôle automatique de la **limite de taille binaire** du jeu), puis on copie
+ses propositions formatées pour les poster sur Discord.
+
+`100 % statique` · `HTML/CSS/JS vanilla` · `zéro build` · `zéro dépendance runtime`
+
+</div>
 
 > Projet de fans, gratuit et non commercial. *Persona 2: Innocent Sin* © Atlus / SEGA.
-> Le projet de traduction : **https://github.com/chenetulipe/P2-FR-IS-PSP**
+> Projet de traduction : **[chenetulipe/P2-FR-IS-PSP](https://github.com/chenetulipe/P2-FR-IS-PSP)**
 
-## Fonctionnement
+---
 
-1. **Accueil** (`index.html`) : choisis le prénom/nom du protagoniste (défaut Tatsuya
-   Suou) — ils remplacent les placeholders `[1113]`/`[1112]` pendant la lecture.
-2. **Grille** (`scripts.html`) : 399 scripts, recherche plein texte, filtre par
-   personnage, progression ✓ par script.
+## ✨ Apparence
+
+Direction visuelle **« Velvet Editorial »** : un *grimoire de relecture nocturne*,
+sobre et littéraire, à grande respiration — pensé pour relire des heures.
+
+- **Deux ambiances**, au choix via le bouton ☾/☀ : **Velvet Nuit** (encre sombre,
+  par défaut) et **Velvet Jour** (parchemin clair). Le thème est mémorisé.
+- **Typographie serif** auto-hébergée (`font/`) : *Cormorant Garamond* (titres,
+  noms) + *Libre Baskerville* (corps), donc aucun appel réseau de polices.
+- **Couleurs Persona 2 IS** : or « Innocent Sin », braise « Joker / rumeur »,
+  bleu Philémon (le papillon animé de l'accueil).
+- Icônes **SVG** (pas d'émoji de chrome), animations respectueuses de
+  `prefers-reduced-motion`, responsive 375 → 1440 px.
+
+## 🎮 Fonctionnement
+
+1. **Accueil** (`index.html`) : choisis le prénom/nom du protagoniste (défaut
+   Tatsuya Suou) — ils remplacent les placeholders `[1113]`/`[1112]` pendant la
+   lecture. À la validation, le portrait du héros se révèle avec le nom choisi.
+2. **Sommaire** (`scripts.html`) : 399 scripts, recherche plein texte, filtre par
+   personnage, progression ✦ par script.
 3. **Lecture** (`lecture.html?s=NNN`) : fil de bulles progressif (clic/Espace),
    héros à droite, PNJ à gauche, comparaison FR/EN, termes du dictionnaire colorés.
-4. **Proposition** : clic sur une bulle → éditeur à jetons (les codes du jeu sont des
-   pastilles insécables), jauge d'octets en direct, validation bloquée hors budget.
-5. **Export** : le panier 📋 regroupe tes propositions → « Copier pour Discord ».
+4. **Proposition** : clic sur une bulle → éditeur à jetons (les codes du jeu sont
+   des pastilles insécables), jauge d'octets en direct, validation bloquée hors budget.
+5. **Export** : le panier regroupe tes propositions → « Copier pour Discord ».
 
-Tout est local (localStorage) : aucun compte, aucun serveur.
+Tout est local (`localStorage`) : aucun compte, aucun serveur.
 
-## Développement
+## 🛠️ Développement
 
-Site **100 % statique** : HTML/CSS/JS vanilla (modules ES), zéro dépendance runtime,
-zéro build. Servir le dossier suffit :
+Site **100 % statique**, zéro build. Servir le dossier suffit :
 
 ```bash
 python3 -m http.server 8088       # http://localhost:8088
@@ -35,9 +58,9 @@ python3 -m http.server 8088       # http://localhost:8088
 ### Tests
 
 ```bash
-npm install                        # une fois (vitest, devDependency uniquement)
-npm test                           # tests JS (budget, etat, theme, grille, normalise…)
-python3 -m unittest discover tests_py -q   # tests Python (sync)
+npm install                                  # une fois (vitest, devDependency)
+npm test                                      # tests JS (budget, etat, theme, grille, reveal, toast…)
+python3 -m unittest discover tests_py -q      # tests Python (sync)
 ```
 
 ### Données (`data/`)
@@ -48,8 +71,7 @@ Quand la traduction évolue :
 
 ```bash
 python3 sync.py                    # régénère data/
-git -C . diff --stat data/         # relire le diff
-# puis commit
+git -C . diff --stat data/         # relire le diff, puis commit
 ```
 
 Exceptions éditables à la main (préservées par sync) : `data/labels.json`
@@ -62,29 +84,40 @@ la référence absolue qui garantit qu'un texte tient dans le slot binaire PSP.
 Validé croisé sur 183 entrées réelles (`tests/fixtures-budget.json`).
 **Ne jamais modifier l'algorithme d'un seul côté.**
 
-## Workflow git
+## 📁 Structure
+
+```text
+index · scripts · lecture · dictionnaire · apropos   (pages HTML)
+css/   commun · theme-nuit · theme-jour · typographie · accueil
+js/    modules ES (accueil, grille, lecteur, editeur, panier, dico, budget,
+       etat, theme, normalise, reveal, toast…)
+font/  polices woff2 auto-hébergées
+data/  généré par sync.py
+```
+
+## 🔀 Workflow git
 
 - ⚠ Le dossier parent est un autre repo git : **toujours**
   `git -C /home/pchamza/Project/P2IS_Relecture/p2is-relecture <commande>`.
-- `main` = stable. Le développement se fait sur des branches
-  (actuellement `site-v1`), mergées dans `main` quand c'est fonctionnel.
-- 1 tâche du plan = 1 commit (préfixes `feat:`/`fix:`/`chore:`/`docs:`),
-  TDD : le commit inclut toujours ses tests.
-- Le plan d'implémentation détaillé : `docs/superpowers/plans/2026-06-12-site-relecture-p2is.md`
-  — le spec validé : `docs/superpowers/specs/2026-06-12-site-relecture-p2is-design.md`
-  — l'avancement : `ROADMAP.md`.
+- `main` = stable. Le développement se fait sur des branches, mergées dans `main`
+  quand c'est fonctionnel.
+- 1 tâche = 1 commit (préfixes `feat:`/`fix:`/`chore:`/`docs:`), TDD : le commit
+  inclut toujours ses tests.
+- Spec & plan d'une refonte : `docs/superpowers/specs/` et `docs/superpowers/plans/`.
+  L'avancement : `ROADMAP.md`.
 
-## Déploiement
+## 🚀 Déploiement
 
-Site **statique portable** : aucun build, chemins **relatifs** → déployable tel quel
-dans n'importe quel hébergement statique, y compris un sous-dossier. L'hébergement
-est assuré sur un site de **chenetulipe** ; il suffit d'y copier l'arborescence
-(hors `node_modules/`, `tests/`, `docs/`). `data/` est inclus et autonome.
+Site **statique portable** : aucun build, chemins **relatifs** → déployable tel
+quel dans n'importe quel hébergement statique, y compris un sous-dossier. Copier
+l'arborescence (hors `node_modules/`, `tests/`, `tests_py/`, `docs/`) ; `data/` et
+`font/` sont inclus et autonomes. L'hébergement est assuré sur un site de
+**chenetulipe**.
 
-## Crédits
+## ❤️ Crédits
 
-- **La communauté** — la traduction française est un effort collectif : de nombreux
-  membres y ont contribué, relu et corrigé ❤️
+- **La communauté** — la traduction française est un effort collectif : de
+  nombreux membres y ont contribué, relu et corrigé.
 - **chenetulipe** — extraction des scripts, outillage et hébergement du projet de
   traduction et de ce site · [P2-FR-IS-PSP](https://github.com/chenetulipe/P2-FR-IS-PSP)
 - **Garloulou** — premiers outils de vérification
