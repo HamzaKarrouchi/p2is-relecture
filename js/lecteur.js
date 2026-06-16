@@ -2,7 +2,11 @@ import { Etat } from "./etat.js";
 import { initTheme, basculerTheme } from "./theme.js";
 import { rendreSegments, rendreAvatar } from "./normalise.js";
 
-/** Vrai si cette bulle est dite par le héros (affichée à droite). */
+/**
+ * Vrai si cette bulle est dite par le héros (affichée à droite).
+ * NB : faux positif connu et accepté — un PNJ dont le nom_fr est exactement le
+ * prénom choisi par l'utilisateur (ou « Tatsuya ») sera traité comme le héros.
+ */
 export function estHeros(nom, heros) {
   return !nom || nom === heros.prenom || nom === "Tatsuya";
 }

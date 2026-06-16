@@ -16,7 +16,7 @@ _DELIM = re.compile(
     r'\n?(?:\[(?:U\+)?[0-9A-Fa-f]{4}\]|\[E[1-9]\])*\[E4\]\[NULL\]\[NULL\]"([^\n]*)\n')
 
 # Pause : [1205] suivi d'un code compagnon optionnel
-_PAUSE = re.compile(r'\[1205\](?:\[(?:U\+000[0-9A-F]|001E)\])?')
+_PAUSE = re.compile(r'\[1205\](?:\[(?:U\+000[0-9A-Fa-f]|001E)\])?')
 _ENC = re.compile(r'\[1432\]\[NULL\]\[NULL\]\[0014\](.*?)\[1432\]\[NULL\]\[NULL\]\[0014\]', re.S)
 _HL = re.compile(r'\[E4\]\[NULL\]\[NULL\]\[U\+0006\](.*?)\[E4\]\[NULL\]\[NULL\]\[0002\]', re.S)
 _CODE = re.compile(r'\[[^\]]*\]')

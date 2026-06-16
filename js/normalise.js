@@ -50,7 +50,7 @@ export function rendreSegments(segments, heros) {
  */
 export function texteLisible(brut) {
   return brut
-    .replace(/\[1205\](?:\[(?:U\+000[0-9A-F]|001E)\])?/g, "⏸")
+    .replace(/\[1205\](?:\[(?:U\+000[0-9A-Fa-f]|001E)\])?/g, "⏸")
     .replace(/\[SP\]/g, " ")
     .replace(/\n/g, "⏎");
 }
