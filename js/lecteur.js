@@ -2,6 +2,7 @@ import { Etat } from "./etat.js";
 import { initTheme, basculerTheme } from "./theme.js";
 import { rendreSegments, rendreAvatar } from "./normalise.js";
 import { chargerDico, marquerTermes, incoherences } from "./dico.js";
+import { ouvrirEditeur } from "./editeur.js";
 
 /**
  * Vrai si cette bulle est dite par le héros (affichée à droite).
@@ -12,7 +13,7 @@ export function estHeros(nom, heros) {
   return !nom || nom === heros.prenom || nom === "Tatsuya";
 }
 
-export function construireBulle(entree, bulle, { heros, persos, indiceBulle = 0, dico = [] }) {
+export function construireBulle(entree, bulle, { heros, persos, indiceBulle = 0, dico = [], surEditer }) {
   const nom = bulle.nom ?? entree.nom_fr;
   const el = document.createElement("div");
   const heroBulle = estHeros(nom, heros);
@@ -44,6 +45,11 @@ export function construireBulle(entree, bulle, { heros, persos, indiceBulle = 0,
   btnSwap.className = "swap"; btnSwap.textContent = "🔁"; btnSwap.title = "FR ↔ EN";
   btnSwap.onclick = (ev) => { ev.stopPropagation(); el.classList.toggle("montre-en"); };
   contenu.append(btnSwap);
+  const btnEdit = document.createElement("button");
+  btnEdit.type = "button";
+  btnEdit.className = "edit"; btnEdit.dataset.edit = ""; btnEdit.textContent = "✏️"; btnEdit.title = "Éditer";
+  btnEdit.onclick = (ev) => { ev.stopPropagation(); surEditer?.(entree, el); };
+  contenu.append(btnEdit);
   el.append(contenu);
   return el;
 }
@@ -227,10 +233,24 @@ if (document.getElementById("fil")) {
       document.getElementById("indicateur").hidden = pos >= blocs.length;
     }
 
+    function majBadgePanier() {
+      const n = Etat.panier().length;
+      document.getElementById("badge-panier").textContent = n || "";
+    }
+    majBadgePanier();
+
     let rejeu = true;
     const reduit = matchMedia("(prefers-reduced-motion: reduce)").matches;
     const lecture = creerLecture({
-      fil, blocs, ctx: { heros, persos, dico },
+      fil, blocs, ctx: {
+        heros, persos, dico,
+        surEditer: (entree, el) => ouvrirEditeur(entree, (prop) => {
+          Etat.panierAjouter({ script: no, id: entree.id, ...prop,
+                               ancien_brut: entree.brut_fr, ancien_nom: entree.nom_fr });
+          el.classList.add("modifiee");
+          majBadgePanier();
+        }),
+      },
       vitesse: () => (rejeu || reduit) ? 0 : Etat.get("vitesse", 28),
       surAvance: (pos) => { Etat.set(`pos.${no}`, pos); majBarre(pos); },
     });
