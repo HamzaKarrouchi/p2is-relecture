@@ -1,6 +1,7 @@
 import { Etat } from "./etat.js";
 import { initTheme, basculerTheme } from "./theme.js";
 import { rendreSegments, rendreAvatar } from "./normalise.js";
+import { chargerDico, marquerTermes, incoherences } from "./dico.js";
 
 /**
  * Vrai si cette bulle est dite par le héros (affichée à droite).
@@ -11,7 +12,7 @@ export function estHeros(nom, heros) {
   return !nom || nom === heros.prenom || nom === "Tatsuya";
 }
 
-export function construireBulle(entree, bulle, { heros, persos, indiceBulle = 0 }) {
+export function construireBulle(entree, bulle, { heros, persos, indiceBulle = 0, dico = [] }) {
   const nom = bulle.nom ?? entree.nom_fr;
   const el = document.createElement("div");
   const heroBulle = estHeros(nom, heros);
@@ -23,7 +24,17 @@ export function construireBulle(entree, bulle, { heros, persos, indiceBulle = 0 
   const nomEl = document.createElement("div");
   nomEl.className = "nom";
   nomEl.textContent = heroBulle ? heros.prenom : (nom || "—");
-  contenu.append(nomEl, rendreSegments(bulle.seg, heros));
+  const pbs = (entree.brut_en && entree.brut_fr) ? incoherences(entree.brut_en, entree.brut_fr, dico) : [];
+  if (pbs.length) {
+    const warn = document.createElement("span");
+    warn.className = "warn"; warn.textContent = "⚠";
+    warn.title = pbs.join(" ; ");
+    nomEl.append(warn);
+  }
+  const frWrap = rendreSegments(bulle.seg, heros);
+  frWrap.classList.add("fr");
+  marquerTermes(frWrap, dico);
+  contenu.append(nomEl, frWrap);
   const enWrap = document.createElement("div");
   enWrap.className = "version-en";
   const bulleEn = entree.bulles_en?.[indiceBulle] ?? entree.bulles_en?.[0];
@@ -195,7 +206,8 @@ if (document.getElementById("fil")) {
     fetch(`data/scripts/${String(no).padStart(3, "0")}.json`).then(r => { if (!r.ok) throw new Error("introuvable"); return r.json(); }),
     fetch("data/personnages.json").then(r => r.json()),
     fetch("data/index.json").then(r => r.json()),
-  ]).then(([donnees, persos, index]) => {
+    chargerDico(),
+  ]).then(([donnees, persos, index, dico]) => {
     const meta = index.find(s => s.no === no);
     const titre = `Script ${String(no).padStart(3, "0")}${meta?.label ? " — " + meta.label : ""}`;
     document.getElementById("titre").textContent = titre;
@@ -212,7 +224,7 @@ if (document.getElementById("fil")) {
     let rejeu = true;
     const reduit = matchMedia("(prefers-reduced-motion: reduce)").matches;
     const lecture = creerLecture({
-      fil, blocs, ctx: { heros, persos },
+      fil, blocs, ctx: { heros, persos, dico },
       vitesse: () => (rejeu || reduit) ? 0 : Etat.get("vitesse", 28),
       surAvance: (pos) => { Etat.set(`pos.${no}`, pos); majBarre(pos); },
     });
@@ -222,9 +234,36 @@ if (document.getElementById("fil")) {
     rejeu = false;
     if (cible === 0) lecture.avancer();   // montrer la 1re bulle
 
+    // Infobulle dico : une seule instance réutilisée, fermée au clic ailleurs.
+    let infobulle = null;
+    function fermerInfobulle() {
+      infobulle?.remove();
+      infobulle = null;
+    }
     fil.addEventListener("click", (ev) => {
+      const mot = ev.target.closest(".mot-dico");
+      if (mot) {
+        ev.stopPropagation();
+        fermerInfobulle();
+        infobulle = document.createElement("div");
+        infobulle.className = "infobulle";
+        const ligneEn = document.createElement("div");
+        ligneEn.textContent = `EN : ${mot.dataset.en}`;
+        const lien = document.createElement("a");
+        lien.href = "dictionnaire.html";
+        lien.textContent = "voir le dictionnaire";
+        infobulle.append(ligneEn, lien);
+        document.body.append(infobulle);
+        const r = mot.getBoundingClientRect();
+        infobulle.style.left = `${r.left + window.scrollX}px`;
+        infobulle.style.top = `${r.bottom + window.scrollY + 4}px`;
+        return;
+      }
       if (ev.target.closest(".choix") || ev.target.closest("button")) return;
       lecture.avancer();
+    });
+    document.addEventListener("click", (ev) => {
+      if (infobulle && !ev.target.closest(".infobulle") && !ev.target.closest(".mot-dico")) fermerInfobulle();
     });
     document.getElementById("indicateur").addEventListener("click", () => lecture.avancer());
     document.addEventListener("keydown", (ev) => {

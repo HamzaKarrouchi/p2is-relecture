@@ -63,3 +63,12 @@ body { margin: 0; background: var(--fond); color: var(--texte); font-family: sys
 body.compare .version-en,.bulle.montre-en .version-en{display:block;}
 .swap{background:none;border:0;cursor:pointer;font-size:.8em;opacity:.4;float:right;}
 .swap:hover{opacity:1;}
+
+.warn{color:#ffb347;cursor:help;margin-left:6px;}
+.infobulle{position:absolute;z-index:20;background:var(--carte);border:1px solid var(--accent);
+           border-radius:6px;padding:6px 10px;font-size:.85em;max-width:240px;box-shadow:0 4px 16px #0008;}
+.infobulle a{color:var(--accent);}
+.table-dico{width:100%;border-collapse:collapse;margin-top:12px;}
+.table-dico th,.table-dico td{text-align:left;padding:6px 10px;border-bottom:1px solid var(--bord);}
+.table-dico td.en{color:var(--texte2);}
+.table-dico td.fr{color:var(--dico);}
