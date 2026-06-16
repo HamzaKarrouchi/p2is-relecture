@@ -117,7 +117,23 @@ export function ecrireMachine(elBulle, vitesse) {
 export function creerLecture({ fil, blocs, ctx, vitesse = () => 28, surAvance = () => {} }) {
   let position = 0;
   let enCours = null;        // {finir} de l'écriture en cours
+  let choixEnAttente = false;
+  /** Arme un bloc choix déjà inséré : bloque la lecture jusqu'au clic d'une option. */
+  function armerChoix(el) {
+    choixEnAttente = true;
+    const boutons = [...el.querySelectorAll("button")];
+    for (const b of boutons) {
+      b.onclick = (ev) => {
+        ev.stopPropagation();
+        if (!choixEnAttente) return;
+        choixEnAttente = false;
+        for (const autre of boutons) autre.classList.add(autre === b ? "elu" : "fane");
+        avancer();
+      };
+    }
+  }
   function avancer() {
+    if (choixEnAttente) return;
     if (enCours) { enCours.finir(); enCours = null; return; }
     if (position >= blocs.length) return;
     const b = blocs[position++];
@@ -132,11 +148,14 @@ export function creerLecture({ fil, blocs, ctx, vitesse = () => 28, surAvance = 
         enCours = ecrireMachine(el, v);
         enCours.promesse.then(() => { enCours = null; });
       }
+    } else {
+      armerChoix(el);
     }
     surAvance(position, b);
   }
   function toutDerouler() {
     if (enCours) { enCours.finir(); enCours = null; }
+    choixEnAttente = false;
     while (position < blocs.length) {
       const b = blocs[position++];
       fil.append(b.type === "bulle"

@@ -109,3 +109,52 @@ describe("creerLecture", () => {
     vi.useRealTimers();
   });
 });
+
+describe("creerLecture — choix interactifs (T14)", () => {
+  const HEROS = { prenom: "H", nom: "K" };
+  const ENTREES_CHOIX = [
+    { id: 0, nom_fr: "Eikichi", bulles_fr: [{ nom: null, seg: [{ t: "Un" }] }], choix_fr: null },
+    { id: 1, nom_fr: "Mme Saeko",
+      bulles_fr: [{ nom: null, seg: [{ t: "On y va ?" }] }],
+      choix_fr: { question: [{ t: "On y va ?" }], options: ["Oui", "Non"] } },
+    { id: 2, nom_fr: "Eikichi", bulles_fr: [{ nom: null, seg: [{ t: "Après" }] }], choix_fr: null },
+  ];
+  function avancerAuChoix() {
+    const fil = document.createElement("div");
+    const lecture = creerLecture({ fil, blocs: aplatir(ENTREES_CHOIX), ctx: { heros: HEROS, persos: {} }, vitesse: () => 0 });
+    lecture.avancer(); // bulle "Un"
+    lecture.avancer(); // bulle "On y va ?"
+    lecture.avancer(); // bloc choix
+    return { fil, lecture };
+  }
+  it("bloque la lecture sur le bloc choix tant qu'aucune option n'est cliquée", () => {
+    const { fil, lecture } = avancerAuChoix();
+    const posApresChoix = lecture.position();
+    expect(fil.querySelectorAll(".choix button")).toHaveLength(2);
+    lecture.avancer(); // ne doit pas dépasser le choix
+    expect(lecture.position()).toBe(posApresChoix);
+    expect(fil.querySelectorAll(".bulle")).toHaveLength(2); // "Après" pas encore inséré
+  });
+  it("cliquer une option l'illumine, fane les autres, puis la lecture reprend", () => {
+    const { fil, lecture } = avancerAuChoix();
+    const boutons = [...fil.querySelectorAll(".choix button")];
+    boutons[0].click();
+    expect(boutons[0].classList.contains("elu")).toBe(true);
+    expect(boutons[1].classList.contains("fane")).toBe(true);
+    expect(boutons[0].classList.contains("fane")).toBe(false);
+    expect(boutons[1].classList.contains("elu")).toBe(false);
+    // la lecture a repris : la bulle "Après" est insérée
+    expect(fil.querySelectorAll(".bulle")).toHaveLength(3);
+    expect(fil.textContent).toContain("Après");
+  });
+  it("toutDerouler ne reste pas bloqué sur un choix", () => {
+    const fil = document.createElement("div");
+    const lecture = creerLecture({ fil, blocs: aplatir(ENTREES_CHOIX), ctx: { heros: HEROS, persos: {} }, vitesse: () => 0 });
+    lecture.avancer();
+    lecture.avancer();
+    lecture.avancer(); // bloc choix, arme choixEnAttente
+    lecture.toutDerouler();
+    expect(lecture.position()).toBe(aplatir(ENTREES_CHOIX).length);
+    expect(fil.querySelectorAll(".bulle")).toHaveLength(3);
+  });
+});
