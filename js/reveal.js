@@ -1,6 +1,6 @@
 // Révélation du protagoniste (portrait + nom) avant d'entrer dans la relecture.
 // Aucune donnée HTML : on utilise createElement/textContent uniquement.
-export function dureeRevele(reduit) { return reduit ? 0 : 1200; }
+export function dureeRevele(reduit) { return reduit ? 0 : 2200; }
 
 export function construireRevele({ prenom, nom, portrait }) {
   const ov = document.createElement("div");

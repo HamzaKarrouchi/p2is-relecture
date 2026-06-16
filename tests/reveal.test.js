@@ -4,7 +4,7 @@ import { dureeRevele, construireRevele } from "../js/reveal.js";
 beforeEach(() => { document.body.innerHTML = ""; });
 
 describe("dureeRevele", () => {
-  it("≈1200ms en mouvement normal", () => expect(dureeRevele(false)).toBe(1200));
+  it("≈2200ms en mouvement normal", () => expect(dureeRevele(false)).toBe(2200));
   it("0ms si reduced-motion", () => expect(dureeRevele(true)).toBe(0));
 });
 
