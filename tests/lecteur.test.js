@@ -8,6 +8,15 @@ const E_HEROS  = { id: 5, nom_fr: "", bulles_fr: [{ nom: null, seg: [{ t: "..." 
 const E_MENU   = { id: 6, nom_fr: "Mme Saeko",
   bulles_fr: [{ nom: null, seg: [{ t: "On y va ?" }] }],
   choix_fr: { question: [{ t: "On y va ?" }], options: ["Oui", "Non"] } };
+const E_AVEC_EN = { id: 7, nom_fr: "Eikichi",
+  bulles_fr: [{ nom: null, seg: [{ t: "Yo." }] }],
+  bulles_en: [{ nom: null, seg: [{ t: "Yo." }] }],
+  choix_fr: null };
+const E_SANS_EN = { id: 8, nom_fr: "Eikichi", bulles_fr: [{ nom: null, seg: [{ t: "Yo." }] }], choix_fr: null };
+const E_MENU_EN = { id: 9, nom_fr: "Mme Saeko",
+  bulles_fr: [{ nom: null, seg: [{ t: "On y va ?" }] }],
+  choix_fr: { question: [{ t: "On y va ?" }], options: ["Oui", "Non"] },
+  choix_en: { question: [{ t: "Shall we go?" }], options: ["Yes", "No"] } };
 
 beforeEach(() => { document.body.innerHTML = '<div id="fil"></div>'; });
 
@@ -156,5 +165,44 @@ describe("creerLecture — choix interactifs (T14)", () => {
     lecture.toutDerouler();
     expect(lecture.position()).toBe(aplatir(ENTREES_CHOIX).length);
     expect(fil.querySelectorAll(".bulle")).toHaveLength(3);
+  });
+});
+
+describe("construireBulle — comparaison FR/EN (T15)", () => {
+  it("avec bulles_en : .version-en contient le texte EN, .swap toggle montre-en", () => {
+    const el = construireBulle(E_AVEC_EN, E_AVEC_EN.bulles_fr[0], { heros: HEROS, persos: PERSOS });
+    const versionEn = el.querySelector(".version-en");
+    expect(versionEn).not.toBeNull();
+    expect(versionEn.textContent).toBe("Yo.");
+    const swap = el.querySelector(".swap");
+    expect(swap).not.toBeNull();
+    expect(el.classList.contains("montre-en")).toBe(false);
+    swap.onclick({ stopPropagation: () => {} });
+    expect(el.classList.contains("montre-en")).toBe(true);
+    swap.onclick({ stopPropagation: () => {} });
+    expect(el.classList.contains("montre-en")).toBe(false);
+  });
+  it("sans bulles_en : ne plante pas, .version-en présent mais vide", () => {
+    const el = construireBulle(E_SANS_EN, E_SANS_EN.bulles_fr[0], { heros: HEROS, persos: PERSOS });
+    const versionEn = el.querySelector(".version-en");
+    expect(versionEn).not.toBeNull();
+    expect(versionEn.textContent).toBe("");
+  });
+});
+
+describe("construireChoix — comparaison FR/EN (T15)", () => {
+  it("avec choix_en : boutons ont le title EN et une ligne .version-en jointe par « / »", () => {
+    const bloc = construireChoix(E_MENU_EN);
+    const boutons = [...bloc.querySelectorAll("button")];
+    expect(boutons.map(b => b.title)).toEqual(["Yes", "No"]);
+    const versionEn = bloc.querySelector(".version-en");
+    expect(versionEn).not.toBeNull();
+    expect(versionEn.textContent).toBe("Yes / No");
+  });
+  it("sans choix_en : pas de title, pas de .version-en", () => {
+    const bloc = construireChoix(E_MENU);
+    const boutons = [...bloc.querySelectorAll("button")];
+    expect(boutons.every(b => b.title === "")).toBe(true);
+    expect(bloc.querySelector(".version-en")).toBeNull();
   });
 });

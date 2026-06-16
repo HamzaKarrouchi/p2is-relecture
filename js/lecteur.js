@@ -24,6 +24,15 @@ export function construireBulle(entree, bulle, { heros, persos, indiceBulle = 0 
   nomEl.className = "nom";
   nomEl.textContent = heroBulle ? heros.prenom : (nom || "—");
   contenu.append(nomEl, rendreSegments(bulle.seg, heros));
+  const enWrap = document.createElement("div");
+  enWrap.className = "version-en";
+  const bulleEn = entree.bulles_en?.[indiceBulle] ?? entree.bulles_en?.[0];
+  if (bulleEn) enWrap.append(rendreSegments(bulleEn.seg, heros));
+  contenu.append(enWrap);
+  const btnSwap = document.createElement("button");
+  btnSwap.className = "swap"; btnSwap.textContent = "🔁"; btnSwap.title = "FR ↔ EN";
+  btnSwap.onclick = (ev) => { ev.stopPropagation(); el.classList.toggle("montre-en"); };
+  contenu.append(btnSwap);
   el.append(contenu);
   return el;
 }
@@ -32,11 +41,19 @@ export function construireChoix(entree) {
   const bloc = document.createElement("div");
   bloc.className = "choix";
   bloc.dataset.id = entree.id;
-  for (const opt of entree.choix_fr.options) {
+  const optionsEn = entree.choix_en?.options;
+  entree.choix_fr.options.forEach((opt, i) => {
     const b = document.createElement("button");
     b.type = "button";
     b.textContent = opt;
+    if (optionsEn) b.title = optionsEn[i] ?? "";
     bloc.append(b);
+  });
+  if (optionsEn) {
+    const enLigne = document.createElement("div");
+    enLigne.className = "version-en";
+    enLigne.textContent = optionsEn.join(" / ");
+    bloc.append(enLigne);
   }
   return bloc;
 }
@@ -217,5 +234,7 @@ if (document.getElementById("fil")) {
       lecture.avancer();
     });
     document.getElementById("btn-derouler").onclick = () => lecture.toutDerouler();
+    document.getElementById("cmp").onchange = (ev) =>
+      document.body.classList.toggle("compare", ev.target.checked);
   }).catch(() => { location.href = "scripts.html"; });     // script inexistant → retour grille
 }

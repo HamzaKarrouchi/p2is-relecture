@@ -57,3 +57,9 @@ body { margin: 0; background: var(--fond); color: var(--texte); font-family: sys
 .carte-script .no{font-weight:700;color:var(--accent);}
 .carte-script .persos,.carte-script .compte{font-size:.78em;color:var(--texte2);}
 .placeholder-heros{background:rgba(140,200,255,.14);border-radius:3px;padding:0 2px;}
+
+.version-en{display:none;color:var(--texte2);font-size:.85em;margin-top:6px;
+            border-top:1px dashed var(--bord);padding-top:4px;}
+body.compare .version-en,.bulle.montre-en .version-en{display:block;}
+.swap{background:none;border:0;cursor:pointer;font-size:.8em;opacity:.4;float:right;}
+.swap:hover{opacity:1;}
