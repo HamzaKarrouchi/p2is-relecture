@@ -59,7 +59,7 @@ export function aplatir(entrees) {
   return blocs;
 }
 
-/** Rend TOUT le fil d'un coup (v1 — la révélation progressive arrive en T13). */
+/** Rend TOUT le fil d'un coup (conservé pour les tests ; plus utilisé par le bootstrap depuis T13). */
 export function rendreFil(fil, blocs, ctx) {
   fil.replaceChildren();
   for (const b of blocs)
@@ -68,23 +68,135 @@ export function rendreFil(fil, blocs, ctx) {
       : construireChoix(b.entree));
 }
 
+/**
+ * Machine à écrire : vide puis retape les nœuds texte d'un élément de bulle.
+ * @param elBulle  élément .bulle déjà inséré au DOM
+ * @param vitesse  ms/caractère (0 = instantané)
+ * @returns {{promesse: Promise, finir: Function}} — finir() complète immédiatement.
+ */
+export function ecrireMachine(elBulle, vitesse) {
+  const morceaux = [];
+  (function collecter(n) {
+    for (const enfant of [...n.childNodes]) {
+      if (enfant.nodeType === Node.TEXT_NODE && enfant.textContent) {
+        morceaux.push({ noeud: enfant, txt: enfant.textContent });
+        enfant.textContent = "";
+      } else if (enfant.classList?.contains("pause")) {
+        morceaux.push({ pause: true });
+      } else if (enfant.childNodes) collecter(enfant);
+    }
+  })(elBulle.querySelector(".contenu") ?? elBulle);
+  let fini = false;
+  let resoudre;
+  const promesse = new Promise(res => { resoudre = res; });
+  function finir() {
+    if (fini) return;
+    fini = true;
+    for (const m of morceaux) if (!m.pause) m.noeud.textContent = m.txt;
+    resoudre();
+  }
+  if (vitesse === 0) { finir(); return { promesse, finir }; }
+  let i = 0, j = 0;
+  (function tick() {
+    if (fini) return;
+    if (i >= morceaux.length) return finir();
+    const m = morceaux[i];
+    if (m.pause) { i++; setTimeout(tick, vitesse * 9); return; }   // micro-pause du jeu
+    m.noeud.textContent = m.txt.slice(0, ++j);
+    if (j >= m.txt.length) { i++; j = 0; }
+    setTimeout(tick, vitesse);
+  })();
+  return { promesse, finir };
+}
+
+/**
+ * Crée le contrôleur de lecture progressive.
+ * @param opts {fil, blocs, ctx, vitesse: () => number, surAvance: (position, bloc) => void}
+ * Retourne { avancer, toutDerouler, position() }.
+ */
+export function creerLecture({ fil, blocs, ctx, vitesse = () => 28, surAvance = () => {} }) {
+  let position = 0;
+  let enCours = null;        // {finir} de l'écriture en cours
+  function avancer() {
+    if (enCours) { enCours.finir(); enCours = null; return; }
+    if (position >= blocs.length) return;
+    const b = blocs[position++];
+    const el = b.type === "bulle"
+      ? construireBulle(b.entree, b.bulle, { ...ctx, indiceBulle: b.i })
+      : construireChoix(b.entree);
+    fil.append(el);
+    el.scrollIntoView?.({ behavior: "smooth", block: "end" });
+    if (b.type === "bulle") {
+      const v = vitesse();
+      if (v > 0) {
+        enCours = ecrireMachine(el, v);
+        enCours.promesse.then(() => { enCours = null; });
+      }
+    }
+    surAvance(position, b);
+  }
+  function toutDerouler() {
+    if (enCours) { enCours.finir(); enCours = null; }
+    while (position < blocs.length) {
+      const b = blocs[position++];
+      fil.append(b.type === "bulle"
+        ? construireBulle(b.entree, b.bulle, { ...ctx, indiceBulle: b.i })
+        : construireChoix(b.entree));
+      surAvance(position, b);
+    }
+  }
+  return { avancer, toutDerouler, position: () => position };
+}
+
 // ── Bootstrap navigateur ──────────────────────────────────────────────────
 if (document.getElementById("fil")) {
   initTheme();
   document.getElementById("btn-theme").onclick = basculerTheme;
   const no = parseInt(new URLSearchParams(location.search).get("s"), 10);
   const heros = Etat.get("heros", { prenom: "Tatsuya", nom: "Suou" });
+  const fil = document.getElementById("fil");
   Promise.all([
     fetch(`data/scripts/${String(no).padStart(3, "0")}.json`).then(r => { if (!r.ok) throw new Error("introuvable"); return r.json(); }),
     fetch("data/personnages.json").then(r => r.json()),
     fetch("data/index.json").then(r => r.json()),
   ]).then(([donnees, persos, index]) => {
     const meta = index.find(s => s.no === no);
-    document.getElementById("titre").textContent =
-      `Script ${String(no).padStart(3, "0")}${meta?.label ? " — " + meta.label : ""}`;
+    const titre = `Script ${String(no).padStart(3, "0")}${meta?.label ? " — " + meta.label : ""}`;
+    document.getElementById("titre").textContent = titre;
+    document.title = titre;
+
     const blocs = aplatir(donnees.entrees);
-    rendreFil(document.getElementById("fil"), blocs, { heros, persos });
-    document.getElementById("avancement").textContent = `${blocs.length} bulles`;
-    document.getElementById("indicateur").hidden = true;   // v1 : tout est affiché
+
+    function majBarre(pos) {
+      document.getElementById("avancement").textContent = `${pos}/${blocs.length}`;
+      document.getElementById("fin").hidden = pos < blocs.length;
+      document.getElementById("indicateur").hidden = pos >= blocs.length;
+    }
+
+    let rejeu = true;
+    const reduit = matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const lecture = creerLecture({
+      fil, blocs, ctx: { heros, persos },
+      vitesse: () => (rejeu || reduit) ? 0 : Etat.get("vitesse", 28),
+      surAvance: (pos) => { Etat.set(`pos.${no}`, pos); majBarre(pos); },
+    });
+
+    const cible = Math.min(Etat.get(`pos.${no}`, 0), blocs.length);
+    for (let k = 0; k < cible; k++) lecture.avancer();
+    rejeu = false;
+    if (cible === 0) lecture.avancer();   // montrer la 1re bulle
+
+    fil.addEventListener("click", (ev) => {
+      if (ev.target.closest(".choix") || ev.target.closest("button")) return;
+      lecture.avancer();
+    });
+    document.getElementById("indicateur").addEventListener("click", () => lecture.avancer());
+    document.addEventListener("keydown", (ev) => {
+      if (ev.code !== "Space") return;
+      if (ev.target.closest?.("input, textarea, [contenteditable]")) return;
+      ev.preventDefault();
+      lecture.avancer();
+    });
+    document.getElementById("btn-derouler").onclick = () => lecture.toutDerouler();
   }).catch(() => { location.href = "scripts.html"; });     // script inexistant → retour grille
 }
