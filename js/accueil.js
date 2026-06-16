@@ -52,3 +52,20 @@ function boucle() {
 }
 if (!reduit) boucle();
 else { papillon(cv.width / 2, cv.height * .35, 1); } // statique si reduced-motion
+
+// ── Export / import de la sauvegarde localStorage ─────────────────────────
+const lienExport = document.getElementById("exporter-save");
+if (lienExport) lienExport.onclick = (ev) => {
+  ev.preventDefault();
+  const blob = new Blob([Etat.exporter()], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url; a.download = "p2is-relecture-sauvegarde.json";
+  a.click(); URL.revokeObjectURL(url);
+};
+const inputImport = document.querySelector("#importer-save input");
+if (inputImport) inputImport.onchange = async (ev) => {
+  const f = ev.target.files[0]; if (!f) return;
+  try { Etat.importer(await f.text()); location.reload(); }
+  catch { alert("Fichier de sauvegarde invalide."); }
+};

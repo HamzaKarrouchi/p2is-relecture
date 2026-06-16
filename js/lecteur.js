@@ -208,6 +208,17 @@ export function creerLecture({ fil, blocs, ctx, vitesse = () => 28, surAvance = 
   return { avancer, toutDerouler, rejouerJusque, position: () => position };
 }
 
+/** Retourne {prec, suiv} : numéros voisins dans la liste triée, ou null aux extrémités. */
+export function voisins(numeros, no) {
+  const i = numeros.indexOf(no);
+  return { prec: i > 0 ? numeros[i - 1] : null,
+           suiv: (i >= 0 && i < numeros.length - 1) ? numeros[i + 1] : null };
+}
+
+/** Cycle de vitesse du texte : 28 (🐢) → 12 (🐇) → 0 (⚡) → 28. */
+export function vitesseSuivante(v) { return v === 28 ? 12 : v === 12 ? 0 : 28; }
+export function iconeVitesse(v) { return v === 0 ? "⚡" : v <= 12 ? "🐇" : "🐢"; }
+
 // ── Bootstrap navigateur ──────────────────────────────────────────────────
 if (document.getElementById("fil")) {
   initTheme();
@@ -265,6 +276,29 @@ if (document.getElementById("fil")) {
     lecture.rejouerJusque(cible);         // reprise instantanée, sans re-bloquer sur un choix
     rejeu = false;
     if (cible === 0) lecture.avancer();   // montrer la 1re bulle
+
+    // Fin de script : marquage relu (le bouton est dans #fin, révélé par majBarre quand pos===blocs.length)
+    const btnRelu = document.getElementById("btn-relu");
+    function majBoutonRelu() {
+      btnRelu.textContent = Etat.estRelu(no) ? "✓ Relu — cliquer pour annuler" : "✓ Marquer comme relu";
+    }
+    btnRelu.onclick = () => { Etat.marquerRelu(no, !Etat.estRelu(no)); majBoutonRelu(); };
+    majBoutonRelu();
+
+    // Navigation précédent / suivant (sur l'ordre trié des numéros de l'index)
+    const numeros = index.map(s => s.no).sort((a, b) => a - b);
+    const { prec, suiv } = voisins(numeros, no);
+    const elPrec = document.getElementById("prec"), elSuiv = document.getElementById("suiv");
+    if (prec != null) elPrec.href = `lecture.html?s=${prec}`; else elPrec.style.visibility = "hidden";
+    if (suiv != null) elSuiv.href = `lecture.html?s=${suiv}`; else elSuiv.style.visibility = "hidden";
+
+    // Réglage vitesse dans la barre (inséré avant #btn-theme)
+    const btnV = document.createElement("button");
+    btnV.title = "Vitesse du texte";
+    btnV.textContent = iconeVitesse(Etat.get("vitesse", 28));
+    btnV.onclick = () => { const nv = vitesseSuivante(Etat.get("vitesse", 28));
+      Etat.set("vitesse", nv); btnV.textContent = iconeVitesse(nv); };
+    document.querySelector(".barre").insertBefore(btnV, document.getElementById("btn-theme"));
 
     // Infobulle dico : une seule instance réutilisée, fermée au clic ailleurs.
     let infobulle = null;
