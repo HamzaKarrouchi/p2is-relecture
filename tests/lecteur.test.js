@@ -166,6 +166,47 @@ describe("creerLecture — choix interactifs (T14)", () => {
     expect(lecture.position()).toBe(aplatir(ENTREES_CHOIX).length);
     expect(fil.querySelectorAll(".bulle")).toHaveLength(3);
   });
+  it("rejouerJusque traverse un choix sans rester bloqué (reprise de lecture)", () => {
+    const fil = document.createElement("div");
+    const blocs = aplatir(ENTREES_CHOIX);   // [bulle, bulle, choix, bulle] → length 4
+    const lecture = creerLecture({ fil, blocs, ctx: { heros: HEROS, persos: {} }, vitesse: () => 0 });
+    lecture.rejouerJusque(blocs.length);    // simule une reprise au-delà du choix
+    expect(lecture.position()).toBe(blocs.length);
+    expect(fil.querySelectorAll(".bulle")).toHaveLength(3);
+    // et la lecture reste utilisable ensuite (pas de choixEnAttente résiduel)
+    lecture.avancer();
+    expect(lecture.position()).toBe(blocs.length);
+  });
+});
+
+describe("ecrireMachine — robustesse hors-BMP (T13 fix)", () => {
+  it("ne tape pas le bouton .swap (emoji surrogate) ni la version EN cachée", () => {
+    vi.useFakeTimers();
+    const el = document.createElement("div");
+    el.innerHTML =
+      '<div class="contenu"><span class="fr">abc</span>' +
+      '<div class="version-en">EN</div><button class="swap">🔁</button></div>';
+    ecrireMachine(el, 10);
+    // l'emoji du bouton reste intact dès le premier tick, jamais un demi-surrogate
+    expect(el.querySelector(".swap").textContent).toBe("🔁");
+    expect(el.querySelector(".version-en").textContent).toBe("EN");
+    vi.advanceTimersByTime(100);
+    expect(el.querySelector(".fr").textContent).toBe("abc");
+    expect(el.querySelector(".swap").textContent).toBe("🔁");
+    vi.useRealTimers();
+  });
+  it("découpe un caractère hors-BMP par point de code, jamais de demi-surrogate", () => {
+    vi.useFakeTimers();
+    const el = document.createElement("div");
+    el.innerHTML = '<div class="fr">a😀b</div>';
+    ecrireMachine(el, 10);
+    expect(el.textContent).toBe("a");
+    vi.advanceTimersByTime(10);
+    expect(el.textContent).toBe("a😀");   // l'emoji apparaît d'un seul bloc
+    vi.advanceTimersByTime(10);
+    expect(el.textContent).toBe("a😀b");
+    vi.useRealTimers();
+  });
 });
 
 describe("construireBulle — comparaison FR/EN (T15)", () => {

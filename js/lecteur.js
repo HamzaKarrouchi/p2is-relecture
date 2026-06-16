@@ -104,23 +104,25 @@ export function rendreFil(fil, blocs, ctx) {
  */
 export function ecrireMachine(elBulle, vitesse) {
   const morceaux = [];
+  // On ne tape QUE le texte FR visible (.fr) : jamais la version EN cachée ni le
+  // bouton 🔁 (.swap), dont l'emoji hors-BMP serait corrompu par la frappe.
   (function collecter(n) {
     for (const enfant of [...n.childNodes]) {
       if (enfant.nodeType === Node.TEXT_NODE && enfant.textContent) {
-        morceaux.push({ noeud: enfant, txt: enfant.textContent });
+        morceaux.push({ noeud: enfant, chars: [...enfant.textContent] });
         enfant.textContent = "";
       } else if (enfant.classList?.contains("pause")) {
         morceaux.push({ pause: true });
       } else if (enfant.childNodes) collecter(enfant);
     }
-  })(elBulle.querySelector(".contenu") ?? elBulle);
+  })(elBulle.querySelector(".fr") ?? elBulle.querySelector(".contenu") ?? elBulle);
   let fini = false;
   let resoudre;
   const promesse = new Promise(res => { resoudre = res; });
   function finir() {
     if (fini) return;
     fini = true;
-    for (const m of morceaux) if (!m.pause) m.noeud.textContent = m.txt;
+    for (const m of morceaux) if (!m.pause) m.noeud.textContent = m.chars.join("");
     resoudre();
   }
   if (vitesse === 0) { finir(); return { promesse, finir }; }
@@ -130,8 +132,8 @@ export function ecrireMachine(elBulle, vitesse) {
     if (i >= morceaux.length) return finir();
     const m = morceaux[i];
     if (m.pause) { i++; setTimeout(tick, vitesse * 9); return; }   // micro-pause du jeu
-    m.noeud.textContent = m.txt.slice(0, ++j);
-    if (j >= m.txt.length) { i++; j = 0; }
+    m.noeud.textContent = m.chars.slice(0, ++j).join("");          // découpe par point de code
+    if (j >= m.chars.length) { i++; j = 0; }
     setTimeout(tick, vitesse);
   })();
   return { promesse, finir };
@@ -181,10 +183,13 @@ export function creerLecture({ fil, blocs, ctx, vitesse = () => 28, surAvance = 
     }
     surAvance(position, b);
   }
-  function toutDerouler() {
+  /** Insère les blocs jusqu'à `cible` instantanément, sans armer les choix.
+   *  Utilisé pour la reprise de lecture : un choix déjà franchi lors d'une session
+   *  précédente ne doit pas re-bloquer le rejeu. */
+  function rejouerJusque(cible) {
     if (enCours) { enCours.finir(); enCours = null; }
     choixEnAttente = false;
-    while (position < blocs.length) {
+    while (position < cible && position < blocs.length) {
       const b = blocs[position++];
       fil.append(b.type === "bulle"
         ? construireBulle(b.entree, b.bulle, { ...ctx, indiceBulle: b.i })
@@ -192,7 +197,8 @@ export function creerLecture({ fil, blocs, ctx, vitesse = () => 28, surAvance = 
       surAvance(position, b);
     }
   }
-  return { avancer, toutDerouler, position: () => position };
+  function toutDerouler() { rejouerJusque(blocs.length); }
+  return { avancer, toutDerouler, rejouerJusque, position: () => position };
 }
 
 // ── Bootstrap navigateur ──────────────────────────────────────────────────
@@ -230,7 +236,7 @@ if (document.getElementById("fil")) {
     });
 
     const cible = Math.min(Etat.get(`pos.${no}`, 0), blocs.length);
-    for (let k = 0; k < cible; k++) lecture.avancer();
+    lecture.rejouerJusque(cible);         // reprise instantanée, sans re-bloquer sur un choix
     rejeu = false;
     if (cible === 0) lecture.avancer();   // montrer la 1re bulle
 
