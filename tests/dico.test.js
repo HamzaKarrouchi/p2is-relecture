@@ -30,6 +30,17 @@ describe("incoherences", () => {
   it("rien si la traduction validée est utilisée", () => {
     expect(incoherences("The Last Battalion", "Le Bataillon", dico)).toEqual([]);
   });
+  it("gère les variantes « a/b » des deux côtés", () => {
+    const d = [{ en: "Shadow/Shadowmen", fr: "Ombre" },
+               { en: "Grand Cross", fr: "Croix Cosmique/Croix" }];
+    // EN à variantes : « Shadowmen » seul doit déclencher la détection
+    expect(incoherences("The Shadowmen attack", "Les monstres", d))
+      .toEqual(["Shadow/Shadowmen → Ombre"]);
+    // FR à variantes : la forme courte validée « Croix » ne doit PAS être un faux positif
+    expect(incoherences("The Grand Cross", "La Croix brille", d)).toEqual([]);
+    // EN à variantes correctement traduit → rien
+    expect(incoherences("A Shadow appears", "Une Ombre apparaît", d)).toEqual([]);
+  });
 });
 
 describe("lignesFiltrees", () => {

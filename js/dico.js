@@ -54,9 +54,14 @@ export function incoherences(brutEn, brutFr, dico) {
   const fr = brutFr.replace(/\[SP\]/g, " ").toLowerCase();
   const probs = [];
   for (const t of dico) {
-    const frPrincipal = t.fr.split("/")[0].trim();
-    if (en.includes(t.en.toLowerCase()) && !fr.includes(frPrincipal.toLowerCase()))
-      probs.push(`${t.en} → ${frPrincipal}`);
+    // Termes à variantes « a/b » des deux côtés : EN match si AU MOINS une variante
+    // est présente ; FR considéré correct si AU MOINS une variante validée apparaît.
+    const variantesEn = t.en.split("/").map(s => s.trim().toLowerCase()).filter(Boolean);
+    const variantesFr = t.fr.split("/").map(s => s.trim().toLowerCase()).filter(Boolean);
+    const enPresent = variantesEn.some(v => en.includes(v));
+    const frPresent = variantesFr.some(v => fr.includes(v));
+    if (enPresent && !frPresent)
+      probs.push(`${t.en} → ${t.fr.split("/")[0].trim()}`);
   }
   return probs;
 }
