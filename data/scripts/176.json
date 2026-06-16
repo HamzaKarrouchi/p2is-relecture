@@ -1,0 +1,363 @@
+{
+ "no": 176,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dieu merci..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu sembles aller bien, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Looks like you're okay, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Thank goodness."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Dieu merci...\nTu sembles aller bien, [1113].",
+   "brut_en": "Looks[SP]like[SP]you're[SP]okay,[SP][1113]...\nThank[SP]goodness.",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 1,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Peux-tu vérifier l'état de Lisa et Maya?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je m'occupe de Michel."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Could you take care of Lisa and Big Maya?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll check on Michel."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Peux-tu vérifier l'état de Lisa et Maya?\nJe m'occupe de Michel.",
+   "brut_en": "Could[SP]you[SP]take[SP]care[SP]of[SP]Lisa[SP]and[SP]Big[SP]Maya?\nI'll[SP]check[SP]on[SP]Michel.",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Uggggh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Uggggh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Uggggh...[1205][001E] [1113]...?",
+   "brut_en": "Uggggh...[1205][001E][SP][1113]...?",
+   "data_size": 58,
+   "budget": 50
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ngh... "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "? Où sont..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " les autres?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ngh... "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun...? Where's..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " the others?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ngh... [1113]? Où sont...[1205][001E] les autres?",
+   "brut_en": "Ngh...[SP][1113]-kun...?[SP]Where's...[1205][001E][SP]the[SP]others?",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouïlle..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'était atroce..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Owww..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That was horrible..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouïlle...[1205][001E] C'était atroce...",
+   "brut_en": "Owww...[1205][001E][SP]That[SP]was[SP]horrible...",
+   "data_size": 88,
+   "budget": 80
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Fiou..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Personne n'est blessé."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Whew..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " At least everyone's okay."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Fiou...[1205][001E] Personne n'est blessé.",
+   "brut_en": "Whew...[1205][001E][SP]At[SP]least[SP]everyone's[SP]okay.",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Par contre, aucune chance de remonter d'ici..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Prenons une minute pour réfléchir à la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "suite."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's no way we can get all the way back"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "up there..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Let's take a minute to think"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "about what to do."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Par contre, aucune chance de remonter d'ici...[1205][001E]\nPrenons une minute pour réfléchir à la\nsuite.",
+   "brut_en": "There's[SP]no[SP]way[SP]we[SP]can[SP]get[SP]all[SP]the[SP]way[SP]back\nup[SP]there...[1205][001E][SP]Let's[SP]take[SP]a[SP]minute[SP]to[SP]think\nabout[SP]what[SP]to[SP]do.",
+   "data_size": 228,
+   "budget": 220
+  }
+ ]
+}

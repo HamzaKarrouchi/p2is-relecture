@@ -1,0 +1,1488 @@
+{
+ "no": 0,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "....?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "....?",
+   "brut_en": "......?",
+   "data_size": 32,
+   "budget": 24
+  },
+  {
+   "id": 1,
+   "nom_fr": "Délinquant",
+   "nom_en": "Thuggish student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hep... On va où comme ça?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yo... Goin' somewhere?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hep... On va où comme ça?",
+   "brut_en": "Yo...[SP]Goin'[SP]somewhere?",
+   "data_size": 90,
+   "budget": 82
+  },
+  {
+   "id": 2,
+   "nom_fr": "Petite frappe",
+   "nom_en": "Less thuggish student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Héhé! Tu pourras jamais démarrer"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cette poubelle sans ça."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heheh! That piece of crap ain't gonna"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "start without this."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Héhé! Tu pourras jamais démarrer\ncette poubelle sans ça.",
+   "brut_en": "Heheh![SP]That[SP]piece[SP]of[SP]crap[SP]ain't[SP]gonna\nstart[SP]without[SP]this.",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 3,
+   "nom_fr": "Délinquant",
+   "nom_en": "Thuggish student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rien à dire, hein?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ta tronche me"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "revient pas. Tu te crois"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plus malin que les autres, c'est ça?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nothin' to say, huh?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I don't like that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prissy face of yours. You think you're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hot shit, don't you?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rien à dire, hein?[1205][001E] Ta tronche me\nrevient pas. Tu te crois\nplus malin que les autres, c'est ça?",
+   "brut_en": "Nothin'[SP]to[SP]say,[SP]huh?[1205][001E][SP]I[SP]don't[SP]like[SP]that\nprissy[SP]face[SP]of[SP]yours.[SP]You[SP]think[SP]you're\nhot[SP]shit,[SP]don't[SP]you?",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 4,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "......!?",
+   "brut_en": "......!?",
+   "data_size": 36,
+   "budget": 28
+  },
+  {
+   "id": 5,
+   "nom_fr": "Délinquant",
+   "nom_en": "Thuggish student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "M-Mec... Il t'arrive quoi là!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D-Dude... What's wrong with you!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "M-Mec... Il t'arrive quoi là!?",
+   "brut_en": "D-Dude...[SP]What's[SP]wrong[SP]with[SP]you!?",
+   "data_size": 112,
+   "budget": 104
+  },
+  {
+   "id": 6,
+   "nom_fr": "Voix inconnue",
+   "nom_en": "Unknown voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Prends... "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "ma "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "main..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Take... "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "my... "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "hand..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Prends... [1205][001E]ma [1205][001E]main...",
+   "brut_en": "Take...[SP][1205][001E]my...[SP][1205][001E]hand...",
+   "data_size": 90,
+   "budget": 82
+  },
+  {
+   "id": 7,
+   "nom_fr": "Petite frappe",
+   "nom_en": "Less thuggish student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y - Y a un truc bizarre là... Le mec transpire de fou..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "S-Somethin's wrong here... This guy's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sweating bullets..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Y - Y a un truc bizarre là... Le mec transpire de fou...",
+   "brut_en": "S-Somethin's[SP]wrong[SP]here...[SP]This[SP]guy's\nsweating[SP]bullets...",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 8,
+   "nom_fr": "Voix inconnue",
+   "nom_en": "Unknown voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N'aie crainte..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "- Je suis toi..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "-"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu es moi..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Do not fear me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "- I am thou..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "-"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Thou art I..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "N'aie crainte...[1205]- Je suis toi...[1205]-\nTu es moi...",
+   "brut_en": "Do[SP]not[SP]fear[SP]me...[1205]-[SP]I[SP]am[SP]thou...[1205]-\nThou[SP]art[SP]I...",
+   "data_size": 136,
+   "budget": 128
+  },
+  {
+   "id": 9,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "......!",
+   "brut_en": "......!",
+   "data_size": 34,
+   "budget": 26
+  },
+  {
+   "id": 10,
+   "nom_fr": "Proviseur Hanya",
+   "nom_en": "Principal Hanya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bon, vous trois! Qu'est-ce que vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "faites encore ici? Ça a sonné depuis un moment!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "All right, you three! What are you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chuckleheads still doing here? The last"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bell rang a while ago."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bon, vous trois! Qu'est-ce que vous\nfaites encore ici? Ça a sonné depuis un moment!",
+   "brut_en": "All[SP]right,[SP]you[SP]three![SP]What[SP]are[SP]you\nchuckleheads[SP]still[SP]doing[SP]here?[SP]The[SP]last\nbell[SP]rang[SP]a[SP]while[SP]ago.",
+   "data_size": 238,
+   "budget": 230
+  },
+  {
+   "id": 11,
+   "nom_fr": "Délinquant",
+   "nom_en": "Thuggish student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "M-M. le Directeur!? O-Oui m'sieur!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On va rentrer faire nos devoirs! Allez mec, o-on se taille!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "P-Principal Hanya!? O-Okay, sir! We'll"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "go straight home and do our schoolwork!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'mon, man, l-let's go!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "M-M. le Directeur!? O-Oui m'sieur!\nOn va rentrer faire nos devoirs! Allez mec, o-on se taille!",
+   "brut_en": "P-Principal[SP]Hanya!?[SP]O-Okay,[SP]sir![SP]We'll\ngo[SP]straight[SP]home[SP]and[SP]do[SP]our[SP]schoolwork!\nC'mon,[SP]man,[SP]l-let's[SP]go!",
+   "data_size": 250,
+   "budget": 242
+  },
+  {
+   "id": 12,
+   "nom_fr": "Petite frappe",
+   "nom_en": "Less thuggish student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T-Tiens, on te rend ça!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ciao!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "H-Here, we're done borrowing this!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Seeya!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T-Tiens, on te rend ça!\nCiao!",
+   "brut_en": "H-Here,[SP]we're[SP]done[SP]borrowing[SP]this!\nSeeya!",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 13,
+   "nom_fr": "Proviseur Hanya",
+   "nom_en": "Principal Hanya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tant que vous avez compris, hahaha!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ahhh, je ne me lasserai jamais d'eux!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Just so long as you understand, hahaha!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ahhh, what a delight children are!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tant que vous avez compris, hahaha!\nAhhh, je ne me lasserai jamais d'eux!",
+   "brut_en": "Just[SP]so[SP]long[SP]as[SP]you[SP]understand,[SP]hahaha!\nAhhh,[SP]what[SP]a[SP]delight[SP]children[SP]are!",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 14,
+   "nom_fr": "Proviseur Hanya",
+   "nom_en": "Principal Hanya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il en va de même pour toi! T'as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entendu au moins!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That goes for you too! Didn't you hear"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "what I said!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il en va de même pour toi! T'as\nentendu au moins!?",
+   "brut_en": "That[SP]goes[SP]for[SP]you[SP]too![SP]Didn't[SP]you[SP]hear\nwhat[SP]I[SP]said!?",
+   "data_size": 148,
+   "budget": 140
+  },
+  {
+   "id": 15,
+   "nom_fr": "Proviseur Hanya",
+   "nom_en": "Principal Hanya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pourquoi tu n'obéis pas!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est inadmissible!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Why won't you obey me!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "This is unacceptable!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pourquoi tu n'obéis pas!?\nC'est inadmissible!",
+   "brut_en": "Why[SP]won't[SP]you[SP]obey[SP]me!?\nThis[SP]is[SP]unacceptable!",
+   "data_size": 134,
+   "budget": 126
+  },
+  {
+   "id": 16,
+   "nom_fr": "Proviseur Hanya",
+   "nom_en": "Principal Hanya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Toi! Quel est ton nom et dans quelle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "classe es-tu?!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Réponds moi, bon sang!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You! Who are you and what class are"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you in!? State your name! C'mon, spit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it out already!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Toi! Quel est ton nom et dans quelle\nclasse es-tu?!\nRéponds moi, bon sang!",
+   "brut_en": "You![SP]Who[SP]are[SP]you[SP]and[SP]what[SP]class[SP]are\nyou[SP]in!?[SP]State[SP]your[SP]name![SP]C'mon,[SP]spit\nit[SP]out[SP]already!",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 17,
+   "nom_fr": "Proviseur Hanya",
+   "nom_en": "Principal Hanya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah, j'aurais dû m'en douter..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Les rumeurs parlaient bien d'un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "nom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah, I should have known... "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "You're that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "nom"
+      },
+      {
+       "t": " I've heard"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumors about."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah, j'aurais dû m'en douter...[1205][001E]\nLes rumeurs parlaient bien d'un\n[1113] [1112].",
+   "brut_en": "Ah,[SP]I[SP]should[SP]have[SP]known...[SP][1205][001E]You're[SP]that\n[1113][SP][1112][SP]I've[SP]heard\nrumors[SP]about.",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 18,
+   "nom_fr": "Proviseur Hanya",
+   "nom_en": "Principal Hanya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si tu es à l'origine de ces bruits agaçants que j'entends depuis le hall, c'est logique..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "es aussi gênant qu'on le dit."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If that nasty resonance I sensed from the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hall was you, it makes sense... "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Looks like"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you're as much trouble as the rumors say."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si tu es à l'origine de ces bruits agaçants que j'entends depuis le hall, c'est logique...[1205][001E] Tu\nes aussi gênant qu'on le dit.",
+   "brut_en": "If[SP]that[SP]nasty[SP]resonance[SP]I[SP]sensed[SP]from[SP]the\nhall[SP]was[SP]you,[SP]it[SP]makes[SP]sense...[SP][1205][001E]Looks[SP]like\nyou're[SP]as[SP]much[SP]trouble[SP]as[SP]the[SP]rumors[SP]say.",
+   "data_size": 300,
+   "budget": 292
+  },
+  {
+   "id": 19,
+   "nom_fr": "Proviseur Hanya",
+   "nom_en": "Principal Hanya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haha... Bon, je te laisse pour cette fois."
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Il"
+      },
+      {
+       "t": " viendra te guider bientôt."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Profite du peu de jeunesse qu'il te reste."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahah... Well, I'll let you alone. "
+      },
+      {
+       "enc": "He'll"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be along to guide you soon enough. Enjoy"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "what few moments are left of your youth."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Haha... Bon, je te laisse pour cette fois.\n[1432][NULL][NULL][0014]Il[1432][NULL][NULL][0014] viendra te guider bientôt.\nProfite du peu de jeunesse qu'il te reste.",
+   "brut_en": "Hahah...[SP]Well,[SP]I'll[SP]let[SP]you[SP]alone.[SP][1432][NULL][NULL][0014]He'll[1432][NULL][NULL][0014]\nbe[SP]along[SP]to[SP]guide[SP]you[SP]soon[SP]enough.[SP]Enjoy\nwhat[SP]few[SP]moments[SP]are[SP]left[SP]of[SP]your[SP]youth.",
+   "data_size": 304,
+   "budget": 296
+  },
+  {
+   "id": 20,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé, on dirait que t'as pris cher. Mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hanya est un homme bien, tu devrais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "écouter ce qu'il dit."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yo, looks like you got a raw deal."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Then again, Principal Hanya's a great man,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "so I suggest you listen to what he says."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé, on dirait que t'as pris cher. Mais\nHanya est un homme bien, tu devrais\nécouter ce qu'il dit.",
+   "brut_en": "Yo,[SP]looks[SP]like[SP]you[SP]got[SP]a[SP]raw[SP]deal.\nThen[SP]again,[SP]Principal[SP]Hanya's[SP]a[SP]great[SP]man,\nso[SP]I[SP]suggest[SP]you[SP]listen[SP]to[SP]what[SP]he[SP]says.",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 21,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé, me regarde pas comme ça. Je venais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "juste te dire que Mme Saeko veut te voir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, no need to glare like that. I just"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "came to say that Ms. Saeko is looking"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "for you."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé, me regarde pas comme ça. Je venais\njuste te dire que Mme Saeko veut te voir.",
+   "brut_en": "Hey,[SP]no[SP]need[SP]to[SP]glare[SP]like[SP]that.[SP]I[SP]just\ncame[SP]to[SP]say[SP]that[SP]Ms.[SP]Saeko[SP]is[SP]looking\nfor[SP]you.",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 22,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'as séché l'orientation, hein? Elle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avait l'air prête à te courser jusque chez toi."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'irais vite la voir à ta place."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You've been dodging guidance counseling,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "eh? She looked ready to chase you all the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "way to your house. Better go see her."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'as séché l'orientation, hein? Elle\navait l'air prête à te courser jusque chez toi.\nJ'irais vite la voir à ta place.",
+   "brut_en": "You've[SP]been[SP]dodging[SP]guidance[SP]counseling,\neh?[SP]She[SP]looked[SP]ready[SP]to[SP]chase[SP]you[SP]all[SP]the\nway[SP]to[SP]your[SP]house.[SP]Better[SP]go[SP]see[SP]her.",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 23,
+   "nom_fr": "Lycéen blessé",
+   "nom_en": "Bandaged male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*soupir* Je suis malade. Je me suis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "réveillé le visage enflé et le crâne un peu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dégarni. Tu peux rire, ouais..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sigh* I've taken ill myself. I woke up"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this morning with a swollen face and a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bald spot. Laugh if you want..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*soupir* Je suis malade. Je me suis\nréveillé le visage enflé et le crâne un peu\ndégarni. Tu peux rire, ouais...",
+   "brut_en": "*sigh*[SP]I've[SP]taken[SP]ill[SP]myself.[SP]I[SP]woke[SP]up\nthis[SP]morning[SP]with[SP]a[SP]swollen[SP]face[SP]and[SP]a\nbald[SP]spot.[SP]Laugh[SP]if[SP]you[SP]want...",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 24,
+   "nom_fr": "Lycéen blessé",
+   "nom_en": "Bandaged male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'envie pas du tout tes cheveux longs"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tout le monde finira par être chauve de toute façon."
+      },
+      {
+       "nl": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Héhé..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " t'es le prochain, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't envy your long hair at all. In the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "years to come, everyone will go bald"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "anyway."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Heh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'll be waiting, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'envie pas du tout tes cheveux longs\ntout le monde finira par être chauve de toute façon.\n[1205][001E] Héhé...[1205][001E] t'es le prochain, [1113].",
+   "brut_en": "I[SP]don't[SP]envy[SP]your[SP]long[SP]hair[SP]at[SP]all.[SP]In[SP]the\nyears[SP]to[SP]come,[SP]everyone[SP]will[SP]go[SP]bald\nanyway.[1205][001E][SP]Heh...[1205][001E][SP]I'll[SP]be[SP]waiting,[SP][1113].",
+   "data_size": 290,
+   "budget": 282
+  },
+  {
+   "id": 25,
+   "nom_fr": "Lycéenne blessée",
+   "nom_en": "Bandaged female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pas de bol, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-senpai. Je suis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "étonnée qu'Hanya soit si populaire."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il est détestable, mais je l'aime bien..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pourquoi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bad luck, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-senpai. I'm surprised"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "at how popular Principal Hanya is."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " He's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "awful, but I like him... Why is that?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pas de bol, [1113]-senpai. Je suis\nétonnée qu'Hanya soit si populaire.[1205][001E]\nIl est détestable, mais je l'aime bien...\nPourquoi?",
+   "brut_en": "Bad[SP]luck,[SP][1113]-senpai.[SP]I'm[SP]surprised\nat[SP]how[SP]popular[SP]Principal[SP]Hanya[SP]is.[1205][001E][SP]He's\nawful,[SP]but[SP]I[SP]like[SP]him...[SP]Why[SP]is[SP]that?",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 26,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu entretiens bien ta moto toi-même, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Les rumeurs sur tes talents en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mécanique sont donc vraies."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You maintain your own bike, right,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "? Looks like the rumors were true"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "about you being good with machines."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu entretiens bien ta moto toi-même, [1113]?\nLes rumeurs sur tes talents en\nmécanique sont donc vraies.",
+   "brut_en": "You[SP]maintain[SP]your[SP]own[SP]bike,[SP]right,\n[1113]?[SP]Looks[SP]like[SP]the[SP]rumors[SP]were[SP]true\nabout[SP]you[SP]being[SP]good[SP]with[SP]machines.",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 27,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-senpai!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est si soudain..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'ai pas d'expérience... Mon cœur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "n'est pas prêt..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais pour toi...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-senpai!? This is so sudden..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm inexperienced... My heart's not"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ready..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But maybe for you, I could...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]-senpai!?[1205][001E] C'est si soudain...\nJ'ai pas d'expérience... Mon cœur\nn'est pas prêt...[1205][001E] Mais pour toi...!",
+   "brut_en": "[1113]-senpai!?[SP]This[SP]is[SP]so[SP]sudden...[1205][001E]\nI'm[SP]inexperienced...[SP]My[SP]heart's[SP]not\nready...[1205][001E][SP]But[SP]maybe[SP]for[SP]you,[SP]I[SP]could...!",
+   "data_size": 262,
+   "budget": 254
+  }
+ ]
+}

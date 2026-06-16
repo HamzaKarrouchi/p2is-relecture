@@ -1,0 +1,612 @@
+{
+ "no": 16,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce stupide Boss n'est pas là non plus!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il y a toujours un boulet dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chaque groupe. Punaise, quel égoïste!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That stupid Boss isn't here either!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "There's always one bad apple in every"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bunch. Geez, he's so self-centered!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce stupide Boss n'est pas là non plus!\nIl y a toujours un boulet dans\nchaque groupe. Punaise, quel égoïste!",
+   "brut_en": "That[SP]stupid[SP]Boss[SP]isn't[SP]here[SP]either!\nThere's[SP]always[SP]one[SP]bad[SP]apple[SP]in[SP]every\nbunch.[SP]Geez,[SP]he's[SP]so[SP]self-centered!",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La Dame? Des masques? Des cartes? Je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sens une embrouille! Il se passe"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des choses louches ici!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lady? Masks? Cards? I smell something"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fishy here! There's funny business going"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "on in this place!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La Dame? Des masques? Des cartes? Je\nsens une embrouille! Il se passe\ndes choses louches ici!",
+   "brut_en": "Lady?[SP]Masks?[SP]Cards?[SP]I[SP]smell[SP]something\nfishy[SP]here![SP]There's[SP]funny[SP]business[SP]going\non[SP]in[SP]this[SP]place!",
+   "data_size": 214,
+   "budget": 206
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm... Je m'inquiète aussi pour Eikichi."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'espère qu'on pourra entrer dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce salon secret..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm... I'm worried about Eikichi-kun, too."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hopefully we can find a way into this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "secret lounge..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hmm... Je m'inquiète aussi pour Eikichi.\nJ'espère qu'on pourra entrer dans\nce salon secret...",
+   "brut_en": "Hmm...[SP]I'm[SP]worried[SP]about[SP]Eikichi-kun,[SP]too.\nHopefully[SP]we[SP]can[SP]find[SP]a[SP]way[SP]into[SP]this\nsecret[SP]lounge...",
+   "data_size": 216,
+   "budget": 208
+  },
+  {
+   "id": 3,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu es plutôt mortel avec ce katana,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're pretty deadly with that katana,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu es plutôt mortel avec ce katana,\n[1113].",
+   "brut_en": "You're[SP]pretty[SP]deadly[SP]with[SP]that[SP]katana,\n[1113].",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 4,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un vieux pote était un as au katana,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais tu te débrouilles bien. Je parie que tu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sais aussi te servir de tes poings, hein?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "One of my old pals was a whiz with a katana,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but you're not bad yourself. Bet you're pretty"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "handy with your fists too, huh?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un vieux pote était un as au katana,\nmais tu te débrouilles bien. Je parie que tu\nsais aussi te servir de tes poings, hein?",
+   "brut_en": "One[SP]of[SP]my[SP]old[SP]pals[SP]was[SP]a[SP]whiz[SP]with[SP]a[SP]katana,\nbut[SP]you're[SP]not[SP]bad[SP]yourself.[SP]Bet[SP]you're[SP]pretty\nhandy[SP]with[SP]your[SP]fists[SP]too,[SP]huh?",
+   "data_size": 272,
+   "budget": 264
+  },
+  {
+   "id": 5,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu sais aussi te servir de tes poings, hein?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bet you're pretty handy with your fists"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "too, huh?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Ouais.",
+     "Pas vraiment."
+    ],
+    "question": [
+     {
+      "t": "Tu sais aussi te servir de tes poings, hein?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yeah.",
+     "Not really."
+    ],
+    "question": [
+     {
+      "t": "Bet you're pretty handy with your fists"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "too, huh?"
+     }
+    ]
+   },
+   "brut_fr": "Tu sais aussi te servir de tes poings, hein?\n[1208][0002][1432][NULL][NULL][0014]Ouais.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas vraiment.[1432][NULL][NULL][0014]",
+   "brut_en": "Bet[SP]you're[SP]pretty[SP]handy[SP]with[SP]your[SP]fists\ntoo,[SP]huh?\n[1208][0002][1432][NULL][NULL][0014]Yeah.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]really.[1432][NULL][NULL][0014]",
+   "data_size": 196,
+   "budget": 188
+  },
+  {
+   "id": 6,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haha, je m'en doutais. On fait équipe pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "négocier la prochaine fois ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haha, I thought so. How 'bout it? Wanna try"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "teaming up in negotiations next time?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Haha, je m'en doutais. On fait équipe pour\nnégocier la prochaine fois ?",
+   "brut_en": "Haha,[SP]I[SP]thought[SP]so.[SP]How[SP]'bout[SP]it?[SP]Wanna[SP]try\nteaming[SP]up[SP]in[SP]negotiations[SP]next[SP]time?",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 7,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraiment? Eh bien, on ne devrait pas avoir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de problèmes si tu es aussi doué à l'épée."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je compte sur toi, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That so? Well, we shouldn't have any problems"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "if you're that good with the sword. I'll be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "counting on you, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraiment? Eh bien, on ne devrait pas avoir\nde problèmes si tu es aussi doué à l'épée.\nJe compte sur toi, [1113].",
+   "brut_en": "That[SP]so?[SP]Well,[SP]we[SP]shouldn't[SP]have[SP]any[SP]problems\nif[SP]you're[SP]that[SP]good[SP]with[SP]the[SP]sword.[SP]I'll[SP]be\ncounting[SP]on[SP]you,[SP][1113].",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 8,
+   "nom_fr": "Jeune homme masqué",
+   "nom_en": "Masked young man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est votre premier rassemblement ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On dit que c'est pareil pour tous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ceux convoqués aujourd'hui."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I take it this is your first gathering?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The rumor is, that's true for everyone who"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "was summoned today."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est votre premier rassemblement ?\nOn dit que c'est pareil pour tous\nceux convoqués aujourd'hui.",
+   "brut_en": "I[SP]take[SP]it[SP]this[SP]is[SP]your[SP]first[SP]gathering?\nThe[SP]rumor[SP]is,[SP]that's[SP]true[SP]for[SP]everyone[SP]who\nwas[SP]summoned[SP]today.",
+   "data_size": 250,
+   "budget": 242
+  },
+  {
+   "id": 9,
+   "nom_fr": "Jeune homme masqué",
+   "nom_en": "Masked young man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'as eu une carte de la Dame ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sans masque, tu ne pourras pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entrer dans le salon secret."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You got a card from the Lady, right? If you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "don't have a mask, you won't be able to get"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "into the secret lounge."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'as eu une carte de la Dame ?\nSans masque, tu ne pourras pas\nentrer dans le salon secret.",
+   "brut_en": "You[SP]got[SP]a[SP]card[SP]from[SP]the[SP]Lady,[SP]right?[SP]If[SP]you\ndon't[SP]have[SP]a[SP]mask,[SP]you[SP]won't[SP]be[SP]able[SP]to[SP]get\ninto[SP]the[SP]secret[SP]lounge.",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 10,
+   "nom_fr": "Élève masquée",
+   "nom_en": "Masked female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ces rassemblements sont nuls, mais faut voir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ça comme un billet gratuit pour une fête."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça vaut le coup pour réduire sa bouche, bref."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "These gatherings are so lame, but it helps to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "think of it as a free ticket to a party. It's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "worth it to have a smaller mouth, anyway."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ces rassemblements sont nuls, mais faut voir\nça comme un billet gratuit pour une fête.\nÇa vaut le coup pour réduire sa bouche, bref.",
+   "brut_en": "These[SP]gatherings[SP]are[SP]so[SP]lame,[SP]but[SP]it[SP]helps[SP]to\nthink[SP]of[SP]it[SP]as[SP]a[SP]free[SP]ticket[SP]to[SP]a[SP]party.[SP]It's\nworth[SP]it[SP]to[SP]have[SP]a[SP]smaller[SP]mouth,[SP]anyway.",
+   "data_size": 322,
+   "budget": 314
+  }
+ ]
+}

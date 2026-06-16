@@ -1,0 +1,194 @@
+{
+ "no": 90,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un jour, ce sanctuaire a pris feu..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "On"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "raconte qu'on peut y voir l'esprit de la fille"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "morte ici. Tu le savais déjà, hein?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There was a fire at this shrine once..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumored you can see the ghost of the girl who"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "died here."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You know about that, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un jour, ce sanctuaire a pris feu...[1205][001E]On\nraconte qu'on peut y voir l'esprit de la fille\nmorte ici. Tu le savais déjà, hein?",
+   "brut_en": "There[SP]was[SP]a[SP]fire[SP]at[SP]this[SP]shrine[SP]once...[1205][001E][SP]It's\nrumored[SP]you[SP]can[SP]see[SP]the[SP]ghost[SP]of[SP]the[SP]girl[SP]who\ndied[SP]here.[1205][001E][SP]You[SP]know[SP]about[SP]that,[SP]right?",
+   "data_size": 288,
+   "budget": 280
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haha... Ouais, et?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Cette rumeur est répandue. Tout le monde la connaît--"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haha... Yeah, what about it?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's a famous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumor. Everyone knows that one--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Haha... Ouais, et?[1205][001E] Cette rumeur est répandue. Tout le monde la connaît--",
+   "brut_en": "Haha...[SP]Yeah,[SP]what[SP]about[SP]it?[1205][001E][SP]It's[SP]a[SP]famous\nrumor.[SP]Everyone[SP]knows[SP]that[SP]one--",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On ne peut plus se cacher, Eikichi! On sait qui est cette fille…"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "notre Sœurette"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We can't hide from it anymore, Eikichi!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We know who that girl is..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We know about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Big Sis"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On ne peut plus se cacher, Eikichi! On sait qui est cette fille…[1205][001E] C'est\n[1432][NULL][NULL][0014]notre Sœurette[1432][NULL][NULL][0014]!",
+   "brut_en": "We[SP]can't[SP]hide[SP]from[SP]it[SP]anymore,[SP]Eikichi!\nWe[SP]know[SP]who[SP]that[SP]girl[SP]is...[1205][001E][SP]We[SP]know[SP]about\n[1432][NULL][NULL][0014]Big[SP]Sis[1432][NULL][NULL][0014]!",
+   "data_size": 222,
+   "budget": 214
+  }
+ ]
+}

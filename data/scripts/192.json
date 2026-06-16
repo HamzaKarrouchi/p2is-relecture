@@ -1,0 +1,509 @@
+{
+ "no": 192,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On se voit demain! À plus!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "See you tomorrow! Bye-bye!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On se voit demain! À plus!",
+   "brut_en": "See[SP]you[SP]tomorrow![SP]Bye-bye!",
+   "data_size": 76,
+   "budget": 68
+  },
+  {
+   "id": 1,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...",
+   "brut_en": "......",
+   "data_size": 32,
+   "budget": 24
+  },
+  {
+   "id": 2,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heu...Encore?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pourquoi? Pourquoi on voit ces choses?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ngh... Again...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Why? Why are we seeing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "these things...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Heu...Encore?[1205][001E] Pourquoi? Pourquoi on voit ces choses?",
+   "brut_en": "Ngh...[SP]Again...?[1205][001E][SP]Why?[SP]Why[SP]are[SP]we[SP]seeing\nthese[SP]things...?",
+   "data_size": 134,
+   "budget": 126
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ta maman vient pas te chercher, Jun-kun ?"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Jun",
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "J'aimerais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que tu sois ma maman,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sœurette..."
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Jun",
+     "seg": [
+      {
+       "t": "Maman me déteste..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais papa"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est super ! Je le jure !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Isn't your mom gonna come pick you up, Jun-kun?"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Jun",
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "I wish..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I wish you were my Mama,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big Sis..."
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Jun",
+     "seg": [
+      {
+       "t": "Mama... She hates me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But Papa's really"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "great! I swear!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ta maman vient pas te chercher, Jun-kun ?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\n...[1205][001E]J'aimerais...[1205][001E] que tu sois ma maman,\nSœurette...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nMaman me déteste...[1205][001E] Mais papa\nest super ! Je le jure !",
+   "brut_en": "Isn't[SP]your[SP]mom[SP]gonna[SP]come[SP]pick[SP]you[SP]up,[SP]Jun-kun?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\n...[1205][001E]I[SP]wish...[1205][001E][SP]I[SP]wish[SP]you[SP]were[SP]my[SP]Mama,\nBig[SP]Sis...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nMama...[SP]She[SP]hates[SP]me...[1205][001E][SP]But[SP]Papa's[SP]really\ngreat![SP]I[SP]swear!",
+   "data_size": 388,
+   "budget": 380
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Je t’accompagne !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Then I'll walk you home!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh...[1205][001E]Je t’accompagne !",
+   "brut_en": "Oh...[1205][001E][SP]Then[SP]I'll[SP]walk[SP]you[SP]home!",
+   "data_size": 86,
+   "budget": 78
+  },
+  {
+   "id": 5,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, bonjour... Merci de t’être occupé de Jun."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, hello..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Thanks for looking after Jun..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh, bonjour... Merci de t’être occupé de Jun.",
+   "brut_en": "Oh,[SP]hello...[1205][001E][SP]Thanks[SP]for[SP]looking[SP]after[SP]Jun...",
+   "data_size": 112,
+   "budget": 104
+  },
+  {
+   "id": 6,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rrr...!1205]C'est..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est qui...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Grrk...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Th-That's..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Who is that...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rrr...!1205][001E]C'est...[1205][001E] C'est qui...?",
+   "brut_en": "Grrk...![1205][001E][SP]Th-That's...[1205][001E][SP]Who[SP]is[SP]that...?",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bonjour."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Euh, vous êtes le père"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de Jun-kun ?"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Jun",
+     "seg": [
+      {
+       "t": "N-Non...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " mon oncle !"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Oncle de Jun",
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Allez, rentrons. Jun ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hello."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Um... Are you Jun-kun's father?"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Jun",
+     "seg": [
+      {
+       "t": "N-No...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " He's..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " He's my uncle!"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Jun's uncle",
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Come on... Let's go home. Jun...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bonjour.[1205][001E] Euh, vous êtes le père\nde Jun-kun ?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nN-Non...![1205][001E] C'est...[1205][001E] mon oncle !\n[E1][E2]\n[E3][E4][NULL][NULL]\"Oncle de Jun\n...[1205][001E]Allez, rentrons. Jun ?",
+   "brut_en": "Hello.[1205][001E][SP]Um...[SP]Are[SP]you[SP]Jun-kun's[SP]father?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nN-No...![1205][001E][SP]He's...[1205][001E][SP]He's[SP]my[SP]uncle!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun's[SP]uncle\n...[1205][001E]Come[SP]on...[SP]Let's[SP]go[SP]home.[SP]Jun...?",
+   "data_size": 316,
+   "budget": 308
+  }
+ ]
+}

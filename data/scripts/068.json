@@ -1,0 +1,832 @@
+{
+ "no": 68,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Voix féminine",
+   "nom_en": "Girl's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aaah! C'est chaud! Je vais mourir!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aaaaah! It's so hot! I'm gonna die!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aaah! C'est chaud! Je vais mourir!",
+   "brut_en": "Aaaaah![SP]It's[SP]so[SP]hot![SP]I'm[SP]gonna[SP]die!",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ixquic",
+   "nom_en": "Ixquic",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nooon! Aidez-moiii!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nooooo! Help meeee!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Nooon! Aidez-moiii!",
+   "brut_en": "Nooooo![SP]Help[SP]meeee!",
+   "data_size": 64,
+   "budget": 56
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Elle a quoi la nana déguisée!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Elle est dans un avion?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's with the cosplayer chick!? Why's she"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in that Zero?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Elle a quoi la nana déguisée!?\nElle est dans un avion?",
+   "brut_en": "What's[SP]with[SP]the[SP]cosplayer[SP]chick!?[SP]Why's[SP]she\nin[SP]that[SP]Zero?",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ixquic",
+   "nom_en": "Ixquic",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nooon! Aidez-moiii!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nooooo! Help meeee!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Nooon! Aidez-moiii!",
+   "brut_en": "Nooooo![SP]Help[SP]meeee!",
+   "data_size": 64,
+   "budget": 56
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Elle a quoi la nana déguisée des toilettes!? Elle est dans un avion !?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Is that the cosplayer chick from the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bathroom!? What's she doing in the Zero?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Elle a quoi la nana déguisée des toilettes!? Elle est dans un avion !?",
+   "brut_en": "Is[SP]that[SP]the[SP]cosplayer[SP]chick[SP]from[SP]the\nbathroom!?[SP]What's[SP]she[SP]doing[SP]in[SP]the[SP]Zero?",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Elle va mourir si elle reste ici! Qu'est-ce qu'on devrait faire "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "She's gonna die if she stays in there much"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "longer! What do we do, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Elle va mourir si elle reste ici! Qu'est-ce qu'on devrait faire [1113]!?",
+   "brut_en": "She's[SP]gonna[SP]die[SP]if[SP]she[SP]stays[SP]in[SP]there[SP]much\nlonger![SP]What[SP]do[SP]we[SP]do,[SP][1113]!?",
+   "data_size": 162,
+   "budget": 154
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vais sauté et la sauver!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'll jump down and rescue her!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vais sauté et la sauver!",
+   "brut_en": "I'll[SP]jump[SP]down[SP]and[SP]rescue[SP]her!",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 7,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'as perdu la tête, Maya!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est impossible! Le feu est trop intense!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Are you out of your mind, Maya-san!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It's impossible! The fire's too strong!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'as perdu la tête, Maya!?\nC'est impossible! Le feu est trop intense!",
+   "brut_en": "Are[SP]you[SP]out[SP]of[SP]your[SP]mind,[SP]Maya-san!?\nIt's[SP]impossible![SP]The[SP]fire's[SP]too[SP]strong!",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On peut pas savoir si c'est impossible sans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avoir essayé!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You don't know a thing is impossible until"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you've tried it!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On peut pas savoir si c'est impossible sans\navoir essayé!",
+   "brut_en": "You[SP]don't[SP]know[SP]a[SP]thing[SP]is[SP]impossible[SP]until\nyou've[SP]tried[SP]it!",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", va chercher une corde! Une fois que j'aurai sauté, vous devrez tous aider cette fille à remonter."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun, I need you to go look for"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a rope! Once I jump down there, the rest"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of you help pull the girl up."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113], va chercher une corde! Une fois que j'aurai sauté, vous devrez tous aider cette fille à remonter.",
+   "brut_en": "[1113]-kun,[SP]I[SP]need[SP]you[SP]to[SP]go[SP]look[SP]for\na[SP]rope![SP]Once[SP]I[SP]jump[SP]down[SP]there,[SP]the[SP]rest\nof[SP]you[SP]help[SP]pull[SP]the[SP]girl[SP]up.",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 10,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", va chercher une corde!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I need you to go look for a rope!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Je saute aussi.",
+     "Laisser faire Maya"
+    ],
+    "question": [
+     {
+      "hero": "prenom"
+     },
+     {
+      "t": ", va chercher une corde!"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "I'll jump down.",
+     "Leave this to Maya"
+    ],
+    "question": [
+     {
+      "t": "I need you to go look for a rope!"
+     }
+    ]
+   },
+   "brut_fr": "[1113], va chercher une corde!\n[1208][0002][1432][NULL][NULL][0014]Je saute aussi.[1432][NULL][NULL][0014]\nLaisser faire Maya",
+   "brut_en": "I[SP]need[SP]you[SP]to[SP]go[SP]look[SP]for[SP]a[SP]rope!\n[1208][0002][1432][NULL][NULL][0014]I'll[SP]jump[SP]down.[1432][NULL][NULL][0014]\nLeave[SP]this[SP]to[SP]Maya",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 11,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Maya garde un œil sur "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On va chercher une corde."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Maya-san, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun is in your hands!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We'll go find a rope."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Maya garde un œil sur [1113]!\nOn va chercher une corde.",
+   "brut_en": "Maya-san,[SP][1113]-kun[SP]is[SP]in[SP]your[SP]hands!\nWe'll[SP]go[SP]find[SP]a[SP]rope.",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 12,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Fais attention, "
+      },
+      {
+       "hero": "prenom"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Be careful, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Fais attention, [1113]",
+   "brut_en": "Be[SP]careful,[SP][1113]-kun.",
+   "data_size": 58,
+   "budget": 50
+  },
+  {
+   "id": 13,
+   "nom_fr": "Ixquic",
+   "nom_en": "Ixquic",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mec! Aide-moi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dude! Please help me!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mec! Aide-moi!",
+   "brut_en": "Dude![SP]Please[SP]help[SP]me!",
+   "data_size": 68,
+   "budget": 60
+  },
+  {
+   "id": 14,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On a trouvé une corde! Ça va "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We found a rope! Are you okay, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On a trouvé une corde! Ça va [1113]!?",
+   "brut_en": "We[SP]found[SP]a[SP]rope![SP]Are[SP]you[SP]okay,[SP][1113]!?",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 15,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allez, tirez!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alright, pull!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Allez, tirez!",
+   "brut_en": "Alright,[SP]pull!",
+   "data_size": 54,
+   "budget": 46
+  },
+  {
+   "id": 16,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Super! À ton tour, "
+      },
+      {
+       "hero": "prenom"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Awesome! Your turn, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Super! À ton tour, [1113]",
+   "brut_en": "Awesome![SP]Your[SP]turn,[SP][1113]!",
+   "data_size": 72,
+   "budget": 64
+  },
+  {
+   "id": 17,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On va chercher une corde. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " garde un œil sur maya"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We'll go find a rope. You look after"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maya-san, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On va chercher une corde. [1113] garde un œil sur maya",
+   "brut_en": "We'll[SP]go[SP]find[SP]a[SP]rope.[SP]You[SP]look[SP]after\nMaya-san,[SP][1113]!",
+   "data_size": 126,
+   "budget": 118
+  },
+  {
+   "id": 18,
+   "nom_fr": "Ixquic",
+   "nom_en": "Ixquic",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, madame! Aidez-moi"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, lady! Please help me!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hey, madame! Aidez-moi",
+   "brut_en": "Hey,[SP]lady![SP]Please[SP]help[SP]me!",
+   "data_size": 78,
+   "budget": 70
+  },
+  {
+   "id": 19,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On a trouvé une corde! Ça va Maya!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We found a rope! Maya-san, are you okay!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On a trouvé une corde! Ça va Maya!?",
+   "brut_en": "We[SP]found[SP]a[SP]rope![SP]Maya-san,[SP]are[SP]you[SP]okay!?",
+   "data_size": 106,
+   "budget": 98
+  },
+  {
+   "id": 20,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allez, tirez!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alright, pull!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Allez, tirez!",
+   "brut_en": "Alright,[SP]pull!",
+   "data_size": 54,
+   "budget": 46
+  }
+ ]
+}

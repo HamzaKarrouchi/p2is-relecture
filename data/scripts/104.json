@@ -1,0 +1,485 @@
+{
+ "no": 104,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Garçon masqué",
+   "nom_en": "Black-masked boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Piiiierre!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Roooock!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Piiiierre!",
+   "brut_en": "Roooock!",
+   "data_size": 62,
+   "budget": 54
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Feuuille!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Paaaaper!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Feuuille!",
+   "brut_en": "Paaaaper!",
+   "data_size": 42,
+   "budget": 34
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C-C-Ciseaux!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "S-S-Scissors!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C-C-Ciseaux!",
+   "brut_en": "S-S-Scissors!",
+   "data_size": 54,
+   "budget": 46
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouaiiis! J'ai gagné!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yaaaay! I won, I won!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouaiiis! J'ai gagné!",
+   "brut_en": "Yaaaay![SP]I[SP]won,[SP]I[SP]won!",
+   "data_size": 66,
+   "budget": 58
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ok, alors..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On joue au"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "papa et à la maman!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay, then today..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We're gonna play house!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ok, alors...[1205][001E] On joue au\npapa et à la maman!",
+   "brut_en": "Okay,[SP]then[SP]today...[1205][001E][SP]We're[SP]gonna[SP]play[SP]house!",
+   "data_size": 114,
+   "budget": 106
+  },
+  {
+   "id": 5,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Q-Quoooi!? O-On d-dessine"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aujourd'hui! J-J'ai mes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c-c-crayons..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wh-Whaaat!? C-C'mon, let's d-draw today."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I-I brought my c-c-crayons..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Q-Quoooi!? O-On d-dessine\naujourd'hui! J-J'ai mes\nc-c-crayons...",
+   "brut_en": "Wh-Whaaat!?[SP]C-C'mon,[SP]let's[SP]d-draw[SP]today.\nI-I[SP]brought[SP]my[SP]c-c-crayons...",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 6,
+   "nom_fr": "Garçon masqué",
+   "nom_en": "Black-masked boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Désolé, Jaune. C'est la cheffe,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "alors on doit l'écouter quoi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qu'il arrive. C'est la règle."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sorry, Yellow. She's the boss, so we have to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "listen to what she says no matter what."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "That's the rule."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Désolé, Jaune. C'est la cheffe,\nalors on doit l'écouter quoi\nqu'il arrive. C'est la règle.",
+   "brut_en": "Sorry,[SP]Yellow.[SP]She's[SP]the[SP]boss,[SP]so[SP]we[SP]have[SP]to\nlisten[SP]to[SP]what[SP]she[SP]says[SP]no[SP]matter[SP]what.\nThat's[SP]the[SP]rule.",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 7,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Euh, Rouge fera le papa, et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "moi la maman, bien sûr."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Et toi Noir, tu seras mon"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "grand frère!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ummm, Red will be the daddy, and I'll be the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mommy, of course. And you'll be my big"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "brother, Black!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Euh, Rouge fera le papa, et\nmoi la maman, bien sûr.\nEt toi Noir, tu seras mon\ngrand frère!",
+   "brut_en": "Ummm,[SP]Red[SP]will[SP]be[SP]the[SP]daddy,[SP]and[SP]I'll[SP]be[SP]the\nmommy,[SP]of[SP]course.[SP]And[SP]you'll[SP]be[SP]my[SP]big\nbrother,[SP]Black!",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 8,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J-J'suis encore le bébé...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A-Am I the b-baby again...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J-J'suis encore le bébé...?",
+   "brut_en": "A-Am[SP]I[SP]the[SP]b-baby[SP]again...?",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 9,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "O-okay..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "F-Fine..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "O-okay...",
+   "brut_en": "F-Fine...",
+   "data_size": 46,
+   "budget": 38
+  },
+  {
+   "id": 10,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "W-Wouin! Wouiiiin!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "W-Waaaaah! Waaaaaaaaah!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "W-Wouin! Wouiiiin!",
+   "brut_en": "W-Waaaaah![SP]Waaaaaaaaah!",
+   "data_size": 74,
+   "budget": 66
+  },
+  {
+   "id": 11,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Chériii! Les enfants sont"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "couchés, alors prenons un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bain tous les deux!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Daaaarling! The kids are all tucked in now,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "so let's take a bath together!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Chériii! Les enfants sont\ncouchés, alors prenons un\nbain tous les deux!",
+   "brut_en": "Daaaarling![SP]The[SP]kids[SP]are[SP]all[SP]tucked[SP]in[SP]now,\nso[SP]let's[SP]take[SP]a[SP]bath[SP]together!",
+   "data_size": 172,
+   "budget": 164
+  }
+ ]
+}

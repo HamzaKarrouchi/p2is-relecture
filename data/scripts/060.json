@@ -1,0 +1,515 @@
+{
+ "no": 60,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi agit bizarrement..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Cherche-t-il vraiment le transmetteur ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi's acting kinda funny over there..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is he really looking for the transmitter?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eikichi agit bizarrement...\nCherche-t-il vraiment le transmetteur ?",
+   "brut_en": "Eikichi's[SP]acting[SP]kinda[SP]funny[SP]over[SP]there...\nIs[SP]he[SP]really[SP]looking[SP]for[SP]the[SP]transmitter?",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lui aussi est du Cercle Masqué ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "...Il avait l'air cool ? Moins que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "toi, bien sûr, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Was that guy a Masked Circle member too?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "...Didn't he look kinda cool? Not nearly"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "as cool as you, of course, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Lui aussi est du Cercle Masqué ?\n...Il avait l'air cool ? Moins que\ntoi, bien sûr, [1113] !",
+   "brut_en": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][1113]!",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce justaucorps..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est scandaleux...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hrrrghhh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "*gasp*"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Th-This leotard..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " How scandalous...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hrrrghhhh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " *gasp*"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce justaucorps...[1205][001E] C'est scandaleux...![1205][001E]\nHrrrghhh...[1205][001E]*gasp*",
+   "brut_en": "Th-This[SP]leotard...[1205][001E][SP]How[SP]scandalous...![1205][001E]\nHrrrghhhh...[1205][001E][SP]*gasp*",
+   "data_size": 154,
+   "budget": 146
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un homme ne touche jamais les habits"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'une femme ! Jamais !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A-A man must never touch clothes that a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "lady has worn! Never!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un homme ne touche jamais les habits\nd'une femme ! Jamais !",
+   "brut_en": "A-A[SP]man[SP]must[SP]never[SP]touch[SP]clothes[SP]that[SP]a\nlady[SP]has[SP]worn![SP]Never!",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il a fui dès qu'il nous a vus !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est suspect. Allons le rattraper,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That guy ran off the second he saw our faces!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "He's suspicious, all right. Let's chase him"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "down, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il a fui dès qu'il nous a vus !\nC'est suspect. Allons le rattraper,\n[1113] !",
+   "brut_en": "That[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][1113]!",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rien ici non plus. Hé Yukki, et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "toi--"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Euh, je vais la laisser faire..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm, no luck here either. Hey Yukki, what"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "about--"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Uhh, I'll leave her to that..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rien ici non plus. Hé Yukki, et\ntoi--[1205][001E]Euh, je vais la laisser faire...",
+   "brut_en": "Hmm,[SP]no[SP]luck[SP]here[SP]either.[SP]Hey[SP]Yukki,[SP]what\nabout--[1205][001E]Uhh,[SP]I'll[SP]leave[SP]her[SP]to[SP]that...",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cet homme..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai l'impression de l'avoir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "déjà vu. Suivons-le !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That guy..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I feel like I've seen him"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "somewhere. Well, after him, I guess!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cet homme...[1205][001E] J'ai l'impression de l'avoir\ndéjà vu. Suivons-le !",
+   "brut_en": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 7,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "S'il fait partie du Cercle Masqué,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'est l'occasion d'avoir des infos"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur Joker. Traquons-le."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If that guy's in the Masked Circle, this is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "our chance to pump him for information about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Joker. Let's hunt him down."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "S'il fait partie du Cercle Masqué,\nc'est l'occasion d'avoir des infos\nsur Joker. Traquons-le.",
+   "brut_en": "If[SP]that[SP]guy's[SP]in[SP]the[SP]Masked[SP]Circle,[SP]this[SP]is\nour[SP]chance[SP]to[SP]pump[SP]him[SP]for[SP]information[SP]about\nJoker.[SP]Let's[SP]hunt[SP]him[SP]down.",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 8,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Espèce de... Satané imbécile !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Quoi, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " !? Je suis occupée là !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You! God! Damned! Stupid! Son of a...!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "What IS it, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!? Little busy here!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Espèce de... Satané imbécile !\nQuoi, [1113] !? Je suis occupée là !",
+   "brut_en": "You![SP]God![SP]Damned![SP]Stupid![SP]Son[SP]of[SP]a...!\nWhat[SP]IS[SP]it,[SP][1113]!?[SP]Little[SP]busy[SP]here!",
+   "data_size": 170,
+   "budget": 162
+  }
+ ]
+}

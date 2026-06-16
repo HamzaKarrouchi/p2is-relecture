@@ -1,0 +1,1860 @@
+{
+ "no": 27,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je le savais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "La couleur diffère"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais c'est bien le même crâne qu'avait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Joker."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I knew it..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The color's different, but apart"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "from that this is the same skull Joker had."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je le savais...[1205][001E]La couleur diffère\nmais c'est bien le même crâne qu'avait\nJoker.",
+   "brut_en": "I[SP]knew[SP]it...[1205][001E][SP]The[SP]color's[SP]different,[SP]but[SP]apart\nfrom[SP]that[SP]this[SP]is[SP]the[SP]same[SP]skull[SP]Joker[SP]had.",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé, Yasuo !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, Yasuo!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé, Yasuo !",
+   "brut_en": "Hey,[SP]Yasuo!",
+   "data_size": 50,
+   "budget": 42
+  },
+  {
+   "id": 2,
+   "nom_fr": "Yasuo",
+   "nom_en": "Yasuo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "O-oui !? Pardonnez moi je suis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pacifiste !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y-Yeah!? Stop! Forgive me, please!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm a pacifist!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "O-oui !? Pardonnez moi je suis\npacifiste !",
+   "brut_en": "Y-Yeah!?[SP]Stop![SP]Forgive[SP]me,[SP]please!\nI'm[SP]a[SP]pacifist!",
+   "data_size": 122,
+   "budget": 114
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'es dans l'organisation de Joker?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pourquoi il récolte les idéaux des gens!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're in Joker's organization, right?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Why's he harvesting people's ideals?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'es dans l'organisation de Joker?\nPourquoi il récolte les idéaux des gens!",
+   "brut_en": "You're[SP]in[SP]Joker's[SP]organization,[SP]right?\nWhy's[SP]he[SP]harvesting[SP]people's[SP]ideals?",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 4,
+   "nom_fr": "Yasuo",
+   "nom_en": "Yasuo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "M-même moi je ne sais pas..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bwaah...? E-Even I don't know that..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "M-même moi je ne sais pas...",
+   "brut_en": "Bwaah...?[SP]E-Even[SP]I[SP]don't[SP]know[SP]that...",
+   "data_size": 98,
+   "budget": 90
+  },
+  {
+   "id": 5,
+   "nom_fr": "Yasuo",
+   "nom_en": "Yasuo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais une règle stipule que toute personne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ayant rejoint le Cercle Masqué doit apporter de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'Énergie idéale issue de coeurs rêveurs."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But there's a rule that anyone who joins the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Masked Circle must present its executives with"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ideal Energy, derived from dreaming hearts."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais une règle stipule que toute personne\nayant rejoint le Cercle Masqué doit apporter de\nl'Énergie idéale issue de coeurs rêveurs.",
+   "brut_en": "But[SP]there's[SP]a[SP]rule[SP]that[SP]anyone[SP]who[SP]joins[SP]the\nMasked[SP]Circle[SP]must[SP]present[SP]its[SP]executives[SP]with\nIdeal[SP]Energy,[SP]derived[SP]from[SP]dreaming[SP]hearts.",
+   "data_size": 294,
+   "budget": 286
+  },
+  {
+   "id": 6,
+   "nom_fr": "Eikichi/Ginko",
+   "nom_en": "Eikichi & Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Le cercle masqué"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Masked Circle"
+      },
+      {
+       "t": "!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Le cercle masqué[1432][NULL][NULL][0014]",
+   "brut_en": "[1432][NULL][NULL][0014]Masked[SP]Circle[1432][NULL][NULL][0014]!?",
+   "data_size": 88,
+   "budget": 80
+  },
+  {
+   "id": 7,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça vient..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "d'un jeu apparaissant dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mes rêves..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " from some kid's game that shows up"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in my dreams..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça vient...[1205][001E]d'un jeu apparaissant dans\nmes rêves...",
+   "brut_en": "That's...[1205][001E][SP]from[SP]some[SP]kid's[SP]game[SP]that[SP]shows[SP]up\nin[SP]my[SP]dreams...",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 8,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": ".....!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": ".....!?",
+   "brut_en": "......!?",
+   "data_size": 38,
+   "budget": 30
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et Dame Scorpion est dirigeante du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Cercle masqué"
+      },
+      {
+       "t": "?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And Lady Scorpio is an executive of this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Masked Circle"
+      },
+      {
+       "t": "?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et Dame Scorpion est dirigeante du\n[1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]?",
+   "brut_en": "And[SP]Lady[SP]Scorpio[SP]is[SP]an[SP]executive[SP]of[SP]this\n[1432][NULL][NULL][0014]Masked[SP]Circle[1432][NULL][NULL][0014]?",
+   "data_size": 148,
+   "budget": 140
+  },
+  {
+   "id": 10,
+   "nom_fr": "Yasuo",
+   "nom_en": "Yasuo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si tout s'était passé comme prévu et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que j'avais donné assez d'énergie à Lady,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'aurais pu être promu au sein du Cercle Masqué..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If the masquerade had succeeded and I gave"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "enough energy to the Lady, I thought I'd reach"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a higher position in the Masked Circle..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si tout s'était passé comme prévu et\nque j'avais donné assez d'énergie à Lady,\nj'aurais pu être promu au sein du Cercle Masqué...",
+   "brut_en": "If[SP]the[SP]masquerade[SP]had[SP]succeeded[SP]and[SP]I[SP]gave\nenough[SP]energy[SP]to[SP]the[SP]Lady,[SP]I[SP]thought[SP]I'd[SP]reach\na[SP]higher[SP]position[SP]in[SP]the[SP]Masked[SP]Circle...",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 11,
+   "nom_fr": "Yasuo",
+   "nom_en": "Yasuo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais c'est fini !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But now I'm done for!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais c'est fini !",
+   "brut_en": "But[SP]now[SP]I'm[SP]done[SP]for!",
+   "data_size": 66,
+   "budget": 58
+  },
+  {
+   "id": 12,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Voler des rêves pour un but si égoïste..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "N'espère pas avoir mon pardon."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Stealing dreams for personal advancement..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I've got no sympathy for this asshole."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Voler des rêves pour un but si égoïste...\nN'espère pas avoir mon pardon.",
+   "brut_en": "Stealing[SP]dreams[SP]for[SP]personal[SP]advancement...\nI've[SP]got[SP]no[SP]sympathy[SP]for[SP]this[SP]asshole.",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 13,
+   "nom_fr": "Yasuo",
+   "nom_en": "Yasuo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je voulais pas les transformer en ombres !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je voulais juste me débarrasser de la concurrence"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour le BDE."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I didn't plan on them becoming shadowmen!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "All I wanted was to dispose of my competitors"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "for student council president!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je voulais pas les transformer en ombres !\nJe voulais juste me débarrasser de la concurrence\npour le BDE.",
+   "brut_en": "I[SP]didn't[SP]plan[SP]on[SP]them[SP]becoming[SP]shadowmen!\nAll[SP]I[SP]wanted[SP]was[SP]to[SP]dispose[SP]of[SP]my[SP]competitors\nfor[SP]student[SP]council[SP]president!",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 14,
+   "nom_fr": "Yasuo",
+   "nom_en": "Yasuo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "M-mais j'ai perdu le contrôle du crâne..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "B-But I lost control of the crystal skull..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "M-mais j'ai perdu le contrôle du crâne...",
+   "brut_en": "B-But[SP]I[SP]lost[SP]control[SP]of[SP]the[SP]crystal[SP]skull...",
+   "data_size": 112,
+   "budget": 104
+  },
+  {
+   "id": 15,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une personne de ton rang n'aurait jamais pu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le contrôler."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...A non-executive like you could never"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "control the crystal skull."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une personne de ton rang n'aurait jamais pu\nle contrôler.",
+   "brut_en": "...A[SP]non-executive[SP]like[SP]you[SP]could[SP]never\ncontrol[SP]the[SP]crystal[SP]skull.",
+   "data_size": 152,
+   "budget": 144
+  },
+  {
+   "id": 16,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cette sensation..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Anna !?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That feeling again..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Anna!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cette sensation...[1205][001E]Anna !?",
+   "brut_en": "That[SP]feeling[SP]again...[1205][001E][SP]Anna!?",
+   "data_size": 86,
+   "budget": 78
+  },
+  {
+   "id": 17,
+   "nom_fr": "Dame Scorpion",
+   "nom_en": "Lady Scorpio",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Yukino Mayuzumi? T'es toujours là."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Yukino Mayuzumi? You're still here."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Yukino Mayuzumi? T'es toujours là.",
+   "brut_en": "...Yukino[SP]Mayuzumi?[SP]You're[SP]still[SP]here.",
+   "data_size": 114,
+   "budget": 106
+  },
+  {
+   "id": 18,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alors c'était toi Anna! Pourquoi..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So it WAS you, Anna! Why are you..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Alors c'était toi Anna! Pourquoi...",
+   "brut_en": "So[SP]it[SP]WAS[SP]you,[SP]Anna![SP]Why[SP]are[SP]you...",
+   "data_size": 96,
+   "budget": 88
+  },
+  {
+   "id": 19,
+   "nom_fr": "Dame Scorpion",
+   "nom_en": "Lady Scorpio",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce crâne n'obéit qu'aux porteurs de la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "constellation de la sainte croix."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This skull can only be controlled by those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bearing the constellation of the holy cross."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce crâne n'obéit qu'aux porteurs de la\nconstellation de la sainte croix.",
+   "brut_en": "This[SP]skull[SP]can[SP]only[SP]be[SP]controlled[SP]by[SP]those\nbearing[SP]the[SP]constellation[SP]of[SP]the[SP]holy[SP]cross.",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 20,
+   "nom_fr": "Dame Scorpion",
+   "nom_en": "Lady Scorpio",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...C'est tout?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Is this all?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...C'est tout?",
+   "brut_en": "...Is[SP]this[SP]all?",
+   "data_size": 68,
+   "budget": 60
+  },
+  {
+   "id": 21,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Évidemment. L'énergie d'une personne ordinaire est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dérisoire. C'est pourquoi l'Exalté offre aux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gens leur idéal."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Of course. A typical person's energy level is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "paltry at best. That's why the Exalted One"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is granting people their ideals."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Évidemment. L'énergie d'une personne ordinaire est\ndérisoire. C'est pourquoi l'Exalté offre aux\ngens leur idéal.",
+   "brut_en": "Of[SP]course.[SP]A[SP]typical[SP]person's[SP]energy[SP]level[SP]is\npaltry[SP]at[SP]best.[SP]That's[SP]why[SP]the[SP]Exalted[SP]One\nis[SP]granting[SP]people[SP]their[SP]ideals.",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 22,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein..!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh...!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein..!?",
+   "brut_en": "Huh...!?",
+   "data_size": 38,
+   "budget": 30
+  },
+  {
+   "id": 23,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Noooon !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Noooooo!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Noooon !",
+   "brut_en": "Noooooo!",
+   "data_size": 38,
+   "budget": 30
+  },
+  {
+   "id": 24,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haaaahahaha ! Brûle ! Finis en cendres !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haaaaahahahahaha! Burn, burn!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Burn to ash!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Haaaahahaha ! Brûle ! Finis en cendres !",
+   "brut_en": "Haaaaahahahahaha![SP]Burn,[SP]burn!\nBurn[SP]to[SP]ash!",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 25,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que...T'es qui bordel !?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wh... Who the hell are you!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Que...T'es qui bordel !?",
+   "brut_en": "Wh...[SP]Who[SP]the[SP]hell[SP]are[SP]you!?",
+   "data_size": 84,
+   "budget": 76
+  },
+  {
+   "id": 26,
+   "nom_fr": "Roi Lion",
+   "nom_en": "King Leo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On me nomme Roi Léo! Je suis le plus"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "puissant des 4 dirigents du Cercle Masqué"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "porteur du signe du Lion."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I am called King Leo! I am highest of the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "four executives of the Masked Circle, bearing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the sign of Leo."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On me nomme Roi Léo! Je suis le plus\npuissant des 4 dirigents du Cercle Masqué\nporteur du signe du Lion.",
+   "brut_en": "I[SP]am[SP]called[SP]King[SP]Leo![SP]I[SP]am[SP]highest[SP]of[SP]the\nfour[SP]executives[SP]of[SP]the[SP]Masked[SP]Circle,[SP]bearing\nthe[SP]sign[SP]of[SP]Leo.",
+   "data_size": 238,
+   "budget": 230
+  },
+  {
+   "id": 27,
+   "nom_fr": "Roi Lion",
+   "nom_en": "King Leo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oser trahir le Cercle Masqué et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "abandonner le festival des ombres..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu mérites la mort !"
+      }
+     ]
+    },
+    {
+     "nom": "Roi Lion",
+     "seg": [
+      {
+       "t": "Je pourrais dire pareil pour vous, Lady."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qu'avez vous à dire après vos récents"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "échecs ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "For one so lowly to confess Masked Circle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "business to outsiders and abandon the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "shadowed festival... You deserve death!"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "King Leo",
+     "seg": [
+      {
+       "t": "I could say the same about you, Lady. What do"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you have to say in your defense after the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "recent debacles?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oser trahir le Cercle Masqué et\nabandonner le festival des ombres...\nTu mérites la mort ![E1][E2]\n[E3][E4][NULL][NULL]\"Roi Lion\nJe pourrais dire pareil pour vous, Lady.\nQu'avez vous à dire après vos récents\néchecs ?",
+   "brut_en": "For[SP]one[SP]so[SP]lowly[SP]to[SP]confess[SP]Masked[SP]Circle\nbusiness[SP]to[SP]outsiders[SP]and[SP]abandon[SP]the\nshadowed[SP]festival...[SP]You[SP]deserve[SP]death!\n[E1][E2]\n[E3][E4][NULL][NULL]\"King[SP]Leo\nI[SP]could[SP]say[SP]the[SP]same[SP]about[SP]you,[SP]Lady.[SP]What[SP]do\nyou[SP]have[SP]to[SP]say[SP]in[SP]your[SP]defense[SP]after[SP]the\nrecent[SP]debacles?",
+   "data_size": 512,
+   "budget": 504
+  },
+  {
+   "id": 28,
+   "nom_fr": "Roi Lion",
+   "nom_en": "King Leo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non seulement tu as ignoré la danse"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sauvage, mais tu as livré le festival des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ombres aux vermines !"
+      }
+     ]
+    },
+    {
+     "nom": "Roi Lion",
+     "seg": [
+      {
+       "t": "Si tu veux assister à l'accomplissement"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de l'Oracle de Maia, alors accepte la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "punition de l'Exalté"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Not only did you let the wild dance slide,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you abandoned the shadowed festival to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vermin."
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "King Leo",
+     "seg": [
+      {
+       "t": "If you wish to be present to witness the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fulfillment of the Oracle of Maia, I suggest"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you accept the Exalted One's punishment..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non seulement tu as ignoré la danse\nsauvage, mais tu as livré le festival des\nombres aux vermines ![E1][E2]\n[E3][E4][NULL][NULL]\"Roi Lion\nSi tu veux assister à l'accomplissement\nde l'Oracle de Maia, alors accepte la\npunition de l'Exalté",
+   "brut_en": "Not[SP]only[SP]did[SP]you[SP]let[SP]the[SP]wild[SP]dance[SP]slide,\nyou[SP]abandoned[SP]the[SP]shadowed[SP]festival[SP]to\nvermin.\n[E1][E2]\n[E3][E4][NULL][NULL]\"King[SP]Leo\nIf[SP]you[SP]wish[SP]to[SP]be[SP]present[SP]to[SP]witness[SP]the\nfulfillment[SP]of[SP]the[SP]Oracle[SP]of[SP]Maia,[SP]I[SP]suggest\nyou[SP]accept[SP]the[SP]Exalted[SP]One's[SP]punishment...",
+   "data_size": 500,
+   "budget": 492
+  },
+  {
+   "id": 29,
+   "nom_fr": "Dame Scorpion",
+   "nom_en": "Lady Scorpio",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Yukino m'appartient."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Laisse la."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Yukino is mine. Leave her alone."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Yukino m'appartient.\nLaisse la.",
+   "brut_en": "...Yukino[SP]is[SP]mine.[SP]Leave[SP]her[SP]alone.",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 30,
+   "nom_fr": "Roi Lion",
+   "nom_en": "King Leo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Très bien. Mais tu paieras pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avoir interrompu le festival."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Very well. But you will deal with the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "consequences of the party's interruption."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...[1205][001E]Très bien. Mais tu paieras pour\navoir interrompu le festival.",
+   "brut_en": "...[1205][001E]Very[SP]well.[SP]But[SP]you[SP]will[SP]deal[SP]with[SP]the\nconsequences[SP]of[SP]the[SP]party's[SP]interruption.",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 31,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non Anna !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Anna! Wait!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non Anna !",
+   "brut_en": "Anna![SP]Wait!",
+   "data_size": 48,
+   "budget": 40
+  },
+  {
+   "id": 32,
+   "nom_fr": "Roi Lion",
+   "nom_en": "King Leo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Étoile maudite...Toi et la sorcière envoyée"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au purgatoire finirez comme le misérable"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de tout à l'heure."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cursed Star..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I will see you and the witch"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sent to Purgatory, just as the lowly one was"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a moment ago."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Étoile maudite...Toi et la sorcière envoyée\nau purgatoire finirez comme le misérable\nde tout à l'heure.",
+   "brut_en": "Cursed[SP]Star...[1205][001E][SP]I[SP]will[SP]see[SP]you[SP]and[SP]the[SP]witch\nsent[SP]to[SP]Purgatory,[SP]just[SP]as[SP]the[SP]lowly[SP]one[SP]was\na[SP]moment[SP]ago.",
+   "data_size": 238,
+   "budget": 230
+  },
+  {
+   "id": 33,
+   "nom_fr": "[1113] et Maya",
+   "nom_en": "[1113] & Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "....!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "....!?",
+   "brut_en": "......!?",
+   "data_size": 46,
+   "budget": 38
+  },
+  {
+   "id": 34,
+   "nom_fr": "Roi Lion",
+   "nom_en": "King Leo",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahaha... Peu importe tes efforts,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tu ne peux échapper au destin que l'Exalté"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "te réserve. Hyaaahahaha !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahaha... No matter how much you struggle, you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "can't escape the fate the Exalted One has in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "store for you! Hyaaaahahahahahaahaaaaa!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hahaha... Peu importe tes efforts,\ntu ne peux échapper au destin que l'Exalté\nte réserve. Hyaaahahaha !",
+   "brut_en": "Hahaha...[SP]No[SP]matter[SP]how[SP]much[SP]you[SP]struggle,[SP]you\ncan't[SP]escape[SP]the[SP]fate[SP]the[SP]Exalted[SP]One[SP]has[SP]in\nstore[SP]for[SP]you![SP]Hyaaaahahahahahaahaaaaa!",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 35,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai peur... Papa, à l'aide..!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm scared... Save me, Daddy...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai peur... Papa, à l'aide..!",
+   "brut_en": "I'm[SP]scared...[SP]Save[SP]me,[SP]Daddy...!",
+   "data_size": 84,
+   "budget": 76
+  },
+  {
+   "id": 36,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alors ce Roi Lion te traque depuis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des anées Maya !?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So this King Leo guy has been stalking you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "for years, Maya-san!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Alors ce Roi Lion te traque depuis\ndes anées Maya !?",
+   "brut_en": "So[SP]this[SP]King[SP]Leo[SP]guy[SP]has[SP]been[SP]stalking[SP]you\nfor[SP]years,[SP]Maya-san!?",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 37,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ma persona me l'a dit..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est bien lui !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "My Persona told me so... It's him! There's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "no mistaking it!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ma persona me l'a dit...\nC'est bien lui !",
+   "brut_en": "My[SP]Persona[SP]told[SP]me[SP]so...[SP]It's[SP]him![SP]There's\nno[SP]mistaking[SP]it!",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 38,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un pyromane..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "C'est Kehhei !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bordel !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A pyromaniac..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Kehhei! That's the worst!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un pyromane...[1205][001E]C'est Kehhei !\nBordel !",
+   "brut_en": "A[SP]pyromaniac...[1205][001E][SP]Kehhei![SP]That's[SP]the[SP]worst!",
+   "data_size": 110,
+   "budget": 102
+  },
+  {
+   "id": 39,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ne t'inquiète pas... Je vais bien maintenant,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pensons à la suite..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Don't worry... I'm okay now. We need to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "think about what to do next..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ne t'inquiète pas... Je vais bien maintenant,\npensons à la suite...",
+   "brut_en": "Don't[SP]worry...[SP]I'm[SP]okay[SP]now.[SP]We[SP]need[SP]to\nthink[SP]about[SP]what[SP]to[SP]do[SP]next...",
+   "data_size": 162,
+   "budget": 154
+  },
+  {
+   "id": 40,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce roi a dit à Anna de "
+      },
+      {
+       "enc": "faire face"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "aux conséquences"
+      },
+      {
+       "t": "?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça me travaille depuis..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Remember how that King guy told Anna to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "deal with the consequences"
+      },
+      {
+       "t": "?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That's been"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bugging me ever since..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce roi a dit à Anna de [1432][NULL][NULL][0014]faire face\naux conséquences[1432][NULL][NULL][0014]?[1205][001E] Ça me travaille depuis...",
+   "brut_en": "Remember[SP]how[SP]that[SP]King[SP]guy[SP]told[SP]Anna[SP]to\n[1432][NULL][NULL][0014]deal[SP]with[SP]the[SP]consequences[1432][NULL][NULL][0014]?[1205][001E][SP]That's[SP]been\nbugging[SP]me[SP]ever[SP]since...",
+   "data_size": 254,
+   "budget": 246
+  }
+ ]
+}

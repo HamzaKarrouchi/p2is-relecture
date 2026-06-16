@@ -1,0 +1,839 @@
+{
+ "no": 190,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mince, où sont passés les autres?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Les laisser faire, ça va poser"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "problème ?"
+      }
+     ]
+    },
+    {
+     "nom": "Jun",
+     "seg": [
+      {
+       "t": "L-Lisa!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Man, what's keeping the others? Is them doing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "whatever they want going to be a problem?"
+      }
+     ]
+    },
+    {
+     "nom": "Jun",
+     "seg": [
+      {
+       "t": "L-Lisa!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mince, où sont passés les autres?\nLes laisser faire, ça va poser\nproblème ?[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nL-Lisa!?",
+   "brut_en": "Man,[SP]what's[SP]keeping[SP]the[SP]others?[SP]Is[SP]them[SP]doing\nwhatever[SP]they[SP]want[SP]going[SP]to[SP]be[SP]a[SP]problem?[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nL-Lisa!?",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aïe!? D’où sortez-vous, vous deux? Je vous ai pas vus ici."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah!? Where did you two come from? I don't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "remember seeing you inside."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aïe!? D’où sortez-vous, vous deux? Je vous ai pas vus ici.",
+   "brut_en": "Aiyah!?[SP]Where[SP]did[SP]you[SP]two[SP]come[SP]from?[SP]I[SP]don't\nremember[SP]seeing[SP]you[SP]inside.",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 2,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On voulait te dire la même chose... Qu’est-ce qui se passe, Lisa?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We wanted to ask you the same thing..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "What happened in there, Lisa?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On voulait te dire la même chose... Qu’est-ce qui se passe, Lisa?",
+   "brut_en": "We[SP]wanted[SP]to[SP]ask[SP]you[SP]the[SP]same[SP]thing...[1205][001E]\nWhat[SP]happened[SP]in[SP]there,[SP]Lisa?",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "QUOI ?! Non... C’était juste une source de guérison dedans."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Whaaaat!? Nuh-uh. It really was just a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "healing spring inside."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "QUOI ?! Non... C’était juste une source de guérison dedans.",
+   "brut_en": "Whaaaat!?[SP]Nuh-uh.[SP]It[SP]really[SP]was[SP]just[SP]a\nhealing[SP]spring[SP]inside.",
+   "data_size": 144,
+   "budget": 136
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je sais, car je criais sur Trish à propos de ses prix élever. Peut-être que vous deux, vous rêviez juste."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I know, because I was yelling at Trish about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "what a ripoff her prices were. Maybe you two"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "were just dreaming."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je sais, car je criais sur Trish à propos de ses prix élever. Peut-être que vous deux, vous rêviez juste.",
+   "brut_en": "I[SP]know,[SP]because[SP]I[SP]was[SP]yelling[SP]at[SP]Trish[SP]about\nwhat[SP]a[SP]ripoff[SP]her[SP]prices[SP]were.[SP]Maybe[SP]you[SP]two\nwere[SP]just[SP]dreaming.",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 5,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je suis définitivement sortie du Velvet--"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well, I definitely came out of the Velvet--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je suis définitivement sortie du Velvet--",
+   "brut_en": "Well,[SP]I[SP]definitely[SP]came[SP]out[SP]of[SP]the[SP]Velvet--",
+   "data_size": 112,
+   "budget": 104
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*pam* *pam* C-C'est pas drôle...! J’ai failli me faire écraser comme un costume neuf! J’aurais pu y rester!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*pant* *pant*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Th-That wasn't funny...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I nearly got pressed like a new suit!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I could have died in there!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*pam* *pam* C-C'est pas drôle...! J’ai failli me faire écraser comme un costume neuf! J’aurais pu y rester!",
+   "brut_en": "*pant*[SP]*pant*[1205][001E][SP]Th-That[SP]wasn't[SP]funny...![1205][001E]\nI[SP]nearly[SP]got[SP]pressed[SP]like[SP]a[SP]new[SP]suit!\nI[SP]could[SP]have[SP]died[SP]in[SP]there!",
+   "data_size": 236,
+   "budget": 228
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya et Eikichi",
+   "nom_en": "Maya & Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que ce... T'était oû?!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What the--Where were you!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Que ce... T'était oû?!",
+   "brut_en": "What[SP]the--Where[SP]were[SP]you!?",
+   "data_size": 94,
+   "budget": 86
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Attends... Qu’est-ce passe t'il? Quand j’y étais, c’était plein de pièges..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hang on..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " What's going on here? When I was"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in there, it was full of traps..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Attends... Qu’est-ce passe t'il? Quand j’y étais, c’était plein de pièges...",
+   "brut_en": "Hang[SP]on...[1205][001E][SP]What's[SP]going[SP]on[SP]here?[SP]When[SP]I[SP]was\nin[SP]there,[SP]it[SP]was[SP]full[SP]of[SP]traps...",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On devrait y retourner et regarder?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Should we go back in and look again?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On devrait y retourner et regarder?",
+   "brut_en": "Should[SP]we[SP]go[SP]back[SP]in[SP]and[SP]look[SP]again?",
+   "data_size": 94,
+   "budget": 86
+  },
+  {
+   "id": 10,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sérieux, j’ai discuté avec Igor et il m’a dit de revenir avec tout le monde."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Seriously, though. I had a chat with Igor and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he told me to come back with everyone."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sérieux, j’ai discuté avec Igor et il m’a dit de revenir avec tout le monde.",
+   "brut_en": "Seriously,[SP]though.[SP]I[SP]had[SP]a[SP]chat[SP]with[SP]Igor[SP]and\nhe[SP]told[SP]me[SP]to[SP]come[SP]back[SP]with[SP]everyone.",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 11,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu vois ? Comme je l’ai dit. Vous avez rêvé tout ça?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "See? Just like I said. Maybe you guys dreamed"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the whole thing?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu vois ? Comme je l’ai dit. Vous avez rêvé tout ça?",
+   "brut_en": "See?[SP]Just[SP]like[SP]I[SP]said.[SP]Maybe[SP]you[SP]guys[SP]dreamed\nthe[SP]whole[SP]thing?",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 12,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si même Maya a raison, tu peux me remercier d’avoir fait apparaître la Velvet Room. Eh eh... J’attends votre gratitude!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If Big Maya's right, you can thank me for"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "making this Velvet Room appear."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Heheheh..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I await your fawning display of gratitude!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si même Maya a raison, tu peux me remercier d’avoir fait apparaître la Velvet Room. Eh eh... J’attends votre gratitude!",
+   "brut_en": "If[SP]Big[SP]Maya's[SP]right,[SP]you[SP]can[SP]thank[SP]me[SP]for\nmaking[SP]this[SP]Velvet[SP]Room[SP]appear.[1205][001E][SP]Heheheh...\nI[SP]await[SP]your[SP]fawning[SP]display[SP]of[SP]gratitude!",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 13,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je ne rigole pas! La source curative était vraiment là!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I wasn't kidding, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! The healing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "spring really was in there!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je ne rigole pas! La source curative était vraiment là!",
+   "brut_en": "I[SP]wasn't[SP]kidding,[SP][1113]![SP]The[SP]healing\nspring[SP]really[SP]was[SP]in[SP]there!",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 14,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu vois? Je te l’ai dit! Vous avez rêver tous les deux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "See? I told you so! I bet you two were just"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "daydreaming."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu vois? Je te l’ai dit! Vous avez rêver tous les deux.",
+   "brut_en": "See?[SP]I[SP]told[SP]you[SP]so![SP]I[SP]bet[SP]you[SP]two[SP]were[SP]just\ndaydreaming.",
+   "data_size": 134,
+   "budget": 126
+  },
+  {
+   "id": 15,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quand on parle de rêves, je ne sais plus ce qui est réel ou pas..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Speaking of dreams, I have no idea what's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "real and what's not anymore..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quand on parle de rêves, je ne sais plus ce qui est réel ou pas...",
+   "brut_en": "Speaking[SP]of[SP]dreams,[SP]I[SP]have[SP]no[SP]idea[SP]what's\nreal[SP]and[SP]what's[SP]not[SP]anymore...",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 16,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Écoute-le, tout hautaun et grand... Il a fait apparaître tous ces pièges, aussi! Il a une bonne mémoire sélective..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Listen to him, being all high and mighty..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "He made all those traps appear, too! He has"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "an awfully selective memory..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Écoute-le, tout hautaun et grand... Il a fait apparaître tous ces pièges, aussi! Il a une bonne mémoire sélective...",
+   "brut_en": "Listen[SP]to[SP]him,[SP]being[SP]all[SP]high[SP]and[SP]mighty...\nHe[SP]made[SP]all[SP]those[SP]traps[SP]appear,[SP]too![SP]He[SP]has\nan[SP]awfully[SP]selective[SP]memory...",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 17,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les premières salles traversées, et celle-ci aussi... Non... Impossible..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The first rooms we went through, and now"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this one too..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Nah... It couldn't be..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les premières salles traversées, et celle-ci aussi... Non... Impossible...",
+   "brut_en": "The[SP]first[SP]rooms[SP]we[SP]went[SP]through,[SP]and[SP]now\nthis[SP]one[SP]too...[1205][001E][SP]Nah...[SP]It[SP]couldn't[SP]be...",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 18,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La raison pour laquelle on a eu tant de mal, nous trois, c’est qu’on pensait à un piège!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The reason the three of us had so much trouble"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is because we assumed it had to be a trap!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La raison pour laquelle on a eu tant de mal, nous trois, c’est qu’on pensait à un piège!",
+   "brut_en": "The[SP]reason[SP]the[SP]three[SP]of[SP]us[SP]had[SP]so[SP]much[SP]trouble\nis[SP]because[SP]we[SP]assumed[SP]it[SP]had[SP]to[SP]be[SP]a[SP]trap!",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 19,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça me met mal à l’aise... Y a un truc louche là-dessous. Soyons trés prudents, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This doesn't sit well with me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There has to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be something behind it all. Let's be extra"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "careful going forward, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça me met mal à l’aise... Y a un truc louche là-dessous. Soyons trés prudents, [1113].",
+   "brut_en": "This[SP]doesn't[SP]sit[SP]well[SP]with[SP]me...[1205][001E][SP]There[SP]has[SP]to\nbe[SP]something[SP]behind[SP]it[SP]all.[SP]Let's[SP]be[SP]extra\ncareful[SP]going[SP]forward,[SP][1113].",
+   "data_size": 250,
+   "budget": 242
+  }
+ ]
+}

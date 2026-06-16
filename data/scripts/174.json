@@ -1,0 +1,633 @@
+{
+ "no": 174,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Y'a vraiment une rivière ici!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There really is a river here!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aiyah...[1205][001E] Y'a vraiment une rivière ici!",
+   "brut_en": "Aiyah...[1205][001E][SP]There[SP]really[SP]is[SP]a[SP]river[SP]here!",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les parois brillent..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " La Rivière d'Argent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "porte très bien son nom."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The walls are shining..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The Silver River is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a pretty appropriate name for it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les parois brillent...[1205][001E] La Rivière d'Argent\nporte très bien son nom.",
+   "brut_en": "The[SP]walls[SP]are[SP]shining...[1205][001E][SP]The[SP]Silver[SP]River[SP]is\na[SP]pretty[SP]appropriate[SP]name[SP]for[SP]it.",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 2,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "En descendant la rivière, nous devrions atteindre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'entrée de Xibalba."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If we go down this river, we should come out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "at the entrance to Xibalba."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "En descendant la rivière, nous devrions atteindre\nl'entrée de Xibalba.",
+   "brut_en": "If[SP]we[SP]go[SP]down[SP]this[SP]river,[SP]we[SP]should[SP]come[SP]out\nat[SP]the[SP]entrance[SP]to[SP]Xibalba.",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a un de leurs bâteaux juste là."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais qui va le conduire?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "One of their boats is over here. Question is,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "who's going to pilot it?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a un de leurs bâteaux juste là.\nMais qui va le conduire?",
+   "brut_en": "One[SP]of[SP]their[SP]boats[SP]is[SP]over[SP]here.[SP]Question[SP]is,\nwho's[SP]going[SP]to[SP]pilot[SP]it?",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tous à bord!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'mon, all aboard!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tous à bord!",
+   "brut_en": "C'mon,[SP]all[SP]aboard!",
+   "data_size": 58,
+   "budget": 50
+  },
+  {
+   "id": 5,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Waouh, Maya. Tu sais piloter les bâteaux?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, Big Maya. You can even pilot a boat?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Waouh, Maya. Tu sais piloter les bâteaux?",
+   "brut_en": "Wow,[SP]Big[SP]Maya.[SP]You[SP]can[SP]even[SP]pilot[SP]a[SP]boat?",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 6,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "(Dis...Elle va y arriver?)"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "(You think she can do it?)"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "(Dis...Elle va y arriver?)",
+   "brut_en": "(You[SP]think[SP]she[SP]can[SP]do[SP]it?)",
+   "data_size": 80,
+   "budget": 72
+  },
+  {
+   "id": 7,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "(Pas moyen...)"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "(Not a chance...)"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "(Pas moyen...)",
+   "brut_en": "(Not[SP]a[SP]chance...)",
+   "data_size": 58,
+   "budget": 50
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allez, montez! On a pas la journée!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'mon, get in! We don't have all day!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Allez, montez! On a pas la journée!",
+   "brut_en": "C'mon,[SP]get[SP]in![SP]We[SP]don't[SP]have[SP]all[SP]day!",
+   "data_size": 96,
+   "budget": 88
+  },
+  {
+   "id": 9,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quand as-tu appris à piloter les bâteaux,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maya?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So when did you learn to pilot a boat,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big Maya?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quand as-tu appris à piloter les bâteaux,\nMaya?",
+   "brut_en": "So[SP]when[SP]did[SP]you[SP]learn[SP]to[SP]pilot[SP]a[SP]boat,\nBig[SP]Maya?",
+   "data_size": 116,
+   "budget": 108
+  },
+  {
+   "id": 10,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bah, j'ai le permis voiture!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est du pareil au même!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, well, I have a driver's license!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It's all the same thing, really!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bah, j'ai le permis voiture!\nC'est du pareil au même!",
+   "brut_en": "Oh,[SP]well,[SP]I[SP]have[SP]a[SP]driver's[SP]license!\nIt's[SP]all[SP]the[SP]same[SP]thing,[SP]really!",
+   "data_size": 160,
+   "budget": 152
+  },
+  {
+   "id": 11,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé?",
+   "brut_en": "Huh?",
+   "data_size": 28,
+   "budget": 20
+  },
+  {
+   "id": 12,
+   "nom_fr": "Eikichi et Ginko",
+   "nom_en": "Eikichi & Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "ET VOILÀ!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "CALLED IT!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "ET VOILÀ!",
+   "brut_en": "CALLED[SP]IT!",
+   "data_size": 64,
+   "budget": 56
+  },
+  {
+   "id": 13,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah... Ahahahah! P-pas de blessés, hein...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah... Ahahahahah! E-Everyone's okay, right...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah... Ahahahah! P-pas de blessés, hein...?",
+   "brut_en": "Ah...[SP]Ahahahahah![SP]E-Everyone's[SP]okay,[SP]right...?",
+   "data_size": 114,
+   "budget": 106
+  },
+  {
+   "id": 14,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous savez, je suis assez fière de ma"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "conduite...Je n'ai jamais tué personne!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ahahah... Hahahahaha!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You know, I'm proud of my driving record,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in a way... I've never killed anyone!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ahaha... Hahahahaha!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous savez, je suis assez fière de ma\nconduite...Je n'ai jamais tué personne!\nAhahah... Hahahahaha!",
+   "brut_en": "You[SP]know,[SP]I'm[SP]proud[SP]of[SP]my[SP]driving[SP]record,\nin[SP]a[SP]way...[SP]I've[SP]never[SP]killed[SP]anyone!\nAhaha...[SP]Hahahahaha!",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 15,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Soit gentille, laisse "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " prendre les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "commandes, d'accord Maya?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Now be a good girl and let "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " take"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the controls, okay Maya-chan?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Soit gentille, laisse [1113] prendre les\ncommandes, d'accord Maya?",
+   "brut_en": "...Now[SP]be[SP]a[SP]good[SP]girl[SP]and[SP]let[SP][1113][SP]take\nthe[SP]controls,[SP]okay[SP]Maya-chan?",
+   "data_size": 156,
+   "budget": 148
+  }
+ ]
+}

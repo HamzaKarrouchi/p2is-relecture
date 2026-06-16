@@ -1,0 +1,590 @@
+{
+ "no": 136,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est le..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " park du quartier"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "où je vivais il y a dix ans..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This is..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " the park in the neighborhood where"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I lived ten years ago..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est le...[1205][001E] park du quartier\noù je vivais il y a dix ans...[1205][001E]",
+   "brut_en": "This[SP]is...[1205][001E][SP]the[SP]park[SP]in[SP]the[SP]neighborhood[SP]where\nI[SP]lived[SP]ten[SP]years[SP]ago...[1205][001E]",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Surprise que tu aies trouvé ma maison."
+      },
+      {
+       "nl": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " En ouvrant la fenêtre, j'ai cru voir double !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm surprised you figured out which house was"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mine."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " When I opened the window, I thought I"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "was seeing double!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Surprise que tu aies trouvé ma maison.\n[1205][001E] En ouvrant la fenêtre, j'ai cru voir double !",
+   "brut_en": "I'm[SP]surprised[SP]you[SP]figured[SP]out[SP]which[SP]house[SP]was\nmine.[1205][001E][SP]When[SP]I[SP]opened[SP]the[SP]window,[SP]I[SP]thought[SP]I\nwas[SP]seeing[SP]double!",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 2,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "E-Eh bien, avec la nuit..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est normal que tu aies cru ça..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "W-Well, it was dark out..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm not that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "surprised you'd think so..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "E-Eh bien, avec la nuit...[1205][001E] C'est normal que tu aies cru ça...",
+   "brut_en": "W-Well,[SP]it[SP]was[SP]dark[SP]out...[1205][001E][SP]I'm[SP]not[SP]that\nsurprised[SP]you'd[SP]think[SP]so...",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé tu sais ce qu'est un Double"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You know what a doppelganger is?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé tu sais ce qu'est un Double",
+   "brut_en": "Hey...[1205][001E][SP]You[SP]know[SP]what[SP]a[SP]doppelganger[SP]is?",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nuit paisible, rues silencieuses,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ici vivait mon amour"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The night is still, the streets are quiet,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "In this house lived my Love"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Nuit paisible, rues silencieuses,\nIci vivait mon amour",
+   "brut_en": "The[SP]night[SP]is[SP]still,[SP]the[SP]streets[SP]are[SP]quiet,\nIn[SP]this[SP]house[SP]lived[SP]my[SP]Love",
+   "data_size": 160,
+   "budget": 152
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Elle a quitté la ville,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais sa maison reste à la même place."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "She left the town long before,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Yet her house still stands in the same place."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Elle a quitté la ville,\nMais sa maison reste à la même place.",
+   "brut_en": "She[SP]left[SP]the[SP]town[SP]long[SP]before,\nYet[SP]her[SP]house[SP]still[SP]stands[SP]in[SP]the[SP]same[SP]place.",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Là se tient aussi un homme,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Les yeux fixés vers les cieux,"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There I also see a man standing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "And staring into the heavens,"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Là se tient aussi un homme,\nLes yeux fixés vers les cieux,",
+   "brut_en": "There[SP]I[SP]also[SP]see[SP]a[SP]man[SP]standing\nAnd[SP]staring[SP]into[SP]the[SP]heavens,",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et tord ses mains de douleur ;"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "L'effroi me saisit devant son visage,"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wringing his hands in violent grief."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I shudder when I behold his face"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et tord ses mains de douleur ;\nL'effroi me saisit devant son visage,",
+   "brut_en": "Wringing[SP]his[SP]hands[SP]in[SP]violent[SP]grief.\nI[SP]shudder[SP]when[SP]I[SP]behold[SP]his[SP]face",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La lune révèle mes propres traits."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ô toi, mon double, pâle compagnon !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The moon reveals to me my own likeness."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You Doppelganger, you pale companion"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La lune révèle mes propres traits.\nÔ toi, mon double, pâle compagnon !",
+   "brut_en": "The[SP]moon[SP]reveals[SP]to[SP]me[SP]my[SP]own[SP]likeness.\nYou[SP]Doppelganger,[SP]you[SP]pale[SP]companion",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pourquoi imites-tu mon mal d'amour,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qui me torturait en ce lieu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tant de nuits passées ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Why do you mimic my lovesickness,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "That tormented me at this place"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "For so many nights in the past?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pourquoi imites-tu mon mal d'amour,\nQui me torturait en ce lieu\nTant de nuits passées ?",
+   "brut_en": "Why[SP]do[SP]you[SP]mimic[SP]my[SP]lovesickness,\nThat[SP]tormented[SP]me[SP]at[SP]this[SP]place\nFor[SP]so[SP]many[SP]nights[SP]in[SP]the[SP]past?",
+   "data_size": 216,
+   "budget": 208
+  },
+  {
+   "id": 10,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun et "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-jun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Si différents,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pourtant vous vous attirez l'un l'autre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "comme des ombres..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun-kun and "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Your personalities"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "are different, but maybe that's why you two"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "draw each other together like shadows..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun et [1113]-jun...[1205][001E] Si différents,\npourtant vous vous attirez l'un l'autre\ncomme des ombres...",
+   "brut_en": "Jun-kun[SP]and[SP][1113]-kun...[1205][001E][SP]Your[SP]personalities\nare[SP]different,[SP]but[SP]maybe[SP]that's[SP]why[SP]you[SP]two\ndraw[SP]each[SP]other[SP]together[SP]like[SP]shadows...",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 11,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sœurette nous a appris à rêver..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Big Sis taught us to pursue our dreams..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sœurette nous a appris à rêver...",
+   "brut_en": "Big[SP]Sis[SP]taught[SP]us[SP]to[SP]pursue[SP]our[SP]dreams...",
+   "data_size": 102,
+   "budget": 94
+  }
+ ]
+}

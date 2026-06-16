@@ -1,0 +1,274 @@
+{
+ "no": 392,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouf..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Rien de cassé ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Whew..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Is everyone okay?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouf...[1205][0014] Rien de cassé ?",
+   "brut_en": "Whew...[1205][0014][SP]Is[SP]everyone[SP]okay?",
+   "data_size": 74,
+   "budget": 66
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "H-Hé... Ça ne va pas !? Vous avez peur ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "H-Hey... What's wrong!? Were you that scared?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "H-Hé... Ça ne va pas !? Vous avez peur ?",
+   "brut_en": "H-Hey...[SP]What's[SP]wrong!?[SP]Were[SP]you[SP]that[SP]scared?",
+   "data_size": 110,
+   "budget": 102
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pourquoi je pleure ?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": " *sniff* Ça ne s'arrête pas..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Why am I crying? The tears..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "They *sniff* won't stop..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein...?[1205][0014] Pourquoi je pleure ?[1205][0014]\n *sniff* Ça ne s'arrête pas...",
+   "brut_en": "Huh...?[1205][0014][SP]Why[SP]am[SP]I[SP]crying?[SP]The[SP]tears...[1205][0014]\nThey[SP]*sniff*[SP]won't[SP]stop...",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " si précieux... Plus doux qu'avec "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " ou Ginko..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Comme un câlin de ma mère..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's like..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " some cherished memory... Warmer"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "than what I felt with "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " or Ginko..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Like being hugged by my mom..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est...[1205][0014] si précieux... Plus doux qu'avec [1113] ou Ginko...[1205][0014]\nComme un câlin de ma mère...",
+   "brut_en": "It's[SP]like...[1205][0014][SP]some[SP]cherished[SP]memory...[SP]Warmer\nthan[SP]what[SP]I[SP]felt[SP]with[SP][1113][SP]or[SP]Ginko...[1205][0014]\nLike[SP]being[SP]hugged[SP]by[SP]my[SP]mom...",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Étrange..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je le sens aussi. Qu'était donc"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce sentiment de nostalgie..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "How strange..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I felt it too. What was that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "odd wave of nostalgia about...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Étrange...[1205][0014] Je le sens aussi. Qu'était donc\nce sentiment de nostalgie...",
+   "brut_en": "How[SP]strange...[1205][0014][SP]I[SP]felt[SP]it[SP]too.[SP]What[SP]was[SP]that\nodd[SP]wave[SP]of[SP]nostalgia[SP]about...?",
+   "data_size": 174,
+   "budget": 166
+  }
+ ]
+}

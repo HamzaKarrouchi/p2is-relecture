@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="nuit">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dictionnaire — P2IS Relecture</title>
+  <link rel="stylesheet" href="css/commun.css">
+  <link rel="stylesheet" href="css/theme-nuit.css">
+  <link rel="stylesheet" href="css/theme-rouge.css">
+</head>
+<body>
+  <header class="barre">
+    <a href="index.html">🦋 P2IS Relecture</a>
+    <span>Dictionnaire</span>
+    <button id="btn-theme" title="Changer de thème">🎨</button>
+  </header>
+  <main class="page">
+    <div class="outils">
+      <input id="q" placeholder="🔎 Rechercher un terme EN ou FR…">
+    </div>
+    <table id="tableau-dico" class="table-dico">
+      <thead><tr><th>EN</th><th>FR</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </main>
+  <script type="module" src="js/dictionnaire.js"></script>
+</body>
+</html>
