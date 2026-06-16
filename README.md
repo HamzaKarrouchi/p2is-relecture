@@ -66,7 +66,7 @@ Validé croisé sur 183 entrées réelles (`tests/fixtures-budget.json`).
 
 - ⚠ Le dossier parent est un autre repo git : **toujours**
   `git -C /home/pchamza/Project/P2IS_Relecture/p2is-relecture <commande>`.
-- `main` = stable/déployé (GitHub Pages). Le développement se fait sur des branches
+- `main` = stable. Le développement se fait sur des branches
   (actuellement `site-v1`), mergées dans `main` quand c'est fonctionnel.
 - 1 tâche du plan = 1 commit (préfixes `feat:`/`fix:`/`chore:`/`docs:`),
   TDD : le commit inclut toujours ses tests.
@@ -74,9 +74,20 @@ Validé croisé sur 183 entrées réelles (`tests/fixtures-budget.json`).
   — le spec validé : `docs/superpowers/specs/2026-06-12-site-relecture-p2is-design.md`
   — l'avancement : `ROADMAP.md`.
 
+## Déploiement
+
+Site **statique portable** : aucun build, chemins **relatifs** → déployable tel quel
+dans n'importe quel hébergement statique, y compris un sous-dossier. L'hébergement
+est assuré sur un site de **chenetulipe** ; il suffit d'y copier l'arborescence
+(hors `node_modules/`, `tests/`, `docs/`). `data/` est inclus et autonome.
+
 ## Crédits
 
-- **Hamza (HamzaKarrouchi)** — traduction & cet outil
-- **chenetulipe** — extraction des scripts, outillage et hébergement du projet de traduction
-- **GarloulouLeAsriel** — premiers scripts de vérification
-- **La communauté Discord** — relectures, corrections et soutien ❤️
+- **La communauté** — la traduction française est un effort collectif : de nombreux
+  membres y ont contribué, relu et corrigé ❤️
+- **chenetulipe** — extraction des scripts, outillage et hébergement du projet de
+  traduction et de ce site · [P2-FR-IS-PSP](https://github.com/chenetulipe/P2-FR-IS-PSP)
+- **Garloulou** — premiers outils de vérification
+- **Hamza** — traductions et développement de cet outil
+
+Discussions et relectures sur **Discord** : <https://discord.gg/A8yUHfsNHF>
