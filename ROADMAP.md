@@ -38,21 +38,20 @@ Suite de tests : **43 tests JS + 15 tests Python, tous verts.**
 
 ## 🖼️ Portraits à acquérir (priorité haute → basse)
 
-Disponibles (12, depuis personadle) : Tatsuya, Maya (=`Maya_A.webp`), Eikichi,
-Lisa (=Ginko), Yukino, Jun, Ulala, Katsuya, Baofu (clé « Colporteur Baofu »),
-Igor, Philémon, Demon Painter.
+Disponibles (22) :
+- depuis personadle (12) : Tatsuya, Maya (=`Maya_A.webp`), Eikichi,
+  Lisa (=Ginko), Yukino, Jun, Ulala, Katsuya, Baofu (clé « Colporteur Baofu »),
+  Igor, Philémon, Demon Painter.
+- ajoutés le 2026-06-16 (10, commit bfedf77) : Roi Lion, Reine Verseau,
+  Dame Scorpion, Prince Taureau, Führer, Joker (l'entité), Nyarlathotep,
+  Belladonna, Nameless, Kashihara (= Akinari/père de Jun).
 
 **Manquants — liste exhaustive des personnages avec bust-up dans le jeu**
 (à ripper/sourcer, puis ajouter dans `img/portraits/` + `data/personnages.json`) :
 
-- 🌑 Cercle masqué & antagonistes : **Joker** (l'entité — PAS le Joker P5 !),
-  **Roi Lion** (Tatsuya Sudou), **Prince Taureau** (Ginji Sasaki),
-  **Dame Scorpion** (Anna Yoshizaka), **Reine Verseau** (Junko Kurosu),
-  **le Führer**, soldats du Cercle (portrait générique),
+- 🌑 Cercle masqué & antagonistes : soldats du Cercle (portrait générique),
   Chevaliers de Longinus (portrait générique)
-- 🦋 Chambre de Velours & entités : **Nyarlathotep** (vraie forme + déguisements),
-  **Belladonna**, **Nameless**
-- 🏫 Entourage & lycées : **Akinari Kashihara** (père de Jun),
+- 🏫 Entourage & lycées :
   **Suguru Mishina** (père d'Eikichi), Kenichi Smith & Mme Smith (parents de Lisa),
   **directeur Hanya**, **Saeko Takami** (Mme Saeko — absente de personadle),
   **Miyabi Hanakouji**, Gou Kameyama (**Toro**), **Yasuo** Mishima,
