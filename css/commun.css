@@ -90,3 +90,9 @@ body.compare .version-en,.bulle.montre-en .version-en{display:block;}
 .edit{background:none;border:0;cursor:pointer;font-size:.8em;opacity:.4;float:right;margin-left:4px;}
 .edit:hover{opacity:1;}
 .bulle.modifiee .contenu{border-color:var(--dico);}
+
+.pn-item{display:flex;align-items:center;gap:6px;padding:6px 0;
+  border-bottom:1px solid var(--bord);font-size:.9em;}
+.pn-item span{flex:1;color:var(--texte2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.pn-item button{background:none;border:0;cursor:pointer;opacity:.6;}
+.pn-item button:hover{opacity:1;}

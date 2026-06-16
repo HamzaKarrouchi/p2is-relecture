@@ -3,6 +3,7 @@ import { initTheme, basculerTheme } from "./theme.js";
 import { rendreSegments, rendreAvatar } from "./normalise.js";
 import { chargerDico, marquerTermes, incoherences } from "./dico.js";
 import { ouvrirEditeur } from "./editeur.js";
+import { ouvrirPanier } from "./panier.js";
 
 /**
  * Vrai si cette bulle est dite par le héros (affichée à droite).
@@ -238,6 +239,11 @@ if (document.getElementById("fil")) {
       document.getElementById("badge-panier").textContent = n || "";
     }
     majBadgePanier();
+
+    const budgetsDuScript = Object.fromEntries(
+      donnees.entrees.map(e => [`${no}/${e.id}`, e.budget])
+    );
+    document.getElementById("btn-panier").onclick = () => ouvrirPanier(budgetsDuScript, majBadgePanier);
 
     let rejeu = true;
     const reduit = matchMedia("(prefers-reduced-motion: reduce)").matches;
