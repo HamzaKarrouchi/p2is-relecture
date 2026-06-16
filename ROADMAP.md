@@ -4,6 +4,24 @@
 `docs/superpowers/plans/2026-06-12-site-relecture-p2is.md` (workflow : 1 tâche = 1 agent
 implémenteur + revue spec + revue qualité, TDD, 1 commit par tâche).
 
+## 🦋 Refonte visuelle « Velvet Editorial » (2026-06-16)
+
+Branche `redesign-velvet-editorial`. Spec :
+`docs/superpowers/specs/2026-06-16-redesign-velvet-editorial-design.md` ·
+Plan : `docs/superpowers/plans/2026-06-16-redesign-velvet-editorial.md`.
+
+Refonte complète de la peau du site (grimoire de relecture nocturne, serif,
+palette Persona 2 IS) sans toucher au moteur ni aux contrats DOM :
+
+- Polices auto-hébergées (Cormorant Garamond + Libre Baskerville).
+- Thèmes **Velvet Nuit** (défaut) / **Velvet Jour** — renomme l'ancien `rouge`→`jour`.
+- `commun.css` + `accueil.css` réécrits (barre, bulles, sommaire, panneaux, glossaire, colophon).
+- Accueil frontispice + **révélation portrait+nom** à l'entrée ; papillon recoloré bleu Philémon.
+- Icônes SVG de chrome (fin des émojis), toasts non bloquants (remplacent `alert`).
+- Responsive 375→1440, `prefers-reduced-motion` respecté.
+
+Suite de tests : **97 tests JS + 15 tests Python, tous verts.**
+
 ## ✅ Fait (T1-T11)
 
 | Tâche | Commit(s) | Contenu |
