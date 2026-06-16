@@ -5,20 +5,20 @@ import { Etat } from "../js/etat.js";
 beforeEach(() => { localStorage.clear(); document.documentElement.dataset.theme = ""; });
 
 describe("theme", () => {
-  it("init applique le thème par défaut nuit", () => {
+  it("init applique le thème par défaut rouge (Innocent Sin)", () => {
     initTheme();
-    expect(document.documentElement.dataset.theme).toBe("nuit");
+    expect(document.documentElement.dataset.theme).toBe("rouge");
   });
-  it("bascule nuit <-> rouge et persiste", () => {
+  it("bascule rouge <-> nuit et persiste", () => {
     initTheme();
     basculerTheme();
-    expect(document.documentElement.dataset.theme).toBe("rouge");
-    expect(Etat.get("theme", "")).toBe("rouge");
+    expect(document.documentElement.dataset.theme).toBe("nuit");
+    expect(Etat.get("theme", "")).toBe("nuit");
   });
   it("init relit le thème persisté", () => {
-    appliquerTheme("rouge");
+    appliquerTheme("nuit");
     document.documentElement.dataset.theme = "";
     initTheme();
-    expect(document.documentElement.dataset.theme).toBe("rouge");
+    expect(document.documentElement.dataset.theme).toBe("nuit");
   });
 });

@@ -55,10 +55,18 @@ export function construireBulle(entree, bulle, { heros, persos, indiceBulle = 0,
   return el;
 }
 
-export function construireChoix(entree) {
+export function construireChoix(entree, { heros = { prenom: "Héros" } } = {}) {
   const bloc = document.createElement("div");
   bloc.className = "choix";
   bloc.dataset.id = entree.id;
+  // En-tête : « votre réponse » + avatar du héros à droite (le choix est SA réplique)
+  const entete = document.createElement("div");
+  entete.className = "choix-entete";
+  const titre = document.createElement("div");
+  titre.className = "choix-titre";
+  titre.textContent = `Votre réponse — ${heros.prenom}`;
+  entete.append(titre, rendreAvatar(heros.prenom || "?", { portrait: "Tatsuya.webp" }));
+  bloc.append(entete);
   const optionsEn = entree.choix_en?.options;
   entree.choix_fr.options.forEach((opt, i) => {
     const b = document.createElement("button");
@@ -100,7 +108,7 @@ export function rendreFil(fil, blocs, ctx) {
   for (const b of blocs)
     fil.append(b.type === "bulle"
       ? construireBulle(b.entree, b.bulle, { ...ctx, indiceBulle: b.i })
-      : construireChoix(b.entree));
+      : construireChoix(b.entree, ctx));
 }
 
 /**
@@ -176,7 +184,7 @@ export function creerLecture({ fil, blocs, ctx, vitesse = () => 28, surAvance = 
     const b = blocs[position++];
     const el = b.type === "bulle"
       ? construireBulle(b.entree, b.bulle, { ...ctx, indiceBulle: b.i })
-      : construireChoix(b.entree);
+      : construireChoix(b.entree, ctx);
     fil.append(el);
     el.scrollIntoView?.({ behavior: "smooth", block: "end" });
     if (b.type === "bulle") {
@@ -200,7 +208,7 @@ export function creerLecture({ fil, blocs, ctx, vitesse = () => 28, surAvance = 
       const b = blocs[position++];
       fil.append(b.type === "bulle"
         ? construireBulle(b.entree, b.bulle, { ...ctx, indiceBulle: b.i })
-        : construireChoix(b.entree));
+        : construireChoix(b.entree, ctx));
       surAvance(position, b);
     }
   }
@@ -215,9 +223,10 @@ export function voisins(numeros, no) {
            suiv: (i >= 0 && i < numeros.length - 1) ? numeros[i + 1] : null };
 }
 
-/** Cycle de vitesse du texte : 28 (🐢) → 12 (🐇) → 0 (⚡) → 28. */
+/** Cycle de vitesse du texte : 28 (lent) → 12 (rapide) → 0 (instantané) → 28. */
 export function vitesseSuivante(v) { return v === 28 ? 12 : v === 12 ? 0 : 28; }
 export function iconeVitesse(v) { return v === 0 ? "⚡" : v <= 12 ? "🐇" : "🐢"; }
+export function libelleVitesse(v) { return v === 0 ? "Instantané" : v <= 12 ? "Rapide" : "Lent"; }
 
 // ── Bootstrap navigateur ──────────────────────────────────────────────────
 if (document.getElementById("fil")) {
@@ -247,14 +256,17 @@ if (document.getElementById("fil")) {
 
     function majBadgePanier() {
       const n = Etat.panier().length;
-      document.getElementById("badge-panier").textContent = n || "";
+      for (const id of ["badge-panier", "badge-panier-fin"])
+        document.getElementById(id).textContent = n || "";
     }
     majBadgePanier();
 
     const budgetsDuScript = Object.fromEntries(
       donnees.entrees.map(e => [`${no}/${e.id}`, e.budget])
     );
-    document.getElementById("btn-panier").onclick = () => ouvrirPanier(budgetsDuScript, majBadgePanier);
+    const ouvrirMonPanier = () => ouvrirPanier(budgetsDuScript, majBadgePanier);
+    document.getElementById("btn-panier").onclick = ouvrirMonPanier;
+    document.getElementById("btn-panier-fin").onclick = ouvrirMonPanier;
 
     let rejeu = true;
     const reduit = matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -285,6 +297,12 @@ if (document.getElementById("fil")) {
     btnRelu.onclick = () => { Etat.marquerRelu(no, !Etat.estRelu(no)); majBoutonRelu(); };
     majBoutonRelu();
 
+    // Recommencer la lecture depuis le début
+    document.getElementById("btn-recommencer").onclick = () => {
+      Etat.set(`pos.${no}`, 0);
+      location.reload();
+    };
+
     // Navigation précédent / suivant (sur l'ordre trié des numéros de l'index)
     const numeros = index.map(s => s.no).sort((a, b) => a - b);
     const { prec, suiv } = voisins(numeros, no);
@@ -292,44 +310,26 @@ if (document.getElementById("fil")) {
     if (prec != null) elPrec.href = `lecture.html?s=${prec}`; else elPrec.style.visibility = "hidden";
     if (suiv != null) elSuiv.href = `lecture.html?s=${suiv}`; else elSuiv.style.visibility = "hidden";
 
-    // Réglage vitesse dans la barre (inséré avant #btn-theme)
+    // Réglage vitesse dans la barre (inséré avant #btn-theme) — texte + icône
     const btnV = document.createElement("button");
-    btnV.title = "Vitesse du texte";
-    btnV.textContent = iconeVitesse(Etat.get("vitesse", 28));
+    btnV.title = "Vitesse d'affichage du texte (cliquer pour changer)";
+    const libelleV = v => `${iconeVitesse(v)} ${libelleVitesse(v)}`;
+    btnV.textContent = libelleV(Etat.get("vitesse", 28));
     btnV.onclick = () => { const nv = vitesseSuivante(Etat.get("vitesse", 28));
-      Etat.set("vitesse", nv); btnV.textContent = iconeVitesse(nv); };
+      Etat.set("vitesse", nv); btnV.textContent = libelleV(nv); };
     document.querySelector(".barre").insertBefore(btnV, document.getElementById("btn-theme"));
 
-    // Infobulle dico : une seule instance réutilisée, fermée au clic ailleurs.
-    let infobulle = null;
-    function fermerInfobulle() {
-      infobulle?.remove();
-      infobulle = null;
-    }
     fil.addEventListener("click", (ev) => {
+      // Clic sur un terme du dictionnaire → ouvre le glossaire directement (sur ce terme)
       const mot = ev.target.closest(".mot-dico");
       if (mot) {
         ev.stopPropagation();
-        fermerInfobulle();
-        infobulle = document.createElement("div");
-        infobulle.className = "infobulle";
-        const ligneEn = document.createElement("div");
-        ligneEn.textContent = `EN : ${mot.dataset.en}`;
-        const lien = document.createElement("a");
-        lien.href = "dictionnaire.html";
-        lien.textContent = "voir le dictionnaire";
-        infobulle.append(ligneEn, lien);
-        document.body.append(infobulle);
-        const r = mot.getBoundingClientRect();
-        infobulle.style.left = `${r.left + window.scrollX}px`;
-        infobulle.style.top = `${r.bottom + window.scrollY + 4}px`;
+        const terme = mot.dataset.en || mot.textContent;
+        location.href = "dictionnaire.html?q=" + encodeURIComponent(terme);
         return;
       }
       if (ev.target.closest(".choix") || ev.target.closest("button")) return;
       lecture.avancer();
-    });
-    document.addEventListener("click", (ev) => {
-      if (infobulle && !ev.target.closest(".infobulle") && !ev.target.closest(".mot-dico")) fermerInfobulle();
     });
     document.getElementById("indicateur").addEventListener("click", () => lecture.avancer());
     document.addEventListener("keydown", (ev) => {

@@ -1,5 +1,22 @@
 import { describe, it, expect, beforeEach } from "vitest";
-import { initGrille } from "../js/grille.js";
+import { initGrille, titreScript } from "../js/grille.js";
+
+describe("titreScript", () => {
+  it("utilise le label quand il existe", () => {
+    expect(titreScript({ no: 1, label: "Intro", personnages: ["Maya"], repliques: 10 }))
+      .toEqual({ texte: "Intro", derive: false, vide: false });
+  });
+  it("marque les scripts vides « (non traduit) »", () => {
+    expect(titreScript({ no: 17, label: "", personnages: [], repliques: 0 }))
+      .toEqual({ texte: "(non traduit)", derive: true, vide: true });
+  });
+  it("déduit un titre des personnages si pas de label", () => {
+    const t = titreScript({ no: 18, label: "", personnages: ["Eikichi", "Ginko", "Kozy", "Leader"], repliques: 43 });
+    expect(t.texte).toBe("Scène avec Eikichi, Ginko, Kozy");
+    expect(t.derive).toBe(true);
+    expect(t.vide).toBe(false);
+  });
+});
 
 const INDEX = [
   { no: 1, label: "Intro", personnages: ["Maya"], repliques: 10 },

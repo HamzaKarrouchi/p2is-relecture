@@ -43,8 +43,12 @@ if (document.getElementById("tableau-dico")) {
   fetch("data/dictionnaire.json").then(r => r.json()).then(dico => {
     const corps = document.querySelector("#tableau-dico tbody");
     const champ = document.getElementById("q");
-    rendreTableau(corps, dico, "");
+    // Pré-remplissage depuis ?q= (clic sur un terme doré dans le lecteur)
+    const q0 = new URLSearchParams(location.search).get("q") || "";
+    if (q0) champ.value = q0;
+    rendreTableau(corps, dico, q0);
     champ.addEventListener("input", () => rendreTableau(corps, dico, champ.value));
+    if (q0) champ.focus();
   }).catch(err => {
     console.error("Erreur chargement dictionnaire :", err);
     document.getElementById("tableau-dico").textContent =

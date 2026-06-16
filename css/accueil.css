@@ -1,12 +1,20 @@
 #fond{position:fixed;inset:0;z-index:-1;}
 .accueil{min-height:100vh;display:flex;flex-direction:column;justify-content:center;
          align-items:center;text-align:center;gap:18px;}
-.accueil h1{font-size:2.2em;letter-spacing:3px;font-style:italic;}
+.accueil h1{font-size:2.6em;letter-spacing:4px;font-style:italic;font-weight:800;
+         text-transform:uppercase;text-shadow:0 2px 18px #000a;}
+.sous-titre{color:var(--texte2);margin-top:-8px;}
 .rouge{color:var(--rouge);}
-#forme-heros{display:flex;flex-direction:column;gap:12px;background:rgba(10,12,30,.72);
-         padding:22px 28px;border:1px solid var(--bord);border-radius:var(--rayon);}
-#forme-heros input{background:var(--fond2);border:1px solid var(--bord);color:var(--texte);
-         padding:8px 10px;border-radius:6px;font-size:1.05em;text-align:center;}
-#forme-heros button{background:var(--rouge);color:#fff;border:0;padding:10px;
-         border-radius:6px;font-weight:700;cursor:pointer;font-size:1.05em;}
-.liens a{color:var(--texte2);margin:0 10px;}
+#forme-heros{display:flex;flex-direction:column;gap:12px;
+         background:color-mix(in srgb, var(--fond2) 82%, transparent);
+         padding:24px 30px;border:1px solid var(--bord);
+         border-top:3px solid var(--rouge);border-radius:var(--rayon);
+         box-shadow:0 10px 40px #000a;}
+#forme-heros input{background:var(--fond);border:1px solid var(--bord);color:var(--texte);
+         padding:9px 10px;border-radius:var(--rayon);font-size:1.05em;text-align:center;}
+#forme-heros button{background:var(--rouge);color:#fff;border:0;padding:11px;
+         border-radius:var(--rayon);font-weight:800;letter-spacing:.5px;cursor:pointer;
+         font-size:1.05em;transition:background .15s;}
+#forme-heros button:hover{background:var(--accent);}
+.liens a{color:var(--texte2);margin:0 10px;text-decoration:none;}
+.liens a:hover{color:var(--accent);}

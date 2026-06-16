@@ -6,11 +6,25 @@ import { initTheme, basculerTheme } from "./theme.js";
  * @param {object} s      - entrée de data/index.json
  * @param {object} [etat] - objet compatible Etat (injectable en test)
  */
+/**
+ * Titre affiché pour un script : le label s'il existe, sinon un repli déduit des
+ * personnages présents, sinon « (non traduit) » pour les scripts vides.
+ * @returns {{ texte: string, derive: boolean, vide: boolean }}
+ */
+export function titreScript(s) {
+  if (s.repliques === 0) return { texte: "(non traduit)", derive: true, vide: true };
+  if (s.label) return { texte: s.label, derive: false, vide: false };
+  if (s.personnages.length)
+    return { texte: "Scène avec " + s.personnages.slice(0, 3).join(", "), derive: true, vide: false };
+  return { texte: "Sans titre", derive: true, vide: false };
+}
+
 export function carte(s, etat = Etat) {
   const relu = etat.estRelu(s.no);
   const enCours = etat.panier().some(x => x.script === s.no);
+  const t = titreScript(s);
   const el = document.createElement("a");
-  el.className = "carte-script" + (relu ? " relu" : "");
+  el.className = "carte-script" + (relu ? " relu" : "") + (t.vide ? " vide" : "");
   el.href = `lecture.html?s=${s.no}`;
   // textContent partout : les labels/noms viennent des données de trad,
   // jamais interprétés comme HTML.
@@ -19,8 +33,8 @@ export function carte(s, etat = Etat) {
   no.textContent = `${String(s.no).padStart(3, "0")} ${relu ? "✓" : ""} ${enCours ? "📝" : ""}`.trim();
   const label = document.createElement("div");
   label.className = "label";
-  if (s.label) label.textContent = s.label;
-  else { const i = document.createElement("i"); i.textContent = "sans titre"; label.append(i); }
+  if (t.derive) { const i = document.createElement("i"); i.textContent = t.texte; label.append(i); }
+  else label.textContent = t.texte;
   const persos = document.createElement("div");
   persos.className = "persos";
   persos.textContent = s.personnages.slice(0, 4).join(", ") + (s.personnages.length > 4 ? "…" : "");

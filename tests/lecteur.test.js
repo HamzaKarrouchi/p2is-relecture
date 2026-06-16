@@ -246,4 +246,11 @@ describe("construireChoix — comparaison FR/EN (T15)", () => {
     expect(boutons.every(b => b.title === "")).toBe(true);
     expect(bloc.querySelector(".version-en")).toBeNull();
   });
+  it("affiche l'avatar du héros et un en-tête « votre réponse » (côté droit)", () => {
+    const bloc = construireChoix(E_MENU, { heros: { prenom: "Hamza" } });
+    const entete = bloc.querySelector(".choix-entete");
+    expect(entete).not.toBeNull();
+    expect(entete.querySelector(".choix-titre").textContent).toContain("Hamza");
+    expect(entete.querySelector(".avatar")).not.toBeNull();
+  });
 });

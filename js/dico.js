@@ -33,6 +33,7 @@ export function marquerTermes(racine, dico) {
       const mot = document.createElement("span");
       mot.className = "mot-dico"; mot.textContent = m[2];
       mot.dataset.en = t.en;
+      mot.title = `Terme du dictionnaire\nFR : ${t.fr}\nEN : ${t.en}\n(cliquer pour ouvrir le glossaire)`;
       frag.append(mot, txt.slice(m.index + m[1].length + m[2].length));
       break;
     }
