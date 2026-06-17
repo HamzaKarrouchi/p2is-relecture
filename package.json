@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "scripts": { "test": "vitest run", "test:watch": "vitest" },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:py": "python3 -m unittest discover tests_py -q",
+    "serve": "python3 -m http.server 8088",
+    "prepare": "git config core.hooksPath .githooks || true"
+  },
   "devDependencies": { "vitest": "^2.0.0", "jsdom": "^25.0.0" }
 }

@@ -1,0 +1,19 @@
+#!/bin/sh
+# Hook pre-push : lance la suite de tests avant tout push ; bloque si rouge.
+# Activé via `git config core.hooksPath .githooks` (fait par `npm install`).
+set -e
+
+ROOT=$(git rev-parse --show-toplevel)
+cd "$ROOT"
+
+echo "▶ pre-push : tests JS (vitest)…"
+if [ -d node_modules ]; then
+  npm test --silent
+else
+  echo "  (node_modules absent — exécute 'npm install' ; tests JS ignorés)"
+fi
+
+echo "▶ pre-push : tests Python (unittest)…"
+python3 -m unittest discover tests_py -q
+
+echo "✓ tests verts — push autorisé."
