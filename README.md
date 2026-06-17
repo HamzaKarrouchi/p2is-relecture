@@ -32,6 +32,14 @@ sobre et littéraire, à grande respiration — pensé pour relire des heures.
 - Icônes **SVG** (pas d'émoji de chrome), animations respectueuses de
   `prefers-reduced-motion`, responsive 375 → 1440 px.
 
+## 📸 Aperçu
+
+| Accueil — frontispice | Sommaire des scripts |
+|:---:|:---:|
+| ![Accueil de P2IS Relecture : titre Cormorant, papillon Philémon, formulaire du protagoniste](docs/screenshots/accueil.png) | ![Sommaire : grille des 399 scripts avec numéros dorés et recherche](docs/screenshots/sommaire.png) |
+
+![Lecture façon visual novel : bulle de dialogue serif, barre d'outils, comparaison FR/EN](docs/screenshots/lecture.png)
+
 ## 🎮 Fonctionnement
 
 1. **Accueil** (`index.html`) : choisis le prénom/nom du protagoniste (défaut

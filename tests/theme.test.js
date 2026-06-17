@@ -1,8 +1,23 @@
 import { describe, it, expect, beforeEach } from "vitest";
-import { initTheme, basculerTheme, appliquerTheme } from "../js/theme.js";
+import { initTheme, basculerTheme, appliquerTheme, choisirThemeInitial } from "../js/theme.js";
 import { Etat } from "../js/etat.js";
 
 beforeEach(() => { localStorage.clear(); document.documentElement.dataset.theme = ""; });
+
+describe("choisirThemeInitial", () => {
+  it("garde la préférence stockée si valide", () => {
+    expect(choisirThemeInitial("jour", false)).toBe("jour");
+    expect(choisirThemeInitial("nuit", true)).toBe("nuit");
+  });
+  it("sans préférence : suit prefers-color-scheme (clair → jour, sombre → nuit)", () => {
+    expect(choisirThemeInitial(null, true)).toBe("jour");
+    expect(choisirThemeInitial(null, false)).toBe("nuit");
+  });
+  it("une valeur stockée invalide retombe sur le système", () => {
+    expect(choisirThemeInitial("xxx", true)).toBe("jour");
+    expect(choisirThemeInitial("xxx", false)).toBe("nuit");
+  });
+});
 
 describe("theme", () => {
   it("init applique le thème par défaut nuit (Velvet)", () => {
