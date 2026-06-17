@@ -1,0 +1,183 @@
+{
+ "no": 120,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Novice",
+   "nom_en": "Young monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dieux..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " O-On est morts!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh gods..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " W-We're dead!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Dieux...[1205][001E] O-On est morts!",
+   "brut_en": "Oh[SP]gods...[1205][001E][SP]W-We're[SP]dead!",
+   "data_size": 86,
+   "budget": 78
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maître",
+   "nom_en": "Head monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sans peur!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Never fear!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sans peur!",
+   "brut_en": "Never[SP]fear!",
+   "data_size": 54,
+   "budget": 46
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maître",
+   "nom_en": "Head monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ni faiblesse!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ni repos!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ni échec!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No weakness! No sleep! No failure!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ni faiblesse!\nNi repos!\nNi échec!",
+   "brut_en": "No[SP]weakness![SP]No[SP]sleep![SP]No[SP]failure!",
+   "data_size": 100,
+   "budget": 92
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maître",
+   "nom_en": "Head monk",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Leurs armes fantaisistes ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "battront pas notre style Gouketsu!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Battez-vous tous! Battez-vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour vos vies!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It'll take more than their fancy weapons to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "beat our Gouketsu Style martial arts! Fight,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "everyone! Fight for your lives!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Leurs armes fantaisistes ne\nbattront pas notre style Gouketsu!\nBattez-vous tous! Battez-vous\npour vos vies!",
+   "brut_en": "It'll[SP]take[SP]more[SP]than[SP]their[SP]fancy[SP]weapons[SP]to\nbeat[SP]our[SP]Gouketsu[SP]Style[SP]martial[SP]arts![SP]Fight,\neveryone![SP]Fight[SP]for[SP]your[SP]lives!",
+   "data_size": 272,
+   "budget": 264
+  }
+ ]
+}

@@ -1,0 +1,816 @@
+{
+ "no": 139,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est faux!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-No way..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est faux!",
+   "brut_en": "N-No[SP]way...",
+   "data_size": 46,
+   "budget": 38
+  },
+  {
+   "id": 1,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wunderbar...! Une apparence si majestueuse est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "digne de la vraie ville du Führer..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Der Führer Staat!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wunderbar...! Such a dignified appearance is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "worthy of the true city for a Fuhrer..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The Fuhrer Staat!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Wunderbar...! Une apparence si majestueuse est\ndigne de la vraie ville du Führer...[1205][001E]\nDer Führer Staat!",
+   "brut_en": "Wunderbar...![SP]Such[SP]a[SP]dignified[SP]appearance[SP]is\nworthy[SP]of[SP]the[SP]true[SP]city[SP]for[SP]a[SP]Fuhrer...[1205][001E]\nThe[SP]Fuhrer[SP]Staat!",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 2,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahaha... Aaaahahahahaha!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Regarde !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Père avait raison !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahaha.... Aaaahahahahaha!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Look! What"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Father said was true!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hahaha... Aaaahahahahaha![1205][001E] Regarde !\nPère avait raison !",
+   "brut_en": "Hahaha....[SP]Aaaahahahahaha![1205][001E][SP]Look![SP]What\nFather[SP]said[SP]was[SP]true!",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 3,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ç-Ça peut pas..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'était vrai?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I-It can't be..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It was true...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ç-Ça peut pas...[1205][001E] C'était vrai?",
+   "brut_en": "I-It[SP]can't[SP]be...[1205][001E][SP]It[SP]was[SP]true...?",
+   "data_size": 88,
+   "budget": 80
+  },
+  {
+   "id": 4,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Urgh...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Non... Ce que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je voulais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pas..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cette chose horrible...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ngh...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " No... What... I wanted..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " wasn't..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this horrible... thing...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Urgh...!?[1205][001E] Non... Ce que\nje voulais...[1205][001E] pas...\ncette chose horrible...!",
+   "brut_en": "Ngh...!?[1205][001E][SP]No...[SP]What...[SP]I[SP]wanted...[1205][001E][SP]wasn't...\nthis[SP]horrible...[SP]thing...!",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun-kun!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun-kun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun-kun!",
+   "brut_en": "Jun-kun!",
+   "data_size": 38,
+   "budget": 30
+  },
+  {
+   "id": 6,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Maintenant, le crâne!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now! Seize the skull!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Maintenant, le crâne!",
+   "brut_en": "Now![SP]Seize[SP]the[SP]skull!",
+   "data_size": 68,
+   "budget": 60
+  },
+  {
+   "id": 7,
+   "nom_fr": "Reine Verseau",
+   "nom_en": "Queen Aquarius",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun, attention!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun, look out!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun, attention!",
+   "brut_en": "Jun,[SP]look[SP]out!",
+   "data_size": 70,
+   "budget": 62
+  },
+  {
+   "id": 8,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahahaha!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Puisque ça s'est élevé,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cet endroit ne sert à rien!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahahaha!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Since that's risen, there's no"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "more use for this place!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hahahaha![1205][001E] Puisque ça s'est élevé,\ncet endroit ne sert à rien!",
+   "brut_en": "Hahahaha![1205][001E][SP]Since[SP]that's[SP]risen,[SP]there's[SP]no\nmore[SP]use[SP]for[SP]this[SP]place!",
+   "data_size": 160,
+   "budget": 152
+  },
+  {
+   "id": 9,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cet endroit va s'effondrer bientôt!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Si vous ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vous dépêchez pas, vous serez une autre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "victime de la destruction du monde!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This place will collapse soon!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If you don't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hurry and get on with it, you'll be another"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "casualty of the world's destruction!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cet endroit va s'effondrer bientôt![1205][001E] Si vous ne\nvous dépêchez pas, vous serez une autre\nvictime de la destruction du monde!",
+   "brut_en": "This[SP]place[SP]will[SP]collapse[SP]soon![1205][001E][SP]If[SP]you[SP]don't\nhurry[SP]and[SP]get[SP]on[SP]with[SP]it,[SP]you'll[SP]be[SP]another\ncasualty[SP]of[SP]the[SP]world's[SP]destruction!",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 10,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tch...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Les crânes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "restants et pourchassez-le!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tch...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Take the remaining skulls and go"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "after him!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tch...![1205][001E] Les crânes\nrestants et pourchassez-le!",
+   "brut_en": "Tch...![1205][001E][SP]Take[SP]the[SP]remaining[SP]skulls[SP]and[SP]go\nafter[SP]him!",
+   "data_size": 130,
+   "budget": 122
+  },
+  {
+   "id": 11,
+   "nom_fr": "Ombres",
+   "nom_en": "Shadows",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "À vos ordres..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Gloire au Masque..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "As you wish..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Glory to the Mask..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "À vos ordres...[1205][001E] Gloire au Masque...",
+   "brut_en": "As[SP]you[SP]wish...[1205][001E][SP]Glory[SP]to[SP]the[SP]Mask...",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 12,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Urgh... C'est "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " qui a tué sœurette..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qui a tué maman..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " hein, papa...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ngh... It was "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " who killed Big Sis..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "who killed our Mama..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " right, Papa...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Urgh... C'est [1113]...[1205][001E] qui a tué sœurette...[1205][001E]\nqui a tué maman...[1205][001E] hein, papa...?",
+   "brut_en": "Ngh...[SP]It[SP]was[SP][1113]...[1205][001E][SP]who[SP]killed[SP]Big[SP]Sis...[1205][001E]\nwho[SP]killed[SP]our[SP]Mama...[1205][001E][SP]right,[SP]Papa...?",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 13,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun! Il était temps que tu te reprennes!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun! It's about time you came to your senses!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun! Il était temps que tu te reprennes!",
+   "brut_en": "Jun![SP]It's[SP]about[SP]time[SP]you[SP]came[SP]to[SP]your[SP]senses!",
+   "data_size": 118,
+   "budget": 110
+  },
+  {
+   "id": 14,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Qui suis-je?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je suis... je..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Who... am I...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm... I'm..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun...?[1205][001E] Qui suis-je?[1205][001E]\nje suis... je...",
+   "brut_en": "Jun...?[1205][001E][SP]Who...[SP]am[SP]I...?[1205][001E][SP]I'm...[SP]I'm...",
+   "data_size": 106,
+   "budget": 98
+  },
+  {
+   "id": 15,
+   "nom_fr": "Voix inconnue",
+   "nom_en": "Unknown voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N'oublie pas..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu es Joker..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tue... Tue... Tue..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Don't forget..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You are Joker..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Kill... Kill... Kill..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "N'oublie pas...[1205][001E] Tu es Joker...[1205][001E]\nTue... Tue... Tue...",
+   "brut_en": "Don't[SP]forget...[1205][001E][SP]You[SP]are[SP]Joker...[1205][001E]\nKill...[SP]Kill...[SP]Kill...",
+   "data_size": 160,
+   "budget": 152
+  }
+ ]
+}

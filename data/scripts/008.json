@@ -1,0 +1,1974 @@
+{
+ "no": 8,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein ? Le proviseur est pas là."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh? Looks like the principal's not here."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein ? Le proviseur est pas là.",
+   "brut_en": "Huh?[SP]Looks[SP]like[SP]the[SP]principal's[SP]not[SP]here.",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 1,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé ! Toi ! T'as vu le proviseur ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wai! Hey, you! Have you seen the principal?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé ! Toi ! T'as vu le proviseur ?",
+   "brut_en": "Wai![SP]Hey,[SP]you![SP]Have[SP]you[SP]seen[SP]the[SP]principal?",
+   "data_size": 106,
+   "budget": 98
+  },
+  {
+   "id": 2,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Euh, non, on a cherché partout et il est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "introuvable. Où a-t-il bien pu passer avec ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chaos dans l'école... ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Uh, no, we've searched everywhere and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he's nowhere to be found. Where'd he go"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "with the school in such chaos...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Euh, non, on a cherché partout et il est\nintrouvable. Où a-t-il bien pu passer avec ce\nchaos dans l'école... ?",
+   "brut_en": "Uh,[SP]no,[SP]we've[SP]searched[SP]everywhere[SP]and\nhe's[SP]nowhere[SP]to[SP]be[SP]found.[SP]Where'd[SP]he[SP]go\nwith[SP]the[SP]school[SP]in[SP]such[SP]chaos...?",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 3,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'étais sûre que le proviseur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hanya règlerait cette histoire!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I was so sure Principal Hanya would be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "able to handle this curse stuff, too!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'étais sûre que le proviseur\nHanya règlerait cette histoire!",
+   "brut_en": "I[SP]was[SP]so[SP]sure[SP]Principal[SP]Hanya[SP]would[SP]be\nable[SP]to[SP]handle[SP]this[SP]curse[SP]stuff,[SP]too!",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le grand Michel se déplace jusqu'à Seven"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et son propre proviseur n'est pas là !?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*soupir*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Quelle belle arnaque !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The great Michel comes all the way to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sevens and its own principal isn't here!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*sigh*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The great rock 'n roll swindle!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le grand Michel se déplace jusqu'à Seven\net son propre proviseur n'est pas là !?\n*soupir*[1205][001E] Quelle belle arnaque !",
+   "brut_en": "The[SP]great[SP]Michel[SP]comes[SP]all[SP]the[SP]way[SP]to\nSevens[SP]and[SP]its[SP]own[SP]principal[SP]isn't[SP]here!?\n*sigh*[1205][001E][SP]The[SP]great[SP]rock[SP]'n[SP]roll[SP]swindle!",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 5,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein ? T'es un élève de Kasu..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "enfin, du Lycée Kasugayama ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh? Are you a student from Cuss..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I mean, Kasugayama High?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein ? T'es un élève de Kasu...[1205][001E]\nenfin, du Lycée Kasugayama ?",
+   "brut_en": "Huh?[SP]Are[SP]you[SP]a[SP]student[SP]from[SP]Cuss...[1205][001E]\nI[SP]mean,[SP]Kasugayama[SP]High?",
+   "data_size": 160,
+   "budget": 152
+  },
+  {
+   "id": 6,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ok ! C'est l'heure de présenter à tous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la star, j'ai nommé Mi--"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay! Time to introduce to one and all"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the headlining act, yours truly, Mi--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ok ! C'est l'heure de présenter à tous\nla star, j'ai nommé Mi--",
+   "brut_en": "Okay![SP]Time[SP]to[SP]introduce[SP]to[SP]one[SP]and[SP]all\nthe[SP]headlining[SP]act,[SP]yours[SP]truly,[SP]Mi--",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 7,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce gars porte l'emblème du Lycée Kasu !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This guy's got Cuss High emblems on him!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce gars porte l'emblème du Lycée Kasu !",
+   "brut_en": "This[SP]guy's[SP]got[SP]Cuss[SP]High[SP]emblems[SP]on[SP]him!",
+   "data_size": 116,
+   "budget": 108
+  },
+  {
+   "id": 8,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Maudits cinglés ! C'est quoi cette école !?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'ai fait quoi pour mériter ça !?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Goddamn cursed creeps! What's with this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "school!? What did I do to deserve this!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Maudits cinglés ! C'est quoi cette école !?\nJ'ai fait quoi pour mériter ça !?",
+   "brut_en": "Goddamn[SP]cursed[SP]creeps![SP]What's[SP]with[SP]this\nschool!?[SP]What[SP]did[SP]I[SP]do[SP]to[SP]deserve[SP]this!?",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 9,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bien fait de venir à Seven"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec l'emblème de Kasu!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Serves you right for coming to Sevens"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "with a Cuss High emblem on!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bien fait de venir à Seven\navec l'emblème de Kasu!",
+   "brut_en": "Serves[SP]you[SP]right[SP]for[SP]coming[SP]to[SP]Sevens\nwith[SP]a[SP]Cuss[SP]High[SP]emblem[SP]on!",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 10,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "QUOI !? Ok, on se calme ! Tout ça arrive"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "parce que TU as invoqué ce Joker !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "WHAT!? Okay, back up! This whole thing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "happened because YOU summoned that Joker!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "QUOI !? Ok, on se calme ! Tout ça arrive\nparce que TU as invoqué ce Joker !",
+   "brut_en": "WHAT!?[SP]Okay,[SP]back[SP]up![SP]This[SP]whole[SP]thing\nhappened[SP]because[SP]YOU[SP]summoned[SP]that[SP]Joker!",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 11,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Prends tes responsabilités"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et règle ça!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So take some responsibility and do"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "something about this!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Prends tes responsabilités\net règle ça!",
+   "brut_en": "So[SP]take[SP]some[SP]responsibility[SP]and[SP]do\nsomething[SP]about[SP]this!",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 12,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "HEIN !? Là t'as dépassé les bornes !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Comment j'étais censée savoir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce qui allait se passer !?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kehhei! Now you've crossed a line, buster!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "How was I supposed to know at the time"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "what would happen!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "HEIN !? Là t'as dépassé les bornes !\nComment j'étais censée savoir\nce qui allait se passer !?",
+   "brut_en": "Kehhei![SP]Now[SP]you've[SP]crossed[SP]a[SP]line,[SP]buster!\nHow[SP]was[SP]I[SP]supposed[SP]to[SP]know[SP]at[SP]the[SP]time\nwhat[SP]would[SP]happen!?",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 13,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et c'est quoi ce grand déballage !?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "T'es juste le Boss des Calbutes qui"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "baisse les frocs des gens !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And what's with all your big talk!? You're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "just an Undie Boss who pervs on people"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "by yanking their pants down!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et c'est quoi ce grand déballage !?\nT'es juste le Boss des Calbutes qui\nbaisse les frocs des gens !",
+   "brut_en": "And[SP]what's[SP]with[SP]all[SP]your[SP]big[SP]talk!?[SP]You're\njust[SP]an[SP]Undie[SP]Boss[SP]who[SP]pervs[SP]on[SP]people\nby[SP]yanking[SP]their[SP]pants[SP]down!",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 14,
+   "nom_fr": "Lisa",
+   "nom_en": "Lisa",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Boss des Calbutes!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Undie Boss! Undie Boss!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Boss des Calbutes!",
+   "brut_en": "Undie[SP]Boss![SP]Undie[SP]Boss!",
+   "data_size": 66,
+   "budget": 58
+  },
+  {
+   "id": 15,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'hôpital qui se fout de la charité!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "T'es étrangère mais tu parles japonais,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quand tu sors pas des mots bidons!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's rich, coming from you! You're a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "frickin' white girl but you talk Japanese,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "when you're not spouting nonsense words!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'hôpital qui se fout de la charité!\nT'es étrangère mais tu parles japonais,\nquand tu sors pas des mots bidons!",
+   "brut_en": "That's[SP]rich,[SP]coming[SP]from[SP]you![SP]You're[SP]a\nfrickin'[SP]white[SP]girl[SP]but[SP]you[SP]talk[SP]Japanese,\nwhen[SP]you're[SP]not[SP]spouting[SP]nonsense[SP]words!",
+   "data_size": 270,
+   "budget": 262
+  },
+  {
+   "id": 16,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu sais même d'où tu viens !?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je devrais te donner un nom"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que tu comprendrais mieux !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Do you even know what country you're from!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maybe I should give you a name you can"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "understand easier!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu sais même d'où tu viens !?\nJe devrais te donner un nom\nque tu comprendrais mieux !",
+   "brut_en": "Do[SP]you[SP]even[SP]know[SP]what[SP]country[SP]you're[SP]from!?\nMaybe[SP]I[SP]should[SP]give[SP]you[SP]a[SP]name[SP]you[SP]can\nunderstand[SP]easier!",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 17,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'es Ginko maintenant ! Ginko Ginko Ginko !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're Ginko from now on!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ginko Ginko Ginko!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'es Ginko maintenant ! Ginko Ginko Ginko !",
+   "brut_en": "You're[SP]Ginko[SP]from[SP]now[SP]on!\nGinko[SP]Ginko[SP]Ginko!",
+   "data_size": 114,
+   "budget": 106
+  },
+  {
+   "id": 18,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N'importe quoi! Pas question!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu vas pas me coller un surnom naze!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Fanna! No you don't! You're not saddling"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "me with a lame nickname like that!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "N'importe quoi! Pas question!\nTu vas pas me coller un surnom naze!",
+   "brut_en": "Fanna![SP]No[SP]you[SP]don't![SP]You're[SP]not[SP]saddling\nme[SP]with[SP]a[SP]lame[SP]nickname[SP]like[SP]that!",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 19,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh! Qu'avons-nous là?"
+      }
+     ]
+    },
+    {
+     "nom": "???",
+     "seg": [
+      {
+       "t": "Ciaaao! Attendez!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ooh! Now what have we here?"
+      }
+     ]
+    },
+    {
+     "nom": "???",
+     "seg": [
+      {
+       "t": "Ciaaao! Wait a sec..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh! Qu'avons-nous là?[E1][E2]\n[E3][E4][NULL][NULL]\"???\nCiaaao! Attendez!",
+   "brut_en": "Ooh![SP]Now[SP]what[SP]have[SP]we[SP]here?[E1][E2]\n[E3][E4][NULL][NULL]\"???\nCiaaao![SP]Wait[SP]a[SP]sec...",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 20,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'ambiance est électrique par ici."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Allez les enfants, personne veut"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tomber sur une scène de ménage !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Things seem to be getting steamy here."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'mon, kids, not everybody wants to get"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "caught in a lover's quarrel!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'ambiance est électrique par ici.\nAllez les enfants, personne veut\ntomber sur une scène de ménage !",
+   "brut_en": "Things[SP]seem[SP]to[SP]be[SP]getting[SP]steamy[SP]here.\nC'mon,[SP]kids,[SP]not[SP]everybody[SP]wants[SP]to[SP]get\ncaught[SP]in[SP]a[SP]lover's[SP]quarrel!",
+   "data_size": 232,
+   "budget": 224
+  },
+  {
+   "id": 21,
+   "nom_fr": "Eikichi & Ginko",
+   "nom_en": "Eikichi & Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une scène de ménage!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "How is this a lover's quarrel!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une scène de ménage!?",
+   "brut_en": "How[SP]is[SP]this[SP]a[SP]lover's[SP]quarrel!?",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 22,
+   "nom_fr": "Eikichi & Ginko",
+   "nom_en": "Eikichi & Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Attends, t'es qui?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Wait, who're you?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Attends, t'es qui?",
+   "brut_en": "...Wait,[SP]who're[SP]you?",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 23,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tantôt reporter ambitieuse!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tantôt éditrice calme! Mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ma véritable identité est..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "At times, I'm an ambitious reporter!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Other times, a mild-mannered editor!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But my true identity is..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tantôt reporter ambitieuse!\nTantôt éditrice calme! Mais\nma véritable identité est...",
+   "brut_en": "At[SP]times,[SP]I'm[SP]an[SP]ambitious[SP]reporter!\nOther[SP]times,[SP]a[SP]mild-mannered[SP]editor!\nBut[SP]my[SP]true[SP]identity[SP]is...",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 24,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'étoile montante du magazine Coolest :"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maya Amano ! Ravie de vous rencontrer."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A rising star of Coolest Magazine's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "editorial staff: Maya Amano!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Nice to meet you all."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'étoile montante du magazine Coolest :\nMaya Amano ! Ravie de vous rencontrer.",
+   "brut_en": "A[SP]rising[SP]star[SP]of[SP]Coolest[SP]Magazine's\neditorial[SP]staff:[SP]Maya[SP]Amano!\nNice[SP]to[SP]meet[SP]you[SP]all.",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 25,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Moi, c'est Yukino Mayuzumi. Photographe"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "indépendante..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " apprentie,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en tout cas."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Me, I'm Yukino Mayuzumi. I'm a freelance"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "photographer..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " An apprentice one, anyway."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Moi, c'est Yukino Mayuzumi. Photographe\nindépendante...[1205][001E] apprentie,\nen tout cas.",
+   "brut_en": "Me,[SP]I'm[SP]Yukino[SP]Mayuzumi.[SP]I'm[SP]a[SP]freelance\nphotographer...[1205][001E][SP]An[SP]apprentice[SP]one,[SP]anyway.",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 26,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vrai!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Really!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vrai!?",
+   "brut_en": "Really!?",
+   "data_size": 42,
+   "budget": 34
+  },
+  {
+   "id": 27,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Génial! Beauté, prends-moi en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "photo pour la couv du--"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Great! Here, babe, take my picture for"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the cover of the--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Génial! Beauté, prends-moi en\nphoto pour la couv du--",
+   "brut_en": "Great![SP]Here,[SP]babe,[SP]take[SP]my[SP]picture[SP]for\nthe[SP]cover[SP]of[SP]the--",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 28,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Gueh!?"
+      }
+     ]
+    },
+    {
+     "nom": "Ginko",
+     "seg": [
+      {
+       "t": "Coolest... C'est populaire en ce moment,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "non ? Qu'est-ce qu'une de leurs"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "journalistes fout dans un lycée ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Gwuh!?"
+      }
+     ]
+    },
+    {
+     "nom": "Ginko",
+     "seg": [
+      {
+       "t": "Coolest... That's been popular lately,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "huh? What's one of its staffers doing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "wandering around a high school?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Gueh!?[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nCoolest... C'est populaire en ce moment,\nnon ? Qu'est-ce qu'une de leurs\njournalistes fout dans un lycée ?",
+   "brut_en": "Gwuh!?[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nCoolest...[SP]That's[SP]been[SP]popular[SP]lately,\nhuh?[SP]What's[SP]one[SP]of[SP]its[SP]staffers[SP]doing\nwandering[SP]around[SP]a[SP]high[SP]school?",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 29,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On est venues faire des interviews"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour un dossier spécial :"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Les Rumeurs des Lycéens."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We came here to do interviews for a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "special report we're working on, called"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "The Rumors of High Schoolers."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On est venues faire des interviews\npour un dossier spécial :\n[1432][NULL][NULL][0014]Les Rumeurs des Lycéens.[1432][NULL][NULL][0014]",
+   "brut_en": "We[SP]came[SP]here[SP]to[SP]do[SP]interviews[SP]for[SP]a\nspecial[SP]report[SP]we're[SP]working[SP]on,[SP]called\n[1432][NULL][NULL][0014]The[SP]Rumors[SP]of[SP]High[SP]Schoolers.[1432][NULL][NULL][0014]",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 30,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La "
+      },
+      {
+       "enc": "malédiction de l'emblème"
+      },
+      {
+       "t": " de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Seven est plus connue que le "
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Jeu du Joker"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The "
+      },
+      {
+       "enc": "emblem curse"
+      },
+      {
+       "t": " here at Sevens is the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "best known one after the "
+      },
+      {
+       "enc": "Joker Game,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you know."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La [1432][NULL][NULL][0014]malédiction de l'emblème[1432][NULL][NULL][0014] de\nSeven est plus connue que le \n[1432][NULL][NULL][0014]Jeu du Joker[1432][NULL][NULL][0014]",
+   "brut_en": "The[SP][1432][NULL][NULL][0014]emblem[SP]curse[1432][NULL][NULL][0014][SP]here[SP]at[SP]Sevens[SP]is[SP]the\nbest[SP]known[SP]one[SP]after[SP]the[SP][1432][NULL][NULL][0014]Joker[SP]Game,[1432][NULL][NULL][0014]\nyou[SP]know.",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 31,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais c'est le chaos depuis qu'on est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "arrivées. Personne ne veut nous accorder"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'interview !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But it's been chaos since just after we"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "got here. No one's been willing to give"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "us an interview!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais c'est le chaos depuis qu'on est\narrivées. Personne ne veut nous accorder\nd'interview !",
+   "brut_en": "But[SP]it's[SP]been[SP]chaos[SP]since[SP]just[SP]after[SP]we\ngot[SP]here.[SP]No[SP]one's[SP]been[SP]willing[SP]to[SP]give\nus[SP]an[SP]interview!",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 32,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'est-ce qui se passe !?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous pouvez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nous dire ce que vous savez ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est lié à notre sujet d'enquête ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's going on here!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Can you tell us"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "what you know? Is it related to what"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "we came to interview people about?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'est-ce qui se passe !?[1205][001E] Vous pouvez\nnous dire ce que vous savez ?\nC'est lié à notre sujet d'enquête ?",
+   "brut_en": "What's[SP]going[SP]on[SP]here!?[1205][001E][SP]Can[SP]you[SP]tell[SP]us\nwhat[SP]you[SP]know?[SP]Is[SP]it[SP]related[SP]to[SP]what\nwe[SP]came[SP]to[SP]interview[SP]people[SP]about?",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 33,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Euuuuuh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " À ce propos..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On sait vraiment rien..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Uhhhmm..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " A-About that..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We don't really"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "know anything..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Euuuuuh...[1205][001E] À ce propos...[1205][001E]\nOn sait vraiment rien...",
+   "brut_en": "Uhhhmm...[1205][001E][SP]A-About[SP]that...[1205][001E][SP]We[SP]don't[SP]really\nknow[SP]anything...",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 34,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vrai, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Right, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vrai, [1113]?",
+   "brut_en": "Right,[SP][1113]?",
+   "data_size": 40,
+   "budget": 32
+  },
+  {
+   "id": 35,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hum..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'y crois"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas trop."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmmmmm..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm not sure I buy that."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hum...[1205][001E] J'y crois\npas trop.",
+   "brut_en": "Hmmmmm...[1205][001E][SP]I'm[SP]not[SP]sure[SP]I[SP]buy[SP]that.",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 36,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est vrai! On cherche pas le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "proviseur et on s'est jamais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fait rétamer par Joker!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "True stories, babes! We're not looking"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "for Sevens' principal and we certainly"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "never got stomped by any Joker!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est vrai! On cherche pas le\nproviseur et on s'est jamais\nfait rétamer par Joker!",
+   "brut_en": "True[SP]stories,[SP]babes![SP]We're[SP]not[SP]looking\nfor[SP]Sevens'[SP]principal[SP]and[SP]we[SP]certainly\nnever[SP]got[SP]stomped[SP]by[SP]any[SP]Joker!",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 37,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rétamer?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Donc vous savez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quelque chose!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Stomped...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So you kids DO know something!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rétamer?[1205][001E] Donc vous savez\nquelque chose!",
+   "brut_en": "Stomped...?[1205][001E][SP]So[SP]you[SP]kids[SP]DO[SP]know[SP]something!",
+   "data_size": 112,
+   "budget": 104
+  },
+  {
+   "id": 38,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si vous essayez de le cacher,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'en déduis que c'est un sacré scoop !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If you're trying to cover it up, I take"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it that it's a pretty big scoop!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si vous essayez de le cacher,\nj'en déduis que c'est un sacré scoop !",
+   "brut_en": "If[SP]you're[SP]trying[SP]to[SP]cover[SP]it[SP]up,[SP]I[SP]take\nit[SP]that[SP]it's[SP]a[SP]pretty[SP]big[SP]scoop!",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 39,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dans ce cas..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On ne vous lâche plus !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "In which case..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We're definitely not"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "letting you go!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Dans ce cas...[1205][001E] On ne vous lâche plus !",
+   "brut_en": "In[SP]which[SP]case...[1205][001E][SP]We're[SP]definitely[SP]not\nletting[SP]you[SP]go!",
+   "data_size": 130,
+   "budget": 122
+  },
+  {
+   "id": 40,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Crachez le morceau, ou"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vous allez le regretter!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now hurry and fess up, or I'll make"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you regret it!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Crachez le morceau, ou\nvous allez le regretter!",
+   "brut_en": "Now[SP]hurry[SP]and[SP]fess[SP]up,[SP]or[SP]I'll[SP]make\nyou[SP]regret[SP]it!",
+   "data_size": 124,
+   "budget": 116
+  }
+ ]
+}

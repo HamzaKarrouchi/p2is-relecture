@@ -1,0 +1,459 @@
+{
+ "no": 92,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu ne te souviens toujours pas? "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "... Tes vacances d’été il y a 10 ans... Cette grotte était notre cachette..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Do you still not remember? "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Our summer vacation 10 years ago..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "This cavern was our secret hideout..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu ne te souviens toujours pas? [1113]... Tes vacances d’été il y a 10 ans... Cette grotte était notre cachette...",
+   "brut_en": "Do[SP]you[SP]still[SP]not[SP]remember?[SP][1113]...[1205][001E]\nOur[SP]summer[SP]vacation[SP]10[SP]years[SP]ago...[1205][001E]\nThis[SP]cavern[SP]was[SP]our[SP]secret[SP]hideout...",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Impossible... J’ai vu cet endroit tout ce temps dans mes rêves... Il y est toujours..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This can't be..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I saw this place all the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "time in my dreams..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's really here..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Impossible... J’ai vu cet endroit tout ce temps dans mes rêves... Il y est toujours...",
+   "brut_en": "This[SP]can't[SP]be...[1205][001E][SP]I[SP]saw[SP]this[SP]place[SP]all[SP]the\ntime[SP]in[SP]my[SP]dreams...[1205][001E][SP]It's[SP]really[SP]here...",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 2,
+   "nom_fr": "Fille fantôme",
+   "nom_en": "Girl's ghost",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...",
+   "brut_en": "......",
+   "data_size": 50,
+   "budget": 42
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Impossible... C’était...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-N-No way..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That was...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Impossible... C’était...!",
+   "brut_en": "N-N-No[SP]way...[1205][001E][SP]That[SP]was...!",
+   "data_size": 84,
+   "budget": 76
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "...! Tu ne te souviens pas!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "...! Even now, you don't remember!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]...! Tu ne te souviens pas!?",
+   "brut_en": "[1113]...![SP]Even[SP]now,[SP]you[SP]don't[SP]remember!?",
+   "data_size": 96,
+   "budget": 88
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allons plus profond... Tu vas te souvenir de qui c’était..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Then let's go deeper..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm sure you'll"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "remember who that was..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Allons plus profond... Tu vas te souvenir de qui c’était...",
+   "brut_en": "Then[SP]let's[SP]go[SP]deeper...[1205][001E][SP]I'm[SP]sure[SP]you'll\nremember[SP]who[SP]that[SP]was...",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 6,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pourquoi... Pourquoi c’est réel...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Why..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Why did that happen...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Why..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pourquoi... Pourquoi c’est réel...?",
+   "brut_en": "Why...[1205][001E][SP]Why[SP]did[SP]that[SP]happen...?[1205][001E][SP]Why...",
+   "data_size": 106,
+   "budget": 98
+  },
+  {
+   "id": 7,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "... Je, euh... Je ne veux vraiment pas y aller..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I, uh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I really don't want"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to go on..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": " [1113]... Je, euh... Je ne veux vraiment pas y aller...",
+   "brut_en": "[1113]...[1205][001E][SP]I,[SP]uh...[1205][001E][SP]I[SP]really[SP]don't[SP]want\nto[SP]go[SP]on...[1205][001E]",
+   "data_size": 130,
+   "budget": 122
+  },
+  {
+   "id": 8,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais... si c’est réel... je n’ai plus le choix, je dois y aller..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " if that really happened..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I've got"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "no choice but to go..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais... si c’est réel... je n’ai plus le choix, je dois y aller...",
+   "brut_en": "But...[1205][001E][SP]if[SP]that[SP]really[SP]happened...[1205][001E][SP]I've[SP]got\nno[SP]choice[SP]but[SP]to[SP]go...",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eh... Quelle ironie. C’est comme si je voyais mon reflet."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " How ironic. It's as if I'm being"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "shown a mirror."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eh... Quelle ironie. C’est comme si je voyais mon reflet.",
+   "brut_en": "Heh...[1205][001E][SP]How[SP]ironic.[SP]It's[SP]as[SP]if[SP]I'm[SP]being\nshown[SP]a[SP]mirror.",
+   "data_size": 136,
+   "budget": 128
+  }
+ ]
+}

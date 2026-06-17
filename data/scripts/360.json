@@ -1,0 +1,9205 @@
+{
+ "no": 360,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "[NULL][E4][NULL][NULL]\"Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il faut récupérer ce crâne pour ramener Ken"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et les autres à la normale..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Temple"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de Yumezaki toujours en suspens."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We have to get that skull back to turn Ken and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the others back to normal..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Anyway, we still"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "haven't dealt with the temple in Yumezaki."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il faut récupérer ce crâne pour ramener Ken\net les autres à la normale...[1205][U+000F] Temple\nde Yumezaki toujours en suspens.",
+   "brut_en": "We[SP]have[SP]to[SP]get[SP]that[SP]skull[SP]back[SP]to[SP]turn[SP]Ken[SP]and\nthe[SP]others[SP]back[SP]to[SP]normal...[1205][U+000F][SP]Anyway,[SP]we[SP]still\nhaven't[SP]dealt[SP]with[SP]the[SP]temple[SP]in[SP]Yumezaki.",
+   "data_size": 300,
+   "budget": 292
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce faussaire..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Même moi, jamais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "si près de Miyabi!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'aurais voulu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le frapper plus fort!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That faker..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Even I haven't gotten that close"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to Miyabi!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I wish I could have punched him out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "even harder!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce faussaire...[1205][U+000F] Même moi, jamais\nsi près de Miyabi![1205][U+000F] J'aurais voulu\nle frapper plus fort!",
+   "brut_en": "That[SP]faker...[1205][U+000F][SP]Even[SP]I[SP]haven't[SP]gotten[SP]that[SP]close\nto[SP]Miyabi![1205][U+000F][SP]I[SP]wish[SP]I[SP]could[SP]have[SP]punched[SP]him[SP]out\neven[SP]harder!",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'inquiète, on les sauvera."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Maya"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est sure."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " euh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je suis là!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Don't worry, we'll save them."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Maya thinks"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it's possible."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " And..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " um..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm here, too!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'inquiète, on les sauvera.[1205][U+000A] Maya\nest sure.[1205][U+000F] Et...[1205][U+000A] euh...[1205][U+000A] Je suis là!",
+   "brut_en": "Don't[SP]worry,[SP]we'll[SP]save[SP]them.[1205][U+000A][SP]Maya[SP]thinks\nit's[SP]possible.[1205][U+000F][SP]And...[1205][U+000A][SP]um...[1205][U+000A][SP]I'm[SP]here,[SP]too!",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alors continuons jusqu'au jour où"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tout ça sera réglé."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So let's keep at it until the day when all"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this is settled."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Alors continuons jusqu'au jour où\ntout ça sera réglé.",
+   "brut_en": "So[SP]let's[SP]keep[SP]at[SP]it[SP]until[SP]the[SP]day[SP]when[SP]all\nthis[SP]is[SP]settled.",
+   "data_size": 144,
+   "budget": 136
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*snif* Disparues... Sheba... Mee-ho..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sniff* They disappeared... Sheba... Mee-ho..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*snif* Disparues... Sheba... Mee-ho...",
+   "brut_en": "*sniff*[SP]They[SP]disappeared...[SP]Sheba...[SP]Mee-ho...",
+   "data_size": 114,
+   "budget": 106
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "M-Mais je lâche pas..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On peut"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "encore y arriver! Les sauver!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Aide-moi, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "B-But I won't give up..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I know we can still"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "make it! I can still save them!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Help me do this,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "M-Mais je lâche pas...[1205][U+000F] On peut\nencore y arriver! Les sauver![1205][U+000F] Aide-moi, [1113].",
+   "brut_en": "B-But[SP]I[SP]won't[SP]give[SP]up...[1205][U+000F][SP]I[SP]know[SP]we[SP]can[SP]still\nmake[SP]it![SP]I[SP]can[SP]still[SP]save[SP]them![1205][U+000F][SP]Help[SP]me[SP]do[SP]this,\n[1113].",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 6,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pas fini avec le temple de Kounan."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ce crâne contient les rêves"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de Sheba et Mee-ho..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ils vont payer!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We're not done with the temple in Kounan yet."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "That crystal skull has Sheba and Mee-ho's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dreams in it..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'll make them pay!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pas fini avec le temple de Kounan.[1205][U+000F]\nCe crâne contient les rêves\nde Sheba et Mee-ho...[1205][U+000F] Ils vont payer!",
+   "brut_en": "We're[SP]not[SP]done[SP]with[SP]the[SP]temple[SP]in[SP]Kounan[SP]yet.[1205][U+000F]\nThat[SP]crystal[SP]skull[SP]has[SP]Sheba[SP]and[SP]Mee-ho's\ndreams[SP]in[SP]it...[1205][U+000F][SP]I'll[SP]make[SP]them[SP]pay!",
+   "data_size": 276,
+   "budget": 268
+  },
+  {
+   "id": 7,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le crâne que portait mon ombre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'était celui du Prince Taurus, non?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Là sont les rêves de mes amies..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The crystal skull my shadow was carrying was"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the same one Prince Taurus had, right?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "where my friends' dreams are..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le crâne que portait mon ombre\nc'était celui du Prince Taurus, non?[1205][U+000F]\nLà sont les rêves de mes amies...",
+   "brut_en": "The[SP]crystal[SP]skull[SP]my[SP]shadow[SP]was[SP]carrying[SP]was\nthe[SP]same[SP]one[SP]Prince[SP]Taurus[SP]had,[SP]right?[1205][U+000F][SP]That's\nwhere[SP]my[SP]friends'[SP]dreams[SP]are...",
+   "data_size": 270,
+   "budget": 262
+  },
+  {
+   "id": 8,
+   "nom_fr": "",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vais leur rendre leur Énergie Idéale"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "un jour..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Comptez sur moi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm going to give them back their Ideal Energy"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "someday..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Count on it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vais leur rendre leur Énergie Idéale\nun jour...[1205][U+000F] Comptez sur moi.",
+   "brut_en": "I'm[SP]going[SP]to[SP]give[SP]them[SP]back[SP]their[SP]Ideal[SP]Energy\nsomeday...[1205][U+000F][SP]Count[SP]on[SP]it.",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 9,
+   "nom_fr": "",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sheba... Mee-ho..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je peux vraiment les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "retrouver?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu t'inquiètes pas, Eikichi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sheba... Mee-ho..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Can I really get them back?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Aren't you worried, Eikichi?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sheba... Mee-ho...[1205][U+000F] Je peux vraiment les\nretrouver?[1205][U+000F] Tu t'inquiètes pas, Eikichi?",
+   "brut_en": "Sheba...[SP]Mee-ho...[1205][U+000F][SP]Can[SP]I[SP]really[SP]get[SP]them[SP]back?[1205][U+000F]\nAren't[SP]you[SP]worried,[SP]Eikichi?",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 10,
+   "nom_fr": "",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu ne retrouveras peut-être pas tes amis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "non plus."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et si c'est le cas..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour quoi se bat-on...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You might not get your friends back either."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "And if not... what are we fighting for...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu ne retrouveras peut-être pas tes amis\nnon plus.[1205][U+000F] Et si c'est le cas...\npour quoi se bat-on...?",
+   "brut_en": "You[SP]might[SP]not[SP]get[SP]your[SP]friends[SP]back[SP]either.[1205][U+000F]\nAnd[SP]if[SP]not...[SP]what[SP]are[SP]we[SP]fighting[SP]for...?",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 11,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un crâne de cristal dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le temple du quartier aussi."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Dépêchons... pour eux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There should be a crystal skull in this ward's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "temple, too."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Let's hurry... for their sake."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un crâne de cristal dans\nle temple du quartier aussi.[1205][U+000F]\nDépêchons... pour eux.",
+   "brut_en": "There[SP]should[SP]be[SP]a[SP]crystal[SP]skull[SP]in[SP]this[SP]ward's\ntemple,[SP]too.[1205][U+000F][SP]Let's[SP]hurry...[SP]for[SP]their[SP]sake.",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 12,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le crâne de cristal de feu..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Celui de King Leo..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tant de rêves sont à l'intérieur."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il faut les rendre à leurs propriétaires."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The crystal skull of fire..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The one King Leo"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "used..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So many people's dreams are inside it."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We have to return them to their owners."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le crâne de cristal de feu...[1205][U+000F] Celui de King Leo...[1205][U+000F]\nTant de rêves sont à l'intérieur.[1205][U+000F]\nIl faut les rendre à leurs propriétaires.",
+   "brut_en": "The[SP]crystal[SP]skull[SP]of[SP]fire...[1205][U+000F][SP]The[SP]one[SP]King[SP]Leo\nused...[1205][U+000F][SP]So[SP]many[SP]people's[SP]dreams[SP]are[SP]inside[SP]it.[1205][U+000F]\nWe[SP]have[SP]to[SP]return[SP]them[SP]to[SP]their[SP]owners.",
+   "data_size": 296,
+   "budget": 288
+  },
+  {
+   "id": 13,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si l'enlèvement de Mme Okamura était le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sacrifice de l'Oracle, le Cercle Masqué"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "va-t-il passer directement au rituel?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If the reason for Ms. Okamura's kidnapping was"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the sacrifice mentioned in the Oracle, will the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Masked Circle jump straight to the ritual?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si l'enlèvement de Mme Okamura était le\nsacrifice de l'Oracle, le Cercle Masqué\nva-t-il passer directement au rituel?",
+   "brut_en": "If[SP]the[SP]reason[SP]for[SP]Ms.[SP]Okamura's[SP]kidnapping[SP]was\nthe[SP]sacrifice[SP]mentioned[SP]in[SP]the[SP]Oracle,[SP]will[SP]the\nMasked[SP]Circle[SP]jump[SP]straight[SP]to[SP]the[SP]ritual?",
+   "data_size": 294,
+   "budget": 286
+  },
+  {
+   "id": 14,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si le faux père de Jun a été créé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "par nos rumeurs d'enfants..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If the fake Jun's father was really created"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "by the rumors we started as kids..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si le faux père de Jun a été créé\npar nos rumeurs d'enfants...",
+   "brut_en": "If[SP]the[SP]fake[SP]Jun's[SP]father[SP]was[SP]really[SP]created\nby[SP]the[SP]rumors[SP]we[SP]started[SP]as[SP]kids...",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 15,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça veut dire qu'il y a un autre ennemi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qui fait devenir les rumeurs réalité."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That means there's another enemy who's been"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "making the rumors come true to begin with."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça veut dire qu'il y a un autre ennemi\nqui fait devenir les rumeurs réalité.",
+   "brut_en": "That[SP]means[SP]there's[SP]another[SP]enemy[SP]who's[SP]been\nmaking[SP]the[SP]rumors[SP]come[SP]true[SP]to[SP]begin[SP]with.",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 16,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce que Philémon a dit..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Le chaos rampant..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Notre vrai ennemi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What Philemon said... The crawling chaos..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is that our real enemy?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce que Philémon a dit...\nLe chaos rampant...\nNotre vrai ennemi?",
+   "brut_en": "What[SP]Philemon[SP]said...[SP]The[SP]crawling[SP]chaos...\nIs[SP]that[SP]our[SP]real[SP]enemy?",
+   "data_size": 154,
+   "budget": 146
+  },
+  {
+   "id": 17,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On n'a pas encore le crâne de cristal"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'Hirasaka."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais je te laisse décider"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quel temple visiter en premier."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We still don't have the crystal skull from"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hirasaka."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But I'll leave it to you as to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "which temple to visit first."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On n'a pas encore le crâne de cristal\nd'Hirasaka.[1205][U+000F] Mais je te laisse décider\nquel temple visiter en premier.",
+   "brut_en": "We[SP]still[SP]don't[SP]have[SP]the[SP]crystal[SP]skull[SP]from\nHirasaka.[1205][U+000F][SP]But[SP]I'll[SP]leave[SP]it[SP]to[SP]you[SP]as[SP]to\nwhich[SP]temple[SP]to[SP]visit[SP]first.",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 18,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On a le crâne de cristal du Temple Aquarius."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Si je peux rendre à tous leur cœur rêveur..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Peu m'importe si je meurs..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We've got the crystal skull from Aquarius"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Temple."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If I can get everyone back their"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dreaming hearts..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I won't care if I die..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On a le crâne de cristal du Temple Aquarius.[1205][U+000F]\nSi je peux rendre à tous leur cœur rêveur...[1205][U+000F]\nPeu m'importe si je meurs...",
+   "brut_en": "We've[SP]got[SP]the[SP]crystal[SP]skull[SP]from[SP]Aquarius\nTemple.[1205][U+000F][SP]If[SP]I[SP]can[SP]get[SP]everyone[SP]back[SP]their\ndreaming[SP]hearts...[1205][U+000F][SP]I[SP]won't[SP]care[SP]if[SP]I[SP]die...",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 19,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le rituel du sacrifice devrait déclencher"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la Grande Croix..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il faut les rattraper"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avant qu'ils passent à l'acte."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The ritual of the sacrifice should trigger the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Grand Cross..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We have to catch up with them"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "before they go through with it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le rituel du sacrifice devrait déclencher\nla Grande Croix...[1205][001E] Il faut les rattraper\navant qu'ils passent à l'acte.",
+   "brut_en": "The[SP]ritual[SP]of[SP]the[SP]sacrifice[SP]should[SP]trigger[SP]the\nGrand[SP]Cross...[1205][001E][SP]We[SP]have[SP]to[SP]catch[SP]up[SP]with[SP]them\nbefore[SP]they[SP]go[SP]through[SP]with[SP]it.",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 20,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il reste juste le double de père et ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Führer à vaincre... Retournons à Xibalba, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We only need to defeat Father's double and that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Fuhrer... Let's go back to Xibalba, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il reste juste le double de père et ce\nFührer à vaincre... Retournons à Xibalba, [1113].",
+   "brut_en": "We[SP]only[SP]need[SP]to[SP]defeat[SP]Father's[SP]double[SP]and[SP]that\nFuhrer...[SP]Let's[SP]go[SP]back[SP]to[SP]Xibalba,[SP][1113].",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 21,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Attends, celui-là est réservé."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Désolé, prends le rouge au milieu?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wait, that one's reserved for another customer."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sorry, can you use the red one in the middle?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Attends, celui-là est réservé.\nDésolé, prends le rouge au milieu?",
+   "brut_en": "Wait,[SP]that[SP]one's[SP]reserved[SP]for[SP]another[SP]customer.\nSorry,[SP]can[SP]you[SP]use[SP]the[SP]red[SP]one[SP]in[SP]the[SP]middle?",
+   "data_size": 214,
+   "budget": 206
+  },
+  {
+   "id": 22,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu surfs si tôt?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "T'as du temps à perdre. Bref."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Surfing the net this early in the day?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Must have a lot of time on your hands. Whatevs."
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Manger ici",
+     "Parler au gamin",
+     "Laisser tomber",
+     "Quitter"
+    ],
+    "question": [
+     {
+      "t": "Hé."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Tu surfs si tôt?"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "T'as du temps à perdre. Bref."
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Dine in",
+     "Talk to the lazy boy",
+     "Never mind",
+     "Leave"
+    ],
+    "question": [
+     {
+      "t": "Hey."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Surfing the net this early in the day?"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Must have a lot of time on your hands. Whatevs."
+     }
+    ]
+   },
+   "brut_fr": "Hé.[1205][U+000F] Tu surfs si tôt?\nT'as du temps à perdre. Bref.\n[1208][U+0004]Manger ici\nParler au gamin\nLaisser tomber\nQuitter",
+   "brut_en": "Hey.[1205][U+000F][SP]Surfing[SP]the[SP]net[SP]this[SP]early[SP]in[SP]the[SP]day?\nMust[SP]have[SP]a[SP]lot[SP]of[SP]time[SP]on[SP]your[SP]hands.[SP]Whatevs.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
+   "data_size": 312,
+   "budget": 304
+  },
+  {
+   "id": 23,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouais, quoi ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yeah, what's up."
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Parler du repas",
+     "Sélection cachée"
+    ],
+    "question": [
+     {
+      "t": "Ouais, quoi ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about dining in",
+     "Undisplayed selection"
+    ],
+    "question": [
+     {
+      "t": "Yeah, what's up."
+     }
+    ]
+   },
+   "brut_fr": "Ouais, quoi ?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
+   "brut_en": "Yeah,[SP]what's[SP]up.\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 24,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tout?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sure..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Was that it?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Manger ici",
+     "Parler",
+     "Laisser tomber",
+     "Quitter"
+    ],
+    "question": [
+     {
+      "t": "Ouais..."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Tout?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Dine in",
+     "Talk to the lazy boy",
+     "Never mind",
+     "Leave"
+    ],
+    "question": [
+     {
+      "t": "Sure..."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Was that it?"
+     }
+    ]
+   },
+   "brut_fr": "Ouais...[1205][U+000F] Tout?\n[1208][U+0004]Manger ici\nParler\nLaisser tomber\nQuitter",
+   "brut_en": "Sure...[1205][U+000F][SP]Was[SP]that[SP]it?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 25,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouais, quoi ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yeah, what's up."
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Parler du repas",
+     "Sélection cachée"
+    ],
+    "question": [
+     {
+      "t": "Ouais, quoi ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about dining in",
+     "Undisplayed selection"
+    ],
+    "question": [
+     {
+      "t": "Yeah, what's up."
+     }
+    ]
+   },
+   "brut_fr": "Ouais, quoi ?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
+   "brut_en": "Yeah,[SP]what's[SP]up.\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 26,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah ouais, la fille est partie..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Elle devait pas laisser"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quelqu'un seul..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh yeah, that girl who was sitting around"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "here took off..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Said something about how"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "she couldn't leave someone alone..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah ouais, la fille est partie...[1205][U+000F]\nElle devait pas laisser\nquelqu'un seul...",
+   "brut_en": "Oh[SP]yeah,[SP]that[SP]girl[SP]who[SP]was[SP]sitting[SP]around\nhere[SP]took[SP]off...[1205][U+000F][SP]Said[SP]something[SP]about[SP]how\nshe[SP]couldn't[SP]leave[SP]someone[SP]alone...",
+   "data_size": 270,
+   "budget": 262
+  },
+  {
+   "id": 27,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Elle sait pas que c'est dangereux dehors?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rester là à évoluer."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Qui dit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que je suis pas productif?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Doesn't she know it's dangerous out there?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We should just stay put and evolve."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Who says"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I can't be constructive?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Elle sait pas que c'est dangereux dehors?\nRester là à évoluer.[1205][U+000F] Qui dit\nque je suis pas productif?",
+   "brut_en": "Doesn't[SP]she[SP]know[SP]it's[SP]dangerous[SP]out[SP]there?\nWe[SP]should[SP]just[SP]stay[SP]put[SP]and[SP]evolve.[1205][U+000F][SP]Who[SP]says\nI[SP]can't[SP]be[SP]constructive?",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 28,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bon, aussi stimulant qu'avant,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'espère que tu reviendras. Je t'offrirai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "un festin. C'était du sarcasme."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well, this has been scintillating as ever,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "so I sure hope you come again. I'll treat you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to a feast. That was sarcasm, by the way."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bon, aussi stimulant qu'avant,\nj'espère que tu reviendras. Je t'offrirai\nun festin. C'était du sarcasme.",
+   "brut_en": "Well,[SP]this[SP]has[SP]been[SP]scintillating[SP]as[SP]ever,\nso[SP]I[SP]sure[SP]hope[SP]you[SP]come[SP]again.[SP]I'll[SP]treat[SP]you\nto[SP]a[SP]feast.[SP]That[SP]was[SP]sarcasm,[SP]by[SP]the[SP]way.",
+   "data_size": 288,
+   "budget": 280
+  },
+  {
+   "id": 29,
+   "nom_fr": "Membre du Cercle Masqué",
+   "nom_en": "Masked Circle member",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Héhéhéhé..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sur Xibalba on va"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bientôt évoluer!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pourquoi Joker"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nous fait ça maintenant!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heehehehe..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If we're on Xibalba, we'll be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "evolving soon!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Why did Joker have to ask us"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to do this now!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Héhéhéhé...[1205][U+000F] Sur Xibalba on va\nbientôt évoluer![1205][U+000F] Pourquoi Joker\nnous fait ça maintenant!?",
+   "brut_en": "Heehehehe...[1205][U+000F][SP]If[SP]we're[SP]on[SP]Xibalba,[SP]we'll[SP]be\nevolving[SP]soon![1205][U+000F][SP]Why[SP]did[SP]Joker[SP]have[SP]to[SP]ask[SP]us\nto[SP]do[SP]this[SP]now!?",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 30,
+   "nom_fr": "Membre du Cercle Masqué",
+   "nom_en": "Masked Circle member",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J-Je peux pas combattre le Bataillon"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sachant ça!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je vais survivre."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je survivrai et deviendrai Idéalien!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I-I can't fight the Last Battalion knowing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm going to survive."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'll survive and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "become an Idealian!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J-Je peux pas combattre le Bataillon\nsachant ça![1205][U+000F] Je vais survivre.[1205][U+000F]\nJe survivrai et deviendrai Idéalien!",
+   "brut_en": "I-I[SP]can't[SP]fight[SP]the[SP]Last[SP]Battalion[SP]knowing\nthat![1205][U+000F][SP]I'm[SP]going[SP]to[SP]survive.[1205][U+000F][SP]I'll[SP]survive[SP]and\nbecome[SP]an[SP]Idealian!",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 31,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Première visite."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Moi c'est Baofu. Je gère ce site.Baofu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Colporteur en ligne avec son propre site."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On sait rien de lui, mais il collecte"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des rumeurs dans un but précis."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Looks like this is your first time here."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Name's Baofu. I run this website.Baofu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "An online rumormonger with his own rumor site."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Nothing is known about him, but he seems to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be gathering rumors for a specific purpose."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Première visite.[1205][U+000F]\nMoi c'est Baofu. Je gère ce site.[E1][E2]Baofu\nColporteur en ligne avec son propre site.\nOn sait rien de lui, mais il collecte\ndes rumeurs dans un but précis.",
+   "brut_en": "Looks[SP]like[SP]this[SP]is[SP]your[SP]first[SP]time[SP]here.[1205][U+000F]\nName's[SP]Baofu.[SP]I[SP]run[SP]this[SP]website.[E1][E2]Baofu\nAn[SP]online[SP]rumormonger[SP]with[SP]his[SP]own[SP]rumor[SP]site.\nNothing[SP]is[SP]known[SP]about[SP]him,[SP]but[SP]he[SP]seems[SP]to\nbe[SP]gathering[SP]rumors[SP]for[SP]a[SP]specific[SP]purpose.",
+   "data_size": 452,
+   "budget": 444
+  },
+  {
+   "id": 32,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Connecté ici, tu veux entendre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une rumeur. Ou t'as un tuyau?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If you logged in here, you must want to hear"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a rumor. Or have you got a tip for me?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Connecté ici, tu veux entendre\nune rumeur. Ou t'as un tuyau?",
+   "brut_en": "If[SP]you[SP]logged[SP]in[SP]here,[SP]you[SP]must[SP]want[SP]to[SP]hear\na[SP]rumor.[SP]Or[SP]have[SP]you[SP]got[SP]a[SP]tip[SP]for[SP]me?",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 33,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les deux me vont."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Si tu sais quelque chose,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tu me le dis contre une info?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Either's fine."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If you know anything, will you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tell me for some info in trade?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les deux me vont.[1205][U+000F] Si tu sais quelque chose,\ntu me le dis contre une info?",
+   "brut_en": "Either's[SP]fine.[1205][U+000F][SP]If[SP]you[SP]know[SP]anything,[SP]will[SP]you\ntell[SP]me[SP]for[SP]some[SP]info[SP]in[SP]trade?",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 34,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les rumeurs t'intéressent, non?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Moi aussi."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Envoie-moi quelque chose."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'attends du concret."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're interested in rumors, aren't you?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "So am I."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If you want, send me something."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll be waiting to hear something worthwhile."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les rumeurs t'intéressent, non?[1205][U+000F]\nMoi aussi.[1205][U+000F] Envoie-moi quelque chose.\nJ'attends du concret.",
+   "brut_en": "You're[SP]interested[SP]in[SP]rumors,[SP]aren't[SP]you?[1205][U+000F]\nSo[SP]am[SP]I.[1205][U+000F][SP]If[SP]you[SP]want,[SP]send[SP]me[SP]something.\nI'll[SP]be[SP]waiting[SP]to[SP]hear[SP]something[SP]worthwhile.",
+   "data_size": 308,
+   "budget": 300
+  },
+  {
+   "id": 35,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Te revoilà.> Choisis une option."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, you're back.> Select an option."
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Demander des rumeurs",
+     "Parler avec Baofu",
+     "Annuler",
+     "[1109][E2][E3]> Choisis un sujet.",
+     "[1208]Rumeurs armureries",
+     "Rumeurs armures",
+     "Autres rumeurs",
+     "Rien",
+     "[1109][E2][E3]> Choisis une région.",
+     "[1208]Rengedai",
+     "Yumezaki",
+     "Aoba",
+     "Kounan",
+     "Aucune",
+     "[1109][E2][E3]> Choisis une région.",
+     "[1208]Rengedai",
+     "Yumezaki",
+     "Aoba",
+     "Kounan",
+     "Aucune",
+     "[1109][E2][E3]> Choisis un sujet.",
+     "[1208]Rumeurs concours",
+     "Rumeurs Mu",
+     "Rumeurs armes légendaires",
+     "Aucune",
+     "[1109][E2][E3]> Vérifié.",
+     "Soumettre les infos.",
+     "Après envoi, patientez."
+    ],
+    "question": [
+     {
+      "t": "Te revoilà.> Choisis une option."
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Ask about rumors",
+     "Talk with Baofu",
+     "Cancel",
+     "[1109][E2][E3]> Select a topic.",
+     "[1208]Weapon shop rumors",
+     "Armor shop rumors",
+     "Other rumors",
+     "Nothing",
+     "[1109][E2][E3]> Select a region.",
+     "[1208]Rengedai",
+     "Yumezaki",
+     "Aoba",
+     "Kounan",
+     "None",
+     "[1109][E2][E3]> Select a region.",
+     "[1208]Rengedai",
+     "Yumezaki",
+     "Aoba",
+     "Kounan",
+     "None",
+     "[1109][E2][E3]> Select a subject.",
+     "[1208]Magazine sweepstakes rumors",
+     "Mu rumors",
+     "Legendary weapon rumors",
+     "None of them",
+     "[1109][E2][E3]> Verified.",
+     "Submit information.",
+     "After entering, please wait."
+    ],
+    "question": [
+     {
+      "t": "Hey, you're back.> Select an option."
+     }
+    ]
+   },
+   "brut_fr": "Te revoilà.[E1][E2][E3]> Choisis une option.\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler avec Baofu\nAnnuler\n[1109][E2][E3]> Choisis un sujet.\n[1208][U+0004][1210][U+0476]Rumeurs armureries\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien\n[1109][E2][E3]> Choisis une région.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune\n[1109][E2][E3]> Choisis une région.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucune\n[1109][E2][E3]> Choisis un sujet.\n[1208][U+0004][1210][U+0472]Rumeurs concours\n[1210][U+0473]Rumeurs Mu\n[1210][U+0474]Rumeurs armes légendaires\nAucune\n[1109][E2][E3]> Vérifié.\nSoumettre les infos.\nAprès envoi, patientez.",
+   "brut_en": "Hey,[SP]you're[SP]back.[E1][E2][E3]>[SP]Select[SP]an[SP]option.\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Baofu\nCancel\n[1109][E2][E3]>[SP]Select[SP]a[SP]topic.\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]subject.\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them\n[1109][E2][E3]>[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait.",
+   "data_size": 994,
+   "budget": 986
+  },
+  {
+   "id": 36,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le lycée Kakasu a supprimé le système de Boss."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mineur, mais une rumeur est une rumeur."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Voilà ce que j'ai."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh, so Cuss High got rid of the Boss system."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Kind of small-time, but oh well, a rumor's a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumor. Here's what I've got."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le lycée Kakasu a supprimé le système de Boss.\nMineur, mais une rumeur est une rumeur.\nVoilà ce que j'ai.",
+   "brut_en": "Huh,[SP]so[SP]Cuss[SP]High[SP]got[SP]rid[SP]of[SP]the[SP]Boss[SP]system.\nKind[SP]of[SP]small-time,[SP]but[SP]oh[SP]well,[SP]a[SP]rumor's[SP]a\nrumor.[SP]Here's[SP]what[SP]I've[SP]got.",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 37,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Endroit :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Aoba - Clair de Lune"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumeur :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " On y a de vraies armes"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Commentaires :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Bon stock. Faible reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Location:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Aoba - Clair de Lune"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumor:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " You can buy real weapons"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Comments:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Good stock. Low trade-in value."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Endroit :[1205][U+000F][E4][NULL][NULL][U+0006] Aoba - Clair de Lune[E4][NULL][NULL][0002][1205][U+000F]\nRumeur :[1205][U+000F][E4][NULL][NULL][U+0006] On y a de vraies armes[E4][NULL][NULL][0002][1205][U+000F]\nCommentaires :[1205][U+000F][E4][NULL][NULL][U+0006] Bon stock. Faible reprise.[E4][NULL][NULL][0002]",
+   "brut_en": "Location:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Aoba[SP]-[SP]Clair[SP]de[SP]Lune[E4][NULL][NULL][0002][1205][U+000F]\nRumor:[1205][U+000F][E4][NULL][NULL][U+0006][SP]You[SP]can[SP]buy[SP]real[SP]weapons[E4][NULL][NULL][0002][1205][U+000F]\nComments:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Good[SP]stock.[SP]Low[SP]trade-in[SP]value.[E4][NULL][NULL][0002]",
+   "data_size": 322,
+   "budget": 314
+  },
+  {
+   "id": 38,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ginji Sasaki dans le Cercle Masqué? C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bien le même type?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ginji Sasaki is in the Masked Circle? We're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "talking about the same guy, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ginji Sasaki dans le Cercle Masqué? C'est\nbien le même type?",
+   "brut_en": "Ginji[SP]Sasaki[SP]is[SP]in[SP]the[SP]Masked[SP]Circle?[SP]We're\ntalking[SP]about[SP]the[SP]same[SP]guy,[SP]right?",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 39,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vais creuser. En attendant,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "voilà pour toi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alright, I'll look into it. Anyway, here's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a little something for you."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vais creuser. En attendant,\nvoilà pour toi.",
+   "brut_en": "Alright,[SP]I'll[SP]look[SP]into[SP]it.[SP]Anyway,[SP]here's\na[SP]little[SP]something[SP]for[SP]you.",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 40,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Endroit :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Kounan - Jolly Roger"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumeur :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " On y a de vraies armes"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Notes :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Mauvais stock. Bonne reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Location:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Kounan - Jolly Roger"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumor:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " You can buy real weapons"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Comments:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Bad stock. High trade-in value."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Endroit :[1205][U+000F][E4][NULL][NULL][U+0006] Kounan - Jolly Roger[E4][NULL][NULL][0002][1205][U+000F]\nRumeur :[1205][U+000F][E4][NULL][NULL][U+0006] On y a de vraies armes[E4][NULL][NULL][0002][1205][U+000F]\nNotes :[1205][U+000F][E4][NULL][NULL][U+0006] Mauvais stock. Bonne reprise.[E4][NULL][NULL][0002]",
+   "brut_en": "Location:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Kounan[SP]-[SP]Jolly[SP]Roger[E4][NULL][NULL][0002][1205][U+000F]\nRumor:[1205][U+000F][E4][NULL][NULL][U+0006][SP]You[SP]can[SP]buy[SP]real[SP]weapons[E4][NULL][NULL][0002][1205][U+000F]\nComments:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Bad[SP]stock.[SP]High[SP]trade-in[SP]value.[E4][NULL][NULL][0002]",
+   "data_size": 322,
+   "budget": 314
+  },
+  {
+   "id": 41,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh ho..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le nouveau chef du lycée Kakasu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "était un sbire de l'ancien Boss."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ô ironie."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Voilà ma part."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oho..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " so the new Leader at Cuss High used to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be one of the old Boss' henchmen."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " O irony."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Well, here's my end of the deal."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh ho...[1205][0014] Le nouveau chef du lycée Kakasu\nétait un sbire de l'ancien Boss.[1205][U+000F] Ô ironie.[1205][U+000F]\nVoilà ma part.",
+   "brut_en": "Oho...[1205][0014][SP]so[SP]the[SP]new[SP]Leader[SP]at[SP]Cuss[SP]High[SP]used[SP]to\nbe[SP]one[SP]of[SP]the[SP]old[SP]Boss'[SP]henchmen.[1205][U+000F][SP]O[SP]irony.[1205][U+000F]\nWell,[SP]here's[SP]my[SP]end[SP]of[SP]the[SP]deal.",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 42,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Endroit :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Aoba - Rosa Candida"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumeur :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " On y a de vraies armes"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Notes :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Prix bas. Qualité basse."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Location:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Aoba - Rosa Candida"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumor:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " You can buy real weapons"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Comments:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Low price. Low quality."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Endroit :[1205][U+000F][E4][NULL][NULL][U+0006] Aoba - Rosa Candida[E4][NULL][NULL][0002][1205][U+000F]\nRumeur :[1205][U+000F][E4][NULL][NULL][U+0006] On y a de vraies armes[E4][NULL][NULL][0002][1205][U+000F]\nNotes :[1205][U+000F][E4][NULL][NULL][U+0006] Prix bas. Qualité basse.[E4][NULL][NULL][0002]",
+   "brut_en": "Location:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Aoba[SP]-[SP]Rosa[SP]Candida[E4][NULL][NULL][0002][1205][U+000F]\nRumor:[1205][U+000F][E4][NULL][NULL][U+0006][SP]You[SP]can[SP]buy[SP]real[SP]weapons[E4][NULL][NULL][0002][1205][U+000F]\nComments:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Low[SP]price.[SP]Low[SP]quality.[E4][NULL][NULL][0002]",
+   "data_size": 304,
+   "budget": 296
+  },
+  {
+   "id": 43,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "La statue de chat de l'agence parle."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Où tu trouves ça?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tiens,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quelque chose en échange."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "The cat statue at the detective agency"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "talks."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Where do you get this stuff?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Fine,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll give you something in return."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...[1205][0014]La statue de chat de l'agence parle.[1205][U+000F]\nOù tu trouves ça?[1205][U+000F] Tiens,\nquelque chose en échange.",
+   "brut_en": "...[1205][0014]The[SP]cat[SP]statue[SP]at[SP]the[SP]detective[SP]agency\ntalks.[1205][U+000F][SP]Where[SP]do[SP]you[SP]get[SP]this[SP]stuff?[1205][U+000F][SP]Fine,\nI'll[SP]give[SP]you[SP]something[SP]in[SP]return.",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 44,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Endroit :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Kounan - London Clothier"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumeur :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " On y a de vraies armures"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Notes :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Qualité et prix moyens."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Location:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Kounan - London Clothier"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumor:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " You can buy real armor"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Comments:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Quality and price average."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Endroit :[1205][U+000F][E4][NULL][NULL][U+0006] Kounan - London Clothier[E4][NULL][NULL][0002][1205][U+000F]\nRumeur :[1205][U+000F][E4][NULL][NULL][U+0006] On y a de vraies armures[E4][NULL][NULL][0002][1205][U+000F]\nNotes :[1205][U+000F][E4][NULL][NULL][U+0006] Qualité et prix moyens.[E4][NULL][NULL][0002]",
+   "brut_en": "Location:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Kounan[SP]-[SP]London[SP]Clothier[E4][NULL][NULL][0002][1205][U+000F]\nRumor:[1205][U+000F][E4][NULL][NULL][U+0006][SP]You[SP]can[SP]buy[SP]real[SP]armor[E4][NULL][NULL][0002][1205][U+000F]\nComments:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Quality[SP]and[SP]price[SP]average.[E4][NULL][NULL][0002]",
+   "data_size": 316,
+   "budget": 308
+  },
+  {
+   "id": 45,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu dis que le terroriste a bombardé ces endroits"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour faire apparaître les temples?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Are you saying the terrorist bombed those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sites with the aim of making those temples"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "appear?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu dis que le terroriste a bombardé ces endroits\npour faire apparaître les temples?",
+   "brut_en": "Are[SP]you[SP]saying[SP]the[SP]terrorist[SP]bombed[SP]those\nsites[SP]with[SP]the[SP]aim[SP]of[SP]making[SP]those[SP]temples\nappear?",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 46,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça colle avec l'Oracle... Bon."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Voilà mes infos."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I guess it fits with the Oracle... Oh well."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll send you my information now."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça colle avec l'Oracle... Bon.[1205][U+000F]\nVoilà mes infos.",
+   "brut_en": "I[SP]guess[SP]it[SP]fits[SP]with[SP]the[SP]Oracle...[SP]Oh[SP]well.[1205][U+000F]\nI'll[SP]send[SP]you[SP]my[SP]information[SP]now.",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 47,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Endroit :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Rengedai - Time Castle"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumeur :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Arme légendaire vendue là"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Commentaires :"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Donnée à une femme?"
+      },
+      {
+       "t": "> Notes :"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Le proprio l'aurait donnée à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une femme aux cheveux courts."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Personne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ne sait qui c'est."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Location:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Rengedai - Time Castle"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumor:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Legendary weapon sold there"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Comments:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " Given away to a woman?"
+      },
+      {
+       "t": "> Notes:"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It seems the owner gave it away to a woman"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "with short hair."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " No one knows who this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "woman might be."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Endroit :[1205][U+000F][E4][NULL][NULL][U+0006] Rengedai - Time Castle[E4][NULL][NULL][0002][1205][U+000F]\nRumeur :[1205][U+000F][E4][NULL][NULL][U+0006] Arme légendaire vendue là[E4][NULL][NULL][0002][1205][U+000F]\nCommentaires :[1205][U+000F][E4][NULL][NULL][U+0006] Donnée à une femme?[E4][NULL][NULL][0002][E1][E2]> Notes :\nLe proprio l'aurait donnée à\nune femme aux cheveux courts.[1205][U+000F] Personne\nne sait qui c'est.",
+   "brut_en": "Location:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Rengedai[SP]-[SP]Time[SP]Castle[E4][NULL][NULL][0002][1205][U+000F]\nRumor:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Legendary[SP]weapon[SP]sold[SP]there[E4][NULL][NULL][0002][1205][U+000F]\nComments:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Given[SP]away[SP]to[SP]a[SP]woman?[E4][NULL][NULL][0002][E1][E2]>[SP]Notes:\nIt[SP]seems[SP]the[SP]owner[SP]gave[SP]it[SP]away[SP]to[SP]a[SP]woman\nwith[SP]short[SP]hair.[1205][U+000F][SP]No[SP]one[SP]knows[SP]who[SP]this\nwoman[SP]might[SP]be.",
+   "data_size": 534,
+   "budget": 526
+  },
+  {
+   "id": 48,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu connais l'Arche de Noé? Ce Xibalba"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'est un peu comme ça..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You've heard of Noah's Ark, right? This Xibalba"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "thing is like that..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu connais l'Arche de Noé? Ce Xibalba\nc'est un peu comme ça...",
+   "brut_en": "You've[SP]heard[SP]of[SP]Noah's[SP]Ark,[SP]right?[SP]This[SP]Xibalba\nthing[SP]is[SP]like[SP]that...",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 49,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Même si je sais pas si c'est Dieu qui sera"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "responsable de la destruction du monde."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Va savoir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Though I don't know if it's God exactly who'll"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be responsible for the world's destruction."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Heaven only knows, I guess."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Même si je sais pas si c'est Dieu qui sera\nresponsable de la destruction du monde.\nVa savoir.",
+   "brut_en": "Though[SP]I[SP]don't[SP]know[SP]if[SP]it's[SP]God[SP]exactly[SP]who'll\nbe[SP]responsible[SP]for[SP]the[SP]world's[SP]destruction.\nHeaven[SP]only[SP]knows,[SP]I[SP]guess.",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 50,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Désolé, c'est tout pour l'instant."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Nouvelles infos dès que j'en ai."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Patiente jusque-là."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sorry, that's all I have for you now. When I"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "get new information in, I'll let you know."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Just sit tight until then."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Désolé, c'est tout pour l'instant.\nNouvelles infos dès que j'en ai.\nPatiente jusque-là.",
+   "brut_en": "Sorry,[SP]that's[SP]all[SP]I[SP]have[SP]for[SP]you[SP]now.[SP]When[SP]I\nget[SP]new[SP]information[SP]in,[SP]I'll[SP]let[SP]you[SP]know.\nJust[SP]sit[SP]tight[SP]until[SP]then.",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 51,
+   "nom_fr": "Colporteur Baofu",
+   "nom_en": "Rumormonger Baofu",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'es à Double Slash? Connecte-toi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "depuis cet ordi pour me contacter."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Are you at Double Slash? Then connect from"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that computer when you want to get in touch."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'es à Double Slash? Connecte-toi\ndepuis cet ordi pour me contacter.",
+   "brut_en": "Are[SP]you[SP]at[SP]Double[SP]Slash?[SP]Then[SP]connect[SP]from\nthat[SP]computer[SP]when[SP]you[SP]want[SP]to[SP]get[SP]in[SP]touch.",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 52,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je me demande comment le monde va finir?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça m'emballe plus trop à ce stade..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je vais chercher sur Internet."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I wonder, how will the world end? I can't get"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "too worked up about it this late in the game..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Think I'll look it up on the Internet."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je me demande comment le monde va finir?\nÇa m'emballe plus trop à ce stade...\nJe vais chercher sur Internet.",
+   "brut_en": "I[SP]wonder,[SP]how[SP]will[SP]the[SP]world[SP]end?[SP]I[SP]can't[SP]get\ntoo[SP]worked[SP]up[SP]about[SP]it[SP]this[SP]late[SP]in[SP]the[SP]game...\nThink[SP]I'll[SP]look[SP]it[SP]up[SP]on[SP]the[SP]Internet.",
+   "data_size": 290,
+   "budget": 282
+  },
+  {
+   "id": 53,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, écoutez ça."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Quand la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Grande Croix sera complète, la gravité"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fera percuter les étoiles."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, listen to what I found out."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " When the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Grand Cross is complete, the gravity of the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "planets will cause the stars to collide."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Wow, écoutez ça.[1205][U+000F] Quand la\nGrande Croix sera complète, la gravité\nfera percuter les étoiles.",
+   "brut_en": "Wow,[SP]listen[SP]to[SP]what[SP]I[SP]found[SP]out.[1205][U+000F][SP]When[SP]the\nGrand[SP]Cross[SP]is[SP]complete,[SP]the[SP]gravity[SP]of[SP]the\nplanets[SP]will[SP]cause[SP]the[SP]stars[SP]to[SP]collide.",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 54,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je croyais que c'était juste la Terre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qui serait détruite."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Si ça arrive,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "on est en danger ici aussi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But I thought just the Earth was supposed to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be destroyed."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If that happens, won't we be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in trouble up here too?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je croyais que c'était juste la Terre\nqui serait détruite.[1205][U+000F] Si ça arrive,\non est en danger ici aussi?",
+   "brut_en": "But[SP]I[SP]thought[SP]just[SP]the[SP]Earth[SP]was[SP]supposed[SP]to\nbe[SP]destroyed.[1205][U+000F][SP]If[SP]that[SP]happens,[SP]won't[SP]we[SP]be\nin[SP]trouble[SP]up[SP]here[SP]too?",
+   "data_size": 252,
+   "budget": 244
+  },
+  {
+   "id": 55,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, une autre théorie en ligne."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Quand la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Grande Croix sera là, la gravité sera"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "si forte que les continents couleront."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ooh, here's another theory online."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " When the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Grand Cross is done, gravity will become much"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "heavier and the continents will sink."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh, une autre théorie en ligne.[1205][U+000F] Quand la\nGrande Croix sera là, la gravité sera\nsi forte que les continents couleront.",
+   "brut_en": "Ooh,[SP]here's[SP]another[SP]theory[SP]online.[1205][U+000F][SP]When[SP]the\nGrand[SP]Cross[SP]is[SP]done,[SP]gravity[SP]will[SP]become[SP]much\nheavier[SP]and[SP]the[SP]continents[SP]will[SP]sink.",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 56,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pourquoi ça ferait couler"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les continents?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Douteux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wait, why would that cause the continents to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sink?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Seems pretty fishy."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pourquoi ça ferait couler\nles continents?[1205][U+000F] Douteux.",
+   "brut_en": "Wait,[SP]why[SP]would[SP]that[SP]cause[SP]the[SP]continents[SP]to\nsink?[1205][U+000F][SP]Seems[SP]pretty[SP]fishy.",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 57,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "É-Écoutez ça..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L-Listen to this one..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "É-Écoutez ça...",
+   "brut_en": "L-Listen[SP]to[SP]this[SP]one...",
+   "data_size": 72,
+   "budget": 64
+  },
+  {
+   "id": 58,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quand la Grande Croix sera là, l'équilibre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gravitationnel sera rompu,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "arrêtant la rotation de la Terre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "When the Grand Cross is complete, the balance"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of gravity between the planets will be broken,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "causing the Earth's rotation to stop."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quand la Grande Croix sera là, l'équilibre\ngravitationnel sera rompu,\narrêtant la rotation de la Terre.",
+   "brut_en": "When[SP]the[SP]Grand[SP]Cross[SP]is[SP]complete,[SP]the[SP]balance\nof[SP]gravity[SP]between[SP]the[SP]planets[SP]will[SP]be[SP]broken,\ncausing[SP]the[SP]Earth's[SP]rotation[SP]to[SP]stop.",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 59,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Des éléments des théories précédentes,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais celle-là semble plausible."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It has elements of all the previous theories,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but this one sounds scarily plausible."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Des éléments des théories précédentes,\nmais celle-là semble plausible.",
+   "brut_en": "It[SP]has[SP]elements[SP]of[SP]all[SP]the[SP]previous[SP]theories,\nbut[SP]this[SP]one[SP]sounds[SP]scarily[SP]plausible.",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 60,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le fantôme Hanako aperçu au Seven..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je crois pas qu'elle existe vraiment."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard that ghost Hanako has been sighted"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "at Sevens..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Can't believe she really exists."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le fantôme Hanako aperçu au Seven...[1205][U+000F]\nJe crois pas qu'elle existe vraiment.",
+   "brut_en": "I[SP]heard[SP]that[SP]ghost[SP]Hanako[SP]has[SP]been[SP]sighted\nat[SP]Sevens...[1205][U+000F][SP]Can't[SP]believe[SP]she[SP]really[SP]exists.",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 61,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vu sur le net : Bukimi hanterait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le lycée de Kasugayama à Hirasaka."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This is just something I saw around the net,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but apparently Bukimi is haunting Kasugayama"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "High School in Hirasaka."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vu sur le net : Bukimi hanterait\nle lycée de Kasugayama à Hirasaka.",
+   "brut_en": "This[SP]is[SP]just[SP]something[SP]I[SP]saw[SP]around[SP]the[SP]net,\nbut[SP]apparently[SP]Bukimi[SP]is[SP]haunting[SP]Kasugayama\nHigh[SP]School[SP]in[SP]Hirasaka.",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 62,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une fille en ligne m'a dit qu'il y"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a le fantôme d'une idole au parc Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je devrais aller voir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A girl I met online told me there's an idol"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "singer's ghost at Aoba Park."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Maybe I should"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "go take a picture."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une fille en ligne m'a dit qu'il y\na le fantôme d'une idole au parc Aoba.[1205][U+000F]\nJe devrais aller voir.",
+   "brut_en": "A[SP]girl[SP]I[SP]met[SP]online[SP]told[SP]me[SP]there's[SP]an[SP]idol\nsinger's[SP]ghost[SP]at[SP]Aoba[SP]Park.[1205][U+000F][SP]Maybe[SP]I[SP]should\ngo[SP]take[SP]a[SP]picture.",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 63,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous connaissez le Taxi Maudit?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il sort la nuit écraser des gens."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Le jour, garé à la fabrique abandonnée."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Have you heard of the Cursed Taxi?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It goes out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "at night to run people over."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I hear in the day,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it's parked at the abandoned factory."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous connaissez le Taxi Maudit?[1205][U+000F]\nIl sort la nuit écraser des gens.[1205][U+000F]\nLe jour, garé à la fabrique abandonnée.",
+   "brut_en": "Have[SP]you[SP]heard[SP]of[SP]the[SP]Cursed[SP]Taxi?[1205][U+000F][SP]It[SP]goes[SP]out\nat[SP]night[SP]to[SP]run[SP]people[SP]over.[1205][U+000F][SP]I[SP]hear[SP]in[SP]the[SP]day,\nit's[SP]parked[SP]at[SP]the[SP]abandoned[SP]factory.",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 64,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quelqu'un a posté un démenti sur le Taxi Maudit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à la fabrique abandonnée."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il dit que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'était une Escorte Maudite."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Someone posted a retraction online about that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Cursed Taxi at the abandoned factory."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Says it"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "was actually a Cursed Escort."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quelqu'un a posté un démenti sur le Taxi Maudit\nà la fabrique abandonnée.[1205][U+000F] Il dit que\nc'était une Escorte Maudite.",
+   "brut_en": "Someone[SP]posted[SP]a[SP]retraction[SP]online[SP]about[SP]that\nCursed[SP]Taxi[SP]at[SP]the[SP]abandoned[SP]factory.[1205][U+000F][SP]Says[SP]it\nwas[SP]actually[SP]a[SP]Cursed[SP]Escort.",
+   "data_size": 272,
+   "budget": 264
+  },
+  {
+   "id": 65,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vu en ligne que Kuchisake-onna"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a été aperçue au mont Iwato."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I just saw online that Kuchisake-onna has"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "been seen at Mt. Iwato."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vu en ligne que Kuchisake-onna\na été aperçue au mont Iwato.",
+   "brut_en": "I[SP]just[SP]saw[SP]online[SP]that[SP]Kuchisake-onna[SP]has\nbeen[SP]seen[SP]at[SP]Mt.[SP]Iwato.",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 66,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il se passe des trucs bizarres"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dans cette ville. Ce Cercle Masqué..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There sure is some strange stuff going on in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this city. Like that Masked Circle..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il se passe des trucs bizarres\ndans cette ville. Ce Cercle Masqué...",
+   "brut_en": "There[SP]sure[SP]is[SP]some[SP]strange[SP]stuff[SP]going[SP]on[SP]in\nthis[SP]city.[SP]Like[SP]that[SP]Masked[SP]Circle...",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 67,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous connaissez le Vieux Sauteur?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Un monstre au mont Katatsumuri."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Do you know about the Jumping Geezer? He's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "apparently a monster at Mt. Katatsumuri."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous connaissez le Vieux Sauteur?\nUn monstre au mont Katatsumuri.",
+   "brut_en": "Do[SP]you[SP]know[SP]about[SP]the[SP]Jumping[SP]Geezer?[SP]He's\napparently[SP]a[SP]monster[SP]at[SP]Mt.[SP]Katatsumuri.",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 68,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouais... Je veux dire, ça fait vraiment peur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dit comme ça..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Oh, je parlais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de Kudan."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " *soupir* Mieux vaut ne plus y penser."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yeah... I mean, it's really scary when they put"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it that way..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Oh, I was talking about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Kudan."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " *sigh* Best to put it out of mind."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouais... Je veux dire, ça fait vraiment peur\ndit comme ça...[1205][U+000F] Hm?[1205][U+000A] Oh, je parlais\nde Kudan.[1205][U+000F] *soupir* Mieux vaut ne plus y penser.",
+   "brut_en": "Yeah...[SP]I[SP]mean,[SP]it's[SP]really[SP]scary[SP]when[SP]they[SP]put\nit[SP]that[SP]way...[1205][U+000F][SP]Hm?[1205][U+000A][SP]Oh,[SP]I[SP]was[SP]talking[SP]about\nKudan.[1205][U+000F][SP]*sigh*[SP]Best[SP]to[SP]put[SP]it[SP]out[SP]of[SP]mind.",
+   "data_size": 302,
+   "budget": 294
+  },
+  {
+   "id": 69,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Héhéh, j'adore les secrets."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Comme ce CD chez Giga Macho."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heheh, I really love secret stuff. Like that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "secret CD at Giga Macho."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Héhéh, j'adore les secrets.\nComme ce CD chez Giga Macho.",
+   "brut_en": "Heheh,[SP]I[SP]really[SP]love[SP]secret[SP]stuff.[SP]Like[SP]that\nsecret[SP]CD[SP]at[SP]Giga[SP]Macho.",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 70,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je me demande quels morceaux..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il faut que j'en procure un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour le découvrir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I wonder what tracks are on it...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I need to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "get ahold of a copy and find out for myself."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je me demande quels morceaux...[1205][U+000F]\nIl faut que j'en procure un\npour le découvrir.",
+   "brut_en": "I[SP]wonder[SP]what[SP]tracks[SP]are[SP]on[SP]it...?[1205][U+000F][SP]I[SP]need[SP]to\nget[SP]ahold[SP]of[SP]a[SP]copy[SP]and[SP]find[SP]out[SP]for[SP]myself.",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 71,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est quoi la Vieille du Tiroir?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Un monstre?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What the hell's a Dresser Hag?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Some kind of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "monster?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est quoi la Vieille du Tiroir?[1205][U+000F]\nUn monstre?",
+   "brut_en": "What[SP]the[SP]hell's[SP]a[SP]Dresser[SP]Hag?[1205][U+000F][SP]Some[SP]kind[SP]of\nmonster?",
+   "data_size": 134,
+   "budget": 126
+  },
+  {
+   "id": 72,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça évoque une image assez étrange..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'aimerais voir ça pour de vrai."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It brings kind of a strange image to mind..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I wish I could see the real thing."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça évoque une image assez étrange...[1205][U+000F]\nJ'aimerais voir ça pour de vrai.",
+   "brut_en": "It[SP]brings[SP]kind[SP]of[SP]a[SP]strange[SP]image[SP]to[SP]mind...[1205][U+000F]\nI[SP]wish[SP]I[SP]could[SP]see[SP]the[SP]real[SP]thing.",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 73,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vu sur Internet que Time Castle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vend de vraies armes."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qualité et prix normaux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I saw on the Internet that this antique shop"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "called Time Castle sells real weapons. Their"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quality and prices are normal."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vu sur Internet que Time Castle\nvend de vraies armes.\nQualité et prix normaux.",
+   "brut_en": "I[SP]saw[SP]on[SP]the[SP]Internet[SP]that[SP]this[SP]antique[SP]shop\ncalled[SP]Time[SP]Castle[SP]sells[SP]real[SP]weapons.[SP]Their\nquality[SP]and[SP]prices[SP]are[SP]normal.",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 74,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai vu sur Internet que cette boutique"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "antique Time Castle vend de vraies armes."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bonne qualité, mais chers."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I saw on the Internet that this antique shop"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "called Time Castle sells real weapons. The"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quality's good, but they're expensive."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai vu sur Internet que cette boutique\nantique Time Castle vend de vraies armes.\nBonne qualité, mais chers.",
+   "brut_en": "I[SP]saw[SP]on[SP]the[SP]Internet[SP]that[SP]this[SP]antique[SP]shop\ncalled[SP]Time[SP]Castle[SP]sells[SP]real[SP]weapons.[SP]The\nquality's[SP]good,[SP]but[SP]they're[SP]expensive.",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 75,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai vu sur Internet que cette boutique"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "antique Time Castle vend de vraies armes."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pas cher, mais qualité basse."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I saw on the Internet that this antique shop"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "called Time Castle sells real weapons. Their"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "stuff's cheap, but it's low quality."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai vu sur Internet que cette boutique\nantique Time Castle vend de vraies armes.\nPas cher, mais qualité basse.",
+   "brut_en": "I[SP]saw[SP]on[SP]the[SP]Internet[SP]that[SP]this[SP]antique[SP]shop\ncalled[SP]Time[SP]Castle[SP]sells[SP]real[SP]weapons.[SP]Their\nstuff's[SP]cheap,[SP]but[SP]it's[SP]low[SP]quality.",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 76,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tony, c'est ce drôle de type blanc, non?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'ai entendu qu'il trafique des armes."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bon choix, mais mauvais prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tony's that weird white dude, right? I hear"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he's a gunrunner. His selection's pretty"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "good, but his buyback prices are lousy."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tony, c'est ce drôle de type blanc, non?\nJ'ai entendu qu'il trafique des armes.\nBon choix, mais mauvais prix de reprise.",
+   "brut_en": "Tony's[SP]that[SP]weird[SP]white[SP]dude,[SP]right?[SP]I[SP]hear\nhe's[SP]a[SP]gunrunner.[SP]His[SP]selection's[SP]pretty\ngood,[SP]but[SP]his[SP]buyback[SP]prices[SP]are[SP]lousy.",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 77,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tony, ce drôle de type blanc, non?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il trafique des armes."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pas cher, mais qualité médiocre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tony's that weird white dude, right? I hear"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he's a gunrunner. His stuff is cheap, but"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it's not good quality."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tony, ce drôle de type blanc, non?\nIl trafique des armes.\nPas cher, mais qualité médiocre.",
+   "brut_en": "Tony's[SP]that[SP]weird[SP]white[SP]dude,[SP]right?[SP]I[SP]hear\nhe's[SP]a[SP]gunrunner.[SP]His[SP]stuff[SP]is[SP]cheap,[SP]but\nit's[SP]not[SP]good[SP]quality.",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 78,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tony, ce drôle de type blanc, non?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il trafique des armes."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Prix et qualité dans la moyenne."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tony's that weird white dude, right? I hear"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he's a gunrunner. His prices and quality are"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "both pretty standard."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tony, ce drôle de type blanc, non?\nIl trafique des armes.\nPrix et qualité dans la moyenne.",
+   "brut_en": "Tony's[SP]that[SP]weird[SP]white[SP]dude,[SP]right?[SP]I[SP]hear\nhe's[SP]a[SP]gunrunner.[SP]His[SP]prices[SP]and[SP]quality[SP]are\nboth[SP]pretty[SP]standard.",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 79,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tony, c'est ce drôle de type blanc, non?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'ai entendu qu'il trafique des armes."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Excellente qualité, mais très cher."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tony's that weird white dude, right? I hear"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he's a gunrunner. The quality of his stuff"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is great, but the prices are really high."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tony, c'est ce drôle de type blanc, non?\nJ'ai entendu qu'il trafique des armes.\nExcellente qualité, mais très cher.",
+   "brut_en": "Tony's[SP]that[SP]weird[SP]white[SP]dude,[SP]right?[SP]I[SP]hear\nhe's[SP]a[SP]gunrunner.[SP]The[SP]quality[SP]of[SP]his[SP]stuff\nis[SP]great,[SP]but[SP]the[SP]prices[SP]are[SP]really[SP]high.",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 80,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai entendu qu'on peut acheter de vraies armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Clair de Lune à Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mauvais choix,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais bon prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear you can buy real weapons if you go to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Clair de Lune in Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their selection's bad,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but the buyback prices are nice."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai entendu qu'on peut acheter de vraies armes\nau Clair de Lune à Aoba.[1205][U+000F] Mauvais choix,\nmais bon prix de reprise.",
+   "brut_en": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][U+000F][SP]Their[SP]selection's[SP]bad,\nbut[SP]the[SP]buyback[SP]prices[SP]are[SP]nice.",
+   "data_size": 276,
+   "budget": 268
+  },
+  {
+   "id": 81,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai entendu qu'on peut acheter de vraies armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Clair de Lune à Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pas cher,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais qualité médiocre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear you can buy real weapons if you go to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Clair de Lune in Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's cheap stuff,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but not such great quality."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai entendu qu'on peut acheter de vraies armes\nau Clair de Lune à Aoba.[1205][U+000F] Pas cher,\nmais qualité médiocre.",
+   "brut_en": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][U+000F][SP]It's[SP]cheap[SP]stuff,\nbut[SP]not[SP]such[SP]great[SP]quality.",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 82,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai entendu qu'on peut acheter de vraies armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Clair de Lune à Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bonne qualité,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais cher."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear you can buy real weapons if you go to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Clair de Lune in Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " They've got good stuff,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but it's expensive as hell."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai entendu qu'on peut acheter de vraies armes\nau Clair de Lune à Aoba.[1205][U+000F] Bonne qualité,\nmais cher.",
+   "brut_en": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][U+000F][SP]They've[SP]got[SP]good[SP]stuff,\nbut[SP]it's[SP]expensive[SP]as[SP]hell.",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 83,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai entendu qu'on peut acheter de vraies armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Clair de Lune à Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bon choix,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais mauvais prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear you can buy real weapons if you go to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Clair de Lune in Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their selection's good,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but the buyback prices are real low."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai entendu qu'on peut acheter de vraies armes\nau Clair de Lune à Aoba.[1205][U+000F] Bon choix,\nmais mauvais prix de reprise.",
+   "brut_en": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][U+000F][SP]Their[SP]selection's[SP]good,\nbut[SP]the[SP]buyback[SP]prices[SP]are[SP]real[SP]low.",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 84,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On peut acheter de vraies armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Clair de Lune à Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Qualité"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et prix dans la moyenne."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear you can buy real weapons if you go to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Clair de Lune in Aoba."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their quality and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prices are average."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On peut acheter de vraies armes\nau Clair de Lune à Aoba.[1205][U+000F] Qualité\net prix dans la moyenne.",
+   "brut_en": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][U+000F][SP]Their[SP]quality[SP]and\nprices[SP]are[SP]average.",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 85,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a beaucoup d'informations dangereuses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur le net."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's a lot of dangerous information out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there on the net."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a beaucoup d'informations dangereuses\nsur le net.",
+   "brut_en": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 86,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tiens, j'ai vu qu'on peut acheter des armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Qualité et prix"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dans la moyenne..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Like just now, I saw you can buy weapons at"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their quality and prices are"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nothing out of the ordinary..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tiens, j'ai vu qu'on peut acheter des armes\nau Jolly Roger.[1205][U+000F] Qualité et prix\ndans la moyenne...",
+   "brut_en": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][U+000F][SP]Their[SP]quality[SP]and[SP]prices[SP]are\nnothing[SP]out[SP]of[SP]the[SP]ordinary...",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 87,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a beaucoup d'informations dangereuses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur le net."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's a lot of dangerous information out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there on the net."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a beaucoup d'informations dangereuses\nsur le net.",
+   "brut_en": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 88,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tiens, j'ai vu qu'on peut acheter des armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pas cher,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais qualité médiocre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Like just now, I saw you can buy weapons at"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " They're cheap, but the quality"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is lousy."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tiens, j'ai vu qu'on peut acheter des armes\nau Jolly Roger.[1205][U+000F] Pas cher,\nmais qualité médiocre.",
+   "brut_en": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][U+000F][SP]They're[SP]cheap,[SP]but[SP]the[SP]quality\nis[SP]lousy.",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 89,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a beaucoup d'informations dangereuses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur le net."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's a lot of dangerous information out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there on the net."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a beaucoup d'informations dangereuses\nsur le net.",
+   "brut_en": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 90,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tiens, j'ai vu qu'on peut acheter des armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bon choix,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais mauvais prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Like just now, I saw you can buy weapons at"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their selection's good, but"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the buyback prices there suck."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tiens, j'ai vu qu'on peut acheter des armes\nau Jolly Roger.[1205][U+000F] Bon choix,\nmais mauvais prix de reprise.",
+   "brut_en": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][U+000F][SP]Their[SP]selection's[SP]good,[SP]but\nthe[SP]buyback[SP]prices[SP]there[SP]suck.",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 91,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a beaucoup d'informations dangereuses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur le net."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's a lot of dangerous information out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there on the net."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a beaucoup d'informations dangereuses\nsur le net.",
+   "brut_en": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 92,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tiens, j'ai vu qu'on peut acheter des armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mauvais choix,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais bon prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Like just now, I saw you can buy weapons at"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their selection sucks, but"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the buyback prices are good."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tiens, j'ai vu qu'on peut acheter des armes\nau Jolly Roger.[1205][U+000F] Mauvais choix,\nmais bon prix de reprise.",
+   "brut_en": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][U+000F][SP]Their[SP]selection[SP]sucks,[SP]but\nthe[SP]buyback[SP]prices[SP]are[SP]good.",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 93,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a beaucoup d'informations dangereuses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur le net."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's a lot of dangerous information out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there on the net."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a beaucoup d'informations dangereuses\nsur le net.",
+   "brut_en": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 94,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tiens, j'ai vu qu'on peut acheter des armes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Cher,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais excellent choix."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Like just now, I saw you can buy weapons at"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Jolly Roger."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " They're expensive, but they"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "shelve some of the best stuff."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tiens, j'ai vu qu'on peut acheter des armes\nau Jolly Roger.[1205][U+000F] Cher,\nmais excellent choix.",
+   "brut_en": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][U+000F][SP]They're[SP]expensive,[SP]but[SP]they\nshelve[SP]some[SP]of[SP]the[SP]best[SP]stuff.",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 95,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraies armures au Rosa Candida"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à Rengedai."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Prix"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et qualité dans la moyenne."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear they sell real armor at the Rosa Candida"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in Rengedai."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their prices and quality are"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "just average."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraies armures au Rosa Candida\nà Rengedai.[1205][U+000F] Prix\net qualité dans la moyenne.",
+   "brut_en": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]at[SP]the[SP]Rosa[SP]Candida\nin[SP]Rengedai.[1205][U+000F][SP]Their[SP]prices[SP]and[SP]quality[SP]are\njust[SP]average.",
+   "data_size": 236,
+   "budget": 228
+  },
+  {
+   "id": 96,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraies armures au Rosa Candida"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à Rengedai."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pas cher,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais ça vaut pas grand-chose."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear they sell real armor at the Rosa Candida"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in Rengedai."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's cheap, but sounds like"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it's not worth paying for."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraies armures au Rosa Candida\nà Rengedai.[1205][U+000F] Pas cher,\nmais ça vaut pas grand-chose.",
+   "brut_en": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]at[SP]the[SP]Rosa[SP]Candida\nin[SP]Rengedai.[1205][U+000F][SP]It's[SP]cheap,[SP]but[SP]sounds[SP]like\nit's[SP]not[SP]worth[SP]paying[SP]for.",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 97,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraies armures au Rosa Candida"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à Rengedai."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bien fait,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais cher."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear they sell real armor at the Rosa Candida"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in Rengedai."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's well-made, but expensive."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraies armures au Rosa Candida\nà Rengedai.[1205][U+000F] Bien fait,\nmais cher.",
+   "brut_en": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]at[SP]the[SP]Rosa[SP]Candida\nin[SP]Rengedai.[1205][U+000F][SP]It's[SP]well-made,[SP]but[SP]expensive.",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 98,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'armure comme tendance mode, j'avais jamais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entendu ça... Mais Anima Mundi en vend."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qualité et prix normaux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've never heard of armor as a fashion trend..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But Anima Mundi sells it."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The quality and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "price of their stuff is normal."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'armure comme tendance mode, j'avais jamais\nentendu ça... Mais Anima Mundi en vend.[1205][U+000F]\nQualité et prix normaux.",
+   "brut_en": "I've[SP]never[SP]heard[SP]of[SP]armor[SP]as[SP]a[SP]fashion[SP]trend...\nBut[SP]Anima[SP]Mundi[SP]sells[SP]it.[1205][U+000F][SP]The[SP]quality[SP]and\nprice[SP]of[SP]their[SP]stuff[SP]is[SP]normal.",
+   "data_size": 272,
+   "budget": 264
+  },
+  {
+   "id": 99,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'armure comme tendance mode, j'avais jamais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entendu ça... Mais Anima Mundi en vend."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qualité basse, mais au moins c'est pas cher."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've never heard of armor as a fashion trend..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But Anima Mundi sells it."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The quality of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "their stuff is low, but at least it's cheap."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'armure comme tendance mode, j'avais jamais\nentendu ça... Mais Anima Mundi en vend.[1205][U+000F]\nQualité basse, mais au moins c'est pas cher.",
+   "brut_en": "I've[SP]never[SP]heard[SP]of[SP]armor[SP]as[SP]a[SP]fashion[SP]trend...\nBut[SP]Anima[SP]Mundi[SP]sells[SP]it.[1205][U+000F][SP]The[SP]quality[SP]of\ntheir[SP]stuff[SP]is[SP]low,[SP]but[SP]at[SP]least[SP]it's[SP]cheap.",
+   "data_size": 296,
+   "budget": 288
+  },
+  {
+   "id": 100,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'armure comme tendance mode, j'avais jamais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entendu ça... Mais Anima Mundi en vend."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bon choix, mais mauvais prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've never heard of armor as a fashion trend..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But Anima Mundi sells it."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their selection's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "good, but they don't pay much for your stuff."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'armure comme tendance mode, j'avais jamais\nentendu ça... Mais Anima Mundi en vend.[1205][U+000F]\nBon choix, mais mauvais prix de reprise.",
+   "brut_en": "I've[SP]never[SP]heard[SP]of[SP]armor[SP]as[SP]a[SP]fashion[SP]trend...\nBut[SP]Anima[SP]Mundi[SP]sells[SP]it.[1205][U+000F][SP]Their[SP]selection's\ngood,[SP]but[SP]they[SP]don't[SP]pay[SP]much[SP]for[SP]your[SP]stuff.",
+   "data_size": 304,
+   "budget": 296
+  },
+  {
+   "id": 101,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'armure comme tendance mode, j'avais jamais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entendu ça... Mais Anima Mundi en vend."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bonne qualité, mais cher."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've never heard of armor as a fashion trend..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But Anima Mundi sells it."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The quality of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "their stuff is nice, but it's expensive."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'armure comme tendance mode, j'avais jamais\nentendu ça... Mais Anima Mundi en vend.[1205][U+000F]\nBonne qualité, mais cher.",
+   "brut_en": "I've[SP]never[SP]heard[SP]of[SP]armor[SP]as[SP]a[SP]fashion[SP]trend...\nBut[SP]Anima[SP]Mundi[SP]sells[SP]it.[1205][U+000F][SP]The[SP]quality[SP]of\ntheir[SP]stuff[SP]is[SP]nice,[SP]but[SP]it's[SP]expensive.",
+   "data_size": 288,
+   "budget": 280
+  },
+  {
+   "id": 102,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un ami est parti"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ces sœurs l'ont fait pleurer..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard my friend went home because those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sisters made him cry..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un ami est parti\nces sœurs l'ont fait pleurer...",
+   "brut_en": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 103,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rosa Candida, je veux dire."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ils ont une succursale ici aussi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The ones who run Rosa Candida, I mean."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "They have a branch in this ward too."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rosa Candida, je veux dire.[1205][U+000F]\nIls ont une succursale ici aussi.",
+   "brut_en": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][U+000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 104,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraies armures là-bas."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pas le plus grand"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "choix, mais bons prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear they sell real armor there."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " They don't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "have the widest selection, but their resale"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prices are excellent."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraies armures là-bas.[1205][U+000F] Pas le plus grand\nchoix, mais bons prix de reprise.",
+   "brut_en": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][U+000F][SP]They[SP]don't\nhave[SP]the[SP]widest[SP]selection,[SP]but[SP]their[SP]resale\nprices[SP]are[SP]excellent.",
+   "data_size": 252,
+   "budget": 244
+  },
+  {
+   "id": 105,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un ami est parti"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ces sœurs l'ont fait pleurer..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard my friend went home because those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sisters made him cry..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un ami est parti\nces sœurs l'ont fait pleurer...",
+   "brut_en": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 106,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rosa Candida, je veux dire."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ils ont une succursale ici aussi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The ones who run Rosa Candida, I mean."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "They have a branch in this ward too."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rosa Candida, je veux dire.[1205][U+000F]\nIls ont une succursale ici aussi.",
+   "brut_en": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][U+000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 107,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraies armures là-bas."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qualité et prix normaux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear they sell real armor there."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quality and prices are normal."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraies armures là-bas.[1205][U+000F]\nQualité et prix normaux.",
+   "brut_en": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][U+000F][SP]Their\nquality[SP]and[SP]prices[SP]are[SP]normal.",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 108,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un ami est parti"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ces sœurs l'ont fait pleurer..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard my friend went home because those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sisters made him cry..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un ami est parti\nces sœurs l'ont fait pleurer...",
+   "brut_en": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 109,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rosa Candida, je veux dire."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ils ont une succursale ici aussi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The ones who run Rosa Candida, I mean."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "They have a branch in this ward too."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rosa Candida, je veux dire.[1205][U+000F]\nIls ont une succursale ici aussi.",
+   "brut_en": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][U+000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 110,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraies armures là-bas."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bonne qualité, mais ça coûte."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear they sell real armor there."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " They have"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "good-quality stuff, but it'll cost you."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraies armures là-bas.[1205][U+000F]\nBonne qualité, mais ça coûte.",
+   "brut_en": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][U+000F][SP]They[SP]have\ngood-quality[SP]stuff,[SP]but[SP]it'll[SP]cost[SP]you.",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 111,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un ami est parti"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ces sœurs l'ont fait pleurer..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard my friend went home because those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sisters made him cry..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un ami est parti\nces sœurs l'ont fait pleurer...",
+   "brut_en": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 112,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rosa Candida, je veux dire."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ils ont une succursale ici aussi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The ones who run Rosa Candida, I mean."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "They have a branch in this ward too."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rosa Candida, je veux dire.[1205][U+000F]\nIls ont une succursale ici aussi.",
+   "brut_en": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][U+000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 113,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraies armures là-bas."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pas pour la qualité,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais c'est pas cher."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear they sell real armor there."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You don't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "go to them for quality, but hey, it's cheap."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraies armures là-bas.[1205][U+000F]\nPas pour la qualité,\nmais c'est pas cher.",
+   "brut_en": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][U+000F][SP]You[SP]don't\ngo[SP]to[SP]them[SP]for[SP]quality,[SP]but[SP]hey,[SP]it's[SP]cheap.",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 114,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un ami est parti"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ces sœurs l'ont fait pleurer..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard my friend went home because those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sisters made him cry..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un ami est parti\nces sœurs l'ont fait pleurer...",
+   "brut_en": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 115,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Rosa Candida, je veux dire."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ils ont une succursale ici aussi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The ones who run Rosa Candida, I mean."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "They have a branch in this ward too."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Rosa Candida, je veux dire.[1205][U+000F]\nIls ont une succursale ici aussi.",
+   "brut_en": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][U+000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 116,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraies armures là-bas."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Excellent choix,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais très mauvais prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I hear they sell real armor there."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " They have"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "an excellent selection, but really low buyback"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prices."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraies armures là-bas.[1205][U+000F]\nExcellent choix,\nmais très mauvais prix de reprise.",
+   "brut_en": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][U+000F][SP]They[SP]have\nan[SP]excellent[SP]selection,[SP]but[SP]really[SP]low[SP]buyback\nprices.",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 117,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai entendu qu'il y avait un tailleur qui fait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des armures. C'est London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bon choix,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais mauvais prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard there was a tailor who makes armor."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Turns out it was London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The selection"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there is good, but the buyback prices aren't."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai entendu qu'il y avait un tailleur qui fait\ndes armures. C'est London Clothier.[1205][U+000F] Bon choix,\nmais mauvais prix de reprise.",
+   "brut_en": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][U+000F][SP]The[SP]selection\nthere[SP]is[SP]good,[SP]but[SP]the[SP]buyback[SP]prices[SP]aren't.",
+   "data_size": 304,
+   "budget": 296
+  },
+  {
+   "id": 118,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un tailleur fait des armures."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pas cher,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais qualité médiocre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard there was a tailor who makes armor."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Turns out it was London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " His stuff"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is cheap, but not very good."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un tailleur fait des armures.\nC'est London Clothier.[1205][U+000F] Pas cher,\nmais qualité médiocre.",
+   "brut_en": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][U+000F][SP]His[SP]stuff\nis[SP]cheap,[SP]but[SP]not[SP]very[SP]good.",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 119,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai entendu qu'il y avait un tailleur qui fait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des armures. C'est London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Excellent,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais ça coûte cher."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard there was a tailor who makes armor."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Turns out it was London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " His stuff"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is top-notch, but it'll set you back."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai entendu qu'il y avait un tailleur qui fait\ndes armures. C'est London Clothier.[1205][U+000F] Excellent,\nmais ça coûte cher.",
+   "brut_en": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][U+000F][SP]His[SP]stuff\nis[SP]top-notch,[SP]but[SP]it'll[SP]set[SP]you[SP]back.",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 120,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un tailleur fait des armures."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Prix"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et qualité dans la moyenne."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard there was a tailor who makes armor."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Turns out it was London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " His prices"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and quality are both average."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un tailleur fait des armures.\nC'est London Clothier.[1205][U+000F] Prix\net qualité dans la moyenne.",
+   "brut_en": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][U+000F][SP]His[SP]prices\nand[SP]quality[SP]are[SP]both[SP]average.",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 121,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai entendu qu'il y avait un tailleur qui fait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des armures. C'est London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mauvais choix,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais bon prix de reprise."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard there was a tailor who makes armor."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Turns out it was London Clothier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The selection"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there is bad, but the buyback prices are nice."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai entendu qu'il y avait un tailleur qui fait\ndes armures. C'est London Clothier.[1205][U+000F] Mauvais choix,\nmais bon prix de reprise.",
+   "brut_en": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][U+000F][SP]The[SP]selection\nthere[SP]is[SP]bad,[SP]but[SP]the[SP]buyback[SP]prices[SP]are[SP]nice.",
+   "data_size": 306,
+   "budget": 298
+  },
+  {
+   "id": 122,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Concours du magazine"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "pour gagner de vraies armes"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tiens."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Enter the magazine sweepstakes for your chance"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "to win real weapons"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Huh."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Concours du magazine\npour gagner de vraies armes[1432][NULL][NULL][0014]...[1205][U+000F] Tiens.",
+   "brut_en": "[1432][NULL][NULL][0014]Enter[SP]the[SP]magazine[SP]sweepstakes[SP]for[SP]your[SP]chance\nto[SP]win[SP]real[SP]weapons[1432][NULL][NULL][0014]...[1205][U+000F][SP]Huh.",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 123,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est un site assez minable, mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ils sont sérieux?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This is a pretty rinky-dink website, but I"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "wonder if they're on the level?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est un site assez minable, mais\nils sont sérieux?",
+   "brut_en": "This[SP]is[SP]a[SP]pretty[SP]rinky-dink[SP]website,[SP]but[SP]I\nwonder[SP]if[SP]they're[SP]on[SP]the[SP]level?",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 124,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Paraît qu'on gagne pas souvent,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais bons lots."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça peut"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas faire de mal d'essayer..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They say you won't win that often, but you get"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pretty good prizes when you do."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Well, can't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hurt to try..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Paraît qu'on gagne pas souvent,\nmais bons lots.[1205][U+000F] Ça peut\npas faire de mal d'essayer...",
+   "brut_en": "They[SP]say[SP]you[SP]won't[SP]win[SP]that[SP]often,[SP]but[SP]you[SP]get\npretty[SP]good[SP]prizes[SP]when[SP]you[SP]do.[1205][U+000F][SP]Well,[SP]can't\nhurt[SP]to[SP]try...",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 125,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Concours du magazine"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "pour gagner de vraies armes"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tiens."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Enter the magazine sweepstakes for your chance"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "to win real weapons"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Huh."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Concours du magazine\npour gagner de vraies armes[1432][NULL][NULL][0014]...[1205][U+000F] Tiens.",
+   "brut_en": "[1432][NULL][NULL][0014]Enter[SP]the[SP]magazine[SP]sweepstakes[SP]for[SP]your[SP]chance\nto[SP]win[SP]real[SP]weapons[1432][NULL][NULL][0014]...[1205][U+000F][SP]Huh.",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 126,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est un site assez minable, mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ils sont sérieux?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This is a pretty rinky-dink website, but I"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "wonder if they're on the level?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est un site assez minable, mais\nils sont sérieux?",
+   "brut_en": "This[SP]is[SP]a[SP]pretty[SP]rinky-dink[SP]website,[SP]but[SP]I\nwonder[SP]if[SP]they're[SP]on[SP]the[SP]level?",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 127,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On gagne quasi jamais,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais lots ultra rares."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça peut"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas faire de mal d'essayer..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They say you'll hardly ever win, but you get"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "super rare prizes when you do."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Well, can't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hurt to try..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On gagne quasi jamais,\nmais lots ultra rares.[1205][U+000F] Ça peut\npas faire de mal d'essayer...",
+   "brut_en": "They[SP]say[SP]you'll[SP]hardly[SP]ever[SP]win,[SP]but[SP]you[SP]get\nsuper[SP]rare[SP]prizes[SP]when[SP]you[SP]do.[1205][U+000F][SP]Well,[SP]can't\nhurt[SP]to[SP]try...",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 128,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Concours du magazine"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "pour gagner de vraies armes"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tiens."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Enter the magazine sweepstakes for your chance"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "to win real weapons"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Huh."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Concours du magazine\npour gagner de vraies armes[1432][NULL][NULL][0014]...[1205][U+000F] Tiens.",
+   "brut_en": "[1432][NULL][NULL][0014]Enter[SP]the[SP]magazine[SP]sweepstakes[SP]for[SP]your[SP]chance\nto[SP]win[SP]real[SP]weapons[1432][NULL][NULL][0014]...[1205][U+000F][SP]Huh.",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 129,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est un site assez minable, mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ils sont sérieux?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This is a pretty rinky-dink website, but I"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "wonder if they're on the level?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est un site assez minable, mais\nils sont sérieux?",
+   "brut_en": "This[SP]is[SP]a[SP]pretty[SP]rinky-dink[SP]website,[SP]but[SP]I\nwonder[SP]if[SP]they're[SP]on[SP]the[SP]level?",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 130,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Très facile de gagner,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais lots nuls."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça peut"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas faire de mal d'essayer..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They say it's real easy to win, but the prizes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "are incredibly lame."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Well, can't hurt to try..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Très facile de gagner,\nmais lots nuls.[1205][U+000F] Ça peut\npas faire de mal d'essayer...",
+   "brut_en": "They[SP]say[SP]it's[SP]real[SP]easy[SP]to[SP]win,[SP]but[SP]the[SP]prizes\nare[SP]incredibly[SP]lame.[1205][U+000F][SP]Well,[SP]can't[SP]hurt[SP]to[SP]try...",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 131,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vrais jeux d'argent au Mu?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qui a posté ça?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'avais entendu cette rumeur."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There's actual gambling at Mu?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Who posted"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Though I have heard that rumor before."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hm?[1205][U+000A] Vrais jeux d'argent au Mu?[1205][U+000F]\nQui a posté ça?[1205][U+000F] J'avais entendu cette rumeur.",
+   "brut_en": "Hm?[1205][U+000A][SP]There's[SP]actual[SP]gambling[SP]at[SP]Mu?[1205][U+000F][SP]Who[SP]posted\nthis?[1205][U+000F][SP]Though[SP]I[SP]have[SP]heard[SP]that[SP]rumor[SP]before.",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 132,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Facile de gagner au poker..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'irais bien essayer."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard it's real easy to win at poker..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maybe I'll go give it a whirl."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Facile de gagner au poker...[1205][U+000F]\nJ'irais bien essayer.",
+   "brut_en": "I[SP]heard[SP]it's[SP]real[SP]easy[SP]to[SP]win[SP]at[SP]poker...[1205][U+000F]\nMaybe[SP]I'll[SP]go[SP]give[SP]it[SP]a[SP]whirl.",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 133,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vrais jeux d'argent au Mu?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qui a posté ça?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'avais entendu cette rumeur."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There's actual gambling at Mu?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Who posted"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Though I have heard that rumor before."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hm?[1205][U+000A] Vrais jeux d'argent au Mu?[1205][U+000F]\nQui a posté ça?[1205][U+000F] J'avais entendu cette rumeur.",
+   "brut_en": "Hm?[1205][U+000A][SP]There's[SP]actual[SP]gambling[SP]at[SP]Mu?[1205][U+000F][SP]Who[SP]posted\nthis?[1205][U+000F][SP]Though[SP]I[SP]have[SP]heard[SP]that[SP]rumor[SP]before.",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 134,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Facile de gagner aux machines..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'irais bien essayer."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard it's real easy to win at the slots..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maybe I'll go give it a whirl."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Facile de gagner aux machines...[1205][U+000F]\nJ'irais bien essayer.",
+   "brut_en": "I[SP]heard[SP]it's[SP]real[SP]easy[SP]to[SP]win[SP]at[SP]the[SP]slots...[1205][U+000F]\nMaybe[SP]I'll[SP]go[SP]give[SP]it[SP]a[SP]whirl.",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 135,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vrais jeux d'argent au Mu?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qui a posté ça?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'avais entendu cette rumeur."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There's actual gambling at Mu?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Who posted"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Though I have heard that rumor before."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hm?[1205][U+000A] Vrais jeux d'argent au Mu?[1205][U+000F]\nQui a posté ça?[1205][U+000F] J'avais entendu cette rumeur.",
+   "brut_en": "Hm?[1205][U+000A][SP]There's[SP]actual[SP]gambling[SP]at[SP]Mu?[1205][U+000F][SP]Who[SP]posted\nthis?[1205][U+000F][SP]Though[SP]I[SP]have[SP]heard[SP]that[SP]rumor[SP]before.",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 136,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Facile de gagner au blackjack..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'irais bien essayer."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard it's real easy to win at blackjack..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maybe I'll go give it a whirl."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Facile de gagner au blackjack...[1205][U+000F]\nJ'irais bien essayer.",
+   "brut_en": "I[SP]heard[SP]it's[SP]real[SP]easy[SP]to[SP]win[SP]at[SP]blackjack...[1205][U+000F]\nMaybe[SP]I'll[SP]go[SP]give[SP]it[SP]a[SP]whirl.",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 137,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une arme légendaire...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça fait penser à un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jeu vidéo. Tu crois vraiment trouver un truc"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "comme ça dans un resto de ramen?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A legendary weapon...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sounds like something"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "out of a video game. You really expect to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "find something like that at a ramen shop?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une arme légendaire...?[1205][U+000F] Ça fait penser à un\njeu vidéo. Tu crois vraiment trouver un truc\ncomme ça dans un resto de ramen?",
+   "brut_en": "A[SP]legendary[SP]weapon...?[1205][U+000F][SP]Sounds[SP]like[SP]something\nout[SP]of[SP]a[SP]video[SP]game.[SP]You[SP]really[SP]expect[SP]to\nfind[SP]something[SP]like[SP]that[SP]at[SP]a[SP]ramen[SP]shop?",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 138,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Clair de Lune, ce restaurant, non?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Rumeur qu'ils avaient"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une arme légendaire."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Clair de Lune's that restaurant, right?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "There was a rumor they had a legendary weapon."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Clair de Lune, ce restaurant, non?[1205][U+000F]\nRumeur qu'ils avaient\nune arme légendaire.",
+   "brut_en": "Clair[SP]de[SP]Lune's[SP]that[SP]restaurant,[SP]right?[1205][U+000F]\nThere[SP]was[SP]a[SP]rumor[SP]they[SP]had[SP]a[SP]legendary[SP]weapon.",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 139,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vois."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le Comte de Time Castle veut juste"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vendre son arme légendaire le plus cher possible!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je vais poster ça maintenant."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I get it."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The Count at Time Castle just wants"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to sell his legendary weapon for as much as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he can! I'm gonna post about that right now."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vois.[1205][U+000F] Le Comte de Time Castle veut juste\nvendre son arme légendaire le plus cher possible!\nJe vais poster ça maintenant.",
+   "brut_en": "I[SP]get[SP]it.[1205][U+000F][SP]The[SP]Count[SP]at[SP]Time[SP]Castle[SP]just[SP]wants\nto[SP]sell[SP]his[SP]legendary[SP]weapon[SP]for[SP]as[SP]much[SP]as\nhe[SP]can![SP]I'm[SP]gonna[SP]post[SP]about[SP]that[SP]right[SP]now.",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 140,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai vérifié, et l'arme censée être à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Time Castle n'y est pas encore."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Le propriétaire n'est pas allé la chercher."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I did some checking, and the weapon that's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "supposed to be at Time Castle isn't there"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "yet."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The owner hasn't gone to pick it up."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai vérifié, et l'arme censée être à\nTime Castle n'y est pas encore.[1205][U+000F]\nLe propriétaire n'est pas allé la chercher.",
+   "brut_en": "I[SP]did[SP]some[SP]checking,[SP]and[SP]the[SP]weapon[SP]that's\nsupposed[SP]to[SP]be[SP]at[SP]Time[SP]Castle[SP]isn't[SP]there\nyet.[1205][U+000F][SP]The[SP]owner[SP]hasn't[SP]gone[SP]to[SP]pick[SP]it[SP]up.",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 141,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quoi!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Les démons existent?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ils ont volé l'arme légendaire de Time Castle!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So demons actually exist?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " B-But they"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "stole the legendary weapon from Time Castle!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quoi!?[1205][U+000A] Les démons existent?[1205][U+000A]\nIls ont volé l'arme légendaire de Time Castle!",
+   "brut_en": "What!?[1205][U+000A][SP]So[SP]demons[SP]actually[SP]exist?[1205][U+000A][SP]B-But[SP]they\nstole[SP]the[SP]legendary[SP]weapon[SP]from[SP]Time[SP]Castle!",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 142,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une femme à l'air malheureux a acheté"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'arme légendaire de Time Castle."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Si tu la trouves, elle la vendra..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard an unhappy-looking woman bought the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "legendary weapon from Time Castle. Maybe if"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you find her, she'll sell it to you..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une femme à l'air malheureux a acheté\nl'arme légendaire de Time Castle.\nSi tu la trouves, elle la vendra...",
+   "brut_en": "I[SP]heard[SP]an[SP]unhappy-looking[SP]woman[SP]bought[SP]the\nlegendary[SP]weapon[SP]from[SP]Time[SP]Castle.[SP]Maybe[SP]if\nyou[SP]find[SP]her,[SP]she'll[SP]sell[SP]it[SP]to[SP]you...",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 143,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'as entendu? Le Comte a offert"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "son arme légendaire à une fille"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aux cheveux courts."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Did you hear? The Count at Time Castle gave"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "his legendary weapon as a gift to a girl with"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "short hair."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'as entendu? Le Comte a offert\nson arme légendaire à une fille\naux cheveux courts.",
+   "brut_en": "Did[SP]you[SP]hear?[SP]The[SP]Count[SP]at[SP]Time[SP]Castle[SP]gave\nhis[SP]legendary[SP]weapon[SP]as[SP]a[SP]gift[SP]to[SP]a[SP]girl[SP]with\nshort[SP]hair.",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 144,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le deuxième étage du Zodiac"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est un grand labyrinthe. Certains"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "y ont même trouvé des trésors."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I heard the second floor of Zodiac is a giant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "maze. Some people have even found treasure"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in there."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le deuxième étage du Zodiac\nest un grand labyrinthe. Certains\ny ont même trouvé des trésors.",
+   "brut_en": "I[SP]heard[SP]the[SP]second[SP]floor[SP]of[SP]Zodiac[SP]is[SP]a[SP]giant\nmaze.[SP]Some[SP]people[SP]have[SP]even[SP]found[SP]treasure\nin[SP]there.",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 145,
+   "nom_fr": "Homme gros",
+   "nom_en": "Fat man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Selon les rumeurs, les fleurs du parc Aoba"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "parlent. J'espère que c'est une fantaisie—"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "trop effrayant si c'était vrai."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "According to the rumors, the flowers at Aoba"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Park can talk. I hope that's just someone's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fantasy--it'd be too scary if it was real."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Selon les rumeurs, les fleurs du parc Aoba\nparlent. J'espère que c'est une fantaisie—\ntrop effrayant si c'était vrai.",
+   "brut_en": "According[SP]to[SP]the[SP]rumors,[SP]the[SP]flowers[SP]at[SP]Aoba\nPark[SP]can[SP]talk.[SP]I[SP]hope[SP]that's[SP]just[SP]someone's\nfantasy--it'd[SP]be[SP]too[SP]scary[SP]if[SP]it[SP]was[SP]real.",
+   "data_size": 288,
+   "budget": 280
+  },
+  {
+   "id": 146,
+   "nom_fr": "IntervenantV",
+   "nom_en": "Speaker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aucun objet à vendre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You don't have any items you can sell."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aucun objet à vendre.",
+   "brut_en": "You[SP]don't[SP]have[SP]any[SP]items[SP]you[SP]can[SP]sell.",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 147,
+   "nom_fr": "Sœur n°3",
+   "nom_en": "Sister #3",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça fait  yens."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous le voulez?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's  yen in total."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Do you want it?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Ça fait  yens."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Vous le voulez?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "That's  yen in total."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Do you want it?"
+     }
+    ]
+   },
+   "brut_fr": "Ça fait [120E][NULL] yens.\nVous le voulez?\n[1208][0002]Oui\nNon",
+   "brut_en": "That's[SP][120E][NULL][SP]yen[SP]in[SP]total.\nDo[SP]you[SP]want[SP]it?\n[1208][0002]Yes\nNo",
+   "data_size": 128,
+   "budget": 120
+  },
+  {
+   "id": 148,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Comment manger?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Choisis juste "
+      },
+      {
+       "enc": "Manger ici."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So you want me to tell you how to eat."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Okay... Just choose "
+      },
+      {
+       "enc": "Dine in."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Comment manger?\nChoisis juste [1432][NULL][NULL][0014]Manger ici.[1432][NULL][NULL][0014]",
+   "brut_en": "So[SP]you[SP]want[SP]me[SP]to[SP]tell[SP]you[SP]how[SP]to[SP]eat.\nOkay...[SP]Just[SP]choose[SP][1432][NULL][NULL][0014]Dine[SP]in.[1432][NULL][NULL][0014]",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 149,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La nourriture monte tes stats un moment."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Différents plats, différents effets."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "T'as compris?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Food can raise your stats for a while."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Different food does different things."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Are you getting all this?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La nourriture monte tes stats un moment.\nDifférents plats, différents effets.\nT'as compris?",
+   "brut_en": "Food[SP]can[SP]raise[SP]your[SP]stats[SP]for[SP]a[SP]while.\nDifferent[SP]food[SP]does[SP]different[SP]things.\nAre[SP]you[SP]getting[SP]all[SP]this?",
+   "data_size": 232,
+   "budget": 224
+  },
+  {
+   "id": 150,
+   "nom_fr": "Gamin fainéant",
+   "nom_en": "Lazy boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une fois mangé, tu peux pas remanger"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avant la fin des effets. Voilà."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Once you've eaten, you can't eat again"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "until the effects wear off. That's it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une fois mangé, tu peux pas remanger\navant la fin des effets. Voilà.",
+   "brut_en": "Once[SP]you've[SP]eaten,[SP]you[SP]can't[SP]eat[SP]again\nuntil[SP]the[SP]effects[SP]wear[SP]off.[SP]That's[SP]it.",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 151,
+   "nom_fr": "",
+   "nom_en": "Speaker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Total :  yens. Vendre ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's  yen total. Sell?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Total :  yens. Vendre ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "It's  yen total. Sell?"
+     }
+    ]
+   },
+   "brut_fr": "Total : [120E][NULL] yens. Vendre ?\n[1208][0002]Oui\nNon",
+   "brut_en": "It's[SP][120E][NULL][SP]yen[SP]total.[SP]Sell?\n[1208][0002]Yes\nNo",
+   "data_size": 94,
+   "budget": 86
+  }
+ ]
+}

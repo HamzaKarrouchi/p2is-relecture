@@ -1,0 +1,380 @@
+{
+ "no": 255,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Joueur de baseball",
+   "nom_en": "Baseball player",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai enfin une place de titulaire!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Héhé, plus personne ne me traitera"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de remplaçant! La ligue majeure,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'arrive! À moi les groupies!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've finally got a spot in the starting lineup!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Heheh, no one can call me a benchwarmer now!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big leagues, here I come! Bring on the groupies!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai enfin une place de titulaire!\nHéhé, plus personne ne me traitera\nde remplaçant! La ligue majeure,\nj'arrive! À moi les groupies!",
+   "brut_en": "I've[SP]finally[SP]got[SP]a[SP]spot[SP]in[SP]the[SP]starting[SP]lineup!\nHeheh,[SP]no[SP]one[SP]can[SP]call[SP]me[SP]a[SP]benchwarmer[SP]now!\nBig[SP]leagues,[SP]here[SP]I[SP]come![SP]Bring[SP]on[SP]the[SP]groupies!",
+   "data_size": 324,
+   "budget": 316
+  },
+  {
+   "id": 1,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le "
+      },
+      {
+       "enc": "lycée Seven Sisters"
+      },
+      {
+       "t": " a un nom"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bizarre. Le nom de Sumaru vient des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pléiades, et le lycée semble nommé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'après ces sept sœurs."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Seven Sisters High"
+      },
+      {
+       "t": " is an odd name. Sumaru's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "name comes from the Pleiades, and the school"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "seems to be named after those seven sisters."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le [1432][NULL][NULL][0014]lycée Seven Sisters[1432][NULL][NULL][0014] a un nom\nbizarre. Le nom de Sumaru vient des\nPléiades, et le lycée semble nommé\nd'après ces sept sœurs.",
+   "brut_en": "[1432][NULL][NULL][0014]Seven[SP]Sisters[SP]High[1432][NULL][NULL][0014][SP]is[SP]an[SP]odd[SP]name.[SP]Sumaru's\nname[SP]comes[SP]from[SP]the[SP]Pleiades,[SP]and[SP]the[SP]school\nseems[SP]to[SP]be[SP]named[SP]after[SP]those[SP]seven[SP]sisters.",
+   "data_size": 322,
+   "budget": 314
+  },
+  {
+   "id": 2,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais le nom est si long que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la plupart disent juste Seven."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'aimais bien le design de l'emblème,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais plus depuis qu'il est maudit."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But the name's so long that most people find it"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "easier to say Sevens. I always liked the emblem"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "design, but not once I found out it's cursed."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais le nom est si long que\nla plupart disent juste Seven.\nJ'aimais bien le design de l'emblème,\nmais plus depuis qu'il est maudit.",
+   "brut_en": "But[SP]the[SP]name's[SP]so[SP]long[SP]that[SP]most[SP]people[SP]find[SP]it\neasier[SP]to[SP]say[SP]Sevens.[SP]I[SP]always[SP]liked[SP]the[SP]emblem\ndesign,[SP]but[SP]not[SP]once[SP]I[SP]found[SP]out[SP]it's[SP]cursed.",
+   "data_size": 322,
+   "budget": 314
+  },
+  {
+   "id": 3,
+   "nom_fr": "Manager",
+   "nom_en": "Team manager",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est étrange. Il a toujours"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "été un pur remplaçant et là"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'un coup, il enchaîne les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "home runs?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now that's strange. He always used to be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "strictly a second-stringer and suddenly he's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "knocking 'em out of the park?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est étrange. Il a toujours\nété un pur remplaçant et là\nd'un coup, il enchaîne les\nhome runs?",
+   "brut_en": "Now[SP]that's[SP]strange.[SP]He[SP]always[SP]used[SP]to[SP]be\nstrictly[SP]a[SP]second-stringer[SP]and[SP]suddenly[SP]he's\nknocking[SP]'em[SP]out[SP]of[SP]the[SP]park?",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 4,
+   "nom_fr": "Manager",
+   "nom_en": "Team manager",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un gars avec tes réflexes,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "oui, mais cet idiot ne s'entraîne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jamais! Il a dû recevoir des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "implants cybernétiques..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A guy with your reflexes, sure, but that fool"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "never practices! He must've gotten some kind of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cybernetic implants..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un gars avec tes réflexes,\noui, mais cet idiot ne s'entraîne\njamais! Il a dû recevoir des\nimplants cybernétiques...",
+   "brut_en": "A[SP]guy[SP]with[SP]your[SP]reflexes,[SP]sure,[SP]but[SP]that[SP]fool\nnever[SP]practices![SP]He[SP]must've[SP]gotten[SP]some[SP]kind[SP]of\ncybernetic[SP]implants...",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 5,
+   "nom_fr": "Lycéen bandé",
+   "nom_en": "Bandaged male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bon sang, où est passée Chikarin!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oh, c'est une fille du journal"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du lycée... Elle en connaît un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rayon sur les rumeurs."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dammit, where'd Chikarin go!? Oh, she's this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "girl on the school newspaper staff... She knows"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a ton about rumors."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bon sang, où est passée Chikarin!?\nOh, c'est une fille du journal\ndu lycée... Elle en connaît un\nrayon sur les rumeurs.",
+   "brut_en": "Dammit,[SP]where'd[SP]Chikarin[SP]go!?[SP]Oh,[SP]she's[SP]this\ngirl[SP]on[SP]the[SP]school[SP]newspaper[SP]staff...[SP]She[SP]knows\na[SP]ton[SP]about[SP]rumors.",
+   "data_size": 278,
+   "budget": 270
+  }
+ ]
+}

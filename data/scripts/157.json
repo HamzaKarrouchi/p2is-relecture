@@ -1,0 +1,1457 @@
+{
+ "no": 157,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "... Oublie ce que j’ai dit, j’avais besoin de m’exprimer."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "... Don't worry about what I said"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "earlier. I just had to speak my mind."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]... Oublie ce que j’ai dit, j’avais besoin de m’exprimer.",
+   "brut_en": "[1113]...[SP]Don't[SP]worry[SP]about[SP]what[SP]I[SP]said\nearlier.[SP]I[SP]just[SP]had[SP]to[SP]speak[SP]my[SP]mind.",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je ne veux pas être un frein pour toi... Ahaha... Pas le meilleur moment pour dire, hein?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't want to be a drag on you..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ahaha..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Not the best time to bring this up, is it?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je ne veux pas être un frein pour toi... Ahaha... Pas le meilleur moment pour dire, hein?",
+   "brut_en": "I[SP]don't[SP]want[SP]to[SP]be[SP]a[SP]drag[SP]on[SP]you...[1205][001E][SP]Ahaha...\nNot[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko ",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pas le meilleur moment pour ça, hein ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Not the best time to bring this up, is it?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Contente que tu penses ça.",
+     "Je ne pense qu'à Maya.",
+     "Je ne pense qu'à Jun.",
+     "Mon cœur est à Eikichi !",
+     "......"
+    ],
+    "question": [
+     {
+      "t": "Pas le meilleur moment pour ça, hein ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "I'm glad you feel that way.",
+     "I'm only interested in Maya.",
+     "I'm only interested in Jun.",
+     "My heart belongs to Eikichi!",
+     "......"
+    ],
+    "question": [
+     {
+      "t": "Not the best time to bring this up, is it?"
+     }
+    ]
+   },
+   "brut_fr": "Pas le meilleur moment pour ça, hein ?\n[1208][U+0005][1432][NULL][NULL][0014]Contente que tu penses ça.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je ne pense qu'à Maya.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je ne pense qu'à Jun.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Mon cœur est à Eikichi ![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]......[1432][NULL][NULL][0014]",
+   "brut_en": "Not[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?\n[1208][U+0005][1432][NULL][NULL][0014]I'm[SP]glad[SP]you[SP]feel[SP]that[SP]way.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'm[SP]only[SP]interested[SP]in[SP]Maya.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'm[SP]only[SP]interested[SP]in[SP]Jun.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]My[SP]heart[SP]belongs[SP]to[SP]Eikichi![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]......[1432][NULL][NULL][0014]",
+   "data_size": 434,
+   "budget": 426
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vraiment...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je te prends"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au mot, tu sais..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Really...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm gonna hold you to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that, you know..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein...?[1205][001E] Vraiment...?[1205][001E] Je te prends\nau mot, tu sais...",
+   "brut_en": "Huh...?[1205][001E][SP]Really...?[1205][001E][SP]I'm[SP]gonna[SP]hold[SP]you[SP]to\nthat,[SP]you[SP]know...",
+   "data_size": 148,
+   "budget": 140
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah... Ahahah! Je suis si heureux que j'en ai les yeux qui piquent... E-Eheh..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah... Ahahah!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm so happy that I'm getting"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a little misty-eyed..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " E-Eheheh..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah... Ahahah! Je suis si heureux que j'en ai les yeux qui piquent... E-Eheh...",
+   "brut_en": "Ah...[SP]Ahahah![1205][001E][SP]I'm[SP]so[SP]happy[SP]that[SP]I'm[SP]getting\na[SP]little[SP]misty-eyed...[1205][001E][SP]E-Eheheh...",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "’avais le pressentiment que tu dirais ça... Hé, c’est OK. Je vaux rien face à Maya-chan."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I had a feeling you'd say that..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hey, it's okay."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm not much now compared to Maya-chan."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "’avais le pressentiment que tu dirais ça... Hé, c’est OK. Je vaux rien face à Maya-chan.",
+   "brut_en": "I[SP]had[SP]a[SP]feeling[SP]you'd[SP]say[SP]that...[1205][001E][SP]Hey,[SP]it's[SP]okay.\nI'm[SP]not[SP]much[SP]now[SP]compared[SP]to[SP]Maya-chan.",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 6,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais un jour, je serai si incroyable que tu ne pourras pas m'ignorer... Hé, une fille peut rêver, non?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But someday, I'll be such an awesome catch"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that you can't help but notice me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hey, a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "girl can dream, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais un jour, je serai si incroyable que tu ne pourras pas m'ignorer... Hé, une fille peut rêver, non?",
+   "brut_en": "But[SP]someday,[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me...[1205][001E][SP]Hey,[SP]a\ngirl[SP]can[SP]dream,[SP]right?",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 7,
+   "nom_fr": "Ginko ",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "S-Sérieusement… ? Oh… Euh… J’sais pas quoi dire… T’es libre d’aimer qui tu veux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "S-Seriously...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Oh... Uh... Well, I don't know"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "what to say to that... You're free to like"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "whoever you want..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "S-Sérieusement… ? Oh… Euh… J’sais pas quoi dire… T’es libre d’aimer qui tu veux.",
+   "brut_en": "S-Seriously...?[1205][001E][SP]Oh...[SP]Uh...[SP]Well,[SP]I[SP]don't[SP]know\nwhat[SP]to[SP]say[SP]to[SP]that...[SP]You're[SP]free[SP]to[SP]like\nwhoever[SP]you[SP]want...",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 8,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais un jour, je serai si incroyable que tu ne pourras pas m'ignorer... Hé, une fille peut rêver, non?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But someday, I'll be such an awesome catch"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that you can't help but notice me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hey, a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "girl can dream, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais un jour, je serai si incroyable que tu ne pourras pas m'ignorer... Hé, une fille peut rêver, non?",
+   "brut_en": "But[SP]someday,[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me...[1205][001E][SP]Hey,[SP]a\ngirl[SP]can[SP]dream,[SP]right?",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 9,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé! C’est pas drôle, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, c'mon!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That's not funny, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé! C’est pas drôle, [1113] !",
+   "brut_en": "Oh,[SP]c'mon![1205][001E][SP]That's[SP]not[SP]funny,[SP][1113]!",
+   "data_size": 90,
+   "budget": 82
+  },
+  {
+   "id": 10,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu essaies juste d’éviter la question, non? Un jour, je serai si incroyable que tu ne pourras pas m’ignorer!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're just trying to dodge the question,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "right? Well, someday I'll be such an awesome"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "catch that you can't help but notice me!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu essaies juste d’éviter la question, non? Un jour, je serai si incroyable que tu ne pourras pas m’ignorer!",
+   "brut_en": "You're[SP]just[SP]trying[SP]to[SP]dodge[SP]the[SP]question,\nright?[SP]Well,[SP]someday[SP]I'll[SP]be[SP]such[SP]an[SP]awesome\ncatch[SP]that[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me!",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 11,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heh, c’est OK. Qui resterait pas perdu après une déclaration?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heh, it's okay. Who wouldn't be at a loss"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "after hearing that out of the blue?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Heh, c’est OK. Qui resterait pas perdu après une déclaration?",
+   "brut_en": "Heh,[SP]it's[SP]okay.[SP]Who[SP]wouldn't[SP]be[SP]at[SP]a[SP]loss\nafter[SP]hearing[SP]that[SP]out[SP]of[SP]the[SP]blue?",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 12,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu essaies juste d’éviter la question, non? Un jour, je serai si incroyable que tu ne pourras pas m’ignorer!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're trying to dodge the question, huh?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Well, someday I'll be such an awesome catch"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that you can't help but notice me!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu essaies juste d’éviter la question, non? Un jour, je serai si incroyable que tu ne pourras pas m’ignorer!",
+   "brut_en": "You're[SP]trying[SP]to[SP]dodge[SP]the[SP]question,[SP]huh?\nWell,[SP]someday[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me!",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 13,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*siffle* Elle est toujours aussi passionnée. C’est dur d’être un séducteur, hein?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*whistle*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " She's as passionate as ever."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It's tough being a ladykiller, isn't it?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*siffle* Elle est toujours aussi passionnée. C’est dur d’être un séducteur, hein?",
+   "brut_en": "*whistle*[1205][001E][SP]She's[SP]as[SP]passionate[SP]as[SP]ever.\nIt's[SP]tough[SP]being[SP]a[SP]ladykiller,[SP]isn't[SP]it?",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 14,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haha... Lisa est toujours directe, comme dans souvenir..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahah..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Lisa's still as blunt as I remember"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "her to be..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Haha... Lisa est toujours directe, comme dans souvenir...",
+   "brut_en": "Hahah...[1205][001E][SP]Lisa's[SP]still[SP]as[SP]blunt[SP]as[SP]I[SP]remember\nher[SP]to[SP]be...",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 15,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sérieux! C'était une sacré déclaration...Même moi, j'ai rougi! "
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Seriously! That was one hell of a confession..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Even I was blushing!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sérieux! C'était une sacré déclaration...Même moi, j'ai rougi! ",
+   "brut_en": "Seriously![SP]That[SP]was[SP]one[SP]hell[SP]of[SP]a[SP]confession...\nEven[SP]I[SP]was[SP]blushing!",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 16,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je ne vais pas laisser un déprimé et une vieille me surpasser!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm not letting a mopey guy and an old lady"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "get the best of me!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je ne vais pas laisser un déprimé et une vieille me surpasser!",
+   "brut_en": "I'm[SP]not[SP]letting[SP]a[SP]mopey[SP]guy[SP]and[SP]an[SP]old[SP]lady\nget[SP]the[SP]best[SP]of[SP]me!",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 17,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ooh, tu veux la guerre? Viens te battre!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oooh, are you declaring war? I'm not going"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "down without a fight!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ooh, tu veux la guerre? Viens te battre!",
+   "brut_en": "Oooh,[SP]are[SP]you[SP]declaring[SP]war?[SP]I'm[SP]not[SP]going\ndown[SP]without[SP]a[SP]fight!",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 18,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Maintenant. On y va?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Shall we...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Maintenant. On y va?",
+   "brut_en": "Now...[1205][001E][SP]Shall[SP]we...?",
+   "data_size": 62,
+   "budget": 54
+  },
+  {
+   "id": 19,
+   "nom_fr": "Crâne de cristal de la Terre",
+   "nom_en": "Earth crystal skull",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je suis le crâne de la terre éternelle...Si mon sommeil est troublé, l’eau débordera et le vent errera sans but..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I am the skull of everlasting earth..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "slumber is disturbed, water will run rampant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and wind will have no destination..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je suis le crâne de la terre éternelle...Si mon sommeil est troublé, l’eau débordera et le vent errera sans but...",
+   "brut_en": "I[SP]am[SP]the[SP]skull[SP]of[SP]everlasting[SP]earth...[1205][001E][SP]If[SP]my\nslumber[SP]is[SP]disturbed,[SP]water[SP]will[SP]run[SP]rampant\nand[SP]wind[SP]will[SP]have[SP]no[SP]destination...",
+   "data_size": 308,
+   "budget": 300
+  },
+  {
+   "id": 20,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On a les 4 crânes! Et enfin le suivant--"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now we have four skulls! The next one's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "finally--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On a les 4 crânes! Et enfin le suivant--",
+   "brut_en": "Now[SP]we[SP]have[SP]four[SP]skulls![SP]The[SP]next[SP]one's\nfinally--",
+   "data_size": 122,
+   "budget": 114
+  },
+  {
+   "id": 21,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Comment tu captes du réseau...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "How are you getting reception...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Comment tu captes du réseau...?",
+   "brut_en": "How[SP]are[SP]you[SP]getting[SP]reception...?",
+   "data_size": 94,
+   "budget": 86
+  },
+  {
+   "id": 22,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allô, c'est Maya."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hello, Maya speaking."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Allô, c'est Maya.",
+   "brut_en": "Hello,[SP]Maya[SP]speaking.",
+   "data_size": 64,
+   "budget": 56
+  },
+  {
+   "id": 23,
+   "nom_fr": "Voix de Tamaki",
+   "nom_en": "Tamaki's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Maya?! Désolé de te déranger, mais on a des ennuis!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Maya-san!? Sorry to bother you, but we've"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "got trouble!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Maya?! Désolé de te déranger, mais on a des ennuis!",
+   "brut_en": "Maya-san!?[SP]Sorry[SP]to[SP]bother[SP]you,[SP]but[SP]we've\ngot[SP]trouble!",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 24,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wh-Whaou! Tamaki-san, calme-toi et..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wh-Whoa! What's wrong, Tamaki-san?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Calm down and..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Wh-Whaou! Tamaki-san, calme-toi et...",
+   "brut_en": "Wh-Whoa![SP]What's[SP]wrong,[SP]Tamaki-san?\nCalm[SP]down[SP]and...",
+   "data_size": 124,
+   "budget": 116
+  },
+  {
+   "id": 25,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "QUOI!? Taureau a pris Mme Idéale!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "WHAT!? Prince Taurus took Ms. Ideal!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "QUOI!? Taureau a pris Mme Idéale!?",
+   "brut_en": "WHAT!?[SP]Prince[SP]Taurus[SP]took[SP]Ms.[SP]Ideal!?",
+   "data_size": 96,
+   "budget": 88
+  },
+  {
+   "id": 26,
+   "nom_fr": "Voix de Tamaki",
+   "nom_en": "Tamaki's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça a frappé pendant qu’on était sortis... Désolé, Tadashi était là, mais il s’est fait démolir..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "He struck when the Chief and I were out..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sorry! Tadashi was there, but he got creamed"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pretty bad..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça a frappé pendant qu’on était sortis... Désolé, Tadashi était là, mais il s’est fait démolir...",
+   "brut_en": "He[SP]struck[SP]when[SP]the[SP]Chief[SP]and[SP]I[SP]were[SP]out...\nSorry![SP]Tadashi[SP]was[SP]there,[SP]but[SP]he[SP]got[SP]creamed\npretty[SP]bad...",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 27,
+   "nom_fr": "Voix de Tamaki",
+   "nom_en": "Tamaki's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et d'après Tadashi, ce type-taureau parlait d'un sacrifice!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And from what Tadashi said, that bull guy was"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "saying something about a sacrifice!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et d'après Tadashi, ce type-taureau parlait d'un sacrifice!",
+   "brut_en": "And[SP]from[SP]what[SP]Tadashi[SP]said,[SP]that[SP]bull[SP]guy[SP]was\nsaying[SP]something[SP]about[SP]a[SP]sacrifice!",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 28,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bien sûr... Quelle négligence de ma part. La femme qui a écrit In Lak'ech avec mon père s'appelait Okamura..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Of course... How careless of me."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The woman who"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "authored the In Lak'ech with my father was"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "named Maya Okamura..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bien sûr... Quelle négligence de ma part. La femme qui a écrit In Lak'ech avec mon père s'appelait Okamura...",
+   "brut_en": "Of[SP]course...[SP]How[SP]careless[SP]of[SP]me.[1205][001E][SP]The[SP]woman[SP]who\nauthored[SP]the[SP]In[SP]Lak'ech[SP]with[SP]my[SP]father[SP]was\nnamed[SP]Maya[SP]Okamura...",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 29,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Selon Père, quand l'Oracle se réalisera,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "celle en qui le sang maïen coule sera"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sacrifiée... Elle est la "
+      },
+      {
+       "enc": "Vierge Maia."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Father said she would be sacrificed when the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oracle was fulfilled, as the one with Maian"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "blood... She is the "
+      },
+      {
+       "enc": "Maia Maiden."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Selon Père, quand l'Oracle se réalisera,\ncelle en qui le sang maïen coule sera\nsacrifiée... Elle est la [1432][NULL][NULL][0014]Vierge Maia.[1432][NULL][NULL][0014]",
+   "brut_en": "Father[SP]said[SP]she[SP]would[SP]be[SP]sacrificed[SP]when[SP]the\nOracle[SP]was[SP]fulfilled,[SP]as[SP]the[SP]one[SP]with[SP]Maian\nblood...[SP]She[SP]is[SP]the[SP][1432][NULL][NULL][0014]Maia[SP]Maiden.[1432][NULL][NULL][0014]",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 30,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce pervers vit encore ?! Pourquoi une femme mûre comme elle ?!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That perv's still alive!? What's he want a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "middle-aged lady like her for!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce pervers vit encore ?! Pourquoi une femme mûre comme elle ?!",
+   "brut_en": "That[SP]perv's[SP]still[SP]alive!?[SP]What's[SP]he[SP]want[SP]a\nmiddle-aged[SP]lady[SP]like[SP]her[SP]for!?",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 31,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Leur destination est sans doute Xibalba. On peut les suivre par la Porte du Ciel à Seven... la Pierre Narurato."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Their destination is no doubt Xibalba. We"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "should be able to follow them through Heaven's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Gate at Sevens..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " the Narurato Stone."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Leur destination est sans doute Xibalba. On peut les suivre par la Porte du Ciel à Seven... la Pierre Narurato.",
+   "brut_en": "Their[SP]destination[SP]is[SP]no[SP]doubt[SP]Xibalba.[SP]We\nshould[SP]be[SP]able[SP]to[SP]follow[SP]them[SP]through[SP]Heaven's\nGate[SP]at[SP]Sevens...[1205][001E][SP]the[SP]Narurato[SP]Stone.",
+   "data_size": 276,
+   "budget": 268
+  },
+  {
+   "id": 32,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aie!? C'est le secret de la Pierre Narurato!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah!? That's the secret of the Narurato Stone!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aie!? C'est le secret de la Pierre Narurato!?",
+   "brut_en": "Aiyah!?[SP]That's[SP]the[SP]secret[SP]of[SP]the[SP]Narurato[SP]Stone!?",
+   "data_size": 122,
+   "budget": 114
+  },
+  {
+   "id": 33,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Parfait ! Plus tôt on y va, mieux c’est. Direction Seven!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Gotcha! The sooner we leave the better."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Next stop, Sevens!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Parfait ! Plus tôt on y va, mieux c’est. Direction Seven!",
+   "brut_en": "Gotcha![SP]The[SP]sooner[SP]we[SP]leave[SP]the[SP]better.\nNext[SP]stop,[SP]Sevens!",
+   "data_size": 138,
+   "budget": 130
+  }
+ ]
+}

@@ -1,0 +1,8823 @@
+{
+ "no": 85,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu as trop de sets d'Encens, miaou!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je ne peux plus t'en donner, miaou!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You have too many Incense sets, meow! I can't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "give you any more, meow!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu as trop de sets d'Encens, miaou!\nJe ne peux plus t'en donner, miaou!",
+   "brut_en": "You[SP]have[SP]too[SP]many[SP]Incense[SP]sets,[SP]meow![SP]I[SP]can't\ngive[SP]you[SP]any[SP]more,[SP]meow!",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 1,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vois..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous n'étiez pas du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bataillon."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I see..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So you weren't part of the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Last Battalion."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vois...[1205][001E] Vous n'étiez pas du\nBataillon.",
+   "brut_en": "I[SP]see...[1205][001E][SP]So[SP]you[SP]weren't[SP]part[SP]of[SP]the\nLast[SP]Battalion.",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On vous le demande..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quoi ce... bata... lion... machin!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We keep asking you..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " What is this..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "battle... lion... thing!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On vous le demande...[1205][001E] C'est\nquoi ce... bata... lion... machin!?",
+   "brut_en": "We[SP]keep[SP]asking[SP]you...[1205][001E][SP]What[SP]is[SP]this...\nbattle...[SP]lion...[SP]thing!?",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yo, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ". Ça va? La ville"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "était un chaos, hein?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yo, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ". No problems? The city was a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mess, huh?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Yo, [1113]. Ça va? La ville\nétait un chaos, hein?",
+   "brut_en": "Yo,[SP][1113].[SP]No[SP]problems?[SP]The[SP]city[SP]was[SP]a\nmess,[SP]huh?",
+   "data_size": 118,
+   "budget": 110
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je pige rien aux délires de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cette femme..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sérieux,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "il se passe quoi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I can't make sense of this woman's ravings..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Seriously, what's going on?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je pige rien aux délires de\ncette femme...[1205][001E] Sérieux,\nil se passe quoi?",
+   "brut_en": "I[SP]can't[SP]make[SP]sense[SP]of[SP]this[SP]woman's[SP]ravings...[1205][001E]\nSeriously,[SP]what's[SP]going[SP]on?",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 5,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On a répandu la rumeur, comme"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maya l'a suggéré, mais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le reste"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est incertain. On devrait se préparer"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "au pire."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We spread the rumor, like Maya-san suggested,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The rest is still up in the air. We should"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "brace ourselves for the worst."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On a répandu la rumeur, comme\nMaya l'a suggéré, mais...[1205][001E] Le reste\nest incertain. On devrait se préparer\nau pire.",
+   "brut_en": "We[SP]spread[SP]the[SP]rumor,[SP]like[SP]Maya-san[SP]suggested,\nbut...[1205][001E][SP]The[SP]rest[SP]is[SP]still[SP]up[SP]in[SP]the[SP]air.[SP]We[SP]should\nbrace[SP]ourselves[SP]for[SP]the[SP]worst.",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 6,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé, tous! Regardez la télé!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, everyone! Check out the TV!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé, tous! Regardez la télé!",
+   "brut_en": "Hey,[SP]everyone![SP]Check[SP]out[SP]the[SP]TV!",
+   "data_size": 90,
+   "budget": 82
+  },
+  {
+   "id": 7,
+   "nom_fr": "Présentatrice",
+   "nom_en": "Anchorwoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Les enfants affirment avoir été"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sauvés par les cinq individus"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "actuellement recherchés pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "incendie criminel."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...And we've just heard from the children"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "who claim to have been saved by the five"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "individuals currently wanted for arson."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Les enfants affirment avoir été\nsauvés par les cinq individus\nactuellement recherchés pour\nincendie criminel.",
+   "brut_en": "...And[SP]we've[SP]just[SP]heard[SP]from[SP]the[SP]children\nwho[SP]claim[SP]to[SP]have[SP]been[SP]saved[SP]by[SP]the[SP]five\nindividuals[SP]currently[SP]wanted[SP]for[SP]arson.",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 8,
+   "nom_fr": "Présentateur",
+   "nom_en": "Anchorman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une version les dépeint comme de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vicieux terroristes, l'autre en fait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des héros..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais laquelle de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ces rumeurs est vraie?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "One side of the story paints them as vicious"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "terrorists, while the other portrays them as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "heroes..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But which of the rumors is true?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une version les dépeint comme de\nvicieux terroristes, l'autre en fait\ndes héros...[1205][001E] Mais laquelle de\nces rumeurs est vraie?",
+   "brut_en": "One[SP]side[SP]of[SP]the[SP]story[SP]paints[SP]them[SP]as[SP]vicious\nterrorists,[SP]while[SP]the[SP]other[SP]portrays[SP]them[SP]as\nheroes...[1205][001E][SP]But[SP]which[SP]of[SP]the[SP]rumors[SP]is[SP]true?",
+   "data_size": 300,
+   "budget": 292
+  },
+  {
+   "id": 9,
+   "nom_fr": "Présentatrice",
+   "nom_en": "Anchorwoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ailleurs, une étrange rumeur circule"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur cette même vague de terrorisme."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "In other news, there's a bizarre rumor"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "making the rounds regarding this same"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "terrorist spree."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ailleurs, une étrange rumeur circule\nsur cette même vague de terrorisme.",
+   "brut_en": "In[SP]other[SP]news,[SP]there's[SP]a[SP]bizarre[SP]rumor\nmaking[SP]the[SP]rounds[SP]regarding[SP]this[SP]same\nterrorist[SP]spree.",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 10,
+   "nom_fr": "Présentatrice",
+   "nom_en": "Anchorwoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Certains disent que c'est l'œuvre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de radicaux du Führer,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cherchant des ruines antiques cachées"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dans Sumaru..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Some are claiming that it was the work of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the remaining radicals of the Fuhrer seeking"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ancient ruins hidden in Sumaru City..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Certains disent que c'est l'œuvre\nde radicaux du Führer,\ncherchant des ruines antiques cachées\ndans Sumaru...",
+   "brut_en": "Some[SP]are[SP]claiming[SP]that[SP]it[SP]was[SP]the[SP]work[SP]of\nthe[SP]remaining[SP]radicals[SP]of[SP]the[SP]Fuhrer[SP]seeking\nancient[SP]ruins[SP]hidden[SP]in[SP]Sumaru[SP]City...",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 11,
+   "nom_fr": "Analyste militaire",
+   "nom_en": "International military analyst",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est absurde! Impossible que ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Bataillon"
+      },
+      {
+       "t": " existe. C'est une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumeur infondée, purement et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "simplement."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's preposterous! There's no way this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Last Battalion"
+      },
+      {
+       "t": " could exist. It's a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "baseless rumor, pure and simple."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est absurde! Impossible que ce\n[1432][NULL][NULL][0014]Bataillon[1432][NULL][NULL][0014] existe. C'est une\nrumeur infondée, purement et\nsimplement.",
+   "brut_en": "That's[SP]preposterous![SP]There's[SP]no[SP]way[SP]this\n[1432][NULL][NULL][0014]Last[SP]Battalion[1432][NULL][NULL][0014][SP]could[SP]exist.[SP]It's[SP]a\nbaseless[SP]rumor,[SP]pure[SP]and[SP]simple.",
+   "data_size": 306,
+   "budget": 298
+  },
+  {
+   "id": 12,
+   "nom_fr": "Éditeur Occulte",
+   "nom_en": "Occult magazine EIC",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous dites ça, mais des récits du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "monde entier suggèrent qu'il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "existe! Des témoins fiables disent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que le Führer vit..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So you say, but there are accounts from"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "around the globe hinting at its existence!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Reliable witnesses say the Fuhrer lives..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous dites ça, mais des récits du\nmonde entier suggèrent qu'il\nexiste! Des témoins fiables disent\nque le Führer vit...",
+   "brut_en": "So[SP]you[SP]say,[SP]but[SP]there[SP]are[SP]accounts[SP]from\naround[SP]the[SP]globe[SP]hinting[SP]at[SP]its[SP]existence!\nReliable[SP]witnesses[SP]say[SP]the[SP]Fuhrer[SP]lives...",
+   "data_size": 302,
+   "budget": 294
+  },
+  {
+   "id": 13,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ils ont raison! Le Bataillon"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "existe! Ce sont eux qui ont"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tué Kashihara!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They're right! The Last Battalion does"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "exist! It was them who killed Kashihara!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ils ont raison! Le Bataillon\nexiste! Ce sont eux qui ont\ntué Kashihara!",
+   "brut_en": "They're[SP]right![SP]The[SP]Last[SP]Battalion[SP]does\nexist![SP]It[SP]was[SP]them[SP]who[SP]killed[SP]Kashihara!",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 14,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ciaaao..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pardon..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ciaaao..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sorry I'm late..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ciaaao...[1205][001E] Pardon...",
+   "brut_en": "Ciaaao...[1205][001E][SP]Sorry[SP]I'm[SP]late...",
+   "data_size": 80,
+   "budget": 72
+  },
+  {
+   "id": 15,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, euh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bien, tout le monde"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est là. Pourriez-vous commencer"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "par dire ce que vous savez?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, uh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Okay, I guess everyone's here"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "now, so could you start by telling us what"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you know?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh, euh...[1205][001E] Bien, tout le monde\nest là. Pourriez-vous commencer\npar dire ce que vous savez?",
+   "brut_en": "Oh,[SP]uh...[1205][001E][SP]Okay,[SP]I[SP]guess[SP]everyone's[SP]here\nnow,[SP]so[SP]could[SP]you[SP]start[SP]by[SP]telling[SP]us[SP]what\nyou[SP]know?",
+   "data_size": 214,
+   "budget": 206
+  },
+  {
+   "id": 16,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Avant ça, je veux savoir certaines"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "choses. Comment... connaissez-vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'Oracle de Maia?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Before that, I want to know some things"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "from you. How... do you know about the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oracle of Maia?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Avant ça, je veux savoir certaines\nchoses. Comment... connaissez-vous\nl'Oracle de Maia?",
+   "brut_en": "Before[SP]that,[SP]I[SP]want[SP]to[SP]know[SP]some[SP]things\nfrom[SP]you.[SP]How...[SP]do[SP]you[SP]know[SP]about[SP]the\nOracle[SP]of[SP]Maia?",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 17,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A-Alors c'est ça!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il est donc"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "indéniable que le Cercle masqué"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est le Bataillon!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "S-So that's it!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Then there's no denying that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the Masked Circle is the Last Battalion!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "A-Alors c'est ça!?[1205][001E] Il est donc\nindéniable que le Cercle masqué\nest le Bataillon!",
+   "brut_en": "S-So[SP]that's[SP]it!?[1205][001E][SP]Then[SP]there's[SP]no[SP]denying[SP]that\nthe[SP]Masked[SP]Circle[SP]is[SP]the[SP]Last[SP]Battalion!",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 18,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le Bataillon est l'unité"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qui a aidé le Führer à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fuir en secret!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Last Battalion is an elite unit which"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "helped the Fuhrer escape in secret!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le Bataillon est l'unité\nqui a aidé le Führer à\nfuir en secret!",
+   "brut_en": "The[SP]Last[SP]Battalion[SP]is[SP]an[SP]elite[SP]unit[SP]which\nhelped[SP]the[SP]Fuhrer[SP]escape[SP]in[SP]secret!",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 19,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une armée folle avec des armes de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pointe et une relique ayant absorbé le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sang du Christ, résolue à assouvir la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rancune du Führer!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "An insane army with cutting-edge weaponry and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a powerful relic that absorbed Christ's blood,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bent on enacting the Fuhrer's grudge!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une armée folle avec des armes de\npointe et une relique ayant absorbé le\nsang du Christ, résolue à assouvir la\nrancune du Führer!",
+   "brut_en": "An[SP]insane[SP]army[SP]with[SP]cutting-edge[SP]weaponry[SP]and\na[SP]powerful[SP]relic[SP]that[SP]absorbed[SP]Christ's[SP]blood,\nbent[SP]on[SP]enacting[SP]the[SP]Fuhrer's[SP]grudge!",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 20,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C-C'est impossible..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bref,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le Cercle masqué est..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Th-That's impossible..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I mean, the Masked"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Circle is..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C-C'est impossible...[1205][001E] Bref,\nle Cercle masqué est...",
+   "brut_en": "Th-That's[SP]impossible...[1205][001E][SP]I[SP]mean,[SP]the[SP]Masked\nCircle[SP]is...",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 21,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tout est dans ce livre... Ce qu'ils"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "font est conforme à l'Oracle de Maia"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dans l'"
+      },
+      {
+       "enc": "In Lak'ech"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's all in this book... Everything they're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "doing is in accordance with the Oracle of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maia in the "
+      },
+      {
+       "enc": "In Lak'ech"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tout est dans ce livre... Ce qu'ils\nfont est conforme à l'Oracle de Maia\ndans l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014]!",
+   "brut_en": "It's[SP]all[SP]in[SP]this[SP]book...[SP]Everything[SP]they're\ndoing[SP]is[SP]in[SP]accordance[SP]with[SP]the[SP]Oracle[SP]of\nMaia[SP]in[SP]the[SP][1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014]!",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 22,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'Oracle de Maia fut laissé par les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aliens Pléiadiens qui ont civilisé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les humains..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est un message"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "confié par les Maïens!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Oracle of Maia was left by the Pleiades"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aliens who gifted humans with civilization..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It's a message entrusted to us by the Maians!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'Oracle de Maia fut laissé par les\naliens Pléiadiens qui ont civilisé\nles humains...[1205][001E] C'est un message\nconfié par les Maïens!",
+   "brut_en": "The[SP]Oracle[SP]of[SP]Maia[SP]was[SP]left[SP]by[SP]the[SP]Pleiades\naliens[SP]who[SP]gifted[SP]humans[SP]with[SP]civilization...[1205][001E]\nIt's[SP]a[SP]message[SP]entrusted[SP]to[SP]us[SP]by[SP]the[SP]Maians!",
+   "data_size": 306,
+   "budget": 298
+  },
+  {
+   "id": 23,
+   "nom_fr": "Eikichi/Yukino",
+   "nom_en": "Eikichi & Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quoi!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Aliens!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Aliens!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quoi!?[1205][001E] Aliens!?",
+   "brut_en": "Huh!?[1205][001E][SP]Aliens!?",
+   "data_size": 78,
+   "budget": 70
+  },
+  {
+   "id": 24,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous pensiez qu'on a évolué du singe"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tout seuls!? L'histoire n'a pas la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "réponse! Comment l'Homme est allé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "si loin, si vite!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Did you really think we evolved from apes on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "our own!? The answers aren't in the history"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "books! How did man come so far, so fast!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous pensiez qu'on a évolué du singe\ntout seuls!? L'histoire n'a pas la\nréponse! Comment l'Homme est allé\nsi loin, si vite!?",
+   "brut_en": "Did[SP]you[SP]really[SP]think[SP]we[SP]evolved[SP]from[SP]apes[SP]on\nour[SP]own!?[SP]The[SP]answers[SP]aren't[SP]in[SP]the[SP]history\nbooks![SP]How[SP]did[SP]man[SP]come[SP]so[SP]far,[SP]so[SP]fast!?",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 25,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a des preuves mondiales de leur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "présence passée! Cela prouve que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'humanité a été guidée par une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "race avancée!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's evidence all over the world of their"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "presence in ancient times! It proves that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mankind was guided by an advanced race!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a des preuves mondiales de leur\nprésence passée! Cela prouve que\nl'humanité a été guidée par une\nrace avancée!",
+   "brut_en": "There's[SP]evidence[SP]all[SP]over[SP]the[SP]world[SP]of[SP]their\npresence[SP]in[SP]ancient[SP]times![SP]It[SP]proves[SP]that\nmankind[SP]was[SP]guided[SP]by[SP]an[SP]advanced[SP]race!",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 26,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kashihara, qui a tenté de le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prouver, était un homme bon"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec des rêves concrets..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kashihara, who tried to prove it, was a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "kind man with a strong resolve and concrete"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dreams..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Kashihara, qui a tenté de le\nprouver, était un homme bon\navec des rêves concrets...",
+   "brut_en": "Kashihara,[SP]who[SP]tried[SP]to[SP]prove[SP]it,[SP]was[SP]a\nkind[SP]man[SP]with[SP]a[SP]strong[SP]resolve[SP]and[SP]concrete\ndreams...",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 27,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai travaillé avec le médium Sudou"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et Kashihara..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ce livre est le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fruit de notre rêve..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I worked with Sudou-kun, the medium, and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Kashihara..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " This book is the fruit of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "we three's dream..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai travaillé avec le médium Sudou\net Kashihara...[1205][001E] Ce livre est le\nfruit de notre rêve...",
+   "brut_en": "I[SP]worked[SP]with[SP]Sudou-kun,[SP]the[SP]medium,[SP]and\nKashihara...[1205][001E][SP]This[SP]book[SP]is[SP]the[SP]fruit[SP]of\nwe[SP]three's[SP]dream...",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 28,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A-Alors... Ces fou--"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je veux dire,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce fruit de vos rêves... Qu'est-ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que ça a à voir avec Sumaru?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "S-So... This cockama--"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "I mean, this fruit of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "your dreams... What does that have to do"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "with Sumaru City?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "A-Alors... Ces fou--[1205][001E] Je veux dire,\nce fruit de vos rêves... Qu'est-ce\nque ça a à voir avec Sumaru?",
+   "brut_en": "S-So...[SP]This[SP]cockama--[1205][001E]I[SP]mean,[SP]this[SP]fruit[SP]of\nyour[SP]dreams...[SP]What[SP]does[SP]that[SP]have[SP]to[SP]do\nwith[SP]Sumaru[SP]City?",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 29,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sous nous, le monde souterrain où"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dorment les Maïens..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le Vaisseau"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba y est! De nombreuses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "civilisations y sont nées..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Underneath us is the netherworld where the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maians sleep..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The Starship Xibalba is there!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "All sorts of civilizations originated here..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sous nous, le monde souterrain où\ndorment les Maïens...[1205][001E] Le Vaisseau\nXibalba y est! De nombreuses\ncivilisations y sont nées...",
+   "brut_en": "Underneath[SP]us[SP]is[SP]the[SP]netherworld[SP]where[SP]the\nMaians[SP]sleep...[1205][001E][SP]The[SP]Starship[SP]Xibalba[SP]is[SP]there!\nAll[SP]sorts[SP]of[SP]civilizations[SP]originated[SP]here...",
+   "data_size": 306,
+   "budget": 298
+  },
+  {
+   "id": 30,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais les anciens Maïens d'ici"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sont morts dans une guerre civile"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "intergalactique..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Les vainqueurs,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les Bolontiku, contrôlent Xibalba..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But the ancient Maians that thrived here died"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in an intergalactic civil war..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The victors were"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the Bolontiku race that controls Xibalba..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais les anciens Maïens d'ici\nsont morts dans une guerre civile\nintergalactique...[1205][001E] Les vainqueurs,\nles Bolontiku, contrôlent Xibalba...",
+   "brut_en": "But[SP]the[SP]ancient[SP]Maians[SP]that[SP]thrived[SP]here[SP]died\nin[SP]an[SP]intergalactic[SP]civil[SP]war...[1205][001E][SP]The[SP]victors[SP]were\nthe[SP]Bolontiku[SP]race[SP]that[SP]controls[SP]Xibalba...",
+   "data_size": 314,
+   "budget": 306
+  },
+  {
+   "id": 31,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les mythes mayas le prouvent. Bien"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que cette civilisation soit un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "souvenir ancien..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Leurs ruines"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "étaient modelées sur Sumaru."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Mayan myths of South America prove it."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Though that civilization is an ancient memory"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "now..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Their ruins were all modeled on Sumaru."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les mythes mayas le prouvent. Bien\nque cette civilisation soit un\nsouvenir ancien...[1205][001E] Leurs ruines\nétaient modelées sur Sumaru.",
+   "brut_en": "The[SP]Mayan[SP]myths[SP]of[SP]South[SP]America[SP]prove[SP]it.\nThough[SP]that[SP]civilization[SP]is[SP]an[SP]ancient[SP]memory\nnow...[1205][001E][SP]Their[SP]ruins[SP]were[SP]all[SP]modeled[SP]on[SP]Sumaru.",
+   "data_size": 306,
+   "budget": 298
+  },
+  {
+   "id": 32,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Q-Quelle imagination..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pourquoi le Cercle masqué et le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bataillon veulent ce Xibalba?"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Mme Idéale",
+     "seg": [
+      {
+       "t": "Car quand l'Oracle sera accompli,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba et les crânes de cristal"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "exauceront le rêve de l'humanité..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T-Talk about a fertile imagination..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "So why is the Masked Circle and Last"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Battalion after this Xibalba?"
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Ms. Ideal",
+     "seg": [
+      {
+       "t": "Because when the Oracle is fulfilled,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba and the crystal skulls will grant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mankind's ultimate dream..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Q-Quelle imagination...[1205][001E]\nPourquoi le Cercle masqué et le\nBataillon veulent ce Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Mme Idéale\nCar quand l'Oracle sera accompli,\nXibalba et les crânes de cristal\nexauceront le rêve de l'humanité...",
+   "brut_en": "T-Talk[SP]about[SP]a[SP]fertile[SP]imagination...[1205][001E]\nSo[SP]why[SP]is[SP]the[SP]Masked[SP]Circle[SP]and[SP]Last\nBattalion[SP]after[SP]this[SP]Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nBecause[SP]when[SP]the[SP]Oracle[SP]is[SP]fulfilled,\nXibalba[SP]and[SP]the[SP]crystal[SP]skulls[SP]will[SP]grant\nmankind's[SP]ultimate[SP]dream...",
+   "data_size": 490,
+   "budget": 482
+  },
+  {
+   "id": 33,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça fera de nous des Idéaliens..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Un état transhumain où on saisira"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le vrai sens de la vie."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It will end in us becoming Idealians..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "A transhuman state where we will understand"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the true meaning of life."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça fera de nous des Idéaliens...[1205][001E]\nUn état transhumain où on saisira\nle vrai sens de la vie.",
+   "brut_en": "It[SP]will[SP]end[SP]in[SP]us[SP]becoming[SP]Idealians...[1205][001E]\nA[SP]transhuman[SP]state[SP]where[SP]we[SP]will[SP]understand\nthe[SP]true[SP]meaning[SP]of[SP]life.",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 34,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça me semble bien..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On ne serait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plus contrariés par des broutilles."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sounds good to me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Then we wouldn't be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "so upset by trifles anymore."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça me semble bien...[1205][001E] On ne serait\nplus contrariés par des broutilles.",
+   "brut_en": "Sounds[SP]good[SP]to[SP]me...[1205][001E][SP]Then[SP]we[SP]wouldn't[SP]be\nso[SP]upset[SP]by[SP]trifles[SP]anymore.",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 35,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est loin d'être bien! En échange"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de l'évolution de certains, l'humanité"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "périra! On évolue face à l'extinction!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's far from good! In exchange for the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "evolution of a few, mankind will perish!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Organisms evolve when they face extinction!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est loin d'être bien! En échange\nde l'évolution de certains, l'humanité\npérira! On évolue face à l'extinction!",
+   "brut_en": "It's[SP]far[SP]from[SP]good![SP]In[SP]exchange[SP]for[SP]the\nevolution[SP]of[SP]a[SP]few,[SP]mankind[SP]will[SP]perish!\nOrganisms[SP]evolve[SP]when[SP]they[SP]face[SP]extinction!",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 36,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quand les formes-pensées Bolontiku"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prendront corps, ils détruiront tout!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est pour ça qu'on a gardé ça"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "secret!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "When the Bolontiku thoughtforms take physical"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bodies, they will bring destruction to all!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "That's why we didn't go public with this!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quand les formes-pensées Bolontiku\nprendront corps, ils détruiront tout![1205][001E]\nC'est pour ça qu'on a gardé ça\nsecret!",
+   "brut_en": "When[SP]the[SP]Bolontiku[SP]thoughtforms[SP]take[SP]physical\nbodies,[SP]they[SP]will[SP]bring[SP]destruction[SP]to[SP]all![1205][001E]\nThat's[SP]why[SP]we[SP]didn't[SP]go[SP]public[SP]with[SP]this!",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 37,
+   "nom_fr": "Voix de l'Éditeur",
+   "nom_en": "Occult magazine EIC's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Je veux vous montrer ici la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dernière sortie de notre division"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "livre, l'"
+      },
+      {
+       "enc": "In Lak'ech"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...I want to show you here the latest release"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "from our book division, the "
+      },
+      {
+       "enc": "In Lak'ech."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...Je veux vous montrer ici la\ndernière sortie de notre division\nlivre, l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014].",
+   "brut_en": "...I[SP]want[SP]to[SP]show[SP]you[SP]here[SP]the[SP]latest[SP]release\nfrom[SP]our[SP]book[SP]division,[SP]the[SP][1432][NULL][NULL][0014]In[SP]Lak'ech.[1432][NULL][NULL][0014]",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 38,
+   "nom_fr": "Éditeur Occulte",
+   "nom_en": "Occult magazine EIC",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il est rempli de vérités choquantes,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du Bataillon au gigantesque"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "OVNI lié à ces incidents. Lisez-le,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ou vous raterez quelque chose!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's full of shocking truths, from the Last"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Battalion to a giant UFO that ties into these"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "incidents. Read it, or you'll be missing out!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il est rempli de vérités choquantes,\ndu Bataillon au gigantesque\nOVNI lié à ces incidents. Lisez-le,\nou vous raterez quelque chose!",
+   "brut_en": "It's[SP]full[SP]of[SP]shocking[SP]truths,[SP]from[SP]the[SP]Last\nBattalion[SP]to[SP]a[SP]giant[SP]UFO[SP]that[SP]ties[SP]into[SP]these\nincidents.[SP]Read[SP]it,[SP]or[SP]you'll[SP]be[SP]missing[SP]out!",
+   "data_size": 322,
+   "budget": 314
+  },
+  {
+   "id": 39,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-Non...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " S-Sudou a fait ça...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Nous avions l'ordre strict de ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jamais le rendre public!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-No...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " D-Did Sudou-kun do this...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We were under strict orders never to go"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "public with it!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "N-Non...![1205][001E] S-Sudou a fait ça...?[1205][001E]\nNous avions l'ordre strict de ne\njamais le rendre public!",
+   "brut_en": "N-No...![1205][001E][SP]D-Did[SP]Sudou-kun[SP]do[SP]this...?[1205][001E]\nWe[SP]were[SP]under[SP]strict[SP]orders[SP]never[SP]to[SP]go\npublic[SP]with[SP]it!",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 40,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est un mensonge!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Le Cercle masqué est...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No! No!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " This is all a lie!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The Masked Circle is...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non![1205][001E] C'est un mensonge!\nLe Cercle masqué est...!",
+   "brut_en": "No![SP]No![1205][001E][SP]This[SP]is[SP]all[SP]a[SP]lie!\nThe[SP]Masked[SP]Circle[SP]is...!",
+   "data_size": 130,
+   "budget": 122
+  },
+  {
+   "id": 41,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi! Tu te souviens, n'est-ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas!? Nos jeux au "
+      },
+      {
+       "enc": "Cercle masqué"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi! You remember, don't you!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "About playing "
+      },
+      {
+       "enc": "the Masked Circle"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eikichi! Tu te souviens, n'est-ce\npas!? Nos jeux au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]!",
+   "brut_en": "Eikichi![SP]You[SP]remember,[SP]don't[SP]you!?\nAbout[SP]playing[SP][1432][NULL][NULL][0014]the[SP]Masked[SP]Circle[1432][NULL][NULL][0014]!",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 42,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je t'ai dit, c'était un rêve..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Like I said, that was in my dream..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je t'ai dit, c'était un rêve...",
+   "brut_en": "Like[SP]I[SP]said,[SP]that[SP]was[SP]in[SP]my[SP]dream...",
+   "data_size": 100,
+   "budget": 92
+  },
+  {
+   "id": 43,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Attends..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "as dit quoi...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " W-Wait..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " What did you just say...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "......![1205][001E] Attends...[1205][001E] Tu\nas dit quoi...?",
+   "brut_en": "......![1205][001E][SP]W-Wait...[1205][001E][SP]What[SP]did[SP]you[SP]just[SP]say...?",
+   "data_size": 122,
+   "budget": 114
+  },
+  {
+   "id": 44,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça me rappelle..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ton vrai nom est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Lisa, non...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " M-Me dis pas que lui"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aussi...!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That reminds me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Your actual name is Lisa,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "right...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " D-Don't tell me, him too...!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça me rappelle...[1205][001E] Ton vrai nom est\nLisa, non...!?[1205][001E] M-Me dis pas que lui\naussi...!?",
+   "brut_en": "That[SP]reminds[SP]me...[1205][001E][SP]Your[SP]actual[SP]name[SP]is[SP]Lisa,\nright...!?[1205][001E][SP]D-Don't[SP]tell[SP]me,[SP]him[SP]too...!?",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 45,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai désespérément essayé de me"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "convaincre que ce n'était qu'un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rêve..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'était réel!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've been desperately trying to convince"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "myself that it was just a dream..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It was real!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai désespérément essayé de me\nconvaincre que ce n'était qu'un\nrêve...[1205][001E] Mais...[1205][001E] C'était réel!",
+   "brut_en": "I've[SP]been[SP]desperately[SP]trying[SP]to[SP]convince\nmyself[SP]that[SP]it[SP]was[SP]just[SP]a[SP]dream...[1205][001E][SP]But...[1205][001E]\nIt[SP]was[SP]real!",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 46,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pitié... Venez au Sanctuaire Alaya"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec moi!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je dirai la vérité..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur le Cercle masqué... sur Joker..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tout!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Please... Come with me to the Alaya Shrine!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll tell you the truth... about the Masked"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Circle... about Joker..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " everything!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pitié... Venez au Sanctuaire Alaya\navec moi![1205][001E] Je dirai la vérité...\nsur le Cercle masqué... sur Joker...[1205][001E]\ntout!",
+   "brut_en": "Please...[SP]Come[SP]with[SP]me[SP]to[SP]the[SP]Alaya[SP]Shrine![1205][001E]\nI'll[SP]tell[SP]you[SP]the[SP]truth...[SP]about[SP]the[SP]Masked\nCircle...[SP]about[SP]Joker...[1205][001E][SP]everything!",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 47,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je comprends...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le Cercle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "masqué n'est pas une armée bizarre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "comme elle l'a dit!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I understand everything...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The Masked"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Circle isn't some weird army like she said!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je...[1205][001E] Je comprends...![1205][001E] Le Cercle\nmasqué n'est pas une armée bizarre\ncomme elle l'a dit!",
+   "brut_en": "I...[1205][001E][SP]I[SP]understand[SP]everything...![1205][001E][SP]The[SP]Masked\nCircle[SP]isn't[SP]some[SP]weird[SP]army[SP]like[SP]she[SP]said!",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 48,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allons au Sanctuaire Alaya!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je suis sûre que vous vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rappellerez aussi...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Please, we need to go to the Alaya Shrine!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "If we go, I'm sure you'll remember too...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Allons au Sanctuaire Alaya![1205][001E]\nJe suis sûre que vous vous\nrappellerez aussi...!",
+   "brut_en": "Please,[SP]we[SP]need[SP]to[SP]go[SP]to[SP]the[SP]Alaya[SP]Shrine![1205][001E]\nIf[SP]we[SP]go,[SP]I'm[SP]sure[SP]you'll[SP]remember[SP]too...!",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 49,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai fait une chose"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "horrible..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Comment me racheter...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I've done a terrible thing..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "How can I make up for it...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]...[1205][001E] J'ai fait une chose\nhorrible...[1205][001E] Comment me racheter...?",
+   "brut_en": "[1113]...[1205][001E][SP]I've[SP]done[SP]a[SP]terrible[SP]thing...[1205][001E]\nHow[SP]can[SP]I[SP]make[SP]up[SP]for[SP]it...?",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 50,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'y a-t-il? J'ai un truc sur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le visage?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " P'tit gars..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's wrong? Is there something on my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "face?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Little boy..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'y a-t-il? J'ai un truc sur\nle visage?[1205][001E] P'tit gars...",
+   "brut_en": "What's[SP]wrong?[SP]Is[SP]there[SP]something[SP]on[SP]my\nface?[1205][001E][SP]Little[SP]boy...",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 51,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé... Quittons ce taudis pour le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sanctuaire Alaya."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai hâte"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'entendre l'histoire que Lisa va"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nous y raconter..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heh... Let's leave this dump and get to the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Alaya Shrine."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I can't wait to hear the yarn"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Lisa's going to spin there..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé... Quittons ce taudis pour le\nSanctuaire Alaya.[1205][001E] J'ai hâte\nd'entendre l'histoire que Lisa va\nnous y raconter...",
+   "brut_en": "Heh...[SP]Let's[SP]leave[SP]this[SP]dump[SP]and[SP]get[SP]to[SP]the\nAlaya[SP]Shrine.[1205][001E][SP]I[SP]can't[SP]wait[SP]to[SP]hear[SP]the[SP]yarn\nLisa's[SP]going[SP]to[SP]spin[SP]there...",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 52,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Parfois, mieux vaut oublier."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Surtout les péchés qui ne peuvent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jamais être lavés..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sometimes things are best left forgotten."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Especially sins that can never be cleansed..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Parfois, mieux vaut oublier.[1205][001E]\nSurtout les péchés qui ne peuvent\njamais être lavés...",
+   "brut_en": "Sometimes[SP]things[SP]are[SP]best[SP]left[SP]forgotten.[1205][001E]\nEspecially[SP]sins[SP]that[SP]can[SP]never[SP]be[SP]cleansed...",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 53,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hélas, ça ne marche pas ainsi."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il faut expier ses péchés, non...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maintenant, allons au Mt. Iwato."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sadly, though, that's not how it goes in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "life. Sins must be atoned for, no...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Now let's go to Mt. Iwato."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hélas, ça ne marche pas ainsi.\nIl faut expier ses péchés, non...?[1205][001E]\nMaintenant, allons au Mt. Iwato.",
+   "brut_en": "Sadly,[SP]though,[SP]that's[SP]not[SP]how[SP]it[SP]goes[SP]in\nlife.[SP]Sins[SP]must[SP]be[SP]atoned[SP]for,[SP]no...?[1205][001E]\nNow[SP]let's[SP]go[SP]to[SP]Mt.[SP]Iwato.",
+   "data_size": 236,
+   "budget": 228
+  },
+  {
+   "id": 54,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est... C'est dingue..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu es CE ...!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This... This is crazy..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "THAT ...!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est... C'est dingue...[1205][001E] Tu...[1205][001E]\nTu es CE [1114]...!?",
+   "brut_en": "This...[SP]This[SP]is[SP]crazy...[1205][001E][SP]You...[1205][001E][SP]You're\nTHAT[SP][1114]...!?",
+   "data_size": 136,
+   "budget": 128
+  },
+  {
+   "id": 55,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Elle comprend tout...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vous prend-il tous?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Même Maya"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "n'est pas dans son état normal..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "She understands everything...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " What's gotten"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "into you all?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Even Maya-san's not her usual"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "self..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Elle comprend tout...?[1205][001E] Que\nvous prend-il tous?[1205][001E] Même Maya\nn'est pas dans son état normal...",
+   "brut_en": "She[SP]understands[SP]everything...?[1205][001E][SP]What's[SP]gotten\ninto[SP]you[SP]all?[1205][001E][SP]Even[SP]Maya-san's[SP]not[SP]her[SP]usual\nself...",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 56,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les aliens... Le Führer..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "maintenant jouer au "
+      },
+      {
+       "enc": "Cercle masqué"
+      },
+      {
+       "t": "...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il y a tant de choses que je saisis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aliens... The Fuhrer..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " And now this about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "playing the Masked Circle"
+      },
+      {
+       "t": "...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There's so"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "much I don't understand..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les aliens... Le Führer...[1205][001E] Et\nmaintenant jouer au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]...!?[1205][001E]\nIl y a tant de choses que je saisis\npas...",
+   "brut_en": "Aliens...[SP]The[SP]Fuhrer...[1205][001E][SP]And[SP]now[SP]this[SP]about\n[1432][NULL][NULL][0014]playing[SP]the[SP]Masked[SP]Circle[1432][NULL][NULL][0014]...!?[1205][001E][SP]There's[SP]so\nmuch[SP]I[SP]don't[SP]understand...",
+   "data_size": 272,
+   "budget": 264
+  },
+  {
+   "id": 57,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La rumeur des concours devrait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "se réaliser. Je m'occupe de les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "envoyer. Vous êtes trop occupés"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour le faire, pas vrai?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The magazine sweepstakes rumor should come"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "true now. I'll handle sending them in. You're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "too busy to do it yourselves, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La rumeur des concours devrait\nse réaliser. Je m'occupe de les\nenvoyer. Vous êtes trop occupés\npour le faire, pas vrai?",
+   "brut_en": "The[SP]magazine[SP]sweepstakes[SP]rumor[SP]should[SP]come\ntrue[SP]now.[SP]I'll[SP]handle[SP]sending[SP]them[SP]in.[SP]You're\ntoo[SP]busy[SP]to[SP]do[SP]it[SP]yourselves,[SP]right?",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 58,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bonjour ! Que puis-je faire ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hello there! What can I help you with?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Participer aux concours",
+     "Parler à Tamaki",
+     "Rien",
+     "Quitter l'agence"
+    ],
+    "question": [
+     {
+      "t": "Bonjour ! Que puis-je faire ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Enter magazine sweepstakes",
+     "Talk to Tamaki",
+     "Nothing",
+     "Leave the detective agency"
+    ],
+    "question": [
+     {
+      "t": "Hello there! What can I help you with?"
+     }
+    ]
+   },
+   "brut_fr": "Bonjour ! Que puis-je faire ?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\nQuitter l'agence",
+   "brut_en": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 59,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que puis-je faire ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What can I help you with?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Participer aux concours",
+     "Parler à Tamaki",
+     "Rien",
+     "Quitter l'agence"
+    ],
+    "question": [
+     {
+      "t": "Que puis-je faire ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Enter magazine sweepstakes",
+     "Talk to Tamaki",
+     "Nothing",
+     "Leave the detective agency"
+    ],
+    "question": [
+     {
+      "t": "What can I help you with?"
+     }
+    ]
+   },
+   "brut_fr": "Que puis-je faire ?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\n[1210][U+0159]Quitter l'agence",
+   "brut_en": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
+   "data_size": 238,
+   "budget": 230
+  },
+  {
+   "id": 60,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "De quoi voulez-vous parler?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What do you want to talk about?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Sur les concours",
+     "Rien"
+    ],
+    "question": [
+     {
+      "t": "De quoi voulez-vous parler?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about the sweepstakes",
+     "Nothing"
+    ],
+    "question": [
+     {
+      "t": "What do you want to talk about?"
+     }
+    ]
+   },
+   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nSur les concours\nRien",
+   "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 61,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Avez-vous vérifié vos précédents"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "concours? Les prix sont envoyés"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chez Lisa-chan, revenez quand vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aurez vu si vous avez gagné."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, did you check the ones you entered last"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "time? You get the prizes at Lisa-chan's house,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "so come back after you've seen if you won."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Avez-vous vérifié vos précédents\nconcours? Les prix sont envoyés\nchez Lisa-chan, revenez quand vous\naurez vu si vous avez gagné.",
+   "brut_en": "Oh,[SP]did[SP]you[SP]check[SP]the[SP]ones[SP]you[SP]entered[SP]last\ntime?[SP]You[SP]get[SP]the[SP]prizes[SP]at[SP]Lisa-chan's[SP]house,\nso[SP]come[SP]back[SP]after[SP]you've[SP]seen[SP]if[SP]you[SP]won.",
+   "data_size": 290,
+   "budget": 282
+  },
+  {
+   "id": 62,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D'accord!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Attendez... vous n'avez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas de magazines. Satomi Tadashi en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vend, revenez quand vous en aurez."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Wait... you don't have any magazines."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "They sell them at Satomi Tadashi, so come"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "back when you've bought some."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "D'accord![1205][001E] Attendez... vous n'avez\npas de magazines. Satomi Tadashi en\nvend, revenez quand vous en aurez.",
+   "brut_en": "Okay![1205][001E][SP]Wait...[SP]you[SP]don't[SP]have[SP]any[SP]magazines.\nThey[SP]sell[SP]them[SP]at[SP]Satomi[SP]Tadashi,[SP]so[SP]come\nback[SP]when[SP]you've[SP]bought[SP]some.",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 63,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ok! Voyons voir... On envoie ,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'est ça? Je vais mettre l'adresse"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de Lisa-chan pour la réception."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay! Let's see... We're sending off ,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "right? I'll put down Lisa-chan's place as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the receiving address."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ok! Voyons voir... On envoie [120E][U+0001],\nc'est ça? Je vais mettre l'adresse\nde Lisa-chan pour la réception.",
+   "brut_en": "Okay![SP]Let's[SP]see...[SP]We're[SP]sending[SP]off[SP][120E][U+0001],\nright?[SP]I'll[SP]put[SP]down[SP]Lisa-chan's[SP]place[SP]as\nthe[SP]receiving[SP]address.",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 64,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sûrs?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Are you sure?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Laissez tomber"
+    ],
+    "question": [
+     {
+      "t": "Sûrs?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "Never mind"
+    ],
+    "question": [
+     {
+      "t": "Are you sure?"
+     }
+    ]
+   },
+   "brut_fr": "Sûrs?\n[1208][0002]Oui\nLaissez tomber",
+   "brut_en": "Are[SP]you[SP]sure?\n[1208][0002]Yes\nNever[SP]mind",
+   "data_size": 86,
+   "budget": 78
+  },
+  {
+   "id": 65,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pigé! Je me charge de les envoyer."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'espère que vous gagnerez!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Gotcha! I'll take care of sending them in."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hope you win something!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pigé! Je me charge de les envoyer.\nJ'espère que vous gagnerez!",
+   "brut_en": "Gotcha![SP]I'll[SP]take[SP]care[SP]of[SP]sending[SP]them[SP]in.\nHope[SP]you[SP]win[SP]something!",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 66,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pigé! Et bien, revenez quand vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "voudrez participer aux concours."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Gotcha! Well, come back again when you want"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to enter the sweepstakes."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pigé! Et bien, revenez quand vous\nvoudrez participer aux concours.",
+   "brut_en": "Gotcha![SP]Well,[SP]come[SP]back[SP]again[SP]when[SP]you[SP]want\nto[SP]enter[SP]the[SP]sweepstakes.",
+   "data_size": 162,
+   "budget": 154
+  },
+  {
+   "id": 67,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est comme une loterie. Vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "envoyez des magazines pour tenter de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gagner un prix.Faut de la chance!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A sweepstakes is kind of like a raffle. You"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "send in magazines for chances to win a cool"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prize.It takes luck to win!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est comme une loterie. Vous\nenvoyez des magazines pour tenter de\ngagner un prix.[1121]Faut de la chance!",
+   "brut_en": "A[SP]sweepstakes[SP]is[SP]kind[SP]of[SP]like[SP]a[SP]raffle.[SP]You\nsend[SP]in[SP]magazines[SP]for[SP]chances[SP]to[SP]win[SP]a[SP]cool\nprize.[1121]It[SP]takes[SP]luck[SP]to[SP]win!",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 68,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Achetez des magazines de concours"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chez Satomi Tadashi, apportez-les-moi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et je les enverrai. Les prix"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vont chez Lisa-chan."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "First buy Sweepstakes Magazines at Satomi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tadashi, then bring them to me and I'll send"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "them in. Any prizes go to Lisa-chan's house."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Achetez des magazines de concours\nchez Satomi Tadashi, apportez-les-moi\net je les enverrai. Les prix\nvont chez Lisa-chan.",
+   "brut_en": "First[SP]buy[SP]Sweepstakes[SP]Magazines[SP]at[SP]Satomi\nTadashi,[SP]then[SP]bring[SP]them[SP]to[SP]me[SP]and[SP]I'll[SP]send\nthem[SP]in.[SP]Any[SP]prizes[SP]go[SP]to[SP]Lisa-chan's[SP]house.",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 69,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y a quelques règles! Une seule"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "participation à la fois. Pas de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nouvelles entrées tant que les résultats"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ne sont pas là. C'est comme ça."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There are a few rules! You can only enter one"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "contest at a time. No more entries until the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "last results are in. That's just how it works."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Y a quelques règles! Une seule\nparticipation à la fois. Pas de\nnouvelles entrées tant que les résultats\nne sont pas là. C'est comme ça.",
+   "brut_en": "There[SP]are[SP]a[SP]few[SP]rules![SP]You[SP]can[SP]only[SP]enter[SP]one\ncontest[SP]at[SP]a[SP]time.[SP]No[SP]more[SP]entries[SP]until[SP]the\nlast[SP]results[SP]are[SP]in.[SP]That's[SP]just[SP]how[SP]it[SP]works.",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 70,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aussi, max 99 magazines par"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "participation. Plus vous en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "envoyez, plus vous avez de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chances de gagner."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Also, you can only send in 99 magazines per"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entry. The more you send, the better your"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chances of winning."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aussi, max 99 magazines par\nparticipation. Plus vous en\nenvoyez, plus vous avez de\nchances de gagner.",
+   "brut_en": "Also,[SP]you[SP]can[SP]only[SP]send[SP]in[SP]99[SP]magazines[SP]per\nentry.[SP]The[SP]more[SP]you[SP]send,[SP]the[SP]better[SP]your\nchances[SP]of[SP]winning.",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 71,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Enfin, les résultats prennent du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "temps. Ne restez pas à attendre."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous devez vous balader dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les donjons."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Finally, it takes time for the results to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "come in. You can't just sit around and wait."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You have to walk around dungeons."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Enfin, les résultats prennent du\ntemps. Ne restez pas à attendre.\nVous devez vous balader dans\nles donjons.",
+   "brut_en": "Finally,[SP]it[SP]takes[SP]time[SP]for[SP]the[SP]results[SP]to\ncome[SP]in.[SP]You[SP]can't[SP]just[SP]sit[SP]around[SP]and[SP]wait.\nYou[SP]have[SP]to[SP]walk[SP]around[SP]dungeons.",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 72,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le reste dépend de votre chance!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "En insistant, vous pourriez obtenir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des objets rares..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The rest is up to persistence and luck!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "If you keep at it, you might get yourself"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "some rare items..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le reste dépend de votre chance!\nEn insistant, vous pourriez obtenir\ndes objets rares...",
+   "brut_en": "The[SP]rest[SP]is[SP]up[SP]to[SP]persistence[SP]and[SP]luck!\nIf[SP]you[SP]keep[SP]at[SP]it,[SP]you[SP]might[SP]get[SP]yourself\nsome[SP]rare[SP]items...",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 73,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Même si cette prof a tort et que le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Cercle masqué n'est pas le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bataillon..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le Cercle masqué suit-il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce livre?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Even if this teacher is wrong and the Masked"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Circle isn't the same as the Last Battalion..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is the Masked Circle following that book?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Même si cette prof a tort et que le\nCercle masqué n'est pas le\nBataillon...[1205][001E] Le Cercle masqué suit-il\nce livre?",
+   "brut_en": "Even[SP]if[SP]this[SP]teacher[SP]is[SP]wrong[SP]and[SP]the[SP]Masked\nCircle[SP]isn't[SP]the[SP]same[SP]as[SP]the[SP]Last[SP]Battalion...[1205][001E]\nIs[SP]the[SP]Masked[SP]Circle[SP]following[SP]that[SP]book?",
+   "data_size": 296,
+   "budget": 288
+  },
+  {
+   "id": 74,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ruines mayas... un vieux vaisseau..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'ai du mal à croire que ça existe."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais j'ai un mauvais pressentiment"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quand même..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mayan ruins... an ancient spaceship..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I have"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a hard time believing this stuff exists."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But I have a bad feeling anyway..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ruines mayas... un vieux vaisseau...[1205][001E]\nJ'ai du mal à croire que ça existe.[1205][001E]\nMais j'ai un mauvais pressentiment\nquand même...",
+   "brut_en": "Mayan[SP]ruins...[SP]an[SP]ancient[SP]spaceship...[1205][001E][SP]I[SP]have\na[SP]hard[SP]time[SP]believing[SP]this[SP]stuff[SP]exists.[1205][001E]\nBut[SP]I[SP]have[SP]a[SP]bad[SP]feeling[SP]anyway...",
+   "data_size": 276,
+   "budget": 268
+  },
+  {
+   "id": 75,
+   "nom_fr": "Tamaki",
+   "nom_en": "Tamaki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je m'occuperai de la paperasse"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des concours, tant que vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "m'apportez des magazines de concours."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'll handle the scutwork of making"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sweepstakes entries, just as long as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you bring me Sweepstakes Magazines."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je m'occuperai de la paperasse\ndes concours, tant que vous\nm'apportez des magazines de concours.",
+   "brut_en": "I'll[SP]handle[SP]the[SP]scutwork[SP]of[SP]making\nsweepstakes[SP]entries,[SP]just[SP]as[SP]long[SP]as\nyou[SP]bring[SP]me[SP]Sweepstakes[SP]Magazines.",
+   "data_size": 238,
+   "budget": 230
+  },
+  {
+   "id": 76,
+   "nom_fr": "Tadashi",
+   "nom_en": "Tadashi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "O-On a appris un terrible secret!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ce goût du danger et de la violence"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "appelle un homme..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "W-We've learned a terrible secret! It's this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "taste of danger and violence that calls to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a man..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "O-On a appris un terrible secret!\nCe goût du danger et de la violence\nappelle un homme...",
+   "brut_en": "W-We've[SP]learned[SP]a[SP]terrible[SP]secret![SP]It's[SP]this\ntaste[SP]of[SP]danger[SP]and[SP]violence[SP]that[SP]calls[SP]to\na[SP]man...",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 77,
+   "nom_fr": "Tadashi",
+   "nom_en": "Tadashi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " L'heure de révéler mes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vrais pouvoirs a sonné..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Oh, je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "devrais trouver une tenue de combat!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I-It seems the time to reveal my true"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "powers has come..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ooh, I should get a new"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "combat outfit!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé...[1205][001E] L'heure de révéler mes\nvrais pouvoirs a sonné...[1205][001E] Oh, je\ndevrais trouver une tenue de combat!",
+   "brut_en": "Heh...[1205][001E][SP]I-It[SP]seems[SP]the[SP]time[SP]to[SP]reveal[SP]my[SP]true\npowers[SP]has[SP]come...[1205][001E][SP]Ooh,[SP]I[SP]should[SP]get[SP]a[SP]new\ncombat[SP]outfit!",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 78,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kashihara... Les secrets de Xibalba"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que tu avais scellés sont devenus"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "publics...! Que dois-je faire...!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kashihara... The secrets of Xibalba you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sealed away have become public knowledge...!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "What should I do...!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Kashihara... Les secrets de Xibalba\nque tu avais scellés sont devenus\npublics...! Que dois-je faire...!?",
+   "brut_en": "Kashihara...[SP]The[SP]secrets[SP]of[SP]Xibalba[SP]you\nsealed[SP]away[SP]have[SP]become[SP]public[SP]knowledge...!\nWhat[SP]should[SP]I[SP]do...!?",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 79,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que dois-je faire...!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What should I do...!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "L'In Lak'ech",
+     "Le Bataillon",
+     "La laisser seule"
+    ],
+    "question": [
+     {
+      "t": "Que dois-je faire...!?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Ask about the In Lak'ech",
+     "Ask about the Last Battalion",
+     "Leave her be"
+    ],
+    "question": [
+     {
+      "t": "What should I do...!?"
+     }
+    ]
+   },
+   "brut_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon\nLa laisser seule",
+   "brut_en": "What[SP]should[SP]I[SP]do...!?\n[1208][U+0003]Ask[SP]about[SP]the[SP]In[SP]Lak'ech\nAsk[SP]about[SP]the[SP]Last[SP]Battalion\nLeave[SP]her[SP]be",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 80,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'y a-t-il!? Que voulez-vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "savoir sur l'In Lak'ech?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What is it!? What do you want to know about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the In Lak'ech?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'y a-t-il!? Que voulez-vous\nsavoir sur l'In Lak'ech?",
+   "brut_en": "What[SP]is[SP]it!?[SP]What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about\nthe[SP]In[SP]Lak'ech?",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 81,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que voulez-vous savoir sur l'In Lak'ech?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What do you want to know about the In Lak'ech?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Sur Kashihara",
+     "Sur Sudou",
+     "Le contenu",
+     "Les Maïens",
+     "L'Énergie Idéale"
+    ],
+    "question": [
+     {
+      "t": "Que voulez-vous savoir sur l'In Lak'ech?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "About Kashihara",
+     "About Sudou",
+     "About its contents",
+     "About Maians",
+     "About Ideal Energy"
+    ],
+    "question": [
+     {
+      "t": "What do you want to know about the In Lak'ech?"
+     }
+    ]
+   },
+   "brut_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maïens\nL'Énergie Idéale",
+   "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?\n[1208][U+0005]About[SP]Kashihara\nAbout[SP]Sudou\nAbout[SP]its[SP]contents\nAbout[SP]Maians\nAbout[SP]Ideal[SP]Energy",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 82,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il enseignait l'histoire à Septs Sœurs."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il était tourmenté à l'idée que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'histoire qu'il enseignait soit fausse..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "He was a world history teacher at Sevens with"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "me. He was always tormented that the history"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he taught his students might be untrue..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il enseignait l'histoire à Septs Sœurs.\nIl était tourmenté à l'idée que\nl'histoire qu'il enseignait soit fausse...",
+   "brut_en": "He[SP]was[SP]a[SP]world[SP]history[SP]teacher[SP]at[SP]Sevens[SP]with\nme.[SP]He[SP]was[SP]always[SP]tormented[SP]that[SP]the[SP]history\nhe[SP]taught[SP]his[SP]students[SP]might[SP]be[SP]untrue...",
+   "data_size": 296,
+   "budget": 288
+  },
+  {
+   "id": 83,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'était un rêveur aimant ses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "élèves."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pourtant il est mort de façon"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "si épouvantable..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "He was a dreamer, who loved his students very"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "much."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Yet he died in such a dreadful way..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'était un rêveur aimant ses\nélèves.[1205][001E] Pourtant il est mort de façon\nsi épouvantable...",
+   "brut_en": "He[SP]was[SP]a[SP]dreamer,[SP]who[SP]loved[SP]his[SP]students[SP]very\nmuch.[1205][001E][SP]Yet[SP]he[SP]died[SP]in[SP]such[SP]a[SP]dreadful[SP]way...",
+   "data_size": 214,
+   "budget": 206
+  },
+  {
+   "id": 84,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kashihara s'est toujours senti"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "observé en écrivant l'In Lak'ech!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kashihara always felt as though he was being"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "watched while writing the In Lak'ech!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Kashihara s'est toujours senti\nobservé en écrivant l'In Lak'ech!",
+   "brut_en": "Kashihara[SP]always[SP]felt[SP]as[SP]though[SP]he[SP]was[SP]being\nwatched[SP]while[SP]writing[SP]the[SP]In[SP]Lak'ech!",
+   "data_size": 196,
+   "budget": 188
+  },
+  {
+   "id": 85,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et on l'a trouvé mort, écrasé par"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les engrenages de la tour de l'horloge!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Le Bataillon a tué Kashihara!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And then he was found dead, crushed between"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the gears in the school's clock tower!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The Last Battalion killed Kashihara!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et on l'a trouvé mort, écrasé par\nles engrenages de la tour de l'horloge!\nLe Bataillon a tué Kashihara!",
+   "brut_en": "And[SP]then[SP]he[SP]was[SP]found[SP]dead,[SP]crushed[SP]between\nthe[SP]gears[SP]in[SP]the[SP]school's[SP]clock[SP]tower!\nThe[SP]Last[SP]Battalion[SP]killed[SP]Kashihara!",
+   "data_size": 270,
+   "budget": 262
+  },
+  {
+   "id": 86,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sudou était élève à Septs Sœurs..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'était un garçon timide, effrayé par"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "son père très strict."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sudou-kun was at Sevens too, as a student..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "He was a timid boy, afraid of his extremely"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "strict father."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sudou était élève à Septs Sœurs...[1205][001E]\nC'était un garçon timide, effrayé par\nson père très strict.",
+   "brut_en": "Sudou-kun[SP]was[SP]at[SP]Sevens[SP]too,[SP]as[SP]a[SP]student...[1205][001E]\nHe[SP]was[SP]a[SP]timid[SP]boy,[SP]afraid[SP]of[SP]his[SP]extremely\nstrict[SP]father.",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 87,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il faisait des problèmes, disait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entendre des voix, et la rumeur en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "faisait un pyromane. Mais il était"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dévoué à Kashihara..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "He was a troublemaker who complained of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hearing voices, and was rumored to be an"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "arsonist. But he was devoted to Kashihara..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il faisait des problèmes, disait\nentendre des voix, et la rumeur en\nfaisait un pyromane. Mais il était\ndévoué à Kashihara...",
+   "brut_en": "He[SP]was[SP]a[SP]troublemaker[SP]who[SP]complained[SP]of\nhearing[SP]voices,[SP]and[SP]was[SP]rumored[SP]to[SP]be[SP]an\narsonist.[SP]But[SP]he[SP]was[SP]devoted[SP]to[SP]Kashihara...",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 88,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est Kashihara qui a remarqué le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "don de Sudou. C'était un médium"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "capable d'entendre les voix des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maïens."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It was Kashihara who noticed Sudou-kun's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gift. He was a medium capable of hearing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the voices of the Maians."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est Kashihara qui a remarqué le\ndon de Sudou. C'était un médium\ncapable d'entendre les voix des\nMaïens.",
+   "brut_en": "It[SP]was[SP]Kashihara[SP]who[SP]noticed[SP]Sudou-kun's\ngift.[SP]He[SP]was[SP]a[SP]medium[SP]capable[SP]of[SP]hearing\nthe[SP]voices[SP]of[SP]the[SP]Maians.",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 89,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lentement, Kashihara a tiré de lui"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'Oracle de Maia. Sudou était heureux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'avoir quelqu'un pour le comprendre..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Slowly, Kashihara coaxed from him what"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "became the Oracle of Maia. Sudou-kun was"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "happy to have someone who understood him..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Lentement, Kashihara a tiré de lui\nl'Oracle de Maia. Sudou était heureux\nd'avoir quelqu'un pour le comprendre...",
+   "brut_en": "Slowly,[SP]Kashihara[SP]coaxed[SP]from[SP]him[SP]what\nbecame[SP]the[SP]Oracle[SP]of[SP]Maia.[SP]Sudou-kun[SP]was\nhappy[SP]to[SP]have[SP]someone[SP]who[SP]understood[SP]him...",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 90,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sudou a dû nous trahir et parler de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba au Bataillon! C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la seule explication!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sudou-kun must have betrayed us and told the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Last Battalion about Xibalba! It's the only"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "explanation!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sudou a dû nous trahir et parler de\nXibalba au Bataillon! C'est\nla seule explication!",
+   "brut_en": "Sudou-kun[SP]must[SP]have[SP]betrayed[SP]us[SP]and[SP]told[SP]the\nLast[SP]Battalion[SP]about[SP]Xibalba![SP]It's[SP]the[SP]only\nexplanation!",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 91,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "In Lak'ech"
+      },
+      {
+       "t": " signifie "
+      },
+      {
+       "enc": "tu es un autre moi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en maya."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est ainsi qu'on dit de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'oracle canalisé par Sudou."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "In Lak'ech"
+      },
+      {
+       "t": " means "
+      },
+      {
+       "enc": "you are another me"
+      },
+      {
+       "t": " in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mayan."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's what we called the oracle that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sudou-kun channeled."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014] signifie [1432][NULL][NULL][0014]tu es un autre moi[1432][NULL][NULL][0014]\nen maya.[1205][001E] C'est ainsi qu'on dit de\nl'oracle canalisé par Sudou.",
+   "brut_en": "[1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014][SP]means[SP][1432][NULL][NULL][0014]you[SP]are[SP]another[SP]me[1432][NULL][NULL][0014][SP]in\nMayan.[1205][001E][SP]It's[SP]what[SP]we[SP]called[SP]the[SP]oracle[SP]that\nSudou-kun[SP]channeled.",
+   "data_size": 272,
+   "budget": 264
+  },
+  {
+   "id": 92,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les Maïens ont jadis guidé notre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "évolution, bien que cette ère soit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "finie."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Notre civilisation en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est un vestige..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Maians guided our evolution once, though"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that stage is now lost."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Our civilization as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it stands is a remnant from then..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les Maïens ont jadis guidé notre\névolution, bien que cette ère soit\nfinie.[1205][001E] Notre civilisation en\nest un vestige...",
+   "brut_en": "The[SP]Maians[SP]guided[SP]our[SP]evolution[SP]once,[SP]though\nthat[SP]stage[SP]is[SP]now[SP]lost.[1205][001E][SP]Our[SP]civilization[SP]as\nit[SP]stands[SP]is[SP]a[SP]remnant[SP]from[SP]then...",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 93,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les Bolontiku ont détruit nos aïeux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et les Oxlahuntiku. Leur vaisseau,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba, repose sous cette ville..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Bolontiku destroyed our ancestors and the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oxlahuntiku. Their spaceship, Xibalba, lies"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "under this city..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les Bolontiku ont détruit nos aïeux\net les Oxlahuntiku. Leur vaisseau,\nXibalba, repose sous cette ville...",
+   "brut_en": "The[SP]Bolontiku[SP]destroyed[SP]our[SP]ancestors[SP]and[SP]the\nOxlahuntiku.[SP]Their[SP]spaceship,[SP]Xibalba,[SP]lies\nunder[SP]this[SP]city...",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 94,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Xibalba est la clé de notre évolution."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On ne peut évoluer sans lui..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sera au prix de l'extinction de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce monde!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Xibalba is the key to our evolution. We can't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "evolve without it..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But it will come at the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cost of this world's extinction!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Xibalba est la clé de notre évolution.\nOn ne peut évoluer sans lui...[1205][001E] Mais ce\nsera au prix de l'extinction de\nce monde!",
+   "brut_en": "Xibalba[SP]is[SP]the[SP]key[SP]to[SP]our[SP]evolution.[SP]We[SP]can't\nevolve[SP]without[SP]it...[1205][001E][SP]But[SP]it[SP]will[SP]come[SP]at[SP]the\ncost[SP]of[SP]this[SP]world's[SP]extinction!",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 95,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'Oracle promet le retour de Xibalba"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et la fin de tout! C'est pour cela"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que Kashihara a caché sa découverte,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et pourtant...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Oracle promises the revival of Xibalba"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and an end to everything! Kashihara sealed"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "his discovery for that reason, and yet...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'Oracle promet le retour de Xibalba\net la fin de tout! C'est pour cela\nque Kashihara a caché sa découverte,\net pourtant...!",
+   "brut_en": "The[SP]Oracle[SP]promises[SP]the[SP]revival[SP]of[SP]Xibalba\nand[SP]an[SP]end[SP]to[SP]everything![SP]Kashihara[SP]sealed\nhis[SP]discovery[SP]for[SP]that[SP]reason,[SP]and[SP]yet...!",
+   "data_size": 288,
+   "budget": 280
+  },
+  {
+   "id": 96,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les Maïens venaient des Pléiades."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Leurs deux factions étaient dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "un état perpétuel de guerre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "galactique..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Maians came here from the Pleiades."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The two factions amongst them were in a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "perpetual state of galactic war..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les Maïens venaient des Pléiades.\nLeurs deux factions étaient dans\nun état perpétuel de guerre\ngalactique...",
+   "brut_en": "The[SP]Maians[SP]came[SP]here[SP]from[SP]the[SP]Pleiades.\nThe[SP]two[SP]factions[SP]amongst[SP]them[SP]were[SP]in[SP]a\nperpetual[SP]state[SP]of[SP]galactic[SP]war...",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 97,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les Mayas vénéraient les Oxlahuntiku"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "comme dieux de lumière..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "craignaient les Bolontiku comme dieux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des enfers..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Mayans worshipped the Oxlahuntiku as gods"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of light..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " While they feared the Bolontiku"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "as gods of the netherworld..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les Mayas vénéraient les Oxlahuntiku\ncomme dieux de lumière...[1205][001E] Et\ncraignaient les Bolontiku comme dieux\ndes enfers...",
+   "brut_en": "The[SP]Mayans[SP]worshipped[SP]the[SP]Oxlahuntiku[SP]as[SP]gods\nof[SP]light...[1205][001E][SP]While[SP]they[SP]feared[SP]the[SP]Bolontiku\nas[SP]gods[SP]of[SP]the[SP]netherworld...",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 98,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Leur guerre a consumé notre système"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "solaire et les Oxlahuntiku ont péri..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est la source des mythes courants"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur le Déluge."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Their war consumed this solar system, and the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oxlahuntiku perished..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Those events are the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "source of common legends of the flood."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Leur guerre a consumé notre système\nsolaire et les Oxlahuntiku ont péri...[1205][001E]\nC'est la source des mythes courants\nsur le Déluge.",
+   "brut_en": "Their[SP]war[SP]consumed[SP]this[SP]solar[SP]system,[SP]and[SP]the\nOxlahuntiku[SP]perished...[1205][001E][SP]Those[SP]events[SP]are[SP]the\nsource[SP]of[SP]common[SP]legends[SP]of[SP]the[SP]flood.",
+   "data_size": 294,
+   "budget": 286
+  },
+  {
+   "id": 99,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais la victoire a coûté aux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bolontiku! Ils ont épuisé leur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "énergie et ont dû s'endormir!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But the victory took its toll on the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bolontiku! They ran out of power and were"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "forced into slumber!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais la victoire a coûté aux\nBolontiku! Ils ont épuisé leur\nénergie et ont dû s'endormir!",
+   "brut_en": "But[SP]the[SP]victory[SP]took[SP]its[SP]toll[SP]on[SP]the\nBolontiku![SP]They[SP]ran[SP]out[SP]of[SP]power[SP]and[SP]were\nforced[SP]into[SP]slumber!",
+   "data_size": 230,
+   "budget": 222
+  },
+  {
+   "id": 100,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aujourd'hui, ils dorment sous la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ville, absorbant l'Énergie Idéale en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rêvant du jour où ils s'éveilleront!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "To this day, they sleep below this city,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "absorbing Ideal Energy and dreaming of the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "day when they will awaken!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aujourd'hui, ils dorment sous la\nville, absorbant l'Énergie Idéale en\nrêvant du jour où ils s'éveilleront!",
+   "brut_en": "To[SP]this[SP]day,[SP]they[SP]sleep[SP]below[SP]this[SP]city,\nabsorbing[SP]Ideal[SP]Energy[SP]and[SP]dreaming[SP]of[SP]the\nday[SP]when[SP]they[SP]will[SP]awaken!",
+   "data_size": 252,
+   "budget": 244
+  },
+  {
+   "id": 101,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'Énergie Idéale est le pouvoir de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pensée des vivants..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "énergie psychologique basée sur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les idéaux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ideal Energy is the power of thought held by"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "us living beings..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's a psychological"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "energy based on one's ideals."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'Énergie Idéale est le pouvoir de\npensée des vivants...[1205][001E] C'est une\nénergie psychologique basée sur\nles idéaux.",
+   "brut_en": "Ideal[SP]Energy[SP]is[SP]the[SP]power[SP]of[SP]thought[SP]held[SP]by\nus[SP]living[SP]beings...[1205][001E][SP]It's[SP]a[SP]psychological\nenergy[SP]based[SP]on[SP]one's[SP]ideals.",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 102,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'énergie augmente quand on est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "passionné par ses idéaux ou quand"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "son rêve se réalise."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Elle se nourrit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de la joie de vivre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The energy is heightened most when one is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "passionate about one's ideals, or when one's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dream comes true."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's fed by joie de vivre."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'énergie augmente quand on est\npassionné par ses idéaux ou quand\nson rêve se réalise.[1205][001E] Elle se nourrit\nde la joie de vivre.",
+   "brut_en": "The[SP]energy[SP]is[SP]heightened[SP]most[SP]when[SP]one[SP]is\npassionate[SP]about[SP]one's[SP]ideals,[SP]or[SP]when[SP]one's\ndream[SP]comes[SP]true.[1205][001E][SP]It's[SP]fed[SP]by[SP]joie[SP]de[SP]vivre.",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 103,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est la source de pouvoir maïenne..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Les crânes de cristal sont des Ooparts"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "placés dans notre histoire pour la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "récolter!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ideal Energy is the Maian source of power..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "And the crystal skulls are OOPArts planted"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in mankind's history to collect it!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est la source de pouvoir maïenne...[1205][001E]\nLes crânes de cristal sont des Ooparts\nplacés dans notre histoire pour la\nrécolter!",
+   "brut_en": "Ideal[SP]Energy[SP]is[SP]the[SP]Maian[SP]source[SP]of[SP]power...[1205][001E]\nAnd[SP]the[SP]crystal[SP]skulls[SP]are[SP]OOPArts[SP]planted\nin[SP]mankind's[SP]history[SP]to[SP]collect[SP]it!",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 104,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est la clé de Xibalba et de sa"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "source de pouvoir! Qui contrôle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba et l'Énergie contrôle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le destin humain!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They're the keys to Xibalba and its power"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "source! Whoever controls Xibalba and Ideal"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Energy shall control mankind's fate!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est la clé de Xibalba et de sa\nsource de pouvoir! Qui contrôle\nXibalba et l'Énergie contrôle\nle destin humain!",
+   "brut_en": "They're[SP]the[SP]keys[SP]to[SP]Xibalba[SP]and[SP]its[SP]power\nsource![SP]Whoever[SP]controls[SP]Xibalba[SP]and[SP]Ideal\nEnergy[SP]shall[SP]control[SP]mankind's[SP]fate!",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 105,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quoi!? Que voulez-vous savoir?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What!? What do you want to know about them?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quoi!? Que voulez-vous savoir?",
+   "brut_en": "What!?[SP]What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]them?",
+   "data_size": 118,
+   "budget": 110
+  },
+  {
+   "id": 106,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que voulez-vous savoir?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What do you want to know about them?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Sur le Führer",
+     "Sur le Bataillon"
+    ],
+    "question": [
+     {
+      "t": "Que voulez-vous savoir?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "About the Fuhrer",
+     "About the Battalion itself"
+    ],
+    "question": [
+     {
+      "t": "What do you want to know about them?"
+     }
+    ]
+   },
+   "brut_fr": "Que voulez-vous savoir?\n[1208][0002]Sur le Führer\nSur le Bataillon",
+   "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]them?\n[1208][0002]About[SP]the[SP]Fuhrer\nAbout[SP]the[SP]Battalion[SP]itself",
+   "data_size": 196,
+   "budget": 188
+  },
+  {
+   "id": 107,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le plus grand et pire dictateur du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "siècle!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous savez ça,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'espère."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The greatest and worst dictator of the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "century!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You know that much, I hope."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le plus grand et pire dictateur du\nsiècle![1205][001E] Vous savez ça,\nj'espère.",
+   "brut_en": "The[SP]greatest[SP]and[SP]worst[SP]dictator[SP]of[SP]the\ncentury![1205][001E][SP]You[SP]know[SP]that[SP]much,[SP]I[SP]hope.",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 108,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Savez-vous pourquoi il a lancé une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "guerre mondiale? Son but était de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pousser l'Homme à l'extinction pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hâter son évolution!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But do you know why he started a world war?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "His true goal was to drive man to the brink"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of extinction and hasten our evolution!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Savez-vous pourquoi il a lancé une\nguerre mondiale? Son but était de\npousser l'Homme à l'extinction pour\nhâter son évolution!",
+   "brut_en": "But[SP]do[SP]you[SP]know[SP]why[SP]he[SP]started[SP]a[SP]world[SP]war?\nHis[SP]true[SP]goal[SP]was[SP]to[SP]drive[SP]man[SP]to[SP]the[SP]brink\nof[SP]extinction[SP]and[SP]hasten[SP]our[SP]evolution!",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 109,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il l'a dit! C'est un sorcier immortel"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ayant appris la magie de mystiques"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mayas. Il convoitait les secrets des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ruines du monde entier!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "He said so himself!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " He's an immortal sorcerer"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "who learned magic from Mayan mystics. He"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "craved the secrets of ruins around the world!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il l'a dit! C'est un sorcier immortel\nayant appris la magie de mystiques\nmayas. Il convoitait les secrets des\nruines du monde entier!",
+   "brut_en": "He[SP]said[SP]so[SP]himself![1205][001E][SP]He's[SP]an[SP]immortal[SP]sorcerer\nwho[SP]learned[SP]magic[SP]from[SP]Mayan[SP]mystics.[SP]He\ncraved[SP]the[SP]secrets[SP]of[SP]ruins[SP]around[SP]the[SP]world!",
+   "data_size": 300,
+   "budget": 292
+  },
+  {
+   "id": 110,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On vous a appris à l'école qu'il s'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "suicidé, mais il est bel et bien"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vivant! D'innombrables rumeurs le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "disent."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You probably learned in school that he killed"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "himself, but he's very much alive! There are"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "countless rumors saying so."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On vous a appris à l'école qu'il s'est\nsuicidé, mais il est bel et bien\nvivant! D'innombrables rumeurs le\ndisent.",
+   "brut_en": "You[SP]probably[SP]learned[SP]in[SP]school[SP]that[SP]he[SP]killed\nhimself,[SP]but[SP]he's[SP]very[SP]much[SP]alive![SP]There[SP]are\ncountless[SP]rumors[SP]saying[SP]so.",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 111,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et il a découvert le secret derrière"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba! Il va sûrement agir pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "réaliser son rêve de devenir un dieu!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And now he's figured out the secret behind"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba! He'll surely act on it to realize"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "his dream of becoming a god!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et il a découvert le secret derrière\nXibalba! Il va sûrement agir pour\nréaliser son rêve de devenir un dieu!",
+   "brut_en": "And[SP]now[SP]he's[SP]figured[SP]out[SP]the[SP]secret[SP]behind\nXibalba![SP]He'll[SP]surely[SP]act[SP]on[SP]it[SP]to[SP]realize\nhis[SP]dream[SP]of[SP]becoming[SP]a[SP]god!",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 112,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le Bataillon se terre dans une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "base secrète au Pôle Sud ou en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Amérique du Sud, complotant pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "atteindre le but du Führer!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Last Battalion lurks in a secret base"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "somewhere in the South Pole or South America,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "where they plot to fulfill the Fuhrer's goal!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le Bataillon se terre dans une\nbase secrète au Pôle Sud ou en\nAmérique du Sud, complotant pour\natteindre le but du Führer!",
+   "brut_en": "The[SP]Last[SP]Battalion[SP]lurks[SP]in[SP]a[SP]secret[SP]base\nsomewhere[SP]in[SP]the[SP]South[SP]Pole[SP]or[SP]South[SP]America,\nwhere[SP]they[SP]plot[SP]to[SP]fulfill[SP]the[SP]Fuhrer's[SP]goal!",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 113,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ils ont des armes de pointe et des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "unités surhumaines prêtes, attendant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le bon moment pour frapper!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They have cutting-edge weaponry and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "superhuman units ready and waiting for"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the right time to strike!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ils ont des armes de pointe et des\nunités surhumaines prêtes, attendant\nle bon moment pour frapper!",
+   "brut_en": "They[SP]have[SP]cutting-edge[SP]weaponry[SP]and\nsuperhuman[SP]units[SP]ready[SP]and[SP]waiting[SP]for\nthe[SP]right[SP]time[SP]to[SP]strike!",
+   "data_size": 232,
+   "budget": 224
+  },
+  {
+   "id": 114,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les plus redoutables forment le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "noyau du Bataillon... Une unité"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "secrète appelée l'Ordre de la Sainte"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Lance..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The most fearsome of them are the core of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the Last Battalion... A secret unit called"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the Order of the Holy Lance..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les plus redoutables forment le\nnoyau du Bataillon... Une unité\nsecrète appelée l'Ordre de la Sainte\nLance...",
+   "brut_en": "The[SP]most[SP]fearsome[SP]of[SP]them[SP]are[SP]the[SP]core[SP]of\nthe[SP]Last[SP]Battalion...[SP]A[SP]secret[SP]unit[SP]called\nthe[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance...",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 115,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cet Ordre aurait soi-disant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "découvert la Lance du Destin, une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "relique du miracle du Christ!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This Order of the Holy Lance has supposedly"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "discovered the Spear of Destiny, a relic of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Christ's miracle!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cet Ordre aurait soi-disant\ndécouvert la Lance du Destin, une\nrelique du miracle du Christ!",
+   "brut_en": "This[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance[SP]has[SP]supposedly\ndiscovered[SP]the[SP]Spear[SP]of[SP]Destiny,[SP]a[SP]relic[SP]of\nChrist's[SP]miracle!",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 116,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On dit que quiconque possède la Lance"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du Destin dominera le monde..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Faites attention!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It is said that whoever possesses the Spear"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of Destiny will rule the world... You must"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be careful!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On dit que quiconque possède la Lance\ndu Destin dominera le monde...\nFaites attention!",
+   "brut_en": "It[SP]is[SP]said[SP]that[SP]whoever[SP]possesses[SP]the[SP]Spear\nof[SP]Destiny[SP]will[SP]rule[SP]the[SP]world...[SP]You[SP]must\nbe[SP]careful!",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 117,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si vous ne vouliez rien savoir,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pourquoi me parler!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If you didn't need to know anything, then"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "why did you talk to me!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si vous ne vouliez rien savoir,\npourquoi me parler!?",
+   "brut_en": "If[SP]you[SP]didn't[SP]need[SP]to[SP]know[SP]anything,[SP]then\nwhy[SP]did[SP]you[SP]talk[SP]to[SP]me!?",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 118,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le Cercle masqué et le Bataillon..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça pourrait être un problème."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Alors,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quelle affaire vous amène ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Masked Circle and the Last Battalion..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "This could be a problem."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Now, what business"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "do you have with us today?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Répandre rumeurs",
+     "Vérifier rumeurs",
+     "Parler au Chef",
+     "Annuler",
+     "Quitter l'agence"
+    ],
+    "question": [
+     {
+      "t": "Le Cercle masqué et le Bataillon..."
+     },
+     {
+      "pause": true
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Ça pourrait être un problème."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Alors,"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "quelle affaire vous amène ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Spread rumors",
+     "Check rumors",
+     "Talk with the Chief",
+     "Cancel",
+     "Leave the detective agency"
+    ],
+    "question": [
+     {
+      "t": "The Masked Circle and the Last Battalion..."
+     },
+     {
+      "pause": true
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "This could be a problem."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Now, what business"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "do you have with us today?"
+     }
+    ]
+   },
+   "brut_fr": "Le Cercle masqué et le Bataillon...[1205][001E]\nÇa pourrait être un problème.[1205][001E] Alors,\nquelle affaire vous amène ?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\n[1210][U+0159]Quitter l'agence",
+   "brut_en": "The[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion...[1205][001E]\nThis[SP]could[SP]be[SP]a[SP]problem.[1205][001E][SP]Now,[SP]what[SP]business\ndo[SP]you[SP]have[SP]with[SP]us[SP]today?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
+   "data_size": 448,
+   "budget": 440
+  },
+  {
+   "id": 119,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'avez-vous en tête?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's on your mind?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Sur les rumeurs",
+     "Sélection cachée"
+    ],
+    "question": [
+     {
+      "t": "Qu'avez-vous en tête?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about rumors",
+     "Non-displayed selection"
+    ],
+    "question": [
+     {
+      "t": "What's on your mind?"
+     }
+    ]
+   },
+   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Sélection cachée",
+   "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 120,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Autre chose ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Anything else?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Répandre rumeurs",
+     "Vérifier rumeurs",
+     "Parler au Chef",
+     "Annuler",
+     "Quitter l'agence"
+    ],
+    "question": [
+     {
+      "t": "Autre chose ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Spread rumors",
+     "Check rumors",
+     "Talk with the Chief",
+     "Cancel",
+     "Leave the detective agency"
+    ],
+    "question": [
+     {
+      "t": "Anything else?"
+     }
+    ]
+   },
+   "brut_fr": "Autre chose ?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
+   "brut_en": "Anything[SP]else?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 121,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'avez-vous en tête?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's on your mind?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Sur les rumeurs",
+     "Sélection cachée"
+    ],
+    "question": [
+     {
+      "t": "Qu'avez-vous en tête?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about rumors",
+     "Non-displayed selection"
+    ],
+    "question": [
+     {
+      "t": "What's on your mind?"
+     }
+    ]
+   },
+   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Sélection cachée",
+   "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 122,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dans de vieux dossiers, j'ai trouvé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "un rapport sur Kashihara."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Looking into some old records, I found an"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "investigation report on your man Kashihara."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Dans de vieux dossiers, j'ai trouvé\nun rapport sur Kashihara.",
+   "brut_en": "Looking[SP]into[SP]some[SP]old[SP]records,[SP]I[SP]found[SP]an\ninvestigation[SP]report[SP]on[SP]your[SP]man[SP]Kashihara.",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 123,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L'ancien habitant de ce corps..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On dirait qu'il a fouillé sur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Kashihara. C'est sur le bureau, si"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ça vous intéresse."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The former inhabitant of this body..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Seems he did some digging into Kashihara."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It's on the desk, if you're interested."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L'ancien habitant de ce corps...[1205][001E]\nOn dirait qu'il a fouillé sur\nKashihara. C'est sur le bureau, si\nça vous intéresse.",
+   "brut_en": "The[SP]former[SP]inhabitant[SP]of[SP]this[SP]body...[1205][001E]\nSeems[SP]he[SP]did[SP]some[SP]digging[SP]into[SP]Kashihara.\nIt's[SP]on[SP]the[SP]desk,[SP]if[SP]you're[SP]interested.",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 124,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tout ce qu'on peut faire, c'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "répandre quelques rumeurs ici et là."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Le reste dépend de vous. Bon..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "À plus tard."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "All we can do for you is to spread some"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumors here and there. The rest is all up"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to you. Well then... Be seeing ya."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tout ce qu'on peut faire, c'est\nrépandre quelques rumeurs ici et là.\nLe reste dépend de vous. Bon...\nÀ plus tard.",
+   "brut_en": "All[SP]we[SP]can[SP]do[SP]for[SP]you[SP]is[SP]to[SP]spread[SP]some\nrumors[SP]here[SP]and[SP]there.[SP]The[SP]rest[SP]is[SP]all[SP]up\nto[SP]you.[SP]Well[SP]then...[SP]Be[SP]seeing[SP]ya.",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 125,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les concours, hein...? Parlez à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tamaki pour y participer."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sweepstakes, huh...? Talk to Tamaki-kun if"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you want to enter them."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les concours, hein...? Parlez à\nTamaki pour y participer.",
+   "brut_en": "Sweepstakes,[SP]huh...?[SP]Talk[SP]to[SP]Tamaki-kun[SP]if\nyou[SP]want[SP]to[SP]enter[SP]them.",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 126,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "100 yens, stp, miaou"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "100 yens, stp, miaou"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "100 yens, stp, miaou"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "100 yen please, meow"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "100 yen please, meow"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "100 yen please, meow"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "100 yens, stp, miaou[1432][NULL][NULL][U+0007]\n100 yens, stp, miaou[1432][NULL][NULL][U+0007]\n100 yens, stp, miaou[1432][NULL][NULL][U+0007]",
+   "brut_en": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 127,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "100 yens, s'il te plaît, miaou"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "100 yen please, meow"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Mettre 100 yens",
+     "Rien mettre"
+    ],
+    "question": [
+     {
+      "t": "100 yens, s'il te plaît, miaou"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Put in 100 yen",
+     "Don't put in anything"
+    ],
+    "question": [
+     {
+      "t": "100 yen please, meow"
+     }
+    ]
+   },
+   "brut_fr": "100 yens, s'il te plaît, miaou[1432][NULL][NULL][U+0007]\n[1208][0002]Mettre 100 yens\nRien mettre",
+   "brut_en": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n[1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 128,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'es fauché, miaou"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Montre-moi un menteur, je te montrerai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "un voleur, miaou"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sors d'ici, fsh"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, you're broke, meow"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Show me a liar and I'll show you a thief, meow"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Get out of here, hiss"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'es fauché, miaou[1432][NULL][NULL][U+0007]\nMontre-moi un menteur, je te montrerai\nun voleur, miaou[1432][NULL][NULL][U+0007]\nSors d'ici, fsh[1432][NULL][NULL][U+0007]",
+   "brut_en": "Oh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][U+0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][U+0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][U+0007]",
+   "data_size": 250,
+   "budget": 242
+  },
+  {
+   "id": 129,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ronron... Je suis ému"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu m'as nourri 20 fois, miaou"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'en attends plus, miaou"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Purrrr... I'm touched"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You fed me 20 times, meow"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I look forward to more, meow"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ronron... Je suis ému[1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 20 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nJ'en attends plus, miaou[1432][NULL][NULL][U+0007]",
+   "brut_en": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][U+0007][1205][U+000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][U+0007]",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 130,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Miaourveilleux!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu m'as nourri 50 fois, ronron"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu es si généreux, ronrrrron"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Meowvelous!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I can't believe you fed me 50 times, purrrr"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You're so generous, Misterrr"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Miaourveilleux![1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 50 fois, ronron[1432][NULL][NULL][U+0007][1205][U+000F]\nTu es si généreux, ronrrrron[1432][NULL][NULL][U+0007]",
+   "brut_en": "Meowvelous![1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][U+0007][1205][U+000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][U+0007]",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 131,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Super, miaou!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu m'as nourri 80 fois, miaou"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu caches quelque chose, miaou?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Amazing, meow!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You've fed me 80 times now, meow"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Do you have a kitten agenda, meow?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Super, miaou![1205][U+000F]\nTu m'as nourri 80 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nTu caches quelque chose, miaou?",
+   "brut_en": "Amazing,[SP]meow![1205][U+000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 132,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le moment est venu, miaou..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tout pile 100 repas..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'ai récolté 10 000 yens, miaou!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The time has finally come, meow..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "An even 100 feedings..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I've collected 10,000 yen, meow!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le moment est venu, miaou...[1205][U+000F]\nTout pile 100 repas...[1205][U+000F]\nJ'ai récolté 10 000 yens, miaou!",
+   "brut_en": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][U+000F]\nAn[SP]even[SP]100[SP]feedings...[1205][U+000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 133,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je m'en veux de recevoir tant, miaou!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'ai un présent pour toi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I feel bad at being given so much, meow!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "So I have a purresent for you!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je m'en veux de recevoir tant, miaou![1205][U+000F]\nJ'ai un présent pour toi!",
+   "brut_en": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][U+000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 134,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Utilise ce Set d'encens, miaou"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Use this Incense Set wisely, meow"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Utilise ce [E4][NULL][NULL][U+0004]Set d'encens[E4][NULL][NULL][0002], miaou[1432][NULL][NULL][U+0007]",
+   "brut_en": "Use[SP]this[SP][E4][NULL][NULL][U+0004]Incense[SP]Set[E4][NULL][NULL][0002][SP]wisely,[SP]meow[1432][NULL][NULL][U+0007]",
+   "data_size": 134,
+   "budget": 126
+  },
+  {
+   "id": 135,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Merci, miaou"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Thank you, meow"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Merci, miaou[1432][NULL][NULL][U+0007]",
+   "brut_en": "Thank[SP]you,[SP]meow[1432][NULL][NULL][U+0007]",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 136,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Radin!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Cheaps-cat!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "...[1205][U+000F]Radin!",
+   "brut_en": "...[1205][U+000F]Cheaps-cat!",
+   "data_size": 76,
+   "budget": 68
+  },
+  {
+   "id": 137,
+   "nom_fr": "Statue de chat",
+   "nom_en": "Lucky cat statue",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La porte ne s'ouvre pas, miaou"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Arrête d'essayer, miaou"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That door doesn't open, meow"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You should stop trying, meow"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La porte ne s'ouvre pas, miaou[1432][NULL][NULL][U+0007]\nArrête d'essayer, miaou[1432][NULL][NULL][U+0007]",
+   "brut_en": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][U+0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][U+0007]",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 138,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Attends, "
+      },
+      {
+       "hero": "nom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wait, "
+      },
+      {
+       "hero": "nom"
+      },
+      {
+       "t": "-kun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Attends, [1112]!",
+   "brut_en": "Wait,[SP][1112]-kun!",
+   "data_size": 56,
+   "budget": 48
+  },
+  {
+   "id": 139,
+   "nom_fr": "Mme Idéale",
+   "nom_en": "Ms. Ideal",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Prends l'"
+      },
+      {
+       "hl": "In Lak'ech"
+      },
+      {
+       "t": "! Tu te bats"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "contre le Cercle masqué..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ou plutôt, contre le Bataillon,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "n'est-ce pas!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T-Take the "
+      },
+      {
+       "hl": "In Lak'ech"
+      },
+      {
+       "t": " with you! You are"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fighting the Masked Circle... or rather,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the Last Battalion, aren't you!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Prends l'[E4][NULL][NULL][U+0006]In Lak'ech[E4][NULL][NULL][0002]! Tu te bats\ncontre le Cercle masqué...\nou plutôt, contre le Bataillon,\nn'est-ce pas!?",
+   "brut_en": "T-Take[SP]the[SP][E4][NULL][NULL][U+0006]In[SP]Lak'ech[E4][NULL][NULL][0002][SP]with[SP]you![SP]You[SP]are\nfighting[SP]the[SP]Masked[SP]Circle...[SP]or[SP]rather,\nthe[SP]Last[SP]Battalion,[SP]aren't[SP]you!?",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 140,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Infos sur les rumeurs?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Want the lowdown on rumors?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Infos sur les rumeurs?",
+   "brut_en": "Want[SP]the[SP]lowdown[SP]on[SP]rumors?",
+   "data_size": 94,
+   "budget": 86
+  },
+  {
+   "id": 141,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Demande-moi de répandre une rumeur et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je le ferai. Mais pas gratuitement."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ask me to spread a rumor of your choice and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll do it. Not for free, mind you."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Demande-moi de répandre une rumeur et\nje le ferai. Mais pas gratuitement.",
+   "brut_en": "Ask[SP]me[SP]to[SP]spread[SP]a[SP]rumor[SP]of[SP]your[SP]choice[SP]and\nI'll[SP]do[SP]it.[SP]Not[SP]for[SP]free,[SP]mind[SP]you.",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 142,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Apporte-moi les rumeurs que tu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entends des colporteurs."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You'll need to bring me rumors you hear from"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumormongers."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Apporte-moi les rumeurs que tu\nentends des colporteurs.",
+   "brut_en": "You'll[SP]need[SP]to[SP]bring[SP]me[SP]rumors[SP]you[SP]hear[SP]from\nrumormongers.",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 143,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a des colporteurs partout dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sumaru. Cherche, tu les trouveras."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There are rumormongers everywhere in Sumaru."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Dig a little, and you'll find them."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a des colporteurs partout dans\nSumaru. Cherche, tu les trouveras.",
+   "brut_en": "There[SP]are[SP]rumormongers[SP]everywhere[SP]in[SP]Sumaru.\nDig[SP]a[SP]little,[SP]and[SP]you'll[SP]find[SP]them.",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 144,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu peux te rappeler des rumeurs déjà"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en circulation en me demandant de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les vérifier."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You can remind yourself which rumors are"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "already circulating by asking me to check"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumors."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu peux te rappeler des rumeurs déjà\nen circulation en me demandant de\nles vérifier.",
+   "brut_en": "You[SP]can[SP]remind[SP]yourself[SP]which[SP]rumors[SP]are\nalready[SP]circulating[SP]by[SP]asking[SP]me[SP]to[SP]check\nrumors.",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 145,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non seulement tu peux voir celles que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'ai diffusées, mais aussi celles"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que les démons répandent."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Not only can you remember which rumors I've"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "been putting out there for you, you can see"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "which ones demons are spreading."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non seulement tu peux voir celles que\nj'ai diffusées, mais aussi celles\nque les démons répandent.",
+   "brut_en": "Not[SP]only[SP]can[SP]you[SP]remember[SP]which[SP]rumors[SP]I've\nbeen[SP]putting[SP]out[SP]there[SP]for[SP]you,[SP]you[SP]can[SP]see\nwhich[SP]ones[SP]demons[SP]are[SP]spreading.",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 146,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je répands cette rumeur gratis."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est bien celle-là ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'll spread that rumor for you gratis."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It's the one you want?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Je répands cette rumeur gratis."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "C'est bien celle-là ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "I'll spread that rumor for you gratis."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "It's the one you want?"
+     }
+    ]
+   },
+   "brut_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là ?\n[1208][0002]Oui\nNon",
+   "brut_en": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 147,
+   "nom_fr": "Chef Todoroki",
+   "nom_en": "Chief Todoroki",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Répandre cette rumeur coûte 3000 yens."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Toujours partant ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Spreading that rumor will cost you 3,000 yen."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You still want me to do it?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Répandre cette rumeur coûte 3000 yens."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Toujours partant ?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "Spreading that rumor will cost you 3,000 yen."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "You still want me to do it?"
+     }
+    ]
+   },
+   "brut_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant ?\n[1208][0002]Oui\nNon",
+   "brut_en": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
+   "data_size": 206,
+   "budget": 198
+  }
+ ]
+}

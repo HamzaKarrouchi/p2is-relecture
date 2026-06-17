@@ -1,0 +1,581 @@
+{
+ "no": 41,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je comprends ce que Maya dit, mais nous devrions allez sauver Ginko!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I get what Maya-san's saying, but I still"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "think we should go rescue Ginko!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je comprends ce que Maya dit, mais nous devrions allez sauver Ginko!",
+   "brut_en": "I[SP]get[SP]what[SP]Maya-san's[SP]saying,[SP]but[SP]I[SP]still\nthink[SP]we[SP]should[SP]go[SP]rescue[SP]Ginko!",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J-je ne suis pas inquiêt pour elle, mais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " si elle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "part, on sera un de moins. Il sera trop"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tard si la foule arrive!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I-I'm not worried about her, but..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If she"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "leaves now, we're down a man. It'll be too"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "late if the crowd starts filing in!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J-je ne suis pas inquiêt pour elle, mais...[1205][001E] si elle\npart, on sera un de moins. Il sera trop\ntard si la foule arrive!",
+   "brut_en": "I-I'm[SP]not[SP]worried[SP]about[SP]her,[SP]but...[1205][001E][SP]If[SP]she\nleaves[SP]now,[SP]we're[SP]down[SP]a[SP]man.[SP]It'll[SP]be[SP]too\nlate[SP]if[SP]the[SP]crowd[SP]starts[SP]filing[SP]in!",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allez, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", allons la sauver !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'mon, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", let's go save her!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Attendons de voir.",
+     "Allons la sauver !",
+     "Laisse-moi réfléchir..."
+    ],
+    "question": [
+     {
+      "t": "Allez, "
+     },
+     {
+      "hero": "prenom"
+     },
+     {
+      "t": ", allons la sauver !"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Let's wait and see what happens.",
+     "Let's go rescue her!",
+     "Let me think about this..."
+    ],
+    "question": [
+     {
+      "t": "C'mon, "
+     },
+     {
+      "hero": "prenom"
+     },
+     {
+      "t": ", let's go save her!"
+     }
+    ]
+   },
+   "brut_fr": "Allez, [1113], allons la sauver !\n[1208][U+0003][1432][NULL][NULL][0014]Attendons de voir.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Allons la sauver ![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Laisse-moi réfléchir...[1432][NULL][NULL][0014]",
+   "brut_en": "C'mon,[SP][1113],[SP]let's[SP]go[SP]save[SP]her!\n[1208][U+0003][1432][NULL][NULL][0014]Let's[SP]wait[SP]and[SP]see[SP]what[SP]happens.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Let's[SP]go[SP]rescue[SP]her![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Let[SP]me[SP]think[SP]about[SP]this...[1432][NULL][NULL][0014]",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "QUOI!? Mec... tu me decois! Pense à ce que "
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ginko ressent!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "WHAT!? Dude... You disappoint me! Think about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ginko's feelings for once!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "QUOI!? Mec... tu me decois! Pense à ce que \nGinko ressent!",
+   "brut_en": "WHAT!?[SP]Dude...[SP]You[SP]disappoint[SP]me![SP]Think[SP]about\nGinko's[SP]feelings[SP]for[SP]once!",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 4,
+   "nom_fr": "Annonceur",
+   "nom_en": "Announcer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nous allons ouvrir les portes. Veuillez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "former deux lignes et entrer dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'ordre"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We will now be opening the doors. Please"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "form two lines and enter in an orderly"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fashion."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Nous allons ouvrir les portes. Veuillez\nformer deux lignes et entrer dans\nl'ordre",
+   "brut_en": "We[SP]will[SP]now[SP]be[SP]opening[SP]the[SP]doors.[SP]Please\nform[SP]two[SP]lines[SP]and[SP]enter[SP]in[SP]an[SP]orderly\nfashion.",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 5,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tch! C'est trop tard! Si quelque chose arrive à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ginko, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", j'te tue!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tch! Too late now! If anything happens to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ginko, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", your ass is mine!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tch! C'est trop tard! Si quelque chose arrive à\nGinko, [1113], j'te tue!",
+   "brut_en": "Tch![SP]Too[SP]late[SP]now![SP]If[SP]anything[SP]happens[SP]to\nGinko,[SP][1113],[SP]your[SP]ass[SP]is[SP]mine!",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 6,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je savais que je pouvais compter sur toi!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On y va!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alright! I knew I could count on you, man!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Let's hurry!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je savais que je pouvais compter sur toi!\nOn y va!",
+   "brut_en": "Alright![SP]I[SP]knew[SP]I[SP]could[SP]count[SP]on[SP]you,[SP]man!\nLet's[SP]hurry!",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 7,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D'accord..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On a pas beaucoup de temps,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "magne-toi et choisi, okay?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Fine..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But we don't have much time, so hurry"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "up and decide, okay?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "D'accord...[1205][001E] On a pas beaucoup de temps,\nmagne-toi et choisi, okay?",
+   "brut_en": "Fine...[1205][001E][SP]But[SP]we[SP]don't[SP]have[SP]much[SP]time,[SP]so[SP]hurry\nup[SP]and[SP]decide,[SP]okay?",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 8,
+   "nom_fr": "Personnel du concert",
+   "nom_en": "Concert staff",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On est sensé être gardiens à l'interieur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du hall, donc tu ne peux pas sortir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ici."
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Personel du concert",
+     "seg": [
+      {
+       "t": "Ce travail est dûr. On se met"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur la ligne pour retenir les foules."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "T'as interêt à être prêt."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We're supposed to be guarding the inside"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of the concert hall, so you can't go out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there."
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Concert staff",
+     "seg": [
+      {
+       "t": "This job can get rough. We put ourselves on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the line to hold back the raving crowds."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You better be ready."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On est sensé être gardiens à l'interieur\ndu hall, donc tu ne peux pas sortir\nici.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Personel du concert\nCe travail est dûr. On se met\nsur la ligne pour retenir les foules.\nT'as interêt à être prêt.",
+   "brut_en": "We're[SP]supposed[SP]to[SP]be[SP]guarding[SP]the[SP]inside\nof[SP]the[SP]concert[SP]hall,[SP]so[SP]you[SP]can't[SP]go[SP]out\nthere.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Concert[SP]staff\nThis[SP]job[SP]can[SP]get[SP]rough.[SP]We[SP]put[SP]ourselves[SP]on\nthe[SP]line[SP]to[SP]hold[SP]back[SP]the[SP]raving[SP]crowds.\nYou[SP]better[SP]be[SP]ready.",
+   "data_size": 472,
+   "budget": 464
+  },
+  {
+   "id": 9,
+   "nom_fr": "Personnel",
+   "nom_en": "Concert staff",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Avec les Muses sur scène"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aujourd'hui, on pourrait finir morts... M-Maman..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "With the famous Muses taking the stage"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "today, we could wind up dead... M-Mommy..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Avec les Muses sur scène\naujourd'hui, on pourrait finir morts... M-Maman...",
+   "brut_en": "With[SP]the[SP]famous[SP]Muses[SP]taking[SP]the[SP]stage\ntoday,[SP]we[SP]could[SP]wind[SP]up[SP]dead...[SP]M-Mommy...",
+   "data_size": 202,
+   "budget": 194
+  }
+ ]
+}

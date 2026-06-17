@@ -1,0 +1,2895 @@
+{
+ "no": 361,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Coppy",
+   "nom_en": "Coppy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'as trop de kits d'Encens! Ouaf!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je peux plus t'en donner! Ouaf!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You have too many Incense Sets! Arf!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I can't give you anymore! Arf!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'as trop de kits d'Encens! Ouaf!\nJe peux plus t'en donner! Ouaf!",
+   "brut_en": "You[SP]have[SP]too[SP]many[SP]Incense[SP]Sets![SP]Arf!\nI[SP]can't[SP]give[SP]you[SP]anymore![SP]Arf!",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 1,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On te voit rarement ici."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais t'es"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sûrement pas venu me voir."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Quoi de neuf?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Don't see you here often."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "probably didn't come to visit me."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " What's up?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Did something happen?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]...[1205][U+000F] On te voit rarement ici.[1205][U+000F] Mais t'es\nsûrement pas venu me voir.[1205][U+000F] Quoi de neuf?",
+   "brut_en": "[1113]...[1205][U+000F][SP]Don't[SP]see[SP]you[SP]here[SP]often.[1205][U+000F][SP]But[SP]you\nprobably[SP]didn't[SP]come[SP]to[SP]visit[SP]me.[1205][U+000F][SP]What's[SP]up?\nDid[SP]something[SP]happen?",
+   "data_size": 240,
+   "budget": 232
+  },
+  {
+   "id": 2,
+   "nom_fr": "Katsuya",
+   "nom_en": "Katsuya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmph... T'as pas changé."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Jusqu'à quand"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vas-tu continuer à inquiéter nos parents?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmph... You never change."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " How much longer are"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you going to keep worrying our parents?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hmph... T'as pas changé.[1205][U+000F] Jusqu'à quand\nvas-tu continuer à inquiéter nos parents?",
+   "brut_en": "Hmph...[SP]You[SP]never[SP]change.[1205][U+000F][SP]How[SP]much[SP]longer[SP]are\nyou[SP]going[SP]to[SP]keep[SP]worrying[SP]our[SP]parents?",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 3,
+   "nom_fr": "Katsuya",
+   "nom_en": "Katsuya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je te demande pas de comprendre ma position"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ni celle de notre père."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais tu n'as rien"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à gagner à fuir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm not asking you to understand me or our"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "father's position."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But you have nothing to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gain by running away."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je te demande pas de comprendre ma position\nni celle de notre père.[1205][U+000F] Mais tu n'as rien\nà gagner à fuir.",
+   "brut_en": "I'm[SP]not[SP]asking[SP]you[SP]to[SP]understand[SP]me[SP]or[SP]our\nfather's[SP]position.[1205][U+000F][SP]But[SP]you[SP]have[SP]nothing[SP]to\ngain[SP]by[SP]running[SP]away.",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé, il a quoi ce type?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il a commis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "un crime?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, what's wrong with that guy?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Did he commit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "some crime?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé, il a quoi ce type?[1205][U+000F] Il a commis\nun crime?",
+   "brut_en": "Hey,[SP]what's[SP]wrong[SP]with[SP]that[SP]guy?[1205][U+000F][SP]Did[SP]he[SP]commit\nsome[SP]crime?",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein!? Ce détective est ton frère, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous... vous ressemblez un peu..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh!? That detective is your brother, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You do... look kind of alike..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein!? Ce détective est ton frère, [1113]?\nVous... vous ressemblez un peu...",
+   "brut_en": "Huh!?[SP]That[SP]detective[SP]is[SP]your[SP]brother,[SP][1113]?\nYou[SP]do...[SP]look[SP]kind[SP]of[SP]alike...",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 6,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aïe, il faut que je fasse bonne impression!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Souris, Lisa, souris."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah, I have to make a good first impression!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Smile, Lisa, smile."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aïe, il faut que je fasse bonne impression!\nSouris, Lisa, souris.",
+   "brut_en": "Aiyah,[SP]I[SP]have[SP]to[SP]make[SP]a[SP]good[SP]first[SP]impression!\nSmile,[SP]Lisa,[SP]smile.",
+   "data_size": 154,
+   "budget": 146
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Waouh, je savais pas que t'avais un frère"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "détective, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais c'est parfait!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, I didn't know you had a detective for"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a brother, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But that's perfect!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Waouh, je savais pas que t'avais un frère\ndétective, [1113].[1205][U+000F] Mais c'est parfait!",
+   "brut_en": "Wow,[SP]I[SP]didn't[SP]know[SP]you[SP]had[SP]a[SP]detective[SP]for\na[SP]brother,[SP][1113].[1205][U+000F][SP]But[SP]that's[SP]perfect!",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 8,
+   "nom_fr": "",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il sait peut-être quelque chose sur le Cercle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "masqué. Demande-lui, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Maybe he knows something about the Masked"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Circle. Ask him for us, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il sait peut-être quelque chose sur le Cercle\nmasqué. Demande-lui, [1113]!",
+   "brut_en": "Maybe[SP]he[SP]knows[SP]something[SP]about[SP]the[SP]Masked\nCircle.[SP]Ask[SP]him[SP]for[SP]us,[SP][1113]!",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 9,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je veux pas m'immiscer dans ta vie privée, mais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu sembles pas vraiment t'entendre avec ton frère."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je suis là si tu veux parler."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't mean to pry into your home life, but..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You don't exactly seem to get along with your"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "brother. I'm here if you want to talk."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je veux pas m'immiscer dans ta vie privée, mais...[1205][U+000F]\nTu sembles pas vraiment t'entendre avec ton frère.\nJe suis là si tu veux parler.",
+   "brut_en": "I[SP]don't[SP]mean[SP]to[SP]pry[SP]into[SP]your[SP]home[SP]life,[SP]but...[1205][U+000F]\nYou[SP]don't[SP]exactly[SP]seem[SP]to[SP]get[SP]along[SP]with[SP]your\nbrother.[SP]I'm[SP]here[SP]if[SP]you[SP]want[SP]to[SP]talk.",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 10,
+   "nom_fr": "Agent de police",
+   "nom_en": "Police officer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce gamin a dit avoir vu quelque chose"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dans la fabrique abandonnée. Mais son"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "témoignage est difficile à comprendre..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This boy ran in here, saying he saw something"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in the abandoned factory. But it's hard to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "make sense of his statement..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce gamin a dit avoir vu quelque chose\ndans la fabrique abandonnée. Mais son\ntémoignage est difficile à comprendre...",
+   "brut_en": "This[SP]boy[SP]ran[SP]in[SP]here,[SP]saying[SP]he[SP]saw[SP]something\nin[SP]the[SP]abandoned[SP]factory.[SP]But[SP]it's[SP]hard[SP]to\nmake[SP]sense[SP]of[SP]his[SP]statement...",
+   "data_size": 278,
+   "budget": 270
+  },
+  {
+   "id": 11,
+   "nom_fr": "Agent de police",
+   "nom_en": "Police officer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bon sang... Mon rêve d'entrer dans la police"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "exaucé, et je gère des gamins"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et des vieux..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Rien à voir avec les films."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Man... I finally got my wish to join the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "force granted, but I get stuck with kids"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and the elderly..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Not much like the movies."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bon sang... Mon rêve d'entrer dans la police\nexaucé, et je gère des gamins\net des vieux...[1205][U+000F] Rien à voir avec les films.",
+   "brut_en": "Man...[SP]I[SP]finally[SP]got[SP]my[SP]wish[SP]to[SP]join[SP]the\nforce[SP]granted,[SP]but[SP]I[SP]get[SP]stuck[SP]with[SP]kids\nand[SP]the[SP]elderly...[1205][U+000F][SP]Not[SP]much[SP]like[SP]the[SP]movies.",
+   "data_size": 296,
+   "budget": 288
+  },
+  {
+   "id": 12,
+   "nom_fr": "Agent de police",
+   "nom_en": "Police officer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahaha... Bon, bon. T'as gagné."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "T'es un bon gamin."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hahaha... Alright, alright. I lose."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You're a good kid."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hahaha... Bon, bon. T'as gagné.\nT'es un bon gamin.",
+   "brut_en": "Hahaha...[SP]Alright,[SP]alright.[SP]I[SP]lose.\nYou're[SP]a[SP]good[SP]kid.",
+   "data_size": 148,
+   "budget": 140
+  },
+  {
+   "id": 13,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je l'ai vu dans la fabrique!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vraiment! Qu'est-ce que j'ai vu...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I saw it in the abandoned factory! I saw it!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I did! What did I see...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je l'ai vu dans la fabrique!\nVraiment! Qu'est-ce que j'ai vu...?",
+   "brut_en": "I[SP]saw[SP]it[SP]in[SP]the[SP]abandoned[SP]factory![SP]I[SP]saw[SP]it!\nI[SP]did![SP]What[SP]did[SP]I[SP]see...?",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 14,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Euh... ben..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "( Mmmmmmm..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Uhhh... well..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "( Ummmmm..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Euh... ben...[1205]( Mmmmmmm...",
+   "brut_en": "Uhhh...[SP]well...[1205]([SP]Ummmmm...",
+   "data_size": 88,
+   "budget": 80
+  },
+  {
+   "id": 15,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je l'ai vu dans la fabrique!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vraiment! Qu'est-ce que j'ai vu...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I saw it in the abandoned factory! I saw it!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I did! What did I see...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je l'ai vu dans la fabrique!\nVraiment! Qu'est-ce que j'ai vu...?",
+   "brut_en": "I[SP]saw[SP]it[SP]in[SP]the[SP]abandoned[SP]factory![SP]I[SP]saw[SP]it!\nI[SP]did![SP]What[SP]did[SP]I[SP]see...?",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 16,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "uh... ben..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "( Mmmmmmm..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Uhhh... well..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "( Ummmmm..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "uh... ben...[1205]( Mmmmmmm...",
+   "brut_en": "Uhhh...[SP]well...[1205]([SP]Ummmmm...",
+   "data_size": 88,
+   "budget": 80
+  },
+  {
+   "id": 17,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "O-Ouais! C'est un démon! C'est ce que disait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mon ami! Euh... Quel genre de démon...?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mmmmmm..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y-Yeah! It's a demon! That's what my friend"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "was saying! Uhh... What kind of demon...?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ummmmm..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "O-Ouais! C'est un démon! C'est ce que disait\nmon ami! Euh... Quel genre de démon...?\nMmmmmm...",
+   "brut_en": "Y-Yeah![SP]It's[SP]a[SP]demon![SP]That's[SP]what[SP]my[SP]friend\nwas[SP]saying![SP]Uhh...[SP]What[SP]kind[SP]of[SP]demon...?\nUmmmmm...",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 18,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ah oui! Ça s'appelle une "
+      },
+      {
+       "hl": "Vieille"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "du Tiroir"
+      },
+      {
+       "t": "! Elle m'a crié très fort"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de monter dedans!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh yeah, now I remember! It's called a "
+      },
+      {
+       "hl": "Dresser"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "Hag"
+      },
+      {
+       "t": "! It yelled at me real loud to climb inside!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ah oui! Ça s'appelle une [E4][NULL][NULL][U+0006]Vieille\ndu Tiroir[E4][NULL][NULL][0002]! Elle m'a crié très fort\nde monter dedans!",
+   "brut_en": "Oh[SP]yeah,[SP]now[SP]I[SP]remember![SP]It's[SP]called[SP]a[SP][E4][NULL][NULL][U+0006]Dresser\nHag[E4][NULL][NULL][0002]![SP]It[SP]yelled[SP]at[SP]me[SP]real[SP]loud[SP]to[SP]climb[SP]inside!",
+   "data_size": 238,
+   "budget": 230
+  },
+  {
+   "id": 19,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est arrivé dans la "
+      },
+      {
+       "hl": "fabrique abandonnée"
+      },
+      {
+       "t": "!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Cet agent ne me croit pas..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It happened at the "
+      },
+      {
+       "hl": "abandoned factory"
+      },
+      {
+       "t": "!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But this officer won't believe me..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est arrivé dans la [E4][NULL][NULL][U+0006]fabrique abandonnée[E4][NULL][NULL][0002]!\nCet agent ne me croit pas...",
+   "brut_en": "It[SP]happened[SP]at[SP]the[SP][E4][NULL][NULL][U+0006]abandoned[SP]factory[E4][NULL][NULL][0002]!\nBut[SP]this[SP]officer[SP]won't[SP]believe[SP]me...",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 20,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'veux des "
+      },
+      {
+       "enc": "preuves concrètes"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il m'écouterait... Mais j'en ai pas. J'ai peur!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I wish I had some "
+      },
+      {
+       "enc": "hard evidence"
+      },
+      {
+       "t": "... Then he'd"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "listen... But I don't. And I'm scared!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'veux des [1432][NULL][NULL][0014]preuves concrètes[1432][NULL][NULL][0014]...\nIl m'écouterait... Mais j'en ai pas. J'ai peur!",
+   "brut_en": "I[SP]wish[SP]I[SP]had[SP]some[SP][1432][NULL][NULL][0014]hard[SP]evidence[1432][NULL][NULL][0014]...[SP]Then[SP]he'd\nlisten...[SP]But[SP]I[SP]don't.[SP]And[SP]I'm[SP]scared!",
+   "data_size": 216,
+   "budget": 208
+  },
+  {
+   "id": 21,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Avec la commode de la Vieille du Tiroir,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tout le monde me croirait!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais j'veux pas retourner à la fabrique abandonnée..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If I had the Dresser Hag's dresser, then maybe"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "everyone would believe me! But I don't wanna"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "go back to the abandoned factory..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Avec la commode de la Vieille du Tiroir,\ntout le monde me croirait!\nMais j'veux pas retourner à la fabrique abandonnée...",
+   "brut_en": "If[SP]I[SP]had[SP]the[SP]Dresser[SP]Hag's[SP]dresser,[SP]then[SP]maybe\neveryone[SP]would[SP]believe[SP]me![SP]But[SP]I[SP]don't[SP]wanna\ngo[SP]back[SP]to[SP]the[SP]abandoned[SP]factory...",
+   "data_size": 288,
+   "budget": 280
+  },
+  {
+   "id": 22,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé, c'est la Commode de la Vieille!? Waouh!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous l'avez eue!? Youpi! Merci!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, is that the Hag's Dresser!? Wow! You got"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it for me!? Yaaaay! Thank you!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé, c'est la Commode de la Vieille!? Waouh!\nVous l'avez eue!? Youpi! Merci!",
+   "brut_en": "Hey,[SP]is[SP]that[SP]the[SP]Hag's[SP]Dresser!?[SP]Wow![SP]You[SP]got\nit[SP]for[SP]me!?[SP]Yaaaay![SP]Thank[SP]you!",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 23,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tiens, tu peux avoir mon kit de Cartes Encens."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça m'a pris longtemps de tout collecter!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Prends-en bien soin."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Here, you can have my Incense Card set."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It took a long time for me to collect all"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "those!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Take good care of them."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tiens, tu peux avoir mon [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0004]kit de Cartes Encens[E4][NULL][NULL][0002].[1205][U+000F]\nÇa m'a pris longtemps de tout collecter![1205][U+000F]\nPrends-en bien soin.",
+   "brut_en": "Here,[SP]you[SP]can[SP]have[SP]my[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0004]Incense[SP]Card[SP]set[E4][NULL][NULL][0002].[1205][U+000F]\nIt[SP]took[SP]a[SP]long[SP]time[SP]for[SP]me[SP]to[SP]collect[SP]all\nthose![1205][U+000F][SP]Take[SP]good[SP]care[SP]of[SP]them.",
+   "data_size": 290,
+   "budget": 282
+  },
+  {
+   "id": 24,
+   "nom_fr": "Petite Chii",
+   "nom_en": "Little Chii",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Regardez!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai des "
+      },
+      {
+       "enc": "preuves!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maintenant vous devez me croire!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Look, officer!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I got "
+      },
+      {
+       "enc": "hard evidence"
+      },
+      {
+       "t": "!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Now you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "have to believe me!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Regardez![1205][U+000F] J'ai des [1432][NULL][NULL][0014]preuves![1432][NULL][NULL][0014][1205][U+000F]\nMaintenant vous devez me croire!",
+   "brut_en": "Look,[SP]officer![1205][U+000F][SP]I[SP]got[SP][1432][NULL][NULL][0014]hard[SP]evidence[1432][NULL][NULL][0014]![1205][U+000F][SP]Now[SP]you\nhave[SP]to[SP]believe[SP]me!",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 25,
+   "nom_fr": "Clocharde",
+   "nom_en": "Homeless lady",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pffffff! Vous rigolez! Quelle loi dit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que je peux pas vivre dans une vieille commode!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pfffffff! You gotta be kidding me! What law"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "says I can't live inside an abandoned dresser!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pffffff! Vous rigolez! Quelle loi dit\nque je peux pas vivre dans une vieille commode!?",
+   "brut_en": "Pfffffff![SP]You[SP]gotta[SP]be[SP]kidding[SP]me![SP]What[SP]law\nsays[SP]I[SP]can't[SP]live[SP]inside[SP]an[SP]abandoned[SP]dresser!?",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 26,
+   "nom_fr": "Clocharde",
+   "nom_en": "Homeless lady",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouais, j'ai crié sur les passants pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "m'apporter à manger quand j'en avais pas,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais faut bien manger. C'est un crime?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yeah, I yelled at whoever walked by to leave"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "me food whenever I couldn't get any, but a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gal's gotta eat. Is that a crime?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouais, j'ai crié sur les passants pour\nm'apporter à manger quand j'en avais pas,\nmais faut bien manger. C'est un crime?",
+   "brut_en": "Yeah,[SP]I[SP]yelled[SP]at[SP]whoever[SP]walked[SP]by[SP]to[SP]leave\nme[SP]food[SP]whenever[SP]I[SP]couldn't[SP]get[SP]any,[SP]but[SP]a\ngal's[SP]gotta[SP]eat.[SP]Is[SP]that[SP]a[SP]crime?",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 27,
+   "nom_fr": "Clocharde",
+   "nom_en": "Homeless lady",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La fin est proche. Ce garçon..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je l'ai déjà vu quelque part?> Panneau"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "SS : Accueil général, Bureau étrangers"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "RDC : Objets trouvés, Permis, Conseillers"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "2e : Aide victimes, Aide sinistrés> Panneau"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "3e : Interrogatoire, Affaires internes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "4e : Labo, Crimes juvéniles"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "5e : Personnes disparues, Enquêtes spéciales"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The end must be near. Huh? Haven't I seen that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "boy somewhere?> Guide"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "B1F: General Inquiries, Foreigner Desk"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "1F: Lost & Found, DMV, Advisors"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "2F: Victim Outreach, Disaster Relief> Guide"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "3F: Interrogation Rooms, Domestic Affairs"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "4F: Crime Lab, Juvenile Crimes Division"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "5F: Missing Persons, Special Investigations"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La fin est proche. Ce garçon...\nje l'ai déjà vu quelque part?[E1][E2][E3]> Panneau\nSS : Accueil général, Bureau étrangers\nRDC : Objets trouvés, Permis, Conseillers\n2e : Aide victimes, Aide sinistrés[E1][E2][E3]> Panneau\n3e : Interrogatoire, Affaires internes\n4e : Labo, Crimes juvéniles\n5e : Personnes disparues, Enquêtes spéciales",
+   "brut_en": "The[SP]end[SP]must[SP]be[SP]near.[SP]Huh?[SP]Haven't[SP]I[SP]seen[SP]that\nboy[SP]somewhere?[E1][E2][E3]>[SP]Guide\nB1F:[SP]General[SP]Inquiries,[SP]Foreigner[SP]Desk\n1F:[SP]Lost[SP]&[SP]Found,[SP]DMV,[SP]Advisors\n2F:[SP]Victim[SP]Outreach,[SP]Disaster[SP]Relief[E1][E2][E3]>[SP]Guide\n3F:[SP]Interrogation[SP]Rooms,[SP]Domestic[SP]Affairs\n4F:[SP]Crime[SP]Lab,[SP]Juvenile[SP]Crimes[SP]Division\n5F:[SP]Missing[SP]Persons,[SP]Special[SP]Investigations",
+   "data_size": 668,
+   "budget": 660
+  },
+  {
+   "id": 28,
+   "nom_fr": "Agent de police",
+   "nom_en": "Police officer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est Coppy,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " la mascotte de la police de Sumaru."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Poupée parlante ET tirelire!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's a statue of Coppy,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " the Sumaru PD mascot."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It's a talking doll AND a donation box!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est Coppy,[1205][U+000F] la mascotte de la police de Sumaru.\nPoupée parlante ET tirelire!",
+   "brut_en": "That's[SP]a[SP]statue[SP]of[SP]Coppy,[1205][U+000F][SP]the[SP]Sumaru[SP]PD[SP]mascot.\nIt's[SP]a[SP]talking[SP]doll[SP]AND[SP]a[SP]donation[SP]box!",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 29,
+   "nom_fr": "Katsuya",
+   "nom_en": "Katsuya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le Cercle masqué? C'est quoi ça?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Si tu essaies"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de distraire des agents avec ces histoires,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "être mon frère ne te sauvera pas!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Masked Circle? What's that?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " If you try"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to distract public servants with these silly"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "stories, being my brother won't help you!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le Cercle masqué? C'est quoi ça?[1205][U+000F] Si tu essaies\nde distraire des agents avec ces histoires,\nêtre mon frère ne te sauvera pas!",
+   "brut_en": "The[SP]Masked[SP]Circle?[SP]What's[SP]that?[1205][U+000F][SP]If[SP]you[SP]try\nto[SP]distract[SP]public[SP]servants[SP]with[SP]these[SP]silly\nstories,[SP]being[SP]my[SP]brother[SP]won't[SP]help[SP]you!",
+   "data_size": 288,
+   "budget": 280
+  },
+  {
+   "id": 30,
+   "nom_fr": "Katsuya",
+   "nom_en": "Katsuya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'es toujours agité. Je peux pas être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tranquille sans t'attacher à un arbre."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pourquoi tu grandis pas?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're always so restless. I can't relax unless"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I've got you tied to a tree. Why can't you just"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "grow up?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'es toujours agité. Je peux pas être\ntranquille sans t'attacher à un arbre.\nPourquoi tu grandis pas?",
+   "brut_en": "You're[SP]always[SP]so[SP]restless.[SP]I[SP]can't[SP]relax[SP]unless\nI've[SP]got[SP]you[SP]tied[SP]to[SP]a[SP]tree.[SP]Why[SP]can't[SP]you[SP]just\ngrow[SP]up?",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 31,
+   "nom_fr": "Katsuya",
+   "nom_en": "Katsuya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le Cercle masqué? T'as entendu les rumeurs"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qui circulent, toi aussi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The Masked Circle? Guess you've heard the rumors"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "going around too, then."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le Cercle masqué? T'as entendu les rumeurs\nqui circulent, toi aussi.",
+   "brut_en": "The[SP]Masked[SP]Circle?[SP]Guess[SP]you've[SP]heard[SP]the[SP]rumors\ngoing[SP]around[SP]too,[SP]then.",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 32,
+   "nom_fr": "Katsuya",
+   "nom_en": "Katsuya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais écoute. Le Cercle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "masqué n'existe pas! Ce n'est qu'une rumeur!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But let me tell you something. The Masked"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Circle doesn't exist! A rumor is all it is!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais écoute. Le Cercle\nmasqué n'existe pas! Ce n'est qu'une rumeur!",
+   "brut_en": "But[SP]let[SP]me[SP]tell[SP]you[SP]something.[SP]The[SP]Masked\nCircle[SP]doesn't[SP]exist![SP]A[SP]rumor[SP]is[SP]all[SP]it[SP]is!",
+   "data_size": 196,
+   "budget": 188
+  },
+  {
+   "id": 33,
+   "nom_fr": "Katsuya",
+   "nom_en": "Katsuya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Crois pas tout ce que t'entends. Ou t'as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aidé à répandre la rumeur...? Sinon, laisse tomber."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Don't go believing everything you hear. Or did"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you help spread the rumor...? If not, drop it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Crois pas tout ce que t'entends. Ou t'as\naidé à répandre la rumeur...? Sinon, laisse tomber.",
+   "brut_en": "Don't[SP]go[SP]believing[SP]everything[SP]you[SP]hear.[SP]Or[SP]did\nyou[SP]help[SP]spread[SP]the[SP]rumor...?[SP]If[SP]not,[SP]drop[SP]it.",
+   "data_size": 212,
+   "budget": 204
+  },
+  {
+   "id": 34,
+   "nom_fr": "Katsuya",
+   "nom_en": "Katsuya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu connais la fabrique abandonnée, non?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il y a beaucoup de mauvaises histoires sur cet endroit."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "N'y traîne pas."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You know about the abandoned factory, right?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "There's a lot of bad stories about that place."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Don't go playing around there."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu connais la fabrique abandonnée, non?\nIl y a beaucoup de mauvaises histoires sur cet endroit.\nN'y traîne pas.",
+   "brut_en": "You[SP]know[SP]about[SP]the[SP]abandoned[SP]factory,[SP]right?\nThere's[SP]a[SP]lot[SP]of[SP]bad[SP]stories[SP]about[SP]that[SP]place.\nDon't[SP]go[SP]playing[SP]around[SP]there.",
+   "data_size": 270,
+   "budget": 262
+  },
+  {
+   "id": 35,
+   "nom_fr": "Agent de police",
+   "nom_en": "Police officer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Euh... "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", c'est ça? J'espère que tu grandiras"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour être aussi bon flic que ton frère..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hein?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est pas ton plan? Dommage."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Uhhh... "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", right? I hope you grow up to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be as good a cop as your brother..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Huh? That's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "not your plan? Well, that's disappointing."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Euh... [1113], c'est ça? J'espère que tu grandiras\npour être aussi bon flic que ton frère...[1205][U+000F] Hein?\nC'est pas ton plan? Dommage.",
+   "brut_en": "Uhhh...[SP][1113],[SP]right?[SP]I[SP]hope[SP]you[SP]grow[SP]up[SP]to\nbe[SP]as[SP]good[SP]a[SP]cop[SP]as[SP]your[SP]brother...[1205][U+000F][SP]Huh?[SP]That's\nnot[SP]your[SP]plan?[SP]Well,[SP]that's[SP]disappointing.",
+   "data_size": 304,
+   "budget": 296
+  },
+  {
+   "id": 36,
+   "nom_fr": "Agent de police",
+   "nom_en": "Police officer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Katsuya est trop tendu. Il bosse tellement"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que j'arrive jamais à pioncer..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hahaha,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je rigole."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Katsuya's wound too tight. He works so hard,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I can never get a snooze in..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hahaha, just"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "kidding."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Katsuya est trop tendu. Il bosse tellement\nque j'arrive jamais à pioncer...[1205][U+000F] Hahaha,\nje rigole.",
+   "brut_en": "Katsuya's[SP]wound[SP]too[SP]tight.[SP]He[SP]works[SP]so[SP]hard,\nI[SP]can[SP]never[SP]get[SP]a[SP]snooze[SP]in...[1205][U+000F][SP]Hahaha,[SP]just\nkidding.",
+   "data_size": 238,
+   "budget": 230
+  },
+  {
+   "id": 37,
+   "nom_fr": "Agent de police",
+   "nom_en": "Police officer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Katsuya est très populaire auprès des femmes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du commissariat..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais pas de petite amie."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il est du genre marié à son boulot?> Avis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Si vous voyez cet homme, appelez le 17!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je crois l'avoir vu quelque part..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Katsuya is really popular with the ladies on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the force..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But he doesn't have a girlfriend."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is he the kinda guy who's married to his job?> Bulletin"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "If you see this man, call 911!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I think I've seen him around..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Katsuya est très populaire auprès des femmes\ndu commissariat...[1205][U+000F] Mais pas de petite amie.\nIl est du genre marié à son boulot?[E1][E2][E3]> Avis\nSi vous voyez cet homme, appelez le 17!\nJe crois l'avoir vu quelque part...",
+   "brut_en": "Katsuya[SP]is[SP]really[SP]popular[SP]with[SP]the[SP]ladies[SP]on\nthe[SP]force...[1205][U+000F][SP]But[SP]he[SP]doesn't[SP]have[SP]a[SP]girlfriend.\nIs[SP]he[SP]the[SP]kinda[SP]guy[SP]who's[SP]married[SP]to[SP]his[SP]job?[E1][E2][E3]>[SP]Bulletin\nIf[SP]you[SP]see[SP]this[SP]man,[SP]call[SP]911!\nI[SP]think[SP]I've[SP]seen[SP]him[SP]around...",
+   "data_size": 470,
+   "budget": 462
+  },
+  {
+   "id": 38,
+   "nom_fr": "Voix d'une agente",
+   "nom_en": "Female officer's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*chut* *chut*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Quoi!? T'es aussi après Katsuya?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*chut* *chut*"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*whisper* *whisper*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "What!? Are you after Katsuya too?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*whisper* *whisper*"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*chut* *chut*[1205][U+000F]\nQuoi!? T'es aussi après Katsuya?[1205][U+000F]\n*chut* *chut*",
+   "brut_en": "*whisper*[SP]*whisper*[1205][U+000F]\nWhat!?[SP]Are[SP]you[SP]after[SP]Katsuya[SP]too?[1205][U+000F]\n*whisper*[SP]*whisper*",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 39,
+   "nom_fr": "Voix d'une agente",
+   "nom_en": "Female officer's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*chut* *chut*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hé, pas si fort!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*chut* *chut*"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*whisper* *whisper*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hey, not so loud!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*whisper* *whisper*"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*chut* *chut*[1205][U+000F]\nHé, pas si fort![1205][U+000F]\n*chut* *chut*",
+   "brut_en": "*whisper*[SP]*whisper*[1205][U+000F]\nHey,[SP]not[SP]so[SP]loud![1205][U+000F]\n*whisper*[SP]*whisper*",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 40,
+   "nom_fr": "Voix d'une agente",
+   "nom_en": "Female officer's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*chut* *chut*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais y'a tellement de concurrence!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*chut* *chut*"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*whisper* *whisper*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But there's so much competition!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*whisper* *whisper*"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*chut* *chut*[1205][U+000F]\nMais y'a tellement de concurrence![1205][U+000F]\n*chut* *chut*",
+   "brut_en": "*whisper*[SP]*whisper*[1205][U+000F]\nBut[SP]there's[SP]so[SP]much[SP]competition![1205][U+000F]\n*whisper*[SP]*whisper*",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 41,
+   "nom_fr": "Voix d'une agente",
+   "nom_en": "Female officer's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*chut* *chut*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu crois qu'il est hors de ma portée?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*chut* *chut*"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*whisper* *whisper*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You think he's out of my league?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*whisper* *whisper*"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*chut* *chut*[1205][U+000F]\nTu crois qu'il est hors de ma portée?[1205][U+000F]\n*chut* *chut*",
+   "brut_en": "*whisper*[SP]*whisper*[1205][U+000F]\nYou[SP]think[SP]he's[SP]out[SP]of[SP]my[SP]league?[1205][U+000F]\n*whisper*[SP]*whisper*",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 42,
+   "nom_fr": "Voix d'une agente",
+   "nom_en": "Female officer's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*chut* *chut*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bonne nouvelle! Il y a ce Jeu de Joker..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*chut* *chut*"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*whisper* *whisper*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Well, good news! There's this Joker Game..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "*whisper* *whisper*"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*chut* *chut*[1205][U+000F]\nBonne nouvelle! Il y a ce Jeu de Joker...[1205][U+000F]\n*chut* *chut*",
+   "brut_en": "*whisper*[SP]*whisper*[1205][U+000F]\nWell,[SP]good[SP]news![SP]There's[SP]this[SP]Joker[SP]Game...[1205][U+000F]\n*whisper*[SP]*whisper*",
+   "data_size": 230,
+   "budget": 222
+  },
+  {
+   "id": 43,
+   "nom_fr": "Coppy",
+   "nom_en": "Coppy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "100 yens! Ouaf!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "100 yens! Ouaf!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Gimme 100 yen! Arf!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Gimme 100 yen! Arf!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "100 yens! Ouaf!\n100 yens! Ouaf!",
+   "brut_en": "Gimme[SP]100[SP]yen![SP]Arf!\nGimme[SP]100[SP]yen![SP]Arf!",
+   "data_size": 100,
+   "budget": 92
+  },
+  {
+   "id": 44,
+   "nom_fr": "Coppy",
+   "nom_en": "Coppy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Donne-moi 100 yens! Ouaf!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Feed me a 100-yen piece! Arf!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Mettre 100 yens",
+     "Ne rien mettre"
+    ],
+    "question": [
+     {
+      "t": "Donne-moi 100 yens! Ouaf!"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Put in 100 yen",
+     "Don't put in anything"
+    ],
+    "question": [
+     {
+      "t": "Feed me a 100-yen piece! Arf!"
+     }
+    ]
+   },
+   "brut_fr": "Donne-moi 100 yens! Ouaf!\n[1208][0002]Mettre 100 yens\nNe rien mettre",
+   "brut_en": "Feed[SP]me[SP]a[SP]100-yen[SP]piece![SP]Arf!\n[1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything",
+   "data_size": 160,
+   "budget": 152
+  },
+  {
+   "id": 45,
+   "nom_fr": "Coppy",
+   "nom_en": "Coppy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouaf! T'en as pas! Menteur un jour, voleur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "toujours, ouaf! Coppy dit : Reviens!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Arf! You don't have one! They say thieves start"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "out as liars, arf! Coppy says: Come again!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouaf! T'en as pas! Menteur un jour, voleur\ntoujours, ouaf! Coppy dit : Reviens!",
+   "brut_en": "Arf![SP]You[SP]don't[SP]have[SP]one![SP]They[SP]say[SP]thieves[SP]start\nout[SP]as[SP]liars,[SP]arf![SP]Coppy[SP]says:[SP]Come[SP]again!",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 46,
+   "nom_fr": "Coppy",
+   "nom_en": "Coppy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouaf!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " 5 000 yens!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Terrierfique! Ouaf!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Arf!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " 5,000 yen in the fund!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Terrierific! Arf!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouaf![1205][U+000F] 5 000 yens![1205][U+000F] Terrierfique! Ouaf!",
+   "brut_en": "Arf![1205][U+000F][SP]5,000[SP]yen[SP]in[SP]the[SP]fund![1205][U+000F][SP]Terrierific![SP]Arf!",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 47,
+   "nom_fr": "Coppy",
+   "nom_en": "Coppy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouaf!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " 10 000 yens!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Merci aux citoyens comme toi! Ouaf!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Arf!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " 10,000 yen in the fund!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " And it's all"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "thanks to citizens like you! Arf!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouaf![1205][U+000A] 10 000 yens![1205][U+000F]\nMerci aux citoyens comme toi! Ouaf!",
+   "brut_en": "Arf![1205][U+000A][SP]10,000[SP]yen[SP]in[SP]the[SP]fund![1205][U+000F][SP]And[SP]it's[SP]all\nthanks[SP]to[SP]citizens[SP]like[SP]you![SP]Arf!",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 48,
+   "nom_fr": "Coppy",
+   "nom_en": "Coppy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cadeau!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Un Kit d'Encens!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Deux de chaque sorte! Ouaf!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Here's a gift as thanks!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's an Incense Set!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Two of each kind! Arf!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cadeau![1205][U+000F] Un [E4][NULL][NULL][U+0004]Kit d'Encens[E4][NULL][NULL][0002]![1205][U+000F]\nDeux de chaque sorte! Ouaf!",
+   "brut_en": "Here's[SP]a[SP]gift[SP]as[SP]thanks![1205][U+000F][SP]It's[SP]an[SP][E4][NULL][NULL][U+0004]Incense[SP]Set[E4][NULL][NULL][0002]![1205][U+000F]\nTwo[SP]of[SP]each[SP]kind![SP]Arf!",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 49,
+   "nom_fr": "Coppy",
+   "nom_en": "Coppy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Merci! Ouaf!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Thank you! Arf!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Merci! Ouaf!",
+   "brut_en": "Thank[SP]you![SP]Arf!",
+   "data_size": 52,
+   "budget": 44
+  }
+ ]
+}

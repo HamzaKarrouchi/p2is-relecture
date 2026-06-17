@@ -1,0 +1,602 @@
+{
+ "no": 40,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai jamais cru en mes amis..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais Sheba et Mee-ho croyaient en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "moi..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je... Je...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I... I never believed in my friends..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But Sheba and Mee-ho believed in me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I... I...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai jamais cru en mes amis...[1205][001E]\nMais Sheba et Mee-ho croyaient en\nmoi...[1205][001E] Je... Je...!",
+   "brut_en": "I...[SP]I[SP]never[SP]believed[SP]in[SP]my[SP]friends...[1205][001E]\nBut[SP]Sheba[SP]and[SP]Mee-ho[SP]believed[SP]in[SP]me...[1205][001E]\nI...[SP]I...!",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je prends Sheba avec moi, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vite, sortons d'ici!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'll take Sheba with me, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Let's hurry and get out!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je prends Sheba avec moi, [1113]!\nVite, sortons d'ici!",
+   "brut_en": "I'll[SP]take[SP]Sheba[SP]with[SP]me,[SP][1113]!\nLet's[SP]hurry[SP]and[SP]get[SP]out!",
+   "data_size": 128,
+   "budget": 120
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lève-toi, Lisa! Fais ce que tu peux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "maintenant! Tu t'excuseras après."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Stand up, Lisa! You have to do what you can"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "right now! You can apologize later."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Lève-toi, Lisa! Fais ce que tu peux\nmaintenant! Tu t'excuseras après.",
+   "brut_en": "Stand[SP]up,[SP]Lisa![SP]You[SP]have[SP]to[SP]do[SP]what[SP]you[SP]can\nright[SP]now![SP]You[SP]can[SP]apologize[SP]later.",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu as essayé de les protéger, non?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ne t'en fais pas... À leur réveil,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "elles te pardonneront."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You tried to protect them, right? Don't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "worry... Once they wake up, I'm sure all"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "will be forgiven."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu as essayé de les protéger, non?\nNe t'en fais pas... À leur réveil,\nelles te pardonneront.",
+   "brut_en": "You[SP]tried[SP]to[SP]protect[SP]them,[SP]right?[SP]Don't\nworry...[SP]Once[SP]they[SP]wake[SP]up,[SP]I'm[SP]sure[SP]all\nwill[SP]be[SP]forgiven.",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Laisse-la moi! Allons-y!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Leave this one to me! Let's go already!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Laisse-la moi! Allons-y!",
+   "brut_en": "Leave[SP]this[SP]one[SP]to[SP]me![SP]Let's[SP]go[SP]already!",
+   "data_size": 100,
+   "budget": 92
+  },
+  {
+   "id": 5,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ces enfoirés...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je vais les écraser!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Those bastards...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'll stomp all over 'em!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ces enfoirés...![1205][001E] Je vais les écraser!",
+   "brut_en": "Those[SP]bastards...![1205][001E][SP]I'll[SP]stomp[SP]all[SP]over[SP]'em!",
+   "data_size": 118,
+   "budget": 110
+  },
+  {
+   "id": 6,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ok, on doit couvrir Ginko"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et Maya-san!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay, we need to provide cover for Ginko"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and Maya-san!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ok, on doit couvrir Ginko\net Maya-san!",
+   "brut_en": "Okay,[SP]we[SP]need[SP]to[SP]provide[SP]cover[SP]for[SP]Ginko\nand[SP]Maya-san!",
+   "data_size": 136,
+   "budget": 128
+  },
+  {
+   "id": 7,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Pas le temps. Évacuons ceux qui"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "restent pour trouver vite la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prochaine cible!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! There's no time. Whoever's left"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "needs to be evacuated so we can hurry and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "find the next target!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]! Pas le temps. Évacuons ceux qui\nrestent pour trouver vite la\nprochaine cible!",
+   "brut_en": "[1113]![SP]There's[SP]no[SP]time.[SP]Whoever's[SP]left\nneeds[SP]to[SP]be[SP]evacuated[SP]so[SP]we[SP]can[SP]hurry[SP]and\nfind[SP]the[SP]next[SP]target!",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 8,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Laisse-les à Maya-san et Lisa."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Leave them to Maya-san and Lisa."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]! Laisse-les à Maya-san et Lisa.",
+   "brut_en": "[1113]![SP]Leave[SP]them[SP]to[SP]Maya-san[SP]and[SP]Lisa.",
+   "data_size": 96,
+   "budget": 88
+  },
+  {
+   "id": 9,
+   "nom_fr": "Ombre de Mami",
+   "nom_en": "Mami shadowman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La promesse... avec Lisa..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mon... rêve..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Fini..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Promised... with Lisa..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " My... dream..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "No more..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La promesse... avec Lisa...[1205][001E] Mon... rêve...[1205][001E]\nFini...",
+   "brut_en": "Promised...[SP]with[SP]Lisa...[1205][001E][SP]My...[SP]dream...[1205][001E]\nNo[SP]more...",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 10,
+   "nom_fr": "Ombre de Mami",
+   "nom_en": "Mami shadowman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La mort...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça me... va..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Death...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That's... fine..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La mort...?[1205][001E] Ça me... va...",
+   "brut_en": "Death...?[1205][001E][SP]That's...[SP]fine...",
+   "data_size": 100,
+   "budget": 92
+  },
+  {
+   "id": 11,
+   "nom_fr": "Ombre de Miho",
+   "nom_en": "Miho shadowman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lisa pleure..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça n'a... plus"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'importance..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lisa's crying..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I guess... it doesn't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "matter..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Lisa pleure...[1205][001E] Ça n'a... plus\nd'importance...",
+   "brut_en": "Lisa's[SP]crying...[1205][001E][SP]I[SP]guess...[SP]it[SP]doesn't\nmatter...",
+   "data_size": 142,
+   "budget": 134
+  }
+ ]
+}

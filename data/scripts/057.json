@@ -1,0 +1,458 @@
+{
+ "no": 57,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un haltère!? C'est pas drôle... Je serais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "morte s'il m'était tombé dessus!"
+      }
+     ]
+    },
+    {
+     "nom": "Maya",
+     "seg": [
+      {
+       "t": "Grazie, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "... Je t'en dois une."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A barbell!? Th-This isn't funny... I'd be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dead if that had landed on me!"
+      }
+     ]
+    },
+    {
+     "nom": "Maya",
+     "seg": [
+      {
+       "t": "G-Grazie, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun... I owe you one."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un haltère!? C'est pas drôle... Je serais\nmorte s'il m'était tombé dessus!\n[E1][E2][E3][1121][E4][NULL][NULL]\"Maya\nGrazie, [1113]... Je t'en dois une.",
+   "brut_en": "A[SP]barbell!?[SP]Th-This[SP]isn't[SP]funny...[SP]I'd[SP]be\ndead[SP]if[SP]that[SP]had[SP]landed[SP]on[SP]me!\n[E1][E2][E3][1121][E4][NULL][NULL]\"Maya\nG-Grazie,[SP][1113]-kun...[SP]I[SP]owe[SP]you[SP]one.",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oulah! Il y a des bombes!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On a pas le temps de toutes les désamorcer!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! There are bombs everywhere!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We don't have time to disarm them all."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oulah! Il y a des bombes!\nOn a pas le temps de toutes les désamorcer!",
+   "brut_en": "Aiyah![SP]There[SP]are[SP]bombs[SP]everywhere!\nWe[SP]don't[SP]have[SP]time[SP]to[SP]disarm[SP]them[SP]all.",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce type serait du Cercle masqué lui aussi ?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "...Il était cool non? Enfin, pas autant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que toi bien sûr, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Was that guy a Masked Circle member too?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "...Didn't he look kinda cool? Not nearly"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "as cool as you, of course, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce type serait du Cercle masqué lui aussi ?\n...Il était cool non? Enfin, pas autant\nque toi bien sûr, [1113] !",
+   "brut_en": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][1113]!",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ni devinettes ni d'émetteurs ici... Pfiouu,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'espère qu'ils ont mis une aide pour nous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "indiquer où ils sont."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No riddles or transmitters here... Sheesh,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I wish they'd put up some kinda sign to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "let us know where they are."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ni devinettes ni d'émetteurs ici... Pfiouu,\nj'espère qu'ils ont mis une aide pour nous\nindiquer où ils sont.",
+   "brut_en": "No[SP]riddles[SP]or[SP]transmitters[SP]here...[SP]Sheesh,\nI[SP]wish[SP]they'd[SP]put[SP]up[SP]some[SP]kinda[SP]sign[SP]to\nlet[SP]us[SP]know[SP]where[SP]they[SP]are.",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce mec s'est enfui à la seconde où il nous a vu !"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il est méfiant, très bien. Pourchassons-le,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That guy ran off the second he saw our faces!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "He's suspicious, all right. Let's chase him"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "down, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce mec s'est enfui à la seconde où il nous a vu !\nIl est méfiant, très bien. Pourchassons-le,\n[1113] !",
+   "brut_en": "That[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][1113]!",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un haltère!? C'est pas drôle. Je serais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "morte s'il était tombé sur moi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A barbell!? Th-This isn't funny... I'd be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dead if that had landed on me!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un haltère!? C'est pas drôle. Je serais\nmorte s'il était tombé sur moi!",
+   "brut_en": "A[SP]barbell!?[SP]Th-This[SP]isn't[SP]funny...[SP]I'd[SP]be\ndead[SP]if[SP]that[SP]had[SP]landed[SP]on[SP]me!",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cet homme..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai l'impression"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de l'avoir déjà vu. Allez, on le suit !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That guy..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I feel like I've seen him"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "somewhere. Well, after him, I guess!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cet homme...[1205][001E] J'ai l'impression\nde l'avoir déjà vu. Allez, on le suit !",
+   "brut_en": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 7,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Détonateur... Détonateur... Que des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "détonateurs ! Ugh, ça me tape"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur les nerfs !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Detonator... Detonator... Nothing but"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "detonators! Ugh, this is getting on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "my nerves!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Détonateur... Détonateur... Que des\ndétonateurs ! Ugh, ça me tape\nsur les nerfs !",
+   "brut_en": "Detonator...[SP]Detonator...[SP]Nothing[SP]but\ndetonators![SP]Ugh,[SP]this[SP]is[SP]getting[SP]on\nmy[SP]nerves!",
+   "data_size": 194,
+   "budget": 186
+  }
+ ]
+}

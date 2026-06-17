@@ -1,0 +1,1337 @@
+{
+ "no": 45,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Salut Yukino! Ça fait un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bail. Tu as bonne mine..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hi, Yukino! Long time no see. I'd say"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you're looking well..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Salut Yukino! Ça fait un\nbail. Tu as bonne mine...",
+   "brut_en": "Hi,[SP]Yukino![SP]Long[SP]time[SP]no[SP]see.[SP]I'd[SP]say\nyou're[SP]looking[SP]well...",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 1,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Désolée de te déranger"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pendant ton travail, Eriko."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sorry to drag you out here when you've got"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "work to do, Eriko."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Désolée de te déranger\npendant ton travail, Eriko.",
+   "brut_en": "Sorry[SP]to[SP]drag[SP]you[SP]out[SP]here[SP]when[SP]you've[SP]got\nwork[SP]to[SP]do,[SP]Eriko.",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 2,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Voici ceux dont je t'ai parlé."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ma partenaire Maya"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": ", Lisa"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": ","
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Eikichi"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " et "
+      },
+      {
+       "pause": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "These are the guys I told you about over the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "phone. My partner Maya"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": ", Lisa"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": ", Eikichi"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": ", and"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Voici ceux dont je t'ai parlé.\nMa partenaire Maya[1205][U+000F], Lisa[1205][U+000F],\nEikichi[1205][U+000F] et [1205][U+000F][1113].",
+   "brut_en": "These[SP]are[SP]the[SP]guys[SP]I[SP]told[SP]you[SP]about[SP]over[SP]the\nphone.[SP]My[SP]partner[SP]Maya[1205][U+000F],[SP]Lisa[1205][U+000F],[SP]Eikichi[1205][U+000F],[SP]and[1205][U+000F]\n[1113].",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 3,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Enchantée de vous voir."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je suis Eriko Kirishima."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's nice to meet you all. My name is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Eriko Kirishima."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Enchantée de vous voir.\nJe suis Eriko Kirishima.",
+   "brut_en": "It's[SP]nice[SP]to[SP]meet[SP]you[SP]all.[SP]My[SP]name[SP]is\nEriko[SP]Kirishima.",
+   "data_size": 128,
+   "budget": 120
+  },
+  {
+   "id": 4,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Désolée d'être directe"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Eriko, mais ce dont on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a parlé au téléphone..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sorry to cut right to the point, Eriko,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but that stuff I told you about..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Désolée d'être directe\nEriko, mais ce dont on\na parlé au téléphone...",
+   "brut_en": "Sorry[SP]to[SP]cut[SP]right[SP]to[SP]the[SP]point,[SP]Eriko,\nbut[SP]that[SP]stuff[SP]I[SP]told[SP]you[SP]about...",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 5,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bien sûr. J'y réfléchissais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur le chemin."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sure. I was thinking it over on my way here."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bien sûr. J'y réfléchissais\nsur le chemin.",
+   "brut_en": "Sure.[SP]I[SP]was[SP]thinking[SP]it[SP]over[SP]on[SP]my[SP]way[SP]here.",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 6,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tout le monde peut regarder"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce moniteur ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Would everyone mind taking a look at this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "monitor?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tout le monde peut regarder\nce moniteur ?",
+   "brut_en": "Would[SP]everyone[SP]mind[SP]taking[SP]a[SP]look[SP]at[SP]this\nmonitor?",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 7,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " une vue aérienne de Sumaru"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "City?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " an overhead view of Sumaru City,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "yeah?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une...[1205][001E] une vue aérienne de Sumaru\nCity?",
+   "brut_en": "That's...[1205][001E][SP]an[SP]overhead[SP]view[SP]of[SP]Sumaru[SP]City,\nyeah?",
+   "data_size": 124,
+   "budget": 116
+  },
+  {
+   "id": 8,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Exactement. L'énigme de Leo"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est basée sur l'astrologie!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Indeed it is. I think this Leo fellow's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "riddle is based on astrology!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Exactement. L'énigme de Leo\nest basée sur l'astrologie!",
+   "brut_en": "Indeed[SP]it[SP]is.[SP]I[SP]think[SP]this[SP]Leo[SP]fellow's\nriddle[SP]is[SP]based[SP]on[SP]astrology!",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Douze bêtes sur les Pléiades"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Au vent du changement"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tous descendent en souriant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vers l'au-delà..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Twelve beasts crown the Pleiades"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "When the winds of change blow"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "All descend with smiles to the netherworld..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Douze bêtes sur les Pléiades\nAu vent du changement\nTous descendent en souriant\nvers l'au-delà...",
+   "brut_en": "Twelve[SP]beasts[SP]crown[SP]the[SP]Pleiades\nWhen[SP]the[SP]winds[SP]of[SP]change[SP]blow\nAll[SP]descend[SP]with[SP]smiles[SP]to[SP]the[SP]netherworld...",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 10,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La ligne "
+      },
+      {
+       "enc": "Douze bêtes couronnent les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Pléiades"
+      },
+      {
+       "t": " réfère aux signes du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Zodiaque, avec les Pléiades au centre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The line, "
+      },
+      {
+       "enc": "Twelve beasts crown the Pleiades,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "refers to the twelve signs of the Zodiac,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "with Pleiades at the center."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La ligne [1432][NULL][NULL][0014]Douze bêtes couronnent les\nPléiades[1432][NULL][NULL][0014] réfère aux signes du\nZodiaque, avec les Pléiades au centre.",
+   "brut_en": "The[SP]line,[SP][1432][NULL][NULL][0014]Twelve[SP]beasts[SP]crown[SP]the[SP]Pleiades,[1432][NULL][NULL][0014]\nrefers[SP]to[SP]the[SP]twelve[SP]signs[SP]of[SP]the[SP]Zodiac,\nwith[SP]Pleiades[SP]at[SP]the[SP]center.",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 11,
+   "nom_fr": "",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les Pléiades... Une seconde!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça veut dire Seven... ?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pleiades... Wait a sec! Does that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mean Sevens...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les Pléiades... Une seconde!\nÇa veut dire Seven... ?",
+   "brut_en": "Pleiades...[SP]Wait[SP]a[SP]sec![SP]Does[SP]that\nmean[SP]Sevens...?",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 12,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est ça ! D'après la première ligne,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "on doit tracer le cercle du Zodiaque"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec le lycée Seven Sisters au"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "centre !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's right! From the first line of the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "riddle, we know to draw the Zodiac circle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "with Seven Sisters High at the center!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est ça ! D'après la première ligne,\non doit tracer le cercle du Zodiaque\navec le lycée Seven Sisters au\ncentre !",
+   "brut_en": "That's[SP]right![SP]From[SP]the[SP]first[SP]line[SP]of[SP]the\nriddle,[SP]we[SP]know[SP]to[SP]draw[SP]the[SP]Zodiac[SP]circle\nwith[SP]Seven[SP]Sisters[SP]High[SP]at[SP]the[SP]center!",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 13,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D'accord, et pour la suite ? Ça"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "veut dire quoi, "
+      },
+      {
+       "enc": "Quand souffle le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "vent du changement"
+      },
+      {
+       "t": " !?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay, then what about the next part? What's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "When the winds of change blow"
+      },
+      {
+       "t": " supposed"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to mean!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "D'accord, et pour la suite ? Ça\nveut dire quoi, [1432][NULL][NULL][0014]Quand souffle le\nvent du changement[1432][NULL][NULL][0014] !?",
+   "brut_en": "Okay,[SP]then[SP]what[SP]about[SP]the[SP]next[SP]part?[SP]What's\n[1432][NULL][NULL][0014]When[SP]the[SP]winds[SP]of[SP]change[SP]blow[1432][NULL][NULL][0014][SP]supposed\nto[SP]mean!?",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 14,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La seconde ligne indique sûrement"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une direction."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Un signe de vent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "particulier préside aux aspects"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du changement..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The second line most likely indicates a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "direction."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There's a particular wind sign"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that presides over aspects of change..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La seconde ligne indique sûrement\nune direction.[1205][001E] Un signe de vent\nparticulier préside aux aspects\ndu changement...",
+   "brut_en": "The[SP]second[SP]line[SP]most[SP]likely[SP]indicates[SP]a\ndirection.[1205][001E][SP]There's[SP]a[SP]particular[SP]wind[SP]sign\nthat[SP]presides[SP]over[SP]aspects[SP]of[SP]change...",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 15,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est le Verseau. Sur le cercle,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'est au Nord-Ouest de Seven..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "La prochaine cible est donc"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hirasaka !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That would be Aquarius. On the circle, that's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "west-by-northwest from Seven Sisters High..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "So the next target is Hirasaka!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est le Verseau. Sur le cercle,\nc'est au Nord-Ouest de Seven...\nLa prochaine cible est donc\nHirasaka !",
+   "brut_en": "That[SP]would[SP]be[SP]Aquarius.[SP]On[SP]the[SP]circle,[SP]that's\nwest-by-northwest[SP]from[SP]Seven[SP]Sisters[SP]High...\nSo[SP]the[SP]next[SP]target[SP]is[SP]Hirasaka!",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 16,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est incroyable, Eriko ! Mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hirasaka est un quartier immense..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il nous faut un lieu précis."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's amazing, Eriko! But Hirasaka is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a pretty huge place... We still need to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pinpoint a location."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est incroyable, Eriko ! Mais\nHirasaka est un quartier immense...\nIl nous faut un lieu précis.",
+   "brut_en": "That's[SP]amazing,[SP]Eriko![SP]But[SP]Hirasaka[SP]is\na[SP]pretty[SP]huge[SP]place...[SP]We[SP]still[SP]need[SP]to\npinpoint[SP]a[SP]location.",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 17,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tous vont vers l'au-delà"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec le sourire..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "All descend with smiles to the netherworld..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tous vont vers l'au-delà\navec le sourire...",
+   "brut_en": "All[SP]descend[SP]with[SP]smiles[SP]to[SP]the[SP]netherworld...",
+   "data_size": 110,
+   "budget": 102
+  },
+  {
+   "id": 18,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vois. La descente vers l'au-delà"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "renvoie au Yomotsu Hirasaka de la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mythologie..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est un jeu de mots."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I get it. The descent into the netherworld"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is about Yomotsu Hirasaka from Japanese"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "myth..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's a play on words."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vois. La descente vers l'au-delà\nrenvoie au Yomotsu Hirasaka de la\nmythologie...[1205][001E] C'est un jeu de mots.",
+   "brut_en": "I[SP]get[SP]it.[SP]The[SP]descent[SP]into[SP]the[SP]netherworld\nis[SP]about[SP]Yomotsu[SP]Hirasaka[SP]from[SP]Japanese\nmyth...[1205][001E][SP]It's[SP]a[SP]play[SP]on[SP]words.",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 19,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Paroles de journaliste ! Aucun doute,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la troisième ligne cache le lieu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "exact dans Hirasaka."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Spoken like a trained journalist! There's no"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "doubt that the third line is a riddle as to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the exact location in Hirasaka."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Paroles de journaliste ! Aucun doute,\nla troisième ligne cache le lieu\nexact dans Hirasaka.",
+   "brut_en": "Spoken[SP]like[SP]a[SP]trained[SP]journalist![SP]There's[SP]no\ndoubt[SP]that[SP]the[SP]third[SP]line[SP]is[SP]a[SP]riddle[SP]as[SP]to\nthe[SP]exact[SP]location[SP]in[SP]Hirasaka.",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 20,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hélas, je connais mal les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "environs de Sumaru City."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je ne peux rien déduire"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de plus pour le moment..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Unfortunately, I'm not that familiar with"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sumaru City's environs."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So I can't deduce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "anything further as yet..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hélas, je connais mal les\nenvirons de Sumaru City.[1205][U+000F]\nJe ne peux rien déduire\nde plus pour le moment...",
+   "brut_en": "Unfortunately,[SP]I'm[SP]not[SP]that[SP]familiar[SP]with\nSumaru[SP]City's[SP]environs.[1205][U+000F][SP]So[SP]I[SP]can't[SP]deduce\nanything[SP]further[SP]as[SP]yet...",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 21,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est pas grave ! Tu nous as déjà"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "énormément aidés. On trouvera le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "reste seuls. Grazie, Eriko-san !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's okay! You've done more than your"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "share! We'll figure out the rest on our"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "own. Grazie, Eriko-san!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est pas grave ! Tu nous as déjà\nénormément aidés. On trouvera le\nreste seuls. Grazie, Eriko-san !",
+   "brut_en": "That's[SP]okay![SP]You've[SP]done[SP]more[SP]than[SP]your\nshare![SP]We'll[SP]figure[SP]out[SP]the[SP]rest[SP]on[SP]our\nown.[SP]Grazie,[SP]Eriko-san!",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 22,
+   "nom_fr": "Elly",
+   "nom_en": "Elly",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je t'en prie. Je vais rester ici"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour approfondir l'énigme du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Cercle Masqué."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're quite welcome. I'll stay here and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ponder the Masked Circle and their riddle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a little more."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je t'en prie. Je vais rester ici\npour approfondir l'énigme du\nCercle Masqué.",
+   "brut_en": "You're[SP]quite[SP]welcome.[SP]I'll[SP]stay[SP]here[SP]and\nponder[SP]the[SP]Masked[SP]Circle[SP]and[SP]their[SP]riddle\na[SP]little[SP]more.",
+   "data_size": 214,
+   "budget": 206
+  },
+  {
+   "id": 23,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On compte sur toi, Eriko. Ton"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "intuition nous aidera à voir ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qui nous échappe."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We're counting on you, Eriko. Your insight"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "will help us see things we'd overlook."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On compte sur toi, Eriko. Ton\nintuition nous aidera à voir ce\nqui nous échappe.",
+   "brut_en": "We're[SP]counting[SP]on[SP]you,[SP]Eriko.[SP]Your[SP]insight\nwill[SP]help[SP]us[SP]see[SP]things[SP]we'd[SP]overlook.",
+   "data_size": 186,
+   "budget": 178
+  }
+ ]
+}
