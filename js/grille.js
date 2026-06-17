@@ -8,11 +8,11 @@ import { initTheme, basculerTheme } from "./theme.js";
  */
 /**
  * Titre affiché pour un script : le label s'il existe, sinon un repli déduit des
- * personnages présents, sinon « (non traduit) » pour les scripts vides.
+ * personnages présents, sinon « Script vide » pour les scripts sans réplique.
  * @returns {{ texte: string, derive: boolean, vide: boolean }}
  */
 export function titreScript(s) {
-  if (s.repliques === 0) return { texte: "(non traduit)", derive: true, vide: true };
+  if (s.repliques === 0) return { texte: "Script vide", derive: true, vide: true };
   if (s.label) return { texte: s.label, derive: false, vide: false };
   if (s.personnages.length)
     return { texte: "Scène avec " + s.personnages.slice(0, 3).join(", "), derive: true, vide: false };
