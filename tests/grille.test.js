@@ -6,9 +6,9 @@ describe("titreScript", () => {
     expect(titreScript({ no: 1, label: "Intro", personnages: ["Maya"], repliques: 10 }))
       .toEqual({ texte: "Intro", derive: false, vide: false });
   });
-  it("marque les scripts vides « (non traduit) »", () => {
+  it("marque les scripts vides « Script vide »", () => {
     expect(titreScript({ no: 17, label: "", personnages: [], repliques: 0 }))
-      .toEqual({ texte: "(non traduit)", derive: true, vide: true });
+      .toEqual({ texte: "Script vide", derive: true, vide: true });
   });
   it("déduit un titre des personnages si pas de label", () => {
     const t = titreScript({ no: 18, label: "", personnages: ["Eikichi", "Ginko", "Kozy", "Leader"], repliques: 43 });
