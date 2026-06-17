@@ -1,5 +1,6 @@
 import { describe, it, expect, beforeEach } from "vitest";
-import { initGrille, titreScript } from "../js/grille.js";
+import { initGrille, titreScript, nomAffiche } from "../js/grille.js";
+import { Etat } from "../js/etat.js";
 
 describe("titreScript", () => {
   it("utilise le label quand il existe", () => {
@@ -15,6 +16,34 @@ describe("titreScript", () => {
     expect(t.texte).toBe("Scène avec Eikichi, Ginko, Kozy");
     expect(t.derive).toBe(true);
     expect(t.vide).toBe(false);
+  });
+});
+
+describe("nomAffiche", () => {
+  const heros = { prenom: "Léo", nom: "Durand" };
+  it("remplace [1113] par le prénom choisi", () => {
+    expect(nomAffiche("[1113] & Maya", heros)).toBe("Léo & Maya");
+    expect(nomAffiche("Ombre de [1113]", heros)).toBe("Ombre de Léo");
+  });
+  it("remplace [1112] par le nom de famille", () => {
+    expect(nomAffiche("[1112]", heros)).toBe("Durand");
+  });
+  it("laisse les autres labels intacts", () => {
+    expect(nomAffiche("Eikichi", heros)).toBe("Eikichi");
+  });
+});
+
+describe("filtre adapté au protagoniste", () => {
+  it("le déroulant affiche le nom choisi mais garde la valeur brute", () => {
+    Etat.set("heros", { prenom: "Léo", nom: "Durand" });
+    initGrille({
+      index: [{ no: 5, label: "Scène", personnages: ["[1113] & Maya"], repliques: 4 }],
+      recherche: { "005": "" },
+    });
+    const opt = [...document.getElementById("filtre-perso").options]
+      .find(o => o.value === "[1113] & Maya");
+    expect(opt).toBeTruthy();
+    expect(opt.textContent).toBe("Léo & Maya");
   });
 });
 
