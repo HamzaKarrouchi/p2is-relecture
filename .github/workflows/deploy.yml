@@ -3,6 +3,13 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - '**.md'
+      - 'docs/**'
+      - 'tests/**'
+      - 'tests_py/**'
+      - '.githooks/**'
+      - '.github/ISSUE_TEMPLATE/**'
   workflow_dispatch:
 
 # Permissions nécessaires au déploiement Pages

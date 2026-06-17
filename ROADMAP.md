@@ -1,8 +1,11 @@
 # ROADMAP — P2IS Relecture
 
-État au 2026-06-12, branche `site-v1`. Exécution du plan
-`docs/superpowers/plans/2026-06-12-site-relecture-p2is.md` (workflow : 1 tâche = 1 agent
-implémenteur + revue spec + revue qualité, TDD, 1 commit par tâche).
+**Site déployé** sur GitHub Pages : <https://hamzakarrouchi.github.io/p2is-relecture/>
+· dépôt <https://github.com/HamzaKarrouchi/p2is-relecture> · branche `main`.
+
+État actuel : **v1 complète (T1-T21)** + **refonte visuelle Velvet Editorial** +
+**infra repo** (CI/CD, hooks, issues). Suite de tests : **97 tests JS + 15 tests
+Python, tous verts.**
 
 ## 🦋 Refonte visuelle « Velvet Editorial » (2026-06-16)
 
@@ -40,19 +43,34 @@ Suite de tests : **97 tests JS + 15 tests Python, tous verts.**
 
 Suite de tests : **43 tests JS + 15 tests Python, tous verts.**
 
-## 🔜 À faire (T12-T21 du plan)
+## ✅ Fait — v1 complète (T12-T21, merge `5877196`)
 
-- **T12** Lecteur v1 — `lecture.html` + fil statique complet de bulles
-- **T13** Révélation progressive + machine à écrire (vitesse réglable, reprise de lecture)
+- **T12** Lecteur v1 — `lecture.html` + fil complet de bulles
+- **T13** Révélation progressive + machine à écrire (vitesse réglable, reprise)
 - **T14** Choix interactifs (sélection cosmétique, lecture linéaire)
-- **T15** Comparaison FR/EN (toggle global + 🔁 par bulle)
+- **T15** Comparaison FR/EN (toggle global + par bulle)
 - **T16** Dictionnaire (coloration, infobulles, page glossaire, ⚠ incohérence)
 - **T17** Éditeur à jetons (jauge octets, caractères interdits, nom_fr éditable)
 - **T18** Panier + export Discord
 - **T19** Fin de script (✓ relu), navigation, vitesse, export/import sauvegarde
-- **T20** À propos, README captures, GitHub Pages (.nojekyll, push, activer Pages)
-- **T21** Polish UI/UX (skill design front), responsive, prefers-reduced-motion partout
-- Revue finale complète + merge `site-v1` → `main` + déploiement
+- **T20** À propos, README, **GitHub Pages** (déployé via Actions)
+- **T21** Polish UI/UX, responsive, `prefers-reduced-motion`
+
+## ⚙️ Infra repo (2026-06-17)
+
+- **CI** (`.github/workflows/ci.yml`) : `npm test` + tests Python sur push/PR.
+- **CD** (`.github/workflows/deploy.yml`) : déploiement GitHub Pages sur `main`.
+- **Hooks git** (`.githooks/`, activés par `npm install`) : `pre-push` (tests),
+  `commit-msg` (convention de préfixe).
+- **Templates** : issues (bug / amélioration) + pull request.
+
+## 🔜 Reste à faire (suivi par les issues GitHub)
+
+- **#1** Captures d'écran du site dans le README
+- **#2** Portraits de personnages manquants (détail ci-dessous)
+- **#3** Relecture de cohérence du dictionnaire
+- **#4** Thème initial selon `prefers-color-scheme`
+- **#5** Vérifier le responsive sur appareils réels
 
 ## 🖼️ Portraits à acquérir (priorité haute → basse)
 
