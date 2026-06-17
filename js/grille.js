@@ -11,6 +11,17 @@ import { initTheme, basculerTheme } from "./theme.js";
  * personnages présents, sinon « Script vide » pour les scripts sans réplique.
  * @returns {{ texte: string, derive: boolean, vide: boolean }}
  */
+/**
+ * Substitue les placeholders du protagoniste dans un libellé de personnage :
+ * `[1113]` → prénom choisi, `[1112]` → nom de famille choisi. Sert à l'affichage
+ * (le déroulant garde la valeur brute pour le filtrage).
+ */
+export function nomAffiche(label, heros) {
+  return String(label)
+    .split("[1113]").join(heros?.prenom || "Tatsuya")
+    .split("[1112]").join(heros?.nom || "Suou");
+}
+
 export function titreScript(s) {
   if (s.repliques === 0) return { texte: "Script vide", derive: true, vide: true };
   if (s.label) return { texte: s.label, derive: false, vide: false };
@@ -54,9 +65,13 @@ export function initGrille({ index, recherche, etat = Etat }) {
   const grille = document.getElementById("grille");
   const sel = document.getElementById("filtre-perso");
 
-  // Peuple le select avec les personnages uniques triés
-  const persos = [...new Set(index.flatMap(s => s.personnages))].sort();
-  for (const p of persos) sel.add(new Option(p, p));
+  // Peuple le select avec les personnages uniques : le placeholder du héros
+  // ([1113]/[1112]) est remplacé par le nom choisi à l'affichage, la valeur
+  // reste brute pour que le filtrage continue de matcher s.personnages.
+  const heros = etat.get("heros", { prenom: "Tatsuya", nom: "Suou" });
+  const persos = [...new Set(index.flatMap(s => s.personnages))]
+    .sort((a, b) => nomAffiche(a, heros).localeCompare(nomAffiche(b, heros), "fr"));
+  for (const p of persos) sel.add(new Option(nomAffiche(p, heros), p));
 
   function rendre() {
     const q = document.getElementById("q").value.trim().toLowerCase();
