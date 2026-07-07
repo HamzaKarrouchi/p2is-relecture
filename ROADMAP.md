@@ -4,8 +4,26 @@
 · dépôt <https://github.com/HamzaKarrouchi/p2is-relecture> · branche `main`.
 
 État actuel : **v1 complète (T1-T21)** + **refonte visuelle Velvet Editorial** +
-**infra repo** (CI/CD, hooks, issues). Suite de tests : **97 tests JS + 15 tests
+**infra repo** (CI/CD, hooks, issues) + **export panier → issue GitHub** +
+**édition des réponses de menus**. Suite de tests : **116 tests JS + 15 tests
 Python, tous verts.**
+
+## 🔀 Panier → issue GitHub + édition des réponses (2026-07-07)
+
+- Le panier ne copie plus vers Discord en premier lieu : bouton
+  « 🐙 Créer une issue GitHub » qui ouvre `HamzaKarrouchi/P2-FR-IS-PSP/issues/new`
+  pré-rempli (titre + corps Markdown, label `relecture`), sans backend ni
+  token côté client (`js/panier.js:construireLiensIssues`). Panier volumineux
+  scindé en plusieurs issues si l'URL dépasserait ~7500 caractères. Repli :
+  liens cliquables si la pop-up est bloquée, bouton Copier toujours là.
+- Nouveau bouton ✏️ sur les blocs `.choix` : éditeur dédié aux réponses
+  (`js/editeur.js:ouvrirEditeurChoix`) — la question reste gelée, seules les
+  options sont modifiables, budget/caractères interdits vérifiés comme
+  l'éditeur de bulle. Ferme l'item « v2 » ci-dessous.
+- 138 corrections de relecture (8 contributeurs, cf. panier Discord d'avant
+  cette bascule) appliquées directement dans `P2-FR-IS-PSP`
+  ([PR #2](https://github.com/HamzaKarrouchi/P2-FR-IS-PSP/pull/2)) + `data/`
+  régénéré côté ce dépôt.
 
 ## 🦋 Refonte visuelle « Velvet Editorial » (2026-06-16)
 
@@ -117,7 +135,6 @@ En attendant : repli emoji → initiale (déjà fonctionnel).
 
 ## 💡 Plus tard (v2, hors périmètre actuel)
 
-- Édition des champs `question_fr`/`choix_fr` dédiés des menus
 - Couvrir MMAP01-06, CD_SHOP, F_BE, TM_EVE quand ils seront traduits
 - Expressions multiples des portraits (joie/colère) si quelqu'un tagge les scènes
 - Mode « replay » d'un script avec uniquement les bulles modifiées
