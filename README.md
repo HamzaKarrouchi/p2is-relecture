@@ -5,9 +5,10 @@
 **Outil web de relecture de la traduction française de *Persona 2: Innocent Sin* (PSP).**
 
 On lit les scripts du jeu comme un visual novel — portraits, bulles, machine à
-écrire, choix — on clique sur une bulle pour proposer une correction (avec
-contrôle automatique de la **limite de taille binaire** du jeu), puis on copie
-ses propositions formatées pour les poster sur Discord.
+écrire, choix — on clique sur une bulle (ou une réponse de menu) pour proposer
+une correction (avec contrôle automatique de la **limite de taille binaire**
+du jeu), puis on envoie ses propositions groupées en une issue GitHub
+pré-remplie.
 
 `100 % statique` · `HTML/CSS/JS vanilla` · `zéro build` · `zéro dépendance runtime`
 
@@ -49,11 +50,17 @@ sobre et littéraire, à grande respiration — pensé pour relire des heures.
    personnage, progression ✦ par script.
 3. **Lecture** (`lecture.html?s=NNN`) : fil de bulles progressif (clic/Espace),
    héros à droite, PNJ à gauche, comparaison FR/EN, termes du dictionnaire colorés.
-4. **Proposition** : clic sur une bulle → éditeur à jetons (les codes du jeu sont
-   des pastilles insécables), jauge d'octets en direct, validation bloquée hors budget.
-5. **Export** : le panier regroupe tes propositions → « Copier pour Discord ».
+4. **Proposition** : clic sur ✏️ (bulle ou réponse de menu) → éditeur à jetons
+   (les codes du jeu sont des pastilles insécables ; pour un menu, la question
+   reste gelée, seules les réponses sont éditables), jauge d'octets en direct,
+   validation bloquée hors budget.
+5. **Export** : le panier regroupe tes propositions → « Créer une issue GitHub »
+   (lien pré-rempli vers `HamzaKarrouchi/P2-FR-IS-PSP/issues/new`, scindé en
+   plusieurs issues si trop volumineux) — ou « Copier » en repli.
 
 Tout est local (`localStorage`) : aucun compte, aucun serveur.
+
+Guide détaillé pour les relecteurs : [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 🛠️ Développement
 
