@@ -95,6 +95,11 @@ export function initGrille({ index, recherche, etat = Etat }) {
 
   document.getElementById("q").addEventListener("input", rendre);
   sel.addEventListener("change", rendre);
+  document.getElementById("btn-reset")?.addEventListener("click", () => {
+    document.getElementById("q").value = "";
+    sel.value = "";
+    rendre();
+  });
   rendre();
 }
 

@@ -58,6 +58,7 @@ beforeEach(() => {
   document.body.innerHTML = `
     <span id="stats"></span><button id="btn-theme"></button>
     <input id="q"><select id="filtre-perso"><option value="">Tous</option></select>
+    <button id="btn-reset"></button>
     <div id="grille"></div>`;
 });
 
@@ -79,5 +80,17 @@ describe("grille", () => {
     const cartes = document.querySelectorAll(".carte-script");
     expect(cartes).toHaveLength(1);
     expect(cartes[0].href).toContain("s=62");
+  });
+  it("le bouton réinitialiser efface la recherche et le filtre personnage", () => {
+    initGrille({ index: INDEX, recherche: RECHERCHE });
+    const q = document.getElementById("q");
+    const sel = document.getElementById("filtre-perso");
+    q.value = "roi lion"; q.dispatchEvent(new Event("input"));
+    sel.value = "Maya"; sel.dispatchEvent(new Event("change"));
+    expect(document.querySelectorAll(".carte-script")).toHaveLength(0);
+    document.getElementById("btn-reset").click();
+    expect(q.value).toBe("");
+    expect(sel.value).toBe("");
+    expect(document.querySelectorAll(".carte-script")).toHaveLength(2);
   });
 });
