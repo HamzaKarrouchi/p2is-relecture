@@ -2,7 +2,7 @@ import { Etat } from "./etat.js";
 import { initTheme, basculerTheme } from "./theme.js";
 import { rendreSegments, rendreAvatar } from "./normalise.js";
 import { chargerDico, marquerTermes, incoherences } from "./dico.js";
-import { ouvrirEditeur } from "./editeur.js";
+import { ouvrirEditeur, ouvrirEditeurChoix } from "./editeur.js";
 import { ouvrirPanier } from "./panier.js";
 
 /**
@@ -55,7 +55,7 @@ export function construireBulle(entree, bulle, { heros, persos, indiceBulle = 0,
   return el;
 }
 
-export function construireChoix(entree, { heros = { prenom: "Héros" } } = {}) {
+export function construireChoix(entree, { heros = { prenom: "Héros" }, surEditerChoix } = {}) {
   const bloc = document.createElement("div");
   bloc.className = "choix";
   bloc.dataset.id = entree.id;
@@ -65,12 +65,17 @@ export function construireChoix(entree, { heros = { prenom: "Héros" } } = {}) {
   const titre = document.createElement("div");
   titre.className = "choix-titre";
   titre.textContent = `Votre réponse — ${heros.prenom}`;
-  entete.append(titre, rendreAvatar(heros.prenom || "?", { portrait: "Tatsuya.webp" }));
+  const btnEdit = document.createElement("button");
+  btnEdit.type = "button";
+  btnEdit.className = "edit"; btnEdit.dataset.edit = ""; btnEdit.textContent = "✏️"; btnEdit.title = "Éditer les réponses";
+  btnEdit.onclick = (ev) => { ev.stopPropagation(); surEditerChoix?.(entree, bloc); };
+  entete.append(titre, rendreAvatar(heros.prenom || "?", { portrait: "Tatsuya.webp" }), btnEdit);
   bloc.append(entete);
   const optionsEn = entree.choix_en?.options;
   entree.choix_fr.options.forEach((opt, i) => {
     const b = document.createElement("button");
     b.type = "button";
+    b.className = "option";
     b.textContent = opt;
     if (optionsEn) b.title = optionsEn[i] ?? "";
     bloc.append(b);
@@ -166,7 +171,7 @@ export function creerLecture({ fil, blocs, ctx, vitesse = () => 28, surAvance = 
   /** Arme un bloc choix déjà inséré : bloque la lecture jusqu'au clic d'une option. */
   function armerChoix(el) {
     choixEnAttente = true;
-    const boutons = [...el.querySelectorAll("button")];
+    const boutons = [...el.querySelectorAll("button.option")];
     for (const b of boutons) {
       b.onclick = (ev) => {
         ev.stopPropagation();
@@ -274,6 +279,12 @@ if (document.getElementById("fil")) {
       fil, blocs, ctx: {
         heros, persos, dico,
         surEditer: (entree, el) => ouvrirEditeur(entree, (prop) => {
+          Etat.panierAjouter({ script: no, id: entree.id, ...prop,
+                               ancien_brut: entree.brut_fr, ancien_nom: entree.nom_fr });
+          el.classList.add("modifiee");
+          majBadgePanier();
+        }),
+        surEditerChoix: (entree, el) => ouvrirEditeurChoix(entree, (prop) => {
           Etat.panierAjouter({ script: no, id: entree.id, ...prop,
                                ancien_brut: entree.brut_fr, ancien_nom: entree.nom_fr });
           el.classList.add("modifiee");

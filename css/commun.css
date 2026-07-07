@@ -73,16 +73,17 @@ body {
 .choix{ display:flex; flex-direction:column; gap:8px; margin:16px 0; align-items:flex-end; }
 .choix .choix-titre{ font-family:var(--ff-titre); font-style:italic; font-size:.95em;
   color:var(--heros-nom); font-weight:600; opacity:.9; }
-.choix button{ background:var(--heros-fond); border:1px solid var(--heros-bord);
+.choix button.option{ background:var(--heros-fond); border:1px solid var(--heros-bord);
   color:var(--texte); padding:9px 16px; border-radius:var(--rayon); cursor:pointer;
   text-align:right; max-width:78%; font-family:var(--ff-corps);
   transition:transform .12s ease, background .15s ease; }
-.choix button:hover{ background:color-mix(in srgb,var(--heros-bord) 18%,var(--heros-fond));
+.choix button.option:hover{ background:color-mix(in srgb,var(--heros-bord) 18%,var(--heros-fond));
   transform:translateX(-3px); }
 .choix button.elu{ background:var(--rouge); border-color:var(--rouge); color:#fff; font-weight:700; }
 .choix button.fane{ opacity:.3; }
 .choix-entete{ display:flex; flex-direction:row-reverse; align-items:center; gap:10px; margin-bottom:2px; }
 .choix-entete .avatar{ width:56px; height:56px; font-size:26px; border-color:var(--heros-bord); }
+.choix.modifiee .choix-titre{ color:var(--dico); }
 
 /* ── Comparaison EN / boutons de bulle ────────────── */
 .version-en{ display:none; color:var(--texte2); font-size:.88em; margin-top:8px;
@@ -139,6 +140,8 @@ body.compare .version-en,.bulle.montre-en .version-en{ display:block; }
   padding:11px; min-height:90px; margin:8px 0; white-space:pre-wrap; }
 .ed-en{ color:var(--texte2); font-size:.88em; border-left:3px solid var(--bord);
   padding-left:10px; margin:8px 0; white-space:pre-wrap; font-style:italic; }
+.ed-question-gelee{ color:var(--texte2); font-size:.9em; font-style:italic;
+  margin:8px 0; white-space:pre-wrap; }
 #ed-jauge{ font-family:var(--ff-titre); font-style:italic; }
 #ed-jauge.vert{ color:#6fae5a; } #ed-jauge.orange{ color:var(--accent); } #ed-jauge.rouge{ color:var(--rouge); }
 #ed-erreurs{ color:var(--rouge); font-size:.88em; min-height:1.2em; }
