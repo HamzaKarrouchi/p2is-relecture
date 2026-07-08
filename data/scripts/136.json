@@ -71,25 +71,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis surprise que tu aies trouvé"
+       "t": "Surprise que tu aies trouvé ma maison."
       },
       {
        "nl": true
-      },
-      {
-       "t": "ma maison."
       },
       {
        "pause": true
       },
       {
-       "t": " En ouvrant la fenêtre, j'ai"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "cru voir double !"
+       "t": " En ouvrant la fenêtre, j'ai cru voir double !"
       }
      ]
     }
@@ -124,7 +115,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis surprise que tu aies trouvé\nma maison.[1205][001E] En ouvrant la fenêtre, j'ai\ncru voir double !",
+   "brut_fr": "Surprise que tu aies trouvé ma maison.\n[1205][001E] En ouvrant la fenêtre, j'ai cru voir double !",
    "brut_en": "I'm[SP]surprised[SP]you[SP]figured[SP]out[SP]which[SP]house[SP]was\nmine.[1205][001E][SP]When[SP]I[SP]opened[SP]the[SP]window,[SP]I[SP]thought[SP]I\nwas[SP]seeing[SP]double!",
    "data_size": 242,
    "budget": 234
@@ -144,13 +135,7 @@
        "pause": true
       },
       {
-       "t": " C'est normal"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "que tu aies cru ça..."
+       "t": " C'est normal que tu aies cru ça..."
       }
      ]
     }
@@ -179,7 +164,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "E-Eh bien, avec la nuit...[1205][001E] C'est normal\nque tu aies cru ça...",
+   "brut_fr": "E-Eh bien, avec la nuit...[1205][001E] C'est normal que tu aies cru ça...",
    "brut_en": "W-Well,[SP]it[SP]was[SP]dark[SP]out...[1205][001E][SP]I'm[SP]not[SP]that\nsurprised[SP]you'd[SP]think[SP]so...",
    "data_size": 158,
    "budget": 150
@@ -193,13 +178,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé..."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Tu connais les Doppelgangers?"
+       "t": "Hé tu sais ce qu'est un Double"
       }
      ]
     }
@@ -222,7 +201,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé...[1205][U+000F] Tu connais les Doppelgangers?",
+   "brut_fr": "Hé tu sais ce qu'est un Double",
    "brut_en": "Hey...[1205][001E][SP]You[SP]know[SP]what[SP]a[SP]doppelganger[SP]is?",
    "data_size": 104,
    "budget": 96
@@ -512,13 +491,13 @@
        "hero": "prenom"
       },
       {
-       "t": "..."
+       "t": "-jun..."
       },
       {
        "pause": true
       },
       {
-       "t": " Vous êtes si différents,"
+       "t": " Si différents,"
       },
       {
        "nl": true
@@ -571,7 +550,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun et [1113]...[1205][001E] Vous êtes si différents,\npourtant vous vous attirez l'un l'autre\ncomme des ombres...",
+   "brut_fr": "Jun et [1113]-jun...[1205][001E] Si différents,\npourtant vous vous attirez l'un l'autre\ncomme des ombres...",
    "brut_en": "Jun-kun[SP]and[SP][1113]-kun...[1205][001E][SP]Your[SP]personalities\nare[SP]different,[SP]but[SP]maybe[SP]that's[SP]why[SP]you[SP]two\ndraw[SP]each[SP]other[SP]together[SP]like[SP]shadows...",
    "data_size": 274,
    "budget": 266
