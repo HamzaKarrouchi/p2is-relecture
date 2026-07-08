@@ -4,8 +4,50 @@
 · dépôt <https://github.com/HamzaKarrouchi/p2is-relecture> · branche `main`.
 
 État actuel : **v1 complète (T1-T21)** + **refonte visuelle Velvet Editorial** +
-**infra repo** (CI/CD, hooks, issues). Suite de tests : **97 tests JS + 15 tests
-Python, tous verts.**
+**infra repo** (CI/CD, hooks, issues) + **export panier → issue GitHub** +
+**édition des réponses de menus**. Suite de tests : **128 tests JS + 15 tests
+Python, tous verts** + 2 scripts `e2e/` (Playwright, hors CI).
+
+## 🔀 Panier → issue GitHub + édition des réponses (2026-07-07)
+
+- Le panier ne copie plus vers Discord en premier lieu : bouton
+  « 🐙 Créer une issue GitHub » qui ouvre `HamzaKarrouchi/P2-FR-IS-PSP/issues/new`
+  pré-rempli (titre + corps Markdown, label `relecture`), sans backend ni
+  token côté client (`js/panier.js:construireLiensIssues`). Panier volumineux
+  scindé en plusieurs issues si l'URL dépasserait ~7500 caractères. Repli :
+  liens cliquables si la pop-up est bloquée, bouton Copier toujours là.
+- Nouveau bouton ✏️ sur les blocs `.choix` : éditeur dédié aux réponses
+  (`js/editeur.js:ouvrirEditeurChoix`) — la question reste gelée, seules les
+  options sont modifiables, budget/caractères interdits vérifiés comme
+  l'éditeur de bulle. Ferme l'item « v2 » ci-dessous.
+- 138 corrections de relecture (8 contributeurs, cf. panier Discord d'avant
+  cette bascule) appliquées directement dans `P2-FR-IS-PSP`
+  ([PR #2](https://github.com/HamzaKarrouchi/P2-FR-IS-PSP/pull/2)) + `data/`
+  régénéré côté ce dépôt.
+- Petites fonctions : bouton « Réinitialiser » sur la grille des scripts
+  (`js/grille.js`), raccourci clavier **P** pour ouvrir/fermer le panier en
+  lecture (`js/lecteur.js:basculerPanier`).
+- Docs : `CONTRIBUTING.md` (guide relecteur), README à jour.
+- Tests : `dico.js` renforcé (faux positifs, casse, cumul), 2 scripts
+  `e2e/` Playwright (éditeur de choix, non-régression responsive).
+
+### 🔀 Fork P2-FR-IS-PSP resynchronisé (2026-07-07)
+
+Découverte : `HamzaKarrouchi/P2-FR-IS-PSP` n'a **aucun historique git commun**
+avec `chenetulipe/P2-FR-IS-PSP` (commit racine sans parent — import figé, pas
+un vrai fork). `git merge` impossible : resynchronisation par **contenu**
+à la place.
+- [PR #3](https://github.com/HamzaKarrouchi/P2-FR-IS-PSP/pull/3) :
+  `traduction/event_scripts/` (399 fichiers) + `Dictionnaire.md` remplacés
+  par la version actuelle de chenetulipe (1432 commits d'avance) + les 4
+  `nom_fr` pollués corrigés au passage. `data/` régénéré côté ce dépôt.
+- Sur les 138 corrections de la PR #2, 9 étaient déjà présentes côté
+  chenetulipe et 8 avaient une formulation légèrement différente déjà
+  choisie côté chenetulipe (non écrasées). Les 121 restantes : branche
+  `relecture-121-corrections` poussée sur le fork, lien de PR croisée prêt
+  vers chenetulipe (non créée automatiquement, dépôt hors périmètre de
+  cette session) :
+  <https://github.com/chenetulipe/P2-FR-IS-PSP/compare/main...HamzaKarrouchi:P2-FR-IS-PSP:relecture-121-corrections?expand=1>
 
 ## 🦋 Refonte visuelle « Velvet Editorial » (2026-06-16)
 
@@ -70,7 +112,9 @@ Suite de tests : **43 tests JS + 15 tests Python, tous verts.**
 - **#2** Portraits de personnages manquants (détail ci-dessous)
 - **#3** Relecture de cohérence du dictionnaire
 - **#4** Thème initial selon `prefers-color-scheme`
-- **#5** Vérifier le responsive sur appareils réels
+- **#5** Vérifier le responsive sur appareils réels — non-régression auto en place
+  (`e2e/responsive.mjs`, 375/768/1440px), a trouvé et corrigé un débordement de
+  `.barre` à 768px
 
 ## 🖼️ Portraits à acquérir (priorité haute → basse)
 
@@ -106,18 +150,15 @@ Disponibles (22) :
 
 En attendant : repli emoji → initiale (déjà fonctionnel).
 
-## 🧹 Qualité des données (repérées par les revues, à corriger côté repo de TRAD)
+## 🧹 Qualité des données
 
-`data/personnages.json` révèle des `nom_fr` sales dans `traduction/event_scripts/` :
-- `"Voix de Ginko[E4][NULL][NULL][0002]"` — codes bruts dans un nom_fr
-- `"Ginko "` et `"Principal "` — espaces finaux
-- `"[NULL][E4][NULL][NULL]\"Eikichi"` — nom corrompu
-
-→ À corriger dans `Trad_Persona2/P2-FR-IS-PSP` (passe d'harmonisation), puis `python3 sync.py`.
+✅ Fait (2026-07-07, commit `20f77f7` côté P2-FR-IS-PSP + régen `data/`) : les
+4 `nom_fr` pollués repérés par les revues (codes bruts en fin de nom,
+espaces finaux, nom manquant, préfixe corrompu) sont corrigés à la source ;
+les entrées orphelines correspondantes retirées de `data/personnages.json`.
 
 ## 💡 Plus tard (v2, hors périmètre actuel)
 
-- Édition des champs `question_fr`/`choix_fr` dédiés des menus
 - Couvrir MMAP01-06, CD_SHOP, F_BE, TM_EVE quand ils seront traduits
 - Expressions multiples des portraits (joie/colère) si quelqu'un tagge les scènes
 - Mode « replay » d'un script avec uniquement les bulles modifiées

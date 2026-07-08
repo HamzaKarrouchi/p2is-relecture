@@ -137,17 +137,30 @@ def ecrire(chemin, obj):
     os.replace(tmp, chemin)
 
 
-def generer_dictionnaire():
-    """Parse le tableau markdown de Dictionnaire.md -> [{en, fr}]."""
-    chemin = os.path.join(TRAD, "scripts", "Dictionnaire.md")
+_ENTETES_DICO = {"Anglais", "Terme Anglais (Original)"}
+
+def parser_dictionnaire(texte):
+    """Tableau markdown de Dictionnaire.md (une ou plusieurs sections) -> [{en, fr}].
+    Tolère le gras (**terme**) et une 3e colonne libre (remarques), ignorées."""
     termes = []
-    with open(chemin, encoding="utf-8") as fh:
-        for ligne in fh:
-            c = [x.strip() for x in ligne.strip().strip("|").split("|")]
-            if len(c) >= 2 and c[0] and not c[0].startswith("-") and c[0] != "Anglais":
-                fr = re.sub(r"\*\(.*?\)\*", "", c[1]).strip()   # retire les annotations
-                termes.append({"en": c[0], "fr": fr})
+    _SEPARATEUR = re.compile(r"^:?-+:?$")
+    for ligne in texte.splitlines():
+        c = [x.strip() for x in ligne.strip().strip("|").split("|")]
+        if len(c) < 2 or not c[0] or _SEPARATEUR.match(c[0]):
+            continue
+        en = re.sub(r"\*\*(.*?)\*\*", r"\1", c[0]).strip()
+        if en in _ENTETES_DICO:
+            continue
+        fr = re.sub(r"\*\(.*?\)\*", "", c[1])           # retire les annotations italiques
+        fr = re.sub(r"\*\*(.*?)\*\*", r"\1", fr).strip()  # retire le gras
+        termes.append({"en": en, "fr": fr})
     return termes
+
+
+def generer_dictionnaire():
+    chemin = os.path.join(TRAD, "Dictionnaire.md")
+    with open(chemin, encoding="utf-8") as fh:
+        return parser_dictionnaire(fh.read())
 
 
 def main():

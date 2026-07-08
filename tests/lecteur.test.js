@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeEach, vi } from "vitest";
-import { estHeros, construireBulle, construireChoix, aplatir, rendreFil, ecrireMachine, creerLecture } from "../js/lecteur.js";
+import { estHeros, construireBulle, construireChoix, aplatir, rendreFil, ecrireMachine, creerLecture, basculerPanier } from "../js/lecteur.js";
 
 const HEROS = { prenom: "Hamza", nom: "K" };
 const PERSOS = { "Eikichi": { emoji: "🎸" } };
@@ -48,7 +48,25 @@ describe("aplatir + rendreFil", () => {
     const blocs = aplatir([E_SIMPLE, E_MENU]);
     rendreFil(document.getElementById("fil"), blocs, { heros: HEROS, persos: PERSOS });
     expect(document.querySelectorAll(".bulle").length).toBeGreaterThanOrEqual(2);
-    expect(document.querySelectorAll(".choix button")).toHaveLength(2);
+    expect(document.querySelectorAll(".choix button.option")).toHaveLength(2);
+  });
+});
+
+describe("basculerPanier", () => {
+  it("ouvre le panneau masqué via le callback fourni", () => {
+    const pan = document.createElement("div");
+    pan.hidden = true;
+    let appele = false;
+    basculerPanier(pan, () => { appele = true; });
+    expect(appele).toBe(true);
+  });
+  it("masque le panneau déjà visible sans appeler le callback", () => {
+    const pan = document.createElement("div");
+    pan.hidden = false;
+    let appele = false;
+    basculerPanier(pan, () => { appele = true; });
+    expect(pan.hidden).toBe(true);
+    expect(appele).toBe(false);
   });
 });
 
@@ -139,14 +157,14 @@ describe("creerLecture — choix interactifs (T14)", () => {
   it("bloque la lecture sur le bloc choix tant qu'aucune option n'est cliquée", () => {
     const { fil, lecture } = avancerAuChoix();
     const posApresChoix = lecture.position();
-    expect(fil.querySelectorAll(".choix button")).toHaveLength(2);
+    expect(fil.querySelectorAll(".choix button.option")).toHaveLength(2);
     lecture.avancer(); // ne doit pas dépasser le choix
     expect(lecture.position()).toBe(posApresChoix);
     expect(fil.querySelectorAll(".bulle")).toHaveLength(2); // "Après" pas encore inséré
   });
   it("cliquer une option l'illumine, fane les autres, puis la lecture reprend", () => {
     const { fil, lecture } = avancerAuChoix();
-    const boutons = [...fil.querySelectorAll(".choix button")];
+    const boutons = [...fil.querySelectorAll(".choix button.option")];
     boutons[0].click();
     expect(boutons[0].classList.contains("elu")).toBe(true);
     expect(boutons[1].classList.contains("fane")).toBe(true);
@@ -234,7 +252,7 @@ describe("construireBulle — comparaison FR/EN (T15)", () => {
 describe("construireChoix — comparaison FR/EN (T15)", () => {
   it("avec choix_en : boutons ont le title EN et une ligne .version-en jointe par « / »", () => {
     const bloc = construireChoix(E_MENU_EN);
-    const boutons = [...bloc.querySelectorAll("button")];
+    const boutons = [...bloc.querySelectorAll("button.option")];
     expect(boutons.map(b => b.title)).toEqual(["Yes", "No"]);
     const versionEn = bloc.querySelector(".version-en");
     expect(versionEn).not.toBeNull();
@@ -242,7 +260,7 @@ describe("construireChoix — comparaison FR/EN (T15)", () => {
   });
   it("sans choix_en : pas de title, pas de .version-en", () => {
     const bloc = construireChoix(E_MENU);
-    const boutons = [...bloc.querySelectorAll("button")];
+    const boutons = [...bloc.querySelectorAll("button.option")];
     expect(boutons.every(b => b.title === "")).toBe(true);
     expect(bloc.querySelector(".version-en")).toBeNull();
   });
@@ -252,5 +270,43 @@ describe("construireChoix — comparaison FR/EN (T15)", () => {
     expect(entete).not.toBeNull();
     expect(entete.querySelector(".choix-titre").textContent).toContain("Hamza");
     expect(entete.querySelector(".avatar")).not.toBeNull();
+  });
+});
+
+describe("construireChoix — édition des réponses", () => {
+  const E_MENU_BRUT = { id: 6, nom_fr: "Mme Saeko", budget: 200,
+    bulles_fr: [{ nom: null, seg: [{ t: "On y va ?" }] }],
+    choix_fr: { question: [{ t: "On y va ?" }], options: ["Oui", "Non"] },
+    brut_fr: "On y va ?\n[1208][0002]Oui\nNon" };
+
+  it("expose un bouton ✏️ distinct des options, qui appelle surEditerChoix", () => {
+    const bloc = construireChoix(E_MENU_BRUT, { heros: { prenom: "Hamza" } });
+    const boutons = [...bloc.querySelectorAll("button")];
+    expect(boutons).toHaveLength(3);   // 2 options + 1 édition
+    expect(bloc.querySelectorAll("button.option")).toHaveLength(2);
+    const btnEdit = bloc.querySelector("button.edit");
+    expect(btnEdit).not.toBeNull();
+
+    let appelee = null;
+    const bloc2 = construireChoix(E_MENU_BRUT, {
+      heros: { prenom: "Hamza" },
+      surEditerChoix: (entree, el) => { appelee = { entree, el }; },
+    });
+    bloc2.querySelector("button.edit").onclick({ stopPropagation: () => {} });
+    expect(appelee.entree).toBe(E_MENU_BRUT);
+    expect(appelee.el).toBe(bloc2);
+  });
+
+  it("le bouton édition n'est pas armé comme une option par armerChoix (creerLecture)", () => {
+    const fil = document.createElement("div");
+    const blocs = [{ type: "choix", entree: E_MENU_BRUT }];
+    const lecture = creerLecture({ fil, blocs, ctx: { heros: { prenom: "Hamza" } }, vitesse: () => 0 });
+    lecture.avancer();
+    const btnEdit = fil.querySelector("button.edit");
+    // toujours son propre onclick (pas remplacé par la logique d'armement des options)
+    expect(btnEdit.onclick).not.toBeNull();
+    btnEdit.click();
+    expect(btnEdit.classList.contains("elu")).toBe(false);
+    expect(btnEdit.classList.contains("fane")).toBe(false);
   });
 });
