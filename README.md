@@ -92,6 +92,16 @@ git -C . diff --stat data/         # relire le diff, puis commit
 Exceptions éditables à la main (préservées par sync) : `data/labels.json`
 (étiquettes des scripts) et `data/personnages.json` (portraits/emoji/couleurs).
 
+### Vérification manuelle en navigateur (`e2e/`)
+
+Scripts Playwright de bout en bout, **hors CI** et hors `npm test` (Playwright
+n'est volontairement pas une dépendance du projet — voir `e2e/*.mjs` pour les
+prérequis) :
+
+```bash
+NODE_PATH="$(npm root -g)" node e2e/editeur-choix.mjs [port] [numéro de script]
+```
+
 ### Le calcul d'octets (`js/budget.js`)
 
 Portage **exact** de `json_verify/utils.py:estimate_bytes` du repo de traduction —
