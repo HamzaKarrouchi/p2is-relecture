@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeEach, vi } from "vitest";
-import { estHeros, construireBulle, construireChoix, aplatir, rendreFil, ecrireMachine, creerLecture } from "../js/lecteur.js";
+import { estHeros, construireBulle, construireChoix, aplatir, rendreFil, ecrireMachine, creerLecture, basculerPanier } from "../js/lecteur.js";
 
 const HEROS = { prenom: "Hamza", nom: "K" };
 const PERSOS = { "Eikichi": { emoji: "🎸" } };
@@ -49,6 +49,24 @@ describe("aplatir + rendreFil", () => {
     rendreFil(document.getElementById("fil"), blocs, { heros: HEROS, persos: PERSOS });
     expect(document.querySelectorAll(".bulle").length).toBeGreaterThanOrEqual(2);
     expect(document.querySelectorAll(".choix button.option")).toHaveLength(2);
+  });
+});
+
+describe("basculerPanier", () => {
+  it("ouvre le panneau masqué via le callback fourni", () => {
+    const pan = document.createElement("div");
+    pan.hidden = true;
+    let appele = false;
+    basculerPanier(pan, () => { appele = true; });
+    expect(appele).toBe(true);
+  });
+  it("masque le panneau déjà visible sans appeler le callback", () => {
+    const pan = document.createElement("div");
+    pan.hidden = false;
+    let appele = false;
+    basculerPanier(pan, () => { appele = true; });
+    expect(pan.hidden).toBe(true);
+    expect(appele).toBe(false);
   });
 });
 

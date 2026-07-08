@@ -228,6 +228,12 @@ export function voisins(numeros, no) {
            suiv: (i >= 0 && i < numeros.length - 1) ? numeros[i + 1] : null };
 }
 
+/** Bascule le panneau panier : l'ouvre (via `ouvrir`) s'il est masqué, le masque sinon. */
+export function basculerPanier(pan, ouvrir) {
+  if (pan.hidden) ouvrir();
+  else pan.hidden = true;
+}
+
 /** Cycle de vitesse du texte : 28 (lent) → 12 (rapide) → 0 (instantané) → 28. */
 export function vitesseSuivante(v) { return v === 28 ? 12 : v === 12 ? 0 : 28; }
 export function iconeVitesse(v) { return v === 0 ? "⚡" : v <= 12 ? "🐇" : "🐢"; }
@@ -344,10 +350,12 @@ if (document.getElementById("fil")) {
     });
     document.getElementById("indicateur").addEventListener("click", () => lecture.avancer());
     document.addEventListener("keydown", (ev) => {
-      if (ev.code !== "Space") return;
       if (ev.target.closest?.("input, textarea, [contenteditable]")) return;
-      ev.preventDefault();
-      lecture.avancer();
+      if (ev.code === "Space") { ev.preventDefault(); lecture.avancer(); return; }
+      if (ev.key.toLowerCase() === "p") {
+        ev.preventDefault();
+        basculerPanier(document.getElementById("panneau-panier"), ouvrirMonPanier);
+      }
     });
     document.getElementById("btn-derouler").onclick = () => lecture.toutDerouler();
     document.getElementById("cmp").onchange = (ev) =>
