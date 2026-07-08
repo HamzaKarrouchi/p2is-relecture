@@ -5,8 +5,33 @@
 
 État actuel : **v1 complète (T1-T21)** + **refonte visuelle Velvet Editorial** +
 **infra repo** (CI/CD, hooks, issues) + **export panier → issue GitHub** +
-**édition des réponses de menus**. Suite de tests : **128 tests JS + 15 tests
-Python, tous verts** + 2 scripts `e2e/` (Playwright, hors CI).
+**édition des réponses de menus** + **406 scripts** (399 + 7 scripts spéciaux).
+Suite de tests : **128 tests JS + 24 tests Python, tous verts** + 2 scripts
+`e2e/` (Playwright, hors CI).
+
+## 🗺️ Scripts spéciaux : CD_SHOP, F_BE, MMAP01-06 (2026-07-08)
+
+Le mirror complet de P2-FR-IS-PSP (voir plus bas) a révélé que ces scripts,
+hors `event_scripts/` et donc jusqu'ici invisibles du site, sont en fait
+déjà largement traduits. Ajoutés dans `sync.py` (`SCRIPTS_SPECIAUX`,
+`traiter_script()`) avec une numérotation dédiée (900+, pas de collision
+avec les `script_NNN`) :
+
+| No  | Fichier   | Traduit |
+|-----|-----------|---------|
+| 900 | CD_SHOP   | 100 %   |
+| 901 | F_BE      | 100 %   |
+| 902 | MMAP01    | 100 %   |
+| 903 | MMAP02    | 99,7 %  |
+| 905 | MMAP04    | 91 %    |
+| 906 | MMAP05    | 100 %   |
+| 907 | MMAP06    | 98,6 %  |
+
+MMAP03 et TM_EVE sont encore à 0 % traduits côté P2-FR-IS-PSP : pas encore
+ajoutés (cf. § v2 plus bas), il suffira de les rajouter à
+`SCRIPTS_SPECIAUX` une fois traduits. Les quelques répliques non traduites
+des scripts ci-dessus n'apparaissent simplement pas dans le fil de lecture
+(comportement déjà existant pour tout script partiellement traduit).
 
 ## 🔀 Panier → issue GitHub + édition des réponses (2026-07-07)
 
@@ -159,6 +184,6 @@ les entrées orphelines correspondantes retirées de `data/personnages.json`.
 
 ## 💡 Plus tard (v2, hors périmètre actuel)
 
-- Couvrir MMAP01-06, CD_SHOP, F_BE, TM_EVE quand ils seront traduits
+- MMAP03 et TM_EVE : à ajouter dans `SCRIPTS_SPECIAUX` (`sync.py`) une fois traduits (0 % actuellement)
 - Expressions multiples des portraits (joie/colère) si quelqu'un tagge les scènes
 - Mode « replay » d'un script avec uniquement les bulles modifiées

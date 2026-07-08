@@ -163,25 +163,58 @@ def generer_dictionnaire():
         return parser_dictionnaire(fh.read())
 
 
+# Scripts hors event_scripts/ (traduction/NOM.json) suffisamment traduits pour
+# être lisibles sur le site — numérotés à part (900+) pour ne pas entrer en
+# collision avec les script_NNN.json. MMAP03 et TM_EVE sont encore à 0 %
+# traduits (cf. python3 sync.py --stats-speciaux) : pas encore inclus.
+SCRIPTS_SPECIAUX = {
+    900: "CD_SHOP", 901: "F_BE", 902: "MMAP01", 903: "MMAP02",
+    905: "MMAP04", 906: "MMAP05", 907: "MMAP06",
+}
+
+
+def traiter_script(no, brutes, labels, persos):
+    """Convertit les entrées brutes d'un script (numéroté ou spécial) en
+    {no, entrees}, met à jour labels/persos en place, renvoie aussi l'entrée
+    d'index et la ligne de recherche."""
+    entrees = [c for e in brutes if (c := convertir_entree(e))]
+    noms = sorted({e["nom_fr"] for e in entrees if e["nom_fr"]})
+    for n in noms:
+        persos.setdefault(n, {"emoji": EMOJI_DEFAUT})
+    index_entree = {"no": no, "label": labels.get(f"{no:03d}", ""),
+                     "personnages": noms, "repliques": len(entrees)}
+    ligne_recherche = " ".join(
+        seg.get("t") or seg.get("hl") or seg.get("enc") or ""
+        for e in entrees for b in e["bulles_fr"] for seg in b["seg"]).lower()
+    return entrees, index_entree, ligne_recherche
+
+
 def main():
     labels = charger_json(os.path.join(DATA, "labels.json"), {})
     persos = charger_json(os.path.join(DATA, "personnages.json"), {})
     index, recherche = [], {}
+
     for p in sorted(glob.glob(os.path.join(TRAD, "traduction", "event_scripts", "script_*.json"))):
         no = int(re.search(r"(\d+)", os.path.basename(p)).group(1))
         with open(p, encoding="utf-8") as f:
             brutes = json.load(f)
-        entrees = [c for e in brutes if (c := convertir_entree(e))]
-        noms = sorted({e["nom_fr"] for e in entrees if e["nom_fr"]})
-        for n in noms:
-            persos.setdefault(n, {"emoji": EMOJI_DEFAUT})
-        ecrire(os.path.join(DATA, "scripts", f"{no:03d}.json"),
-               {"no": no, "entrees": entrees})
-        index.append({"no": no, "label": labels.get(f"{no:03d}", ""),
-                      "personnages": noms, "repliques": len(entrees)})
-        recherche[f"{no:03d}"] = " ".join(
-            seg.get("t") or seg.get("hl") or seg.get("enc") or ""
-            for e in entrees for b in e["bulles_fr"] for seg in b["seg"]).lower()
+        entrees, index_entree, ligne_recherche = traiter_script(no, brutes, labels, persos)
+        ecrire(os.path.join(DATA, "scripts", f"{no:03d}.json"), {"no": no, "entrees": entrees})
+        index.append(index_entree)
+        recherche[f"{no:03d}"] = ligne_recherche
+
+    for no, nom in sorted(SCRIPTS_SPECIAUX.items()):
+        p = os.path.join(TRAD, "traduction", f"{nom}.json")
+        if not os.path.exists(p):
+            continue
+        with open(p, encoding="utf-8") as f:
+            brutes = json.load(f)
+        labels.setdefault(f"{no:03d}", nom)   # défaut = identifiant, éditable ensuite
+        entrees, index_entree, ligne_recherche = traiter_script(no, brutes, labels, persos)
+        ecrire(os.path.join(DATA, "scripts", f"{no:03d}.json"), {"no": no, "entrees": entrees})
+        index.append(index_entree)
+        recherche[f"{no:03d}"] = ligne_recherche
+
     ecrire(os.path.join(DATA, "index.json"), index)
     ecrire(os.path.join(DATA, "recherche.json"), recherche)
     ecrire(os.path.join(DATA, "personnages.json"), persos)
