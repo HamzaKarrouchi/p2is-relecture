@@ -1,0 +1,1626 @@
+{
+ "no": 900,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Salut!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bienvenue au disquaire GIGA"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "MACHO! Que voulez-vous!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hellooooo!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Welcome to the record store"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "GIGA MACHOOOO! State your business!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Acheter des CDs",
+     "Parler",
+     "Laisse tomber",
+     "Quitter"
+    ],
+    "question": [
+     {
+      "t": "Salut!"
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Bienvenue au disquaire GIGA"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "MACHO! Que voulez-vous!"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Buy CDs",
+     "Talk to employee",
+     "Never mind",
+     "Leave the store"
+    ],
+    "question": [
+     {
+      "t": "Hellooooo!"
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Welcome to the record store"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "GIGA MACHOOOO! State your business!"
+     }
+    ]
+   },
+   "brut_fr": "Salut![1205][U+000F] Bienvenue au disquaire GIGA\nMACHO! Que voulez-vous!\n[1208][U+0004]Acheter des CDs\nParler\nLaisse tomber\nQuitter",
+   "brut_en": "Hellooooo![1205][U+000F][SP]Welcome[SP]to[SP]the[SP]record[SP]store\nGIGA[SP]MACHOOOO![SP]State[SP]your[SP]business!\n[1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store",
+   "data_size": 290,
+   "budget": 282
+  },
+  {
+   "id": 1,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D'acc! C'est tout?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alrighty! Anything else?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Acheter des CDs",
+     "Parler",
+     "Laisse tomber",
+     "Quitter"
+    ],
+    "question": [
+     {
+      "t": "D'acc! C'est tout?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Buy CDs",
+     "Talk to employee",
+     "Never mind",
+     "Leave the store"
+    ],
+    "question": [
+     {
+      "t": "Alrighty! Anything else?"
+     }
+    ]
+   },
+   "brut_fr": "D'acc! C'est tout?\n[1208][U+0004]Acheter des CDs\nParler\nLaisse tomber\nQuitter",
+   "brut_en": "Alrighty![SP]Anything[SP]else?\n[1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 2,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "à quoi tu penses?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What's on your mind?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Discuter",
+     "Discuter de CDs",
+     "Undisplayed selection"
+    ],
+    "question": [
+     {
+      "t": "à quoi tu penses?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about CDs",
+     "Undisplayed selection"
+    ],
+    "question": [
+     {
+      "t": "What's on your mind?"
+     }
+    ]
+   },
+   "brut_fr": "à quoi tu penses?\n[1208][U+0003]Discuter\nDiscuter de CDs\n[1210][U+0100]Undisplayed[SP]selection",
+   "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]CDs\n[1210][U+0100]Undisplayed[SP]selection",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 3,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Devine quoi! Je viens de rencontrer LE"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ginji Sasaki! Heheh... C'était super!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ooh! Guess what! I got to meet THE Ginji"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sasaki a minute ago! Heheheh... It was"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "awesome!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Devine quoi! Je viens de rencontrer LE\nGinji Sasaki! Heheh... C'était super!",
+   "brut_en": "Ooh![SP]Guess[SP]what![SP]I[SP]got[SP]to[SP]meet[SP]THE[SP]Ginji\nSasaki[SP]a[SP]minute[SP]ago![SP]Heheheh...[SP]It[SP]was\nawesome!",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 4,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé... La blonde là, c'est pas Lisa-san"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du groupe Muses?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "C'est vraiment elle!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heeeey... Does that blonde girl with you happen"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to be Lisa-san from Muses?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Whoa! She's the real"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "deal!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé... La blonde là, c'est pas Lisa-san\ndu groupe Muses?[1205][U+000F]C'est vraiment elle!",
+   "brut_en": "Heeeey...[SP]Does[SP]that[SP]blonde[SP]girl[SP]with[SP]you[SP]happen\nto[SP]be[SP]Lisa-san[SP]from[SP]Muses?[1205][U+000F][SP]Whoa![SP]She's[SP]the[SP]real\ndeal!",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 5,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Attends, et les autres?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Y'avait..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bizarre. Je m'en souviens pas..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh? Wait, what about the other girls?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Weren't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Weird. I can't remember..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Attends, et les autres?[1205][U+000F] Y'avait...\n[1205][U+000F] Bizarre. Je m'en souviens pas...",
+   "brut_en": "Huh?[SP]Wait,[SP]what[SP]about[SP]the[SP]other[SP]girls?[1205][U+000F][SP]Weren't\nthere...[1205][U+000F][SP]Weird.[SP]I[SP]can't[SP]remember...",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 6,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pff..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "On a perdu des clients à cause"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de la terreur..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " *soupir*."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sigh*"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We've lost so many customers to this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "awful terror wave..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I should sue for"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "obstruction of business."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pff...[1205][U+000F]On a perdu des clients à cause\nde la terreur...[1205][U+000F] *soupir*.",
+   "brut_en": "*sigh*[1205][U+000F][SP]We've[SP]lost[SP]so[SP]many[SP]customers[SP]to[SP]this\nawful[SP]terror[SP]wave...[1205][U+000F][SP]I[SP]should[SP]sue[SP]for\nobstruction[SP]of[SP]business.",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 7,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On a un coin secondo. Malgré le chaos dehors,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "détends-toi avec de la musique."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We have a new Secondo corner now. As hectic as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "things are in this world, you should try and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "relax with some tunes."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On a un coin secondo. Malgré le chaos dehors,\ndétends-toi avec de la musique.",
+   "brut_en": "We[SP]have[SP]a[SP]new[SP]Secondo[SP]corner[SP]now.[SP]As[SP]hectic[SP]as\nthings[SP]are[SP]in[SP]this[SP]world,[SP]you[SP]should[SP]try[SP]and\nrelax[SP]with[SP]some[SP]tunes.",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 8,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu crois que In Lak'ech existe?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Bof, je m'en fiche."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, what do you think of the In Lak'ech?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Think it's true?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Well, I don't really care."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu crois que In Lak'ech existe?[1205][U+000F][SP]\nBof, je m'en fiche.",
+   "brut_en": "Hey,[SP]what[SP]do[SP]you[SP]think[SP]of[SP]the[SP]In[SP]Lak'ech?\nThink[SP]it's[SP]true?[1205][U+000F][SP]Well,[SP]I[SP]don't[SP]really[SP]care.",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 9,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'as toujours le bon timing. On viens de recevoir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Des nouveaux singles dans le coin Terzo."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Viens voir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Man, you always have the best timing. We juuust"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "got in some new singles in the Terzo corner."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Here, come take a look."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'as toujours le bon timing. On viens de recevoir\nDes nouveaux singles dans le coin Terzo.[1205][U+000F]\nViens voir.",
+   "brut_en": "Man,[SP]you[SP]always[SP]have[SP]the[SP]best[SP]timing.[SP]We[SP]juuust\ngot[SP]in[SP]some[SP]new[SP]singles[SP]in[SP]the[SP]Terzo[SP]corner.[1205][U+000F]\nHere,[SP]come[SP]take[SP]a[SP]look.",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 10,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La ville est dans le chaos, mais on a recu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les nouveaux morceaux."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "J'ai enfin monté un coin"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Quarto."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The city's a mess right now, but we did get"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "our scheduled delivery of new material."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I've"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "finally put together a Quarto corner."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La ville est dans le chaos, mais on a recu\nles nouveaux morceaux.[1205][U+000F]J'ai enfin monté un coin\nQuarto.",
+   "brut_en": "The[SP]city's[SP]a[SP]mess[SP]right[SP]now,[SP]but[SP]we[SP]did[SP]get\nour[SP]scheduled[SP]delivery[SP]of[SP]new[SP]material.[1205][U+000F][SP]I've\nfinally[SP]put[SP]together[SP]a[SP]Quarto[SP]corner.",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 11,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pff, on recoit tellement de nouveaux disques que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je manque de place."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Bref, on a enfin un coin"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Quarto."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Geez, we're getting in so much new music these"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "days, I'm running out of rack space for it all."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Aaaanyways, we have a Quinto corner at last."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pff, on recoit tellement de nouveaux disques que\nje manque de place.[1205][U+000F]Bref, on a enfin un coin\nQuarto.",
+   "brut_en": "Geez,[SP]we're[SP]getting[SP]in[SP]so[SP]much[SP]new[SP]music[SP]these\ndays,[SP]I'm[SP]running[SP]out[SP]of[SP]rack[SP]space[SP]for[SP]it[SP]all.[1205][U+000F]\nAaaanyways,[SP]we[SP]have[SP]a[SP]Quinto[SP]corner[SP]at[SP]last.",
+   "data_size": 310,
+   "budget": 302
+  },
+  {
+   "id": 12,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bizarre..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "On avait ce"
+      },
+      {
+       "enc": "CD secret"
+      },
+      {
+       "t": "?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bon,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On l'a maintenant!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now that's weird..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Did we used to carry this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "secret CD"
+      },
+      {
+       "t": "?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Huh, well, I see we have it in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "stock... so I guess we carry it now!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bizarre...[1205][U+000F]On avait ce[1432][NULL][NULL][0014]CD secret[1432][NULL][NULL][0014]?[1205][U+000F] Bon,\nOn l'a maintenant!",
+   "brut_en": "Now[SP]that's[SP]weird...[1205][U+000F][SP]Did[SP]we[SP]used[SP]to[SP]carry[SP]this\n[1432][NULL][NULL][0014]secret[SP]CD[1432][NULL][NULL][0014]?[1205][U+000F][SP]Huh,[SP]well,[SP]I[SP]see[SP]we[SP]have[SP]it[SP]in\nstock...[SP]so[SP]I[SP]guess[SP]we[SP]carry[SP]it[SP]now!",
+   "data_size": 300,
+   "budget": 292
+  },
+  {
+   "id": 13,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est louche, mais.... Bon."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Peu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "importe, je l'ai mit dans le coin Quarto. Débarasse-moi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de ca."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Something seems fishy about this, but..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oh well."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Anyway, I put it in the Quarto"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "corner. Take it off my hands, will ya?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est louche, mais.... Bon.[1205][U+000F] Peu\nimporte, je l'ai mit dans le coin Quarto. Débarasse-moi\nde ca.",
+   "brut_en": "Something[SP]seems[SP]fishy[SP]about[SP]this,[SP]but...\nOh[SP]well.[1205][U+000F][SP]Anyway,[SP]I[SP]put[SP]it[SP]in[SP]the[SP]Quarto\ncorner.[SP]Take[SP]it[SP]off[SP]my[SP]hands,[SP]will[SP]ya?",
+   "data_size": 270,
+   "budget": 262
+  },
+  {
+   "id": 14,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oups, on a plus de CDs!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ceux sur les étagères?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "C'est juste pour décorer, désolé!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Whoops, we're completely out of CDs right now!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Huh? Oh, those ones on the shelves?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Yeah, those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "are just for show. So sorry!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oups, on a plus de CDs![1205][U+000F] Ceux sur les étagères?\n[1205][U+000F]C'est juste pour décorer, désolé!",
+   "brut_en": "Whoops,[SP]we're[SP]completely[SP]out[SP]of[SP]CDs[SP]right[SP]now![1205][U+000F]\nHuh?[SP]Oh,[SP]those[SP]ones[SP]on[SP]the[SP]shelves?[1205][U+000F][SP]Yeah,[SP]those\nare[SP]just[SP]for[SP]show.[SP]So[SP]sorry!",
+   "data_size": 282,
+   "budget": 274
+  },
+  {
+   "id": 15,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'es dingue."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " T'as acheté tout les CDs disponibles!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Merci infiniment!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, you're something else."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You've bought up"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "every CD in the shop! Thanks, thanks, and in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "case I forget, thanks!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'es dingue.[1205][U+000F] T'as acheté tout les CDs disponibles!\nMerci infiniment!",
+   "brut_en": "Wow,[SP]you're[SP]something[SP]else.[1205][U+000F][SP]You've[SP]bought[SP]up\nevery[SP]CD[SP]in[SP]the[SP]shop![SP]Thanks,[SP]thanks,[SP]and[SP]in\ncase[SP]I[SP]forget,[SP]thanks!",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 16,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "OK! un mot sur les Cds!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okaaaaay! A word on CDs!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "OK! un mot sur les Cds!",
+   "brut_en": "Okaaaaay![SP]A[SP]word[SP]on[SP]CDs!",
+   "data_size": 76,
+   "budget": 68
+  },
+  {
+   "id": 17,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si tu "
+      },
+      {
+       "enc": "Achètes des CDs"
+      },
+      {
+       "t": " ici, t'auras l'embarras"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du choix!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If you choose "
+      },
+      {
+       "enc": "Buy CDs"
+      },
+      {
+       "t": " here, you can look"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "through our unmatched selection of tunes!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si tu [1432][NULL][NULL][0014]Achètes des CDs[1432][NULL][NULL][0014] ici, t'auras l'embarras\ndu choix!",
+   "brut_en": "If[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]CDs[1432][NULL][NULL][0014][SP]here,[SP]you[SP]can[SP]look\nthrough[SP]our[SP]unmatched[SP]selection[SP]of[SP]tunes!",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 18,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On recoit beaucoup de singles, donc passez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plus souvent!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We get more singles over time, so make sure"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you come by to check 'em out."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On recoit beaucoup de singles, donc passez\nplus souvent!",
+   "brut_en": "We[SP]get[SP]more[SP]singles[SP]over[SP]time,[SP]so[SP]make[SP]sure\nyou[SP]come[SP]by[SP]to[SP]check[SP]'em[SP]out.",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 19,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu peux lire les CDs que t'achètes sur une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "stéréo. Tu connais sûrement quelqu'un avec une, non?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, and you can play the CDs you buy on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a stereo. You've gotta know someone with"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a boom box, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu peux lire les CDs que t'achètes sur une\nstéréo. Tu connais sûrement quelqu'un avec une, non?",
+   "brut_en": "Oh,[SP]and[SP]you[SP]can[SP]play[SP]the[SP]CDs[SP]you[SP]buy[SP]on\na[SP]stereo.[SP]You've[SP]gotta[SP]know[SP]someone[SP]with\na[SP]boom[SP]box,[SP]right?",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 20,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ca sera  yen."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu paies?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That'll be  yen."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You wanna buy it...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Ca sera  yen."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Tu paies?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "That'll be  yen."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "You wanna buy it...?"
+     }
+    ]
+   },
+   "brut_fr": "Ca sera [120E][NULL] yen.\nTu paies?\n[1208][0002]Oui\nNon",
+   "brut_en": "That'll[SP]be[SP][120E][NULL][SP]yen.\nYou[SP]wanna[SP]buy[SP]it...?\n[1208][0002]Yes\nNo",
+   "data_size": 126,
+   "budget": 118
+  },
+  {
+   "id": 21,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, le corner Primo est épuisé! Merci de ta"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "visite!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, the Primo corner's all sold out!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Thanks for your patronage!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Wow, le corner Primo est épuisé! Merci de ta\nvisite!",
+   "brut_en": "Wow,[SP]the[SP]Primo[SP]corner's[SP]all[SP]sold[SP]out!\nThanks[SP]for[SP]your[SP]patronage!",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 22,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Félicitations à moi! Le coin Secondo"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est entièrement épuisé! Je suis si ému!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Congratulations! Congratulations to me! The"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Secondo corner has successfully sold out too!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm so touched, I'm expecting it to hail!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Félicitations à moi! Le coin Secondo\nest entièrement épuisé! Je suis si ému!",
+   "brut_en": "Congratulations![SP]Congratulations[SP]to[SP]me![SP]The\nSecondo[SP]corner[SP]has[SP]successfully[SP]sold[SP]out[SP]too!\nI'm[SP]so[SP]touched,[SP]I'm[SP]expecting[SP]it[SP]to[SP]hail!",
+   "data_size": 290,
+   "budget": 282
+  },
+  {
+   "id": 23,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein? Le coin Terzo est épuisé! Je suis fou de joie!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Merci!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No way! The Terzo corner sold out!? Man, I'm"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pleased as damn punch! Thanks!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein? Le coin Terzo est épuisé! Je suis fou de joie!\nMerci!",
+   "brut_en": "No[SP]way![SP]The[SP]Terzo[SP]corner[SP]sold[SP]out!?[SP]Man,[SP]I'm\npleased[SP]as[SP]damn[SP]punch![SP]Thanks!",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 24,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le coin Quarto est épuisé?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "C'était..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": " Décevamment rapide..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais je me plains pas!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The Quarto corner's sold out?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That was..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "disappointingly quick..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But I won't complain!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hm?[1205][U+000F] Le coin Quarto est épuisé?[1205][U+000F]C'était...\n Décevamment rapide...[1205][U+000F] Mais je me plains pas!",
+   "brut_en": "Hmm?[1205][U+000F][SP]The[SP]Quarto[SP]corner's[SP]sold[SP]out?[1205][U+000F][SP]That[SP]was...\ndisappointingly[SP]quick...[1205][U+000F][SP]But[SP]I[SP]won't[SP]complain!",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 25,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oho! Le coin Quarto est épuisé! J'en suis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ravi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ohoooo! The Quarto corner's sold out!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm happy as a clam!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oho! Le coin Quarto est épuisé! J'en suis\nravi!",
+   "brut_en": "Ohoooo![SP]The[SP]Quarto[SP]corner's[SP]sold[SP]out!\nI'm[SP]happy[SP]as[SP]a[SP]clam!",
+   "data_size": 144,
+   "budget": 136
+  },
+  {
+   "id": 26,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mon dieu! Le coin Quinto est épuisé!? Splendide!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Et c'est grâce à toi! T'es le meilleur!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Goodness gracious me! The Quinto corner's sold"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "out!? Splendid! And it's all thanks to you!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You're the bestest!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mon dieu! Le coin Quinto est épuisé!? Splendide!\nEt c'est grâce à toi! T'es le meilleur!",
+   "brut_en": "Goodness[SP]gracious[SP]me![SP]The[SP]Quinto[SP]corner's[SP]sold\nout!?[SP]Splendid![SP]And[SP]it's[SP]all[SP]thanks[SP]to[SP]you!\nYou're[SP]the[SP]bestest!",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 27,
+   "nom_fr": "Employé",
+   "nom_en": "Employee",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, this message shouldn't show up."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, this message shouldn't show up."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh,[SP]this[SP]message[SP]shouldn't[SP]show[SP]up.",
+   "brut_en": "Oh,[SP]this[SP]message[SP]shouldn't[SP]show[SP]up.",
+   "data_size": 98,
+   "budget": 90
+  }
+ ]
+}
