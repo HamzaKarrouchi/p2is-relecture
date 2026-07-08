@@ -14,7 +14,7 @@ body {
 .page { max-width: 760px; margin: 0 auto; padding: 18px 16px 72px; }
 
 /* ── Barre ─────────────────────────────────────────── */
-.barre{ display:flex; align-items:center; gap:12px; justify-content:space-between;
+.barre{ display:flex; flex-wrap:wrap; align-items:center; gap:12px; justify-content:space-between;
   padding:12px 18px; border-bottom:1px solid var(--accent);
   position:sticky; top:0; z-index:5;
   background:linear-gradient(180deg, var(--fond2), color-mix(in srgb, var(--fond2) 70%, transparent));
@@ -203,7 +203,7 @@ label:focus-visible,.choix button:focus-visible,.swap:focus-visible,.edit:focus-
 /* ── Responsive ───────────────────────────────────── */
 @media (max-width:600px){
   .contenu,.choix button{ max-width:88%; }
-  .barre{ flex-wrap:wrap; gap:8px; padding:9px 12px; }
+  .barre{ gap:8px; padding:9px 12px; }
   #titre{ max-width:40vw; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
   #panneau-editeur,#panneau-panier{ width:100vw; }
   .fin-actions{ flex-direction:column; } .fin-actions button{ width:100%; }
