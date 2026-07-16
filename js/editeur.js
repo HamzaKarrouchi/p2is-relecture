@@ -1,5 +1,16 @@
 import { cost, caracteresInterdits } from "./budget.js";
 import { texteLisible } from "./normalise.js";
+import { messagesMiseEnPage } from "./miseenpage.js";
+
+/** Affiche les avertissements de mise en page (non bloquants, textContent only). */
+function afficherAvertissements(conteneur, brut) {
+  conteneur.replaceChildren();
+  for (const msg of messagesMiseEnPage(brut)) {
+    const p = document.createElement("p");
+    p.textContent = msg;
+    conteneur.append(p);
+  }
+}
 
 // ⚠ hex minuscules AUSSI (cohérence avec sync.py/_PAUSE et normalise.js corrigés)
 const RE_JETON = /\[1205\](?:\[(?:U\+000[0-9A-Fa-f]|001E)\])?|\n|\[[^\]]*\]/g;
@@ -58,6 +69,7 @@ export function ouvrirEditeur(entree, surValide) {
       <span id="ed-jauge"></span>
     </div>
     <div id="ed-erreurs"></div>
+    <div id="ed-avertissements" class="ed-avertissements"></div>
     <button id="ed-valider" disabled>Proposer cette modification</button>`;
   pan.querySelector("#ed-id").textContent = entree.id;
   pan.querySelector(".ed-en").textContent = (entree.brut_en || "").replace(/\[SP\]/g, " ");
@@ -95,6 +107,7 @@ export function ouvrirEditeur(entree, surValide) {
     jauge.className = c > b ? "rouge" : c > b * 0.92 ? "orange" : "vert";
     pan.querySelector("#ed-erreurs").textContent = interdits.length
       ? `Caractères non supportés par le jeu : ${interdits.join(" ")}` : "";
+    afficherAvertissements(pan.querySelector("#ed-avertissements"), brut);
     pan.querySelector("#ed-valider").disabled = c === -1 || c > b || interdits.length > 0;
     return brut;
   }
@@ -144,6 +157,7 @@ export function ouvrirEditeurChoix(entree, surValide) {
       <span id="ed-jauge"></span>
     </div>
     <div id="ed-erreurs"></div>
+    <div id="ed-avertissements" class="ed-avertissements"></div>
     <button id="ed-valider" disabled>Proposer cette modification</button>`;
   pan.querySelector("#ed-id").textContent = entree.id;
   // textContent uniquement — prefixe/options viennent de la trad :
@@ -183,6 +197,7 @@ export function ouvrirEditeurChoix(entree, surValide) {
     jauge.className = c > b ? "rouge" : c > b * 0.92 ? "orange" : "vert";
     pan.querySelector("#ed-erreurs").textContent = interdits.length
       ? `Caractères non supportés par le jeu : ${interdits.join(" ")}` : "";
+    afficherAvertissements(pan.querySelector("#ed-avertissements"), brut);
     pan.querySelector("#ed-valider").disabled = c === -1 || c > b || interdits.length > 0;
     return brut;
   }
