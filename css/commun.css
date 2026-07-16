@@ -145,6 +145,8 @@ body.compare .version-en,.bulle.montre-en .version-en{ display:block; }
 #ed-jauge{ font-family:var(--ff-titre); font-style:italic; }
 #ed-jauge.vert{ color:#6fae5a; } #ed-jauge.orange{ color:var(--accent); } #ed-jauge.rouge{ color:var(--rouge); }
 #ed-erreurs{ color:var(--rouge); font-size:.88em; min-height:1.2em; }
+.ed-avertissements{ color:var(--accent); font-size:.85em; }
+.ed-avertissements p{ margin:2px 0; }
 #ed-valider{ width:100%; padding:11px; background:var(--rouge); color:#fff; border:0;
   border-radius:var(--rayon); font-family:var(--ff-titre); font-style:italic; font-weight:600;
   font-size:1.05em; cursor:pointer; }
