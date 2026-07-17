@@ -41,13 +41,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu te souviens de cette femme te"
+       "t": "Tu te souviens de cette femme te racontant"
       },
       {
        "nl": true
       },
       {
-       "t": "racontant ses rêves de rester jeune et belle?"
+       "t": "ses rêves de rester jeune et belle?"
       }
      ]
     }
@@ -70,7 +70,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu te souviens de cette femme te\nracontant ses rêves de rester jeune et belle?",
+   "brut_fr": "Tu te souviens de cette femme te racontant\nses rêves de rester jeune et belle?",
    "brut_en": "Don't[SP]you[SP]recall[SP]that[SP]woman[SP]telling[SP]you[SP]her\ndreams[SP]of[SP]staying[SP]young[SP]and[SP]beautiful?",
    "data_size": 208,
    "budget": 200
@@ -164,7 +164,13 @@
        "pause": true
       },
       {
-       "t": " Pardonne moi d'être aveugle à\tout mais mes rêves..."
+       "t": " Pardonne moi d'être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aveugle à out mais mes rêves..."
       }
      ]
     }
@@ -193,7 +199,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun...[1205][001E] Pardonne moi d'être aveugle à\tout mais mes rêves...",
+   "brut_fr": "Jun...[1205][001E] Pardonne moi d'être\naveugle à out mais mes rêves...",
    "brut_en": "Jun...[1205][001E][SP]Forgive[SP]me[SP]for[SP]being[SP]blind[SP]to\neverything[SP]but[SP]my[SP]dreams...",
    "data_size": 170,
    "budget": 162
@@ -207,22 +213,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'excuser auprès de ton père... Condamner"
+       "t": "T'excuser auprès de ton père..."
       },
       {
        "nl": true
       },
       {
-       "t": "ta mère... Tu désirais tout ça!"
+       "t": "Condamner ta mère... Tu désirais tout"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ça!"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Souris un peu! Tu te contredis!"
+       "t": " Souris un peu! Tu te contredis!"
       }
      ]
     }
@@ -254,7 +263,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'excuser auprès de ton père... Condamner\nta mère... Tu désirais tout ça![1205][001E]\nSouris un peu! Tu te contredis!",
+   "brut_fr": "T'excuser auprès de ton père...\nCondamner ta mère... Tu désirais tout\nça![1205][001E] Souris un peu! Tu te contredis!",
    "brut_en": "Apologizing[SP]to[SP]your[SP]father...[SP]Condemning\nyour[SP]mother...[SP]You[SP]desired[SP]all[SP]of[SP]this![1205][001E]\nSmile[SP]a[SP]little![SP]You're[SP]contradicting[SP]yourself!",
    "data_size": 302,
    "budget": 294
@@ -330,13 +339,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hahahaha! Alors, Jun? Si tu ne le fais pas,"
+       "t": "Hahahaha! Alors, Jun? Si tu ne le fais"
       },
       {
        "nl": true
       },
       {
-       "t": "alors je les exécute pour toi!"
+       "t": "pas, alors je les exécute pour toi!"
       }
      ]
     }
@@ -359,7 +368,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hahahaha! Alors, Jun? Si tu ne le fais pas,\nalors je les exécute pour toi!",
+   "brut_fr": "Hahahaha! Alors, Jun? Si tu ne le fais\npas, alors je les exécute pour toi!",
    "brut_en": "Hahahahaha![SP]Well,[SP]Jun?[SP]If[SP]you[SP]won't[SP]do[SP]it,\nthen[SP]I'll[SP]execute[SP]them[SP]for[SP]you!",
    "data_size": 192,
    "budget": 184
@@ -373,16 +382,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je n'ai jamais haï quelqu'un si fort de ma vie..."
-      },
-      {
-       "pause": true
+       "t": "Je n'ai jamais haï quelqu'un si fort de"
       },
       {
        "nl": true
       },
       {
-       "t": "Je ne te pardonnerai jamais!"
+       "t": "ma vie..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je ne te pardonnerai jamais!"
       }
      ]
     }
@@ -408,7 +420,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je n'ai jamais haï quelqu'un si fort de ma vie...[1205][001E]\nJe ne te pardonnerai jamais!",
+   "brut_fr": "Je n'ai jamais haï quelqu'un si fort de\nma vie...[1205][001E] Je ne te pardonnerai jamais!",
    "brut_en": "I've[SP]never[SP]hated[SP]anyone[SP]so[SP]much[SP]in[SP]my[SP]life...[1205][001E]\nI[SP]won't[SP]forgive[SP]you[SP]no[SP]matter[SP]what!",
    "data_size": 188,
    "budget": 180
@@ -422,13 +434,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une autre contradiction! Tu pardonnerai N'IMPORTE QUI!"
+       "t": "Une autre contradiction! Tu pardonnerai"
       },
       {
        "nl": true
       },
       {
-       "t": "Un grand coeur c'est ton truc"
+       "t": "N'IMPORTE QUI! Un grand coeur c'est ton truc"
       }
      ]
     }
@@ -451,7 +463,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une autre contradiction! Tu pardonnerai N'IMPORTE QUI!\nUn grand coeur c'est ton truc",
+   "brut_fr": "Une autre contradiction! Tu pardonnerai\nN'IMPORTE QUI! Un grand coeur c'est ton truc",
    "brut_en": "Another[SP]contradiction![SP]You'll[SP]forgive[SP]ANYONE!\nYour[SP]big[SP]heart[SP]is[SP]your[SP]whole[SP]schtick!",
    "data_size": 210,
    "budget": 202
@@ -465,19 +477,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est mon monde. Si je veux annihilier vos"
+       "t": "C'est mon monde. Si je veux"
       },
       {
        "nl": true
       },
       {
-       "t": "piètres existences, je peux le faire sans"
+       "t": "annihilier vos piètres existences, je"
       },
       {
        "nl": true
       },
       {
-       "t": "lever un doigt."
+       "t": "peux le faire sans lever un doigt."
       }
      ]
     }
@@ -506,7 +518,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est mon monde. Si je veux annihilier vos\npiètres existences, je peux le faire sans\nlever un doigt.",
+   "brut_fr": "C'est mon monde. Si je veux\nannihilier vos piètres existences, je\npeux le faire sans lever un doigt.",
    "brut_en": "This[SP]is[SP]my[SP]world.[SP]If[SP]I[SP]wanted[SP]to[SP]end[SP]your\nmeasly[SP]existences,[SP]I[SP]could[SP]do[SP]it[SP]without\nlifting[SP]a[SP]finger.",
    "data_size": 244,
    "budget": 236
@@ -520,19 +532,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Toujours prêt à m'affronter ici, en sachant que"
+       "t": "Toujours prêt à m'affronter ici, en"
       },
       {
        "nl": true
       },
       {
-       "t": "tu n'as aucune chance? Les contradictions"
+       "t": "sachant que tu n'as aucune chance?"
       },
       {
        "nl": true
       },
       {
-       "t": "s'accumulent..."
+       "t": "Les contradictions"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " s'accumulent..."
       }
      ]
     }
@@ -561,7 +579,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Toujours prêt à m'affronter ici, en sachant que\ntu n'as aucune chance? Les contradictions\ns'accumulent...",
+   "brut_fr": "Toujours prêt à m'affronter ici, en\nsachant que tu n'as aucune chance?\nLes contradictions[1205][U+000F] s'accumulent...",
    "brut_en": "Still[SP]hot[SP]on[SP]taking[SP]me[SP]on[SP]here,[SP]knowing[SP]you\nhave[SP]no[SP]chance[SP]at[SP]winning?[SP]The[SP]contradictions\nkeep[SP]piling[SP]up...",
    "data_size": 258,
    "budget": 250

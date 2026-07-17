@@ -53,7 +53,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Jamais peur !"
+       "t": "Jamais peur!"
       }
      ]
     }
@@ -70,7 +70,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jamais peur !",
+   "brut_fr": "Jamais peur!",
    "brut_en": "Never[SP]fear!",
    "data_size": 54,
    "budget": 46
@@ -84,19 +84,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ni faiblesse !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Ni repos !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Ni échec !"
+       "t": "Ni faiblesse! Ni repos! Ni échec!"
       }
      ]
     }
@@ -113,7 +101,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ni faiblesse !\nNi repos !\nNi échec !",
+   "brut_fr": "Ni faiblesse! Ni repos! Ni échec!",
    "brut_en": "No[SP]weakness![SP]No[SP]sleep![SP]No[SP]failure!",
    "data_size": 100,
    "budget": 92
@@ -127,25 +115,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Leurs armes fantaisistes ne"
+       "t": "Leurs armes fantaisistes ne battront pas"
       },
       {
        "nl": true
       },
       {
-       "t": "battront pas notre style Gouketsu!"
+       "t": "notre style Gouketsu! Battez-vous, tout"
       },
       {
        "nl": true
       },
       {
-       "t": "Battez-vous, tout le monde! Battez-vous"
+       "t": "le monde! Battez-vous"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "pour vos vies!"
+       "t": " pour vos vies!"
       }
      ]
     }
@@ -174,7 +162,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Leurs armes fantaisistes ne\nbattront pas notre style Gouketsu!\nBattez-vous, tout le monde! Battez-vous\npour vos vies!",
+   "brut_fr": "Leurs armes fantaisistes ne battront pas\nnotre style Gouketsu! Battez-vous, tout\nle monde! Battez-vous[1205][U+000F] pour vos vies!",
    "brut_en": "It'll[SP]take[SP]more[SP]than[SP]their[SP]fancy[SP]weapons[SP]to\nbeat[SP]our[SP]Gouketsu[SP]Style[SP]martial[SP]arts![SP]Fight,\neveryone![SP]Fight[SP]for[SP]your[SP]lives!",
    "data_size": 272,
    "budget": 264

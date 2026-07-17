@@ -10,25 +10,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'as entendu parler du Joker Game ?"
+       "t": "T'as entendu parler du Jeu du Joker? C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est vrai tout ça..."
+       "t": "vrai tout ça..."
       },
       {
        "pause": true
       },
       {
-       "t": " Bah, j'ai juste"
+       "t": " Bah, j'ai juste entendu"
       },
       {
        "nl": true
       },
       {
-       "t": "entendu une rumeur. Tes rêves se réalisent, non ?"
+       "t": "une rumeur. Tes rêves se "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " réalisent, non?"
       }
      ]
     }
@@ -63,7 +69,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'as entendu parler du Joker Game ?\nC'est vrai tout ça...[1205][001E] Bah, j'ai juste\nentendu une rumeur. Tes rêves se réalisent, non ?",
+   "brut_fr": "T'as entendu parler du Jeu du Joker? C'est\nvrai tout ça...[1205][001E] Bah, j'ai juste entendu\nune rumeur. Tes rêves se [1205][U+000F] réalisent, non?",
    "brut_en": "You[SP]know[SP]that[SP]Joker[SP]Game[SP]thing?[SP]I[SP]wonder[SP]if\nit's[SP]real...[1205][001E][SP]Oh,[SP]I[SP]just[SP]heard[SP]a[SP]rumor,[SP]is[SP]all.\nYour[SP]dreams[SP]come[SP]true,[SP]eh?[SP]Has[SP]that[SP]happened?",
    "data_size": 312,
    "budget": 304
@@ -144,25 +150,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu connais la statue du proviseur dans la cour ?"
+       "t": "Tu connais la statue du proviseur dans la"
       },
       {
        "nl": true
       },
       {
-       "t": "Quand personne ne regarde..."
+       "t": "cour? Quand personne ne regarde..."
       },
       {
        "pause": true
       },
       {
-       "t": "< elle s'anime"
+       "t": "< elle"
       },
       {
        "nl": true
       },
       {
-       "t": "et se promène ! Aaaaaaah ! Nooooon !"
+       "t": "s'anime"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " et se promène! Aaaaaaah! Nooooon!"
       }
      ]
     }
@@ -197,7 +209,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu connais la statue du proviseur dans la cour ?\nQuand personne ne regarde...[1205]< elle s'anime\net se promène ! Aaaaaaah ! Nooooon !",
+   "brut_fr": "Tu connais la statue du proviseur dans la\ncour? Quand personne ne regarde...[1205]< elle\ns'anime[1205][U+000F] et se promène! Aaaaaaah! Nooooon!",
    "brut_en": "You[SP]know[SP]the[SP]statue[SP]of[SP]the[SP]principal[SP]in[SP]the\ncourtyard?[SP]When[SP]no[SP]one's[SP]looking...[1205]<[SP]it[SP]comes\nto[SP]life[SP]and[SP]walks[SP]around![SP]Eeeeeeeee![SP]Nooooooo!",
    "data_size": 322,
    "budget": 314
@@ -211,7 +223,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors...? C'était pas effrayant ?"
+       "t": "Alors...? C'était pas effrayant?"
       }
      ]
     }
@@ -229,12 +241,13 @@
    "choix_fr": {
     "options": [
      "Pas du tout.",
-     "Si, vraiment !",
+     "Si, vraiment!",
+     "[1205]",
      "Moins que toi."
     ],
     "question": [
      {
-      "t": "Alors...? C'était pas effrayant ?"
+      "t": "Alors...? C'était pas effrayant?"
      }
     ]
    },
@@ -250,7 +263,7 @@
      }
     ]
    },
-   "brut_fr": "Alors...? C'était pas effrayant ?\n[1208][U+0003][1432][NULL][NULL][0014]Pas du tout.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Si, vraiment ![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Moins que toi.[1432][NULL][NULL][0014]",
+   "brut_fr": "Alors...? C'était pas effrayant?\n[1208][U+0003][1432][NULL][NULL][0014]Pas du tout.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Si, vraiment![1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Moins que toi.[1432][NULL][NULL][0014]",
    "brut_en": "Well...?[SP]Wasn't[SP]that[SP]scary?\n[1208][U+0003][1432][NULL][NULL][0014]Not[SP]at[SP]all.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Very[SP]scary,[SP]actually![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]as[SP]scary[SP]as[SP]you.[1432][NULL][NULL][0014]",
    "data_size": 266,
    "budget": 258
@@ -264,19 +277,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Gwah ! T-Tu n'as même pas cillé...?"
+       "t": "Gwah! T-Tu n'as même pas cillé...?"
       },
       {
        "nl": true
       },
       {
-       "t": "Rien ne te fait peur... Moi,"
+       "t": "Rien ne te fait peur... Moi, j'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "j'ai failli me cacher sous mon lit !"
+       "t": "failli me cacher sous mon lit!"
       }
      ]
     }
@@ -305,7 +318,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Gwah ! T-Tu n'as même pas cillé...?\nRien ne te fait peur... Moi,\nj'ai failli me cacher sous mon lit !",
+   "brut_fr": "Gwah! T-Tu n'as même pas cillé...?\nRien ne te fait peur... Moi, j'ai\nfailli me cacher sous mon lit!",
    "brut_en": "Gwah![SP]I-It[SP]doesn't[SP]even[SP]make[SP]you[SP]blink...?\nIt's[SP]true...[SP]nothing[SP]scares[SP]you...[SP]That[SP]one\nnearly[SP]made[SP]me[SP]hide[SP]under[SP]my[SP]bed!",
    "data_size": 288,
    "budget": 280
@@ -319,19 +332,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bleheheh ! Même l'intrépide "
+       "t": "Bleheheh! Même l'intrépide "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": "-kun"
+       "t": "-kun a eu"
       },
       {
        "nl": true
       },
       {
-       "t": "a eu peur !"
+       "t": "peur!"
       },
       {
        "pause": true
@@ -343,13 +356,19 @@
        "pause": true
       },
       {
-       "nl": true
+       "t": " "
       },
       {
        "pause": true
       },
       {
-       "t": " T'inquiète pas..."
+       "t": " T'inquiète"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas..."
       },
       {
        "pause": true
@@ -361,7 +380,13 @@
        "pause": true
       },
       {
-       "t": " une rumeur..."
+       "t": " une "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " rumeur..."
       }
      ]
     }
@@ -423,7 +448,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bleheheh ! Même l'intrépide [1113]-kun\na eu peur ![1205][001E] Quel frisson exquis...[1205][U+000A]\n[1205][001E] T'inquiète pas...[1205][001E] C'est juste[1205][U+000A] une rumeur...",
+   "brut_fr": "Bleheheh! Même l'intrépide [1113]-kun a eu\npeur![1205][001E] Quel frisson exquis...[1205][U+000A] [1205][001E] T'inquiète\npas...[1205][001E] C'est juste[1205][U+000A] une [1205][U+000F] rumeur...",
    "brut_en": "Bleheheh![SP]Even[SP]the[SP]fearless[SP][1113]-kun[SP]got\nfreaked[SP]out[SP]by[SP]that[SP]one![1205][001E][SP]Such[SP]an[SP]exquisite[1205][U+000A]\nfrisson...[1205][001E][SP]Don't[SP]worry...[1205][001E][SP]It's[SP]only[1205][U+000A][SP]a[SP]rumor...",
    "data_size": 322,
    "budget": 314
@@ -437,19 +462,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh ! Je suis effrayante !? Vraiment !?"
+       "t": "Oh! Je suis effrayante!? Vraiment!?"
       },
       {
        "nl": true
       },
       {
-       "t": "Gravée dans ta mémoire... Bleheheh !"
+       "t": "Gravée dans ta mémoire... Bleheheh!"
       },
       {
        "nl": true
       },
       {
-       "t": "Bleheheheheh !"
+       "t": "Bleheheheheh!"
       },
       {
        "pause": true
@@ -461,7 +486,7 @@
        "pause": true
       },
       {
-       "t": " exquis !"
+       "t": " exquis!"
       }
      ]
     }
@@ -502,7 +527,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh ! Je suis effrayante !? Vraiment !?\nGravée dans ta mémoire... Bleheheh !\nBleheheheheh ![1205][001E] Quel frisson[1205][U+000A] exquis !",
+   "brut_fr": "Oh! Je suis effrayante!? Vraiment!?\nGravée dans ta mémoire... Bleheheh!\nBleheheheheh![1205][001E] Quel frisson[1205][U+000A] exquis!",
    "brut_en": "Gosh![SP]I'm[SP]scary!?[SP]Really!?[SP]Now[SP]memories[SP]of[SP]me\nwill[SP]be[SP]burned[SP]into[SP]your[SP]brain...[SP]Bleheheh!\nBleheheheheh![1205][001E][SP]Such[SP]an[SP]exquisite[1205][U+000A][SP]frisson!",
    "data_size": 316,
    "budget": 308
@@ -522,19 +547,19 @@
        "hero": "prenom"
       },
       {
-       "t": "-kun. J'ai entendu que le"
+       "t": "-kun. J'ai entendu"
       },
       {
        "nl": true
       },
       {
-       "t": "Boss du Lycée Kakasu en a après toi..."
+       "t": "que le Boss du Lycée Kakasu en a"
       },
       {
        "nl": true
       },
       {
-       "t": "Ç-Ça te stresse pas ?"
+       "t": "après toi... Ç-Ça te stresse pas?"
       }
      ]
     }
@@ -569,7 +594,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "H-Hé, [1113]-kun. J'ai entendu que le\nBoss du Lycée Kakasu en a après toi...\nÇ-Ça te stresse pas ?",
+   "brut_fr": "H-Hé, [1113]-kun. J'ai entendu\nque le Boss du Lycée Kakasu en a\naprès toi... Ç-Ça te stresse pas?",
    "brut_en": "H-Hey,[SP][1113]-kun.[SP]I[SP]heard[SP]Cuss[SP]High's\nUndie[SP]Boss[SP]is[SP]out[SP]to[SP]get[SP]you...[SP]D-Does[SP]that\nmake[SP]you[SP]nervous?",
    "data_size": 244,
    "budget": 236
@@ -590,6 +615,9 @@
       },
       {
        "t": "mais les solitaires comme toi sont rares."
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -624,7 +652,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "E-Enfin, cette histoire de Boss me dépasse,\nmais les solitaires comme toi sont rares.\nF-Fais gaffe à pas te faire trop d'ennemis.",
+   "brut_fr": "E-Enfin, cette histoire de Boss me dépasse,\nmais les solitaires comme toi sont rares.[1205][U+000F]\nF-Fais gaffe à pas te faire trop d'ennemis.",
    "brut_en": "W-Well,[SP]um,[SP]I[SP]kinda[SP]wonder[SP]about[SP]the[SP]whole\nBoss[SP]thing,[SP]but[SP]loners[SP]like[SP]you[SP]are[SP]pretty\nrare[SP]now[SP]too.[SP]D-Don't[SP]make[SP]too[SP]many[SP]enemies.",
    "data_size": 314,
    "budget": 306
@@ -641,7 +669,7 @@
        "hero": "prenom"
       },
       {
-       "t": "-kun ! T'as entendu la nouvelle ?"
+       "t": "-kun! T'as entendu la nouvelle?"
       },
       {
        "nl": true
@@ -685,7 +713,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113]-kun ! T'as entendu la nouvelle ?\nApparemment cette étrange maladie pourrait\nles forcer à annuler la fête scolaire...",
+   "brut_fr": "[1113]-kun! T'as entendu la nouvelle?\nApparemment cette étrange maladie pourrait\nles forcer à annuler la fête scolaire...",
    "brut_en": "[1113]-kun![SP]Did[SP]you[SP]hear[SP]the[SP]shocking[SP]news?\nTurns[SP]out[SP]this[SP]whole[SP]bizarre[SP]disease[SP]thing\nmight[SP]make[SP]them[SP]cancel[SP]the[SP]school[SP]festival...",
    "data_size": 312,
    "budget": 304

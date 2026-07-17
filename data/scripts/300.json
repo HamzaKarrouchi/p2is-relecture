@@ -10,22 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "On dit qu'entrer dans l'abri anti-aérien"
+       "t": "On dit qu'entrer dans l'abri"
       },
       {
        "nl": true
       },
       {
-       "t": "plus loin est un aller sans retour."
+       "t": "anti-aérien plus loin est un aller sans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "retour."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Fais gaffe à pas t'y aventurer."
+       "t": " Fais gaffe à pas t'y aventurer."
       }
      ]
     }
@@ -57,7 +60,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On dit qu'entrer dans l'abri anti-aérien\nplus loin est un aller sans retour.[1205][U+000F]\nFais gaffe à pas t'y aventurer.",
+   "brut_fr": "On dit qu'entrer dans l'abri\nanti-aérien plus loin est un aller sans\nretour.[1205][U+000F] Fais gaffe à pas t'y aventurer.",
    "brut_en": "They[SP]say[SP]that[SP]once[SP]you[SP]enter[SP]the[SP]air[SP]raid\nshelter[SP]up[SP]ahead,[SP]you[SP]can[SP]never[SP]get[SP]out.[1205][U+000F]\nCareful[SP]not[SP]to[SP]wander[SP]in[SP]there.",
    "data_size": 258,
    "budget": 250
@@ -71,25 +74,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Argh! Ma tunique préférée est"
+       "t": "Argh! Ma tunique préférée est pleine de"
       },
       {
        "nl": true
       },
       {
-       "t": "pleine de boue..."
+       "t": "boue..."
       },
       {
        "pause": true
       },
       {
-       "t": " Maudit Yasuo!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Il paiera le pressing!"
+       "t": " Maudit Yasuo! Il paiera le pressing!"
       }
      ]
     }
@@ -121,7 +118,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Argh! Ma tunique préférée est\npleine de boue...[1205][U+000F] Maudit Yasuo!\nIl paiera le pressing!",
+   "brut_fr": "Argh! Ma tunique préférée est pleine de\nboue...[1205][U+000F] Maudit Yasuo! Il paiera le pressing!",
    "brut_en": "Argh![SP]There's[SP]mud[SP]on[SP]my[SP]favorite[SP]tunic...[1205][U+000F]\nDamn[SP]that[SP]Yasuo![SP]I'm[SP]sticking[SP]him[SP]with[SP]the\ncleaning[SP]bill!",
    "data_size": 228,
    "budget": 220
@@ -135,25 +132,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Yikes... C'est vraiment dégoûtant."
+       "t": "Yikes... C'est vraiment dégoûtant. Le Lycée"
       },
       {
        "nl": true
       },
       {
-       "t": "Le Lycée Kakasu porte bien son nom"
+       "t": "Kakasu porte bien son nom pour abriter un"
       },
       {
        "nl": true
       },
       {
-       "t": "pour abriter un tel endroit. Allez,"
+       "t": "tel endroit. Allez,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "sortons d'ici."
+       "t": " sortons d'ici."
       }
      ]
     }
@@ -182,7 +179,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Yikes... C'est vraiment dégoûtant.\nLe Lycée Kakasu porte bien son nom\npour abriter un tel endroit. Allez,\nsortons d'ici.",
+   "brut_fr": "Yikes... C'est vraiment dégoûtant. Le Lycée\nKakasu porte bien son nom pour abriter un\ntel endroit. Allez,[1205][U+000F] sortons d'ici.",
    "brut_en": "Yikes...[SP]This[SP]sure[SP]feels[SP]disgusting.[SP]Cuss[SP]High\nreally[SP]lives[SP]up[SP]to[SP]its[SP]name,[SP]having[SP]something\nlike[SP]this.[SP]C'mon,[SP]let's[SP]get[SP]out[SP]of[SP]here.",
    "data_size": 288,
    "budget": 280
@@ -196,22 +193,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est sa faute! J'ai dû"
+       "t": "C'est sa faute! J'ai dû suivre"
       },
       {
        "nl": true
       },
       {
-       "t": "suivre Eikichi..."
+       "t": "Eikichi..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Pas vrai, "
+       "t": " Pas vrai, "
       },
       {
        "hero": "prenom"
@@ -252,7 +246,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est sa faute! J'ai dû\nsuivre Eikichi...[1205][U+000F]\nPas vrai, [1113]?",
+   "brut_fr": "C'est sa faute! J'ai dû suivre\nEikichi...[1205][U+000F] Pas vrai, [1113]?",
    "brut_en": "I-It[SP]wasn't[SP]my[SP]fault![SP]Eikichi[SP]went[SP]in,[SP]so[SP]I\nhad[SP]no[SP]choice...[1205][U+000F][SP]Right,[SP][1113]?",
    "data_size": 166,
    "budget": 158
@@ -272,25 +266,25 @@
        "hero": "prenom"
       },
       {
-       "t": "? Plus loin y a"
+       "t": "? Plus loin y a un"
       },
       {
        "nl": true
       },
       {
-       "t": "un vieil abri anti-aérien."
+       "t": "vieil abri anti-aérien. Je me demande"
       },
       {
        "nl": true
       },
       {
-       "t": "Je me demande comment"
+       "t": "comment"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "c'est à l'intérieur..."
+       "t": " c'est à l'intérieur..."
       }
      ]
     }
@@ -325,7 +319,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu sais [1113]? Plus loin y a\nun vieil abri anti-aérien.\nJe me demande comment\nc'est à l'intérieur...",
+   "brut_fr": "Tu sais [1113]? Plus loin y a un\nvieil abri anti-aérien. Je me demande\ncomment[1205][U+000F] c'est à l'intérieur...",
    "brut_en": "Know[SP]what,[SP][1113]?[SP]Up[SP]ahead[SP]is[SP]a[SP]bomb\nshelter[SP]they[SP]built[SP]way[SP]back[SP]when.[SP]I[SP]wonder\nwhat[SP]it's[SP]like[SP]in[SP]there...",
    "data_size": 224,
    "budget": 216
@@ -345,19 +339,19 @@
        "nl": true
       },
       {
-       "t": "prépare encore un coup. On doit"
+       "t": "prépare encore un coup. On doit l'arrêter"
       },
       {
        "nl": true
       },
       {
-       "t": "l'arrêter avant qu'il ne tente"
+       "t": "avant qu'il ne tente"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "autre chose."
+       "t": " autre chose."
       }
      ]
     }
@@ -386,7 +380,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "D'après ce qu'on a entendu, le président\nprépare encore un coup. On doit\nl'arrêter avant qu'il ne tente\nautre chose.",
+   "brut_fr": "D'après ce qu'on a entendu, le président\nprépare encore un coup. On doit l'arrêter\navant qu'il ne tente[1205][U+000F] autre chose.",
    "brut_en": "From[SP]what[SP]we[SP]overheard,[SP]the[SP]president[SP]is[SP]still\nscheming[SP]something.[SP]We[SP]have[SP]to[SP]take[SP]him[SP]down\nbefore[SP]he[SP]tries[SP]anything[SP]else.",
    "data_size": 264,
    "budget": 256
@@ -400,31 +394,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'horloge des Seven..."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "L'abri ici..."
+       "t": "L'horloge des Seven... L'abri ici..."
       },
       {
        "pause": true
       },
       {
-       "t": " Les lycées ont"
+       "nl": true
+      },
+      {
+       "t": "Les lycées ont tous des squelettes"
       },
       {
        "nl": true
       },
       {
-       "t": "tous des squelettes dans"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "le placard. St. Hermelin aussi..."
+       "t": "dans le placard. St. Hermelin aussi..."
       }
      ]
     }
@@ -456,7 +441,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'horloge des Seven...\nL'abri ici...[1205][U+000F] Les lycées ont\ntous des squelettes dans\nle placard. St. Hermelin aussi...",
+   "brut_fr": "L'horloge des Seven... L'abri ici...[1205][U+000F]\nLes lycées ont tous des squelettes\ndans le placard. St. Hermelin aussi...",
    "brut_en": "Sevens'[SP]clock[SP]tower...[SP]The[SP]shelter[SP]here...[1205][U+000F]\nGuess[SP]all[SP]schools[SP]have[SP]skeletons[SP]in[SP]the[SP]closet.\nSt.[SP]Hermelin[SP]did,[SP]too...",
    "data_size": 258,
    "budget": 250
@@ -476,22 +461,25 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Sérieux, arrêtez de vous aventurer"
+       "t": " Sérieux,"
       },
       {
        "nl": true
       },
       {
-       "t": "comme ça sans même connaître les"
+       "t": "arrêtez de vous aventurer comme ça sans"
       },
       {
        "nl": true
       },
       {
-       "t": "pièges qui s'y trouvent!"
+       "t": "même connaître les"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pièges qui s'y trouvent!"
       }
      ]
     }
@@ -526,7 +514,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est votre faute à tous les deux![1205][U+000F]\nSérieux, arrêtez de vous aventurer\ncomme ça sans même connaître les\npièges qui s'y trouvent!",
+   "brut_fr": "C'est votre faute à tous les deux![1205][U+000F] Sérieux,\narrêtez de vous aventurer comme ça sans\nmême connaître les[1205][U+000F] pièges qui s'y trouvent!",
    "brut_en": "It's[SP]both[SP]your[SP]faults![1205][U+000F][SP]Seriously,[SP]without\nknowing[SP]what[SP]kind[SP]of[SP]traps[SP]there[SP]are,[SP]don't\neven[SP]think[SP]of[SP]wandering[SP]off[SP]like[SP]that[SP]again!",
    "data_size": 288,
    "budget": 280
@@ -540,25 +528,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "N'entrez pas. C'était un abri"
+       "t": "N'entrez pas. C'était un abri anti-aérien à"
       },
       {
        "nl": true
       },
       {
-       "t": "anti-aérien à la base, mais on"
+       "t": "la base, mais on raconte qu'une fois à"
       },
       {
        "nl": true
       },
       {
-       "t": "raconte qu'une fois à l'intérieur,"
+       "t": "l'intérieur,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "on ne trouve jamais la sortie."
+       "t": " on ne trouve jamais la sortie."
       }
      ]
     }
@@ -587,7 +575,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N'entrez pas. C'était un abri\nanti-aérien à la base, mais on\nraconte qu'une fois à l'intérieur,\non ne trouve jamais la sortie.",
+   "brut_fr": "N'entrez pas. C'était un abri anti-aérien à\nla base, mais on raconte qu'une fois à\nl'intérieur,[1205][U+000F] on ne trouve jamais la sortie.",
    "brut_en": "Oh,[SP]don't[SP]go[SP]in[SP]there.[SP]It[SP]was[SP]originally[SP]an[SP]air\nraid[SP]shelter,[SP]but[SP]rumor[SP]has[SP]it[SP]that[SP]once[SP]you[SP]go\ninside,[SP]you[SP]can't[SP]find[SP]the[SP]exit.",
    "data_size": 292,
    "budget": 284
@@ -601,25 +589,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est dangereux, ok? On ne veut"
+       "t": "C'est dangereux, ok? On ne veut pas"
       },
       {
        "nl": true
       },
       {
-       "t": "pas que des visiteurs s'y perdent"
+       "t": "que des visiteurs s'y perdent par"
       },
       {
        "nl": true
       },
       {
-       "t": "par accident, alors je monte"
+       "t": "accident, alors je monte"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "la garde ici."
+       "t": " la garde ici."
       }
      ]
     }
@@ -648,7 +636,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est dangereux, ok? On ne veut\npas que des visiteurs s'y perdent\npar accident, alors je monte\nla garde ici.",
+   "brut_fr": "C'est dangereux, ok? On ne veut pas\nque des visiteurs s'y perdent par\naccident, alors je monte[1205][U+000F] la garde ici.",
    "brut_en": "Look,[SP]it's[SP]just[SP]dangerous,[SP]okay?[SP]We[SP]don't\nwant[SP]visitors[SP]wandering[SP]in[SP]by[SP]accident,[SP]so[SP]I'm\nstanding[SP]guard[SP]here.",
    "data_size": 254,
    "budget": 246
@@ -662,25 +650,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "N'entrez pas. C'était un abri"
+       "t": "N'entrez pas. C'était un abri anti-aérien à"
       },
       {
        "nl": true
       },
       {
-       "t": "anti-aérien à la base, mais on"
+       "t": "la base, mais on raconte qu'une fois à"
       },
       {
        "nl": true
       },
       {
-       "t": "raconte qu'une fois à l'intérieur,"
+       "t": "l'intérieur,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "on ne trouve jamais la sortie."
+       "t": " on ne trouve jamais la sortie."
       }
      ]
     }
@@ -709,7 +697,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N'entrez pas. C'était un abri\nanti-aérien à la base, mais on\nraconte qu'une fois à l'intérieur,\non ne trouve jamais la sortie.",
+   "brut_fr": "N'entrez pas. C'était un abri anti-aérien à\nla base, mais on raconte qu'une fois à\nl'intérieur,[1205][U+000F] on ne trouve jamais la sortie.",
    "brut_en": "Oh,[SP]don't[SP]go[SP]in[SP]there.[SP]It[SP]was[SP]originally[SP]an[SP]air\nraid[SP]shelter,[SP]but[SP]rumor[SP]has[SP]it[SP]that[SP]once[SP]you[SP]go\ninside,[SP]you[SP]can't[SP]find[SP]the[SP]exit.",
    "data_size": 292,
    "budget": 284
@@ -723,25 +711,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est dangereux, ok? On ne veut"
+       "t": "C'est dangereux, ok? On ne veut pas"
       },
       {
        "nl": true
       },
       {
-       "t": "pas que des visiteurs s'y perdent"
+       "t": "que des visiteurs s'y perdent par"
       },
       {
        "nl": true
       },
       {
-       "t": "par accident, alors je monte"
+       "t": "accident, alors je monte"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "la garde ici."
+       "t": " la garde ici."
       }
      ]
     }
@@ -770,7 +758,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est dangereux, ok? On ne veut\npas que des visiteurs s'y perdent\npar accident, alors je monte\nla garde ici.",
+   "brut_fr": "C'est dangereux, ok? On ne veut pas\nque des visiteurs s'y perdent par\naccident, alors je monte[1205][U+000F] la garde ici.",
    "brut_en": "Look,[SP]it's[SP]just[SP]dangerous,[SP]okay?[SP]We[SP]don't\nwant[SP]visitors[SP]wandering[SP]in[SP]by[SP]accident,[SP]so[SP]I'm\nstanding[SP]guard[SP]here.",
    "data_size": 254,
    "budget": 246
@@ -916,25 +904,25 @@
        "pause": true
       },
       {
-       "t": " Oublie ça! On a"
+       "t": " Oublie ça! On a toute une"
       },
       {
        "nl": true
       },
       {
-       "t": "toute une liste de trucs à te"
+       "t": "liste de trucs à te demander! Hors de"
       },
       {
        "nl": true
       },
       {
-       "t": "demander! Hors de question qu'on"
+       "t": "question qu'on"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "te laisse partir comme ça!"
+       "t": " te laisse partir comme ça!"
       }
      ]
     }
@@ -969,7 +957,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Te pardonner?[1205][U+000F] Oublie ça! On a\ntoute une liste de trucs à te\ndemander! Hors de question qu'on\nte laisse partir comme ça!",
+   "brut_fr": "Te pardonner?[1205][U+000F] Oublie ça! On a toute une\nliste de trucs à te demander! Hors de\nquestion qu'on[1205][U+000F] te laisse partir comme ça!",
    "brut_en": "Forgive[SP]you?[1205][U+000F][SP]Forget[SP]that![SP]There's[SP]a[SP]whole\nlaundry[SP]list[SP]of[SP]stuff[SP]we[SP]gotta[SP]ask[SP]you!\nThere's[SP]no[SP]way[SP]we're[SP]just[SP]letting[SP]you[SP]go!",
    "data_size": 276,
    "budget": 268
@@ -1063,13 +1051,7 @@
        "pause": true
       },
       {
-       "t": " Pourquoi foncent-ils"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "sans réfléchir!?"
+       "t": " Pourquoi foncent-ils sans réfléchir!?"
       }
      ]
     }
@@ -1092,7 +1074,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Arrgh...[1205][U+000F] Pourquoi foncent-ils\nsans réfléchir!?",
+   "brut_fr": "Arrgh...[1205][U+000F] Pourquoi foncent-ils sans réfléchir!?",
    "brut_en": "Arrgh...[1205][U+000F][SP]Why[SP]do[SP]they[SP]rush[SP]in[SP]without[SP]thinking!?",
    "data_size": 122,
    "budget": 114

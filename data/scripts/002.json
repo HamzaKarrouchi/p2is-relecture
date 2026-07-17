@@ -71,7 +71,7 @@
        "pause": true
       },
       {
-       "t": "Gah!"
+       "t": " Gah!"
       }
      ]
     }
@@ -106,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A]Gah!",
+   "brut_fr": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A] Gah!",
    "brut_en": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A]Gah!",
    "data_size": 58,
    "budget": 50
@@ -206,10 +206,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "O-Ouais. Si on attend encore un peu,"
+       "t": "O-Ouais. Si on attend encore"
       },
       {
        "nl": true
+      },
+      {
+       "t": "un peu, "
       },
       {
        "hero": "prenom"
@@ -244,7 +247,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "O-Ouais. Si on attend encore un peu,\n[1113] va se pointer!",
+   "brut_fr": "O-Ouais. Si on attend encore\nun peu, [1113] va se pointer!",
    "brut_en": "Y-Yeah.[SP]If[SP]we[SP]wait[SP]just[SP]a[SP]little[SP]longer,\nI'm[SP]sure[SP][1113][SP]will[SP]show!",
    "data_size": 148,
    "budget": 140
@@ -295,19 +298,16 @@
        "pause": true
       },
       {
-       "t": " C'est quoi ce délire avec "
-      },
-      {
-       "hero": "prenom"
-      },
-      {
-       "t": "?"
+       "t": " C'est quoi ce délire avec"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous manigancez quoi?"
+       "hero": "prenom"
+      },
+      {
+       "t": "? Vous manigancez quoi?"
       }
      ]
     }
@@ -342,7 +342,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé...[1205][001E] C'est quoi ce délire avec [1113]?\nVous manigancez quoi?",
+   "brut_fr": "Hé...[1205][001E] C'est quoi ce délire avec\n[1113]? Vous manigancez quoi?",
    "brut_en": "Hey...[1205][001E][SP]What's[SP]this[SP]about[SP][1113]?\nWhat[SP]are[SP]you[SP]three[SP]scheming?",
    "data_size": 144,
    "budget": 136
@@ -779,13 +779,13 @@
        "pause": true
       },
       {
-       "t": " Et il est fiable, alors on a"
+       "t": " Et il est fiable, alors on"
       },
       {
        "nl": true
       },
       {
-       "t": "pensé que ça vous ferait plaisir..."
+       "t": "a pensé que ça vous ferait plaisir..."
       }
      ]
     }
@@ -826,7 +826,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On s'est dit que [1113]-san ferait\nl'affaire.[1205][001E] Et il est fiable, alors on a\npensé que ça vous ferait plaisir...",
+   "brut_fr": "On s'est dit que [1113]-san ferait\nl'affaire.[1205][001E] Et il est fiable, alors on\na pensé que ça vous ferait plaisir...",
    "brut_en": "We[SP]thought[SP][1113]-san[SP]would[SP]be[SP]a[SP]good\nfit.[1205][001E][SP]And[SP]he's[SP]reliable,[SP]so[SP]we[SP]thought\nyou'd[SP]be[SP]happy[SP]to[SP]have[SP]him[SP]aboard...",
    "data_size": 238,
    "budget": 230
@@ -846,19 +846,13 @@
        "pause": true
       },
       {
-       "t": " Vous savez ce qui arrive"
+       "t": " Vous savez ce qui arrive si"
       },
       {
        "nl": true
       },
       {
-       "t": "si on brise le Code"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "et vous l'avez fait..."
+       "t": "on brise le Code et vous l'avez fait..."
       }
      ]
     }
@@ -893,7 +887,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L-Les gars...[1205][001E] Vous savez ce qui arrive\nsi on brise le Code\net vous l'avez fait...",
+   "brut_fr": "L-Les gars...[1205][001E] Vous savez ce qui arrive si\non brise le Code et vous l'avez fait...",
    "brut_en": "Y-You[SP]guys...[1205][001E][SP]You[SP]knew[SP]what[SP]would\nhappen[SP]if[SP]you[SP]violated[SP]Bro[SP]Code[SP]and\nyou[SP]still...",
    "data_size": 196,
    "budget": 188
@@ -907,25 +901,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oui, chef ! "
+       "t": "Oui, chef! "
       },
       {
-       "enc": "La lâcheté est indigne"
-      },
-      {
-       "nl": true
-      },
-      {
-       "enc": "d'un vrai homme !"
-      },
-      {
-       "t": " On acceptera"
+       "enc": "La lâcheté est indigne d'un vrai"
       },
       {
        "nl": true
       },
       {
-       "t": "n'importe quelle punition !"
+       "enc": "homme!"
+      },
+      {
+       "t": " On acceptera n'importe quelle punition!"
       }
      ]
     }
@@ -960,7 +948,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oui, chef ! [1432][NULL][NULL][0014]La lâcheté est indigne\nd'un vrai homme ![1432][NULL][NULL][0014] On acceptera\nn'importe quelle punition !",
+   "brut_fr": "Oui, chef! [1432][NULL][NULL][0014]La lâcheté est indigne d'un vrai\nhomme![1432][NULL][NULL][0014] On acceptera n'importe quelle punition!",
    "brut_en": "Yes,[SP]sir![SP][1432][NULL][NULL][0014]Cowardice[SP]is[SP]unbefitting[SP]of[SP]a\nreal[SP]man![1432][NULL][NULL][0014][SP]We'll[SP]take[SP]whatever[SP]punishment\nyou[SP]have[SP]in[SP]store!",
    "data_size": 268,
    "budget": 260
@@ -974,19 +962,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Euh... Donc l'histoire sur le mystère"
+       "t": "Euh... Donc l'histoire sur le mystère de"
       },
       {
        "nl": true
       },
       {
-       "t": "de la malédiction..."
+       "t": "la malédiction..."
       },
       {
        "pause": true
       },
       {
-       "t": " C'était un mensonge ?"
+       "t": " C'était un mensonge?"
       },
       {
        "nl": true
@@ -1027,7 +1015,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Euh... Donc l'histoire sur le mystère\nde la malédiction...[1205][001E] C'était un mensonge ?\nSi c'est le cas, je m'en vais.",
+   "brut_fr": "Euh... Donc l'histoire sur le mystère de\nla malédiction...[1205][001E] C'était un mensonge?\nSi c'est le cas, je m'en vais.",
    "brut_en": "Um...[SP]So[SP]that[SP]stuff[SP]about[SP]telling[SP]me[SP]the\nmystery[SP]of[SP]the[SP]emblem[SP]curse...[1205][001E][SP]Was[SP]that\nall[SP]a[SP]lie?[SP]If[SP]so,[SP]then[SP]I'm[SP]going[SP]to[SP]go.",
    "data_size": 266,
    "budget": 258
@@ -1053,13 +1041,7 @@
        "hero": "prenom"
       },
       {
-       "t": "."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "C'est si bête."
+       "t": ". C'est si bête."
       }
      ]
     }
@@ -1094,7 +1076,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*pff*[1205][001E] Viens, [1113].\nC'est si bête.",
+   "brut_fr": "*pff*[1205][001E] Viens, [1113]. C'est si bête.",
    "brut_en": "*sigh*[1205][001E][SP]We[SP]should[SP]go[SP]too,[SP][1113].[SP]This[SP]is\nso[SP]stupid[SP]I[SP]might[SP]cry.",
    "data_size": 142,
    "budget": 134
@@ -1163,13 +1145,7 @@
        "nl": true
       },
       {
-       "t": "mes potes, je peux pas te laisser"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "partir."
+       "t": "mes potes, je peux pas te laisser partir."
       }
      ]
     }
@@ -1204,7 +1180,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je déteste m'abaisser à ça...[1205][001E] Mais pour\nmes potes, je peux pas te laisser\npartir.",
+   "brut_fr": "Je déteste m'abaisser à ça...[1205][001E] Mais pour\nmes potes, je peux pas te laisser partir.",
    "brut_en": "I[SP]hate[SP]to[SP]stoop[SP]this[SP]low...[1205][001E][SP]But[SP]for[SP]the\nsake[SP]of[SP]my[SP]bros,[SP]I[SP]can't[SP]let[SP]you[SP]go\nthat[SP]easily.",
    "data_size": 208,
    "budget": 200
@@ -1264,13 +1240,7 @@
        "enc": "Boss Mortel"
       },
       {
-       "t": "!?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Boss des Calbutes!"
+       "t": "!? Boss des Calbutes!"
       }
      ]
     }
@@ -1290,7 +1260,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Boss Mortel[1432][NULL][NULL][0014]!?\nBoss des Calbutes!",
+   "brut_fr": "[1432][NULL][NULL][0014]Boss Mortel[1432][NULL][NULL][0014]!? Boss des Calbutes!",
    "brut_en": "[1432][NULL][NULL][0014]Death[SP]Boss[1432][NULL][NULL][0014]!?[SP]More[SP]like[SP]Undie[SP]Boss!",
    "data_size": 106,
    "budget": 98
@@ -1304,13 +1274,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je connais la rumeur! T'es devenu Boss"
+       "t": "Je connais la rumeur! T'es devenu"
       },
       {
        "nl": true
       },
       {
-       "t": "en baissant les frocs, non?"
+       "t": "Boss en baissant les frocs, non?"
       }
      ]
     }
@@ -1333,7 +1303,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je connais la rumeur! T'es devenu Boss\nen baissant les frocs, non?",
+   "brut_fr": "Je connais la rumeur! T'es devenu\nBoss en baissant les frocs, non?",
    "brut_en": "I've[SP]heard[SP]the[SP]rumors![SP]You[SP]became\nBoss[SP]by[SP]pantsing[SP]people,[SP]didn't[SP]you?",
    "data_size": 162,
    "budget": 154

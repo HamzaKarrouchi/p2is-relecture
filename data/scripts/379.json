@@ -65,13 +65,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Nous vous attendions sur ordre"
+       "t": "Nous vous attendions sur ordre de"
       },
       {
        "nl": true
       },
       {
-       "t": "de notre maître, Philémon."
+       "t": "notre maître, Philémon."
       },
       {
        "pause": true
@@ -106,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nous vous attendions sur ordre\nde notre maître, Philémon.[1205][001E] Je suis Igor",
+   "brut_fr": "Nous vous attendions sur ordre de\nnotre maître, Philémon.[1205][001E] Je suis Igor",
    "brut_en": "We[SP]have[SP]been[SP]waiting[SP]for[SP]you[SP]at[SP]the[SP]command\nof[SP]our[SP]master,[SP]Philemon.[1205][001E][SP]My[SP]name[SP]is[SP]Igor.",
    "data_size": 194,
    "budget": 186
@@ -120,19 +120,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis Belladonna"
+       "t": "Je suis Belladonna Je salue les guerriers"
       },
       {
        "nl": true
       },
       {
-       "t": "Je salue les guerriers venus"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Défier le monstre qu'est soi-même"
+       "t": "venus Défier le monstre qu'est soi-même"
       }
      ]
     }
@@ -164,7 +158,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis Belladonna[U+070F]\nJe salue les guerriers venus[U+070F]\nDéfier le monstre qu'est soi-même[U+070F]",
+   "brut_fr": "Je suis Belladonna[U+070F] Je salue les guerriers\nvenus[U+070F] Défier le monstre qu'est soi-même[U+070F]",
    "brut_en": "I[SP]am[SP]Belladonna[U+070F][1205][001E]\nI[SP]praise[SP]visiting[SP]warriors[U+070F]\nWho[SP]challenge[SP]the[SP]monster[SP]called[SP]thyself[U+070F]",
    "data_size": 208,
    "budget": 200
@@ -184,13 +178,13 @@
        "pause": true
       },
       {
-       "t": " Un pianiste qui ouvre"
+       "t": " Un pianiste qui"
       },
       {
        "nl": true
       },
       {
-       "t": "les portes closes de l'âme..."
+       "t": "ouvre les portes closes de l'âme..."
       }
      ]
     }
@@ -219,7 +213,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis Nameless...[1205][001E] Un pianiste qui ouvre\nles portes closes de l'âme...",
+   "brut_fr": "Je suis Nameless...[1205][001E] Un pianiste qui\nouvre les portes closes de l'âme...",
    "brut_en": "I[SP]am[SP]Nameless...[1205][001E][SP]A[SP]pianist[SP]who[SP]opens[SP]the\nshuttered[SP]doors[SP]of[SP]one's[SP]soul...",
    "data_size": 178,
    "budget": 170
@@ -239,13 +233,13 @@
        "pause": true
       },
       {
-       "t": " Mon art dépeint"
+       "t": " Mon art"
       },
       {
        "nl": true
       },
       {
-       "t": "dieux et démons en l'homme."
+       "t": "dépeint dieux et démons en l'homme."
       }
      ]
     }
@@ -274,7 +268,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis un peintre démon.[1205][001E] Mon art dépeint\ndieux et démons en l'homme.",
+   "brut_fr": "Je suis un peintre démon.[1205][001E] Mon art\ndépeint dieux et démons en l'homme.",
    "brut_en": "I'm[SP]a[SP]demon[SP]painter.[1205][001E][SP]My[SP]art[SP]depicts[SP]the[SP]gods\nand[SP]demons[SP]that[SP]dwell[SP]within[SP]man.",
    "data_size": 198,
    "budget": 190
@@ -288,13 +282,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Nous quatre avons pour mission de vous aider"
+       "t": "Nous quatre avons pour mission de vous"
       },
       {
        "nl": true
       },
       {
-       "t": "à éveiller de nouveaux Personae."
+       "t": "aider à éveiller de nouveaux Personae."
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -329,7 +326,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nous quatre avons pour mission de vous aider\nà éveiller de nouveaux Personae.\nRavi de faire votre connaissance...",
+   "brut_fr": "Nous quatre avons pour mission de vous\naider à éveiller de nouveaux Personae.[1205][U+000F]\nRavi de faire votre connaissance...",
    "brut_en": "We[SP]four[SP]have[SP]been[SP]charged[SP]with[SP]aiding[SP]you[SP]in\nawakening[SP]new[SP]souls;[SP]new[SP]Personas.[SP]I[SP]am\ndelighted[SP]to[SP]make[SP]your[SP]acquaintance...",
    "data_size": 266,
    "budget": 258
@@ -355,22 +352,31 @@
        "pause": true
       },
       {
-       "t": " Être ici ça ressemble pas un peu..."
+       "t": " Être ici ça ressemble"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas un peu..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "À ce qu'on ressent quand on invoque"
+       "t": " À ce qu'on ressent"
       },
       {
        "nl": true
       },
       {
-       "t": "un Persona ?"
+       "t": "quand on invoque"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " un Persona?"
       }
      ]
     }
@@ -414,7 +420,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, [1113]...[1205][001E] Être ici ça ressemble pas un peu...[1205][001E]\nÀ ce qu'on ressent quand on invoque\nun Persona ?",
+   "brut_fr": "Hé, [1113]...[1205][001E] Être ici ça ressemble\npas un peu...[1205][001E] À ce qu'on ressent\nquand on invoque[1205][U+000F] un Persona?",
    "brut_en": "Hey,[SP][1113]...[1205][001E][SP]Doesn't[SP]being[SP]here[SP]feel[SP]like...[1205][001E]\nWell,[SP]kinda[SP]like[SP]how[SP]it[SP]does[SP]when[SP]you[SP]summon\na[SP]Persona?",
    "data_size": 228,
    "budget": 220
@@ -428,13 +434,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai l'impression que quelque chose monte"
+       "t": "J'ai l'impression que quelque"
       },
       {
        "nl": true
       },
       {
-       "t": "en moi, ou jaillit..."
+       "t": "chose monte en moi, ou jaillit..."
       }
      ]
     }
@@ -457,7 +463,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai l'impression que quelque chose monte\nen moi, ou jaillit...",
+   "brut_fr": "J'ai l'impression que quelque\nchose monte en moi, ou jaillit...",
    "brut_en": "It[SP]feels[SP]like[SP]something's[SP]rising[SP]up[SP]from\nwithin[SP]me,[SP]or[SP]surging[SP]out...",
    "data_size": 164,
    "budget": 156
@@ -471,13 +477,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Philemon leur maître ?"
+       "t": "Philemon leur maître?"
       },
       {
        "pause": true
       },
       {
-       "t": " Nouveaux Personae ?"
+       "t": " Nouveaux Personae?"
       },
       {
        "pause": true
@@ -486,7 +492,7 @@
        "nl": true
       },
       {
-       "t": "Ça veut dire qu'il y en a des tas !"
+       "t": "Ça veut dire qu'il y en a des tas!"
       }
      ]
     }
@@ -518,7 +524,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Philemon leur maître ?[1205][001E] Nouveaux Personae ?[1205][001E]\nÇa veut dire qu'il y en a des tas !",
+   "brut_fr": "Philemon leur maître?[1205][001E] Nouveaux Personae?[1205][001E]\nÇa veut dire qu'il y en a des tas!",
    "brut_en": "Philemon's[SP]their[SP]master?[1205][001E][SP]New[SP]Personas...?[1205][001E]\nThat[SP]means[SP]there[SP]are[SP]tons[SP]of[SP]Personas!",
    "data_size": 188,
    "budget": 180
@@ -532,16 +538,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et ces gens vont nous aider à les obtenir !"
-      },
-      {
-       "pause": true
+       "t": "Et ces gens vont nous aider à les obtenir"
       },
       {
        "nl": true
       },
       {
-       "t": "On devrait bien écouter, "
+       "t": "!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On devrait bien écouter, "
       },
       {
        "hero": "prenom"
@@ -579,7 +588,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et ces gens vont nous aider à les obtenir ![1205][001E]\nOn devrait bien écouter, [1113].",
+   "brut_fr": "Et ces gens vont nous aider à les obtenir\n![1205][001E] On devrait bien écouter, [1113].",
    "brut_en": "And[SP]these[SP]people[SP]are[SP]going[SP]to[SP]help[SP]us[SP]get[SP]them![1205][001E]\nWe[SP]should[SP]pay[SP]close[SP]attention,[SP][1113].",
    "data_size": 186,
    "budget": 178
@@ -593,13 +602,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Philemon leur maître ?"
+       "t": "Philemon leur maître?"
       },
       {
        "pause": true
       },
       {
-       "t": " Nouveaux Personae ?"
+       "t": " Nouveaux Personae?"
       },
       {
        "pause": true
@@ -608,7 +617,7 @@
        "nl": true
       },
       {
-       "t": "Ça veut dire qu'il y en a des tas !"
+       "t": "Ça veut dire qu'il y en a des tas!"
       }
      ]
     }
@@ -640,7 +649,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Philemon leur maître ?[1205][001E] Nouveaux Personae ?[1205][001E]\nÇa veut dire qu'il y en a des tas !",
+   "brut_fr": "Philemon leur maître?[1205][001E] Nouveaux Personae?[1205][001E]\nÇa veut dire qu'il y en a des tas!",
    "brut_en": "Philemon's[SP]their[SP]master?[1205][001E][SP]New[SP]Personas...?[1205][001E]\nThat[SP]means[SP]there[SP]are[SP]tons[SP]of[SP]Personas!",
    "data_size": 190,
    "budget": 182
@@ -654,16 +663,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et ces gens vont nous aider à les obtenir !"
-      },
-      {
-       "pause": true
+       "t": "Et ces gens vont nous aider à les obtenir"
       },
       {
        "nl": true
       },
       {
-       "t": "On devrait bien écouter, "
+       "t": "!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On devrait bien écouter, "
       },
       {
        "hero": "prenom"
@@ -701,7 +713,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et ces gens vont nous aider à les obtenir ![1205][001E]\nOn devrait bien écouter, [1113].",
+   "brut_fr": "Et ces gens vont nous aider à les obtenir\n![1205][001E] On devrait bien écouter, [1113].",
    "brut_en": "And[SP]these[SP]people[SP]are[SP]going[SP]to[SP]help[SP]us[SP]get[SP]them![1205][001E]\nWe[SP]should[SP]pay[SP]close[SP]attention,[SP][1113].",
    "data_size": 188,
    "budget": 180
@@ -721,13 +733,13 @@
        "pause": true
       },
       {
-       "t": " On dirait qu'elle touche"
+       "t": " On dirait qu'elle"
       },
       {
        "nl": true
       },
       {
-       "t": "mon âme."
+       "t": "touche mon âme."
       },
       {
        "pause": true
@@ -736,10 +748,10 @@
        "t": " Ça ne vous met pas"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "à l'aise ?"
+       "t": " à l'aise?"
       }
      ]
     }
@@ -780,7 +792,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quelle belle musique...[1205][001E] On dirait qu'elle touche\nmon âme.[1205][001E] Ça ne vous met pas\nà l'aise ?",
+   "brut_fr": "Quelle belle musique...[1205][001E] On dirait qu'elle\ntouche mon âme.[1205][001E] Ça ne vous met pas[1205][U+000F] à l'aise?",
    "brut_en": "What[SP]a[SP]wonderful[SP]song...[1205][001E][SP]It[SP]feels[SP]like[SP]it\ntouches[SP]my[SP]soul.[1205][001E][SP]Doesn't[SP]it[SP]make[SP]you[SP]incredibly\nat[SP]ease?",
    "data_size": 224,
    "budget": 216
@@ -800,7 +812,7 @@
        "pause": true
       },
       {
-       "t": " Insupportable !"
+       "t": " Insupportable!"
       },
       {
        "pause": true
@@ -818,33 +830,39 @@
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "! "
       }
      ]
     },
     {
-     "nom": "Yukino",
+     "nom": "Yukino[1205][U+000F] Cela",
      "seg": [
       {
-       "t": "Cela me rappelle des souvenirs..."
+       "t": "me rappelle des souvenirs..."
       },
       {
        "pause": true
       },
       {
-       "t": " Cet endroit"
+       "t": " Cet endroit a"
       },
       {
        "nl": true
       },
       {
-       "t": "a beaucoup aidé mes amis et moi dans"
+       "t": "beaucoup aidé mes amis et moi dans"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " notre"
       },
       {
        "nl": true
       },
       {
-       "t": "notre jeunesse."
+       "t": "jeunesse."
       },
       {
        "pause": true
@@ -923,7 +941,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cette chanson...[1205][U+000F] Insupportable ![1205][U+000F] Partons\nd'ici tout de suite, [1113] ![E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nCela me rappelle des souvenirs...[1205][001E] Cet endroit\na beaucoup aidé mes amis et moi dans\nnotre jeunesse.[1205][001E] C'était bien, malgré tout.",
+   "brut_fr": "Cette chanson...[1205][U+000F] Insupportable![1205][U+000F] Partons\nd'ici tout de suite, [1113]![E1][E2] [E3][E4][NULL][NULL]\"Yukino[1205][U+000F] Cela\nme rappelle des souvenirs...[1205][001E] Cet endroit a\nbeaucoup aidé mes amis et moi dans[1205][U+000F] notre\njeunesse.[1205][001E] C'était bien, malgré tout.",
    "brut_en": "This[SP]song...[1205][U+000F][SP]It's[SP]intolerable![1205][U+000F][SP]Let's[SP]leave\nthis[SP]place[SP]at[SP]once,[SP][1113]-kun![E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nThis[SP]brings[SP]back[SP]memories...[1205][001E][SP]This[SP]place[SP]was[SP]a\nhuge[SP]help[SP]for[SP]me[SP]and[SP]my[SP]friends[SP]when[SP]we[SP]were\nyounger.[1205][001E][SP]It[SP]was[SP]fun,[SP]despite[SP]everything.",
    "data_size": 466,
    "budget": 458
@@ -943,25 +961,22 @@
        "hero": "prenom"
       },
       {
-       "t": ". Ne gaspille pas ta jeunesse"
+       "t": ". Ne gaspille"
       },
       {
        "nl": true
       },
       {
-       "t": "à des regrets."
+       "t": "pas ta jeunesse à des regrets."
       },
       {
        "pause": true
       },
       {
-       "t": " On n'est"
-      },
-      {
        "nl": true
       },
       {
-       "t": "jeune qu'une fois..."
+       "t": "On n'est jeune qu'une fois..."
       }
      ]
     }
@@ -1002,7 +1017,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Écoute-moi, [1113]. Ne gaspille pas ta jeunesse\nà des regrets.[1205][001E] On n'est\njeune qu'une fois...",
+   "brut_fr": "Écoute-moi, [1113]. Ne gaspille\npas ta jeunesse à des regrets.[1205][001E]\nOn n'est jeune qu'une fois...",
    "brut_en": "Listen[SP]to[SP]me,[SP][1113].[SP]Don't[SP]waste[SP]your[SP]youth\non[SP]things[SP]you'll[SP]regret.[1205][001E][SP]You're[SP]only[SP]young\nonce,[SP]after[SP]all...",
    "data_size": 230,
    "budget": 222
@@ -1022,25 +1037,22 @@
        "pause": true
       },
       {
-       "t": " Mon père"
-      },
-      {
        "nl": true
       },
       {
-       "t": "m'en avait parlé."
+       "t": "Mon père m'en avait parlé."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais la voir"
+       "t": " Mais la"
       },
       {
        "nl": true
       },
       {
-       "t": "de mes propres yeux..."
+       "t": "voir de mes propres yeux..."
       }
      ]
     }
@@ -1081,7 +1093,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "A-Alors c'est ça la Velvet Room...[1205][U+000F] Mon père\nm'en avait parlé.[1205][U+000F] Mais la voir\nde mes propres yeux...",
+   "brut_fr": "A-Alors c'est ça la Velvet Room...[1205][U+000F]\nMon père m'en avait parlé.[1205][U+000F] Mais la\nvoir de mes propres yeux...",
    "brut_en": "S-So[SP]this[SP]is[SP]the[SP]Velvet[SP]Room...[1205][U+000F][SP]My[SP]father\ntold[SP]me[SP]about[SP]it[SP]once.[1205][U+000F][SP]But[SP]to[SP]see[SP]it[SP]with\nmy[SP]own[SP]eyes...",
    "data_size": 222,
    "budget": 214
@@ -1150,7 +1162,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Puis-je vous être utile ?"
+       "t": "Puis-je vous être utile?"
       }
      ]
     }
@@ -1168,16 +1180,16 @@
    "choix_fr": {
     "options": [
      "Invoquer Persona",
-     "Porter Persona",
+     "Porter Persona[1205]",
      "Rendre Persona",
      "Muter Persona",
-     "Parler à Igor",
+     "Parler à Igor[1205]",
      "Annuler",
      "Quitter"
     ],
     "question": [
      {
-      "t": "Puis-je vous être utile ?"
+      "t": "Puis-je vous être utile?"
      }
     ]
    },
@@ -1197,7 +1209,7 @@
      }
     ]
    },
-   "brut_fr": "Puis-je vous être utile ?\n[1208][U+0007]Invoquer Persona\nPorter Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
+   "brut_fr": "Puis-je vous être utile?\n[1208][U+0007]Invoquer Persona\nPorter Persona[1205][U+000F]\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor[1205][U+000F]\nAnnuler\nQuitter",
    "brut_en": "Is[SP]there[SP]anything[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
    "data_size": 280,
    "budget": 272
@@ -1211,7 +1223,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "De quoi voulez-vous parler ?"
+       "t": "De quoi voulez-vous parler?"
       }
      ]
     }
@@ -1233,7 +1245,7 @@
     ],
     "question": [
      {
-      "t": "De quoi voulez-vous parler ?"
+      "t": "De quoi voulez-vous parler?"
      }
     ]
    },
@@ -1248,7 +1260,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous parler ?\n[1208][0002]Parler\nTutoriels",
+   "brut_fr": "De quoi voulez-vous parler?\n[1208][0002]Parler\nTutoriels",
    "brut_en": "What[SP]shall[SP]we[SP]converse[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nTutorials",
    "data_size": 136,
    "budget": 128
@@ -1262,13 +1274,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Dieux et démons sont les manifestations"
+       "t": "Dieux et démons sont les"
       },
       {
        "nl": true
       },
       {
-       "t": "de l'âme humaine."
+       "t": "manifestations de l'âme humaine."
       }
      ]
     }
@@ -1291,7 +1303,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dieux et démons sont les manifestations\nde l'âme humaine.",
+   "brut_fr": "Dieux et démons sont les\nmanifestations de l'âme humaine.",
    "brut_en": "Gods[SP]and[SP]demons[SP]alike[SP]are[SP]only[SP]manifestations\nof[SP]man's[SP]soul.",
    "data_size": 140,
    "budget": 132
@@ -1323,10 +1335,10 @@
    "choix_fr": {
     "options": [
      "Personae",
-     "Obtention, invocation",
+     "Obtention, invocation[1205]",
      "Arcanes",
      "Croissance",
-     "Compatibilité",
+     "Compatibilité[1205]",
      "Page suivante",
      "Sélection cachée/retour"
     ],
@@ -1352,7 +1364,7 @@
      }
     ]
    },
-   "brut_fr": "Je vous écoute.\n[1208][U+0007]Personae\nObtention, invocation\nArcanes\nCroissance\nCompatibilité\nPage suivante\n[1210][U+0100]Sélection cachée/retour",
+   "brut_fr": "Je vous écoute.\n[1208][U+0007]Personae\nObtention, invocation[1205][U+000F]\nArcanes\nCroissance\nCompatibilité[1205][U+000F]\nPage suivante\n[1210][U+0100]Sélection cachée/retour",
    "brut_en": "Please,[SP]ask[SP]away.\n[1208][U+0007]Personas\nTaking[SP]on[SP]and[SP]invoking\nArcanas\nPersona[SP]growth\nPersona[SP]compatibility\nNext[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
    "data_size": 296,
    "budget": 288
@@ -1384,10 +1396,10 @@
    "choix_fr": {
     "options": [
      "Cartes Tarot",
-     "Cartes Matériaux",
+     "Cartes Matériaux[1205]",
      "Cartes Compétences",
      "Cartes Encens",
-     "Cartes Persona",
+     "Cartes Persona[1205]",
      "Page suiv.",
      "Page préc.",
      "Sélection cachée/retour"
@@ -1415,7 +1427,7 @@
      }
     ]
    },
-   "brut_fr": "Allez-y.\n[1208][U+0008]Cartes Tarot\nCartes Matériaux\nCartes Compétences\nCartes Encens\nCartes Persona\nPage suiv.\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
+   "brut_fr": "Allez-y.\n[1208][U+0008]Cartes Tarot\nCartes Matériaux[1205][U+000F]\nCartes Compétences\nCartes Encens\nCartes Persona[1205][U+000F]\nPage suiv.\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
    "brut_en": "Please,[SP]ask[SP]away.\n[1208][U+0008]Tarot[SP]Cards\nMaterial[SP]Cards\nSkill[SP]Cards\nIncense[SP]Cards\nPersona[SP]Cards\nNext[SP]Page\nPrevious[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
    "data_size": 304,
    "budget": 296
@@ -1447,10 +1459,10 @@
    "choix_fr": {
     "options": [
      "Bases d'invocation",
-     "Changement mystique",
+     "Changement mystique[1205]",
      "Mutation",
      "Contact",
-     "Personnalité des démons",
+     "Personnalité des démons[1205]",
      "Page préc.",
      "Sélection cachée/retour"
     ],
@@ -1476,7 +1488,7 @@
      }
     ]
    },
-   "brut_fr": "Je vous écoute.\n[1208][U+0007]Bases d'invocation\nChangement mystique\nMutation\nContact\nPersonnalité des démons\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
+   "brut_fr": "Je vous écoute.\n[1208][U+0007]Bases d'invocation\nChangement mystique[1205][U+000F]\nMutation\nContact\nPersonnalité des démons[1205][U+000F]\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
    "brut_en": "Please,[SP]ask[SP]away.\n[1208][U+0007]Summoning[SP]basics\nMystic[SP]change\nMutation\nContacting\nDemon[SP]personalities\nPrevious[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
    "data_size": 292,
    "budget": 284
@@ -1490,19 +1502,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le moi imprégné d'amour divin. Le moi"
+       "t": "Le moi imprégné d'amour divin. Le"
       },
       {
        "nl": true
       },
       {
-       "t": "capable de cruauté démoniaque. Chacun porte"
+       "t": "moi capable de cruauté démoniaque."
       },
       {
        "nl": true
       },
       {
-       "t": "différents masques."
+       "t": "Chacun porte"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " différents masques."
       }
      ]
     }
@@ -1531,7 +1549,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le moi imprégné d'amour divin. Le moi\ncapable de cruauté démoniaque. Chacun porte\ndifférents masques.",
+   "brut_fr": "Le moi imprégné d'amour divin. Le\nmoi capable de cruauté démoniaque.\nChacun porte[1205][U+000F] différents masques.",
    "brut_en": "The[SP]self[SP]suffused[SP]with[SP]divine[SP]love.[SP]The[SP]self\ncapable[SP]of[SP]demonic[SP]cruelty.[SP]People[SP]live[SP]by\nwearing[SP]different[SP]masks.",
    "data_size": 244,
    "budget": 236
@@ -1545,13 +1563,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Votre moi actuel n'est peut-être qu'un de ces"
+       "t": "Votre moi actuel n'est peut-être qu'un de"
       },
       {
        "nl": true
       },
       {
-       "t": "masques. Les Personae sont un autre"
+       "t": "ces masques. Les Personae sont un autre"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -1586,7 +1607,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Votre moi actuel n'est peut-être qu'un de ces\nmasques. Les Personae sont un autre\naspecte de vous, tapi dans votre cœur.",
+   "brut_fr": "Votre moi actuel n'est peut-être qu'un de\nces masques. Les Personae sont un autre[1205][U+000F]\naspecte de vous, tapi dans votre cœur.",
    "brut_en": "Your[SP]current[SP]self[SP]may[SP]be[SP]only[SP]one[SP]of[SP]those\ninnumerable[SP]masks.[SP]Personas[SP]are[SP]another[SP]aspect\nof[SP]you[SP]that[SP]lurks[SP]deep[SP]within[SP]your[SP]heart.",
    "data_size": 282,
    "budget": 274
@@ -1606,13 +1627,7 @@
        "nl": true
       },
       {
-       "t": "matérielle sont appelés"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Persona-users."
+       "t": "matérielle sont appelés Persona-users."
       }
      ]
     }
@@ -1641,7 +1656,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ceux qui invoquent les Personae sous forme\nmatérielle sont appelés\nPersona-users.",
+   "brut_fr": "Ceux qui invoquent les Personae sous forme\nmatérielle sont appelés Persona-users.",
    "brut_en": "Those[SP]who[SP]can[SP]summon[SP]Personas[SP]into[SP]material\nforms[SP]and[SP]harness[SP]their[SP]power[SP]are[SP]called\nPersona-users.",
    "data_size": 218,
    "budget": 210
@@ -1655,13 +1670,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour invoquer un Persona--c'est-à-dire utiliser"
+       "t": "Pour invoquer un Persona--c'est-à-dire"
       },
       {
        "nl": true
       },
       {
-       "t": "ses pouvoirs--il faut d'abord le porter."
+       "t": "utiliser ses pouvoirs--il faut d'abord le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "porter."
       }
      ]
     }
@@ -1690,7 +1711,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour invoquer un Persona--c'est-à-dire utiliser\nses pouvoirs--il faut d'abord le porter.",
+   "brut_fr": "Pour invoquer un Persona--c'est-à-dire\nutiliser ses pouvoirs--il faut d'abord le\nporter.",
    "brut_en": "In[SP]order[SP]to[SP]invoke[SP]a[SP]Persona--to[SP]use[SP]its\npowers,[SP]in[SP]other[SP]words--it[SP]must[SP]first[SP]be\ntaken[SP]on.",
    "data_size": 202,
    "budget": 194
@@ -1707,19 +1728,28 @@
        "enc": "Porter"
       },
       {
-       "t": " un Persona signifie, pour un utilisateur"
+       "t": " un Persona signifie, pour un"
       },
       {
        "nl": true
       },
       {
-       "t": "comme vous, l'accepter en soi."
+       "t": "utilisateur comme vous, l'accepter en soi."
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "Posséder sa carte seule ne vous servira à rien."
+       "t": "Posséder sa carte seule ne vous servira à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rien."
       }
      ]
     }
@@ -1754,7 +1784,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie, pour un utilisateur\ncomme vous, l'accepter en soi.\nPosséder sa carte seule ne vous servira à rien.",
+   "brut_fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie, pour un\nutilisateur comme vous, l'accepter en soi.[1205][U+000F]\nPosséder sa carte seule ne vous servira à\nrien.",
    "brut_en": "To[SP][1432][NULL][NULL][0014]take[SP]on[1432][NULL][NULL][0014][SP]a[SP]Persona[SP]means[SP]for[SP]a[SP]Persona-\nuser[SP]such[SP]as[SP]yourself[SP]to[SP]accept[SP]it[SP]into[SP]you.\nJust[SP]having[SP]its[SP]card[SP]will[SP]do[SP]you[SP]no[SP]good.",
    "data_size": 294,
    "budget": 286
@@ -1854,13 +1884,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les Personae sont un côté caché de vous..."
+       "t": "Les Personae sont un côté caché de"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous évoluez donc avec eux."
+       "t": "vous... Vous évoluez donc avec eux."
       }
      ]
     }
@@ -1883,7 +1913,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Personae sont un côté caché de vous...\nVous évoluez donc avec eux.",
+   "brut_fr": "Les Personae sont un côté caché de\nvous... Vous évoluez donc avec eux.",
    "brut_en": "Personas[SP]are[SP]a[SP]hidden[SP]side[SP]of[SP]you...[SP]Thus,[SP]you\nchange[SP]with[SP]respect[SP]to[SP]them.",
    "data_size": 170,
    "budget": 162
@@ -1897,13 +1927,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous ne portez qu'un seul Persona à la fois,"
+       "t": "Vous ne portez qu'un seul Persona à la"
       },
       {
        "nl": true
       },
       {
-       "t": "mais avec d'autres Cartes Persona,"
+       "t": "fois, mais avec d'autres Cartes Persona,"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -1938,7 +1971,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous ne portez qu'un seul Persona à la fois,\nmais avec d'autres Cartes Persona,\nvous pouvez en changer à tout moment.",
+   "brut_fr": "Vous ne portez qu'un seul Persona à la\nfois, mais avec d'autres Cartes Persona,[1205][U+000F]\nvous pouvez en changer à tout moment.",
    "brut_en": "You[SP]can[SP]only[SP]take[SP]on[SP]one[SP]Persona[SP]at[SP]a[SP]time,\nbut[SP]if[SP]you[SP]have[SP]other[SP]Persona[SP]Cards,[SP]you[SP]can\ntake[SP]them[SP]on[SP]at[SP]any[SP]time[SP]as[SP]well.",
    "data_size": 264,
    "budget": 256
@@ -1995,19 +2028,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les capacités d'un Persona varient selon"
+       "t": "Les capacités d'un Persona varient selon son"
       },
       {
        "nl": true
       },
       {
-       "t": "son type. Chacun a ses forces"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "et ses faiblesses."
+       "t": "type. Chacun a ses forces et ses faiblesses."
       }
      ]
     }
@@ -2036,7 +2063,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les capacités d'un Persona varient selon\nson type. Chacun a ses forces\net ses faiblesses.",
+   "brut_fr": "Les capacités d'un Persona varient selon son\ntype. Chacun a ses forces et ses faiblesses.",
    "brut_en": "A[SP]Persona's[SP]abilities[SP]differ[SP]depending[SP]on\nits[SP]type.[SP]Each[SP]has[SP]its[SP]own[SP]strengths[SP]and\nweaknesses.",
    "data_size": 208,
    "budget": 200
@@ -2142,13 +2169,19 @@
        "nl": true
       },
       {
-       "t": "comme le Magicien, l'Empereur, le Chariot..."
+       "t": "comme le Magicien, l'Empereur, le"
       },
       {
        "nl": true
       },
       {
-       "t": "Il en existe 26 types."
+       "t": "Chariot..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il en existe 26 types."
       }
      ]
     }
@@ -2177,7 +2210,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Leur type est l'Arcane du Tarot,\ncomme le Magicien, l'Empereur, le Chariot...\nIl en existe 26 types.",
+   "brut_fr": "Leur type est l'Arcane du Tarot,\ncomme le Magicien, l'Empereur, le\nChariot...[1205][U+000F] Il en existe 26 types.",
    "brut_en": "Their[SP]type[SP]is[SP]represented[SP]by[SP]the[SP]Arcana[SP]of\nthe[SP]Tarot,[SP]such[SP]as[SP]Magician,[SP]Emperor,[SP]Chariot,\nand[SP]the[SP]like.[SP]There[SP]are[SP]26[SP]types.",
    "data_size": 266,
    "budget": 258
@@ -2246,19 +2279,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien que les Personae soient vos côtés cachés,"
+       "t": "Bien que les Personae soient vos côtés"
       },
       {
        "nl": true
       },
       {
-       "t": "cela peut surprendre de pouvoir entrer"
+       "t": "cachés, cela peut surprendre de pouvoir"
       },
       {
        "nl": true
       },
       {
-       "t": "en contact avec cet inconscient."
+       "t": "entrer"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " en contact avec cet inconscient."
       }
      ]
     }
@@ -2287,7 +2326,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien que les Personae soient vos côtés cachés,\ncela peut surprendre de pouvoir entrer\nen contact avec cet inconscient.",
+   "brut_fr": "Bien que les Personae soient vos côtés\ncachés, cela peut surprendre de pouvoir\nentrer[1205][U+000F] en contact avec cet inconscient.",
    "brut_en": "Though[SP]Personas[SP]are[SP]your[SP]hidden[SP]sides,[SP]it[SP]must\ncome[SP]as[SP]a[SP]surprise[SP]that[SP]you[SP]can[SP]get[SP]in[SP]touch\nwith[SP]this[SP]unconscious[SP]aspect[SP]of[SP]yourself.",
    "data_size": 286,
    "budget": 278
@@ -2418,19 +2457,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais plus vous invoquez un Persona, mieux"
+       "t": "Mais plus vous invoquez un Persona,"
       },
       {
        "nl": true
       },
       {
-       "t": "vous vous y habituez. Il gagnera"
+       "t": "mieux vous vous y habituez. Il"
       },
       {
        "nl": true
       },
       {
-       "t": "en capacités et en puissance."
+       "t": "gagnera en capacités et en puissance."
       }
      ]
     }
@@ -2459,7 +2498,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais plus vous invoquez un Persona, mieux\nvous vous y habituez. Il gagnera\nen capacités et en puissance.",
+   "brut_fr": "Mais plus vous invoquez un Persona,\nmieux vous vous y habituez. Il\ngagnera en capacités et en puissance.",
    "brut_en": "But[SP]the[SP]more[SP]you[SP]invoke[SP]a[SP]Persona,[SP]the[SP]more\nadept[SP]you[SP]become[SP]at[SP]it.[SP]It[SP]will[SP]gain[SP]more\nabilities,[SP]more[SP]powerful[SP]attacks.",
    "data_size": 258,
    "budget": 250
@@ -2473,13 +2512,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien sûr, c'est le fruit de l'utilisation pleine"
+       "t": "Bien sûr, c'est le fruit de l'utilisation"
       },
       {
        "nl": true
       },
       {
-       "t": "d'un Persona. Les PS nécessaires"
+       "t": "pleine d'un Persona. Les PS nécessaires"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -2514,7 +2556,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien sûr, c'est le fruit de l'utilisation pleine\nd'un Persona. Les PS nécessaires\npour l'invoquer ne changeront pas.",
+   "brut_fr": "Bien sûr, c'est le fruit de l'utilisation\npleine d'un Persona. Les PS nécessaires[1205][U+000F]\npour l'invoquer ne changeront pas.",
    "brut_en": "Of[SP]course,[SP]that[SP]is[SP]just[SP]the[SP]fruit[SP]of[SP]being\nable[SP]to[SP]fully[SP]utilize[SP]a[SP]Persona.[SP]The[SP]SP\nneeded[SP]to[SP]invoke[SP]it[SP]will[SP]not[SP]change.",
    "data_size": 258,
    "budget": 250
@@ -2528,19 +2570,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les nuances diffèrent de votre propre croissance,"
+       "t": "Les nuances diffèrent de votre propre"
       },
       {
        "nl": true
       },
       {
-       "t": "mais il vaut mieux voir cela"
+       "t": "croissance, mais il vaut mieux voir"
       },
       {
        "nl": true
       },
       {
-       "t": "comme la croissance d'un Persona."
+       "t": "cela"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " comme la croissance d'un Persona."
       }
      ]
     }
@@ -2569,7 +2617,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les nuances diffèrent de votre propre croissance,\nmais il vaut mieux voir cela\ncomme la croissance d'un Persona.",
+   "brut_fr": "Les nuances diffèrent de votre propre\ncroissance, mais il vaut mieux voir\ncela[1205][U+000F] comme la croissance d'un Persona.",
    "brut_en": "The[SP]nuances[SP]are[SP]somewhat[SP]different[SP]from[SP]your\nown[SP]growth,[SP]but[SP]it[SP]may[SP]be[SP]best[SP]to[SP]think[SP]of\nthis[SP]as[SP]a[SP]Persona's[SP]growth.",
    "data_size": 250,
    "budget": 242
@@ -2583,13 +2631,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "La croissance d'un Persona se fait en huit étapes."
+       "t": "La croissance d'un Persona se fait en"
       },
       {
        "nl": true
       },
       {
-       "t": "À chaque étape, il change."
+       "t": "huit étapes. À chaque étape, il change."
       }
      ]
     }
@@ -2612,7 +2660,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La croissance d'un Persona se fait en huit étapes.\nÀ chaque étape, il change.",
+   "brut_fr": "La croissance d'un Persona se fait en\nhuit étapes. À chaque étape, il change.",
    "brut_en": "A[SP]Persona's[SP]growth[SP]occurs[SP]in[SP]eight[SP]stages.[SP]At\neach[SP]stage,[SP]a[SP]change[SP]will[SP]occur[SP]in[SP]the[SP]Persona.",
    "data_size": 206,
    "budget": 198
@@ -2712,13 +2760,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un Persona est votre autre vous..."
+       "t": "Un Persona est votre autre"
       },
       {
        "nl": true
       },
       {
-       "t": "Tous vous sont liés..."
+       "t": "vous... Tous vous sont liés..."
       }
      ]
     }
@@ -2741,7 +2789,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un Persona est votre autre vous...\nTous vous sont liés...",
+   "brut_fr": "Un Persona est votre autre\nvous... Tous vous sont liés...",
    "brut_en": "A[SP]Persona[SP]is[SP]your[SP]other[SP]self...[SP]All[SP]Personas\nare[SP]connected[SP]to[SP]you...",
    "data_size": 156,
    "budget": 148
@@ -2798,13 +2846,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous pourriez ne plus contrôler un Persona"
+       "t": "Vous pourriez ne plus contrôler un"
       },
       {
        "nl": true
       },
       {
-       "t": "si votre lien est faible,"
+       "t": "Persona si votre lien est faible,"
       },
       {
        "nl": true
@@ -2839,7 +2887,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous pourriez ne plus contrôler un Persona\nsi votre lien est faible,\nvoire ne plus le porter du tout.",
+   "brut_fr": "Vous pourriez ne plus contrôler un\nPersona si votre lien est faible,\nvoire ne plus le porter du tout.",
    "brut_en": "You[SP]may[SP]not[SP]be[SP]able[SP]to[SP]control[SP]a[SP]Persona[SP]if\nyour[SP]connection[SP]to[SP]it[SP]is[SP]weak.[SP]Indeed,[SP]you\nmay[SP]not[SP]be[SP]able[SP]to[SP]take[SP]it[SP]on[SP]at[SP]all.",
    "data_size": 268,
    "budget": 260
@@ -2859,13 +2907,19 @@
        "nl": true
       },
       {
-       "t": "plus ils sont faciles à utiliser. Cela se voit"
+       "t": "plus ils sont faciles à utiliser. Cela"
       },
       {
        "nl": true
       },
       {
-       "t": "dans le coût pour les invoquer."
+       "t": "se voit"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " dans le coût pour les invoquer."
       }
      ]
     }
@@ -2894,7 +2948,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "À l'inverse, plus ils vous sont proches,\nplus ils sont faciles à utiliser. Cela se voit\ndans le coût pour les invoquer.",
+   "brut_fr": "À l'inverse, plus ils vous sont proches,\nplus ils sont faciles à utiliser. Cela\nse voit[1205][U+000F] dans le coût pour les invoquer.",
    "brut_en": "The[SP]reverse[SP]of[SP]this[SP]is[SP]that[SP]the[SP]closer[SP]they\nare[SP]to[SP]you,[SP]the[SP]easier[SP]it[SP]is[SP]to[SP]use[SP]them.[SP]This\ncan[SP]be[SP]seen[SP]in[SP]the[SP]cost[SP]of[SP]invoking[SP]them.",
    "data_size": 284,
    "budget": 276
@@ -3037,13 +3091,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les Personae sont classés selon l'Arcane du Tarot,"
+       "t": "Les Personae sont classés selon l'Arcane du"
       },
       {
        "nl": true
       },
       {
-       "t": "comme le Magicien et l'Empereur..."
+       "t": "Tarot, comme le Magicien et l'Empereur..."
       }
      ]
     }
@@ -3072,7 +3126,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Personae sont classés selon l'Arcane du Tarot,\ncomme le Magicien et l'Empereur...",
+   "brut_fr": "Les Personae sont classés selon l'Arcane du\nTarot, comme le Magicien et l'Empereur...",
    "brut_en": "Personas[SP]are[SP]classified[SP]according[SP]to[SP]the\nArcana[SP]of[SP]the[SP]Tarot,[SP]such[SP]as[SP]Magician[SP]and\nEmperor...",
    "data_size": 206,
    "budget": 198
@@ -3086,13 +3140,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour un Persona Soleil,"
+       "t": "Pour un Persona Soleil, vous aurez"
       },
       {
        "nl": true
       },
       {
-       "t": "vous aurez besoin des cartes de cet Arcane."
+       "t": "besoin des cartes de cet Arcane."
       }
      ]
     }
@@ -3115,7 +3169,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour un Persona Soleil,\nvous aurez besoin des cartes de cet Arcane.",
+   "brut_fr": "Pour un Persona Soleil, vous aurez\nbesoin des cartes de cet Arcane.",
    "brut_en": "If[SP]you[SP]wish[SP]to[SP]summon[SP]a[SP]Sun[SP]Persona,[SP]you[SP]will\nneed[SP]cards[SP]of[SP]that[SP]Arcana.",
    "data_size": 164,
    "budget": 156
@@ -3129,13 +3183,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le nombre de Cartes Tarot requises varie"
+       "t": "Le nombre de Cartes Tarot requises"
       },
       {
        "nl": true
       },
       {
-       "t": "selon le niveau du Persona."
+       "t": "varie selon le niveau du Persona."
       }
      ]
     }
@@ -3158,7 +3212,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le nombre de Cartes Tarot requises varie\nselon le niveau du Persona.",
+   "brut_fr": "Le nombre de Cartes Tarot requises\nvarie selon le niveau du Persona.",
    "brut_en": "The[SP]number[SP]of[SP]Tarot[SP]Cards[SP]required[SP]varies\ndepending[SP]on[SP]the[SP]Persona's[SP]level.",
    "data_size": 170,
    "budget": 162
@@ -3172,13 +3226,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Plus le niveau du Persona est élevé,"
+       "t": "Plus le niveau du Persona est élevé, plus"
       },
       {
        "nl": true
       },
       {
-       "t": "plus il faut de Cartes Tarot pour l'invoquer."
+       "t": "il faut de Cartes Tarot pour l'invoquer."
       }
      ]
     }
@@ -3201,7 +3255,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Plus le niveau du Persona est élevé,\nplus il faut de Cartes Tarot pour l'invoquer.",
+   "brut_fr": "Plus le niveau du Persona est élevé, plus\nil faut de Cartes Tarot pour l'invoquer.",
    "brut_en": "Indeed,[SP]the[SP]higher[SP]the[SP]Persona's[SP]level,[SP]the\nmore[SP]Tarot[SP]Cards[SP]are[SP]necessary[SP]to[SP]summon[SP]it.",
    "data_size": 196,
    "budget": 188
@@ -3215,19 +3269,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les démons possèdent les Cartes Tarot."
+       "t": "Les démons possèdent les Cartes"
       },
       {
        "nl": true
       },
       {
-       "t": "Leurs cartes ont le même Arcane"
+       "t": "Tarot. Leurs cartes ont le même"
       },
       {
        "nl": true
       },
       {
-       "t": "que le démon lui-même."
+       "t": "Arcane que le démon lui-même."
       }
      ]
     }
@@ -3256,7 +3310,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les démons possèdent les Cartes Tarot.\nLeurs cartes ont le même Arcane\nque le démon lui-même.",
+   "brut_fr": "Les démons possèdent les Cartes\nTarot. Leurs cartes ont le même\nArcane que le démon lui-même.",
    "brut_en": "Demons[SP]possess[SP]the[SP]Tarot[SP]Cards[SP]you[SP]need...\nThe[SP]cards[SP]they[SP]carry[SP]will[SP]be[SP]the[SP]same[SP]Arcana\nas[SP]the[SP]demon[SP]itself.",
    "data_size": 236,
    "budget": 228
@@ -3270,13 +3324,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Collectez des Cartes Tarot auprès de démons"
+       "t": "Collectez des Cartes Tarot auprès de"
       },
       {
        "nl": true
       },
       {
-       "t": "du même Arcane que le Persona"
+       "t": "démons du même Arcane que le Persona"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -3311,7 +3368,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Collectez des Cartes Tarot auprès de démons\ndu même Arcane que le Persona\nque vous souhaitez invoquer.",
+   "brut_fr": "Collectez des Cartes Tarot auprès de\ndémons du même Arcane que le Persona[1205][U+000F]\nque vous souhaitez invoquer.",
    "brut_en": "Your[SP]task,[SP]then,[SP]is[SP]to[SP]collect[SP]Tarot[SP]Cards\nfrom[SP]demons[SP]of[SP]the[SP]same[SP]Arcana[SP]as[SP]the[SP]Persona\nyou[SP]wish[SP]to[SP]summon.",
    "data_size": 236,
    "budget": 228
@@ -3325,19 +3382,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Contacter les mêmes démons sans cesse ne sert"
+       "t": "Contacter les mêmes démons sans cesse ne"
       },
       {
        "nl": true
       },
       {
-       "t": "pas à grand-chose. Les démons de haut"
+       "t": "sert pas à grand-chose. Les démons de"
       },
       {
        "nl": true
       },
       {
-       "t": "niveau ont plus de Cartes Tarot."
+       "t": "haut"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " niveau ont plus de Cartes Tarot."
       }
      ]
     }
@@ -3366,7 +3429,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Contacter les mêmes démons sans cesse ne sert\npas à grand-chose. Les démons de haut\nniveau ont plus de Cartes Tarot.",
+   "brut_fr": "Contacter les mêmes démons sans cesse ne\nsert pas à grand-chose. Les démons de\nhaut[1205][U+000F] niveau ont plus de Cartes Tarot.",
    "brut_en": "But[SP]contacting[SP]the[SP]same[SP]demons[SP]over[SP]and[SP]over\nwill[SP]do[SP]you[SP]little[SP]good.[SP]Higher-level[SP]demons\nwill[SP]possess[SP]more[SP]Tarot[SP]Cards.",
    "data_size": 260,
    "budget": 252
@@ -3423,13 +3486,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Certaines Cartes n'appartiennent"
+       "t": "Certaines Cartes"
       },
       {
        "nl": true
       },
       {
-       "t": "à aucun démon."
+       "t": "n'appartiennent à aucun démon."
       }
      ]
     }
@@ -3452,7 +3515,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Certaines Cartes n'appartiennent\nà aucun démon.",
+   "brut_fr": "Certaines Cartes\nn'appartiennent à aucun démon.",
    "brut_en": "Some[SP]Tarot[SP]Cards,[SP]however,[SP]are[SP]held[SP]by\nno[SP]demons.",
    "data_size": 118,
    "budget": 110
@@ -3466,13 +3529,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quand vous trouvez des Cartes Libres,"
+       "t": "Quand vous trouvez des Cartes"
       },
       {
        "nl": true
       },
       {
-       "t": "consultez le Peintre Démon."
+       "t": "Libres, consultez le Peintre Démon."
       }
      ]
     }
@@ -3495,7 +3558,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand vous trouvez des Cartes Libres,\nconsultez le Peintre Démon.",
+   "brut_fr": "Quand vous trouvez des Cartes\nLibres, consultez le Peintre Démon.",
    "brut_en": "When[SP]you[SP]find[SP]Free[SP]Tarot[SP]Cards,[SP]consult[SP]the\nDemon[SP]Painter[SP]over[SP]there.",
    "data_size": 158,
    "budget": 150
@@ -3509,13 +3572,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Dernier avertissement : même avec assez de cartes,"
+       "t": "Dernier avertissement: même avec assez de"
       },
       {
        "nl": true
       },
       {
-       "t": "vous ne pouvez invoquer des Personae"
+       "t": "cartes, vous ne pouvez invoquer des Personae"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -3550,7 +3616,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dernier avertissement : même avec assez de cartes,\nvous ne pouvez invoquer des Personae\nde cinq niveaux supérieurs au vôtre.",
+   "brut_fr": "Dernier avertissement: même avec assez de\ncartes, vous ne pouvez invoquer des Personae[1205][U+000F]\nde cinq niveaux supérieurs au vôtre.",
    "brut_en": "Ah,[SP]yes,[SP]one[SP]final[SP]caveat:[SP]Even[SP]with[SP]the\nrequisite[SP]number[SP]of[SP]cards,[SP]you[SP]cannot[SP]summon\nPersonas[SP]that[SP]are[SP]five[SP]levels[SP]higher[SP]than[SP]you.",
    "data_size": 284,
    "budget": 276
@@ -3595,13 +3661,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lors d'une invocation, vous pouvez ajouter"
+       "t": "Lors d'une invocation, vous pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "une Carte Matériau."
+       "t": "ajouter une Carte Matériau."
       }
      ]
     }
@@ -3624,7 +3690,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lors d'une invocation, vous pouvez ajouter\nune Carte Matériau.",
+   "brut_fr": "Lors d'une invocation, vous pouvez\najouter une Carte Matériau.",
    "brut_en": "When[SP]I[SP]summon[SP]a[SP]Persona,[SP]you[SP]may[SP]choose[SP]to\nadd[SP]a[SP]Material[SP]Card.",
    "data_size": 146,
    "budget": 138
@@ -3638,19 +3704,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une seule Carte Matériau par invocation."
+       "t": "Une seule Carte Matériau par"
       },
       {
        "nl": true
       },
       {
-       "t": "En les ajoutant, je peux invoquer"
+       "t": "invocation. En les ajoutant, je peux"
       },
       {
        "nl": true
       },
       {
-       "t": "des Personae spéciaux."
+       "t": "invoquer des Personae spéciaux."
       }
      ]
     }
@@ -3679,7 +3745,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une seule Carte Matériau par invocation.\nEn les ajoutant, je peux invoquer\ndes Personae spéciaux.",
+   "brut_fr": "Une seule Carte Matériau par\ninvocation. En les ajoutant, je peux\ninvoquer des Personae spéciaux.",
    "brut_en": "Only[SP]one[SP]Material[SP]Card[SP]can[SP]be[SP]used[SP]per\nsummoning.[SP]By[SP]adding[SP]these[SP]cards,[SP]I[SP]can\nsummon[SP]special[SP]Personas.",
    "data_size": 226,
    "budget": 218
@@ -3699,7 +3765,13 @@
        "nl": true
       },
       {
-       "t": "apparaîtront en bleu dans la liste d'invocation."
+       "t": "apparaîtront en bleu dans la liste"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'invocation."
       }
      ]
     }
@@ -3728,7 +3800,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Personae liés à vos Cartes Matériaux\napparaîtront en bleu dans la liste d'invocation.",
+   "brut_fr": "Les Personae liés à vos Cartes Matériaux\napparaîtront en bleu dans la liste\nd'invocation.",
    "brut_en": "The[SP]Personas[SP]that[SP]correspond[SP]to[SP]your[SP]Material\nCards[SP]will[SP]be[SP]shown[SP]in[SP]blue[SP]on[SP]the[SP]summoning\nlist.",
    "data_size": 212,
    "budget": 204
@@ -3785,13 +3857,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je peux ajouter une Carte Compétence"
+       "t": "Je peux ajouter une Carte"
       },
       {
        "nl": true
       },
       {
-       "t": "lors de l'invocation."
+       "t": "Compétence lors de l'invocation."
       }
      ]
     }
@@ -3814,7 +3886,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je peux ajouter une Carte Compétence\nlors de l'invocation.",
+   "brut_fr": "Je peux ajouter une Carte\nCompétence lors de l'invocation.",
    "brut_en": "I[SP]can[SP]add[SP]a[SP]Skill[SP]Card[SP]at[SP]the[SP]moment[SP]of\nsummoning,[SP]if[SP]you[SP]choose.",
    "data_size": 150,
    "budget": 142
@@ -3828,19 +3900,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une seule Carte Compétence par invocation."
+       "t": "Une seule Carte Compétence par"
       },
       {
        "nl": true
       },
       {
-       "t": "Le nouveau Persona apprendra"
+       "t": "invocation. Le nouveau Persona"
       },
       {
        "nl": true
       },
       {
-       "t": "la compétence scellée."
+       "t": "apprendra la compétence scellée."
       }
      ]
     }
@@ -3869,7 +3941,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une seule Carte Compétence par invocation.\nLe nouveau Persona apprendra\nla compétence scellée.",
+   "brut_fr": "Une seule Carte Compétence par\ninvocation. Le nouveau Persona\napprendra la compétence scellée.",
    "brut_en": "Only[SP]one[SP]Skill[SP]Card[SP]can[SP]be[SP]used[SP]per[SP]summoning.\nThe[SP]newly[SP]summoned[SP]Persona[SP]will[SP]learn[SP]the\nskill[SP]sealed[SP]within[SP]the[SP]card.",
    "data_size": 256,
    "budget": 248
@@ -3883,19 +3955,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Par exemple, ajoutez une Carte Agi lors"
+       "t": "Par exemple, ajoutez une Carte Agi lors d'une"
       },
       {
        "nl": true
       },
       {
-       "t": "d'une invocation, et ce Persona"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "apprendra Agi."
+       "t": "invocation, et ce Persona apprendra Agi."
       }
      ]
     }
@@ -3918,7 +3984,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Par exemple, ajoutez une Carte Agi lors\nd'une invocation, et ce Persona\napprendra Agi.",
+   "brut_fr": "Par exemple, ajoutez une Carte Agi lors d'une\ninvocation, et ce Persona apprendra Agi.",
    "brut_en": "For[SP]instance...[SP]Add[SP]an[SP]Agi[SP]Card[SP]when[SP]summoning\na[SP]new[SP]Persona,[SP]and[SP]that[SP]Persona[SP]will[SP]learn[SP]Agi.",
    "data_size": 208,
    "budget": 200
@@ -3975,19 +4041,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a des degrés de compatibilité"
+       "t": "Il y a des degrés de compatibilité entre"
       },
       {
        "nl": true
       },
       {
-       "t": "entre Cartes Compétences et Personae."
+       "t": "Cartes Compétences et Personae. Si elle"
       },
       {
        "nl": true
       },
       {
-       "t": "Si elle est faible, je ne peux pas ajouter."
+       "t": "est faible, je ne peux pas "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ajouter."
       }
      ]
     }
@@ -4016,7 +4088,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a des degrés de compatibilité\nentre Cartes Compétences et Personae.\nSi elle est faible, je ne peux pas ajouter.",
+   "brut_fr": "Il y a des degrés de compatibilité entre\nCartes Compétences et Personae. Si elle\nest faible, je ne peux pas [1205][U+000F] ajouter.",
    "brut_en": "Mind[SP]you,[SP]there[SP]are[SP]degrees[SP]of[SP]compatibility\nbetween[SP]Skill[SP]Cards[SP]and[SP]Personas.[SP]If[SP]it's[SP]low,\nI[SP]cannot[SP]add[SP]the[SP]Skill[SP]Card.",
    "data_size": 260,
    "budget": 252
@@ -4030,19 +4102,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les démons possèdent bon nombre de Cartes"
+       "t": "Les démons possèdent bon nombre de"
       },
       {
        "nl": true
       },
       {
-       "t": "Compétences. Le mieux est de négocier"
+       "t": "Cartes Compétences. Le mieux est de"
       },
       {
        "nl": true
       },
       {
-       "t": "avec eux pour les obtenir..."
+       "t": "négocier avec eux pour les obtenir..."
       }
      ]
     }
@@ -4071,7 +4143,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les démons possèdent bon nombre de Cartes\nCompétences. Le mieux est de négocier\navec eux pour les obtenir...",
+   "brut_fr": "Les démons possèdent bon nombre de\nCartes Compétences. Le mieux est de\nnégocier avec eux pour les obtenir...",
    "brut_en": "Demons[SP]possess[SP]many[SP]of[SP]these[SP]Skill[SP]Cards.\nThe[SP]best[SP]way[SP]to[SP]obtain[SP]them[SP]would[SP]be[SP]through\nnegotiation[SP]with[SP]these[SP]demons...",
    "data_size": 258,
    "budget": 250
@@ -4085,13 +4157,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il existe aussi des Cartes Compétences rares"
+       "t": "Il existe aussi des Cartes Compétences"
       },
       {
        "nl": true
       },
       {
-       "t": "obtenaibles de plusieurs façons."
+       "t": "rares obtenaibles de plusieurs façons."
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -4126,7 +4201,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il existe aussi des Cartes Compétences rares\nobtenaibles de plusieurs façons.\nExpérimentez par vous-même.",
+   "brut_fr": "Il existe aussi des Cartes Compétences\nrares obtenaibles de plusieurs façons.[1205][U+000F]\nExpérimentez par vous-même.",
    "brut_en": "There[SP]are[SP]rare[SP]Skill[SP]Cards[SP]as[SP]well,[SP]which[SP]can\nbe[SP]obtained[SP]in[SP]several[SP]ways.[SP]I[SP]suggest[SP]you\nexperiment[SP]for[SP]yourself.",
    "data_size": 246,
    "budget": 238
@@ -4183,13 +4258,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une seule Carte Encens peut être utilisée"
+       "t": "Une seule Carte Encens peut être"
       },
       {
        "nl": true
       },
       {
-       "t": "par invocation. Elle augmentera"
+       "t": "utilisée par invocation. Elle augmentera"
       },
       {
        "nl": true
@@ -4224,7 +4299,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une seule Carte Encens peut être utilisée\npar invocation. Elle augmentera\nles statistiques de ce Persona.",
+   "brut_fr": "Une seule Carte Encens peut être\nutilisée par invocation. Elle augmentera\nles statistiques de ce Persona.",
    "brut_en": "Only[SP]one[SP]Incense[SP]Card[SP]can[SP]be[SP]used[SP]in[SP]any\ngiven[SP]summoning.[SP]It[SP]will[SP]increase[SP]the\nstatistics[SP]of[SP]that[SP]Persona.",
    "data_size": 232,
    "budget": 224
@@ -4238,19 +4313,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elles ne peuvent être utilisées qu'à"
+       "t": "Elles ne peuvent être utilisées"
       },
       {
        "nl": true
       },
       {
-       "t": "l'invocation, réfléchissez donc bien"
+       "t": "qu'à l'invocation, réfléchissez"
       },
       {
        "nl": true
       },
       {
-       "t": "avant d'en ajouter une..."
+       "t": "donc bien avant d'en ajouter une..."
       }
      ]
     }
@@ -4279,7 +4354,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elles ne peuvent être utilisées qu'à\nl'invocation, réfléchissez donc bien\navant d'en ajouter une...",
+   "brut_fr": "Elles ne peuvent être utilisées\nqu'à l'invocation, réfléchissez\ndonc bien avant d'en ajouter une...",
    "brut_en": "These[SP]can[SP]only[SP]be[SP]used[SP]at[SP]the[SP]time[SP]of\nsummoning,[SP]so[SP]I[SP]recommend[SP]thinking[SP]it\nthrough[SP]before[SP]adding[SP]one...",
    "data_size": 228,
    "budget": 220
@@ -4336,13 +4411,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous pouvez avoir plusieurs Cartes Persona,"
+       "t": "Vous pouvez avoir plusieurs Cartes"
       },
       {
        "nl": true
       },
       {
-       "t": "mais il y a une limite."
+       "t": "Persona, mais il y a une limite."
       }
      ]
     }
@@ -4365,7 +4440,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous pouvez avoir plusieurs Cartes Persona,\nmais il y a une limite.",
+   "brut_fr": "Vous pouvez avoir plusieurs Cartes\nPersona, mais il y a une limite.",
    "brut_en": "You[SP]can[SP]possess[SP]several[SP]Persona[SP]Cards[SP]at\nonce,[SP]but[SP]there[SP]is[SP]a[SP]limit.",
    "data_size": 156,
    "budget": 148
@@ -4428,13 +4503,19 @@
        "nl": true
       },
       {
-       "t": "votre voyage. Je recommande d'alterner les Personae"
+       "t": "votre voyage. Je recommande d'alterner"
       },
       {
        "nl": true
       },
       {
-       "t": "selon la situation."
+       "t": "les Personae"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " selon la situation."
       }
      ]
     }
@@ -4463,7 +4544,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le pouvoir des Personae est crucial pour\nvotre voyage. Je recommande d'alterner les Personae\nselon la situation.",
+   "brut_fr": "Le pouvoir des Personae est crucial pour\nvotre voyage. Je recommande d'alterner\nles Personae[1205][U+000F] selon la situation.",
    "brut_en": "The[SP]power[SP]of[SP]Persona[SP]is[SP]crucial[SP]to[SP]your\njourney.[SP]I[SP]recommend[SP]switching[SP]Personas\ndepending[SP]on[SP]the[SP]situation[SP]at[SP]hand.",
    "data_size": 250,
    "budget": 242
@@ -4477,13 +4558,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je prendrai soin des Personae"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "invoqués ici."
+       "t": "Je prendrai soin des Personae invoqués ici."
       }
      ]
     }
@@ -4506,7 +4581,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je prendrai soin des Personae\ninvoqués ici.",
+   "brut_fr": "Je prendrai soin des Personae invoqués ici.",
    "brut_en": "I[SP]will[SP]take[SP]good[SP]care[SP]of[SP]newly[SP]summoned\nPersonas[SP]here.",
    "data_size": 128,
    "budget": 120
@@ -4520,13 +4595,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai mes limites, mais je peux garder les Personae"
+       "t": "J'ai mes limites, mais je peux garder"
       },
       {
        "nl": true
       },
       {
-       "t": "que vous possédez ainsi que les nouvellement invoqués."
+       "t": "les Personae que vous possédez ainsi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que les "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " nouvellement invoqués."
       }
      ]
     }
@@ -4555,7 +4642,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai mes limites, mais je peux garder les Personae\nque vous possédez ainsi que les nouvellement invoqués.",
+   "brut_fr": "J'ai mes limites, mais je peux garder\nles Personae que vous possédez ainsi\nque les [1205][U+000F] nouvellement invoqués.",
    "brut_en": "I,[SP]too,[SP]have[SP]my[SP]limit,[SP]but[SP]I[SP]can[SP]hold[SP]onto\nPersonas[SP]in[SP]your[SP]possession[SP]along[SP]with[SP]newly\nsummoned[SP]Personas.",
    "data_size": 232,
    "budget": 224
@@ -4569,19 +4656,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais si je conserve déjà le maximum"
+       "t": "Mais si je conserve déjà le maximum pour"
       },
       {
        "nl": true
       },
       {
-       "t": "pour vous, je ne pourrai pas invoquer"
+       "t": "vous, je ne pourrai pas invoquer de"
       },
       {
        "nl": true
       },
       {
-       "t": "de nouveaux Personae. Gardez cela en tête..."
+       "t": "nouveaux Personae. Gardez cela en "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tête..."
       }
      ]
     }
@@ -4610,7 +4703,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais si je conserve déjà le maximum\npour vous, je ne pourrai pas invoquer\nde nouveaux Personae. Gardez cela en tête...",
+   "brut_fr": "Mais si je conserve déjà le maximum pour\nvous, je ne pourrai pas invoquer de\nnouveaux Personae. Gardez cela en [1205][U+000F] tête...",
    "brut_en": "But[SP]if[SP]I[SP]am[SP]storing[SP]the[SP]maximum[SP]number[SP]of\ncards[SP]for[SP]you,[SP]I[SP]will[SP]not[SP]be[SP]able[SP]to[SP]summon\nany[SP]new[SP]Personas.[SP]Remember[SP]that...",
    "data_size": 260,
    "budget": 252
@@ -4624,19 +4717,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mon devoir est d'invoquer de nouvelles Personae."
+       "t": "Mon devoir est d'invoquer de nouvelles"
       },
       {
        "nl": true
       },
       {
-       "t": "J'utilise vos Cartes de Tarot pour invoquer"
+       "t": "Personae. J'utilise vos Cartes de Tarot pour"
       },
       {
        "nl": true
       },
       {
-       "t": "celles qui sommeillent en vous."
+       "pause": true
+      },
+      {
+       "t": "invoquer celles qui sommeillent en vous."
       }
      ]
     }
@@ -4665,7 +4761,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mon devoir est d'invoquer de nouvelles Personae.\nJ'utilise vos Cartes de Tarot pour invoquer\ncelles qui sommeillent en vous.",
+   "brut_fr": "Mon devoir est d'invoquer de nouvelles\nPersonae. J'utilise vos Cartes de Tarot pour\n[1205][U+000F]invoquer celles qui sommeillent en vous.",
    "brut_en": "My[SP]duty[SP]is[SP]to[SP]summon[SP]new[SP]Personas.[SP]I[SP]use[SP]the\nTarot[SP]Cards[SP]you[SP]carry[SP]as[SP]a[SP]medium[SP]to[SP]summon\nthe[SP]Personas[SP]slumbering[SP]deep[SP]within[SP]your[SP]soul.",
    "data_size": 290,
    "budget": 282
@@ -4774,10 +4870,16 @@
        "t": "Ils sommeillent dans l'inconscient..."
       },
       {
+       "pause": true
+      },
+      {
+       "t": " Il"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Il faudra un moyen de les éveiller."
+       "t": "faudra un moyen de les éveiller."
       }
      ]
     }
@@ -4806,7 +4908,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Certains nécessitent des conditions spéciales.\nIls sommeillent dans l'inconscient...\nIl faudra un moyen de les éveiller.",
+   "brut_fr": "Certains nécessitent des conditions spéciales.\nIls sommeillent dans l'inconscient...[1205][U+000F] Il\nfaudra un moyen de les éveiller.",
    "brut_en": "Some[SP]require[SP]special[SP]conditions[SP]to[SP]be[SP]summoned.\nThey[SP]slumber[SP]at[SP]the[SP]depths[SP]of[SP]the[SP]unconscious\nmind...[SP]You[SP]will[SP]need[SP]a[SP]way[SP]to[SP]awaken[SP]them.",
    "data_size": 294,
    "budget": 286
@@ -4820,13 +4922,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'un de ces moyens est les"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Cartes Matériaux."
+       "t": "L'un de ces moyens est les Cartes Matériaux."
       }
      ]
     }
@@ -4849,7 +4945,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'un de ces moyens est les\nCartes Matériaux.",
+   "brut_fr": "L'un de ces moyens est les Cartes Matériaux.",
    "brut_en": "One[SP]such[SP]way[SP]is[SP]to[SP]summon[SP]them[SP]with[SP]the[SP]use\nof[SP]Material[SP]Cards.",
    "data_size": 144,
    "budget": 136
@@ -4863,13 +4959,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "La croissance des Personae peut aussi"
+       "t": "La croissance des Personae peut"
       },
       {
        "nl": true
       },
       {
-       "t": "être une voie... Expérimentez"
+       "t": "aussi être une voie... Expérimentez"
       },
       {
        "nl": true
@@ -4904,7 +5000,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La croissance des Personae peut aussi\nêtre une voie... Expérimentez\npour voir ce qui fonctionne.",
+   "brut_fr": "La croissance des Personae peut\naussi être une voie... Expérimentez\npour voir ce qui fonctionne.",
    "brut_en": "Beyond[SP]that,[SP]the[SP]growth[SP]of[SP]Personas[SP]may[SP]be\nanother[SP]way...[SP]I[SP]suggest[SP]you[SP]experiment[SP]and\nsee[SP]what[SP]works.",
    "data_size": 224,
    "budget": 216
@@ -4918,13 +5014,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les Personae ayant atteint le rang maximum"
+       "t": "Les Personae ayant atteint le rang"
       },
       {
        "nl": true
       },
       {
-       "t": "de 8 ne progresseront plus."
+       "t": "maximum de 8 ne progresseront plus."
       }
      ]
     }
@@ -4947,7 +5043,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Personae ayant atteint le rang maximum\nde 8 ne progresseront plus.",
+   "brut_fr": "Les Personae ayant atteint le rang\nmaximum de 8 ne progresseront plus.",
    "brut_en": "Personas[SP]that[SP]have[SP]reached[SP]the[SP]maximum[SP]rank\nof[SP]8[SP]will[SP]not[SP]grow[SP]any[SP]further.",
    "data_size": 170,
    "budget": 162
@@ -4961,19 +5057,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien qu'ils soient très puissants, si vous"
+       "t": "Bien qu'ils soient très puissants,"
       },
       {
        "nl": true
       },
       {
-       "t": "retournez ces Personae ici,"
+       "t": "si vous retournez ces Personae"
       },
       {
        "nl": true
       },
       {
-       "t": "dans la Velvet Room..."
+       "t": "ici, dans la Velvet Room..."
       }
      ]
     }
@@ -5002,7 +5098,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien qu'ils soient très puissants, si vous\nretournez ces Personae ici,\ndans la Velvet Room...",
+   "brut_fr": "Bien qu'ils soient très puissants,\nsi vous retournez ces Personae\nici, dans la Velvet Room...",
    "brut_en": "Though[SP]they[SP]are[SP]extremely[SP]powerful,[SP]if[SP]you\nreturn[SP]these[SP]Personas[SP]to[SP]the[SP]sea[SP]of\nunconsciousness[SP]here[SP]in[SP]the[SP]Velvet[SP]Room...",
    "data_size": 262,
    "budget": 254
@@ -5016,19 +5112,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Leurs pouvoirs seront libérés. En échange,"
+       "t": "Leurs pouvoirs seront libérés. En"
       },
       {
        "nl": true
       },
       {
-       "t": "ils laisseront un souvenir"
+       "t": "échange, ils laisseront un"
       },
       {
        "nl": true
       },
       {
-       "t": "de votre temps ensemble."
+       "t": "souvenir de votre temps ensemble."
       }
      ]
     }
@@ -5057,7 +5153,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Leurs pouvoirs seront libérés. En échange,\nils laisseront un souvenir\nde votre temps ensemble.",
+   "brut_fr": "Leurs pouvoirs seront libérés. En\néchange, ils laisseront un\nsouvenir de votre temps ensemble.",
    "brut_en": "Their[SP]powers[SP]will[SP]be[SP]released.[SP]In[SP]return,[SP]they\nwill[SP]leave[SP]behind[SP]a[SP]memento[SP]of[SP]your[SP]time\ntogether.",
    "data_size": 214,
    "budget": 206
@@ -5071,19 +5167,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce peut être une arme, une armure, un objet..."
+       "t": "Ce peut être une arme, une armure, un"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous pouvez obtenir des choses très rares"
+       "t": "objet... Vous pouvez obtenir des choses"
       },
       {
        "nl": true
       },
       {
-       "t": "obtenaibles uniquement ainsi."
+       "t": "très rares"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " obtenaibles uniquement ainsi."
       }
      ]
     }
@@ -5112,7 +5214,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce peut être une arme, une armure, un objet...\nVous pouvez obtenir des choses très rares\nobtenaibles uniquement ainsi.",
+   "brut_fr": "Ce peut être une arme, une armure, un\nobjet... Vous pouvez obtenir des choses\ntrès rares[1205][U+000F] obtenaibles uniquement ainsi.",
    "brut_en": "This[SP]may[SP]be[SP]a[SP]weapon,[SP]a[SP]piece[SP]of[SP]armor,[SP]an\nitem...[SP]You[SP]can[SP]gain[SP]extremely[SP]rare[SP]things,\nobtainable[SP]only[SP]in[SP]this[SP]fashion.",
    "data_size": 258,
    "budget": 250
@@ -5169,13 +5271,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lors de fusions fréquentes, il arrive que"
+       "t": "Lors de fusions fréquentes, il arrive"
       },
       {
        "nl": true
       },
       {
-       "t": "le Persona subisse une mutation."
+       "t": "que le Persona subisse une mutation."
       }
      ]
     }
@@ -5198,7 +5300,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lors de fusions fréquentes, il arrive que\nle Persona subisse une mutation.",
+   "brut_fr": "Lors de fusions fréquentes, il arrive\nque le Persona subisse une mutation.",
    "brut_en": "When[SP]you[SP]use[SP]Fusion[SP]Spells[SP]frequently,[SP]in[SP]some\nrare[SP]cases[SP]the[SP]Persona[SP]may[SP]undergo[SP]a[SP]mutation.",
    "data_size": 206,
    "budget": 198
@@ -5304,19 +5406,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les détails varient selon le rang du Persona."
+       "t": "Les détails varient selon le rang du"
       },
       {
        "nl": true
       },
       {
-       "t": "Un Persona de bas rang peut passer au Rang 2"
+       "t": "Persona. Un Persona de bas rang peut passer"
       },
       {
        "nl": true
       },
       {
-       "t": "ou gagner quelques points."
+       "t": "au Rang"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " 2 ou gagner quelques points."
       }
      ]
     }
@@ -5345,7 +5453,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les détails varient selon le rang du Persona.\nUn Persona de bas rang peut passer au Rang 2\nou gagner quelques points.",
+   "brut_fr": "Les détails varient selon le rang du\nPersona. Un Persona de bas rang peut passer\nau Rang[1205][U+000F] 2 ou gagner quelques points.",
    "brut_en": "The[SP]details[SP]of[SP]these[SP]mutations[SP]differ[SP]according\nto[SP]the[SP]Persona's[SP]rank.[SP]A[SP]low-level[SP]Persona[SP]may\nsimply[SP]mutate[SP]into[SP]Rank[SP]2[SP]or[SP]gain[SP]a[SP]few[SP]points.",
    "data_size": 304,
    "budget": 296
@@ -5420,13 +5528,13 @@
        "nl": true
       },
       {
-       "t": "en un Persona d'un Arcane que je"
+       "t": "en un Persona d'un Arcane que je ne peux"
       },
       {
        "nl": true
       },
       {
-       "t": "ne peux pas invoquer. Expérimentez !"
+       "t": "pas invoquer. Expérimentez!"
       }
      ]
     }
@@ -5455,7 +5563,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Certains Personae peuvent se transformer\nen un Persona d'un Arcane que je\nne peux pas invoquer. Expérimentez !",
+   "brut_fr": "Certains Personae peuvent se transformer\nen un Persona d'un Arcane que je ne peux\npas invoquer. Expérimentez!",
    "brut_en": "It's[SP]possible[SP]for[SP]some[SP]Personas[SP]to[SP]turn[SP]into\na[SP]Persona[SP]of[SP]an[SP]Arcana[SP]I[SP]am[SP]incapable[SP]of\nsummoning.[SP]Experiment[SP]and[SP]see!",
    "data_size": 252,
    "budget": 244
@@ -5469,13 +5577,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les démons ne sont pas si différents de vous."
+       "t": "Les démons ne sont pas si différents de"
       },
       {
        "nl": true
       },
       {
-       "t": "Ils ressentent joie, colère..."
+       "t": "vous. Ils ressentent joie, colère..."
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -5510,7 +5621,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les démons ne sont pas si différents de vous.\nIls ressentent joie, colère...\nContactez-les pour leur parler.",
+   "brut_fr": "Les démons ne sont pas si différents de\nvous. Ils ressentent joie, colère...[1205][U+000F]\nContactez-les pour leur parler.",
    "brut_en": "Demons[SP]aren't[SP]so[SP]unlike[SP]you.[SP]They[SP]know[SP]joy,\nanger,[SP]and[SP]other[SP]emotions...[SP]You[SP]can[SP]talk[SP]to\nthem[SP]by[SP]making[SP]contact.",
    "data_size": 244,
    "budget": 236
@@ -5524,19 +5635,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les sentiments d'un démon se mesurent"
+       "t": "Les sentiments d'un démon se mesurent par ses"
       },
       {
        "nl": true
       },
       {
-       "t": "par ses paroles, blessures, actions"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "et une jauge."
+       "t": "paroles, blessures, actions et une jauge."
       }
      ]
     }
@@ -5559,7 +5664,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les sentiments d'un démon se mesurent\npar ses paroles, blessures, actions\net une jauge.",
+   "brut_fr": "Les sentiments d'un démon se mesurent par ses\nparoles, blessures, actions et une jauge.",
    "brut_en": "A[SP]demon's[SP]feelings[SP]can[SP]be[SP]measured[SP]through\nits[SP]words,[SP]wounds,[SP]actions,[SP]and[SP]also[SP]a[SP]gauge.",
    "data_size": 196,
    "budget": 188
@@ -5604,19 +5709,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le bonheur est en vert."
+       "t": "Le bonheur est en vert. À son maximum,"
       },
       {
        "nl": true
       },
       {
-       "t": "À son maximum, vous pouvez"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "former un pacte avec le démon."
+       "t": "vous pouvez former un pacte avec le démon."
       }
      ]
     }
@@ -5645,7 +5744,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le bonheur est en vert.\nÀ son maximum, vous pouvez\nformer un pacte avec le démon.",
+   "brut_fr": "Le bonheur est en vert. À son maximum,\nvous pouvez former un pacte avec le démon.",
    "brut_en": "Happiness[SP]is[SP]represented[SP]as[SP]a[SP]green[SP]field.[SP]When\nthis[SP]emotion[SP]is[SP]at[SP]its[SP]highest,[SP]you[SP]can[SP]form[SP]a\npact[SP]with[SP]the[SP]demon.",
    "data_size": 250,
    "budget": 242
@@ -5702,13 +5801,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ils peuvent vous donner de rares Cartes"
+       "t": "Ils peuvent vous donner de rares"
       },
       {
        "nl": true
       },
       {
-       "t": "ou raconter des histoires."
+       "t": "Cartes ou raconter des histoires."
       }
      ]
     }
@@ -5731,7 +5830,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils peuvent vous donner de rares Cartes\nou raconter des histoires.",
+   "brut_fr": "Ils peuvent vous donner de rares\nCartes ou raconter des histoires.",
    "brut_en": "They[SP]may[SP]give[SP]you[SP]rare[SP]Tarot[SP]Cards[SP]or[SP]tell[SP]you\ninteresting[SP]stories.",
    "data_size": 154,
    "budget": 146
@@ -5745,13 +5844,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ceux avec qui vous avez un pacte ne vous"
+       "t": "Ceux avec qui vous avez un pacte ne"
       },
       {
        "nl": true
       },
       {
-       "t": "donneront rien spontanément."
+       "t": "vous donneront rien spontanément."
       },
       {
        "nl": true
@@ -5786,7 +5885,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ceux avec qui vous avez un pacte ne vous\ndonneront rien spontanément.\nVous devrez les contacter à nouveau.",
+   "brut_fr": "Ceux avec qui vous avez un pacte ne\nvous donneront rien spontanément.\nVous devrez les contacter à nouveau.",
    "brut_en": "Demons[SP]you[SP]have[SP]pacts[SP]with[SP]will[SP]not[SP]give[SP]you\nthese[SP]things[SP]of[SP]their[SP]own[SP]will,[SP]however.[SP]You\nmust[SP]contact[SP]them[SP]again.",
    "data_size": 248,
    "budget": 240
@@ -5800,19 +5899,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "La colère est en rouge."
+       "t": "La colère est en rouge. À son comble, les"
       },
       {
        "nl": true
       },
       {
-       "t": "À son comble, les négociations"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "seront immédiatement rompues."
+       "t": "négociations seront immédiatement rompues."
       }
      ]
     }
@@ -5841,7 +5934,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La colère est en rouge.\nÀ son comble, les négociations\nseront immédiatement rompues.",
+   "brut_fr": "La colère est en rouge. À son comble, les\nnégociations seront immédiatement rompues.",
    "brut_en": "Next,[SP]anger[SP]is[SP]represented[SP]as[SP]a[SP]red[SP]field.\nWhen[SP]this[SP]emotion[SP]is[SP]at[SP]its[SP]peak,[SP]negotiations\nwith[SP]the[SP]demon[SP]will[SP]be[SP]immediately[SP]cut[SP]off.",
    "data_size": 286,
    "budget": 278
@@ -5898,13 +5991,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cela peut aussi arriver avec vos alliés."
+       "t": "Cela peut aussi arriver avec vos"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est très déconseillé."
+       "t": "alliés. C'est très déconseillé."
       },
       {
        "nl": true
@@ -5939,7 +6032,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cela peut aussi arriver avec vos alliés.\nC'est très déconseillé.\nNe les mettez pas en colère.",
+   "brut_fr": "Cela peut aussi arriver avec vos\nalliés. C'est très déconseillé.\nNe les mettez pas en colère.",
    "brut_en": "This[SP]can[SP]also[SP]happen[SP]to[SP]demons[SP]you[SP]have[SP]a\npact[SP]with.[SP]It[SP]is[SP]highly[SP]inadvisable.[SP]I[SP]suggest\nyou[SP]do[SP]not[SP]anger[SP]them.",
    "data_size": 242,
    "budget": 234
@@ -5953,13 +6046,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "La peur est en bleu."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "À son comble,"
+       "t": "La peur est en bleu. À son comble,"
       },
       {
        "nl": true
@@ -5994,7 +6081,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La peur est en bleu.\nÀ son comble,\nle démon effrayé s'enfuira.",
+   "brut_fr": "La peur est en bleu. À son comble,\nle démon effrayé s'enfuira.",
    "brut_en": "Next,[SP]fear[SP]is[SP]represented[SP]as[SP]a[SP]blue[SP]field.\nWhen[SP]this[SP]emotion[SP]is[SP]at[SP]its[SP]height,[SP]the[SP]demon\nwill[SP]become[SP]frightened[SP]and[SP]run[SP]away.",
    "data_size": 272,
    "budget": 264
@@ -6008,19 +6095,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'enthousiasme est en jaune."
+       "t": "L'enthousiasme est en jaune. Porter cette"
       },
       {
        "nl": true
       },
       {
-       "t": "Porter cette émotion au maximum"
+       "t": "émotion au maximum a une signification"
       },
       {
        "nl": true
       },
       {
-       "t": "a une signification spéciale."
+       "t": "spéciale."
       }
      ]
     }
@@ -6049,7 +6136,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'enthousiasme est en jaune.\nPorter cette émotion au maximum\na une signification spéciale.",
+   "brut_fr": "L'enthousiasme est en jaune. Porter cette\némotion au maximum a une signification\nspéciale.",
    "brut_en": "Finally,[SP]eagerness[SP]is[SP]represented[SP]as[SP]a[SP]yellow\nfield.[SP]There[SP]is[SP]special[SP]significance[SP]in\nraising[SP]this[SP]emotion[SP]to[SP]its[SP]highest[SP]level.",
    "data_size": 276,
    "budget": 268
@@ -6063,13 +6150,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est là que vous obtenez des Cartes Tarot"
+       "t": "C'est là que vous obtenez des Cartes"
       },
       {
        "nl": true
       },
       {
-       "t": "nécessaires pour mes invocations."
+       "t": "Tarot nécessaires pour mes invocations."
       }
      ]
     }
@@ -6092,7 +6179,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est là que vous obtenez des Cartes Tarot\nnécessaires pour mes invocations.",
+   "brut_fr": "C'est là que vous obtenez des Cartes\nTarot nécessaires pour mes invocations.",
    "brut_en": "For[SP]it[SP]is[SP]then[SP]that[SP]you[SP]can[SP]obtain[SP]Tarot\nCards,[SP]which[SP]are[SP]necessary[SP]in[SP]my[SP]summonings.",
    "data_size": 190,
    "budget": 182
@@ -6106,19 +6193,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Des Personae puissants exigent beaucoup de"
+       "t": "Des Personae puissants exigent beaucoup"
       },
       {
        "nl": true
       },
       {
-       "t": "Cartes Tarot, contactez souvent"
+       "t": "de Cartes Tarot, contactez souvent les"
       },
       {
        "nl": true
       },
       {
-       "t": "les démons pour en collecter..."
+       "t": "démons pour en collecter..."
       }
      ]
     }
@@ -6147,7 +6234,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Des Personae puissants exigent beaucoup de\nCartes Tarot, contactez souvent\nles démons pour en collecter...",
+   "brut_fr": "Des Personae puissants exigent beaucoup\nde Cartes Tarot, contactez souvent les\ndémons pour en collecter...",
    "brut_en": "Summoning[SP]powerful[SP]Personas[SP]will[SP]require[SP]many\nTarot[SP]Cards,[SP]so[SP]it's[SP]best[SP]to[SP]contact[SP]demons\nfrequently[SP]to[SP]collect[SP]them...",
    "data_size": 258,
    "budget": 250
@@ -6259,19 +6346,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et si colère ou peur atteignent leur pic"
+       "t": "Et si colère ou peur atteignent"
       },
       {
        "nl": true
       },
       {
-       "t": "avec l'enthousiasme, un résultat"
+       "t": "leur pic avec l'enthousiasme, un"
       },
       {
        "nl": true
       },
       {
-       "t": "inhabituel se produira."
+       "t": "résultat inhabituel se produira."
       }
      ]
     }
@@ -6300,7 +6387,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et si colère ou peur atteignent leur pic\navec l'enthousiasme, un résultat\ninhabituel se produira.",
+   "brut_fr": "Et si colère ou peur atteignent\nleur pic avec l'enthousiasme, un\nrésultat inhabituel se produira.",
    "brut_en": "And[SP]should[SP]anger[SP]or[SP]fear[SP]reach[SP]their[SP]peak[SP]at\nthe[SP]same[SP]time[SP]as[SP]eagerness,[SP]another[SP]unusual\nresult[SP]will[SP]occur.",
    "data_size": 234,
    "budget": 226
@@ -6314,13 +6401,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a trois stades pour chaque émotion."
+       "t": "Il y a trois stades pour chaque"
       },
       {
        "nl": true
       },
       {
-       "t": "Concentrez-vous sur"
+       "t": "émotion. Concentrez-vous sur"
       },
       {
        "nl": true
@@ -6355,7 +6442,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a trois stades pour chaque émotion.\nConcentrez-vous sur\nl'augmentation d'une seule émotion.",
+   "brut_fr": "Il y a trois stades pour chaque\némotion. Concentrez-vous sur\nl'augmentation d'une seule émotion.",
    "brut_en": "There[SP]are[SP]normally[SP]three[SP]stages[SP]of[SP]each\nemotion.[SP]My[SP]advice[SP]would[SP]be[SP]to[SP]try[SP]and[SP]focus\non[SP]increasing[SP]a[SP]single[SP]emotion.",
    "data_size": 252,
    "budget": 244
@@ -6369,19 +6456,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cela couvre les bases. Des démons peuvent"
+       "t": "Cela couvre les bases. Des démons"
       },
       {
        "nl": true
       },
       {
-       "t": "aussi vous poser des questions ou engager"
+       "t": "peuvent aussi vous poser des questions"
       },
       {
        "nl": true
       },
       {
-       "t": "le combat en vous contactant."
+       "t": "ou engager le combat en vous contactant."
       }
      ]
     }
@@ -6410,7 +6497,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cela couvre les bases. Des démons peuvent\naussi vous poser des questions ou engager\nle combat en vous contactant.",
+   "brut_fr": "Cela couvre les bases. Des démons\npeuvent aussi vous poser des questions\nou engager le combat en vous contactant.",
    "brut_en": "That[SP]should[SP]cover[SP]the[SP]basics,[SP]I[SP]think.[SP]There\nwill[SP]be[SP]times[SP]when[SP]demons[SP]will[SP]ask[SP]questions\nof[SP]you[SP]or[SP]open[SP]the[SP]battle[SP]by[SP]contacting[SP]you.",
    "data_size": 288,
    "budget": 280
@@ -6424,13 +6511,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais vous comprendrez cela"
+       "t": "Mais vous comprendrez cela par"
       },
       {
        "nl": true
       },
       {
-       "t": "par vous-même au fil des épreuves..."
+       "t": "vous-même au fil des épreuves..."
       }
      ]
     }
@@ -6453,7 +6540,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais vous comprendrez cela\npar vous-même au fil des épreuves...",
+   "brut_fr": "Mais vous comprendrez cela par\nvous-même au fil des épreuves...",
    "brut_en": "But[SP]I'm[SP]sure[SP]you'll[SP]figure[SP]all[SP]of[SP]this[SP]out\nfor[SP]yourself[SP]during[SP]your[SP]struggles...",
    "data_size": 180,
    "budget": 172
@@ -6467,13 +6554,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Permettez-moi d'expliquer"
+       "t": "Permettez-moi d'expliquer les"
       },
       {
        "nl": true
       },
       {
-       "t": "les personnalités des démons."
+       "t": "personnalités des démons."
       }
      ]
     }
@@ -6496,7 +6583,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Permettez-moi d'expliquer\nles personnalités des démons.",
+   "brut_fr": "Permettez-moi d'expliquer les\npersonnalités des démons.",
    "brut_en": "Well[SP]then,[SP]allow[SP]me[SP]to[SP]explain[SP]what[SP]I[SP]know[SP]of\ndemon[SP]personalities.",
    "data_size": 152,
    "budget": 144
@@ -6510,13 +6597,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Comme pour les humains, il en existe"
+       "t": "Comme pour les humains, il en"
       },
       {
        "nl": true
       },
       {
-       "t": "de nombreuses sortes."
+       "t": "existe de nombreuses sortes."
       }
      ]
     }
@@ -6539,7 +6626,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Comme pour les humains, il en existe\nde nombreuses sortes.",
+   "brut_fr": "Comme pour les humains, il en\nexiste de nombreuses sortes.",
    "brut_en": "It's[SP]as[SP]true[SP]of[SP]demons[SP]as[SP]it[SP]is[SP]of[SP]humans:\nthere[SP]are[SP]many[SP]different[SP]kinds.",
    "data_size": 168,
    "budget": 160
@@ -6639,13 +6726,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Leurs personnalités peuvent se diviser en huit"
+       "t": "Leurs personnalités peuvent se diviser en"
       },
       {
        "nl": true
       },
       {
-       "t": "catégories : sage, sot, joyeux, craintif,"
+       "t": "huit catégories: sage, sot, joyeux, craintif,"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -6680,7 +6770,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Leurs personnalités peuvent se diviser en huit\ncatégories : sage, sot, joyeux, craintif,\nforcené, sombre, brusque et hautain...",
+   "brut_fr": "Leurs personnalités peuvent se diviser en\nhuit catégories: sage, sot, joyeux, craintif,[1205][U+000F]\nforcené, sombre, brusque et hautain...",
    "brut_en": "Their[SP]personalities[SP]can[SP]be[SP]divided[SP]into[SP]eight\nclassifications:[SP]wise,[SP]foolish,[SP]joyful,[SP]timid,\nforceful,[SP]gloomy,[SP]snappish,[SP]and[SP]haughty...",
    "data_size": 290,
    "budget": 282
@@ -6694,13 +6784,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Chaque démon a une ou"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "plusieurs qualités."
+       "t": "Chaque démon a une ou plusieurs qualités."
       }
      ]
     }
@@ -6717,7 +6801,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Chaque démon a une ou\nplusieurs qualités.",
+   "brut_fr": "Chaque démon a une ou plusieurs qualités.",
    "brut_en": "Each[SP]demon[SP]has[SP]one[SP]or[SP]more[SP]of[SP]these[SP]qualities.",
    "data_size": 112,
    "budget": 104
@@ -6835,13 +6919,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Essayez par vous-même"
+       "t": "Essayez par vous-même et observez"
       },
       {
        "nl": true
       },
       {
-       "t": "et observez le phénomène en action..."
+       "t": "le phénomène en action..."
       }
      ]
     }
@@ -6864,7 +6948,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Essayez par vous-même\net observez le phénomène en action...",
+   "brut_fr": "Essayez par vous-même et observez\nle phénomène en action...",
    "brut_en": "I[SP]recommend[SP]you[SP]try[SP]it[SP]out[SP]for[SP]yourself[SP]and\nsee[SP]the[SP]phenomenon[SP]in[SP]action...",
    "data_size": 170,
    "budget": 162
@@ -6921,13 +7005,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mon devoir est"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "D'apaiser les cœurs"
+       "t": "Mon devoir est D'apaiser les cœurs"
       },
       {
        "pause": true
@@ -6968,7 +7046,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mon devoir est[U+070F]\nD'apaiser les cœurs[U+070F][1205][001E]\nJ'entends la musique de mon cœur[U+070F]",
+   "brut_fr": "Mon devoir est[U+070F] D'apaiser les cœurs[U+070F][1205][001E]\nJ'entends la musique de mon cœur[U+070F]",
    "brut_en": "My[SP]duty[SP]is[U+070F]\nTo[SP]calm[SP]the[SP]hearts[SP]of[SP]visitors[U+070F][1205][001E]\nFor[SP]this,[SP]I[SP]must[SP]hear[SP]my[SP]heart's[SP]music[U+070F]",
    "data_size": 202,
    "budget": 194
@@ -6982,19 +7060,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien que mes oreilles"
+       "t": "Bien que mes oreilles Bloqueraient les"
       },
       {
        "nl": true
       },
       {
-       "t": "Bloqueraient les sons du monde"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Vos mots me parviennent"
+       "t": "sons du monde Vos mots me parviennent"
       }
      ]
     }
@@ -7023,7 +7095,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien que mes oreilles[U+070F]\nBloqueraient les sons du monde[U+070F]\nVos mots me parviennent[U+070F]",
+   "brut_fr": "Bien que mes oreilles[U+070F] Bloqueraient les\nsons du monde[U+070F] Vos mots me parviennent[U+070F]",
    "brut_en": "Though[SP]my[SP]ears[U+070F]\nBlock[SP]out[SP]the[SP]world's[SP]sounds[U+070F]\nYour[SP]words[SP]reach[SP]me[SP]quite[SP]clearly[U+070F]",
    "data_size": 192,
    "budget": 184
@@ -7043,13 +7115,7 @@
        "nl": true
       },
       {
-       "t": "aux Persona-users"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "comme vous."
+       "t": "aux Persona-users comme vous."
       }
      ]
     }
@@ -7072,7 +7138,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ma musique ouvre la porte de l'âme\naux Persona-users\ncomme vous.",
+   "brut_fr": "Ma musique ouvre la porte de l'âme\naux Persona-users comme vous.",
    "brut_en": "The[SP]music[SP]I[SP]create[SP]is[SP]meant[SP]to[SP]open[SP]the[SP]door\nto[SP]the[SP]soul[SP]for[SP]Persona-users[SP]like[SP]yourselves.",
    "data_size": 210,
    "budget": 202
@@ -7092,16 +7158,25 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "C'est pourquoi 90 000 et 155 nuits"
+       "t": " C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "se sont écoulées depuis que j'ai fermé les yeux."
+       "t": "pourquoi 90 000 et 155 nuits se sont"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "écoulées depuis que j'ai fermé les"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " yeux."
       }
      ]
     }
@@ -7136,7 +7211,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour la créer, j'affronte mon cœur.[1205][001E]\nC'est pourquoi 90 000 et 155 nuits\nse sont écoulées depuis que j'ai fermé les yeux.",
+   "brut_fr": "Pour la créer, j'affronte mon cœur.[1205][001E] C'est\npourquoi 90 000 et 155 nuits se sont\nécoulées depuis que j'ai fermé les[1205][U+000F] yeux.",
    "brut_en": "To[SP]create[SP]it,[SP]I[SP]must[SP]confront[SP]what[SP]is[SP]in[SP]my\nheart.[1205][001E][SP]That[SP]is[SP]why[SP]90,000[SP]and[SP]155[SP]nights[SP]have\npassed[SP]since[SP]I[SP]closed[SP]my[SP]own[SP]eyes.",
    "data_size": 280,
    "budget": 272
@@ -7168,7 +7243,7 @@
    "choix_fr": {
     "options": [
      "Une carte",
-     "Parler",
+     "Parler[1205]",
      "Annuler",
      "Quitter"
     ],
@@ -7191,7 +7266,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0004]Une carte\nParler\nAnnuler\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0004]Une carte\nParler[1205][U+000F]\nAnnuler\nQuitter",
    "brut_en": "Anything[SP]else?\n[1208][U+0004]Request[SP]card\nTalk\nCancel\nLeave",
    "data_size": 134,
    "budget": 126
@@ -7205,7 +7280,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien. De quoi parle-t-on ?"
+       "t": "Bien. De quoi parle-t-on?"
       }
      ]
     }
@@ -7223,12 +7298,12 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler création de cartes",
+     "Parler création de cartes[1205]",
      "Sélection cachée"
     ],
     "question": [
      {
-      "t": "Bien. De quoi parle-t-on ?"
+      "t": "Bien. De quoi parle-t-on?"
      }
     ]
    },
@@ -7244,7 +7319,7 @@
      }
     ]
    },
-   "brut_fr": "Bien. De quoi parle-t-on ?\n[1208][U+0003]Bavarder\nParler création de cartes\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Bien. De quoi parle-t-on?\n[1208][U+0003]Bavarder\nParler création de cartes[1205][U+000F]\n[1210][U+0100]Sélection cachée",
    "brut_en": "Okay.[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]card[SP]creation\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 236,
    "budget": 228
@@ -7258,19 +7333,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'exprime mes émotions par mon art."
+       "t": "J'exprime mes émotions par mon"
       },
       {
        "nl": true
       },
       {
-       "t": "Je suis peu bavard... Mais je ferai"
+       "t": "art. Je suis peu bavard... Mais"
       },
       {
        "nl": true
       },
       {
-       "t": "une exception pour vous."
+       "t": "je ferai une exception pour vous."
       }
      ]
     }
@@ -7299,7 +7374,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'exprime mes émotions par mon art.\nJe suis peu bavard... Mais je ferai\nune exception pour vous.",
+   "brut_fr": "J'exprime mes émotions par mon\nart. Je suis peu bavard... Mais\nje ferai une exception pour vous.",
    "brut_en": "I[SP]express[SP]my[SP]emotions[SP]through[SP]my[SP]art.\nI'm[SP]not[SP]much[SP]for[SP]chatting...[SP]But[SP]I[SP]think\nI[SP]can[SP]make[SP]an[SP]exception[SP]for[SP]you.",
    "data_size": 260,
    "budget": 252
@@ -7313,7 +7388,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sur quoi me questionner ?"
+       "t": "Sur quoi me questionner?"
       }
      ]
     }
@@ -7331,12 +7406,12 @@
    "choix_fr": {
     "options": [
      "Tarot Libre",
-     "Comment en obtenir",
+     "Comment en obtenir[1205]",
      "Comment les utiliser"
     ],
     "question": [
      {
-      "t": "Sur quoi me questionner ?"
+      "t": "Sur quoi me questionner?"
      }
     ]
    },
@@ -7352,7 +7427,7 @@
      }
     ]
    },
-   "brut_fr": "Sur quoi me questionner ?\n[1208][U+0003]Tarot Libre\nComment en obtenir\nComment les utiliser",
+   "brut_fr": "Sur quoi me questionner?\n[1208][U+0003]Tarot Libre\nComment en obtenir[1205][U+000F]\nComment les utiliser",
    "brut_en": "What[SP]did[SP]you[SP]want[SP]to[SP]ask[SP]about?\n[1208][U+0003]Free[SP]Tarot\nHow[SP]to[SP]obtain[SP]them\nHow[SP]to[SP]use[SP]them",
    "data_size": 198,
    "budget": 190
@@ -7495,13 +7570,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Apportez-moi vos Cartes"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Tarot Libres."
+       "t": "Apportez-moi vos Cartes Tarot Libres."
       }
      ]
     }
@@ -7524,7 +7593,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Apportez-moi vos Cartes\nTarot Libres.",
+   "brut_fr": "Apportez-moi vos Cartes Tarot Libres.",
    "brut_en": "If[SP]you[SP]find[SP]any[SP]Free[SP]Tarot[SP]Cards,[SP]bring[SP]them\nto[SP]me.",
    "data_size": 140,
    "budget": 132
@@ -7538,13 +7607,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tout démon peut avoir des"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Cartes Tarot Libres."
+       "t": "Tout démon peut avoir des Cartes Tarot Libres."
       }
      ]
     }
@@ -7567,7 +7630,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tout démon peut avoir des\nCartes Tarot Libres.",
+   "brut_fr": "Tout démon peut avoir des Cartes Tarot Libres.",
    "brut_en": "Every[SP]demon,[SP]no[SP]matter[SP]what[SP]type,[SP]might[SP]have\nsome[SP]Free[SP]Tarot[SP]Cards.",
    "data_size": 172,
    "budget": 164
@@ -7642,13 +7705,7 @@
        "nl": true
       },
       {
-       "t": "Humains et démons se ressemblent"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "en cela."
+       "t": "Humains et démons se ressemblent en cela."
       }
      ]
     }
@@ -7677,7 +7734,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour en obtenir, gagnez leur confiance.\nHumains et démons se ressemblent\nen cela.",
+   "brut_fr": "Pour en obtenir, gagnez leur confiance.\nHumains et démons se ressemblent en cela.",
    "brut_en": "No,[SP]to[SP]get[SP]Free[SP]Tarot[SP]Cards[SP]from[SP]demons,[SP]you\nhave[SP]to[SP]win[SP]their[SP]trust.[SP]Humans[SP]and[SP]demons[SP]are\nalike[SP]in[SP]that[SP]respect.",
    "data_size": 266,
    "budget": 258
@@ -7691,19 +7748,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour invoquer des Personae, collectez"
+       "t": "Pour invoquer des Personae, collectez des"
       },
       {
        "nl": true
       },
       {
-       "t": "des Cartes Tarot de démons"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "du même Arcane..."
+       "t": "Cartes Tarot de démons du même Arcane..."
       }
      ]
     }
@@ -7732,7 +7783,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour invoquer des Personae, collectez\ndes Cartes Tarot de démons\ndu même Arcane...",
+   "brut_fr": "Pour invoquer des Personae, collectez des\nCartes Tarot de démons du même Arcane...",
    "brut_en": "In[SP]order[SP]to[SP]summon[SP]Personas,[SP]you[SP]just[SP]have[SP]to\ncollect[SP]Tarot[SP]Cards[SP]from[SP]demons[SP]of[SP]the[SP]same\nArcana...",
    "data_size": 236,
    "budget": 228
@@ -7789,7 +7840,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors pour un Persona de cet Arcane ?"
+       "t": "Alors pour un Persona de cet Arcane?"
       },
       {
        "nl": true
@@ -7830,7 +7881,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Alors pour un Persona de cet Arcane ?\nSimple. C'est là qu'interviennent\nles Cartes Tarot Libres.",
+   "brut_fr": "Alors pour un Persona de cet Arcane?\nSimple. C'est là qu'interviennent\nles Cartes Tarot Libres.",
    "brut_en": "So[SP]what[SP]do[SP]you[SP]do[SP]when[SP]you[SP]want[SP]to[SP]summon[SP]a\nPersona[SP]of[SP]that[SP]Arcana?[SP]Simple.[SP]That's[SP]where\nFree[SP]Tarot[SP]Cards[SP]come[SP]in.",
    "data_size": 266,
    "budget": 258
@@ -7844,19 +7895,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous pouvez les utiliser pour compléter"
+       "t": "Vous pouvez les utiliser pour"
       },
       {
        "nl": true
       },
       {
-       "t": "les cartes nécessaires, mais soyez sûr"
+       "t": "compléter les cartes nécessaires, mais"
       },
       {
        "nl": true
       },
       {
-       "t": "avant de les utiliser ainsi."
+       "t": "soyez sûr avant de les utiliser ainsi."
       }
      ]
     }
@@ -7885,7 +7936,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous pouvez les utiliser pour compléter\nles cartes nécessaires, mais soyez sûr\navant de les utiliser ainsi.",
+   "brut_fr": "Vous pouvez les utiliser pour\ncompléter les cartes nécessaires, mais\nsoyez sûr avant de les utiliser ainsi.",
    "brut_en": "You[SP]can[SP]use[SP]them[SP]to[SP]supplement[SP]the[SP]cards[SP]you[SP]need\nfor[SP]regular[SP]summonings,[SP]but[SP]you[SP]should[SP]be[SP]certain\nbefore[SP]you[SP]use[SP]them[SP]that[SP]way.",
    "data_size": 296,
    "budget": 288
@@ -7942,19 +7993,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hm ?"
+       "t": "Hm?"
       },
       {
        "pause": true
       },
       {
-       "t": " L'un de vos Personae cherche"
+       "t": " L'un de vos Personae cherche à"
       },
       {
        "nl": true
       },
       {
-       "t": "à renaître sous une nouvelle forme."
+       "t": "renaître sous une nouvelle forme."
       }
      ]
     }
@@ -7983,7 +8034,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm ?[1205][U+000F] L'un de vos Personae cherche\nà renaître sous une nouvelle forme.",
+   "brut_fr": "Hm?[1205][U+000F] L'un de vos Personae cherche à\nrenaître sous une nouvelle forme.",
    "brut_en": "Hm?[1205][U+000F][SP]It[SP]seems[SP]one[SP]of[SP]your[SP]Personas[SP]is[SP]trying[SP]to\nbe[SP]reborn[SP]into[SP]a[SP]new[SP]form.",
    "data_size": 170,
    "budget": 162
@@ -7997,13 +8048,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'aurais dû vous"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "expliquer cela..."
+       "t": "J'aurais dû vous expliquer cela..."
       }
      ]
     }
@@ -8020,7 +8065,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'aurais dû vous\nexpliquer cela...",
+   "brut_fr": "J'aurais dû vous expliquer cela...",
    "brut_en": "Ah,[SP]perhaps[SP]I[SP]neglected[SP]to[SP]explain...",
    "data_size": 94,
    "budget": 86
@@ -8034,7 +8079,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Connaissez-vous les Sorts de Fusion ?"
+       "t": "Connaissez-vous les Sorts de Fusion?"
       },
       {
        "pause": true
@@ -8046,13 +8091,7 @@
        "nl": true
       },
       {
-       "t": "vous les utilisez, les Persona peuvent"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "muter."
+       "t": "vous les utilisez, les Persona peuvent muter."
       }
      ]
     }
@@ -8087,7 +8126,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Connaissez-vous les Sorts de Fusion ?[1205][U+000F] Quand\nvous les utilisez, les Persona peuvent\nmuter.",
+   "brut_fr": "Connaissez-vous les Sorts de Fusion?[1205][U+000F] Quand\nvous les utilisez, les Persona peuvent muter.",
    "brut_en": "Do[SP]you[SP]know[SP]about[SP]Fusion[SP]Spells?[1205][U+000F][SP]When[SP]you[SP]use\nthem,[SP]sometimes[SP]your[SP]Personas[SP]will[SP]undergo\nmutations.",
    "data_size": 222,
    "budget": 214
@@ -8107,13 +8146,13 @@
        "nl": true
       },
       {
-       "t": "ou l'apprentissage de compétences,"
+       "t": "ou l'apprentissage de compétences, mais"
       },
       {
        "nl": true
       },
       {
-       "t": "mais certains peuvent aussi renaître."
+       "t": "certains peuvent aussi renaître."
       }
      ]
     }
@@ -8142,7 +8181,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cela peut être une augmentation de stats\nou l'apprentissage de compétences,\nmais certains peuvent aussi renaître.",
+   "brut_fr": "Cela peut être une augmentation de stats\nou l'apprentissage de compétences, mais\ncertains peuvent aussi renaître.",
    "brut_en": "These[SP]may[SP]take[SP]the[SP]form[SP]of[SP]increase[SP]in[SP]basic\nstats[SP]or[SP]the[SP]learning[SP]of[SP]new[SP]skills,[SP]but[SP]some\ncan[SP]also[SP]be[SP]reborn[SP]as[SP]new[SP]Personas.",
    "data_size": 272,
    "budget": 264
@@ -8165,10 +8204,16 @@
        "t": "Si vous observez ce changement,"
       },
       {
+       "pause": true
+      },
+      {
+       "t": " veuillez"
+      },
+      {
        "nl": true
       },
       {
-       "t": "veuillez m'apporter le Persona."
+       "t": "m'apporter le Persona."
       }
      ]
     }
@@ -8197,7 +8242,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand cela arrive, mon aide est nécessaire.\nSi vous observez ce changement,\nveuillez m'apporter le Persona.",
+   "brut_fr": "Quand cela arrive, mon aide est nécessaire.\nSi vous observez ce changement,[1205][U+000F] veuillez\nm'apporter le Persona.",
    "brut_en": "When[SP]this[SP]happens,[SP]my[SP]assistance[SP]is[SP]necessary.\nIf[SP]you[SP]see[SP]such[SP]a[SP]change[SP]in[SP]your[SP]Persona,\nplease[SP]bring[SP]it[SP]to[SP]me.",
    "data_size": 242,
    "budget": 234
@@ -8297,19 +8342,25 @@
        "pause": true
       },
       {
-       "t": " Et si vous possédez déjà le Persona en"
+       "t": " Et si vous possédez déjà le Persona"
       },
       {
        "nl": true
       },
       {
-       "t": "lequel votre Persona va muter, vous ne pourrez"
+       "t": "en lequel votre Persona va muter, vous ne"
       },
       {
        "nl": true
       },
       {
-       "t": "pas effectuer la mutation."
+       "t": "pourrez"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pas effectuer la mutation."
       }
      ]
     }
@@ -8344,7 +8395,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh...[1205][U+000F] Et si vous possédez déjà le Persona en\nlequel votre Persona va muter, vous ne pourrez\npas effectuer la mutation.",
+   "brut_fr": "Oh...[1205][U+000F] Et si vous possédez déjà le Persona\nen lequel votre Persona va muter, vous ne\npourrez[1205][U+000F] pas effectuer la mutation.",
    "brut_en": "Oh...[1205][U+000F][SP]And[SP]if[SP]you[SP]already[SP]have[SP]the[SP]Persona[SP]that\nyour[SP]Persona[SP]will[SP]mutate[SP]into,[SP]you[SP]will[SP]not[SP]be\nable[SP]to[SP]perform[SP]the[SP]mutation.",
    "data_size": 270,
    "budget": 262
@@ -8358,7 +8409,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "En quoi puis-je vous être utile ?"
+       "t": "En quoi puis-je vous être utile?"
       }
      ]
     }
@@ -8376,16 +8427,16 @@
    "choix_fr": {
     "options": [
      "Invoquer Persona",
-     "Porter Persona",
+     "Porter Persona[1205]",
      "Rendre Persona",
      "Muter Persona",
-     "Parler à Igor",
+     "Parler à Igor[1205]",
      "Annuler",
      "Quitter"
     ],
     "question": [
      {
-      "t": "En quoi puis-je vous être utile ?"
+      "t": "En quoi puis-je vous être utile?"
      }
     ]
    },
@@ -8405,7 +8456,7 @@
      }
     ]
    },
-   "brut_fr": "En quoi puis-je vous être utile ?\n[1208][U+0007]Invoquer Persona\nPorter Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
+   "brut_fr": "En quoi puis-je vous être utile?\n[1208][U+0007]Invoquer Persona\nPorter Persona[1205][U+000F]\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor[1205][U+000F]\nAnnuler\nQuitter",
    "brut_en": "How[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
    "data_size": 278,
    "budget": 270
@@ -8437,7 +8488,16 @@
        "pause": true
       },
       {
-       "t": "< Puis-je vous aider ?"
+       "t": "< Puis-je vous "
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aider?"
       }
      ]
     }
@@ -8473,10 +8533,10 @@
    "choix_fr": {
     "options": [
      "Invoquer Persona",
-     "Porter Persona",
+     "Porter Persona[1205]",
      "Rendre Persona",
      "Muter Persona",
-     "Parler à Igor",
+     "Parler à Igor[1205]",
      "Annuler",
      "Quitter"
     ],
@@ -8500,7 +8560,16 @@
       "pause": true
      },
      {
-      "t": "< Puis-je vous aider ?"
+      "t": "< Puis-je vous "
+     },
+     {
+      "pause": true
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "aider?"
      }
     ]
    },
@@ -8538,7 +8607,7 @@
      }
     ]
    },
-   "brut_fr": "Entre rêve et réalité...\nDerrière une porte invisible\naux esprits très éveillés.[1205]< Puis-je vous aider ?\n[1208][U+0007]Invoquer Persona\nPorter Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
+   "brut_fr": "Entre rêve et réalité...\nDerrière une porte invisible\naux esprits très éveillés.[1205]< Puis-je vous [1205][U+000F]\naider?\n[1208][U+0007]Invoquer Persona\nPorter Persona[1205][U+000F]\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor[1205][U+000F]\nAnnuler\nQuitter",
    "brut_en": "This[SP]room[SP]is[SP]between[SP]dream[SP]and[SP]reality...\nBehind[SP]a[SP]door[SP]that[SP]can[SP]only[SP]be[SP]seen[SP]by[SP]the\nhighly[SP]attuned.[1205]<[SP]How[SP]may[SP]I[SP]assist[SP]you?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
    "data_size": 452,
    "budget": 444
@@ -8564,13 +8633,22 @@
        "pause": true
       },
       {
-       "t": " Voulez-vous que je"
+       "t": " Voulez-vous "
       },
       {
        "nl": true
       },
       {
-       "t": "peigne quelque chose ?"
+       "t": "que je"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "peigne quelque chose?"
       }
      ]
     }
@@ -8606,7 +8684,7 @@
    "choix_fr": {
     "options": [
      "Demander une carte",
-     "Parler",
+     "Parler[1205]",
      "Annuler",
      "Quitter"
     ],
@@ -8624,13 +8702,22 @@
       "pause": true
      },
      {
-      "t": " Voulez-vous que je"
+      "t": " Voulez-vous "
      },
      {
       "nl": true
      },
      {
-      "t": "peigne quelque chose ?"
+      "t": "que je"
+     },
+     {
+      "pause": true
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "peigne quelque chose?"
      }
     ]
    },
@@ -8665,7 +8752,7 @@
      }
     ]
    },
-   "brut_fr": "Le Tarot est un modèle du cœur.\nLe cœur influence le destin.[1205][001E] Voulez-vous que je\npeigne quelque chose ?\n[1208][U+0004]Demander une carte\nParler\nAnnuler\nQuitter",
+   "brut_fr": "Le Tarot est un modèle du cœur.\nLe cœur influence le destin.[1205][001E] Voulez-vous \nque je[1205][U+000F]\npeigne quelque chose?\n[1208][U+0004]Demander une carte\nParler[1205][U+000F]\nAnnuler\nQuitter",
    "brut_en": "The[SP]Tarot[SP]is[SP]a[SP]model[SP]of[SP]the[SP]heart.[SP]One's[SP]heart\naffects[SP]one's[SP]destiny.[1205][001E][SP]Now,[SP]would[SP]you[SP]like[SP]me\nto[SP]paint[SP]you[SP]something?\n[1208][U+0004]Request[SP]card\nTalk\nCancel\nLeave",
    "data_size": 342,
    "budget": 334
@@ -8679,7 +8766,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous voulez ça ?"
+       "t": "Vous voulez ça?"
       }
      ]
     }
@@ -8701,7 +8788,7 @@
     ],
     "question": [
      {
-      "t": "Vous voulez ça ?"
+      "t": "Vous voulez ça?"
      }
     ]
    },
@@ -8716,7 +8803,7 @@
      }
     ]
    },
-   "brut_fr": "Vous voulez ça ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Vous voulez ça?\n[1208][0002]Oui\nNon",
    "brut_en": "Is[SP]this[SP]what[SP]you[SP]want?\n[1208][0002]Yes\nNo",
    "data_size": 102,
    "budget": 94
@@ -8730,7 +8817,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce Persona te convient ?"
+       "t": "Ce Persona te convient?"
       }
      ]
     }
@@ -8752,7 +8839,7 @@
     ],
     "question": [
      {
-      "t": "Ce Persona te convient ?"
+      "t": "Ce Persona te convient?"
      }
     ]
    },
@@ -8767,7 +8854,7 @@
      }
     ]
    },
-   "brut_fr": "Ce Persona te convient ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Ce Persona te convient?\n[1208][0002]Oui\nNon",
    "brut_en": "Will[SP]this[SP]Persona[SP]suffice?\n[1208][0002]Yes\nNo",
    "data_size": 92,
    "budget": 84
@@ -8781,7 +8868,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce Persona te convient ?"
+       "t": "Ce Persona te convient?"
       }
      ]
     }
@@ -8803,7 +8890,7 @@
     ],
     "question": [
      {
-      "t": "Ce Persona te convient ?"
+      "t": "Ce Persona te convient?"
      }
     ]
    },
@@ -8818,7 +8905,7 @@
      }
     ]
    },
-   "brut_fr": "Ce Persona te convient ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Ce Persona te convient?\n[1208][0002]Oui\nNon",
    "brut_en": "Will[SP]this[SP]Persona[SP]suffice?\n[1208][0002]Yes\nNo",
    "data_size": 92,
    "budget": 84
@@ -8863,7 +8950,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Êtes-vous sûr de vous séparer de ce Persona ?"
+       "t": "Êtes-vous sûr de vous séparer de ce "
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Persona?"
       }
      ]
     }
@@ -8880,12 +8973,18 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
      {
-      "t": "Êtes-vous sûr de vous séparer de ce Persona ?"
+      "t": "Êtes-vous sûr de vous séparer de ce "
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Persona?"
      }
     ]
    },
@@ -8900,7 +8999,7 @@
      }
     ]
    },
-   "brut_fr": "Êtes-vous sûr de vous séparer de ce Persona ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Êtes-vous sûr de vous séparer de ce \nPersona?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "Are[SP]you[SP]sure[SP]you[SP]want[SP]to[SP]let[SP]go[SP]of[SP]this[SP]Persona?\n[1208][0002]Yes\nNo",
    "data_size": 136,
    "budget": 128
@@ -8914,13 +9013,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors, il est temps de libérer ,"
+       "t": "Alors, il est temps de libérer , un"
       },
       {
        "nl": true
       },
       {
-       "t": "un vieux fragment de l'âme éveillé..."
+       "t": "vieux fragment de l'âme éveillé..."
       }
      ]
     }
@@ -8949,7 +9048,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Alors, il est temps de libérer [E4][NULL][NULL][U+0005][120E][NULL][121D][U+0001],\nun vieux fragment de l'âme éveillé...",
+   "brut_fr": "Alors, il est temps de libérer [E4][NULL][NULL][U+0005][120E][NULL][121D][U+0001], un\nvieux fragment de l'âme éveillé...",
    "brut_en": "So,[SP]it[SP]is[SP]time[SP]to[SP]release[SP][E4][NULL][NULL][U+0005][120E][NULL][121D][U+0001],\nan[SP]old[SP]part[SP]of[SP]the[SP]soul[SP]that[SP]had\nbeen[SP]awakened...",
    "data_size": 190,
    "budget": 182
@@ -8963,25 +9062,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je vais transformer cet aspect qui a"
+       "t": "Je vais transformer cet aspect qui"
       },
       {
        "nl": true
       },
       {
-       "t": "combattu à vos côtés en "
+       "t": "a combattu à vos côtés en  et vous"
       },
       {
        "nl": true
       },
       {
-       "t": "et vous le rendre..."
+       "t": "le rendre..."
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "> "
+       "t": " > "
       },
       {
        "hero": "prenom"
@@ -9028,7 +9127,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vais transformer cet aspect qui a\ncombattu à vos côtés en [E4][NULL][NULL][U+0004][120E][U+0001][121D][U+0001]\net vous le rendre...\n[E1][E2][E3]> [1113] a obtenu [E4][NULL][NULL][U+0004][120E][U+0001][120E][0002][121D][U+0001].",
+   "brut_fr": "Je vais transformer cet aspect qui\na combattu à vos côtés en [E4][NULL][NULL][U+0004][120E][U+0001][121D][U+0001] et vous\nle rendre...[1205][U+000F] [E1][E2][E3]> [1113] a obtenu [E4][NULL][NULL][U+0004][120E][U+0001][120E][0002][121D][U+0001].",
    "brut_en": "Then[SP]I[SP]shall[SP]change[SP]this[SP]aspect[SP]who[SP]fought\nalongside[SP]you[SP]into[SP]a[SP][E4][NULL][NULL][U+0004][120E][U+0001][121D][U+0001][SP]and\nreturn[SP]it[SP]to[SP]you...\n[E1][E2][E3]>[SP][1113][SP]obtained[SP][E4][NULL][NULL][U+0004][120E][U+0001][120E][0002][121D][U+0001].",
    "data_size": 268,
    "budget": 260
@@ -9147,13 +9246,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je ne peux plus conserver"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de Personae ici."
+       "t": "Je ne peux plus conserver de Personae ici."
       }
      ]
     }
@@ -9170,7 +9263,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne peux plus conserver\nde Personae ici.",
+   "brut_fr": "Je ne peux plus conserver de Personae ici.",
    "brut_en": "I[SP]cannot[SP]hold[SP]on[SP]to[SP]any[SP]more[SP]Personas[SP]for[SP]you.",
    "data_size": 114,
    "budget": 106

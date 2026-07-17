@@ -78,13 +78,19 @@
        "nl": true
       },
       {
-       "t": "semblait pas désolée... Je ne serais pas surpris"
+       "t": "semblait pas désolée... Je ne serais pas"
       },
       {
        "nl": true
       },
       {
-       "t": "si elle revenait nous harceler."
+       "t": "surpris"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " si elle revenait nous harceler."
       }
      ]
     }
@@ -113,7 +119,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est bon de laisser cette fille? Elle ne\nsemblait pas désolée... Je ne serais pas surpris\nsi elle revenait nous harceler.",
+   "brut_fr": "C'est bon de laisser cette fille? Elle ne\nsemblait pas désolée... Je ne serais pas\nsurpris[1205][U+000F] si elle revenait nous harceler.",
    "brut_en": "Is[SP]it[SP]okay[SP]to[SP]let[SP]this[SP]chica[SP]be?[SP]She[SP]didn't\nseem[SP]very[SP]sorry...[SP]I[SP]wouldn't[SP]be[SP]surprised\nif[SP]she[SP]came[SP]back[SP]to[SP]harass[SP]us[SP]again.",
    "data_size": 272,
    "budget": 264
@@ -127,25 +133,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle n'a jamais dû avoir d'adultes responsables"
+       "t": "Elle n'a jamais dû avoir d'adultes"
       },
       {
        "nl": true
       },
       {
-       "t": "pour jouer avec..."
+       "t": "responsables pour jouer avec..."
       },
       {
        "pause": true
       },
       {
-       "t": " Ne paniquez pas! Si jamais"
+       "t": " Ne paniquez"
       },
       {
        "nl": true
       },
       {
-       "t": "ça arrive, j'assumerais."
+       "t": "pas! Si "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " jamais ça arrive, j'assumerais."
       }
      ]
     }
@@ -180,7 +192,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle n'a jamais dû avoir d'adultes responsables\npour jouer avec...[1205][001E] Ne paniquez pas! Si jamais\nça arrive, j'assumerais.",
+   "brut_fr": "Elle n'a jamais dû avoir d'adultes\nresponsables pour jouer avec...[1205][001E] Ne paniquez\npas! Si [1205][U+000F] jamais ça arrive, j'assumerais.",
    "brut_en": "She[SP]must[SP]never[SP]have[SP]had[SP]any[SP]proper[SP]adults\nplay[SP]with[SP]her...[1205][001E][SP]Don't[SP]worry![SP]If[SP]that[SP]ever\nhappens,[SP]I[SP]take[SP]full[SP]responsibility.",
    "data_size": 266,
    "budget": 258
@@ -194,13 +206,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Salut, Yukino? Tu as trouvé la deuxième"
+       "t": "Salut, Yukino? Tu as"
       },
       {
        "nl": true
       },
       {
-       "t": "énigme?"
+       "t": "trouvé la deuxième énigme?"
       }
      ]
     }
@@ -223,7 +235,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Salut, Yukino? Tu as trouvé la deuxième\nénigme?",
+   "brut_fr": "Salut, Yukino? Tu as\ntrouvé la deuxième énigme?",
    "brut_en": "Hello,[SP]Yukino?[SP]Did[SP]you[SP]find[SP]the[SP]second\nriddle?",
    "data_size": 130,
    "budget": 122
@@ -237,13 +249,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est toi, Eriko? Nous l'avons."
+       "t": "C'est toi, Eriko? Nous"
       },
       {
        "nl": true
       },
       {
-       "t": "Celle-ci dit..."
+       "t": "l'avons. Celle-ci dit..."
       }
      ]
     }
@@ -266,7 +278,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est toi, Eriko? Nous l'avons.\nCelle-ci dit...",
+   "brut_fr": "C'est toi, Eriko? Nous\nl'avons. Celle-ci dit...",
    "brut_en": "That[SP]you,[SP]Eriko?[SP]Yeah,[SP]we[SP]got[SP]it.\nThis[SP]one[SP]says...",
    "data_size": 126,
    "budget": 118
@@ -280,19 +292,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "12 bêtes couronnent le Pléiade"
+       "t": "12 bêtes couronnent le Pléiade Quand"
       },
       {
        "nl": true
       },
       {
-       "t": "Quand jaillit la mort et la renaissance"
+       "t": "jaillit la mort et la renaissance Le chemin"
       },
       {
        "nl": true
       },
       {
-       "t": "Le chemin d'El Dorado s'ouvre depuis cap du rêve"
+       "t": "d'El Dorado s'ouvre depuis cap "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " du rêve"
       }
      ]
     }
@@ -321,7 +339,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "12 bêtes couronnent le Pléiade\nQuand jaillit la mort et la renaissance\nLe chemin d'El Dorado s'ouvre depuis cap du rêve",
+   "brut_fr": "12 bêtes couronnent le Pléiade Quand\njaillit la mort et la renaissance Le chemin\nd'El Dorado s'ouvre depuis cap [1205][U+000F] du rêve",
    "brut_en": "Twelve[SP]beasts[SP]crown[SP]the[SP]Pleiades\nWhen[SP]the[SP]spring[SP]of[SP]death[SP]and[SP]rebirth[SP]gushes\nThe[SP]way[SP]to[SP]El[SP]Dorado[SP]opens[SP]from[SP]dream's[SP]cape",
    "data_size": 266,
    "budget": 258
@@ -335,13 +353,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hmm... La première ligne est la même,"
+       "t": "Hmm... La première ligne est la même, ainsi"
       },
       {
        "nl": true
       },
       {
-       "t": "ainsi la question est le reste de l'énigme."
+       "t": "la question est le reste de l'énigme."
       }
      ]
     }
@@ -364,7 +382,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hmm... La première ligne est la même,\nainsi la question est le reste de l'énigme.",
+   "brut_fr": "Hmm... La première ligne est la même, ainsi\nla question est le reste de l'énigme.",
    "brut_en": "Hmm...[SP]The[SP]first[SP]line[SP]is[SP]the[SP]same[SP]as[SP]before,\nso[SP]the[SP]only[SP]question[SP]is[SP]the[SP]rest[SP]of[SP]it.",
    "data_size": 206,
    "budget": 198
@@ -378,19 +396,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "En suivant la même logique, le signe"
+       "t": "En suivant la même logique, le signe de l'eau"
       },
       {
        "nl": true
       },
       {
-       "t": "de l'eau qui préside à la mort et à la"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "renaissance..."
+       "t": "qui préside à la mort et à la renaissance..."
       }
      ]
     }
@@ -419,7 +431,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En suivant la même logique, le signe\nde l'eau qui préside à la mort et à la\nrenaissance...",
+   "brut_fr": "En suivant la même logique, le signe de l'eau\nqui préside à la mort et à la renaissance...",
    "brut_en": "Going[SP]by[SP]the[SP]same[SP]logic[SP]as[SP]before,[SP]the[SP]sign\nof[SP]water[SP]that[SP]presides[SP]over[SP]death[SP]and\nrebirth...",
    "data_size": 222,
    "budget": 214
@@ -440,6 +452,9 @@
       },
       {
        "t": "nord-nord-est depuis le lycée de Septs Sœurs,"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -474,7 +489,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce serait le Scorpion. Du coup, cap au\nnord-nord-est depuis le lycée de Septs Sœurs,\nainsi la prochaine cible est Yumezaki!",
+   "brut_fr": "Ce serait le Scorpion. Du coup, cap au\nnord-nord-est depuis le lycée de Septs Sœurs,[1205][U+000F]\nainsi la prochaine cible est Yumezaki!",
    "brut_en": "That[SP]would[SP]be[SP]Scorpio.[SP]In[SP]other[SP]words,[SP]head\nnorth[SP]by[SP]northeast[SP]from[SP]Seven[SP]Sisters[SP]High,\nso[SP]the[SP]next[SP]target[SP]is[SP]in[SP]Yumezaki!",
    "data_size": 282,
    "budget": 274
@@ -531,13 +546,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le chemin vers El Dorado depuis"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": " cap du rêve..."
+       "t": "Le chemin vers El Dorado depuis cap du rêve..."
       }
      ]
     }
@@ -560,7 +569,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le chemin vers El Dorado depuis\n cap du rêve...",
+   "brut_fr": "Le chemin vers El Dorado depuis cap du rêve...",
    "brut_en": "The[SP]way[SP]to[SP]El[SP]Dorado[SP]opens[SP]from\ndream's[SP]cape...",
    "data_size": 116,
    "budget": 108
@@ -574,25 +583,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "El Dorado, hein? Cela se traduit par "
-      },
-      {
-       "enc": "le"
+       "t": "El Dorado, hein? Cela se traduit"
       },
       {
        "nl": true
       },
       {
-       "enc": "doré"
+       "t": "par "
       },
       {
-       "t": "... Y'a un endroit à Yumezaki avec"
+       "enc": "le doré"
+      },
+      {
+       "t": "... Y'a un endroit à"
       },
       {
        "nl": true
       },
       {
-       "t": "un nom comme ça ?"
+       "t": "Yumezaki avec un nom comme ça?"
       }
      ]
     }
@@ -627,7 +636,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "El Dorado, hein? Cela se traduit par [1432][NULL][NULL][0014]le\ndoré[1432][NULL][NULL][0014]... Y'a un endroit à Yumezaki avec\nun nom comme ça ?",
+   "brut_fr": "El Dorado, hein? Cela se traduit\npar [1432][NULL][NULL][0014]le doré[1432][NULL][NULL][0014]... Y'a un endroit à\nYumezaki avec un nom comme ça?",
    "brut_en": "El[SP]Dorado,[SP]huh?[SP]It[SP]translates[SP]to[SP][1432][NULL][NULL][0014]golden\none[1432][NULL][NULL][0014]...[SP]Is[SP]there[SP]anywhere[SP]in[SP]Yumezaki[SP]with\na[SP]name[SP]like[SP]that?",
    "data_size": 236,
    "budget": 228

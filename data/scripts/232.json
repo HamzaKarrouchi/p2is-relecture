@@ -102,13 +102,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien dit! Dans aucun monde je pars"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "comme ça!"
+       "t": "Bien dit! Dans aucun monde je pars comme ça!"
       }
      ]
     }
@@ -131,7 +125,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien dit! Dans aucun monde je pars\ncomme ça!",
+   "brut_fr": "Bien dit! Dans aucun monde je pars comme ça!",
    "brut_en": "Damn[SP]straight![SP]There's[SP]no[SP]way[SP]in[SP]hell[SP]I'm\ngoing[SP]out[SP]like[SP]that!",
    "data_size": 152,
    "budget": 144
@@ -145,19 +139,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je m'en occupe avec Ginko! Si la futur plus grande"
+       "t": "Je m'en occupe avec Ginko! Si la futur plus"
       },
       {
        "nl": true
       },
       {
-       "t": " star de la musique venait à crever ici, mes fans"
+       "t": "grande star de la musique venait à crever"
       },
       {
        "nl": true
       },
       {
-       "t": "ne s'en remettront jamais!"
+       "t": "ici, "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " mes fans ne s'en remettront jamais!"
       }
      ]
     }
@@ -186,7 +186,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'en occupe avec Ginko! Si la futur plus grande\n star de la musique venait à crever ici, mes fans\nne s'en remettront jamais!",
+   "brut_fr": "Je m'en occupe avec Ginko! Si la futur plus\ngrande star de la musique venait à crever\nici, [1205][U+000F] mes fans ne s'en remettront jamais!",
    "brut_en": "I'm[SP]with[SP]Ginko[SP]on[SP]this[SP]one![SP]If[SP]the[SP]future's\ngreatest[SP]musician[SP]kicked[SP]the[SP]bucket[SP]here,[SP]my\nfans[SP]around[SP]the[SP]world[SP]would[SP]be[SP]crushed!",
    "data_size": 284,
    "budget": 276

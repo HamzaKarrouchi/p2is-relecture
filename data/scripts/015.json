@@ -10,25 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'avais entendu la rumeur sur ce salon"
+       "t": "J'avais entendu la rumeur sur ce"
       },
       {
        "nl": true
       },
       {
-       "t": "secret,aussi..."
+       "t": "salon secret, aussi..."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais le voir en vrai,"
+       "t": " Mais le"
       },
       {
        "nl": true
       },
       {
-       "t": "c'est assez bizarre."
+       "t": "voir en vrai, c'est assez bizarre."
       }
      ]
     }
@@ -63,7 +63,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'avais entendu la rumeur sur ce salon\nsecret,aussi...[1205][001E] Mais le voir en vrai,\nc'est assez bizarre.",
+   "brut_fr": "J'avais entendu la rumeur sur ce\nsalon secret, aussi...[1205][001E] Mais le\nvoir en vrai, c'est assez bizarre.",
    "brut_en": "I'd[SP]heard[SP]the[SP]rumor[SP]about[SP]this[SP]secret\nlounge,[SP]too...[1205][001E][SP]But[SP]actually[SP]seeing[SP]it\nfor[SP]myself[SP]is[SP]kinda[SP]weird.",
    "data_size": 232,
    "budget": 224
@@ -77,19 +77,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Avant, je venais ici autant qu'au"
+       "t": "Avant, je venais ici autant qu'au lycée."
       },
       {
        "nl": true
       },
       {
-       "t": "lycée."
+       "t": "Quand la ville est elle devenue "
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Quand la ville est elle devenue pourrie...?"
+       "t": " pourrie...?"
       }
      ]
     }
@@ -118,7 +118,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Avant, je venais ici autant qu'au\nlycée.\nQuand la ville est elle devenue pourrie...?",
+   "brut_fr": "Avant, je venais ici autant qu'au lycée.\nQuand la ville est elle devenue [1205][U+000F] pourrie...?",
    "brut_en": "I[SP]used[SP]to[SP]come[SP]here[SP]about[SP]as[SP]often[SP]as[SP]I\ncame[SP]to[SP]school.[SP]When[SP]did[SP]this[SP]city[SP]get\nso[SP]messed[SP]up...?",
    "data_size": 214,
    "budget": 206
@@ -132,10 +132,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un rassemblement? Qui les a convoques ici?"
+       "t": "Un rassemblement? Qui les a"
       },
       {
        "nl": true
+      },
+      {
+       "t": "convoques ici? "
       },
       {
        "pause": true
@@ -176,7 +179,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un rassemblement? Qui les a convoques ici?\n[1205][001E] Ça sent mauvais.",
+   "brut_fr": "Un rassemblement? Qui les a\nconvoques ici? [1205][001E] Ça sent mauvais.",
    "brut_en": "A[SP]gathering...?[SP]I[SP]wonder[SP]what[SP]that's\nabout.[SP]It[SP]seems[SP]like[SP]someone[SP]summoned[SP]them\nhere...[1205][001E][SP]I[SP]don't[SP]like[SP]the[SP]sound[SP]of[SP]this.",
    "data_size": 264,
    "budget": 256
@@ -190,7 +193,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Eikichi n'est pas là non plus. Si on tarde, il va avoir des ennuis?"
+       "t": "Eikichi n'est pas là non plus. Si"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "on tarde, il va avoir des ennuis?"
       }
      ]
     }
@@ -213,7 +222,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eikichi n'est pas là non plus. Si on tarde, il va avoir des ennuis?",
+   "brut_fr": "Eikichi n'est pas là non plus. Si\non tarde, il va avoir des ennuis?",
    "brut_en": "Eikichi's[SP]not[SP]here[SP]either.[SP]Won't[SP]he[SP]be[SP]in\ntrouble[SP]if[SP]we[SP]don't[SP]hurry[SP]and[SP]go[SP]after[SP]him?",
    "data_size": 196,
    "budget": 188
@@ -325,13 +334,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Moi aussi, une convocation dans mon sac"
+       "t": "Moi aussi, une convocation dans mon"
       },
       {
        "nl": true
       },
       {
-       "t": "hier. On me suit peut-etre?"
+       "t": "sac hier. On me suit peut-etre?"
       }
      ]
     }
@@ -354,7 +363,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Moi aussi, une convocation dans mon sac\nhier. On me suit peut-etre?",
+   "brut_fr": "Moi aussi, une convocation dans mon\nsac hier. On me suit peut-etre?",
    "brut_en": "I[SP]totally[SP]had[SP]a[SP]summons[SP]in[SP]my[SP]purse[SP]too,\nyesterday?[SP]I[SP]was[SP]like,[SP]is[SP]someone[SP]stalking[SP]me?",
    "data_size": 212,
    "budget": 204

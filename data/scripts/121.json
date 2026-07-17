@@ -16,13 +16,7 @@
        "pause": true
       },
       {
-       "t": " Où"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "est Shunsuke!?"
+       "t": " Où est Shunsuke!?"
       }
      ]
     }
@@ -45,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Excusez-moi! Hum...[1205][001E] Où\nest Shunsuke!?",
+   "brut_fr": "Excusez-moi! Hum...[1205][001E] Où est Shunsuke!?",
    "brut_en": "Excuse[SP]me![SP]Um...[1205][001E][SP]Where[SP]is[SP]Shunsuke-san!?",
    "data_size": 108,
    "budget": 100
@@ -108,13 +102,13 @@
        "pause": true
       },
       {
-       "t": " Pourquoi son instinct"
+       "t": " Pourquoi son instinct de"
       },
       {
        "nl": true
       },
       {
-       "t": "de photographe agit MAINTENANT!?"
+       "t": "photographe agit MAINTENANT!?"
       }
      ]
     }
@@ -143,7 +137,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non...[1205][001E] Pourquoi son instinct\nde photographe agit MAINTENANT!?",
+   "brut_fr": "Non...[1205][001E] Pourquoi son instinct de\nphotographe agit MAINTENANT!?",
    "brut_en": "No...[1205][001E][SP]Why'd[SP]he[SP]let[SP]his[SP]photographer's[SP]instinct\ntake[SP]over[SP]NOW!?",
    "data_size": 154,
    "budget": 146
@@ -188,13 +182,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "En auriez-vous été"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "capable?"
+       "t": "En auriez-vous été capable?"
       }
      ]
     }
@@ -211,7 +199,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En auriez-vous été\ncapable?",
+   "brut_fr": "En auriez-vous été capable?",
    "brut_en": "Would[SP]you[SP]have[SP]been[SP]able[SP]to?",
    "data_size": 88,
    "budget": 80
@@ -225,7 +213,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...P-Pardon."
+       "t": "... P-Pardon."
       }
      ]
     }
@@ -242,7 +230,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...P-Pardon.",
+   "brut_fr": "... P-Pardon.",
    "brut_en": "...I-I'm[SP]sorry.",
    "data_size": 56,
    "budget": 48
@@ -256,13 +244,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Nul n'a le droit d'arrêter un"
+       "t": "Nul n'a le droit d'arrêter un brave"
       },
       {
        "nl": true
       },
       {
-       "t": "brave guerrier en quête de son rêve."
+       "t": "guerrier en quête de son rêve."
       }
      ]
     }
@@ -285,7 +273,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nul n'a le droit d'arrêter un\nbrave guerrier en quête de son rêve.",
+   "brut_fr": "Nul n'a le droit d'arrêter un brave\nguerrier en quête de son rêve.",
    "brut_en": "No[SP]one[SP]has[SP]the[SP]right[SP]to[SP]stop[SP]a[SP]brave\nwarrior[SP]questing[SP]for[SP]his[SP]dream.",
    "data_size": 168,
    "budget": 160
@@ -299,25 +287,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un rêve peut enrichir"
+       "t": "Un rêve peut enrichir ou détruire une"
       },
       {
        "nl": true
       },
       {
-       "t": "ou détruire une vie."
+       "t": "vie. L'humain a un karma"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "L'humain a un karma"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "si profond..."
+       "t": " si profond..."
       }
      ]
     }
@@ -346,7 +328,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un rêve peut enrichir\nou détruire une vie.\nL'humain a un karma\nsi profond...",
+   "brut_fr": "Un rêve peut enrichir ou détruire une\nvie. L'humain a un karma[1205][U+000F] si profond...",
    "brut_en": "A[SP]dream[SP]can[SP]enrich[SP]a[SP]man's[SP]life,[SP]or[SP]destroy\nit.[SP]Humans[SP]are[SP]indeed[SP]creatures[SP]with[SP]a[SP]deep-\nseated[SP]karma...",
    "data_size": 240,
    "budget": 232
@@ -360,13 +342,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Shunsuke a laissé ça"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pour vous."
+       "t": "Shunsuke a laissé ça pour vous."
       }
      ]
     }
@@ -383,7 +359,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Shunsuke a laissé ça\npour vous.",
+   "brut_fr": "Shunsuke a laissé ça pour vous.",
    "brut_en": "Shunsuke[SP]gave[SP]me[SP]something[SP]for[SP]you.",
    "data_size": 102,
    "budget": 94
@@ -397,13 +373,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'appareil de"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Shunsuke..."
+       "t": "L'appareil de Shunsuke..."
       }
      ]
     }
@@ -420,7 +390,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'appareil de\nShunsuke...",
+   "brut_fr": "L'appareil de Shunsuke...",
    "brut_en": "This[SP]is[SP]Shunsuke-san's[SP]best...",
    "data_size": 86,
    "budget": 78
@@ -489,19 +459,19 @@
        "nl": true
       },
       {
-       "t": "fond du cœur de devenir"
+       "t": "fond du cœur de devenir photographe,"
       },
       {
        "nl": true
       },
       {
-       "t": "photographe, il voulait que vous"
+       "t": "il voulait que vous"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "l'ayez..."
+       "t": " l'ayez..."
       }
      ]
     }
@@ -530,7 +500,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Que le jour où vous décideriez du\nfond du cœur de devenir\nphotographe, il voulait que vous\nl'ayez...",
+   "brut_fr": "Que le jour où vous décideriez du\nfond du cœur de devenir photographe,\nil voulait que vous[1205][U+000F] l'ayez...",
    "brut_en": "That[SP]when[SP]the[SP]day[SP]came[SP]that[SP]you[SP]decided[SP]from\nthe[SP]depths[SP]of[SP]your[SP]heart[SP]to[SP]strive[SP]to[SP]be[SP]a\nphotographer,[SP]he[SP]wanted[SP]you[SP]to[SP]have[SP]it...",
    "data_size": 290,
    "budget": 282
@@ -544,19 +514,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ainsi se transmettent"
+       "t": "Ainsi se transmettent les"
       },
       {
        "nl": true
       },
       {
-       "t": "les sentiments à"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "travers les âges."
+       "t": "sentiments à travers les âges."
       }
      ]
     }
@@ -579,7 +543,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ainsi se transmettent\nles sentiments à\ntravers les âges.",
+   "brut_fr": "Ainsi se transmettent les\nsentiments à travers les âges.",
    "brut_en": "That[SP]is[SP]how[SP]sentiments[SP]are[SP]passed[SP]down[SP]from\ngeneration[SP]to[SP]generation.",
    "data_size": 170,
    "budget": 162
@@ -593,25 +557,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Prenez-le. Si vous"
+       "t": "Prenez-le. Si vous vous en sentez"
       },
       {
        "nl": true
       },
       {
-       "t": "vous en sentez indigne,"
+       "t": "indigne, rendez-le-lui"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "rendez-le-lui"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "vous-même."
+       "t": " vous-même."
       }
      ]
     }
@@ -634,7 +592,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Prenez-le. Si vous\nvous en sentez indigne,\nrendez-le-lui\nvous-même.",
+   "brut_fr": "Prenez-le. Si vous vous en sentez\nindigne, rendez-le-lui[1205][U+000F] vous-même.",
    "brut_en": "Take[SP]it.[SP]If[SP]you[SP]feel[SP]unworthy[SP]of[SP]possessing[SP]it,\nthen[SP]you[SP]must[SP]return[SP]it[SP]to[SP]him[SP]yourself.",
    "data_size": 208,
    "budget": 200
@@ -648,13 +606,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci beaucoup. Vous nous avez"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "vraiment aidés!"
+       "t": "Merci beaucoup. Vous nous avez vraiment aidés!"
       }
      ]
     }
@@ -671,7 +623,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci beaucoup. Vous nous avez\nvraiment aidés!",
+   "brut_fr": "Merci beaucoup. Vous nous avez vraiment aidés!",
    "brut_en": "Thank[SP]you[SP]very[SP]much.[SP]You[SP]really[SP]helped[SP]us[SP]out!",
    "data_size": 114,
    "budget": 106

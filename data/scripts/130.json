@@ -84,25 +84,34 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça fait mal quand tes rêves sont brisés, non?"
-      },
-      {
-       "pause": true
+       "t": "Ça fait mal quand tes rêves sont brisés,"
       },
       {
        "nl": true
       },
       {
-       "t": "Quand tu ne sais plus pourquoi tu vis?"
+       "t": "non?"
       },
       {
        "pause": true
       },
       {
+       "t": " Quand tu ne sais plus pourquoi tu"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Alors tu n'as qu'à tout détruire."
+       "t": "vis?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Alors tu n'as qu'à tout détruire."
       }
      ]
     }
@@ -137,7 +146,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça fait mal quand tes rêves sont brisés, non?[1205][001E]\nQuand tu ne sais plus pourquoi tu vis?[1205][001E]\nAlors tu n'as qu'à tout détruire.",
+   "brut_fr": "Ça fait mal quand tes rêves sont brisés,\nnon?[1205][001E] Quand tu ne sais plus pourquoi tu\nvis?[1205][001E][1205][U+000F] Alors tu n'as qu'à tout détruire.",
    "brut_en": "Doesn't[SP]it[SP]hurt[SP]when[SP]your[SP]dreams[SP]are[SP]shattered?[1205][001E]\nWhen[SP]you[SP]don't[SP]know[SP]what[SP]you're[SP]living[SP]for?[1205][001E]\nThen[SP]all[SP]you[SP]have[SP]to[SP]do[SP]is[SP]destroy[SP]everything.",
    "data_size": 324,
    "budget": 316
@@ -151,13 +160,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Kehhei! Dis pas ça avec la tête"
+       "t": "Kehhei! Dis pas ça avec la"
       },
       {
        "nl": true
       },
       {
-       "t": "de Yukino! Elle--!"
+       "t": "tête de Yukino! Elle--!"
       }
      ]
     }
@@ -180,7 +189,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Kehhei! Dis pas ça avec la tête\nde Yukino! Elle--!",
+   "brut_fr": "Kehhei! Dis pas ça avec la\ntête de Yukino! Elle--!",
    "brut_en": "Kehhei![SP]Don't[SP]say[SP]that[SP]crap[SP]with[SP]Yukino-san's\nface![SP]She's--!",
    "data_size": 144,
    "budget": 136
@@ -264,16 +273,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Je m'amuserai, au diable"
+       "t": " Je"
       },
       {
        "nl": true
       },
       {
-       "t": "les conséquences!"
+       "t": "m'amuserai, au diable les conséquences!"
       }
      ]
     }
@@ -305,7 +311,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne vivrai pas comme Fujii.[1205][001E]\nJe m'amuserai, au diable\nles conséquences!",
+   "brut_fr": "Je ne vivrai pas comme Fujii.[1205][001E] Je\nm'amuserai, au diable les conséquences!",
    "brut_en": "I'm[SP]not[SP]going[SP]to[SP]live[SP]like[SP]Fujii[SP]did.[1205][001E]\nI'll[SP]have[SP]all[SP]the[SP]fun[SP]I[SP]want,[SP]and[SP]damn[SP]the\nconsequences!",
    "data_size": 232,
    "budget": 224
@@ -319,13 +325,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu viens de dire quoi!? Retire ça!"
+       "t": "Tu viens de dire quoi!? Retire"
       },
       {
        "nl": true
       },
       {
-       "t": "Impossible que tu sois Yukki!"
+       "t": "ça! Impossible que tu sois Yukki!"
       }
      ]
     }
@@ -348,7 +354,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu viens de dire quoi!? Retire ça!\nImpossible que tu sois Yukki!",
+   "brut_fr": "Tu viens de dire quoi!? Retire\nça! Impossible que tu sois Yukki!",
    "brut_en": "What[SP]did[SP]you[SP]just[SP]say!?[SP]Take[SP]that[SP]back!\nThere's[SP]absolutely[SP]no[SP]way[SP]you're[SP]Yukki!",
    "data_size": 180,
    "budget": 172
@@ -362,13 +368,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Anna! Viens vers nous!"
+       "t": "Anna! Viens vers nous! La"
       },
       {
        "nl": true
       },
       {
-       "t": "La vraie Yukki attend dehors!"
+       "t": "vraie Yukki attend dehors!"
       }
      ]
     }
@@ -391,7 +397,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Anna! Viens vers nous!\nLa vraie Yukki attend dehors!",
+   "brut_fr": "Anna! Viens vers nous! La\nvraie Yukki attend dehors!",
    "brut_en": "Anna-san![SP]Come[SP]over[SP]to[SP]us![SP]The[SP]real[SP]Yukki\nis[SP]waiting[SP]outside!",
    "data_size": 144,
    "budget": 136

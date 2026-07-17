@@ -59,16 +59,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Effectivement...On a bien quatre des os, mais"
+       "t": "Effectivement... On a bien quatre des"
       },
       {
        "nl": true
       },
       {
-       "t": "celui que le Führer tient a pas mal "
+       "t": "os, mais celui que le Führer tient a"
       },
       {
        "nl": true
+      },
+      {
+       "t": "pas mal "
+      },
+      {
+       "pause": true
       },
       {
        "t": " d'Énergie Idéale storé en lui."
@@ -100,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Effectivement...On a bien quatre des os, mais\ncelui que le Führer tient a pas mal \n d'Énergie Idéale storé en lui.",
+   "brut_fr": "Effectivement... On a bien quatre des\nos, mais celui que le Führer tient a\npas mal [1205][U+000F] d'Énergie Idéale storé en lui.",
    "brut_en": "Indeed...[SP]We[SP]do[SP]have[SP]four[SP]of[SP]the[SP]skulls,[SP]but\nthe[SP]one[SP]the[SP]Fuhrer[SP]holds[SP]has[SP]quite[SP]a[SP]lot[SP]of\nIdeal[SP]Energy[SP]stored[SP]within[SP]it.",
    "data_size": 258,
    "budget": 250
@@ -114,13 +120,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "S'il réveille les habitants de Xibalba, ca"
+       "t": "S'il réveille les habitants de"
       },
       {
        "nl": true
       },
       {
-       "t": "sera un gros problème..."
+       "t": "Xibalba, ca sera un gros problème..."
       }
      ]
     }
@@ -143,7 +149,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "S'il réveille les habitants de Xibalba, ca\nsera un gros problème...",
+   "brut_fr": "S'il réveille les habitants de\nXibalba, ca sera un gros problème...",
    "brut_en": "If[SP]he[SP]awakens[SP]Xibalba's[SP]inhabitants,[SP]it[SP]would\nbe[SP]a[SP]serious[SP]problem...",
    "data_size": 158,
    "budget": 150
@@ -163,13 +169,13 @@
        "pause": true
       },
       {
-       "t": " Vous en pensez quoi? On est"
+       "t": " Vous en pensez quoi?"
       },
       {
        "nl": true
       },
       {
-       "t": "proches du but ou pas?"
+       "t": "On est proches du but ou pas?"
       }
      ]
     }
@@ -198,7 +204,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hmm...[1205][001E] Vous en pensez quoi? On est\nproches du but ou pas?",
+   "brut_fr": "Hmm...[1205][001E] Vous en pensez quoi?\nOn est proches du but ou pas?",
    "brut_en": "Hmm...[1205][001E][SP]What[SP]do[SP]you[SP]guys[SP]think?[SP]Are[SP]we\nclose[SP]to[SP]the[SP]goal[SP]or[SP]not?",
    "data_size": 152,
    "budget": 144
@@ -218,19 +224,19 @@
        "pause": true
       },
       {
-       "t": " Vu le temps qu'on a mis pour"
+       "t": " Vu le temps qu'on a mis pour arriver"
       },
       {
        "nl": true
       },
       {
-       "t": "arriver ici, je pense qu'ils sont beacoup"
+       "t": "ici, je pense qu'ils sont beacoup plus"
       },
       {
        "nl": true
       },
       {
-       "t": "plus devant... "
+       "t": "devant..."
       }
      ]
     }
@@ -265,7 +271,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm...[1205][001E] Vu le temps qu'on a mis pour\narriver ici, je pense qu'ils sont beacoup\nplus devant... ",
+   "brut_fr": "Hm...[1205][001E] Vu le temps qu'on a mis pour arriver\nici, je pense qu'ils sont beacoup plus\ndevant...",
    "brut_en": "Hm...?[1205][001E][SP]Well,[SP]given[SP]how[SP]long[SP]it[SP]took[SP]us[SP]to\nmake[SP]it[SP]this[SP]far,[SP]I[SP]assume[SP]they're[SP]much\nfurther[SP]ahead...",
    "data_size": 220,
    "budget": 212
@@ -285,13 +291,13 @@
        "pause": true
       },
       {
-       "t": " J'aimerais juste qu'ils"
+       "t": " J'aimerais juste"
       },
       {
        "nl": true
       },
       {
-       "t": "se dépêchent de se montrer..."
+       "t": "qu'ils se dépêchent de se montrer..."
       }
      ]
     }
@@ -320,7 +326,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'en fiche...[1205][001E] J'aimerais juste qu'ils\nse dépêchent de se montrer...",
+   "brut_fr": "Je m'en fiche...[1205][001E] J'aimerais juste\nqu'ils se dépêchent de se montrer...",
    "brut_en": "I[SP]don't[SP]really[SP]care...[1205][001E][SP]I[SP]just[SP]wish[SP]they'd\nhurry[SP]and[SP]show[SP]their[SP]faces...",
    "data_size": 170,
    "budget": 162
@@ -340,13 +346,13 @@
        "pause": true
       },
       {
-       "t": " On devrait bientôt"
+       "t": " On devrait"
       },
       {
        "nl": true
       },
       {
-       "t": "les rattraper pas vrai?"
+       "t": "bientôt les rattraper pas vrai?"
       }
      ]
     }
@@ -375,7 +381,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Uhhh, je sais pas, mais...[1205][001E] On devrait bientôt\nles rattraper pas vrai?",
+   "brut_fr": "Uhhh, je sais pas, mais...[1205][001E] On devrait\nbientôt les rattraper pas vrai?",
    "brut_en": "Uhhh,[SP]hard[SP]to[SP]say,[SP]but...[1205][001E][SP]We[SP]must[SP]be[SP]almost\ncaught[SP]up[SP]with[SP]them[SP]by[SP]now,[SP]right?",
    "data_size": 188,
    "budget": 180
@@ -529,13 +535,13 @@
        "pause": true
       },
       {
-       "t": " Je vais supposer qu'ils ne sont"
+       "t": " Je vais supposer"
       },
       {
        "nl": true
       },
       {
-       "t": "pas très loin."
+       "t": "qu'ils ne sont pas très loin."
       }
      ]
     }
@@ -564,7 +570,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dans ce cas...[1205][001E] Je vais supposer qu'ils ne sont\npas très loin.",
+   "brut_fr": "Dans ce cas...[1205][001E] Je vais supposer\nqu'ils ne sont pas très loin.",
    "brut_en": "In[SP]that[SP]case...[1205][001E][SP]I'm[SP]going[SP]to[SP]guess[SP]they're\njust[SP]around[SP]the[SP]corner.",
    "data_size": 158,
    "budget": 150
@@ -584,13 +590,13 @@
        "pause": true
       },
       {
-       "t": " De quoi tu parles, Maya-chan? T'agis"
+       "t": " De quoi tu parles,"
       },
       {
        "nl": true
       },
       {
-       "t": "bizarrement là."
+       "t": "Maya-chan? T'agis bizarrement là."
       }
      ]
     }
@@ -619,7 +625,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Huh?[1205][001E] De quoi tu parles, Maya-chan? T'agis\nbizarrement là.",
+   "brut_fr": "Huh?[1205][001E] De quoi tu parles,\nMaya-chan? T'agis bizarrement là.",
    "brut_en": "Huh?[1205][001E][SP]What's[SP]this[SP]about,[SP]Maya-chan?[SP]You're\nacting[SP]kinda[SP]weird[SP]here.",
    "data_size": 160,
    "budget": 152
@@ -639,10 +645,13 @@
        "pause": true
       },
       {
+       "t": " Ca pourrait"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Ca pourrait paraître un peu vague, mais..."
+       "t": "paraître un peu vague, mais..."
       }
      ]
     }
@@ -668,7 +677,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Patiente encore un peu...[1205][001E]\nCa pourrait paraître un peu vague, mais...",
+   "brut_fr": "Patiente encore un peu...[1205][001E] Ca pourrait\nparaître un peu vague, mais...",
    "brut_en": "Bear[SP]with[SP]me[SP]just[SP]a[SP]little[SP]longer...[1205][001E]\nUmm,[SP]so[SP]this[SP]might[SP]sound[SP]vague,[SP]but...",
    "data_size": 176,
    "budget": 168
@@ -755,10 +764,7 @@
        "pause": true
       },
       {
-       "t": " Avec qui t'es d'accord,"
-      },
-      {
-       "nl": true
+       "t": " Avec qui t'es d'accord, "
       },
       {
        "hero": "prenom"
@@ -796,7 +802,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Donc...[1205][001E] Avec qui t'es d'accord,\n[1113]-kun?",
+   "brut_fr": "Donc...[1205][001E] Avec qui t'es d'accord, [1113]-kun?",
    "brut_en": "Now...[1205][001E][SP]Whose[SP]guess[SP]do[SP]you[SP]agree[SP]with,\n[1113]-kun?",
    "data_size": 114,
    "budget": 106
@@ -840,7 +846,7 @@
    "choix_fr": {
     "options": [
      "Jun",
-     "Eikichi",
+     "Eikichi[1205]",
      "Maya",
      "Ginko"
     ],
@@ -875,7 +881,7 @@
      }
     ]
    },
-   "brut_fr": "Avec qui t'es d'accord, [1113]-kun?\n[1208][U+0004]Jun\nEikichi\nMaya\nGinko",
+   "brut_fr": "Avec qui t'es d'accord, [1113]-kun?\n[1208][U+0004]Jun\nEikichi[1205][U+000F]\nMaya\nGinko",
    "brut_en": "Whose[SP]guess[SP]do[SP]you[SP]agree[SP]with,[SP][1113]-kun?\n[1208][U+0004]Agree[SP]with[SP]Jun\nAgree[SP]with[SP]Eikichi\nAgree[SP]with[SP]Maya\nAgree[SP]with[SP]Ginko",
    "data_size": 234,
    "budget": 226
@@ -889,13 +895,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu penses qu'on a encore beaucoup de trajet"
+       "t": "Tu penses qu'on a encore beaucoup de"
       },
       {
        "nl": true
       },
       {
-       "t": "avant qu'on les rattrape aussi?"
+       "t": "trajet avant qu'on les rattrape aussi?"
       }
      ]
     }
@@ -918,7 +924,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu penses qu'on a encore beaucoup de trajet\navant qu'on les rattrape aussi?",
+   "brut_fr": "Tu penses qu'on a encore beaucoup de\ntrajet avant qu'on les rattrape aussi?",
    "brut_en": "Meaning[SP]you[SP]think[SP]that[SP]we[SP]still[SP]have[SP]a[SP]lot\nof[SP]ground[SP]to[SP]cover[SP]before[SP]we[SP]catch[SP]them[SP]too?",
    "data_size": 196,
    "budget": 188
@@ -932,13 +938,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Nos avis sont divisés, 2 contre 1 contre 1 contre 1."
+       "t": "Nos avis sont divisés, 2 contre 1 contre"
       },
       {
        "nl": true
       },
       {
-       "t": "Voyons ce qu'il se passe..."
+       "t": "1 contre 1. Voyons ce qu'il se passe..."
       }
      ]
     }
@@ -961,7 +967,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nos avis sont divisés, 2 contre 1 contre 1 contre 1.\nVoyons ce qu'il se passe...",
+   "brut_fr": "Nos avis sont divisés, 2 contre 1 contre\n1 contre 1. Voyons ce qu'il se passe...",
    "brut_en": "Our[SP]opinions[SP]are[SP]split[SP]now,[SP]2[SP]to[SP]1[SP]to[SP]1[SP]to[SP]1.\nCome[SP]on,[SP]let's[SP]see[SP]what[SP]happens...",
    "data_size": 182,
    "budget": 174
@@ -975,13 +981,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu penses qu'on a encore beaucoup de trajet"
+       "t": "Tu penses qu'on a encore beaucoup de"
       },
       {
        "nl": true
       },
       {
-       "t": "avant qu'on les rattrape aussi?"
+       "t": "trajet avant qu'on les rattrape aussi?"
       }
      ]
     }
@@ -1004,7 +1010,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu penses qu'on a encore beaucoup de trajet\navant qu'on les rattrape aussi?",
+   "brut_fr": "Tu penses qu'on a encore beaucoup de\ntrajet avant qu'on les rattrape aussi?",
    "brut_en": "Meaning[SP]you[SP]think[SP]there's[SP]still[SP]a[SP]little[SP]way\nto[SP]go[SP]before[SP]we[SP]catch[SP]them[SP]too?",
    "data_size": 174,
    "budget": 166
@@ -1018,13 +1024,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Nos avis sont divisés, 2 contre 1 contre 1 contre 1."
+       "t": "Nos avis sont divisés, 2 contre 1 contre"
       },
       {
        "nl": true
       },
       {
-       "t": "Voyons ce qu'il se passe..."
+       "t": "1 contre 1. Voyons ce qu'il se passe..."
       }
      ]
     }
@@ -1047,7 +1053,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nos avis sont divisés, 2 contre 1 contre 1 contre 1.\nVoyons ce qu'il se passe...",
+   "brut_fr": "Nos avis sont divisés, 2 contre 1 contre\n1 contre 1. Voyons ce qu'il se passe...",
    "brut_en": "Our[SP]opinions[SP]are[SP]split[SP]now,[SP]2[SP]to[SP]1[SP]to[SP]1[SP]to[SP]1.\nCome[SP]on,[SP]let's[SP]see[SP]what[SP]happens...",
    "data_size": 182,
    "budget": 174
@@ -1098,13 +1104,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Nos avis sont divisés, 2 contre 1 contre 1 contre 1."
+       "t": "Nos avis sont divisés, 2 contre 1 contre"
       },
       {
        "nl": true
       },
       {
-       "t": "Voyons ce qu'il se passe..."
+       "t": "1 contre 1. Voyons ce qu'il se passe..."
       }
      ]
     }
@@ -1127,7 +1133,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nos avis sont divisés, 2 contre 1 contre 1 contre 1.\nVoyons ce qu'il se passe...",
+   "brut_fr": "Nos avis sont divisés, 2 contre 1 contre\n1 contre 1. Voyons ce qu'il se passe...",
    "brut_en": "Our[SP]opinions[SP]are[SP]split[SP]now,[SP]2[SP]to[SP]1[SP]to[SP]1[SP]to[SP]1.\nCome[SP]on,[SP]let's[SP]see[SP]what[SP]happens...",
    "data_size": 182,
    "budget": 174
@@ -1184,19 +1190,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "On n'est pas d'accord, 2 contre 1 contre 1 contre 1,"
+       "t": "On n'est pas d'accord, 2 contre"
       },
       {
        "nl": true
       },
       {
-       "t": "mais..."
+       "t": "1 contre 1 contre 1, mais..."
       },
       {
        "pause": true
       },
       {
-       "t": " Ca va finir comment?"
+       "t": " Ca"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "va finir comment?"
       },
       {
        "pause": true
@@ -1243,7 +1255,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On n'est pas d'accord, 2 contre 1 contre 1 contre 1,\nmais...[1205][001E] Ca va finir comment?[1205][001E] Bon, on y va.",
+   "brut_fr": "On n'est pas d'accord, 2 contre\n1 contre 1 contre 1, mais...[1205][001E] Ca\nva finir comment?[1205][001E] Bon, on y va.",
    "brut_en": "Our[SP]opinions[SP]are[SP]split[SP]now,[SP]2[SP]to[SP]1[SP]to[SP]1[SP]to[SP]1,\nbut...[1205][001E][SP]How[SP]will[SP]this[SP]play[SP]out...?[1205][001E][SP]Anyways,\nlet's[SP]go.",
    "data_size": 226,
    "budget": 218
@@ -1257,13 +1269,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quel intérêt? Nos opinions ne vont pas devenir"
+       "t": "Quel intérêt? Nos opinions"
       },
       {
        "nl": true
       },
       {
-       "t": " réels."
+       "t": "ne vont pas devenir réels."
       }
      ]
     }
@@ -1286,7 +1298,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quel intérêt? Nos opinions ne vont pas devenir\n réels.",
+   "brut_fr": "Quel intérêt? Nos opinions\nne vont pas devenir réels.",
    "brut_en": "Is[SP]there[SP]a[SP]point[SP]to[SP]this?[SP]It's[SP]not[SP]like\nour[SP]opinion[SP]is[SP]going[SP]to[SP]come[SP]true.",
    "data_size": 172,
    "budget": 164
@@ -1303,22 +1315,28 @@
        "t": "Je me dis, "
       },
       {
-       "enc": "si seulement la prochaine pièce soit"
+       "enc": "si seulement la prochaine"
       },
       {
        "nl": true
       },
       {
-       "enc": "une douche!"
+       "enc": "pièce soit une douche!"
       },
       {
-       "t": " Mais ça marche pas."
+       "t": " Mais ça marche"
       },
       {
        "nl": true
       },
       {
-       "t": "Argh... Je veux me doucher!"
+       "t": "pas."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Argh... Je veux me doucher!"
       }
      ]
     }
@@ -1353,7 +1371,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me dis, [1432][NULL][NULL][0014]si seulement la prochaine pièce soit\nune douche![1432][NULL][NULL][0014] Mais ça marche pas.\nArgh... Je veux me doucher!",
+   "brut_fr": "Je me dis, [1432][NULL][NULL][0014]si seulement la prochaine\npièce soit une douche![1432][NULL][NULL][0014] Mais ça marche\npas.[1205][U+000F] Argh... Je veux me doucher!",
    "brut_en": "I[SP]keep[SP]thinking,[SP][1432][NULL][NULL][0014]I[SP]wish[SP]the[SP]next[SP]room[SP]was\na[SP]shower[SP]stall![1432][NULL][NULL][0014][SP]But[SP]it[SP]doesn't[SP]work.\nArrrgh...[SP]I[SP]wanna[SP]get[SP]cleaned[SP]up!",
    "data_size": 264,
    "budget": 256
@@ -1373,13 +1391,19 @@
        "pause": true
       },
       {
-       "t": " Je suis sûre que notre"
+       "t": " Je suis sûre"
       },
       {
        "nl": true
       },
       {
-       "t": "trajet va se dérouler comme "
+       "t": "que notre trajet va se dérouler"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "comme "
       },
       {
        "hero": "prenom"
@@ -1426,7 +1450,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je sais pas trop...[1205][001E] Je suis sûre que notre\ntrajet va se dérouler comme [1113]-kun l'a dit...",
+   "brut_fr": "Je sais pas trop...[1205][001E] Je suis sûre\nque notre trajet va se dérouler\ncomme [1113]-kun l'a dit...",
    "brut_en": "Well,[SP]I[SP]don't[SP]know[SP]about[SP]that...[1205][001E][SP]I'm[SP]pretty\nsure[SP]our[SP]journey[SP]from[SP]here[SP]on[SP]will[SP]turn[SP]out\nthe[SP]way[SP][1113]-kun[SP]agreed[SP]with...",
    "data_size": 258,
    "budget": 250
@@ -1440,13 +1464,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Selon In Lak'ech, Xibalba dans la mythologie Maya,"
+       "t": "Selon In Lak'ech, Xibalba dans la"
       },
       {
        "nl": true
       },
       {
-       "t": "aurait neuf couches. Est-ce que cet endroit serait similaire?"
+       "t": "mythologie Maya, aurait neuf couches."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Est-ce que cet "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " endroit serait similaire?"
       }
      ]
     }
@@ -1475,7 +1511,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Selon In Lak'ech, Xibalba dans la mythologie Maya,\naurait neuf couches. Est-ce que cet endroit serait similaire?",
+   "brut_fr": "Selon In Lak'ech, Xibalba dans la\nmythologie Maya, aurait neuf couches.\nEst-ce que cet [1205][U+000F] endroit serait similaire?",
    "brut_en": "I[SP]took[SP]a[SP]look[SP]at[SP]the[SP]In[SP]Lak'ech,[SP]and[SP]it[SP]said\nthat[SP]Xibalba[SP]in[SP]Mayan[SP]lore[SP]is[SP]composed[SP]of\nnine[SP]layers.[SP]Could[SP]this[SP]place[SP]be[SP]the[SP]same?",
    "data_size": 280,
    "budget": 272
@@ -1489,7 +1525,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bon, mes chats et chatons! Laissez les quiz au grand Michel!"
+       "t": "Bon, mes chats et chatons!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Laissez les quiz au grand Michel!"
       }
      ]
     }
@@ -1512,7 +1554,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon, mes chats et chatons! Laissez les quiz au grand Michel!",
+   "brut_fr": "Bon, mes chats et chatons!\nLaissez les quiz au grand Michel!",
    "brut_en": "Alright,[SP]cats[SP]and[SP]kittens![SP]Leave[SP]the[SP]quizzes\nto[SP]the[SP]great[SP]Michel!",
    "data_size": 158,
    "budget": 150
@@ -1526,13 +1568,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai été dans un championnat de Quiz Bowl, hein! Bon,"
+       "t": "J'ai été dans un championnat de Quiz"
       },
       {
        "nl": true
       },
       {
-       "t": "j'ai été disqualifié aux préliminaires, mais bon..."
+       "t": "Bowl, hein! Bon, j'ai été disqualifié"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aux préliminaires, "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " mais bon..."
       }
      ]
     }
@@ -1561,7 +1615,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai été dans un championnat de Quiz Bowl, hein! Bon,\nj'ai été disqualifié aux préliminaires, mais bon...",
+   "brut_fr": "J'ai été dans un championnat de Quiz\nBowl, hein! Bon, j'ai été disqualifié\naux préliminaires, [1205][U+000F] mais bon...",
    "brut_en": "I'll[SP]have[SP]you[SP]know[SP]I've[SP]been[SP]in[SP]a[SP]Quiz[SP]Bowl\nchampionship.[SP]Sure,[SP]I[SP]got[SP]disqualified[SP]in\nthe[SP]preliminary[SP]rounds,[SP]but...",
    "data_size": 260,
    "budget": 252
@@ -1575,13 +1629,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "En y pensant, de la Rivière Argentée jusqu'ici,"
+       "t": "En y pensant, de la Rivière Argentée"
       },
       {
        "nl": true
       },
       {
-       "t": "tout le pire s'est enchaîné.."
+       "t": "jusqu'ici, tout le pire s'est enchaîné.."
       }
      ]
     }
@@ -1610,7 +1664,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En y pensant, de la Rivière Argentée jusqu'ici,\ntout le pire s'est enchaîné..",
+   "brut_fr": "En y pensant, de la Rivière Argentée\njusqu'ici, tout le pire s'est enchaîné..",
    "brut_en": "Thinking[SP]back,[SP]from[SP]the[SP]Silver[SP]River[SP]to[SP]here,\neverything[SP]bad[SP]we[SP]imagined[SP]kept[SP]happening,\none[SP]after[SP]the[SP]next.",
    "data_size": 244,
    "budget": 236
@@ -1697,13 +1751,13 @@
        "pause": true
       },
       {
-       "t": " Mais penser ça, c'est juste"
+       "t": " Mais penser ça, c'est"
       },
       {
        "nl": true
       },
       {
-       "t": "vouloir fuir mes péchés..."
+       "t": "juste vouloir fuir mes péchés..."
       }
      ]
     }
@@ -1738,7 +1792,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si seulement tout ça n'était qu'un\ncauchemar.[1205][001E] Mais penser ça, c'est juste\nvouloir fuir mes péchés...",
+   "brut_fr": "Si seulement tout ça n'était qu'un\ncauchemar.[1205][001E] Mais penser ça, c'est\njuste vouloir fuir mes péchés...",
    "brut_en": "If[SP]only[SP]this[SP]were[SP]all[SP]a[SP]bad[SP]dream.[1205][001E][SP]But[SP]that\nline[SP]of[SP]thinking[SP]is[SP]just[SP]me[SP]wishing[SP]I[SP]could\nescape[SP]my[SP]sins...",
    "data_size": 234,
    "budget": 226

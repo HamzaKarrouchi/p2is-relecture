@@ -141,13 +141,13 @@
        "nl": true
       },
       {
-       "t": "Concentre-toi sur l'arrêt de ton père"
+       "t": "Concentre-toi sur l'arrêt de ton père et"
       },
       {
        "nl": true
       },
       {
-       "t": "et le retour à la normale de la ville!"
+       "t": "le retour à la normale de la ville!"
       }
      ]
     }
@@ -179,7 +179,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun-kun, ne te laisse pas déstabiliser...[1205][001E]\nConcentre-toi sur l'arrêt de ton père\net le retour à la normale de la ville!",
+   "brut_fr": "Jun-kun, ne te laisse pas déstabiliser...[1205][001E]\nConcentre-toi sur l'arrêt de ton père et\nle retour à la normale de la ville!",
    "brut_en": "Jun-kun,[SP]don't[SP]let[SP]them[SP]get[SP]under[SP]your[SP]skin...[1205][001E]\nYou[SP]need[SP]to[SP]focus[SP]on[SP]stopping[SP]your[SP]father\nand[SP]returning[SP]the[SP]city[SP]to[SP]normal!",
    "data_size": 270,
    "budget": 262
@@ -376,19 +376,19 @@
        "pause": true
       },
       {
-       "t": " Et les souvenirs"
+       "t": " Et les"
       },
       {
        "nl": true
       },
       {
-       "t": "de Jun sont encore un peu embrouillés."
+       "t": "souvenirs de Jun sont encore un"
       },
       {
        "nl": true
       },
       {
-       "t": "Tout va bien?"
+       "t": "peu embrouillés. Tout va bien?"
       }
      ]
     }
@@ -423,7 +423,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Maya agit bizarrement...[1205][001E] Et les souvenirs\nde Jun sont encore un peu embrouillés.\nTout va bien?",
+   "brut_fr": "Maya agit bizarrement...[1205][001E] Et les\nsouvenirs de Jun sont encore un\npeu embrouillés. Tout va bien?",
    "brut_en": "Maya-chan's[SP]acting[SP]strange...[1205][001E][SP]And[SP]Jun's\nmemories[SP]still[SP]seem[SP]a[SP]little[SP]mixed[SP]up.\nIs[SP]everything[SP]okay?",
    "data_size": 224,
    "budget": 216
@@ -449,42 +449,33 @@
        "nl": true
       },
       {
-       "t": "pourquoi Maya s'est disputée avec"
+       "t": "pourquoi Maya s'est disputée avec ce type"
       },
       {
        "nl": true
       },
       {
-       "t": "ce type en blanc sur qui était le plus fort."
+       "t": "en blanc sur qui était le plus "
       },
       {
-       "nl": true
+       "pause": true
+      },
+      {
+       "t": " fort. "
       }
      ]
     },
     {
-     "nom": "Maya",
+     "nom": "Maya[1205][U+000F] Oui, on va trouver le père de Jun. Tu",
      "seg": [
       {
-       "t": "Oui, on va trouver le père de Jun."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Tu le penses aussi, "
+       "t": "le penses aussi, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": "-kun?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "N'est-ce pas?"
+       "t": "-kun? N'est-ce pas?"
       }
      ]
     }
@@ -548,7 +539,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tout ce qu'on pense, ça arrive...[1205][001E] C'est\npourquoi Maya s'est disputée avec\nce type en blanc sur qui était le plus fort.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nOui, on va trouver le père de Jun.\nTu le penses aussi, [1113]-kun?\nN'est-ce pas?",
+   "brut_fr": "Tout ce qu'on pense, ça arrive...[1205][001E] C'est\npourquoi Maya s'est disputée avec ce type\nen blanc sur qui était le plus [1205][U+000F] fort. [E1][E2]\n[E3][E4][NULL][NULL]\"Maya[1205][U+000F] Oui, on va trouver le père de Jun. Tu\nle penses aussi, [1113]-kun? N'est-ce pas?",
    "brut_en": "Whatever[SP]you[SP]think[SP]of,[SP]happens...[1205][001E][SP]So[SP]that's\nwhy[SP]Maya-chan[SP]had[SP]the[SP]argument[SP]with[SP]that\nwhite[SP]suit[SP]about[SP]who[SP]was[SP]stronger.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nYes,[SP]we'll[SP]find[SP]Jun-kun's[SP]father[SP]next.\nYou[SP]think[SP]so[SP]too,[SP]right,[SP][1113]-kun?\nRight?",
    "data_size": 448,
    "budget": 440
@@ -562,7 +553,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pourquoi nos pensées deviennent réalité ?"
+       "t": "Pourquoi nos pensées deviennent réalité?"
       },
       {
        "pause": true
@@ -618,7 +609,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pourquoi nos pensées deviennent réalité ?[1205][001E]\nCe vaisseau vole grâce aux rumeurs...[1205][001E]\nMais les rumeurs ne le mentionnaient pas.",
+   "brut_fr": "Pourquoi nos pensées deviennent réalité?[1205][001E]\nCe vaisseau vole grâce aux rumeurs...[1205][001E]\nMais les rumeurs ne le mentionnaient pas.",
    "brut_en": "But[SP]why[SP]are[SP]our[SP]thoughts[SP]becoming[SP]reality?[1205][001E]\nThis[SP]ship[SP]became[SP]real[SP]and[SP]flies[SP]because[SP]of[SP]the\nrumors...[1205][001E][SP]But[SP]they[SP]didn't[SP]mention[SP]this.",
    "data_size": 288,
    "budget": 280
@@ -641,13 +632,13 @@
        "pause": true
       },
       {
-       "t": " Tu ne"
+       "t": " Tu ne sens"
       },
       {
        "nl": true
       },
       {
-       "t": "sens pas un bourdonnement...?"
+       "t": "pas un bourdonnement...?"
       }
      ]
     }
@@ -679,7 +670,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113]-kun...[1205][001E] Tu ne\nsens pas un bourdonnement...?",
+   "brut_fr": "[1113]-kun...[1205][001E] Tu ne sens\npas un bourdonnement...?",
    "brut_en": "[1113]-kun...[1205][001E][SP]Don't[SP]you[SP]feel[SP]something...\nbuzzing...?",
    "data_size": 122,
    "budget": 114
@@ -748,13 +739,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le secret de Xibalba, hein? Hmm..."
+       "t": "Le secret de Xibalba, hein? Hmm... Et"
       },
       {
        "nl": true
       },
       {
-       "t": "Et si tout ça n'était qu'un rêve ?"
+       "t": "si tout ça n'était qu'un rêve?"
       },
       {
        "pause": true
@@ -789,7 +780,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le secret de Xibalba, hein? Hmm...\nEt si tout ça n'était qu'un rêve ?[1205][001E] Nan...",
+   "brut_fr": "Le secret de Xibalba, hein? Hmm... Et\nsi tout ça n'était qu'un rêve?[1205][001E] Nan...",
    "brut_en": "The[SP]secret[SP]of[SP]Xibalba,[SP]huh?[SP]Hmmm...[SP]Could[SP]it\nbe[SP]that[SP]this[SP]is[SP]all[SP]just[SP]a[SP]dream?[1205][001E][SP]Nahhh...",
    "data_size": 206,
    "budget": 198
@@ -803,19 +794,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ouais, ce serait plus simple si tout ce"
+       "t": "Ouais, ce serait plus simple si tout"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'on pense se réalisait direct. Mais"
+       "t": "ce qu'on pense se réalisait direct."
       },
       {
        "nl": true
       },
       {
-       "t": "alors, où serait le défi?"
+       "t": "Mais alors, où serait le défi?"
       }
      ]
     }
@@ -844,7 +835,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouais, ce serait plus simple si tout ce\nqu'on pense se réalisait direct. Mais\nalors, où serait le défi?",
+   "brut_fr": "Ouais, ce serait plus simple si tout\nce qu'on pense se réalisait direct.\nMais alors, où serait le défi?",
    "brut_en": "Sure,[SP]it'd[SP]make[SP]it[SP]easier[SP]on[SP]us[SP]if[SP]the[SP]stuff\nwe[SP]thought[SP]about[SP]came[SP]true[SP]immediately.[SP]But\nthen[SP]where[SP]would[SP]the[SP]challenge[SP]be?",
    "data_size": 274,
    "budget": 266
@@ -864,13 +855,16 @@
        "nl": true
       },
       {
-       "t": "la fierté d'avoir vécu, qui vient du travail"
+       "t": "la fierté d'avoir vécu, qui vient du "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "fourni pour nos rêves."
+       "t": "travail fourni pour nos rêves."
       }
      ]
     }
@@ -899,7 +893,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Moi, j'aime ce sentiment d'accomplissement,\nla fierté d'avoir vécu, qui vient du travail\nfourni pour nos rêves.",
+   "brut_fr": "Moi, j'aime ce sentiment d'accomplissement,\nla fierté d'avoir vécu, qui vient du [1205][U+000F]\ntravail fourni pour nos rêves.",
    "brut_en": "Me,[SP]I[SP]like[SP]the[SP]sense[SP]of[SP]accomplishment,\nthe[SP]pride[SP]in[SP]living,[SP]that[SP]comes[SP]from[SP]working\nfor[SP]the[SP]things[SP]we[SP]imagine.",
    "data_size": 250,
    "budget": 242
@@ -913,13 +907,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je ne l'ai pas vue depuis longtemps, mais"
+       "t": "Je ne l'ai pas vue depuis longtemps, mais ma"
       },
       {
        "nl": true
       },
       {
-       "t": "ma mère doit vivre heureuse avec son amant..."
+       "t": "mère doit vivre heureuse avec son amant..."
       }
      ]
     }
@@ -942,7 +936,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne l'ai pas vue depuis longtemps, mais\nma mère doit vivre heureuse avec son amant...",
+   "brut_fr": "Je ne l'ai pas vue depuis longtemps, mais ma\nmère doit vivre heureuse avec son amant...",
    "brut_en": "I[SP]haven't[SP]seen[SP]her[SP]in[SP]a[SP]while,[SP]but[SP]my[SP]mother\nshould[SP]be[SP]living[SP]happily[SP]with[SP]her[SP]lover...",
    "data_size": 194,
    "budget": 186
@@ -1102,13 +1096,13 @@
        "pause": true
       },
       {
-       "t": " Je ressens"
+       "t": " Je ressens toutes ces"
       },
       {
        "nl": true
       },
       {
-       "t": "toutes ces émotions qui affluent en moi..."
+       "t": "émotions qui affluent en moi..."
       }
      ]
     }
@@ -1149,7 +1143,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Grande Maya a raison...[1205][001E] Joie, tristesse,\npeur, désespoir...[1205][001E] Je ressens\ntoutes ces émotions qui affluent en moi...",
+   "brut_fr": "Grande Maya a raison...[1205][001E] Joie, tristesse,\npeur, désespoir...[1205][001E] Je ressens toutes ces\némotions qui affluent en moi...",
    "brut_en": "Big[SP]Maya's[SP]right...[1205][001E][SP]Joy,[SP]sadness,[SP]fear,\ndespair...[1205][001E][SP]Just[SP]standing[SP]around,[SP]I[SP]can[SP]feel\nall[SP]these[SP]emotions[SP]flowing[SP]into[SP]me...",
    "data_size": 270,
    "budget": 262

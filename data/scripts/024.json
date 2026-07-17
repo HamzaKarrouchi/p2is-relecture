@@ -16,19 +16,13 @@
        "pause": true
       },
       {
-       "nl": true
+       "t": " "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " est mignon"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "quand il dort!"
+       "t": " est mignon quand il dort!"
       }
      ]
     }
@@ -63,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ho Oi Dik![1205][001E]\n[1113] est mignon\nquand il dort!",
+   "brut_fr": "Ho Oi Dik![1205][001E] [1113] est mignon quand il dort!",
    "brut_en": "Ho[SP]Oi[SP]Dik![1205][001E][SP][1113]'s[SP]so[SP]cute\nwhen[SP]he's[SP]asleep!",
    "data_size": 108,
    "budget": 100
@@ -77,19 +71,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Eh bien, on dirait que tout le monde va"
+       "t": "Eh bien, on dirait que tout le monde va mieux."
       },
       {
        "nl": true
       },
       {
-       "t": "mieux. Devrait-on réfléchir à comment"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "sortir d'ici?"
+       "t": "Devrait-on réfléchir à comment sortir d'ici?"
       }
      ]
     }
@@ -118,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eh bien, on dirait que tout le monde va\nmieux. Devrait-on réfléchir à comment\nsortir d'ici?",
+   "brut_fr": "Eh bien, on dirait que tout le monde va mieux.\nDevrait-on réfléchir à comment sortir d'ici?",
    "brut_en": "Well,[SP]looks[SP]like[SP]everyone's[SP]feeling[SP]much\nbetter.[SP]Should[SP]we[SP]start[SP]thinking[SP]seriously\nabout[SP]how[SP]to[SP]get[SP]out[SP]of[SP]here?",
    "data_size": 252,
    "budget": 244
@@ -132,13 +120,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On s'est tous focalisés sur l'idée"
+       "t": "On s'est tous focalisés sur"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'il n'y a pas d'issue."
+       "t": "l'idée qu'il n'y a pas d'issue."
       }
      ]
     }
@@ -161,7 +149,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On s'est tous focalisés sur l'idée\nqu'il n'y a pas d'issue.",
+   "brut_fr": "On s'est tous focalisés sur\nl'idée qu'il n'y a pas d'issue.",
    "brut_en": "We've[SP]all[SP]been[SP]too[SP]focused[SP]on[SP]the[SP]idea[SP]that\nthere's[SP]no[SP]exit.",
    "data_size": 142,
    "budget": 134
@@ -187,10 +175,10 @@
        "enc": "invisible pour les yeux."
       },
       {
-       "nl": true
+       "t": " Pas vrai,"
       },
       {
-       "t": "Pas vrai, "
+       "nl": true
       },
       {
        "hero": "prenom"
@@ -234,7 +222,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous savez ce qu'on dit: [1432][NULL][NULL][0014]L'essentiel est\ninvisible pour les yeux.[1432][NULL][NULL][0014]\nPas vrai, [1113]-kun?",
+   "brut_fr": "Vous savez ce qu'on dit: [1432][NULL][NULL][0014]L'essentiel est\ninvisible pour les yeux.[1432][NULL][NULL][0014] Pas vrai,\n[1113]-kun?",
    "brut_en": "You[SP]know[SP]what[SP]they[SP]say:[SP][1432][NULL][NULL][0014]What's[SP]most\nimportant[SP]can't[SP]be[SP]seen[SP]with[SP]one's[SP]eyes.[1432][NULL][NULL][0014]\nRight,[SP][1113]-kun?",
    "data_size": 218,
    "budget": 210
@@ -279,13 +267,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a sûrement une faille qui nous"
+       "t": "Il y a sûrement une faille qui"
       },
       {
        "nl": true
       },
       {
-       "t": "échappe. La clé pour résoudre"
+       "t": "nous échappe. La clé pour résoudre"
       },
       {
        "nl": true
@@ -320,7 +308,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a sûrement une faille qui nous\néchappe. La clé pour résoudre\ncette rumeur est le miroir.",
+   "brut_fr": "Il y a sûrement une faille qui\nnous échappe. La clé pour résoudre\ncette rumeur est le miroir.",
    "brut_en": "There's[SP]probably[SP]a[SP]loophole[SP]we're\noverlooking.[SP]The[SP]key[SP]to[SP]cracking[SP]this\nrumor's[SP]logic[SP]is[SP]the[SP]mirror.",
    "data_size": 222,
    "budget": 214
@@ -334,13 +322,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Faisons le point sur ce que nous savons"
+       "t": "Faisons le point sur ce que nous"
       },
       {
        "nl": true
       },
       {
-       "t": "et trouvons une sortie!"
+       "t": "savons et trouvons une sortie!"
       }
      ]
     }
@@ -363,7 +351,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Faisons le point sur ce que nous savons\net trouvons une sortie!",
+   "brut_fr": "Faisons le point sur ce que nous\nsavons et trouvons une sortie!",
    "brut_en": "Now[SP]let's[SP]sort[SP]through[SP]what[SP]we[SP]know[SP]one\nmore[SP]time[SP]and[SP]think[SP]of[SP]a[SP]way[SP]out!",
    "data_size": 168,
    "budget": 160
@@ -377,19 +365,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "La rumeur dit qu'une fois dans cet abri"
+       "t": "La rumeur dit qu'une fois dans"
       },
       {
        "nl": true
       },
       {
-       "t": "anti-aérien, on ne peut plus sortir, non?"
+       "t": "cet abri anti-aérien, on ne peut"
       },
       {
        "nl": true
       },
       {
-       "t": "Mais pourquoi?"
+       "t": "plus sortir, non? Mais pourquoi?"
       }
      ]
     }
@@ -418,7 +406,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La rumeur dit qu'une fois dans cet abri\nanti-aérien, on ne peut plus sortir, non?\nMais pourquoi?",
+   "brut_fr": "La rumeur dit qu'une fois dans\ncet abri anti-aérien, on ne peut\nplus sortir, non? Mais pourquoi?",
    "brut_en": "The[SP]rumor[SP]was[SP]that[SP]once[SP]you're[SP]in[SP]this\nair[SP]raid[SP]shelter,[SP]you[SP]can't[SP]get[SP]out,[SP]right?\nBut[SP]why[SP]is[SP]that?",
    "data_size": 220,
    "budget": 212
@@ -483,13 +471,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Autre question. Quelqu'un est-il"
+       "t": "Autre question. Quelqu'un"
       },
       {
        "nl": true
       },
       {
-       "t": "déjà sorti de cet abri?"
+       "t": "est-il déjà sorti de cet abri?"
       }
      ]
     }
@@ -512,7 +500,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Autre question. Quelqu'un est-il\ndéjà sorti de cet abri?",
+   "brut_fr": "Autre question. Quelqu'un\nest-il déjà sorti de cet abri?",
    "brut_en": "Okay,[SP]next[SP]question.[SP]Has[SP]anyone[SP]escaped\nfrom[SP]this[SP]shelter?",
    "data_size": 138,
    "budget": 130
@@ -683,13 +671,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Voilà notre problème, vu qu'on a plus"
+       "t": "Voilà notre problème, vu"
       },
       {
        "nl": true
       },
       {
-       "t": "de miroir..."
+       "t": "qu'on a plus de miroir..."
       }
      ]
     }
@@ -712,7 +700,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Voilà notre problème, vu qu'on a plus\nde miroir...",
+   "brut_fr": "Voilà notre problème, vu\nqu'on a plus de miroir...",
    "brut_en": "Now[SP]here's[SP]our[SP]problem,[SP]since[SP]we[SP]don't[SP]have\na[SP]mirror[SP]anymore...",
    "data_size": 146,
    "budget": 138
@@ -726,13 +714,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Que font les miroirs? Ils reflètent"
+       "t": "Que font les miroirs? Ils"
       },
       {
        "nl": true
       },
       {
-       "t": "des choses, non?"
+       "t": "reflètent des choses, non?"
       }
      ]
     }
@@ -755,7 +743,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Que font les miroirs? Ils reflètent\ndes choses, non?",
+   "brut_fr": "Que font les miroirs? Ils\nreflètent des choses, non?",
    "brut_en": "What[SP]do[SP]mirrors[SP]really[SP]do?[SP]They[SP]reflect\nthings,[SP]right?",
    "data_size": 130,
    "budget": 122
@@ -823,13 +811,13 @@
        "t": "Ok, que veux-tu dire par "
       },
       {
-       "enc": "tout ce qui"
+       "enc": "tout ce"
       },
       {
        "nl": true
       },
       {
-       "enc": "est à portée"
+       "enc": "qui est à portée"
       },
       {
        "t": "!? Continue..."
@@ -861,7 +849,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ok, que veux-tu dire par [1432][NULL][NULL][0014]tout ce qui\nest à portée[1432][NULL][NULL][0014]!? Continue...",
+   "brut_fr": "Ok, que veux-tu dire par [1432][NULL][NULL][0014]tout ce\nqui est à portée[1432][NULL][NULL][0014]!? Continue...",
    "brut_en": "Okay,[SP]and[SP]what[SP]do[SP]you[SP]mean[SP]by[SP][1432][NULL][NULL][0014]everything\nin[SP]range[1432][NULL][NULL][0014]!?[SP]Keep[SP]going...",
    "data_size": 168,
    "budget": 160
@@ -926,19 +914,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je pense que la personne de la rumeur a réussi"
+       "t": "Je pense que la personne de la rumeur a"
       },
       {
        "nl": true
       },
       {
-       "t": "par hasard, mais elle a trouvé une sortie"
+       "t": "réussi par hasard, mais elle a trouvé"
       },
       {
        "nl": true
       },
       {
-       "t": "reflétée dans le miroir!"
+       "t": "une sortie"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " reflétée dans le miroir!"
       }
      ]
     }
@@ -967,7 +961,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je pense que la personne de la rumeur a réussi\npar hasard, mais elle a trouvé une sortie\nreflétée dans le miroir!",
+   "brut_fr": "Je pense que la personne de la rumeur a\nréussi par hasard, mais elle a trouvé\nune sortie[1205][U+000F] reflétée dans le miroir!",
    "brut_en": "I[SP]think[SP]whoever[SP]escaped[SP]in[SP]the[SP]rumor[SP]managed\nit[SP]by[SP]accident,[SP]but[SP]they[SP]did[SP]it[SP]by[SP]finding\nan[SP]exit[SP]reflected[SP]in[SP]the[SP]mirror!",
    "data_size": 262,
    "budget": 254
@@ -990,10 +984,10 @@
        "t": "sait où est la sortie, alors la sortie"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "existe!"
+       "t": " existe!"
       }
      ]
     }
@@ -1022,7 +1016,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vois... Si la rumeur dit que personne ne\nsait où est la sortie, alors la sortie\nexiste!",
+   "brut_fr": "Je vois... Si la rumeur dit que personne ne\nsait où est la sortie, alors la sortie[1205][U+000F] existe!",
    "brut_en": "I[SP]get[SP]it...[SP]If[SP]the[SP]rumor[SP]is[SP]that[SP]no[SP]one\nknows[SP]where[SP]the[SP]exit[SP]is,[SP]then[SP]the[SP]exit\ndoes[SP]exist!",
    "data_size": 206,
    "budget": 198
@@ -1042,13 +1036,13 @@
        "enc": "Ne pas savoir"
       },
       {
-       "t": " n'est pas pareil"
+       "t": " n'est pas"
       },
       {
        "nl": true
       },
       {
-       "t": "que "
+       "t": "pareil que "
       },
       {
        "enc": "ne pas exister"
@@ -1060,10 +1054,13 @@
        "pause": true
       },
       {
+       "t": " On"
+      },
+      {
        "nl": true
       },
       {
-       "t": "On a juste sauté aux conclusions."
+       "t": "a juste sauté aux conclusions."
       }
      ]
     }
@@ -1110,7 +1107,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Exact! [1432][NULL][NULL][0014]Ne pas savoir[1432][NULL][NULL][0014] n'est pas pareil\nque [1432][NULL][NULL][0014]ne pas exister[1432][NULL][NULL][0014]...[1205][001E]\nOn a juste sauté aux conclusions.",
+   "brut_fr": "Exact! [1432][NULL][NULL][0014]Ne pas savoir[1432][NULL][NULL][0014] n'est pas\npareil que [1432][NULL][NULL][0014]ne pas exister[1432][NULL][NULL][0014]...[1205][001E] On\na juste sauté aux conclusions.",
    "brut_en": "Right![SP][1432][NULL][NULL][0014]Not[SP]knowing[1432][NULL][NULL][0014][SP]isn't[SP]the[SP]same[SP]thing\nas[SP][1432][NULL][NULL][0014]not[SP]existing[1432][NULL][NULL][0014]...[1205][001E][SP]That[SP]was[SP]just[SP]us[SP]jumping\nto[SP]conclusions.",
    "data_size": 256,
    "budget": 248
@@ -1124,13 +1121,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ahaha! J'avais des doutes que ce soit le"
+       "t": "Ahaha! J'avais des doutes que"
       },
       {
        "nl": true
       },
       {
-       "t": "cas depuis le--"
+       "t": "ce soit le cas depuis le--"
       }
      ]
     }
@@ -1153,7 +1150,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ahaha! J'avais des doutes que ce soit le\ncas depuis le--",
+   "brut_fr": "Ahaha! J'avais des doutes que\nce soit le cas depuis le--",
    "brut_en": "Ahaha![SP]I[SP]had[SP]my[SP]suspicions[SP]that[SP]would[SP]be\nthe[SP]case[SP]right[SP]from[SP]the--",
    "data_size": 160,
    "budget": 152
@@ -1173,13 +1170,13 @@
        "nl": true
       },
       {
-       "t": "la chercher indirectement! Si on ne"
+       "t": "la chercher indirectement! Si on"
       },
       {
        "nl": true
       },
       {
-       "t": "la voit pas, on ne sort pas!"
+       "t": "ne la voit pas, on ne sort pas!"
       }
      ]
     }
@@ -1208,7 +1205,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sans miroir, on n'a aucun moyen de\nla chercher indirectement! Si on ne\nla voit pas, on ne sort pas!",
+   "brut_fr": "Sans miroir, on n'a aucun moyen de\nla chercher indirectement! Si on\nne la voit pas, on ne sort pas!",
    "brut_en": "But[SP]with[SP]no[SP]mirror,[SP]there's[SP]no[SP]way[SP]for[SP]us[SP]to\nindirectly[SP]look[SP]for[SP]it![SP]If[SP]we[SP]can't[SP]see[SP]it,\nwe[SP]still[SP]can't[SP]get[SP]out!",
    "data_size": 248,
    "budget": 240
@@ -1253,19 +1250,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Gagné! Prends la sortie"
+       "t": "Gagné! Prends la sortie en photo"
       },
       {
        "nl": true
       },
       {
-       "t": "en photo avec l'appareil"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pour la voir, non?"
+       "t": "avec l'appareil pour la voir, non?"
       }
      ]
     }
@@ -1294,7 +1285,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Gagné! Prends la sortie\nen photo avec l'appareil\npour la voir, non?",
+   "brut_fr": "Gagné! Prends la sortie en photo\navec l'appareil pour la voir, non?",
    "brut_en": "Ding[SP]ding[SP]ding![SP]If[SP]you[SP]use[SP]your[SP]digital\ncamera,[SP]you[SP]can[SP]take[SP]pictures[SP]of[SP]the[SP]exit\nand[SP]look[SP]at[SP]it,[SP]right?",
    "data_size": 230,
    "budget": 222
@@ -1308,13 +1299,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Waouh! Elle est apparue!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Elle est là!"
+       "t": "Waouh! Elle est apparue! Elle est là!"
       }
      ]
     }
@@ -1331,7 +1316,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Waouh! Elle est apparue!\nElle est là!",
+   "brut_fr": "Waouh! Elle est apparue! Elle est là!",
    "brut_en": "Whoa![SP]It[SP]showed[SP]up![SP]The[SP]exit's[SP]right[SP]there!",
    "data_size": 112,
    "budget": 104
@@ -1351,13 +1336,7 @@
        "nl": true
       },
       {
-       "t": "aucune raison de traîner ici."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Sortons d'ici!"
+       "t": "aucune raison de traîner ici. Sortons d'ici!"
       }
      ]
     }
@@ -1386,7 +1365,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nous: 1, Rumeur: 0! Allez, il n'y a plus\naucune raison de traîner ici.\nSortons d'ici!",
+   "brut_fr": "Nous: 1, Rumeur: 0! Allez, il n'y a plus\naucune raison de traîner ici. Sortons d'ici!",
    "brut_en": "Us:[SP]1,[SP]Rumor:[SP]0![SP]C'mon,[SP]there's[SP]no[SP]reason\nto[SP]stick[SP]around[SP]anymore.[SP]Let's[SP]get[SP]out\nof[SP]here!",
    "data_size": 200,
    "budget": 192
@@ -1412,10 +1391,10 @@
        "enc": "personne ne sait où est"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "enc": "la sortie."
+       "enc": " la sortie."
       }
      ]
     }
@@ -1447,7 +1426,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Correct! On ne peut pas sortir car la rumeur\ndit que [1432][NULL][NULL][0014]personne ne sait où est\nla sortie.[1432][NULL][NULL][0014]",
+   "brut_fr": "Correct! On ne peut pas sortir car la rumeur\ndit que [1432][NULL][NULL][0014]personne ne sait où est[1205][U+000F] la sortie.[1432][NULL][NULL][0014]",
    "brut_en": "Correct![SP]The[SP]reason[SP]we[SP]can't[SP]get[SP]out[SP]is\nbecause[SP]the[SP]rumor[SP]says[SP][1432][NULL][NULL][0014]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is.[1432][NULL][NULL][0014]",
    "data_size": 226,
    "budget": 218
@@ -1461,13 +1440,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Non! Tu y es presque, mais c'est pas ça."
+       "t": "Non! Tu y es presque, mais c'est"
       },
       {
        "nl": true
       },
       {
-       "t": "Réfléchis, "
+       "t": "pas ça. Réfléchis, "
       },
       {
        "hero": "prenom"
@@ -1502,7 +1481,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non! Tu y es presque, mais c'est pas ça.\nRéfléchis, [1113]-kun.",
+   "brut_fr": "Non! Tu y es presque, mais c'est\npas ça. Réfléchis, [1113]-kun.",
    "brut_en": "Nope![SP]Close,[SP]but[SP]that's[SP]not[SP]quite[SP]it.\nTry[SP]and[SP]think[SP]back,[SP][1113]-kun.",
    "data_size": 150,
    "budget": 142
@@ -1550,22 +1529,28 @@
        "t": "Bien que la rumeur dise que "
       },
       {
-       "enc": "personne ne sait"
+       "enc": "personne"
       },
       {
        "nl": true
       },
       {
-       "enc": "où est la sortie,"
+       "enc": "ne sait où est la sortie,"
       },
       {
-       "t": " il y aurait une"
+       "t": " il y"
       },
       {
        "nl": true
       },
       {
-       "t": "personne qui a fui..."
+       "t": "aurait une"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " personne qui a fui..."
       }
      ]
     }
@@ -1600,7 +1585,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien que la rumeur dise que [1432][NULL][NULL][0014]personne ne sait\noù est la sortie,[1432][NULL][NULL][0014] il y aurait une\npersonne qui a fui...",
+   "brut_fr": "Bien que la rumeur dise que [1432][NULL][NULL][0014]personne\nne sait où est la sortie,[1432][NULL][NULL][0014] il y\naurait une[1205][U+000F] personne qui a fui...",
    "brut_en": "Though[SP]the[SP]rumor[SP]says[SP][1432][NULL][NULL][0014]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is,[1432][NULL][NULL][0014][SP]there[SP]was[SP]supposedly[SP]one\nperson[SP]who[SP]did[SP]escape...",
    "data_size": 244,
    "budget": 236
@@ -1614,13 +1599,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Non! On serait condamnés. Essaie de te"
+       "t": "Non! On serait condamnés. Essaie"
       },
       {
        "nl": true
       },
       {
-       "t": "souvenir, "
+       "t": "de te souvenir, "
       },
       {
        "hero": "prenom"
@@ -1655,7 +1640,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non! On serait condamnés. Essaie de te\nsouvenir, [1113]-kun.",
+   "brut_fr": "Non! On serait condamnés. Essaie\nde te souvenir, [1113]-kun.",
    "brut_en": "Nope![SP]We'd[SP]be[SP]doomed[SP]if[SP]that[SP]was[SP]true.\nTry[SP]and[SP]think[SP]back,[SP][1113]-kun.",
    "data_size": 152,
    "budget": 144
@@ -1703,13 +1688,13 @@
        "enc": "Personne ne sait où est la sortie,"
       },
       {
-       "t": " donc tu"
+       "t": " donc"
       },
       {
        "nl": true
       },
       {
-       "t": "ne sors pas. Mais la rumeur dit que"
+       "t": "tu ne sors pas. Mais la rumeur dit que"
       },
       {
        "nl": true
@@ -1747,7 +1732,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Personne ne sait où est la sortie,[1432][NULL][NULL][0014] donc tu\nne sors pas. Mais la rumeur dit que\nquelqu'un est sorti avec un miroir.",
+   "brut_fr": "[1432][NULL][NULL][0014]Personne ne sait où est la sortie,[1432][NULL][NULL][0014] donc\ntu ne sors pas. Mais la rumeur dit que\nquelqu'un est sorti avec un miroir.",
    "brut_en": "[1432][NULL][NULL][0014]No[SP]one[SP]knows[SP]where[SP]the[SP]exit[SP]is,[1432][NULL][NULL][0014][SP]so[SP]you\ncan't[SP]get[SP]out...[SP]But[SP]rumor[SP]has[SP]it[SP]that[SP]one\nperson[SP]got[SP]out[SP]by[SP]using[SP]a[SP]mirror.",
    "data_size": 268,
    "budget": 260
@@ -1822,13 +1807,13 @@
        "nl": true
       },
       {
-       "t": "qui apparaît dans un miroir. Pense à quand"
+       "t": "qui apparaît dans un miroir. Pense à"
       },
       {
        "nl": true
       },
       {
-       "t": "tu conduis une voiture ou ta moto!"
+       "t": "quand tu conduis une voiture ou ta moto!"
       }
      ]
     }
@@ -1857,7 +1842,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oui! C'est ça! Tu n'es pas la seule chose\nqui apparaît dans un miroir. Pense à quand\ntu conduis une voiture ou ta moto!",
+   "brut_fr": "Oui! C'est ça! Tu n'es pas la seule chose\nqui apparaît dans un miroir. Pense à\nquand tu conduis une voiture ou ta moto!",
    "brut_en": "Yes![SP]That's[SP]it![SP]You're[SP]not[SP]the[SP]only[SP]thing\nthat[SP]appears[SP]in[SP]a[SP]mirror.[SP]Think[SP]about[SP]when\nyou[SP]drive[SP]a[SP]car[SP]or[SP]ride[SP]your[SP]bike!",
    "data_size": 260,
    "budget": 252
@@ -1993,13 +1978,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Beurk! Les pervers avec qui"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "on me met!"
+       "t": "Beurk! Les pervers avec qui on me met!"
       }
      ]
     }
@@ -2022,7 +2001,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Beurk! Les pervers avec qui\non me met!",
+   "brut_fr": "Beurk! Les pervers avec qui on me met!",
    "brut_en": "Uch![SP]The[SP]pervs[SP]they[SP]stick[SP]me[SP]with,\nI[SP]swear!",
    "data_size": 108,
    "budget": 100

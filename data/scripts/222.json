@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aiyah! Il ne plaisantait pas, y'a"
+       "t": "Aiyah! Il ne plaisantait"
       },
       {
        "nl": true
       },
       {
-       "t": "des bombes partout!"
+       "t": "pas, y'a des bombes partout!"
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aiyah! Il ne plaisantait pas, y'a\ndes bombes partout!",
+   "brut_fr": "Aiyah! Il ne plaisantait\npas, y'a des bombes partout!",
    "brut_en": "Aiyah![SP]He[SP]wasn't[SP]kidding![SP]There's[SP]bombs\nall[SP]over[SP]the[SP]place!",
    "data_size": 142,
    "budget": 134
@@ -56,13 +56,13 @@
        "hero": "prenom"
       },
       {
-       "t": "! On se dépêche et on sort!"
+       "t": "! On se dépêche et on sort! J'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai tout sauf envie de finir carbonisée!"
+       "t": "tout sauf envie de finir carbonisée!"
       }
      ]
     }
@@ -88,7 +88,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113]! On se dépêche et on sort!\nJ'ai tout sauf envie de finir carbonisée!",
+   "brut_fr": "[1113]! On se dépêche et on sort! J'ai\ntout sauf envie de finir carbonisée!",
    "brut_en": "[1113]![SP]We[SP]gotta[SP]hurry[SP]and[SP]book[SP]it!\nI[SP]don't[SP]want[SP]to[SP]end[SP]up[SP]a[SP]crispy[SP]critter!",
    "data_size": 166,
    "budget": 158
@@ -102,13 +102,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On est incapables de désamorcer les bombes !"
+       "t": "On est incapables de désamorcer les bombes"
       },
       {
        "nl": true
       },
       {
-       "t": "Essayons plutôt de trouver la devinette!"
+       "t": "! Essayons plutôt de trouver la devinette!"
       }
      ]
     }
@@ -131,7 +131,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On est incapables de désamorcer les bombes !\nEssayons plutôt de trouver la devinette!",
+   "brut_fr": "On est incapables de désamorcer les bombes\n! Essayons plutôt de trouver la devinette!",
    "brut_en": "It's[SP]not[SP]like[SP]we[SP]know[SP]how[SP]to[SP]defuse[SP]bombs\nanyway![SP]Let's[SP]focus[SP]on[SP]the[SP]hunt[SP]for[SP]that[SP]riddle!",
    "data_size": 208,
    "budget": 200
@@ -209,6 +209,9 @@
        "t": "Il faut stopper les plans du Roi Lion, ou"
       },
       {
+       "pause": true
+      },
+      {
        "nl": true
       },
       {
@@ -241,7 +244,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nous devons réfléchir à sa prochaine cible.\nIl faut stopper les plans du Roi Lion, ou\nd'autres innocents s'y retrouveront mêlés!",
+   "brut_fr": "Nous devons réfléchir à sa prochaine cible.\nIl faut stopper les plans du Roi Lion, ou[1205][U+000F]\nd'autres innocents s'y retrouveront mêlés!",
    "brut_en": "The[SP]question[SP]is,[SP]what's[SP]his[SP]next[SP]target?\nIf[SP]we[SP]leave[SP]King[SP]Leo[SP]to[SP]his[SP]own[SP]devices,[SP]more\ninnocent[SP]people[SP]will[SP]be[SP]dragged[SP]into[SP]this!",
    "data_size": 280,
    "budget": 272
@@ -372,13 +375,19 @@
        "nl": true
       },
       {
-       "t": "désarmer individuellement! Il vaut mieux abandonner"
+       "t": "désarmer individuellement! Il vaut"
       },
       {
        "nl": true
       },
       {
-       "t": "la salle de concert."
+       "t": "mieux abandonner"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " la salle de concert."
       }
      ]
     }
@@ -407,7 +416,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a trop de bombes pour espérer les\ndésarmer individuellement! Il vaut mieux abandonner\nla salle de concert.",
+   "brut_fr": "Il y a trop de bombes pour espérer les\ndésarmer individuellement! Il vaut\nmieux abandonner[1205][U+000F] la salle de concert.",
    "brut_en": "There's[SP]no[SP]time[SP]to[SP]disarm[SP]each[SP]individual\nbomb[SP]with[SP]so[SP]many[SP]here![SP]I[SP]think[SP]we[SP]have[SP]to\ngive[SP]up[SP]on[SP]the[SP]concert[SP]hall.",
    "data_size": 252,
    "budget": 244

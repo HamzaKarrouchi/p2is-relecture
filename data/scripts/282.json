@@ -323,13 +323,13 @@
        "pause": true
       },
       {
-       "t": " C'était tellement"
+       "t": " C'était"
       },
       {
        "nl": true
       },
       {
-       "t": "évident sur l'affiche!"
+       "t": "tellement évident sur l'affiche!"
       }
      ]
     }
@@ -358,7 +358,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Roh, fais pas genre.[1205][U+000F] C'était tellement\névident sur l'affiche!",
+   "brut_fr": "Roh, fais pas genre.[1205][U+000F] C'était\ntellement évident sur l'affiche!",
    "brut_en": "C'mon,[SP]don't[SP]play[SP]dumb.[1205][U+000F][SP]It[SP]was[SP]so[SP]obvious\nby[SP]that[SP]poster!",
    "data_size": 158,
    "budget": 150
@@ -390,13 +390,13 @@
        "pause": true
       },
       {
-       "t": " Ça sert plus à rien de"
+       "t": " Ça sert plus à rien"
       },
       {
        "nl": true
       },
       {
-       "t": "garder le secret entre vous trois..."
+       "t": "de garder le secret entre vous trois..."
       }
      ]
     }
@@ -437,7 +437,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bravo pour tes débuts sur scène![1205][U+000F] À quand\nla grande annonce?[1205][U+000F] Ça sert plus à rien de\ngarder le secret entre vous trois...",
+   "brut_fr": "Bravo pour tes débuts sur scène![1205][U+000F] À quand\nla grande annonce?[1205][U+000F] Ça sert plus à rien\nde garder le secret entre vous trois...",
    "brut_en": "Congrats[SP]on[SP]your[SP]public[SP]debut![1205][U+000F][SP]So[SP]when's[SP]the\nbig[SP]announcement?[1205][U+000F][SP]There's[SP]no[SP]sense[SP]keeping[SP]it\na[SP]secret[SP]between[SP]you[SP]three[SP]anymore...",
    "data_size": 300,
    "budget": 292
@@ -463,13 +463,13 @@
        "pause": true
       },
       {
-       "t": " Une seconde, de quoi vous"
+       "t": " Une seconde,"
       },
       {
        "nl": true
       },
       {
-       "t": "parlez au juste?"
+       "t": "de quoi vous parlez au juste?"
       }
      ]
     }
@@ -504,7 +504,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Débuts?[1205][U+000F] Affiche?[1205][U+000F] Une seconde, de quoi vous\nparlez au juste?",
+   "brut_fr": "Débuts?[1205][U+000F] Affiche?[1205][U+000F] Une seconde,\nde quoi vous parlez au juste?",
    "brut_en": "Debut?[1205][U+000F][SP]Poster?[1205][U+000F][SP]Wait[SP]a[SP]second,[SP]what[SP]the[SP]hell\nare[SP]you[SP]talking[SP]about?",
    "data_size": 162,
    "budget": 154
@@ -524,13 +524,7 @@
        "pause": true
       },
       {
-       "t": " Tu vas garder ça secret"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "alors."
+       "t": " Tu vas garder ça secret alors."
       }
      ]
     }
@@ -559,7 +553,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh, d'accord...[1205][U+000F] Tu vas garder ça secret\nalors.",
+   "brut_fr": "Oh, d'accord...[1205][U+000F] Tu vas garder ça secret alors.",
    "brut_en": "Aww,[SP]okay...[1205][U+000F][SP]So[SP]you[SP]still[SP]gotta[SP]keep[SP]it\na[SP]secret.",
    "data_size": 138,
    "budget": 130
@@ -634,19 +628,22 @@
        "pause": true
       },
       {
-       "t": " J'espère que"
+       "nl": true
+      },
+      {
+       "t": "J'espère que ton groupe aidera à"
       },
       {
        "nl": true
       },
       {
-       "t": "ton groupe aidera à restaurer la réputation"
+       "t": "restaurer la réputation"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "de Seven!"
+       "t": " de Seven!"
       }
      ]
     }
@@ -678,7 +675,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On va t'encourager à fond![1205][U+000F] J'espère que\nton groupe aidera à restaurer la réputation\nde Seven!",
+   "brut_fr": "On va t'encourager à fond![1205][U+000F]\nJ'espère que ton groupe aidera à\nrestaurer la réputation[1205][U+000F] de Seven!",
    "brut_en": "We'll[SP]totally[SP]be[SP]rooting[SP]for[SP]you,[SP]though![1205][U+000F]\nI[SP]hope[SP]your[SP]group[SP]can[SP]help[SP]restore[SP]Sevens'\nreputation!",
    "data_size": 236,
    "budget": 228

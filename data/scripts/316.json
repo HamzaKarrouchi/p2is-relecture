@@ -71,22 +71,19 @@
        "hero": "prenom"
       },
       {
-       "t": ", quand tout ça sera réglé,"
+       "t": ", quand tout ça sera réglé, rejouons"
       },
       {
        "nl": true
       },
       {
-       "t": "rejouons au Cercle masqué."
+       "t": "au Cercle masqué."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Ça pourrait être amusant !"
+       "t": " Ça pourrait être amusant!"
       }
      ]
     }
@@ -127,7 +124,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé [1113], quand tout ça sera réglé,\nrejouons au Cercle masqué.[1205][U+000F]\nÇa pourrait être amusant !",
+   "brut_fr": "Hé [1113], quand tout ça sera réglé, rejouons\nau Cercle masqué.[1205][U+000F] Ça pourrait être amusant!",
    "brut_en": "Hey[SP][1113],[SP]once[SP]this[SP]is[SP]all[SP]settled,[SP]let's\nplay[SP]Masked[SP]Circle[SP]again.[1205][U+000F][SP]It[SP]might[SP]actually\nbe[SP]fun!",
    "data_size": 206,
    "budget": 198
@@ -141,13 +138,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu as entendu l'idée de Lisa ? Jouons"
+       "t": "Tu as entendu l'idée de Lisa? Jouons au"
       },
       {
        "nl": true
       },
       {
-       "t": "au Cercle masqué ! Cette fois, la pharmacie."
+       "t": "Cercle masqué! Cette fois, la pharmacie."
       },
       {
        "pause": true
@@ -188,7 +185,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu as entendu l'idée de Lisa ? Jouons\nau Cercle masqué ! Cette fois, la pharmacie.[1205][U+000F]\nJun-kun se joindra à nous aussi, bien sûr !",
+   "brut_fr": "Tu as entendu l'idée de Lisa? Jouons au\nCercle masqué! Cette fois, la pharmacie.[1205][U+000F]\nJun-kun se joindra à nous aussi, bien sûr !",
    "brut_en": "Did[SP]you[SP]hear[SP]Lisa's[SP]idea?[SP]Let's[SP]play[SP]Masked\nCircle[SP]again.[SP]This[SP]time,[SP]we'll[SP]do[SP]a[SP]drugstore![1205][U+000F]\nI'll[SP]get[SP]Jun-kun[SP]to[SP]join[SP]in[SP]too,[SP]of[SP]course!",
    "data_size": 292,
    "budget": 284
@@ -202,7 +199,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pourquoi cette agitation ?"
+       "t": "Pourquoi cette agitation?"
       }
      ]
     }
@@ -219,7 +216,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pourquoi cette agitation ?",
+   "brut_fr": "Pourquoi cette agitation?",
    "brut_en": "What's[SP]got[SP]everyone[SP]so[SP]excited?",
    "data_size": 80,
    "budget": 72
@@ -233,13 +230,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? Au Cercle masqué ? D'accord,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "j'en suis."
+       "t": "Hein? Au Cercle masqué? D'accord, j'en suis."
       }
      ]
     }
@@ -262,7 +253,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? Au Cercle masqué ? D'accord,\nj'en suis.",
+   "brut_fr": "Hein? Au Cercle masqué? D'accord, j'en suis.",
    "brut_en": "Huh?[SP]Playing[SP]Masked[SP]Circle[SP]again?[SP]S-Sure,\nI'm[SP]game.",
    "data_size": 120,
    "budget": 112
@@ -276,13 +267,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hihihi !"
+       "t": "Hihihi!"
       },
       {
        "pause": true
       },
       {
-       "t": " Mais... *sniiiif* Autre chose ?"
+       "t": " Mais... *sniiiif* Autre chose?"
       }
      ]
     }
@@ -306,21 +297,21 @@
    "choix_fr": {
     "options": [
      "Acheter objets",
-     "Vendre objets",
+     "Vendre objets[1205]",
      "Parler à Sœur n°5",
      "Voir objets",
-     "Rien",
+     "Rien[1205]",
      "Quitter"
     ],
     "question": [
      {
-      "t": "Hihihi !"
+      "t": "Hihihi!"
      },
      {
       "pause": true
      },
      {
-      "t": " Mais... *sniiiif* Autre chose ?"
+      "t": " Mais... *sniiiif* Autre chose?"
      }
     ]
    },
@@ -345,7 +336,7 @@
      }
     ]
    },
-   "brut_fr": "Hihihi ![1205][U+000A] Mais... *sniiiif* Autre chose ?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°5\n[1210][U+0100]Voir objets\nRien\nQuitter",
+   "brut_fr": "Hihihi![1205][U+000A] Mais... *sniiiif* Autre chose?\n[1208][U+0006]Acheter objets\nVendre objets[1205][U+000F]\nParler à Sœur n°5\n[1210][U+0100]Voir objets\nRien[1205][U+000F]\nQuitter",
    "brut_en": "Heeheehee![1205][U+000A][SP]But...[SP]*sniiiiiff*[SP]Anything[SP]else?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#5\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 286,
    "budget": 278
@@ -359,7 +350,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors, tu vends quoi ?"
+       "t": "Alors, tu vends quoi?"
       }
      ]
     }
@@ -377,16 +368,16 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets",
+     "Objets[1205]",
      "Armes",
      "Armure de tête",
-     "Armure",
+     "Armure[1205]",
      "Armure de jambes",
      "Accessoires"
     ],
     "question": [
      {
-      "t": "Alors, tu vends quoi ?"
+      "t": "Alors, tu vends quoi?"
      }
     ]
    },
@@ -406,7 +397,7 @@
      }
     ]
    },
-   "brut_fr": "Alors, tu vends quoi ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Alors, tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 324,
    "budget": 316
@@ -420,7 +411,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu veux parler de quoi ?"
+       "t": "Tu veux parler de quoi?"
       }
      ]
     }
@@ -438,12 +429,12 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique",
+     "Parler boutique[1205]",
      "Sélection cachée"
     ],
     "question": [
      {
-      "t": "Tu veux parler de quoi ?"
+      "t": "Tu veux parler de quoi?"
      }
     ]
    },
@@ -459,7 +450,7 @@
      }
     ]
    },
-   "brut_fr": "Tu veux parler de quoi ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
    "brut_en": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 222,
    "budget": 214
@@ -473,22 +464,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "*renifle* À quoi ça sert une ville dans les airs !?"
+       "t": "*renifle* À quoi ça sert une ville dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "les airs!?"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Ils disent que la Terre là-bas"
+       "t": " Ils disent que la Terre"
       },
       {
        "nl": true
       },
       {
-       "t": "va être anéantie, c'est ça ?"
+       "t": "là-bas va être anéantie, c'est ça?"
       }
      ]
     }
@@ -523,7 +517,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*renifle* À quoi ça sert une ville dans les airs !?[1205][U+000F]\nIls disent que la Terre là-bas\nva être anéantie, c'est ça ?",
+   "brut_fr": "*renifle* À quoi ça sert une ville dans\nles airs!?[1205][U+000F] Ils disent que la Terre\nlà-bas va être anéantie, c'est ça?",
    "brut_en": "*sniff*[SP]What[SP]good[SP]is[SP]a[SP]city[SP]that[SP]flies[SP]through\nthe[SP]air!?[1205][U+000F][SP]And[SP]they[SP]say[SP]the[SP]Earth[SP]down[SP]below\nis[SP]going[SP]to[SP]be[SP]annihilated,[SP]right?",
    "data_size": 284,
    "budget": 276
@@ -543,7 +537,7 @@
        "nl": true
       },
       {
-       "t": "d'ouvrir des succursales dans le pays !"
+       "t": "d'ouvrir des succursales dans le pays!"
       }
      ]
     }
@@ -566,7 +560,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On n'accomplira jamais notre mission\nd'ouvrir des succursales dans le pays !",
+   "brut_fr": "On n'accomplira jamais notre mission\nd'ouvrir des succursales dans le pays!",
    "brut_en": "Now[SP]we'll[SP]never[SP]accomplish[SP]our[SP]mission[SP]of\nopening[SP]branches[SP]all[SP]across[SP]the[SP]country!",
    "data_size": 194,
    "budget": 186
@@ -592,10 +586,13 @@
        "pause": true
       },
       {
+       "t": " Mais l'avenir"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Mais l'avenir est plein de soucis..."
+       "t": "est plein de soucis..."
       },
       {
        "pause": true
@@ -642,7 +639,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me demande ce que mes sœurs font...\nJe n'abandonne pas encore.[1205][U+000F]\nMais l'avenir est plein de soucis...[1205][U+000F] *renifle*",
+   "brut_fr": "Je me demande ce que mes sœurs font...\nJe n'abandonne pas encore.[1205][U+000F] Mais l'avenir\nest plein de soucis...[1205][U+000F] *renifle*",
    "brut_en": "I[SP]wonder[SP]what[SP]my[SP]sisters[SP]plan[SP]to[SP]do...[SP]I'm[SP]not\ngiving[SP]up[SP]yet,[SP]anyway.[1205][U+000F][SP]But[SP]the[SP]future[SP]is[SP]full\nof[SP]problems...[1205][U+000F][SP]*sniff*",
    "data_size": 268,
    "budget": 260
@@ -656,19 +653,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Satomi Tadashi, ouvert toute l'année !"
+       "t": "Satomi Tadashi, ouvert toute"
       },
       {
        "nl": true
       },
       {
-       "t": "Revenez !"
+       "t": "l'année! Revenez!"
       },
       {
        "pause": true
       },
       {
-       "t": " Héhéhé ! *renifle* !"
+       "t": " Héhéhé! *renifle*!"
       }
      ]
     }
@@ -697,7 +694,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Satomi Tadashi, ouvert toute l'année !\nRevenez ![1205][U+000A] Héhéhé ! *renifle* !",
+   "brut_fr": "Satomi Tadashi, ouvert toute\nl'année! Revenez![1205][U+000A] Héhéhé! *renifle*!",
    "brut_en": "Satomi[SP]Tadashi[SP]is[SP]open[SP]all[SP]year[SP]'round!\nCome[SP]back[SP]soon![1205][U+000A][SP]Heeheehee![SP]Also,[SP]*sniff*!",
    "data_size": 196,
    "budget": 188
@@ -711,13 +708,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "*renifle* Mon entreprise a coulé pendant"
+       "t": "*renifle* Mon entreprise a coulé"
       },
       {
        "nl": true
       },
       {
-       "t": "que j'écoutais cette chanson..."
+       "t": "pendant que j'écoutais cette chanson..."
       },
       {
        "pause": true
@@ -761,7 +758,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*renifle* Mon entreprise a coulé pendant\nque j'écoutais cette chanson...[1205][U+000F]\nDétruite par ces immenses anneaux...",
+   "brut_fr": "*renifle* Mon entreprise a coulé\npendant que j'écoutais cette chanson...[1205][U+000F]\nDétruite par ces immenses anneaux...",
    "brut_en": "*sniff*[SP]My[SP]company[SP]went[SP]under[SP]while[SP]I[SP]was[SP]here\nlistening[SP]to[SP]this[SP]song...[1205][U+000F][SP]Well,[SP]more[SP]like[SP]it\ngot[SP]destroyed[SP]by[SP]those[SP]huge[SP]rings...",
    "data_size": 298,
    "budget": 290
@@ -784,10 +781,10 @@
        "t": "en éveil pour saisir"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "le monde qui l'entoure."
+       "t": " le monde qui l'entoure."
       }
      ]
     }
@@ -816,7 +813,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un compositeur garde toujours ses cinq sens\nen éveil pour saisir\nle monde qui l'entoure.",
+   "brut_fr": "Un compositeur garde toujours ses cinq sens\nen éveil pour saisir[1205][U+000F] le monde qui l'entoure.",
    "brut_en": "A[SP]composer[SP]must[SP]always[SP]keep[SP]his[SP]five[SP]senses\nactive[SP]to[SP]gain[SP]new[SP]insight[SP]from[SP]the[SP]world\naround[SP]him.",
    "data_size": 222,
    "budget": 214
@@ -830,22 +827,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Seules des marches funèbres"
+       "t": "Seules des marches funèbres et des préludes"
       },
       {
        "nl": true
       },
       {
-       "t": "et des préludes à la destruction..."
+       "t": "à la destruction..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Vraiment trop déprimant."
+       "t": " Vraiment trop déprimant."
       }
      ]
     }
@@ -877,7 +871,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Seules des marches funèbres\net des préludes à la destruction...[1205][U+000F]\nVraiment trop déprimant.",
+   "brut_fr": "Seules des marches funèbres et des préludes\nà la destruction...[1205][U+000F] Vraiment trop déprimant.",
    "brut_en": "But[SP]the[SP]only[SP]songs[SP]I[SP]can[SP]think[SP]of[SP]now[SP]are[SP]dirges\nof[SP]destruction[SP]and[SP]preludes[SP]to[SP]annihilation...[1205][U+000F]\nMuch,[SP]much[SP]too[SP]depressing.",
    "data_size": 276,
    "budget": 268
@@ -891,7 +885,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ah, oui, bienvenue !"
+       "t": "Ah, oui, bienvenue!"
       },
       {
        "pause": true
@@ -903,7 +897,7 @@
        "nl": true
       },
       {
-       "t": "étendre notre chaîne dans tout le pays !"
+       "t": "étendre notre chaîne dans tout le pays!"
       },
       {
        "pause": true
@@ -912,7 +906,7 @@
        "nl": true
       },
       {
-       "t": "Mais c'est fichu maintenant ! *snif*"
+       "t": "Mais c'est fichu maintenant! *snif*"
       }
      ]
     }
@@ -953,16 +947,16 @@
    ],
    "choix_fr": {
     "options": [
-     "Acheter objets",
+     "Acheter objets[1205]",
      "Vendre objets",
      "Parler à Sœur n°5",
-     "Voir objets",
+     "Voir objets[1205]",
      "Rien",
      "Quitter"
     ],
     "question": [
      {
-      "t": "Ah, oui, bienvenue !"
+      "t": "Ah, oui, bienvenue!"
      },
      {
       "pause": true
@@ -974,7 +968,7 @@
       "nl": true
      },
      {
-      "t": "étendre notre chaîne dans tout le pays !"
+      "t": "étendre notre chaîne dans tout le pays!"
      },
      {
       "pause": true
@@ -983,7 +977,7 @@
       "nl": true
      },
      {
-      "t": "Mais c'est fichu maintenant ! *snif*"
+      "t": "Mais c'est fichu maintenant! *snif*"
      }
     ]
    },
@@ -1026,7 +1020,7 @@
      }
     ]
    },
-   "brut_fr": "Ah, oui, bienvenue ![1205][U+000A] On travaille dur pour\nétendre notre chaîne dans tout le pays ![1205][U+000F]\nMais c'est fichu maintenant ! *snif*\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°5\n[1210][U+0100]Voir objets\nRien\nQuitter",
+   "brut_fr": "Ah, oui, bienvenue![1205][U+000A] On travaille dur pour\nétendre notre chaîne dans tout le pays![1205][U+000F]\nMais c'est fichu maintenant! *snif*\n[1208][U+0006]Acheter objets[1205][U+000F]\nVendre objets\nParler à Sœur n°5\n[1210][U+0100]Voir objets[1205][U+000F]\nRien\nQuitter",
    "brut_en": "Ah,[SP]yes,[SP]welcome![1205][U+000A][SP]We[SP]work[SP]hard[SP]to[SP]spread[SP]our\nchain[SP]throughout[SP]the[SP]country![1205][U+000F][SP]But[SP]that[SP]will\nnever[SP]happen[SP]now![SP]*sniff*\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#5\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 430,
    "budget": 422
@@ -1040,7 +1034,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors, que veux-tu vendre ?"
+       "t": "Alors, que veux-tu vendre?"
       }
      ]
     }
@@ -1058,16 +1052,16 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets",
+     "Objets[1205]",
      "Armes",
      "Armure de tête",
-     "Armure",
+     "Armure[1205]",
      "Armure de jambes",
      "Accessoires"
     ],
     "question": [
      {
-      "t": "Alors, que veux-tu vendre ?"
+      "t": "Alors, que veux-tu vendre?"
      }
     ]
    },
@@ -1087,7 +1081,7 @@
      }
     ]
    },
-   "brut_fr": "Alors, que veux-tu vendre ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Alors, que veux-tu vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 336,
    "budget": 328
@@ -1101,7 +1095,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu veux parler de quoi ?"
+       "t": "Tu veux parler de quoi?"
       }
      ]
     }
@@ -1119,12 +1113,12 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique",
+     "Parler boutique[1205]",
      "Sélection cachée"
     ],
     "question": [
      {
-      "t": "Tu veux parler de quoi ?"
+      "t": "Tu veux parler de quoi?"
      }
     ]
    },
@@ -1140,7 +1134,7 @@
      }
     ]
    },
-   "brut_fr": "Tu veux parler de quoi ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
    "brut_en": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 222,
    "budget": 214
@@ -1185,13 +1179,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Total :  yens."
+       "t": "Total:  yens."
       },
       {
        "nl": true
       },
       {
-       "t": "Ça vous convient ?"
+       "t": "Ça vous convient?"
       }
      ]
     }
@@ -1214,18 +1208,18 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
      {
-      "t": "Total :  yens."
+      "t": "Total:  yens."
      },
      {
       "nl": true
      },
      {
-      "t": "Ça vous convient ?"
+      "t": "Ça vous convient?"
      }
     ]
    },
@@ -1246,7 +1240,7 @@
      }
     ]
    },
-   "brut_fr": "Total : [120E][NULL] yens.\nÇa vous convient ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
    "data_size": 140,
    "budget": 132
@@ -1297,16 +1291,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour acheter, sélectionnez "
-      },
-      {
-       "enc": "Acheter,"
+       "t": "Pour acheter, sélectionnez"
       },
       {
        "nl": true
       },
       {
-       "t": "choix parmi nos articles."
+       "enc": "Acheter,"
+      },
+      {
+       "t": " choix parmi nos articles."
       }
      ]
     }
@@ -1332,7 +1326,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour acheter, sélectionnez [1432][NULL][NULL][0014]Acheter,[1432][NULL][NULL][0014]\nchoix parmi nos articles.",
+   "brut_fr": "Pour acheter, sélectionnez\n[1432][NULL][NULL][0014]Acheter,[1432][NULL][NULL][0014] choix parmi nos articles.",
    "brut_en": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
    "data_size": 206,
    "budget": 198
@@ -1395,19 +1389,13 @@
        "enc": "Vendre"
       },
       {
-       "t": ","
+       "t": ", puis"
       },
       {
        "nl": true
       },
       {
-       "t": "puis le type, puis l'article"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "à nous céder."
+       "t": "le type, puis l'article à nous céder."
       }
      ]
     }
@@ -1442,7 +1430,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014],\npuis le type, puis l'article\nà nous céder.",
+   "brut_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014], puis\nle type, puis l'article à nous céder.",
    "brut_en": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
    "data_size": 292,
    "budget": 284
@@ -1456,19 +1444,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Revente à moitié prix environ."
+       "t": "Revente à moitié prix environ. Vous ne pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas vendre"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "ce qui est équipé ni les spéciaux."
+       "t": "pas vendre ce qui est équipé ni les spéciaux."
       }
      ]
     }
@@ -1497,7 +1479,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Revente à moitié prix environ.\nVous ne pouvez pas vendre\nce qui est équipé ni les spéciaux.",
+   "brut_fr": "Revente à moitié prix environ. Vous ne pouvez\npas vendre ce qui est équipé ni les spéciaux.",
    "brut_en": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
    "data_size": 308,
    "budget": 300

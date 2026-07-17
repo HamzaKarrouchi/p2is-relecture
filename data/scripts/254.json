@@ -16,45 +16,36 @@
        "nl": true
       },
       {
-       "t": "viens le prendre! Tu veux juste que les autres"
+       "t": "viens le prendre! Tu veux juste que les "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "règlent tes soucis!"
+       "t": "autres règlent tes soucis! "
       }
      ]
     },
     {
-     "nom": "Eikichi",
+     "nom": "Eikichi[1205][U+000F] Pfff...[1205][001E]",
      "seg": [
       {
-       "t": "Pfff..."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Pourquoi je dois gérer les"
+       "t": "Pourquoi je dois gérer les problèmes de ton"
       },
       {
        "nl": true
       },
       {
-       "t": "problèmes de ton bahut?"
+       "t": "bahut?"
       },
       {
        "pause": true
       },
       {
-       "t": " Je suis trop"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "sympa. Vous trouvez pas?"
+       "t": " Je suis trop sympa. Vous trouvez pas?"
       }
      ]
     }
@@ -115,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est quoi ce bordel!?[E1][E2] Si tu veux mon insigne,\nviens le prendre! Tu veux juste que les autres\nrèglent tes soucis!\n[E3][E4][NULL][NULL]\"Eikichi\nPfff...[1205][001E] Pourquoi je dois gérer les\nproblèmes de ton bahut?[1205][001E] Je suis trop\nsympa. Vous trouvez pas?",
+   "brut_fr": "C'est quoi ce bordel!?[E1][E2] Si tu veux mon insigne,\nviens le prendre! Tu veux juste que les [1205][U+000F]\nautres règlent tes soucis! [E3][E4][NULL][NULL]\"Eikichi[1205][U+000F] Pfff...[1205][001E]\nPourquoi je dois gérer les problèmes de ton\nbahut?[1205][001E] Je suis trop sympa. Vous trouvez pas?",
    "brut_en": "What[SP]the[SP]hell!?[SP]If[SP]you[SP]want[SP]my[SP]emblem,[SP]come[SP]and\nget[SP]it[SP]yourself![SP]You[SP]just[SP]want[SP]other[SP]people[SP]to\nsolve[SP]your[SP]problems![E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nSheesh...[1205][001E][SP]How[SP]come[SP]I[SP]gotta[SP]deal[SP]with[SP]your\nschool's[SP]problems[SP]too?[1205][001E][SP]I'm[SP]too[SP]damn[SP]nice,\nis[SP]why.[SP]Don't[SP]you[SP]think?",
    "data_size": 512,
    "budget": 504
@@ -202,25 +193,25 @@
        "hero": "prenom"
       },
       {
-       "t": ", tous les mecs de ton lycée sont"
+       "t": ", tous les mecs de ton lycée"
       },
       {
        "nl": true
       },
       {
-       "t": "des chochottes comme lui!?"
+       "t": "sont des chochottes comme lui!?"
       },
       {
        "pause": true
       },
       {
-       "t": " Tu ferais"
+       "t": " Tu"
       },
       {
        "nl": true
       },
       {
-       "t": "bien de les recadrer, comme moi!"
+       "t": "ferais bien de les recadrer, comme moi!"
       }
      ]
     }
@@ -258,7 +249,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, [1113], tous les mecs de ton lycée sont\ndes chochottes comme lui!?[1205][001E] Tu ferais\nbien de les recadrer, comme moi!",
+   "brut_fr": "Hé, [1113], tous les mecs de ton lycée\nsont des chochottes comme lui!?[1205][001E] Tu\nferais bien de les recadrer, comme moi!",
    "brut_en": "Hey,[SP][1113],[SP]are[SP]all[SP]the[SP]dudes[SP]at[SP]your\nschool[SP]puffed-up[SP]candyasses[SP]like[SP]this!?[1205][001E]\nYou[SP]better[SP]get[SP]'em[SP]in[SP]line,[SP]like[SP]I[SP]do!",
    "data_size": 254,
    "budget": 246
@@ -278,13 +269,19 @@
        "nl": true
       },
       {
-       "t": "Transférez cet enfoiré dans mon lycée tout de"
+       "t": "Transférez cet enfoiré dans mon lycée tout"
       },
       {
        "nl": true
       },
       {
-       "t": "suite et je vais le redresser moi-même!"
+       "t": "de"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " suite et je vais le redresser moi-même!"
       }
      ]
     }
@@ -313,7 +310,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Raaaah! J'en peux plus de ce mec!\nTransférez cet enfoiré dans mon lycée tout de\nsuite et je vais le redresser moi-même!",
+   "brut_fr": "Raaaah! J'en peux plus de ce mec!\nTransférez cet enfoiré dans mon lycée tout\nde[1205][U+000F] suite et je vais le redresser moi-même!",
    "brut_en": "Gaaaah![SP]I[SP]can't[SP]stand[SP]this[SP]guy[SP]any[SP]longer!\nTransfer[SP]the[SP]son[SP]of[SP]a[SP]bitch[SP]to[SP]my[SP]school[SP]right\nnow[SP]and[SP]I'll[SP]straighten[SP]him[SP]out[SP]myself!",
    "data_size": 284,
    "budget": 276
@@ -327,13 +324,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pleurnicher et supplier n'éloignera pas"
+       "t": "Pleurnicher et supplier n'éloignera"
       },
       {
        "nl": true
       },
       {
-       "t": "la malédiction. Quel con."
+       "t": "pas la malédiction. Quel con."
       }
      ]
     }
@@ -356,7 +353,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pleurnicher et supplier n'éloignera pas\nla malédiction. Quel con.",
+   "brut_fr": "Pleurnicher et supplier n'éloignera\npas la malédiction. Quel con.",
    "brut_en": "It's[SP]not[SP]like[SP]whining[SP]and[SP]begging[SP]will[SP]keep\nthe[SP]curse[SP]away.[SP]What[SP]a[SP]dick.",
    "data_size": 164,
    "budget": 156
@@ -370,7 +367,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Que marmonnes-tu, Boss en slip!?"
+       "t": "Que marmonnes-tu, Boss des calbutes!?"
       },
       {
        "nl": true
@@ -399,7 +396,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Que marmonnes-tu, Boss en slip!?\nVite, trouve cet insigne!",
+   "brut_fr": "Que marmonnes-tu, Boss des calbutes!?\nVite, trouve cet insigne!",
    "brut_en": "What're[SP]you[SP]mumbling[SP]about,[SP]Undie[SP]Boss!?\nHurry[SP]up[SP]and[SP]find[SP]that[SP]emblem!",
    "data_size": 164,
    "budget": 156
@@ -419,13 +416,10 @@
        "hero": "prenom"
       },
       {
-       "t": " est"
-      },
-      {
        "nl": true
       },
       {
-       "t": "ruiné, je ruinerai le tien!"
+       "t": "est ruiné, je ruinerai le tien!"
       }
      ]
     }
@@ -454,7 +448,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si mon visage ou celui de [1113] est\nruiné, je ruinerai le tien!",
+   "brut_fr": "Si mon visage ou celui de [1113]\nest ruiné, je ruinerai le tien!",
    "brut_en": "If[SP]my[SP]face[SP]or[SP][1113]'s[SP]gets[SP]messed[SP]up,\nI'll[SP]mess[SP]yours[SP]up[SP]even[SP]worse!",
    "data_size": 150,
    "budget": 142
@@ -468,25 +462,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé, Boss en slip! Ne nous traite pas"
+       "t": "Hé, Boss des calbutes! Ne nous traite pas comme ces"
       },
       {
        "nl": true
       },
       {
-       "t": "comme ces idiots! "
+       "t": "idiots! "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " n'est pas"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "le Boss de Seven!"
+       "t": " n'est pas le Boss de Seven!"
       }
      ]
     }
@@ -521,7 +509,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, Boss en slip! Ne nous traite pas\ncomme ces idiots! [1113] n'est pas\nle Boss de Seven!",
+   "brut_fr": "Hé, Boss des calbutes! Ne nous traite pas comme ces\nidiots! [1113] n'est pas le Boss de Seven!",
    "brut_en": "Hey,[SP]Undie[SP]Boss![SP]Don't[SP]treat[SP]us[SP]the[SP]same[SP]as\nthese[SP]idiots![SP]It's[SP]not[SP]like[SP][1113]'s[SP]the\nBoss[SP]of[SP]Sevens[SP]or[SP]anything!",
    "data_size": 236,
    "budget": 228
@@ -538,25 +526,16 @@
        "hero": "prenom"
       },
       {
-       "t": "? Le Boss en slip est un"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "vrai leader?"
+       "t": "? Le Boss des calbutes est un vrai leader?"
       },
       {
        "pause": true
       },
       {
-       "t": " Les mecs"
-      },
-      {
        "nl": true
       },
       {
-       "t": "comme lui sont rares de nos jours."
+       "t": "Les mecs comme lui sont rares de nos jours."
       }
      ]
     }
@@ -597,7 +576,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113]? Le Boss en slip est un\nvrai leader?[1205][001E] Les mecs\ncomme lui sont rares de nos jours.",
+   "brut_fr": "[1113]? Le Boss des calbutes est un vrai leader?[1205][001E]\nLes mecs comme lui sont rares de nos jours.",
    "brut_en": "Hey,[SP][1113]?[SP]You[SP]think[SP]the[SP]Undie[SP]Boss[SP]is\nsincere[SP]about[SP]being[SP]a[SP]leader?[1205][001E][SP]Guys[SP]like[SP]him\nare[SP]pretty[SP]rare[SP]these[SP]days.",
    "data_size": 240,
    "budget": 232
@@ -687,19 +666,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je pense qu'Eikichi-kun veut dire la"
+       "t": "Je pense qu'Eikichi-kun veut dire"
       },
       {
        "nl": true
       },
       {
-       "t": "même chose que Yukki, il ne sait juste"
+       "t": "la même chose que Yukki, il ne sait"
       },
       {
        "nl": true
       },
       {
-       "t": "pas comment le formuler."
+       "t": "juste pas comment le formuler."
       }
      ]
     }
@@ -728,7 +707,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je pense qu'Eikichi-kun veut dire la\nmême chose que Yukki, il ne sait juste\npas comment le formuler.",
+   "brut_fr": "Je pense qu'Eikichi-kun veut dire\nla même chose que Yukki, il ne sait\njuste pas comment le formuler.",
    "brut_en": "I[SP]think[SP]Eikichi-kun[SP]wants[SP]to[SP]say[SP]the[SP]same\nthing[SP]as[SP]Yukki,[SP]he[SP]just[SP]doesn't[SP]know[SP]how\nto[SP]say[SP]it[SP]that[SP]well.",
    "data_size": 226,
    "budget": 218
@@ -742,19 +721,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Avant, la loi c'était le Boss. Il fixait"
+       "t": "Avant, la loi c'était le Boss. Il"
       },
       {
        "nl": true
       },
       {
-       "t": "les limites pour ne pas aller trop"
+       "t": "fixait les limites pour ne pas aller"
       },
       {
        "nl": true
       },
       {
-       "t": "loin."
+       "t": "trop loin."
       },
       {
        "pause": true
@@ -795,7 +774,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Avant, la loi c'était le Boss. Il fixait\nles limites pour ne pas aller trop\nloin.[1205]( Je trouve Eikichi-kun cool!",
+   "brut_fr": "Avant, la loi c'était le Boss. Il\nfixait les limites pour ne pas aller\ntrop loin.[1205]( Je trouve Eikichi-kun cool!",
    "brut_en": "It[SP]used[SP]to[SP]be[SP]that[SP]a[SP]Boss[SP]was[SP]the[SP]law.[SP]He\ndrew[SP]the[SP]line,[SP]so[SP]things[SP]didn't[SP]go[SP]too[SP]far.[1205](\nI[SP]think[SP]Eikichi-kun[SP]is[SP]pretty[SP]cool!",
    "data_size": 266,
    "budget": 258
@@ -864,31 +843,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "À quoi va te servir un emblème!? Tu"
+       "t": "À quoi va te servir un emblème!? Tu as"
       },
       {
        "nl": true
       },
       {
-       "t": "as d'autres options."
+       "t": "d'autres options."
       },
       {
        "pause": true
       },
       {
-       "t": "( Si tu dois"
+       "t": "( Si tu dois pleurnicher,"
       },
       {
        "nl": true
       },
       {
-       "t": "pleurnicher, fais-le après les avoir"
+       "t": "fais-le après les avoir"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "toutes épuisées!"
+       "t": " toutes épuisées!"
       }
      ]
     }
@@ -923,7 +902,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "À quoi va te servir un emblème!? Tu\nas d'autres options.[1205]( Si tu dois\npleurnicher, fais-le après les avoir\ntoutes épuisées!",
+   "brut_fr": "À quoi va te servir un emblème!? Tu as\nd'autres options.[1205]( Si tu dois pleurnicher,\nfais-le après les avoir[1205][U+000F] toutes épuisées!",
    "brut_en": "What[SP]good[SP]is[SP]some[SP]emblem[SP]gonna[SP]do[SP]you!?\nYou[SP]still[SP]got[SP]options.[1205]([SP]If[SP]you're[SP]gonna[SP]whine,\ndo[SP]it[SP]after[SP]you've[SP]exhausted[SP]them[SP]all!",
    "data_size": 276,
    "budget": 268
@@ -943,19 +922,16 @@
        "pause": true
       },
       {
-       "t": " Malgré"
+       "nl": true
+      },
+      {
+       "t": "Malgré les apparences, je suis sûre"
       },
       {
        "nl": true
       },
       {
-       "t": "les apparences, je suis sûre qu'il a vécu"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "beaucoup de choses."
+       "t": "qu'il a vécu beaucoup de choses."
       }
      ]
     }
@@ -990,7 +966,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Montrer l'exemple est très dur.[1205][001E] Malgré\nles apparences, je suis sûre qu'il a vécu\nbeaucoup de choses.",
+   "brut_fr": "Montrer l'exemple est très dur.[1205][001E]\nMalgré les apparences, je suis sûre\nqu'il a vécu beaucoup de choses.",
    "brut_en": "Setting[SP]an[SP]example[SP]is[SP]a[SP]lot[SP]harder[SP]than[SP]it\nlooks.[1205][001E][SP]He[SP]may[SP]not[SP]seem[SP]like[SP]it,[SP]but[SP]I'm[SP]sure\nhe's[SP]been[SP]through[SP]a[SP]lot.",
    "data_size": 252,
    "budget": 244
@@ -1004,19 +980,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Senpai, pitié! Prenez l'insigne du Lycée"
+       "t": "Senpai, pitié! Prenez l'insigne"
       },
       {
        "nl": true
       },
       {
-       "t": "Kakasu de ce gars! Si on l'a, ça"
+       "t": "du Lycée Kakasu de ce gars! Si on"
       },
       {
        "nl": true
       },
       {
-       "t": "devrait nous protéger!"
+       "t": "l'a, ça devrait nous protéger!"
       }
      ]
     }
@@ -1045,7 +1021,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Senpai, pitié! Prenez l'insigne du Lycée\nKakasu de ce gars! Si on l'a, ça\ndevrait nous protéger!",
+   "brut_fr": "Senpai, pitié! Prenez l'insigne\ndu Lycée Kakasu de ce gars! Si on\nl'a, ça devrait nous protéger!",
    "brut_en": "P-Please,[SP]Senpai![SP]Take[SP]that[SP]guy's[SP]Cuss[SP]High\nemblem![SP]If[SP]you[SP]give[SP]it[SP]to[SP]us,[SP]it[SP]should\nprotect[SP]us[SP]from[SP]the[SP]curse!",
    "data_size": 256,
    "budget": 248
@@ -1065,13 +1041,19 @@
        "nl": true
       },
       {
-       "t": "Il nous le donnera pas gentiment."
+       "t": "Il nous le donnera pas gentiment. Allez,"
       },
       {
        "nl": true
       },
       {
-       "t": "Allez, vous êtes fort, vous pouvez le faire!"
+       "t": "vous êtes fort, vous pouvez le "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " faire!"
       }
      ]
     }
@@ -1100,7 +1082,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous voulez pas tomber malade non plus?\nIl nous le donnera pas gentiment.\nAllez, vous êtes fort, vous pouvez le faire!",
+   "brut_fr": "Vous voulez pas tomber malade non plus?\nIl nous le donnera pas gentiment. Allez,\nvous êtes fort, vous pouvez le [1205][U+000F] faire!",
    "brut_en": "You[SP]don't[SP]want[SP]to[SP]get[SP]sick[SP]either,[SP]do[SP]you?\nIt's[SP]not[SP]like[SP]he'll[SP]give[SP]it[SP]to[SP]us[SP]if[SP]we[SP]ask\nnicely.[SP]C'mon,[SP]you're[SP]strong,[SP]you[SP]can[SP]do[SP]it!",
    "data_size": 298,
    "budget": 290
@@ -1120,19 +1102,13 @@
        "pause": true
       },
       {
-       "t": " L-La malédiction"
+       "t": " L-La malédiction m'a"
       },
       {
        "nl": true
       },
       {
-       "t": "m'a eu! C-C'est votre"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "faute, Senpai!"
+       "t": "eu! C-C'est votre faute, Senpai!"
       }
      ]
     }
@@ -1161,7 +1137,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Waaah! Noooon![1205][001E] L-La malédiction\nm'a eu! C-C'est votre\nfaute, Senpai!",
+   "brut_fr": "Waaah! Noooon![1205][001E] L-La malédiction m'a\neu! C-C'est votre faute, Senpai!",
    "brut_en": "Waaaaah![SP]Noooo![1205][001E][SP]Th-The[SP]curse![SP]It's[SP]got[SP]me!\nTh-This[SP]is[SP]all[SP]your[SP]fault,[SP]Senpai!",
    "data_size": 202,
    "budget": 194
@@ -1175,19 +1151,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pitié, donnez-moi votre insigne!"
+       "t": "Pitié, donnez-moi votre insigne! Je"
       },
       {
        "nl": true
       },
       {
-       "t": "Je paierai le prix fort!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Pitié! Pitiééééééé!?"
+       "t": "paierai le prix fort! Pitié! Pitiééééééé!?"
       }
      ]
     }
@@ -1210,7 +1180,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pitié, donnez-moi votre insigne!\nJe paierai le prix fort!\nPitié! Pitiééééééé!?",
+   "brut_fr": "Pitié, donnez-moi votre insigne! Je\npaierai le prix fort! Pitié! Pitiééééééé!?",
    "brut_en": "Please[SP]let[SP]me[SP]have[SP]your[SP]emblem![SP]I[SP]can[SP]pay!\nJust[SP]name[SP]your[SP]price![SP]Please![SP]Pleeeeease!?",
    "data_size": 214,
    "budget": 206
@@ -1230,19 +1200,19 @@
        "nl": true
       },
       {
-       "t": "dirlo! Rien à voir avec CERTAINS"
+       "t": "dirlo! Rien à voir avec CERTAINS ici qui"
       },
       {
        "nl": true
       },
       {
-       "t": "ici qui ne font que parler."
+       "t": "ne font que parler."
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "N'est-ce pas, Senpai?"
+       "t": " N'est-ce pas, Senpai?"
       }
      ]
     }
@@ -1271,7 +1241,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Malédiction levée! Tout ça grâce au\ndirlo! Rien à voir avec CERTAINS\nici qui ne font que parler.\nN'est-ce pas, Senpai?",
+   "brut_fr": "Malédiction levée! Tout ça grâce au\ndirlo! Rien à voir avec CERTAINS ici qui\nne font que parler.[1205][U+000F] N'est-ce pas, Senpai?",
    "brut_en": "The[SP]curse[SP]is[SP]lifted![SP]It's[SP]all[SP]thanks[SP]to[SP]the\nprincipal![SP]He's[SP]nothing[SP]like[SP]SOME[SP]people[SP]here\nwho[SP]are[SP]all[SP]talk.[SP]Isn't[SP]that[SP]so,[SP]Senpai?",
    "data_size": 296,
    "budget": 288
@@ -1285,25 +1255,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Malédiction levée! C'est grâce au"
+       "t": "Malédiction levée! C'est grâce au dirlo!"
       },
       {
        "nl": true
       },
       {
-       "t": "dirlo! Si seulement un certain"
+       "t": "Si seulement un certain beau parleur"
       },
       {
        "nl": true
       },
       {
-       "t": "beau parleur était mort à"
+       "t": "était mort à"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "sa place. Hein, Senpai?"
+       "t": " sa place. Hein, Senpai?"
       }
      ]
     }
@@ -1332,7 +1302,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Malédiction levée! C'est grâce au\ndirlo! Si seulement un certain\nbeau parleur était mort à\nsa place. Hein, Senpai?",
+   "brut_fr": "Malédiction levée! C'est grâce au dirlo!\nSi seulement un certain beau parleur\nétait mort à[1205][U+000F] sa place. Hein, Senpai?",
    "brut_en": "The[SP]curse[SP]is[SP]lifted![SP]It's[SP]all[SP]thanks[SP]to[SP]the\nprincipal![SP]If[SP]only[SP]a[SP]certain[SP]someone[SP]who's\nall[SP]talk[SP]had[SP]died[SP]in[SP]his[SP]place.[SP]Eh,[SP]Senpai?",
    "data_size": 296,
    "budget": 288
@@ -1413,19 +1383,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "O-On doit détruire les emblèmes! J-Je peux"
+       "t": "O-On doit détruire les emblèmes! J-Je"
       },
       {
        "nl": true
       },
       {
-       "t": "pas tomber malade! Hors de question que"
+       "t": "peux pas tomber malade! Hors de question"
       },
       {
        "nl": true
       },
       {
-       "t": "mon copain me voie toute bandée!"
+       "t": "que mon copain me voie toute bandée!"
       }
      ]
     }
@@ -1454,7 +1424,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "O-On doit détruire les emblèmes! J-Je peux\npas tomber malade! Hors de question que\nmon copain me voie toute bandée!",
+   "brut_fr": "O-On doit détruire les emblèmes! J-Je\npeux pas tomber malade! Hors de question\nque mon copain me voie toute bandée!",
    "brut_en": "W-We[SP]need[SP]to[SP]destroy[SP]the[SP]emblems![SP]I-I[SP]can't\nget[SP]sick![SP]There's[SP]no[SP]way[SP]I'm[SP]letting[SP]my\nboyfriend[SP]see[SP]me[SP]all[SP]bandaged[SP]up!",
    "data_size": 274,
    "budget": 266
@@ -1468,19 +1438,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Dernier insigne détruit ici!"
+       "t": "Dernier insigne détruit ici! Allez"
       },
       {
        "nl": true
       },
       {
-       "t": "Allez détruire ceux des"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "autres pièces!"
+       "t": "détruire ceux des autres pièces!"
       }
      ]
     }
@@ -1503,7 +1467,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dernier insigne détruit ici!\nAllez détruire ceux des\nautres pièces!",
+   "brut_fr": "Dernier insigne détruit ici! Allez\ndétruire ceux des autres pièces!",
    "brut_en": "You[SP]destroyed[SP]the[SP]last[SP]emblem[SP]here![SP]Now[SP]go\ndestroy[SP]the[SP]ones[SP]in[SP]the[SP]other[SP]rooms!",
    "data_size": 198,
    "budget": 190
@@ -1529,13 +1493,13 @@
        "pause": true
       },
       {
-       "t": " Euh, où en"
+       "t": " Euh, où"
       },
       {
        "nl": true
       },
       {
-       "t": "ai-je vu d'autres?"
+       "t": "en ai-je vu d'autres?"
       },
       {
        "pause": true
@@ -1606,7 +1570,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Faut se dépêcher...[1205][U+0008] Vite...[1205][U+000A] Euh, où en\nai-je vu d'autres?[1205][U+000F] Ah, la salle\ndes profs![1205][U+000F] Y'a des insignes là-bas!",
+   "brut_fr": "Faut se dépêcher...[1205][U+0008] Vite...[1205][U+000A] Euh, où\nen ai-je vu d'autres?[1205][U+000F] Ah, la salle\ndes profs![1205][U+000F] Y'a des insignes là-bas!",
    "brut_en": "Gotta[SP]hurry...[1205][U+0008][SP]Gotta[SP]hurry...[1205][U+000A][SP]Umm,[SP]where[SP]else\ndid[SP]I[SP]see[SP]'em?[1205][U+000F][SP]Oh,[SP]right,[SP]the[SP]teachers'\nlounge![1205][U+000F][SP]There's[SP]emblems[SP]there[SP]too!",
    "data_size": 296,
    "budget": 288
@@ -1626,16 +1590,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Allez détruire les insignes"
+       "t": " Allez"
       },
       {
        "nl": true
       },
       {
-       "t": "dans la salle des profs!"
+       "t": "détruire les insignes dans la salle des profs!"
       }
      ]
     }
@@ -1667,7 +1628,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dépêchez-vous ou je serai malade![1205][U+000A]\nAllez détruire les insignes\ndans la salle des profs!",
+   "brut_fr": "Dépêchez-vous ou je serai malade![1205][U+000A] Allez\ndétruire les insignes dans la salle des profs!",
    "brut_en": "If[SP]you[SP]don't[SP]hurry,[SP]I'll[SP]get[SP]sick[SP]too![1205][U+000A]\nPlease[SP]go[SP]destroy[SP]the[SP]emblems[SP]in[SP]the\nteachers'[SP]lounge!",
    "data_size": 230,
    "budget": 222
@@ -1681,19 +1642,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est fini... Il va me larguer..."
+       "t": "C'est fini... Il va me larguer... "
       },
       {
        "nl": true
       },
       {
-       "t": " Je sais! Le Joker"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "peut arranger ça..."
+       "t": "Je sais! Le Joker peut arranger ça..."
       }
      ]
     }
@@ -1722,7 +1677,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est fini... Il va me larguer...\n[ONOMATOPÉE] Je sais! Le Joker\npeut arranger ça...",
+   "brut_fr": "C'est fini... Il va me larguer... [ONOMATOPÉE]\nJe sais! Le Joker peut arranger ça...",
    "brut_en": "It's[SP]all[SP]over...[SP]I'm[SP]gonna[SP]get[SP]dumped[SP]for\nsure...[SP]*sniffle*[SP]I[SP]know![SP]I[SP]can[SP]ask[SP]Joker\nto[SP]fix[SP]this...",
    "data_size": 244,
    "budget": 236
@@ -1812,7 +1767,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein!? C'est le Boss en slip?"
+       "t": "Hein!? C'est le Boss des calbutes?"
       },
       {
        "nl": true
@@ -1841,7 +1796,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein!? C'est le Boss en slip?\nQue fait-il avec vous, Senpai?",
+   "brut_fr": "Hein!? C'est le Boss des calbutes?\nQue fait-il avec vous, Senpai?",
    "brut_en": "Huh!?[SP]Isn't[SP]that[SP]Undie[SP]Boss?[SP]What's[SP]he[SP]doing\nwith[SP]you,[SP]Senpai?",
    "data_size": 178,
    "budget": 170
@@ -1855,19 +1810,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh, je pige! Vous êtes potes maintenant."
+       "t": "Oh, je pige! Vous êtes potes"
       },
       {
        "nl": true
       },
       {
-       "t": "On dirait que les rumeurs sur vos exploits"
+       "t": "maintenant. On dirait que les rumeurs"
       },
       {
        "nl": true
       },
       {
-       "t": "sont vraies!"
+       "t": "sur vos exploits sont vraies!"
       }
      ]
     }
@@ -1890,7 +1845,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh, je pige! Vous êtes potes maintenant.\nOn dirait que les rumeurs sur vos exploits\nsont vraies!",
+   "brut_fr": "Oh, je pige! Vous êtes potes\nmaintenant. On dirait que les rumeurs\nsur vos exploits sont vraies!",
    "brut_en": "Oh,[SP]I[SP]get[SP]it![SP]You[SP]two[SP]are[SP]bros[SP]now.[SP]Sounds[SP]like\nthe[SP]rumors[SP]about[SP]your[SP]exploits[SP]are[SP]true!",
    "data_size": 230,
    "budget": 222
@@ -1910,13 +1865,16 @@
        "nl": true
       },
       {
-       "t": "Senpai. Le concierge a dit avant que"
+       "t": "Senpai. Le concierge a dit avant que "
+      },
+      {
+       "enc": "le"
       },
       {
        "nl": true
       },
       {
-       "enc": "le monde périra si l'horloge démarre"
+       "enc": "monde périra si l'horloge démarre"
       },
       {
        "t": "!"
@@ -1954,7 +1912,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je viens de me rappeler un truc flippant,\nSenpai. Le concierge a dit avant que\n[1432][NULL][NULL][0014]le monde périra si l'horloge démarre[1432][NULL][NULL][0014]!",
+   "brut_fr": "Je viens de me rappeler un truc flippant,\nSenpai. Le concierge a dit avant que [1432][NULL][NULL][0014]le\nmonde périra si l'horloge démarre[1432][NULL][NULL][0014]!",
    "brut_en": "I[SP]just[SP]remembered[SP]something[SP]creepy,[SP]Senpai.\nThe[SP]janitor[SP]said[SP]before[SP]that[SP][1432][NULL][NULL][0014]the[SP]world[SP]will\nperish[SP]if[SP]the[SP]clock[SP]starts[1432][NULL][NULL][0014]!",
    "data_size": 300,
    "budget": 292
@@ -1968,25 +1926,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je ne l'ai pas cru, bien sûr, mais"
+       "t": "Je ne l'ai pas cru, bien sûr, mais regardez"
       },
       {
        "nl": true
       },
       {
-       "t": "regardez ce qui se passe depuis qu'elle"
+       "t": "ce qui se passe depuis qu'elle refait"
       },
       {
        "nl": true
       },
       {
-       "t": "refait tic-tac. Se pourrait-il que"
+       "t": "tic-tac. Se pourrait-il que"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "ce soit vrai...?"
+       "t": " ce soit vrai...?"
       }
      ]
     }
@@ -2015,7 +1973,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne l'ai pas cru, bien sûr, mais\nregardez ce qui se passe depuis qu'elle\nrefait tic-tac. Se pourrait-il que\nce soit vrai...?",
+   "brut_fr": "Je ne l'ai pas cru, bien sûr, mais regardez\nce qui se passe depuis qu'elle refait\ntic-tac. Se pourrait-il que[1205][U+000F] ce soit vrai...?",
    "brut_en": "I[SP]didn't[SP]believe[SP]him,[SP]of[SP]course,[SP]but[SP]look\nwhat's[SP]happened[SP]ever[SP]since[SP]it[SP]started[SP]ticking\nagain.[SP]Could[SP]it[SP]have[SP]been[SP]true...?",
    "data_size": 298,
    "budget": 290
@@ -2084,19 +2042,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Y'a un gars nommé Toro qui en sait plus."
+       "t": "Y'a un gars nommé Toro qui en sait"
       },
       {
        "nl": true
       },
       {
-       "t": "Mais Rosa Candida n'est pas une boutique?"
+       "t": "plus. Mais Rosa Candida n'est pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Ça me paraît louche..."
+       "t": "une boutique? Ça me paraît louche..."
       }
      ]
     }
@@ -2125,7 +2083,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Y'a un gars nommé Toro qui en sait plus.\nMais Rosa Candida n'est pas une boutique?\nÇa me paraît louche...",
+   "brut_fr": "Y'a un gars nommé Toro qui en sait\nplus. Mais Rosa Candida n'est pas\nune boutique? Ça me paraît louche...",
    "brut_en": "There's[SP]some[SP]guy[SP]called[SP]Toro[SP]who[SP]knows[SP]more\nabout[SP]it.[SP]But[SP]isn't[SP]Rosa[SP]Candida[SP]a[SP]boutique?\nSounds[SP]fishy[SP]to[SP]me...",
    "data_size": 256,
    "budget": 248
@@ -2139,25 +2097,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Depuis que l'horloge a démarré, genre,"
+       "t": "Depuis que l'horloge a démarré, genre, tout le"
       },
       {
        "nl": true
       },
       {
-       "t": "tout le bahut panique? Je veux partir,"
+       "t": "bahut panique? Je veux partir, mais le dirlo a"
       },
       {
        "nl": true
       },
       {
-       "t": "mais le dirlo a dit non? Et comme je"
+       "t": "dit non? Et comme je"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "l'aime bien, alors...?"
+       "t": " l'aime bien, alors...?"
       }
      ]
     }
@@ -2186,7 +2144,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Depuis que l'horloge a démarré, genre,\ntout le bahut panique? Je veux partir,\nmais le dirlo a dit non? Et comme je\nl'aime bien, alors...?",
+   "brut_fr": "Depuis que l'horloge a démarré, genre, tout le\nbahut panique? Je veux partir, mais le dirlo a\ndit non? Et comme je[1205][U+000F] l'aime bien, alors...?",
    "brut_en": "Ever[SP]since[SP]that[SP]clock[SP]started,[SP]the[SP]whole\nschool's[SP]like,[SP]panicking?[SP]I[SP]wanna[SP]leave,[SP]but\nthe[SP]principal[SP]says[SP]no?[SP]And[SP]I[SP]like[SP]him,[SP]so...?",
    "data_size": 320,
    "budget": 312
@@ -2200,25 +2158,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Genre, tous cherchent des insignes?"
+       "t": "Genre, tous cherchent des insignes? Moi"
       },
       {
        "nl": true
       },
       {
-       "t": "Moi je m'en fiche, je suis"
+       "t": "je m'en fiche, je suis déjà maudite."
       },
       {
        "nl": true
       },
       {
-       "t": "déjà maudite. Genre, haha,"
+       "t": "Genre, haha,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "vous êtes tous foutus!"
+       "t": " vous êtes tous foutus!"
       }
      ]
     }
@@ -2247,7 +2205,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Genre, tous cherchent des insignes?\nMoi je m'en fiche, je suis\ndéjà maudite. Genre, haha,\nvous êtes tous foutus!",
+   "brut_fr": "Genre, tous cherchent des insignes? Moi\nje m'en fiche, je suis déjà maudite.\nGenre, haha,[1205][U+000F] vous êtes tous foutus!",
    "brut_en": "It's[SP]like,[SP]everyone's[SP]looking[SP]for[SP]emblems?\nBut[SP]I'm[SP]like,[SP]who[SP]cares,[SP]'cause[SP]I'm[SP]cursed\nalready.[SP]Like,[SP]haha,[SP]you[SP]guys[SP]are[SP]screwed!",
    "data_size": 314,
    "budget": 306
@@ -2261,19 +2219,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est genre super nul, mais le dirlo nous a"
+       "t": "C'est genre super nul, mais le dirlo nous"
       },
       {
        "nl": true
       },
       {
-       "t": "dit de le faire? C'est genre, whoa, je sais"
+       "t": "a dit de le faire? C'est genre, whoa, je "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "même pas comment nettoyer, tu vois?"
+       "t": "sais même pas comment nettoyer, tu vois?"
       }
      ]
     }
@@ -2302,7 +2263,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est genre super nul, mais le dirlo nous a\ndit de le faire? C'est genre, whoa, je sais\nmême pas comment nettoyer, tu vois?",
+   "brut_fr": "C'est genre super nul, mais le dirlo nous\na dit de le faire? C'est genre, whoa, je [1205][U+000F]\nsais même pas comment nettoyer, tu vois?",
    "brut_en": "This[SP]sucks[SP]like,[SP]pretty[SP]hardcore,[SP]but[SP]the\nprincipal[SP]told[SP]us[SP]to[SP]do[SP]it?[SP]It's[SP]like,[SP]whoa,\nI[SP]don't[SP]even[SP]know[SP]how[SP]to[SP]clean,[SP]y'know?",
    "data_size": 310,
    "budget": 302
@@ -2316,19 +2277,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Genre, la malédiction est finie?"
+       "t": "Genre, la malédiction est finie? Je suis"
       },
       {
        "nl": true
       },
       {
-       "t": "Je suis de nouveau mignonne?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "J'ai trop de bol."
+       "t": "de nouveau mignonne? J'ai trop de bol."
       }
      ]
     }
@@ -2351,7 +2306,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Genre, la malédiction est finie?\nJe suis de nouveau mignonne?\nJ'ai trop de bol.",
+   "brut_fr": "Genre, la malédiction est finie? Je suis\nde nouveau mignonne? J'ai trop de bol.",
    "brut_en": "So,[SP]like,[SP]the[SP]curse[SP]is[SP]gone?[SP]And[SP]I'm[SP]totally\ncute[SP]again?[SP]I'm[SP]super[SP]lucky[SP]and[SP]junk.",
    "data_size": 204,
    "budget": 196
@@ -2365,19 +2320,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Dernier insigne détruit ici!"
+       "t": "Dernier insigne détruit ici! Allez"
       },
       {
        "nl": true
       },
       {
-       "t": "Allez détruire ceux des"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "autres pièces!"
+       "t": "détruire ceux des autres pièces!"
       }
      ]
     }
@@ -2400,7 +2349,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dernier insigne détruit ici!\nAllez détruire ceux des\nautres pièces!",
+   "brut_fr": "Dernier insigne détruit ici! Allez\ndétruire ceux des autres pièces!",
    "brut_en": "You[SP]destroyed[SP]the[SP]last[SP]emblem[SP]here![SP]Now[SP]go\ndestroy[SP]the[SP]ones[SP]in[SP]the[SP]other[SP]rooms!",
    "data_size": 198,
    "budget": 190
@@ -2426,13 +2375,13 @@
        "pause": true
       },
       {
-       "t": " Euh, où en"
+       "t": " Euh, où"
       },
       {
        "nl": true
       },
       {
-       "t": "ai-je vu d'autres?"
+       "t": "en ai-je vu d'autres?"
       },
       {
        "pause": true
@@ -2503,7 +2452,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Faut se dépêcher...[1205][U+0008] Vite...[1205][U+000A] Euh, où en\nai-je vu d'autres?[1205][U+000F] Ah, la salle\ndes profs![1205][U+000F] Y'a des insignes là-bas!",
+   "brut_fr": "Faut se dépêcher...[1205][U+0008] Vite...[1205][U+000A] Euh, où\nen ai-je vu d'autres?[1205][U+000F] Ah, la salle\ndes profs![1205][U+000F] Y'a des insignes là-bas!",
    "brut_en": "Gotta[SP]hurry...[1205][U+0008][SP]Gotta[SP]hurry...[1205][U+000A][SP]Umm,[SP]where[SP]else\ndid[SP]I[SP]see[SP]'em?[1205][U+000F][SP]Oh,[SP]right,[SP]the[SP]teachers'\nlounge![1205][U+000F][SP]There's[SP]emblems[SP]there[SP]too!",
    "data_size": 296,
    "budget": 288
@@ -2523,16 +2472,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Allez détruire les insignes"
+       "t": " Allez"
       },
       {
        "nl": true
       },
       {
-       "t": "dans la salle des profs!"
+       "t": "détruire les insignes dans la salle des profs!"
       }
      ]
     }
@@ -2564,7 +2510,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dépêchez-vous ou je serai malade![1205][U+000A]\nAllez détruire les insignes\ndans la salle des profs!",
+   "brut_fr": "Dépêchez-vous ou je serai malade![1205][U+000A] Allez\ndétruire les insignes dans la salle des profs!",
    "brut_en": "If[SP]you[SP]don't[SP]hurry,[SP]I'll[SP]get[SP]sick[SP]too![1205][U+000A]\nPlease[SP]go[SP]destroy[SP]the[SP]emblems[SP]in[SP]the\nteachers'[SP]lounge!",
    "data_size": 230,
    "budget": 222

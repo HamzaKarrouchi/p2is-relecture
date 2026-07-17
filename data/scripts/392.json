@@ -16,7 +16,7 @@
        "pause": true
       },
       {
-       "t": " Rien de cassé ?"
+       "t": " Rien de cassé?"
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouf...[1205][0014] Rien de cassé ?",
+   "brut_fr": "Ouf...[1205][0014] Rien de cassé?",
    "brut_en": "Whew...[1205][0014][SP]Is[SP]everyone[SP]okay?",
    "data_size": 74,
    "budget": 66
@@ -53,7 +53,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "H-Hé... Ça ne va pas !? Vous avez peur ?"
+       "t": "H-Hé... Ça ne va pas!? Vous avez peur?"
       }
      ]
     }
@@ -70,7 +70,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "H-Hé... Ça ne va pas !? Vous avez peur ?",
+   "brut_fr": "H-Hé... Ça ne va pas!? Vous avez peur?",
    "brut_en": "H-Hey...[SP]What's[SP]wrong!?[SP]Were[SP]you[SP]that[SP]scared?",
    "data_size": 110,
    "budget": 102
@@ -90,7 +90,7 @@
        "pause": true
       },
       {
-       "t": " Pourquoi je pleure ?"
+       "t": " Pourquoi je pleure?"
       },
       {
        "pause": true
@@ -99,7 +99,7 @@
        "nl": true
       },
       {
-       "t": " *sniff* Ça ne s'arrête pas..."
+       "t": "*sniff* Ça ne s'arrête pas..."
       }
      ]
     }
@@ -131,7 +131,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein...?[1205][0014] Pourquoi je pleure ?[1205][0014]\n *sniff* Ça ne s'arrête pas...",
+   "brut_fr": "Hein...?[1205][0014] Pourquoi je pleure?[1205][0014]\n*sniff* Ça ne s'arrête pas...",
    "brut_en": "Huh...?[1205][0014][SP]Why[SP]am[SP]I[SP]crying?[SP]The[SP]tears...[1205][0014]\nThey[SP]*sniff*[SP]won't[SP]stop...",
    "data_size": 158,
    "budget": 150
@@ -151,22 +151,28 @@
        "pause": true
       },
       {
-       "t": " si précieux... Plus doux qu'avec "
-      },
-      {
-       "hero": "prenom"
-      },
-      {
-       "t": " ou Ginko..."
-      },
-      {
-       "pause": true
+       "t": " si précieux... Plus doux qu'avec"
       },
       {
        "nl": true
       },
       {
-       "t": "Comme un câlin de ma mère..."
+       "hero": "prenom"
+      },
+      {
+       "t": "ou Ginko..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Comme un câlin de ma"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mère..."
       }
      ]
     }
@@ -210,7 +216,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est...[1205][0014] si précieux... Plus doux qu'avec [1113] ou Ginko...[1205][0014]\nComme un câlin de ma mère...",
+   "brut_fr": "C'est...[1205][0014] si précieux... Plus doux qu'avec\n[1113]ou Ginko...[1205][0014] Comme un câlin de ma\nmère...",
    "brut_en": "It's[SP]like...[1205][0014][SP]some[SP]cherished[SP]memory...[SP]Warmer\nthan[SP]what[SP]I[SP]felt[SP]with[SP][1113][SP]or[SP]Ginko...[1205][0014]\nLike[SP]being[SP]hugged[SP]by[SP]my[SP]mom...",
    "data_size": 256,
    "budget": 248
@@ -230,13 +236,13 @@
        "pause": true
       },
       {
-       "t": " Je le sens aussi. Qu'était donc"
+       "t": " Je le sens aussi. Qu'était"
       },
       {
        "nl": true
       },
       {
-       "t": "ce sentiment de nostalgie..."
+       "t": "donc ce sentiment de nostalgie..."
       }
      ]
     }
@@ -265,7 +271,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Étrange...[1205][0014] Je le sens aussi. Qu'était donc\nce sentiment de nostalgie...",
+   "brut_fr": "Étrange...[1205][0014] Je le sens aussi. Qu'était\ndonc ce sentiment de nostalgie...",
    "brut_en": "How[SP]strange...[1205][0014][SP]I[SP]felt[SP]it[SP]too.[SP]What[SP]was[SP]that\nodd[SP]wave[SP]of[SP]nostalgia[SP]about...?",
    "data_size": 174,
    "budget": 166

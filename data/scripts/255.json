@@ -10,25 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai enfin une place de titulaire!"
+       "t": "J'ai enfin une place de titulaire! Héhé, plus"
       },
       {
        "nl": true
       },
       {
-       "t": "Héhé, plus personne ne me traitera"
+       "t": "personne ne me traitera de remplaçant!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " La"
       },
       {
        "nl": true
       },
       {
-       "t": "de remplaçant! La ligue majeure,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "j'arrive! À moi les groupies!"
+       "t": "ligue majeure, j'arrive! À moi les groupies!"
       }
      ]
     }
@@ -57,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai enfin une place de titulaire!\nHéhé, plus personne ne me traitera\nde remplaçant! La ligue majeure,\nj'arrive! À moi les groupies!",
+   "brut_fr": "J'ai enfin une place de titulaire! Héhé, plus\npersonne ne me traitera de remplaçant![1205][U+000F] La\nligue majeure, j'arrive! À moi les groupies!",
    "brut_en": "I've[SP]finally[SP]got[SP]a[SP]spot[SP]in[SP]the[SP]starting[SP]lineup!\nHeheh,[SP]no[SP]one[SP]can[SP]call[SP]me[SP]a[SP]benchwarmer[SP]now!\nBig[SP]leagues,[SP]here[SP]I[SP]come![SP]Bring[SP]on[SP]the[SP]groupies!",
    "data_size": 324,
    "budget": 316
@@ -77,25 +77,25 @@
        "enc": "lycée Seven Sisters"
       },
       {
-       "t": " a un nom"
+       "t": " a un nom bizarre."
       },
       {
        "nl": true
       },
       {
-       "t": "bizarre. Le nom de Sumaru vient des"
+       "t": "Le nom de Sumaru vient des Pléiades,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " et le"
       },
       {
        "nl": true
       },
       {
-       "t": "Pléiades, et le lycée semble nommé"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "d'après ces sept sœurs."
+       "t": "lycée semble nommé d'après ces sept sœurs."
       }
      ]
     }
@@ -127,7 +127,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le [1432][NULL][NULL][0014]lycée Seven Sisters[1432][NULL][NULL][0014] a un nom\nbizarre. Le nom de Sumaru vient des\nPléiades, et le lycée semble nommé\nd'après ces sept sœurs.",
+   "brut_fr": "Le [1432][NULL][NULL][0014]lycée Seven Sisters[1432][NULL][NULL][0014] a un nom bizarre.\nLe nom de Sumaru vient des Pléiades,[1205][U+000F] et le\nlycée semble nommé d'après ces sept sœurs.",
    "brut_en": "[1432][NULL][NULL][0014]Seven[SP]Sisters[SP]High[1432][NULL][NULL][0014][SP]is[SP]an[SP]odd[SP]name.[SP]Sumaru's\nname[SP]comes[SP]from[SP]the[SP]Pleiades,[SP]and[SP]the[SP]school\nseems[SP]to[SP]be[SP]named[SP]after[SP]those[SP]seven[SP]sisters.",
    "data_size": 322,
    "budget": 314
@@ -141,25 +141,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais le nom est si long que"
+       "t": "Mais le nom est si long que la plupart disent"
       },
       {
        "nl": true
       },
       {
-       "t": "la plupart disent juste Seven."
+       "t": "juste Seven."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'aimais bien le design de"
       },
       {
        "nl": true
       },
       {
-       "t": "J'aimais bien le design de l'emblème,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "mais plus depuis qu'il est maudit."
+       "t": "l'emblème, mais plus depuis qu'il est maudit."
       }
      ]
     }
@@ -188,7 +188,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais le nom est si long que\nla plupart disent juste Seven.\nJ'aimais bien le design de l'emblème,\nmais plus depuis qu'il est maudit.",
+   "brut_fr": "Mais le nom est si long que la plupart disent\njuste Seven.[1205][U+000F] J'aimais bien le design de\nl'emblème, mais plus depuis qu'il est maudit.",
    "brut_en": "But[SP]the[SP]name's[SP]so[SP]long[SP]that[SP]most[SP]people[SP]find[SP]it\neasier[SP]to[SP]say[SP]Sevens.[SP]I[SP]always[SP]liked[SP]the[SP]emblem\ndesign,[SP]but[SP]not[SP]once[SP]I[SP]found[SP]out[SP]it's[SP]cursed.",
    "data_size": 322,
    "budget": 314
@@ -202,25 +202,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est étrange. Il a toujours"
+       "t": "C'est étrange. Il a toujours été"
       },
       {
        "nl": true
       },
       {
-       "t": "été un pur remplaçant et là"
+       "t": "un pur remplaçant et là d'un"
       },
       {
        "nl": true
       },
       {
-       "t": "d'un coup, il enchaîne les"
+       "t": "coup, il enchaîne les"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "home runs?"
+       "t": " home runs?"
       }
      ]
     }
@@ -249,7 +249,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est étrange. Il a toujours\nété un pur remplaçant et là\nd'un coup, il enchaîne les\nhome runs?",
+   "brut_fr": "C'est étrange. Il a toujours été\nun pur remplaçant et là d'un\ncoup, il enchaîne les[1205][U+000F] home runs?",
    "brut_en": "Now[SP]that's[SP]strange.[SP]He[SP]always[SP]used[SP]to[SP]be\nstrictly[SP]a[SP]second-stringer[SP]and[SP]suddenly[SP]he's\nknocking[SP]'em[SP]out[SP]of[SP]the[SP]park?",
    "data_size": 266,
    "budget": 258
@@ -263,25 +263,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un gars avec tes réflexes,"
+       "t": "Un gars avec tes réflexes, oui, mais"
       },
       {
        "nl": true
       },
       {
-       "t": "oui, mais cet idiot ne s'entraîne"
+       "t": "cet idiot ne s'entraîne jamais! Il a dû"
       },
       {
        "nl": true
       },
       {
-       "t": "jamais! Il a dû recevoir des"
+       "t": "recevoir des"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "implants cybernétiques..."
+       "t": " implants cybernétiques..."
       }
      ]
     }
@@ -310,7 +310,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un gars avec tes réflexes,\noui, mais cet idiot ne s'entraîne\njamais! Il a dû recevoir des\nimplants cybernétiques...",
+   "brut_fr": "Un gars avec tes réflexes, oui, mais\ncet idiot ne s'entraîne jamais! Il a dû\nrecevoir des[1205][U+000F] implants cybernétiques...",
    "brut_en": "A[SP]guy[SP]with[SP]your[SP]reflexes,[SP]sure,[SP]but[SP]that[SP]fool\nnever[SP]practices![SP]He[SP]must've[SP]gotten[SP]some[SP]kind[SP]of\ncybernetic[SP]implants...",
    "data_size": 268,
    "budget": 260
@@ -324,25 +324,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bon sang, où est passée Chikarin!?"
+       "t": "Bon sang, où est passée Chikarin!? Oh,"
       },
       {
        "nl": true
       },
       {
-       "t": "Oh, c'est une fille du journal"
+       "t": "c'est une fille du journal du lycée..."
       },
       {
        "nl": true
       },
       {
-       "t": "du lycée... Elle en connaît un"
+       "t": "Elle en connaît un"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "rayon sur les rumeurs."
+       "t": " rayon sur les rumeurs."
       }
      ]
     }
@@ -371,7 +371,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon sang, où est passée Chikarin!?\nOh, c'est une fille du journal\ndu lycée... Elle en connaît un\nrayon sur les rumeurs.",
+   "brut_fr": "Bon sang, où est passée Chikarin!? Oh,\nc'est une fille du journal du lycée...\nElle en connaît un[1205][U+000F] rayon sur les rumeurs.",
    "brut_en": "Dammit,[SP]where'd[SP]Chikarin[SP]go!?[SP]Oh,[SP]she's[SP]this\ngirl[SP]on[SP]the[SP]school[SP]newspaper[SP]staff...[SP]She[SP]knows\na[SP]ton[SP]about[SP]rumors.",
    "data_size": 278,
    "budget": 270

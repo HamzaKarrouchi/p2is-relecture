@@ -17,8 +17,8 @@ class TestScriptsSpeciaux(unittest.TestCase):
         self.assertTrue(all(no >= 900 for no in SCRIPTS_SPECIAUX))
         self.assertEqual(len(SCRIPTS_SPECIAUX), len(set(SCRIPTS_SPECIAUX.values())))
 
-    def test_mmap03_et_tm_eve_pas_encore_inclus(self):
-        self.assertNotIn("MMAP03", SCRIPTS_SPECIAUX.values())
+    def test_mmap03_inclus_tm_eve_pas_encore(self):
+        self.assertIn("MMAP03", SCRIPTS_SPECIAUX.values())
         self.assertNotIn("TM_EVE", SCRIPTS_SPECIAUX.values())
 
     def test_traiter_script_meme_pipeline_que_les_scripts_numerotes(self):

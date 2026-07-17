@@ -10,19 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'es sacré courageux de jouer en ce moment,"
+       "t": "T'es sacré courageux de jouer en ce"
       },
       {
        "nl": true
       },
       {
-       "t": ". Pourquoi on ne transformerait pas"
+       "t": "moment, . Pourquoi on ne transformerait"
       },
       {
        "nl": true
       },
       {
-       "t": "cet endroit en casino ?"
+       "t": "pas"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " cet endroit en casino?"
       }
      ]
     }
@@ -51,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'es sacré courageux de jouer en ce moment,\n[1114]. Pourquoi on ne transformerait pas\ncet endroit en casino ?",
+   "brut_fr": "T'es sacré courageux de jouer en ce\nmoment, [1114]. Pourquoi on ne transformerait\npas[1205][U+000F] cet endroit en casino?",
    "brut_en": "You're[SP]pretty[SP]brave[SP]if[SP]you're[SP]willing[SP]to[SP]play\nat[SP]a[SP]time[SP]like[SP]this,[SP][1114].[SP]Why[SP]don't[SP]we\njust[SP]make[SP]this[SP]place[SP]into[SP]a[SP]casino?",
    "data_size": 262,
    "budget": 254
@@ -65,19 +71,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'es sacré courageux de jouer en ce moment,"
+       "t": "T'es sacré courageux de jouer en"
       },
       {
        "nl": true
       },
       {
-       "t": ". Bah, on mérite bien une petite"
+       "t": "ce moment, . Bah, on mérite bien"
       },
       {
        "nl": true
       },
       {
-       "t": "pause, je suppose."
+       "t": "une petite"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pause, je suppose."
       }
      ]
     }
@@ -106,7 +118,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'es sacré courageux de jouer en ce moment,\n[1114]. Bah, on mérite bien une petite\npause, je suppose.",
+   "brut_fr": "T'es sacré courageux de jouer en\nce moment, [1114]. Bah, on mérite bien\nune petite[1205][U+000F] pause, je suppose.",
    "brut_en": "You're[SP]pretty[SP]brave[SP]if[SP]you're[SP]willing[SP]to[SP]play\nat[SP]a[SP]time[SP]like[SP]this,[SP][1114].[SP]Well,[SP]I[SP]guess\nwe[SP]deserve[SP]a[SP]bit[SP]of[SP]a[SP]break.",
    "data_size": 250,
    "budget": 242
@@ -120,19 +132,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pourquoi les gens ne fuient pas ? Bah,"
+       "t": "Pourquoi les gens ne fuient pas? Bah, il n'y"
       },
       {
        "nl": true
       },
       {
-       "t": "il n'y a nulle part où aller avec la ville"
+       "t": "a nulle part où aller avec la ville dans les"
       },
       {
        "nl": true
       },
       {
-       "t": "dans les airs..."
+       "t": "airs..."
       },
       {
        "pause": true
@@ -173,7 +185,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pourquoi les gens ne fuient pas ? Bah,\nil n'y a nulle part où aller avec la ville\ndans les airs...[1205][U+000F] Ils ont l'air bien détendus.",
+   "brut_fr": "Pourquoi les gens ne fuient pas? Bah, il n'y\na nulle part où aller avec la ville dans les\nairs...[1205][U+000F] Ils ont l'air bien détendus.",
    "brut_en": "Why[SP]aren't[SP]the[SP]people[SP]here[SP]running?[SP]Eh,[SP]I[SP]guess\nthere's[SP]nowhere[SP]to[SP]run[SP]with[SP]the[SP]city[SP]in[SP]the\nsky...[1205][U+000F][SP]They[SP]seem[SP]pretty[SP]casual[SP]about[SP]all[SP]this.",
    "data_size": 302,
    "budget": 294
@@ -187,13 +199,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé ! Vous allez vous détendre au casino"
+       "t": "Hé! Vous allez vous détendre au"
       },
       {
        "nl": true
       },
       {
-       "t": "en ce moment !? Hm ? Hmmmmmm ?"
+       "t": "casino en ce moment!? Hm? Hmmmmmm?"
       }
      ]
     }
@@ -216,7 +228,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé ! Vous allez vous détendre au casino\nen ce moment !? Hm ? Hmmmmmm ?",
+   "brut_fr": "Hé! Vous allez vous détendre au\ncasino en ce moment!? Hm? Hmmmmmm?",
    "brut_en": "Hey![SP]Are[SP]you[SP]going[SP]to[SP]kick[SP]back[SP]at[SP]the[SP]casino\nat[SP]a[SP]time[SP]like[SP]this!?[SP]Hm?[SP]Hmmmmmm?",
    "data_size": 180,
    "budget": 172
@@ -230,7 +242,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? Mu serait un casino ?"
+       "t": "Hein? Mu serait un casino?"
       }
      ]
     }
@@ -247,7 +259,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? Mu serait un casino ?",
+   "brut_fr": "Hein? Mu serait un casino?",
    "brut_en": "Huh?[SP]There's[SP]a[SP]rumor[SP]that[SP]Mu[SP]is[SP]a[SP]casino?",
    "data_size": 100,
    "budget": 92
@@ -267,13 +279,13 @@
        "pause": true
       },
       {
-       "t": " Je ne suis plus le Joker,"
+       "t": " Je ne suis plus le Joker, mais"
       },
       {
        "nl": true
       },
       {
-       "t": "mais ça marchera si la rumeur se répand..."
+       "t": "ça marchera si la rumeur se répand..."
       }
      ]
     }
@@ -302,7 +314,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "O-Oui...[1205][U+000F] Je ne suis plus le Joker,\nmais ça marchera si la rumeur se répand...",
+   "brut_fr": "O-Oui...[1205][U+000F] Je ne suis plus le Joker, mais\nça marchera si la rumeur se répand...",
    "brut_en": "Y-Yeah...[1205][U+000F][SP]I'm[SP]not[SP]Joker[SP]anymore,[SP]but[SP]I[SP]think\nit'll[SP]still[SP]come[SP]true[SP]if[SP]the[SP]rumor's[SP]spread...",
    "data_size": 204,
    "budget": 196
@@ -316,13 +328,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu-Quoi ? Mu est un casino à cause de"
+       "t": "Qu-Quoi? Mu est un casino à cause de"
       },
       {
        "nl": true
       },
       {
-       "t": "cette rumeur ? C-C'était bien audacieux..."
+       "t": "cette rumeur? C-C'était bien audacieux..."
       }
      ]
     }
@@ -345,7 +357,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu-Quoi ? Mu est un casino à cause de\ncette rumeur ? C-C'était bien audacieux...",
+   "brut_fr": "Qu-Quoi? Mu est un casino à cause de\ncette rumeur? C-C'était bien audacieux...",
    "brut_en": "Wh-What?[SP]Mu[SP]became[SP]a[SP]casino[SP]because[SP]you[SP]spread\nthat[SP]rumor?[SP]Th-That[SP]was[SP]certainly[SP]a[SP]bold[SP]step...",
    "data_size": 208,
    "budget": 200
@@ -359,13 +371,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? La ville vole ? De quoi vous"
+       "t": "Hein? La ville vole? De quoi vous"
       },
       {
        "nl": true
       },
       {
-       "t": "parlez ? C'est impossible-- Sérieux ?"
+       "t": "parlez? C'est impossible-- Sérieux?"
       }
      ]
     }
@@ -388,7 +400,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? La ville vole ? De quoi vous\nparlez ? C'est impossible-- Sérieux ?",
+   "brut_fr": "Hein? La ville vole? De quoi vous\nparlez? C'est impossible-- Sérieux?",
    "brut_en": "Huh?[SP]The[SP]city's[SP]flying?[SP]What're[SP]you[SP]talking\nabout?[SP]There's[SP]no[SP]way--Wait,[SP]you're[SP]serious?",
    "data_size": 206,
    "budget": 198
@@ -408,25 +420,19 @@
        "pause": true
       },
       {
-       "t": " Que se passe dehors ?"
+       "t": " Que se passe dehors?"
       },
       {
        "pause": true
       },
       {
-       "t": " On se"
+       "t": " On se cache ici"
       },
       {
        "nl": true
       },
       {
-       "t": "cache ici depuis qu'on a vu ces soldats"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "tous les deux..."
+       "t": "depuis qu'on a vu ces soldats tous les deux..."
       }
      ]
     }
@@ -467,7 +473,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Euh...[1205][U+000A] Que se passe dehors ?[1205][U+000F] On se\ncache ici depuis qu'on a vu ces soldats\ntous les deux...",
+   "brut_fr": "Euh...[1205][U+000A] Que se passe dehors?[1205][U+000F] On se cache ici\ndepuis qu'on a vu ces soldats tous les deux...",
    "brut_en": "Um...[1205][U+000A][SP]What's[SP]going[SP]on[SP]out[SP]there?[1205][U+000F][SP]We've[SP]both\nbeen[SP]hiding[SP]here[SP]ever[SP]since[SP]we[SP]saw[SP]those\nsoldiers...",
    "data_size": 234,
    "budget": 226
@@ -490,13 +496,19 @@
        "nl": true
       },
       {
-       "t": "L'enjeu, c'est toute la ville..."
+       "t": "L'enjeu, c'est toute la ville... Ce qui"
       },
       {
        "nl": true
       },
       {
-       "t": "Ce qui décidera du sort de Sumaru... les cartes..."
+       "t": "décidera du sort de Sumaru... les "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " cartes..."
       }
      ]
     }
@@ -528,7 +540,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Bataillon... Un vrai joker dans la partie.[1205][U+000F]\nL'enjeu, c'est toute la ville...\nCe qui décidera du sort de Sumaru... les cartes...",
+   "brut_fr": "Le Bataillon... Un vrai joker dans la partie.[1205][U+000F]\nL'enjeu, c'est toute la ville... Ce qui\ndécidera du sort de Sumaru... les [1205][U+000F] cartes...",
    "brut_en": "The[SP]Last[SP]Battalion...[SP]They're[SP]a[SP]real[SP]wild[SP]card.[1205][U+000F]\nThe[SP]stakes[SP]are[SP]this[SP]entire[SP]city...[SP]What's[SP]going\nto[SP]decide[SP]Sumaru's[SP]fate...[SP]is[SP]cards...",
    "data_size": 320,
    "budget": 312
@@ -548,13 +560,13 @@
        "nl": true
       },
       {
-       "t": "Vous croyez que c'est toujours comme ça?"
+       "t": "Vous croyez que c'est toujours comme"
       },
       {
        "nl": true
       },
       {
-       "t": "Étonnant... Vous êtes fort..."
+       "t": "ça? Étonnant... Vous êtes fort..."
       }
      ]
     }
@@ -583,7 +595,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils font du nettoyage là-bas. Hein?\nVous croyez que c'est toujours comme ça?\nÉtonnant... Vous êtes fort...",
+   "brut_fr": "Ils font du nettoyage là-bas. Hein?\nVous croyez que c'est toujours comme\nça? Étonnant... Vous êtes fort...",
    "brut_en": "They're[SP]doing[SP]some[SP]cleaning[SP]up[SP]ahead.[SP]Huh?\nYou[SP]think[SP]we're[SP]always[SP]cleaning[SP]that[SP]place?\nW-Wow...[SP]You're[SP]good...",
    "data_size": 260,
    "budget": 252
@@ -597,13 +609,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bienvenue au Mu. Jetons contre récompenses."
+       "t": "Bienvenue au Mu. Jetons contre "
       },
       {
        "nl": true
       },
       {
-       "t": "Que désirez-vous ?"
+       "t": "récompenses."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Que désirez-vous?"
+      },
+      {
+       "pause": true
       }
      ]
     }
@@ -628,19 +649,28 @@
     "options": [
      "Acheter des jetons",
      "Échanger des prix",
-     "Parler au gérant",
+     "Parler au gérant[1205]",
      "Annuler",
      "Sortir"
     ],
     "question": [
      {
-      "t": "Bienvenue au Mu. Jetons contre récompenses."
+      "t": "Bienvenue au Mu. Jetons contre "
      },
      {
       "nl": true
      },
      {
-      "t": "Que désirez-vous ?"
+      "t": "récompenses."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Que désirez-vous?"
+     },
+     {
+      "pause": true
      }
     ]
    },
@@ -664,7 +694,7 @@
      }
     ]
    },
-   "brut_fr": "Bienvenue au Mu. Jetons contre récompenses.\nQue désirez-vous ?\n[1208][U+0005]Acheter des jetons\nÉchanger des prix\nParler au gérant\nAnnuler\nSortir",
+   "brut_fr": "Bienvenue au Mu. Jetons contre \nrécompenses.\nQue désirez-vous?[1205][U+000F]\n[1208][U+0005]Acheter des jetons\nÉchanger des prix\nParler au gérant[1205][U+000F]\nAnnuler\nSortir",
    "brut_en": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?\n[1208][U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave",
    "data_size": 302,
    "budget": 294
@@ -678,7 +708,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quels prix voulez-vous ?"
+       "t": "Quels prix voulez-vous?"
       }
      ]
     }
@@ -696,14 +726,14 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Contre objets",
+     "Contre objets[1205]",
      "Contre armes",
      "Contre accessoires",
      "Contre cartes"
     ],
     "question": [
      {
-      "t": "Quels prix voulez-vous ?"
+      "t": "Quels prix voulez-vous?"
      }
     ]
    },
@@ -721,7 +751,7 @@
      }
     ]
    },
-   "brut_fr": "Quels prix voulez-vous ?\n[1208][U+0005][1210][U+0100]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes",
+   "brut_fr": "Quels prix voulez-vous?\n[1208][U+0005][1210][U+0100]Sélection cachée\nContre objets[1205][U+000F]\nContre armes\nContre accessoires\nContre cartes",
    "brut_en": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][U+0005][1210][U+0100]Undisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
    "data_size": 296,
    "budget": 288
@@ -735,7 +765,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "De quoi voulez-vous parler ?"
+       "t": "De quoi voulez-vous parler?"
       }
      ]
     }
@@ -753,13 +783,13 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler pièces et prix",
+     "Parler pièces et prix[1205]",
      "Sélection cachée",
      "[1109][E2][E3]> Le gérant s'est absenté..."
     ],
     "question": [
      {
-      "t": "De quoi voulez-vous parler ?"
+      "t": "De quoi voulez-vous parler?"
      }
     ]
    },
@@ -776,7 +806,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous parler ?\n[1208][U+0003]Bavarder\nParler pièces et prix\n[1210][U+0100]Sélection cachée\n[1109][E2][E3]> Le gérant s'est absenté...",
+   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nParler pièces et prix[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3]> Le gérant s'est absenté...",
    "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3]>[SP]The[SP]manager[SP]has[SP]stepped[SP]out...",
    "data_size": 300,
    "budget": 292
@@ -790,7 +820,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quoi ? Encore un truc ?"
+       "t": "Quoi? Encore un truc?"
       },
       {
        "pause": true
@@ -799,7 +829,7 @@
        "nl": true
       },
       {
-       "t": "...Non, je rigole. Que désirez-vous ?"
+       "t": "...Non, je rigole. Que désirez-vous?"
       }
      ]
     }
@@ -825,15 +855,15 @@
    ],
    "choix_fr": {
     "options": [
-     "Acheter des jetons",
+     "Acheter des jetons[1205]",
      "Échanger des prix",
      "Parler au gérant",
-     "Annuler",
+     "Annuler[1205]",
      "Sortir"
     ],
     "question": [
      {
-      "t": "Quoi ? Encore un truc ?"
+      "t": "Quoi? Encore un truc?"
      },
      {
       "pause": true
@@ -842,7 +872,7 @@
       "nl": true
      },
      {
-      "t": "...Non, je rigole. Que désirez-vous ?"
+      "t": "...Non, je rigole. Que désirez-vous?"
      }
     ]
    },
@@ -869,7 +899,7 @@
      }
     ]
    },
-   "brut_fr": "Quoi ? Encore un truc ?[1205][U+000F]\n...Non, je rigole. Que désirez-vous ?\n[1208][U+0005]Acheter des jetons\nÉchanger des prix\nParler au gérant\nAnnuler\nSortir",
+   "brut_fr": "Quoi? Encore un truc?[1205][U+000F]\n...Non, je rigole. Que désirez-vous?\n[1208][U+0005]Acheter des jetons[1205][U+000F]\nÉchanger des prix\nParler au gérant\nAnnuler[1205][U+000F]\nSortir",
    "brut_en": "What?[SP]You[SP]still[SP]want[SP]something?[1205][U+000F]\n...Nah,[SP]just[SP]kidding.[SP]What'll[SP]it[SP]be?\n[1208][U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave",
    "data_size": 302,
    "budget": 294
@@ -883,7 +913,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quels prix voulez-vous ?"
+       "t": "Quels prix voulez-vous?"
       }
      ]
     }
@@ -901,14 +931,14 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Contre objets",
+     "Contre objets[1205]",
      "Contre armes",
      "Contre accessoires",
      "Contre cartes"
     ],
     "question": [
      {
-      "t": "Quels prix voulez-vous ?"
+      "t": "Quels prix voulez-vous?"
      }
     ]
    },
@@ -926,7 +956,7 @@
      }
     ]
    },
-   "brut_fr": "Quels prix voulez-vous ?\n[1208][U+0005][1210][U+0100]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes",
+   "brut_fr": "Quels prix voulez-vous?\n[1208][U+0005][1210][U+0100]Sélection cachée\nContre objets[1205][U+000F]\nContre armes\nContre accessoires\nContre cartes",
    "brut_en": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][U+0005][1210][U+0100]Undisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
    "data_size": 296,
    "budget": 288
@@ -940,7 +970,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "De quoi voulez-vous parler ?"
+       "t": "De quoi voulez-vous parler?"
       }
      ]
     }
@@ -958,12 +988,12 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler pièces et prix",
+     "Parler pièces et prix[1205]",
      "Sélection cachée"
     ],
     "question": [
      {
-      "t": "De quoi voulez-vous parler ?"
+      "t": "De quoi voulez-vous parler?"
      }
     ]
    },
@@ -979,7 +1009,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous parler ?\n[1208][U+0003]Bavarder\nParler pièces et prix\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nParler pièces et prix[1205][U+000F]\n[1210][U+0100]Sélection cachée",
    "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 228,
    "budget": 220
@@ -993,19 +1023,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? La ville vole ? Non ! Pas possible !"
+       "t": "Hein? La ville vole? Non! Pas possible"
       },
       {
        "nl": true
       },
       {
-       "t": "J'avais décidé d'accepter ce que"
+       "t": "! J'avais décidé d'accepter ce que"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " le"
       },
       {
        "nl": true
       },
       {
-       "t": "le destin m'impose ! Même si c'est dur..."
+       "t": "destin m'impose! Même si c'est dur..."
       }
      ]
     }
@@ -1034,7 +1070,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? La ville vole ? Non ! Pas possible !\nJ'avais décidé d'accepter ce que\nle destin m'impose ! Même si c'est dur...",
+   "brut_fr": "Hein? La ville vole? Non! Pas possible\n! J'avais décidé d'accepter ce que[1205][U+000F] le\ndestin m'impose! Même si c'est dur...",
    "brut_en": "Huh?[SP]The[SP]city's[SP]flying?[SP]No![SP]Don't[SP]tell[SP]me!\nI'd[SP]already[SP]made[SP]up[SP]my[SP]mind[SP]to[SP]accept[SP]whatever\nfate[SP]deals[SP]me![SP]Though[SP]it's[SP]still[SP]depressing...",
    "data_size": 298,
    "budget": 290
@@ -1054,13 +1090,13 @@
        "nl": true
       },
       {
-       "t": "Vous croyez que c'est toujours comme ça?"
+       "t": "Vous croyez que c'est toujours comme"
       },
       {
        "nl": true
       },
       {
-       "t": "Étonnant... Vous êtes fort..."
+       "t": "ça? Étonnant... Vous êtes fort..."
       }
      ]
     }
@@ -1089,7 +1125,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils font du nettoyage là-bas. Hein?\nVous croyez que c'est toujours comme ça?\nÉtonnant... Vous êtes fort...",
+   "brut_fr": "Ils font du nettoyage là-bas. Hein?\nVous croyez que c'est toujours comme\nça? Étonnant... Vous êtes fort...",
    "brut_en": "They're[SP]doing[SP]some[SP]cleaning[SP]up[SP]ahead.[SP]Huh?\nYou[SP]think[SP]we're[SP]always[SP]cleaning[SP]that[SP]place?\nW-Wow...[SP]You're[SP]good...",
    "data_size": 260,
    "budget": 252
@@ -1103,7 +1139,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça fera  yens. D'accord ?"
+       "t": "Ça fera  yens. D'accord?"
       }
      ]
     }
@@ -1125,7 +1161,7 @@
     ],
     "question": [
      {
-      "t": "Ça fera  yens. D'accord ?"
+      "t": "Ça fera  yens. D'accord?"
      }
     ]
    },
@@ -1140,7 +1176,7 @@
      }
     ]
    },
-   "brut_fr": "Ça fera [120E][NULL] yens. D'accord ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Ça fera [120E][NULL] yens. D'accord?\n[1208][0002]Oui\nNon",
    "brut_en": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
    "data_size": 110,
    "budget": 102
@@ -1197,13 +1233,13 @@
        "nl": true
       },
       {
-       "t": "donne des jetons pour jouer contre"
+       "t": "donne des jetons pour jouer contre de"
       },
       {
        "nl": true
       },
       {
-       "t": "de l'argent."
+       "t": "l'argent."
       }
      ]
     }
@@ -1238,7 +1274,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Choisissez [1432][NULL][NULL][0014]Acheter des jetons,[1432][NULL][NULL][0014] et je vous\ndonne des jetons pour jouer contre\nde l'argent.",
+   "brut_fr": "Choisissez [1432][NULL][NULL][0014]Acheter des jetons,[1432][NULL][NULL][0014] et je vous\ndonne des jetons pour jouer contre de\nl'argent.",
    "brut_en": "Talk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]coins,[1432][NULL][NULL][0014][SP]and[SP]I'll\ngive[SP]you[SP]coins[SP]to[SP]play[SP]the[SP]games[SP]in[SP]exchange\nfor[SP]cash.",
    "data_size": 234,
    "budget": 226
@@ -1252,13 +1288,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "À sens unique : les jetons"
+       "t": "À sens unique: les jetons ne"
       },
       {
        "nl": true
       },
       {
-       "t": "ne reviennent pas en argent."
+       "t": "reviennent pas en argent."
       }
      ]
     }
@@ -1281,7 +1317,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "À sens unique : les jetons\nne reviennent pas en argent.",
+   "brut_fr": "À sens unique: les jetons ne\nreviennent pas en argent.",
    "brut_en": "But[SP]it[SP]only[SP]works[SP]one[SP]way.[SP]You[SP]can't[SP]exchange\ncoins[SP]for[SP]money.",
    "data_size": 150,
    "budget": 142
@@ -1295,22 +1331,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous pouvez les échanger contre des prix."
+       "t": "Vous pouvez les échanger contre des"
       },
       {
        "nl": true
       },
       {
-       "t": "Choisissez "
+       "t": "prix. Choisissez "
       },
       {
-       "enc": "Échanger contre des récompenses"
+       "enc": "Échanger contre"
       },
       {
        "nl": true
       },
       {
-       "t": "pour ce faire."
+       "enc": "des récompenses"
+      },
+      {
+       "t": " pour ce faire."
       }
      ]
     }
@@ -1342,7 +1381,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous pouvez les échanger contre des prix.\nChoisissez [1432][NULL][NULL][0014]Échanger contre des récompenses[1432][NULL][NULL][0014]\npour ce faire.",
+   "brut_fr": "Vous pouvez les échanger contre des\nprix. Choisissez [1432][NULL][NULL][0014]Échanger contre\ndes récompenses[1432][NULL][NULL][0014] pour ce faire.",
    "brut_en": "What[SP]you[SP]can[SP]do[SP]is[SP]redeem[SP]them[SP]for[SP]prizes.\nTalk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Redeem[SP]for[SP]prizes[1432][NULL][NULL][0014]\nwhen[SP]you[SP]want[SP]to[SP]do[SP]that.",
    "data_size": 258,
    "budget": 250
@@ -1356,13 +1395,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les jetons ne valent que pour nos prix,"
+       "t": "Les jetons ne valent que pour"
       },
       {
        "nl": true
       },
       {
-       "t": "utilisez-les bien."
+       "t": "nos prix, utilisez-les bien."
       }
      ]
     }
@@ -1391,7 +1430,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les jetons ne valent que pour nos prix,\nutilisez-les bien.",
+   "brut_fr": "Les jetons ne valent que pour\nnos prix, utilisez-les bien.",
    "brut_en": "You[SP]can[SP]only[SP]spend[SP]the[SP]coins[SP]you[SP]win[SP]here\non[SP]our[SP]prizes,[SP]so[SP]I'd[SP]advise[SP]you[SP]to[SP]use\nthem[SP]well.",
    "data_size": 210,
    "budget": 202

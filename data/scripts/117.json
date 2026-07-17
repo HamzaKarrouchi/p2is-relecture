@@ -10,19 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Faut y aller! Je m'inquiète"
+       "t": "Faut y aller! Je m'inquiète pour l'ami"
       },
       {
        "nl": true
       },
       {
-       "t": "pour l'ami de Yukino,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "et on doit arrêter Jun..."
+       "t": "de Yukino, et on doit arrêter Jun..."
       }
      ]
     }
@@ -51,7 +45,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Faut y aller! Je m'inquiète\npour l'ami de Yukino,\net on doit arrêter Jun...",
+   "brut_fr": "Faut y aller! Je m'inquiète pour l'ami\nde Yukino, et on doit arrêter Jun...",
    "brut_en": "We[SP]gotta[SP]get[SP]going![SP]I'm[SP]worried[SP]about\nYukino-san's[SP]friend,[SP]and[SP]we[SP]gotta[SP]stop\nJun[SP]too...",
    "data_size": 202,
    "budget": 194
@@ -71,19 +65,19 @@
        "nl": true
       },
       {
-       "t": "ils ont pas intérêt à nous"
+       "t": "ils ont pas intérêt à nous empêcher de"
       },
       {
        "nl": true
       },
       {
-       "t": "empêcher de sauver Jun! On doit le"
+       "t": "sauver Jun! On doit le"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "trouver en premier!"
+       "t": " trouver en premier!"
       }
      ]
     }
@@ -112,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me fiche de ce qu'est ce Bataillon--\nils ont pas intérêt à nous\nempêcher de sauver Jun! On doit le\ntrouver en premier!",
+   "brut_fr": "Je me fiche de ce qu'est ce Bataillon--\nils ont pas intérêt à nous empêcher de\nsauver Jun! On doit le[1205][U+000F] trouver en premier!",
    "brut_en": "I[SP]don't[SP]even[SP]care[SP]what[SP]this[SP]Last[SP]Battalion\nthing[SP]is--they[SP]better[SP]not[SP]get[SP]in[SP]the[SP]way[SP]of\nrescuing[SP]Jun![SP]We[SP]gotta[SP]find[SP]him[SP]first!",
    "data_size": 274,
    "budget": 266
@@ -126,19 +120,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vitesse et force sont vitales"
+       "t": "Vitesse et force sont vitales pour forcer le"
       },
       {
        "nl": true
       },
       {
-       "t": "pour forcer le passage!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Même à cinq..."
+       "t": "passage! Même à cinq..."
       },
       {
        "pause": true
@@ -147,10 +135,10 @@
        "t": " Faut se"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "dépêcher!"
+       "t": " dépêcher!"
       }
      ]
     }
@@ -185,7 +173,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vitesse et force sont vitales\npour forcer le passage!\nMême à cinq...[1205][001E] Faut se\ndépêcher!",
+   "brut_fr": "Vitesse et force sont vitales pour forcer le\npassage! Même à cinq...[1205][001E] Faut se[1205][U+000F] dépêcher!",
    "brut_en": "Focused[SP]manpower[SP]and[SP]speed[SP]is[SP]essential[SP]when\nbreaking[SP]through![SP]Then[SP]again,[SP]there's[SP]only\nfive[SP]of[SP]us...[1205][001E][SP]But[SP]we[SP]still[SP]need[SP]to[SP]hurry!",
    "data_size": 284,
    "budget": 276
@@ -199,31 +187,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je venais souvent avec"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Fujii..."
+       "t": "Je venais souvent avec Fujii..."
       },
       {
        "pause": true
       },
       {
-       "t": " Parler du Zen avec"
+       "t": " Parler"
       },
       {
        "nl": true
       },
       {
-       "t": "les moines, photographier le"
+       "t": "du Zen avec les moines, photographier"
       },
       {
        "nl": true
       },
       {
-       "t": "ciel..."
+       "t": "le"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ciel..."
       },
       {
        "pause": true
@@ -267,7 +255,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je venais souvent avec\nFujii...[1205][001E] Parler du Zen avec\nles moines, photographier le\nciel...[1205][001E] J'adorais cet endroit.",
+   "brut_fr": "Je venais souvent avec Fujii...[1205][001E] Parler\ndu Zen avec les moines, photographier\nle[1205][U+000F] ciel...[1205][001E] J'adorais cet endroit.",
    "brut_en": "I've[SP]come[SP]here[SP]lots[SP]of[SP]times[SP]with[SP]Fujii-san...[1205][001E]\nWe'd[SP]talk[SP]about[SP]Zen[SP]with[SP]the[SP]monks,[SP]photograph\nthe[SP]night[SP]sky...[1205][001E][SP]I[SP]loved[SP]it[SP]here.",
    "data_size": 288,
    "budget": 280
@@ -287,13 +275,7 @@
        "pause": true
       },
       {
-       "t": " Ils sont allés"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "trop loin..."
+       "t": " Ils sont allés trop loin..."
       }
      ]
     }
@@ -316,7 +298,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merde...[1205][001E] Ils sont allés\ntrop loin...",
+   "brut_fr": "Merde...[1205][001E] Ils sont allés trop loin...",
    "brut_en": "Shit...[1205][001E][SP]They've[SP]crossed[SP]a[SP]line[SP]now...",
    "data_size": 104,
    "budget": 96

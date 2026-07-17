@@ -22,13 +22,10 @@
        "pause": true
       },
       {
-       "t": " A-Allez,"
-      },
-      {
        "nl": true
       },
       {
-       "t": "cherchons le président."
+       "t": "A-Allez, cherchons le président."
       }
      ]
     }
@@ -63,7 +60,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "D-Désolé.[1205][U+000F] Ce n'est rien.[1205][U+000F] A-Allez,\ncherchons le président.",
+   "brut_fr": "D-Désolé.[1205][U+000F] Ce n'est rien.[1205][U+000F]\nA-Allez, cherchons le président.",
    "brut_en": "S-Sorry.[1205][U+000F][SP]It's[SP]nothing.[1205][U+000F][SP]C-C'mon,[SP]let's[SP]go[SP]look\nfor[SP]the[SP]president.",
    "data_size": 162,
    "budget": 154
@@ -77,19 +74,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu complotais avec ce président !"
+       "t": "Tu complotais avec ce président! Tu"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu as fait ça en sachant que je"
+       "t": "as fait ça en sachant que je suis le"
       },
       {
        "nl": true
       },
       {
-       "t": "suis le Boss... enfin, l'ex-Boss Michel !?"
+       "t": "Boss... enfin, l'ex-Boss Michel!?"
       }
      ]
     }
@@ -118,7 +115,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu complotais avec ce président !\nTu as fait ça en sachant que je\nsuis le Boss... enfin, l'ex-Boss Michel !?",
+   "brut_fr": "Tu complotais avec ce président! Tu\nas fait ça en sachant que je suis le\nBoss... enfin, l'ex-Boss Michel!?",
    "brut_en": "So[SP]you[SP]were[SP]scheming[SP]stuff[SP]with[SP]that[SP]president!\nDid[SP]you[SP]do[SP]it[SP]knowing[SP]that[SP]I'm[SP]the[SP]Boss...\nI[SP]mean,[SP]ex-Boss[SP]Michel!?",
    "data_size": 256,
    "budget": 248
@@ -132,16 +129,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Euh, y avait pas un nouvel élève ici ?"
-      },
-      {
-       "pause": true
+       "t": "... Euh, y avait pas un nouvel élève"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu saurais où il est maintenant ?"
+       "t": "ici?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu saurais où il est maintenant?"
       }
      ]
     }
@@ -167,7 +167,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Euh, y avait pas un nouvel élève ici ?[1205][U+000F]\nTu saurais où il est maintenant ?",
+   "brut_fr": "... Euh, y avait pas un nouvel élève\nici?[1205][U+000F] Tu saurais où il est maintenant?",
    "brut_en": "...Er,[SP]wasn't[SP]there[SP]a[SP]transfer[SP]student[SP]here?[1205][U+000F]\nWould[SP]you[SP]happen[SP]to[SP]know[SP]where[SP]he[SP]is[SP]now?",
    "data_size": 202,
    "budget": 194
@@ -181,31 +181,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le nouveau ? Ah, lui..."
+       "t": "Le nouveau? Ah, lui..."
       },
       {
        "pause": true
       },
       {
-       "t": " Non, il ne"
+       "t": " Non, il ne vient"
       },
       {
        "nl": true
       },
       {
-       "t": "vient plus ces temps-ci."
+       "t": "plus ces temps-ci."
       },
       {
        "pause": true
       },
       {
-       "t": " Il est p't'être"
+       "t": " Il est p't'être à"
       },
       {
        "nl": true
       },
       {
-       "t": "à l'hôpital ou autre, j'sais pas."
+       "t": "l'hôpital ou autre, j'sais pas."
       }
      ]
     }
@@ -246,7 +246,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le nouveau ? Ah, lui...[1205][U+000F] Non, il ne\nvient plus ces temps-ci.[1205][U+000F] Il est p't'être\nà l'hôpital ou autre, j'sais pas.",
+   "brut_fr": "Le nouveau? Ah, lui...[1205][U+000F] Non, il ne vient\nplus ces temps-ci.[1205][U+000F] Il est p't'être à\nl'hôpital ou autre, j'sais pas.",
    "brut_en": "Transfer[SP]student?[SP]Oh,[SP]that[SP]guy...[1205][U+000F][SP]Nah,[SP]he\nhasn't[SP]come[SP]to[SP]school[SP]lately.[1205][U+000F][SP]Maybe[SP]he's[SP]in\nthe[SP]hospital[SP]or[SP]something,[SP]I[SP]dunno.",
    "data_size": 286,
    "budget": 278
@@ -291,19 +291,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'y a-t-il, Eikichi ?"
+       "t": "Qu'y a-t-il, Eikichi?"
       },
       {
        "pause": true
       },
       {
-       "t": " Tu connais"
+       "t": " Tu"
       },
       {
        "nl": true
       },
       {
-       "t": "ce nouvel élève ?"
+       "t": "connais ce nouvel élève?"
       }
      ]
     }
@@ -332,7 +332,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'y a-t-il, Eikichi ?[1205][U+000F] Tu connais\nce nouvel élève ?",
+   "brut_fr": "Qu'y a-t-il, Eikichi?[1205][U+000F] Tu\nconnais ce nouvel élève?",
    "brut_en": "What's[SP]up,[SP]Eikichi-kun?[1205][U+000F][SP]Do[SP]you[SP]know[SP]this\ntransfer[SP]student?",
    "data_size": 140,
    "budget": 132
@@ -352,13 +352,10 @@
        "pause": true
       },
       {
-       "t": " Sûrement"
-      },
-      {
        "nl": true
       },
       {
-       "t": "mon imagination..."
+       "t": "Sûrement mon imagination..."
       }
      ]
     }
@@ -387,7 +384,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N-Non, c'est rien...[1205][U+000F] Sûrement\nmon imagination...",
+   "brut_fr": "N-Non, c'est rien...[1205][U+000F]\nSûrement mon imagination...",
    "brut_en": "N-Nah,[SP]it's[SP]nothing...[1205][U+000F][SP]Probably[SP]just[SP]my\nimagination...",
    "data_size": 138,
    "budget": 130
@@ -401,16 +398,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est quoi son problème ?"
+       "t": "C'est quoi son problème?"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Il est maussade..."
+       "t": " Il est maussade..."
       }
      ]
     }
@@ -439,7 +433,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est quoi son problème ?[1205][U+000F]\nIl est maussade...",
+   "brut_fr": "C'est quoi son problème?[1205][U+000F] Il est maussade...",
    "brut_en": "What[SP]the[SP]hell...?[SP]What's[SP]with[SP]Eikichi?[1205][U+000F][SP]He's[SP]all\nbroody...",
    "data_size": 140,
    "budget": 132
@@ -453,25 +447,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ceux qui ont indiqué où était"
+       "t": "Ceux qui ont indiqué où était le président..."
       },
       {
        "nl": true
       },
       {
-       "t": "le président... bossaient"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pour lui ?"
+       "t": "bossaient pour lui?"
       },
       {
        "pause": true
       },
       {
-       "t": " Aïya, c'est quoi !?"
+       "t": " Aïya, c'est quoi!?"
       }
      ]
     }
@@ -506,7 +494,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ceux qui ont indiqué où était\nle président... bossaient\npour lui ?[1205][U+000F] Aïya, c'est quoi !?",
+   "brut_fr": "Ceux qui ont indiqué où était le président...\nbossaient pour lui?[1205][U+000F] Aïya, c'est quoi!?",
    "brut_en": "So[SP]everyone[SP]who[SP]told[SP]us[SP]where[SP]the[SP]president\nwas...[SP]was[SP]working[SP]for[SP]him?[1205][U+000F][SP]Aiyah,[SP]what's[SP]up\nwith[SP]that!?",
    "data_size": 226,
    "budget": 218
@@ -520,7 +508,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Eikichi cherche le nouvel élève ?"
+       "t": "Eikichi cherche le nouvel élève?"
       },
       {
        "pause": true
@@ -529,19 +517,19 @@
        "nl": true
       },
       {
-       "t": "Parce qu'il semblait soulagé qu'il"
+       "t": "Parce qu'il semblait soulagé qu'il ne"
       },
       {
        "nl": true
       },
       {
-       "t": "ne soit pas là."
+       "t": "soit pas là."
       },
       {
        "pause": true
       },
       {
-       "t": " Que se passe-t-il... ?"
+       "t": " Que se passe-t-il...?"
       }
      ]
     }
@@ -576,7 +564,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eikichi cherche le nouvel élève ?[1205][U+000F]\nParce qu'il semblait soulagé qu'il\nne soit pas là.[1205][U+000F] Que se passe-t-il... ?",
+   "brut_fr": "Eikichi cherche le nouvel élève?[1205][U+000F]\nParce qu'il semblait soulagé qu'il ne\nsoit pas là.[1205][U+000F] Que se passe-t-il...?",
    "brut_en": "Is[SP]Eikichi-kun[SP]looking[SP]for[SP]the[SP]transfer[SP]student?[1205][U+000F]\nBecause[SP]he[SP]seemed[SP]relieved[SP]that[SP]he[SP]wasn't[SP]here.[1205][U+000F]\nWhat's[SP]going[SP]on...?",
    "data_size": 260,
    "budget": 252
@@ -590,19 +578,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Argh ! Il savait qu'on venait"
+       "t": "Argh! Il savait qu'on venait et nous"
       },
       {
        "nl": true
       },
       {
-       "t": "et nous attendait."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Il nous a eus, j'avoue."
+       "t": "attendait. Il nous a eus, j'avoue."
       }
      ]
     }
@@ -625,7 +607,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Argh ! Il savait qu'on venait\net nous attendait.\nIl nous a eus, j'avoue.",
+   "brut_fr": "Argh! Il savait qu'on venait et nous\nattendait. Il nous a eus, j'avoue.",
    "brut_en": "Ugh![SP]That[SP]president[SP]knew[SP]we[SP]were[SP]coming[SP]and\nwas[SP]ready[SP]for[SP]us.[SP]He[SP]got[SP]us,[SP]I[SP]admit.",
    "data_size": 182,
    "budget": 174
@@ -639,16 +621,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Euh, y avait pas un nouvel élève ici ?"
-      },
-      {
-       "pause": true
+       "t": "... Euh, y avait pas un nouvel élève"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu saurais où il est maintenant ?"
+       "t": "ici?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu saurais où il est maintenant?"
       }
      ]
     }
@@ -674,7 +659,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Euh, y avait pas un nouvel élève ici ?[1205][U+000F]\nTu saurais où il est maintenant ?",
+   "brut_fr": "... Euh, y avait pas un nouvel élève\nici?[1205][U+000F] Tu saurais où il est maintenant?",
    "brut_en": "...Er,[SP]wasn't[SP]there[SP]a[SP]transfer[SP]student[SP]here?[1205][U+000F]\nWould[SP]you[SP]happen[SP]to[SP]know[SP]where[SP]he[SP]is[SP]now?",
    "data_size": 202,
    "budget": 194
@@ -688,31 +673,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le nouveau ? Ah, lui..."
+       "t": "Le nouveau? Ah, lui..."
       },
       {
        "pause": true
       },
       {
-       "t": " Non, il ne"
+       "t": " Non, il ne vient"
       },
       {
        "nl": true
       },
       {
-       "t": "vient plus ces temps-ci."
+       "t": "plus ces temps-ci."
       },
       {
        "pause": true
       },
       {
-       "t": " Il est p't'être"
+       "t": " Il est p't'être à"
       },
       {
        "nl": true
       },
       {
-       "t": "à l'hôpital ou autre, j'sais pas."
+       "t": "l'hôpital ou autre, j'sais pas."
       }
      ]
     }
@@ -753,7 +738,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le nouveau ? Ah, lui...[1205][U+000F] Non, il ne\nvient plus ces temps-ci.[1205][U+000F] Il est p't'être\nà l'hôpital ou autre, j'sais pas.",
+   "brut_fr": "Le nouveau? Ah, lui...[1205][U+000F] Non, il ne vient\nplus ces temps-ci.[1205][U+000F] Il est p't'être à\nl'hôpital ou autre, j'sais pas.",
    "brut_en": "Transfer[SP]student?[SP]Oh,[SP]that[SP]guy...[1205][U+000F][SP]Nah,[SP]he\nhasn't[SP]come[SP]to[SP]school[SP]lately.[1205][U+000F][SP]Maybe[SP]he's[SP]in\nthe[SP]hospital[SP]or[SP]something,[SP]I[SP]dunno.",
    "data_size": 286,
    "budget": 278
@@ -798,19 +783,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'y a-t-il, Eikichi ?"
+       "t": "Qu'y a-t-il, Eikichi?"
       },
       {
        "pause": true
       },
       {
-       "t": " Tu connais"
+       "t": " Tu"
       },
       {
        "nl": true
       },
       {
-       "t": "ce nouvel élève ?"
+       "t": "connais ce nouvel élève?"
       }
      ]
     }
@@ -839,7 +824,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'y a-t-il, Eikichi ?[1205][U+000F] Tu connais\nce nouvel élève ?",
+   "brut_fr": "Qu'y a-t-il, Eikichi?[1205][U+000F] Tu\nconnais ce nouvel élève?",
    "brut_en": "What's[SP]up,[SP]Eikichi-kun?[1205][U+000F][SP]Do[SP]you[SP]know[SP]this\ntransfer[SP]student?",
    "data_size": 140,
    "budget": 132
@@ -859,13 +844,10 @@
        "pause": true
       },
       {
-       "t": " Sûrement"
-      },
-      {
        "nl": true
       },
       {
-       "t": "mon imagination..."
+       "t": "Sûrement mon imagination..."
       }
      ]
     }
@@ -894,7 +876,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N-Non, c'est rien...[1205][U+000F] Sûrement\nmon imagination...",
+   "brut_fr": "N-Non, c'est rien...[1205][U+000F]\nSûrement mon imagination...",
    "brut_en": "N-Nah,[SP]it's[SP]nothing...[1205][U+000F][SP]Probably[SP]just[SP]my\nimagination...",
    "data_size": 138,
    "budget": 130
@@ -920,13 +902,7 @@
        "nl": true
       },
       {
-       "t": "déprimée aussi, sans raison."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Qu'ont-ils ?"
+       "t": "déprimée aussi, sans raison. Qu'ont-ils?"
       }
      ]
     }
@@ -955,7 +931,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eikichi est bizarre...[1205][U+000F] et Lisa a l'air\ndéprimée aussi, sans raison.\nQu'ont-ils ?",
+   "brut_fr": "Eikichi est bizarre...[1205][U+000F] et Lisa a l'air\ndéprimée aussi, sans raison. Qu'ont-ils?",
    "brut_en": "Eikichi's[SP]acting[SP]weird...[1205][U+000F][SP]and[SP]Lisa[SP]seems[SP]mopey\ntoo,[SP]for[SP]some[SP]reason.[SP]What's[SP]up[SP]with[SP]them?",
    "data_size": 206,
    "budget": 198
@@ -969,13 +945,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il doit savoir que c'est la"
+       "t": "Il doit savoir que c'est"
       },
       {
        "nl": true
       },
       {
-       "t": "faute du président."
+       "t": "la faute du président."
       }
      ]
     }
@@ -998,7 +974,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il doit savoir que c'est la\nfaute du président.",
+   "brut_fr": "Il doit savoir que c'est\nla faute du président.",
    "brut_en": "Eikichi[SP]must[SP]know[SP]this[SP]is[SP]the[SP]president's\nfault[SP]too.",
    "data_size": 128,
    "budget": 120
@@ -1012,7 +988,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous cherchez le président ? I-Il"
+       "t": "Vous cherchez le président? I-Il"
       },
       {
        "nl": true
@@ -1027,10 +1003,10 @@
        "t": "C'est c'qu'on m'a dit."
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "V-Vraiment !"
+       "t": " V-Vraiment!"
       }
      ]
     }
@@ -1059,7 +1035,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous cherchez le président ? I-Il\ndevrait être en salle du conseil.\nC'est c'qu'on m'a dit.\nV-Vraiment !",
+   "brut_fr": "Vous cherchez le président? I-Il\ndevrait être en salle du conseil.\nC'est c'qu'on m'a dit.[1205][U+000F] V-Vraiment!",
    "brut_en": "You're[SP]looking[SP]for[SP]the[SP]president,[SP]yeah?[SP]H-He\nshould[SP]be[SP]at[SP]the[SP]student[SP]council[SP]room.[SP]That's\nwhat[SP]I[SP]heard,[SP]anyway.[SP]R-Really!",
    "data_size": 280,
    "budget": 272
@@ -1073,28 +1049,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous cherchez le président ?"
+       "t": "Vous cherchez le président?"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "J-Je crois qu'il est en classe 2-4."
+       "t": " J-Je"
       },
       {
        "nl": true
       },
       {
-       "t": "Je parie que vous le"
+       "t": "crois qu'il est en classe 2-4. Je"
       },
       {
        "nl": true
       },
       {
-       "t": "trouverez là-bas."
+       "t": "parie que vous le"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " trouverez là-bas."
       }
      ]
     }
@@ -1129,7 +1108,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous cherchez le président ?[1205][U+000F]\nJ-Je crois qu'il est en classe 2-4.\nJe parie que vous le\ntrouverez là-bas.",
+   "brut_fr": "Vous cherchez le président?[1205][U+000F] J-Je\ncrois qu'il est en classe 2-4. Je\nparie que vous le[1205][U+000F] trouverez là-bas.",
    "brut_en": "Are[SP]you[SP]looking[SP]for[SP]the[SP]president?[1205][U+000F][SP]I-I'm[SP]pretty\nsure[SP]he's[SP]in[SP]Class[SP]2-4.[SP]I[SP]bet[SP]you'll[SP]find[SP]him\nif[SP]you[SP]go[SP]there.",
    "data_size": 260,
    "budget": 252
@@ -1143,28 +1122,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le président ?"
+       "t": "Le président?"
       },
       {
        "pause": true
       },
       {
-       "t": " Euh... J'ai entendu"
+       "t": " Euh... J'ai entendu qu'il"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'il était au sous-sol."
+       "t": "était au sous-sol."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "I-Il s'y cache..."
+       "t": " I-Il s'y cache..."
       }
      ]
     }
@@ -1199,7 +1175,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le président ?[1205][U+000F] Euh... J'ai entendu\nqu'il était au sous-sol.[1205][U+000F]\nI-Il s'y cache...",
+   "brut_fr": "Le président?[1205][U+000F] Euh... J'ai entendu qu'il\nétait au sous-sol.[1205][U+000F] I-Il s'y cache...",
    "brut_en": "The[SP]president?[1205][U+000F][SP]Um...[SP]I[SP]heard[SP]he[SP]was[SP]in[SP]the\nbasement.[1205][U+000F][SP]H-He's[SP]hiding[SP]out[SP]there...",
    "data_size": 202,
    "budget": 194
@@ -1213,25 +1189,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J-Je suis désolé ! Cet enfoiré m'a"
+       "t": "J-Je suis désolé! Cet enfoiré m'a ordonné"
       },
       {
        "nl": true
       },
       {
-       "t": "ordonné de vous mener à l'abri."
+       "t": "de vous mener à l'abri. Pour une raison"
       },
       {
        "nl": true
       },
       {
-       "t": "Pour une raison obscure,"
+       "t": "obscure,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "je ne peux lui désobéir..."
+       "t": " je ne peux lui désobéir..."
       }
      ]
     }
@@ -1260,7 +1236,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J-Je suis désolé ! Cet enfoiré m'a\nordonné de vous mener à l'abri.\nPour une raison obscure,\nje ne peux lui désobéir...",
+   "brut_fr": "J-Je suis désolé! Cet enfoiré m'a ordonné\nde vous mener à l'abri. Pour une raison\nobscure,[1205][U+000F] je ne peux lui désobéir...",
    "brut_en": "I-I'm[SP]sorry![SP]That[SP]asshole[SP]ordered[SP]me[SP]to[SP]lead\nyou[SP]guys[SP]to[SP]the[SP]air[SP]raid[SP]shelter.[SP]For[SP]some\nreason,[SP]I[SP]can't[SP]disobey[SP]him...",
    "data_size": 272,
    "budget": 264
@@ -1274,16 +1250,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Euh, y avait pas un nouvel élève ici ?"
-      },
-      {
-       "pause": true
+       "t": "... Euh, y avait pas un nouvel élève"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu saurais où il est maintenant ?"
+       "t": "ici?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu saurais où il est maintenant?"
       }
      ]
     }
@@ -1309,7 +1288,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Euh, y avait pas un nouvel élève ici ?[1205][U+000F]\nTu saurais où il est maintenant ?",
+   "brut_fr": "... Euh, y avait pas un nouvel élève\nici?[1205][U+000F] Tu saurais où il est maintenant?",
    "brut_en": "...Er,[SP]wasn't[SP]there[SP]a[SP]transfer[SP]student[SP]here?[1205][U+000F]\nWould[SP]you[SP]happen[SP]to[SP]know[SP]where[SP]he[SP]is[SP]now?",
    "data_size": 202,
    "budget": 194
@@ -1323,31 +1302,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le nouveau ? Ah, lui..."
+       "t": "Le nouveau? Ah, lui..."
       },
       {
        "pause": true
       },
       {
-       "t": " Non, il ne"
+       "t": " Non, il ne vient"
       },
       {
        "nl": true
       },
       {
-       "t": "vient plus ces temps-ci."
+       "t": "plus ces temps-ci."
       },
       {
        "pause": true
       },
       {
-       "t": " Il est p't'être"
+       "t": " Il est p't'être à"
       },
       {
        "nl": true
       },
       {
-       "t": "à l'hôpital ou autre, j'sais pas."
+       "t": "l'hôpital ou autre, j'sais pas."
       }
      ]
     }
@@ -1388,7 +1367,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le nouveau ? Ah, lui...[1205][U+000F] Non, il ne\nvient plus ces temps-ci.[1205][U+000F] Il est p't'être\nà l'hôpital ou autre, j'sais pas.",
+   "brut_fr": "Le nouveau? Ah, lui...[1205][U+000F] Non, il ne vient\nplus ces temps-ci.[1205][U+000F] Il est p't'être à\nl'hôpital ou autre, j'sais pas.",
    "brut_en": "Transfer[SP]student?[SP]Oh,[SP]that[SP]guy...[1205][U+000F][SP]Nah,[SP]he\nhasn't[SP]come[SP]to[SP]school[SP]lately.[1205][U+000F][SP]Maybe[SP]he's[SP]in\nthe[SP]hospital[SP]or[SP]something,[SP]I[SP]dunno.",
    "data_size": 286,
    "budget": 278
@@ -1433,19 +1412,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'y a-t-il, Eikichi ?"
+       "t": "Qu'y a-t-il, Eikichi?"
       },
       {
        "pause": true
       },
       {
-       "t": " Tu connais"
+       "t": " Tu"
       },
       {
        "nl": true
       },
       {
-       "t": "ce nouvel élève ?"
+       "t": "connais ce nouvel élève?"
       }
      ]
     }
@@ -1474,7 +1453,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'y a-t-il, Eikichi ?[1205][U+000F] Tu connais\nce nouvel élève ?",
+   "brut_fr": "Qu'y a-t-il, Eikichi?[1205][U+000F] Tu\nconnais ce nouvel élève?",
    "brut_en": "What's[SP]up,[SP]Eikichi-kun?[1205][U+000F][SP]Do[SP]you[SP]know[SP]this\ntransfer[SP]student?",
    "data_size": 140,
    "budget": 132
@@ -1494,13 +1473,10 @@
        "pause": true
       },
       {
-       "t": " Sûrement"
-      },
-      {
        "nl": true
       },
       {
-       "t": "mon imagination..."
+       "t": "Sûrement mon imagination..."
       }
      ]
     }
@@ -1529,7 +1505,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N-Non, c'est rien...[1205][U+000F] Sûrement\nmon imagination...",
+   "brut_fr": "N-Non, c'est rien...[1205][U+000F]\nSûrement mon imagination...",
    "brut_en": "N-Nah,[SP]it's[SP]nothing...[1205][U+000F][SP]Probably[SP]just[SP]my\nimagination...",
    "data_size": 138,
    "budget": 130
@@ -1549,40 +1525,43 @@
        "pause": true
       },
       {
-       "t": " Ouais, cette classe"
+       "t": " Ouais, cette classe en"
       },
       {
        "nl": true
       },
       {
-       "t": "en avait un..."
+       "t": "avait un..."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais ça fait une"
+       "t": " Mais ça fait une éternité que je"
       },
       {
        "nl": true
       },
       {
-       "t": "éternité que je l'ai pas vu..."
+       "t": "l'ai pas vu..."
       },
       {
        "pause": true
+      },
+      {
+       "t": " Peu importe..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça me regarde"
       },
       {
        "nl": true
       },
       {
-       "t": "Peu importe..."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Ça me regarde pas..."
+       "t": "pas..."
       }
      ]
     }
@@ -1632,7 +1611,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le nouvel élève...[1205][U+000F] Ouais, cette classe\nen avait un...[1205][U+000F] Mais ça fait une\néternité que je l'ai pas vu...[1205][U+000F]\nPeu importe...[1205][U+000F] Ça me regarde pas...",
+   "brut_fr": "Le nouvel élève...[1205][U+000F] Ouais, cette classe en\navait un...[1205][U+000F] Mais ça fait une éternité que je\nl'ai pas vu...[1205][U+000F] Peu importe...[1205][U+000F] Ça me regarde\npas...",
    "brut_en": "Transfer[SP]student...[1205][U+000F][SP]Yeah,[SP]this[SP]class[SP]did[SP]have\none...[1205][U+000F][SP]But[SP]I[SP]haven't[SP]seen[SP]him[SP]in[SP]forever...[1205][U+000F]\nDoesn't[SP]matter...[1205][U+000F][SP]Has[SP]nothing[SP]to[SP]do[SP]with[SP]me...",
    "data_size": 324,
    "budget": 316

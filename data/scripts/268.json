@@ -10,7 +10,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Donc Elly est la raison pour laquelle les  "
+       "t": "Donc Elly est la raison pour laquelle les"
       },
       {
        "nl": true
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Donc Elly est la raison pour laquelle les  \nsoldats du Bataillon sont au sol?[1205][U+000F] W-Wow..",
+   "brut_fr": "Donc Elly est la raison pour laquelle les\nsoldats du Bataillon sont au sol?[1205][U+000F] W-Wow..",
    "brut_en": "So[SP]Elly-san's[SP]the[SP]reason[SP]that[SP]Last[SP]Battalion\nsoldier's[SP]on[SP]the[SP]floor[SP]over[SP]there?[1205][U+000F][SP]W-Wow...",
    "data_size": 206,
    "budget": 198
@@ -65,13 +65,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hahaha,Je pense qu'on ferait mieux de s'inquièter  "
+       "t": "Hahaha, Je pense qu'on ferait mieux"
       },
       {
        "nl": true
       },
       {
-       "t": "pour le Bataillon plus que des élèves de Seven."
+       "t": "de s'inquièter pour le Bataillon"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plus que des élèves de "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Seven."
       }
      ]
     }
@@ -100,7 +112,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hahaha,Je pense qu'on ferait mieux de s'inquièter  \npour le Bataillon plus que des élèves de Seven.",
+   "brut_fr": "Hahaha, Je pense qu'on ferait mieux\nde s'inquièter pour le Bataillon\nplus que des élèves de [1205][U+000F] Seven.",
    "brut_en": "Hahaha,[SP]I[SP]think[SP]we[SP]need[SP]to[SP]worry[SP]more[SP]about\nthe[SP]Last[SP]Battalion[SP]guys[SP]than[SP]the[SP]Sevens\nstudents[SP]at[SP]this[SP]rate.",
    "data_size": 238,
    "budget": 230
@@ -114,13 +126,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elly doit être celle à qui ils font référence lorsqu'"
+       "t": "Elly doit être celle à qui ils font"
       },
       {
        "nl": true
       },
       {
-       "t": "il parle de"
+       "t": "référence lorsqu' il parle de"
       },
       {
        "enc": "l'idéale."
@@ -129,13 +141,10 @@
        "pause": true
       },
       {
-       "t": "Même si"
-      },
-      {
        "nl": true
       },
       {
-       "t": " on peut dire la même chose de moi."
+       "t": "Même si on peut dire la même chose de moi."
       }
      ]
     }
@@ -173,7 +182,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elly doit être celle à qui ils font référence lorsqu'\nil parle de[1432][NULL][NULL][0014]l'idéale.[1432][NULL][NULL][0014][1205][U+000F]Même si\n on peut dire la même chose de moi.",
+   "brut_fr": "Elly doit être celle à qui ils font\nréférence lorsqu' il parle de[1432][NULL][NULL][0014]l'idéale.[1432][NULL][NULL][0014][1205][U+000F]\nMême si on peut dire la même chose de moi.",
    "brut_en": "Elly-san[SP]must[SP]be[SP]what[SP]they[SP]mean[SP]when[SP]they\ntalk[SP]about[SP][1432][NULL][NULL][0014]the[SP]whole[SP]package.[1432][NULL][NULL][0014][1205][U+000F][SP]Though[SP]of\ncourse,[SP]the[SP]same[SP]could[SP]be[SP]said[SP]about[SP]me.",
    "data_size": 290,
    "budget": 282
@@ -193,13 +202,13 @@
        "pause": true
       },
       {
-       "t": "Elly?"
+       "t": " Elly?"
       },
       {
        "pause": true
       },
       {
-       "t": "Qu'est ce qu'elle fait ici?"
+       "t": " Qu'est ce qu'elle fait ici?"
       }
      ]
     }
@@ -228,7 +237,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein?[1205][U+000A]Elly?[1205][U+000F]Qu'est ce qu'elle fait ici?",
+   "brut_fr": "Hein?[1205][U+000A] Elly?[1205][U+000F] Qu'est ce qu'elle fait ici?",
    "brut_en": "Huh!?[1205][U+000A][SP]Elly-san?[1205][U+000F][SP]What's[SP]she[SP]doing[SP]here?",
    "data_size": 106,
    "budget": 98
@@ -248,27 +257,33 @@
        "pause": true
       },
       {
-       "t": "Elly est venue..."
+       "t": " Elly est venue... "
       }
      ]
     },
     {
-     "nom": "Ginko",
+     "nom": "Ginko Elly est",
      "seg": [
       {
-       "t": "Elly est la meilleure.Elle est belle,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "forte et intelligente.."
+       "t": "la meilleure. Elle est belle,"
       },
       {
        "pause": true
       },
       {
-       "t": "Je veux être comme elle."
+       "t": " forte et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "intelligente.."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je veux être comme elle."
       }
      ]
     }
@@ -311,7 +326,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh![1205][U+000A]Elly est venue...[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nElly est la meilleure.Elle est belle,\nforte et intelligente..[1205][U+000F]Je veux être comme elle.",
+   "brut_fr": "Oh![1205][U+000A] Elly est venue...[E1][E2] [E3][E4][NULL][NULL]\"Ginko Elly est\nla meilleure. Elle est belle,[1205][U+000F] forte et\nintelligente..[1205][U+000F] Je veux être comme elle.",
    "brut_en": "Oh![1205][U+000A][SP]Elly-san[SP]came[SP]too...[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nElly-san's[SP]the[SP]best.[SP]She's[SP]so[SP]pretty,[SP]and\nstrong,[SP]and[SP]smart...[1205][U+000F][SP]I[SP]want[SP]to[SP]be[SP]like[SP]her.",
    "data_size": 276,
    "budget": 268
@@ -325,25 +340,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ah,elle a du venir sauver les élèves de"
+       "t": "Ah, elle a du venir sauver les"
       },
       {
        "nl": true
       },
       {
-       "t": "Seven."
+       "t": "élèves de Seven."
       },
       {
        "pause": true
       },
       {
-       "t": "Dieu merci..Tout le monde semble"
+       "t": " Dieu merci.. Tout"
       },
       {
        "nl": true
       },
       {
-       "t": "aller bien là-bas."
+       "t": "le monde semble aller bien là-bas."
       }
      ]
     }
@@ -378,7 +393,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah,elle a du venir sauver les élèves de\nSeven.[1205][U+000F]Dieu merci..Tout le monde semble\naller bien là-bas.",
+   "brut_fr": "Ah, elle a du venir sauver les\nélèves de Seven.[1205][U+000F] Dieu merci.. Tout\nle monde semble aller bien là-bas.",
    "brut_en": "Ah,[SP]she[SP]must've[SP]come[SP]to[SP]save[SP]the[SP]students[SP]at\nSevens.[1205][U+000F][SP]Thank[SP]goodness...[SP]Everyone[SP]seems[SP]to\nbe[SP]okay[SP]here.",
    "data_size": 228,
    "budget": 220
@@ -392,13 +407,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je pense qu'on peut laisser l'école à Elly "
+       "t": "Je pense qu'on peut laisser"
       },
       {
        "nl": true
       },
       {
-       "t": "et les autres."
+       "t": "l'école à Elly et les autres."
       }
      ]
     }
@@ -421,7 +436,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je pense qu'on peut laisser l'école à Elly \net les autres.",
+   "brut_fr": "Je pense qu'on peut laisser\nl'école à Elly et les autres.",
    "brut_en": "I[SP]think[SP]we[SP]can[SP]trust[SP]the[SP]school[SP]to[SP]Elly-san\nand[SP]the[SP]others.",
    "data_size": 138,
    "budget": 130
@@ -444,7 +459,10 @@
        "nl": true
       },
       {
-       "t": "Elle a battue cinq membres du Bataillon  "
+       "t": "Elle a battue cinq membres du Bataillon "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -456,7 +474,7 @@
        "pause": true
       },
       {
-       "t": "Génial..."
+       "t": " Génial..."
       }
      ]
     }
@@ -494,7 +512,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elly est aussi forte que ce que je pensais.[1205][U+000A]\nElle a battue cinq membres du Bataillon  \nsans le moindre effort.[1205][U+000A]Génial...",
+   "brut_fr": "Elly est aussi forte que ce que je pensais.[1205][U+000A]\nElle a battue cinq membres du Bataillon [1205][U+000F]\nsans le moindre effort.[1205][U+000A] Génial...",
    "brut_en": "Elly-san's[SP]as[SP]strong[SP]as[SP]I[SP]thought[SP]she'd[SP]be.[1205][U+000A]\nShe[SP]took[SP]out[SP]five[SP]of[SP]the[SP]Last[SP]Battalion\nwithout[SP]breaking[SP]a[SP]sweat.[1205][U+000A][SP]Amazing...",
    "data_size": 268,
    "budget": 260
@@ -514,7 +532,7 @@
        "pause": true
       },
       {
-       "t": "J'ai l'impression de "
+       "t": " J'ai l'impression de"
       },
       {
        "nl": true
@@ -526,13 +544,13 @@
        "pause": true
       },
       {
-       "t": "Est ce que cela peut être"
+       "t": " Est ce que cela"
       },
       {
        "nl": true
       },
       {
-       "t": "lié à la Persona de Yukino?"
+       "t": "peut être lié à la Persona de Yukino?"
       }
      ]
     }
@@ -573,7 +591,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est bizzare..[1205][U+000F]J'ai l'impression de \ndéjà la connaître.[1205][U+000F]Est ce que cela peut être\nlié à la Persona de Yukino?",
+   "brut_fr": "C'est bizzare..[1205][U+000F] J'ai l'impression de\ndéjà la connaître.[1205][U+000F] Est ce que cela\npeut être lié à la Persona de Yukino?",
    "brut_en": "How[SP]strange...[1205][U+000F][SP]I[SP]feel[SP]like[SP]I[SP]know[SP]her[SP]very\nwell[SP]already.[1205][U+000F][SP]Could[SP]this[SP]be[SP]another[SP]effect\nof[SP]Yukino-san's[SP]Persona...?",
    "data_size": 252,
    "budget": 244
@@ -593,19 +611,25 @@
        "pause": true
       },
       {
-       "t": "J'ai compris que le  "
+       "t": " J'ai compris"
       },
       {
        "nl": true
       },
       {
-       "t": "Bataillon a envahi l'école,donc"
+       "t": "que le Bataillon a envahi l'école,"
       },
       {
        "nl": true
       },
       {
-       "t": "j'ai foncé ici au plus vite."
+       "t": "donc"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " j'ai foncé ici au plus vite."
       }
      ]
     }
@@ -640,7 +664,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous êtes tous en vie![1205][U+000A]J'ai compris que le  \nBataillon a envahi l'école,donc\nj'ai foncé ici au plus vite.",
+   "brut_fr": "Vous êtes tous en vie![1205][U+000A] J'ai compris\nque le Bataillon a envahi l'école,\ndonc[1205][U+000F] j'ai foncé ici au plus vite.",
    "brut_en": "You're[SP]all[SP]safe![1205][U+000A][SP]I[SP]had[SP]heard[SP]that[SP]the[SP]Last\nBattalion[SP]invaded[SP]this[SP]school,[SP]so[SP]I[SP]rushed\nhere[SP]straight[SP]away.",
    "data_size": 234,
    "budget": 226
@@ -660,13 +684,13 @@
        "nl": true
       },
       {
-       "t": "Laissez-nous l'école et allez vite"
+       "t": "Laissez-nous l'école et allez"
       },
       {
        "nl": true
       },
       {
-       "t": "secourir la prof kidnappée."
+       "t": "vite secourir la prof kidnappée."
       }
      ]
     }
@@ -695,7 +719,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je comprends bien la situation.\nLaissez-nous l'école et allez vite\nsecourir la prof kidnappée.",
+   "brut_fr": "Je comprends bien la situation.\nLaissez-nous l'école et allez\nvite secourir la prof kidnappée.",
    "brut_en": "I[SP]have[SP]a[SP]fairly[SP]good[SP]sense[SP]of[SP]what's[SP]going[SP]on.\nI[SP]suggest[SP]you[SP]leave[SP]the[SP]school[SP]to[SP]us[SP]and[SP]go\nrescue[SP]the[SP]kidnapped[SP]teacher.",
    "data_size": 260,
    "budget": 252
@@ -709,31 +733,40 @@
      "nom": null,
      "seg": [
       {
-       "t": "Fiou..ça faisait longtemp qu'un combat m'a"
+       "t": "Fiou.. ça faisait longtemp qu'un"
       },
       {
        "nl": true
       },
       {
-       "t": "fait transpirer autant."
+       "t": "combat m'a fait transpirer autant."
       },
       {
        "pause": true
-      },
-      {
-       "t": "Hereusement,j'ai été à la"
       },
       {
        "nl": true
       },
       {
-       "t": "chambre de velours avant."
+       "t": "Hereusement, j'ai été à la"
       },
       {
        "pause": true
       },
       {
-       "t": "Tout le monde va bien?"
+       "t": " chambre de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "velours avant."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tout le monde va bien?"
       }
      ]
     }
@@ -774,7 +807,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Fiou..ça faisait longtemp qu'un combat m'a\nfait transpirer autant.[1205][U+000A]Hereusement,j'ai été à la\nchambre de velours avant.[1205][U+000F]Tout le monde va bien?",
+   "brut_fr": "Fiou.. ça faisait longtemp qu'un\ncombat m'a fait transpirer autant.[1205][U+000A]\nHereusement, j'ai été à la[1205][U+000F] chambre de\nvelours avant.[1205][U+000F] Tout le monde va bien?",
    "brut_en": "Whew...[SP]It's[SP]been[SP]some[SP]time[SP]since[SP]a[SP]battle[SP]made\nme[SP]sweat[SP]that[SP]way.[1205][U+000A][SP]It's[SP]fortunate[SP]I[SP]stopped[SP]by\nthe[SP]Velvet[SP]Room[SP]beforehand.[1205][U+000F][SP]Are[SP]you[SP]all[SP]okay?",
    "data_size": 308,
    "budget": 300
@@ -788,13 +821,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça me fait penser,vous avez vus Brown"
+       "t": "Ça me fait penser, vous"
       },
       {
        "nl": true
       },
       {
-       "t": "et Maki?"
+       "t": "avez vus Brown et Maki?"
       }
      ]
     }
@@ -817,7 +850,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça me fait penser,vous avez vus Brown\net Maki?",
+   "brut_fr": "Ça me fait penser, vous\navez vus Brown et Maki?",
    "brut_en": "That[SP]reminds[SP]me,[SP]have[SP]you[SP]met[SP]Brown[SP]and\nMaki[SP]yet?",
    "data_size": 118,
    "budget": 110
@@ -831,13 +864,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On est venu ici ensemble,je suppose qu'ils sont"
+       "t": "On est venu ici ensemble, je"
       },
       {
        "nl": true
       },
       {
-       "t": "dans l'école."
+       "t": "suppose qu'ils sont dans l'école."
       }
      ]
     }
@@ -860,7 +893,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On est venu ici ensemble,je suppose qu'ils sont\ndans l'école.",
+   "brut_fr": "On est venu ici ensemble, je\nsuppose qu'ils sont dans l'école.",
    "brut_en": "We[SP]all[SP]came[SP]here[SP]together,[SP]so[SP]I[SP]expect[SP]they're\nsomewhere[SP]in[SP]the[SP]school.",
    "data_size": 162,
    "budget": 154
@@ -880,16 +913,19 @@
        "pause": true
       },
       {
-       "t": "Si cette femme n'était pas venue,q-qui sait ce"
+       "t": " Si cette femme n'était pas venue,"
       },
       {
        "nl": true
       },
       {
-       "t": "qui aurait pu nous arriver.."
+       "t": "q-qui sait ce qui aurait pu nous arriver.."
       },
       {
        "pause": true
+      },
+      {
+       "nl": true
       },
       {
        "t": "Vous n'avez pas idée, je lui dois la vie"
@@ -933,7 +969,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si..[1205][U+0008]Si cette femme n'était pas venue,q-qui sait ce\nqui aurait pu nous arriver..[1205][U+000F]Vous n'avez pas idée, je lui dois la vie",
+   "brut_fr": "Si..[1205][U+0008] Si cette femme n'était pas venue,\nq-qui sait ce qui aurait pu nous arriver..[1205][U+000F]\nVous n'avez pas idée, je lui dois la vie",
    "brut_en": "If...[1205][U+0008][SP]If[SP]that[SP]lady[SP]hadn't[SP]come,[SP]wh-who[SP]knows\nwhat[SP]would've[SP]happened[SP]to[SP]us...[1205][U+000F][SP]Y-You[SP]have[SP]no\nidea[SP]how[SP]grateful[SP]I[SP]am[SP]for[SP]her!",
    "data_size": 288,
    "budget": 280
@@ -947,19 +983,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'invasion du Bataillon  et l'intervention de cette"
+       "t": "L'invasion du Bataillon et"
       },
       {
        "nl": true
       },
       {
-       "t": "bombe grâcieuse!"
+       "t": "l'intervention de cette bombe grâcieuse!"
       },
       {
        "pause": true
       },
       {
-       "t": "Comment peut-on toujours prétendre être journalistes et ne pas écrire ceci!"
+       "nl": true
+      },
+      {
+       "t": "Comment peut-on toujours prétendre être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "journalistes et ne pas écrire ceci!"
       }
      ]
     }
@@ -994,7 +1039,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'invasion du Bataillon  et l'intervention de cette\nbombe grâcieuse![1205][U+000F]Comment peut-on toujours prétendre être journalistes et ne pas écrire ceci!",
+   "brut_fr": "L'invasion du Bataillon et\nl'intervention de cette bombe grâcieuse![1205][U+000F]\nComment peut-on toujours prétendre être\njournalistes et ne pas écrire ceci!",
    "brut_en": "The[SP]Last[SP]Battalion's[SP]invasion[SP]and[SP]a[SP]graceful\nbeauty's[SP]sudden[SP]intervention![1205][U+000F][SP]How[SP]could[SP]we[SP]call\nourselves[SP]journalists[SP]and[SP]not[SP]write[SP]this[SP]up!?",
    "data_size": 316,
    "budget": 308
@@ -1008,19 +1053,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le prochain numéro du Times des Seven Sisters aura pour sujet"
+       "t": "Le prochain numéro du Times des Seven Sisters"
       },
       {
        "nl": true
       },
       {
-       "t": "la mystérieuse beauté qui a fait fuir le Bataillon."
+       "t": "aura pour sujet la mystérieuse beauté qui a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fait fuir le "
       },
       {
        "pause": true
       },
       {
-       "t": "C'est de l'OR!"
+       "t": " Bataillon."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est de l'OR!"
       }
      ]
     }
@@ -1055,7 +1112,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le prochain numéro du Times des Seven Sisters aura pour sujet\nla mystérieuse beauté qui a fait fuir le Bataillon.[1205][U+000F]C'est de l'OR!",
+   "brut_fr": "Le prochain numéro du Times des Seven Sisters\naura pour sujet la mystérieuse beauté qui a\nfait fuir le [1205][U+000F] Bataillon.[1205][U+000F] C'est de l'OR!",
    "brut_en": "The[SP]next[SP]issue[SP]of[SP]the[SP]Seven[SP]Sisters[SP]Times[SP]will\nbe[SP]about[SP]the[SP]mysterious[SP]beauty[SP]who[SP]drove[SP]off\nthe[SP]evil[SP]Last[SP]Battalion![1205][U+000F][SP]This[SP]is[SP]GOLD!",
    "data_size": 300,
    "budget": 292
@@ -1075,25 +1132,19 @@
        "pause": true
       },
       {
-       "t": "Vous avez trouvé Kozy ?"
+       "t": " Vous avez trouvé Kozy?"
       },
       {
        "pause": true
       },
       {
-       "t": "Tant mieux."
+       "t": " Tant mieux. On"
       },
       {
        "nl": true
       },
       {
-       "t": "On s'inquiétait, on n'arrivait pas à"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "la joindre."
+       "t": "s'inquiétait, on n'arrivait pas à la joindre."
       }
      ]
     }
@@ -1134,7 +1185,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh![1205][U+000A]Vous avez trouvé Kozy ?[1205][U+000F]Tant mieux.\nOn s'inquiétait, on n'arrivait pas à\nla joindre.",
+   "brut_fr": "Oh![1205][U+000A] Vous avez trouvé Kozy?[1205][U+000F] Tant mieux. On\ns'inquiétait, on n'arrivait pas à la joindre.",
    "brut_en": "Oh![1205][U+000A][SP]You[SP]found[SP]Kozy-senpai?[1205][U+000F][SP]That's[SP]great[SP]news.\nWe[SP]were[SP]getting[SP]worried,[SP]since[SP]none[SP]of[SP]us\ncould[SP]reach[SP]her.",
    "data_size": 252,
    "budget": 244
@@ -1154,22 +1205,22 @@
        "pause": true
       },
       {
-       "t": "Je suis émue..."
+       "t": " Je suis émue..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Elle a vaincu tous ces voyous d'un cri"
+       "t": " Elle"
       },
       {
        "nl": true
       },
       {
-       "t": "de "
+       "t": "a vaincu tous ces voyous d'un cri de"
+      },
+      {
+       "nl": true
       },
       {
        "enc": "Persona!"
@@ -1178,7 +1229,7 @@
        "pause": true
       },
       {
-       "t": "Mais c'est quoi, une Persona?"
+       "t": " Mais c'est quoi, une Persona?"
       }
      ]
     }
@@ -1225,7 +1276,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle est géniale![1205][U+000A]Je suis émue...[1205][U+000F]\nElle a vaincu tous ces voyous d'un cri\nde [1432][NULL][NULL][0014]Persona![1432][NULL][NULL][0014][1205][U+000F]Mais c'est quoi, une Persona?",
+   "brut_fr": "Elle est géniale![1205][U+000A] Je suis émue...[1205][U+000F] Elle\na vaincu tous ces voyous d'un cri de\n[1432][NULL][NULL][0014]Persona![1432][NULL][NULL][0014][1205][U+000F] Mais c'est quoi, une Persona?",
    "brut_en": "She's...[SP]She's[SP]amazing![1205][U+000A][SP]I'm[SP]moved[SP]to[SP]tears...[1205][U+000F]\nShe[SP]defeated[SP]all[SP]those[SP]hooligans[SP]with[SP]one\nyell[SP]of[SP][1432][NULL][NULL][0014]Persona![1432][NULL][NULL][0014][1205][U+000F][SP]But[SP]what's[SP]a[SP]Persona?",
    "data_size": 320,
    "budget": 312

@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ahahaha! Dis donc, Yisi! Tout ça"
+       "t": "Ahahaha! Dis donc, Yisi!"
       },
       {
        "nl": true
       },
       {
-       "t": "me paraît faux!"
+       "t": "Tout ça me paraît faux!"
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ahahaha! Dis donc, Yisi! Tout ça\nme paraît faux!",
+   "brut_fr": "Ahahaha! Dis donc, Yisi!\nTout ça me paraît faux!",
    "brut_en": "Ahahaha![SP]You[SP]Yisi![SP]None[SP]of[SP]that[SP]sounds[SP]right\nif[SP]you[SP]ask[SP]me!",
    "data_size": 142,
    "budget": 134
@@ -59,7 +59,13 @@
        "enc": "Silence"
       },
       {
-       "t": "!? Depuis quand!? Je hais les criminels!"
+       "t": "!? Depuis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quand!? Je hais les criminels!"
       }
      ]
     }
@@ -88,7 +94,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein!? [1432][NULL][NULL][0014]Silence[1432][NULL][NULL][0014]!? Depuis quand!? Je hais les criminels!",
+   "brut_fr": "Hein!? [1432][NULL][NULL][0014]Silence[1432][NULL][NULL][0014]!? Depuis\nquand!? Je hais les criminels!",
    "brut_en": "What's[SP]that[SP]supposed[SP]to[SP]mean!?[SP][1432][NULL][NULL][0014]Quiet[1432][NULL][NULL][0014]!?\nSince[SP]when!?[SP]And[SP]I[SP]hate[SP]criminals!",
    "data_size": 190,
    "budget": 182
@@ -102,19 +108,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et cruel...? Je suis plutôt ému par la souffrance..."
+       "t": "Et cruel...? Je suis plutôt ému par"
       },
       {
        "nl": true
       },
       {
-       "t": "Dominant... Hum, mais"
+       "t": "la souffrance... Dominant... Hum,"
       },
       {
        "nl": true
       },
       {
-       "t": "j'ai arrêté d'être Boss..."
+       "t": "mais"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " j'ai arrêté d'être Boss..."
       }
      ]
     }
@@ -143,7 +155,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et cruel...? Je suis plutôt ému par la souffrance...\nDominant... Hum, mais\nj'ai arrêté d'être Boss...",
+   "brut_fr": "Et cruel...? Je suis plutôt ému par\nla souffrance... Dominant... Hum,\nmais[1205][U+000F] j'ai arrêté d'être Boss...",
    "brut_en": "And[SP]cruel...?[SP]I[SP]think[SP]I'm[SP]more[SP]easily[SP]moved\nto[SP]tears[SP]by[SP]suffering...[SP]Dominant...[SP]Hmm,[SP]but\nI[SP]quit[SP]being[SP]Boss...",
    "data_size": 248,
    "budget": 240
@@ -200,16 +212,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les morts ne reviennent jamais à la vie..."
-      },
-      {
-       "pause": true
+       "t": "Les morts ne reviennent jamais à la"
       },
       {
        "nl": true
       },
       {
-       "t": "On ne revient pas de là..."
+       "t": "vie..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On ne revient pas de là..."
       }
      ]
     }
@@ -235,7 +250,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les morts ne reviennent jamais à la vie...[1205][001E]\nOn ne revient pas de là...",
+   "brut_fr": "Les morts ne reviennent jamais à la\nvie...[1205][001E] On ne revient pas de là...",
    "brut_en": "The[SP]dead[SP]will[SP]never[SP]return[SP]to[SP]life...[1205][001E]\nThere's[SP]no[SP]coming[SP]back[SP]from[SP]that...",
    "data_size": 172,
    "budget": 164
@@ -255,13 +270,13 @@
        "pause": true
       },
       {
-       "t": " On a fini de papoter? Bon, alors,"
+       "t": " On a fini de papoter?"
       },
       {
        "nl": true
       },
       {
-       "t": "allons-y!"
+       "t": "Bon, alors, allons-y!"
       }
      ]
     }
@@ -290,7 +305,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah...!?[1205][001E] On a fini de papoter? Bon, alors,\nallons-y!",
+   "brut_fr": "Ah...!?[1205][001E] On a fini de papoter?\nBon, alors, allons-y!",
    "brut_en": "Ah...!?[1205][001E][SP]A-Are[SP]we[SP]done[SP]chatting?[SP]Okay,[SP]then,\nlet's[SP]go!",
    "data_size": 132,
    "budget": 124
@@ -310,19 +325,25 @@
        "pause": true
       },
       {
-       "t": " Associé à l'eau,"
+       "t": " Associé à l'eau, il symbolise"
       },
       {
        "nl": true
       },
       {
-       "t": "il symbolise mort et renaissance,"
+       "t": "mort et renaissance, ainsi que"
       },
       {
        "nl": true
       },
       {
-       "t": "ainsi que l'attirance sexuelle et la domination..."
+       "t": "l'attirance sexuelle et la "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " domination..."
       }
      ]
     }
@@ -357,7 +378,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Scorpion...[1205][001E] Associé à l'eau,\nil symbolise mort et renaissance,\nainsi que l'attirance sexuelle et la domination...",
+   "brut_fr": "Scorpion...[1205][001E] Associé à l'eau, il symbolise\nmort et renaissance, ainsi que\nl'attirance sexuelle et la [1205][U+000F] domination...",
    "brut_en": "Scorpio...[1205][001E][SP]It's[SP]associated[SP]with[SP]the[SP]element\nof[SP]water[SP]and[SP]symbolizes[SP]death[SP]and[SP]rebirth,\nas[SP]well[SP]as[SP]sexual[SP]attraction[SP]and[SP]dominance...",
    "data_size": 288,
    "budget": 280
@@ -371,13 +392,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ils peuvent être silencieux, cruels, criminels, mais Michel a laissé ça derrière..."
+       "t": "Ils peuvent être silencieux, cruels,"
       },
       {
        "nl": true
       },
       {
-       "t": "> Une inscription sur le relief."
+       "t": "criminels, mais Michel a laissé ça"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "derrière..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " > Une inscription sur le relief."
       }
      ]
     }
@@ -412,7 +445,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils peuvent être silencieux, cruels, criminels, mais Michel a laissé ça derrière...\n[E1][E2][E3]> Une inscription sur le relief.",
+   "brut_fr": "Ils peuvent être silencieux, cruels,\ncriminels, mais Michel a laissé ça\nderrière...[1205][U+000F] [E1][E2][E3]> Une inscription sur le relief.",
    "brut_en": "They[SP]can[SP]also[SP]be[SP]quiet,[SP]cruel,[SP]and[SP]criminal,\nbut[SP]I[SP]think[SP]Michel[SP]has[SP]put[SP]those[SP]qualities\nbehind[SP]him...\n[E1][E2][E3]>[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.",
    "data_size": 308,
    "budget": 300

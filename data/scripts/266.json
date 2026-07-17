@@ -16,25 +16,37 @@
        "hero": "nom"
       },
       {
-       "t": "senpai.."
+       "t": " senpai.."
       },
       {
        "pause": true
       },
       {
-       "t": "Tu as vu Lisa?"
+       "t": " Tu as vu Lisa?"
       },
       {
        "pause": true
       },
       {
-       "t": "Elle est partie te chercher avec une lettre."
+       "t": " Elle est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "partie te chercher avec une lettre."
       },
       {
        "pause": true
       },
       {
-       "t": "Tu comprends,ce que ça veut dire,j'espère?"
+       "t": " Tu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "comprends, ce que ça veut dire, j'espère?"
       }
      ]
     }
@@ -84,7 +96,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm?[1112]senpai..[1205][001E]Tu as vu Lisa?[1205][001E]Elle est partie te chercher avec une lettre.[1205][001E]Tu comprends,ce que ça veut dire,j'espère?",
+   "brut_fr": "Hm?[1112] senpai..[1205][001E] Tu as vu Lisa?[1205][001E] Elle est\npartie te chercher avec une lettre.[1205][001E] Tu\ncomprends, ce que ça veut dire, j'espère?",
    "brut_en": "Hm?[SP][1112]-senpai...[1205][001E][SP]Have[SP]you[SP]seen[SP]Lisa?[1205][001E]\nShe[SP]was[SP]looking[SP]for[SP]you[SP]with[SP]a[SP]letter[SP]in\nher[SP]hand.[1205][001E][SP]You[SP]get[SP]the[SP]picture,[SP]I[SP]hope?",
    "data_size": 260,
    "budget": 252
@@ -98,13 +110,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Donc soit moins dur envers Lisa.Elle à fond sur"
+       "t": "Donc soit moins dur envers Lisa. Elle à fond"
       },
       {
        "nl": true
       },
       {
-       "t": "toi,mais t'es froid avec elle.Si tu la fais pleurer,je vais m'en prendre à toi"
+       "t": "sur toi, mais t'es froid avec elle. Si tu la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "fais pleurer, je vais m'en prendre à toi"
       }
      ]
     }
@@ -133,7 +154,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Donc soit moins dur envers Lisa.Elle à fond sur\ntoi,mais t'es froid avec elle.Si tu la fais pleurer,je vais m'en prendre à toi",
+   "brut_fr": "Donc soit moins dur envers Lisa. Elle à fond\nsur toi, mais t'es froid avec elle. Si tu la\n[1205][U+000F]fais pleurer, je vais m'en prendre à toi",
    "brut_en": "So[SP]don't[SP]be[SP]so[SP]harsh[SP]on[SP]Lisa.[SP]She's[SP]really[SP]into\nyou,[SP]but[SP]you're[SP]so[SP]cold[SP]around[SP]her.[SP]If[SP]you[SP]make\nher[SP]cry,[SP]I'll[SP]be[SP]forced[SP]to[SP]take[SP]action.",
    "data_size": 290,
    "budget": 282
@@ -147,7 +168,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sheba a raison ! Si tu fais pleurer Lisa, moi aussi ! On est meilleures amies !"
+       "t": "Sheba a raison! Si tu fais pleurer Lisa,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "moi aussi! On est meilleures amies!"
       }
      ]
     }
@@ -170,7 +197,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sheba a raison ! Si tu fais pleurer Lisa, moi aussi ! On est meilleures amies !",
+   "brut_fr": "Sheba a raison! Si tu fais pleurer Lisa,\nmoi aussi! On est meilleures amies!",
    "brut_en": "Sheba's[SP]right![SP]If[SP]you[SP]make[SP]Lisa[SP]cry,[SP]I'll[SP]cry\ntoo![SP]We're[SP]best[SP]friends,[SP]after[SP]all!",
    "data_size": 180,
    "budget": 172
@@ -190,7 +217,7 @@
        "pause": true
       },
       {
-       "t": "Hm.."
+       "t": " Hm.."
       },
       {
        "pause": true
@@ -205,7 +232,13 @@
        "pause": true
       },
       {
-       "t": "Ahaha..Tu diras oui dans tous les cas,non?"
+       "t": " Ahaha.. Tu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "diras oui dans tous les cas, non?"
       }
      ]
     }
@@ -249,7 +282,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lisa avait l'air stressée.[1205][U+000F]Hm..[1205][U+000F]\nEst ce que c'est lié?[1205][U+000F]Ahaha..Tu diras oui dans tous les cas,non?",
+   "brut_fr": "Lisa avait l'air stressée.[1205][U+000F] Hm..[1205][U+000F]\nEst ce que c'est lié?[1205][U+000F] Ahaha.. Tu\ndiras oui dans tous les cas, non?",
    "brut_en": "Lisa[SP]seemed[SP]pretty[SP]anxious,[SP]though.[1205][U+000F][SP]Hmm...[1205][U+000F]\nCould[SP]this[SP]be[SP]it?[1205][U+000F][SP]Ahaha...[SP]You'll[SP]say[SP]yes,\nwon't[SP]you?",
    "data_size": 224,
    "budget": 216
@@ -263,7 +296,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hm ?"
+       "t": "Hm?"
       },
       {
        "hero": "nom"
@@ -275,7 +308,7 @@
        "pause": true
       },
       {
-       "t": " T'as vu Lisa ?"
+       "t": " T'as vu Lisa?"
       },
       {
        "pause": true
@@ -293,7 +326,7 @@
        "nl": true
       },
       {
-       "t": "Tu vois ce que ça veut dire ?"
+       "t": "Tu vois ce que ça veut dire?"
       }
      ]
     }
@@ -343,7 +376,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm ?[1112]-senpai...[1205][001E] T'as vu Lisa ?[1205][001E]\nElle te cherchait, lettre en main.[1205][001E]\nTu vois ce que ça veut dire ?",
+   "brut_fr": "Hm?[1112]-senpai...[1205][001E] T'as vu Lisa?[1205][001E]\nElle te cherchait, lettre en main.[1205][001E]\nTu vois ce que ça veut dire?",
    "brut_en": "Hm?[SP][1112]-senpai...[1205][001E][SP]Have[SP]you[SP]seen[SP]Lisa?[1205][001E]\nShe[SP]was[SP]looking[SP]for[SP]you[SP]with[SP]a[SP]letter[SP]in\nher[SP]hand.[1205][001E][SP]You[SP]get[SP]the[SP]picture,[SP]I[SP]hope?",
    "data_size": 260,
    "budget": 252
@@ -357,19 +390,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sois moins dur avec Lisa. Elle craque pour"
+       "t": "Sois moins dur avec Lisa. Elle craque"
       },
       {
        "nl": true
       },
       {
-       "t": "toi, mais tu es si froid. Si tu la fais"
+       "t": "pour toi, mais tu es si froid. Si tu la"
       },
       {
        "nl": true
       },
       {
-       "t": "pleurer, t'auras affaire à moi."
+       "t": "fais pleurer, t'auras affaire à moi."
       }
      ]
     }
@@ -398,7 +431,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sois moins dur avec Lisa. Elle craque pour\ntoi, mais tu es si froid. Si tu la fais\npleurer, t'auras affaire à moi.",
+   "brut_fr": "Sois moins dur avec Lisa. Elle craque\npour toi, mais tu es si froid. Si tu la\nfais pleurer, t'auras affaire à moi.",
    "brut_en": "So[SP]don't[SP]be[SP]so[SP]harsh[SP]on[SP]Lisa.[SP]She's[SP]really[SP]into\nyou,[SP]but[SP]you're[SP]so[SP]cold[SP]around[SP]her.[SP]If[SP]you[SP]make\nher[SP]cry,[SP]I'll[SP]be[SP]forced[SP]to[SP]take[SP]action.",
    "data_size": 290,
    "budget": 282
@@ -412,13 +445,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sheba a raison ! Si tu fais pleurer Lisa,"
+       "t": "Sheba a raison! Si tu fais pleurer Lisa,"
       },
       {
        "nl": true
       },
       {
-       "t": "je pleure aussi ! Meilleures amies !"
+       "t": "je pleure aussi! Meilleures amies!"
       }
      ]
     }
@@ -441,7 +474,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sheba a raison ! Si tu fais pleurer Lisa,\nje pleure aussi ! Meilleures amies !",
+   "brut_fr": "Sheba a raison! Si tu fais pleurer Lisa,\nje pleure aussi! Meilleures amies!",
    "brut_en": "Sheba's[SP]right![SP]If[SP]you[SP]make[SP]Lisa[SP]cry,[SP]I'll[SP]cry\ntoo![SP]We're[SP]best[SP]friends,[SP]after[SP]all!",
    "data_size": 180,
    "budget": 172
@@ -455,19 +488,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lisa est polyglote, non, Vu qu'elle parle  "
+       "t": "Lisa est polyglote, non, Vu qu'elle"
       },
       {
        "nl": true
       },
       {
-       "t": "Anglais, Japonais et même Cantonais?  "
+       "t": "parle Anglais, Japonais et même"
       },
       {
        "nl": true
       },
       {
-       "t": " Mais ça reste une meuf cool "
+       "t": "Cantonais? "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais ça reste une meuf cool"
       }
      ]
     }
@@ -496,7 +535,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lisa est polyglote, non, Vu qu'elle parle  \nAnglais, Japonais et même Cantonais?  \n Mais ça reste une meuf cool ",
+   "brut_fr": "Lisa est polyglote, non, Vu qu'elle\nparle Anglais, Japonais et même\nCantonais? [1205][U+000F] Mais ça reste une meuf cool",
    "brut_en": "Lisa's[SP]multilingual,[SP]right,[SP]since[SP]she[SP]can[SP]speak\nEnglish[SP]and[SP]Japanese[SP]and[SP]even[SP]Cantonese?\nBut[SP]she's[SP]totally[SP]laid[SP]back[SP]and[SP]chill.",
    "data_size": 274,
    "budget": 266
@@ -510,13 +549,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ensemble on passait des nuits blanches chez  "
+       "t": "Ensemble on passait des nuits blanches"
       },
       {
        "nl": true
       },
       {
-       "t": "Yumezaki.Toi et Lisa vous feriez vraiment un couple trop mignon..."
+       "t": "chez Yumezaki. Toi et Lisa vous feriez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vraiment "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " un couple trop mignon..."
       }
      ]
     }
@@ -545,7 +596,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ensemble on passait des nuits blanches chez  \nYumezaki.Toi et Lisa vous feriez vraiment un couple trop mignon...",
+   "brut_fr": "Ensemble on passait des nuits blanches\nchez Yumezaki. Toi et Lisa vous feriez\nvraiment [1205][U+000F] un couple trop mignon...",
    "brut_en": "The[SP]three[SP]of[SP]us[SP]used[SP]to[SP]pull[SP]all-nighters[SP]at\nYumezaki[SP]all[SP]the[SP]time.[SP]You[SP]and[SP]Lisa[SP]would\nmake[SP]a[SP]totally[SP]cute[SP]couple...",
    "data_size": 252,
    "budget": 244
@@ -559,19 +610,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Est-ce-ce que toi,et umm,Lisa vous êtes plus"
+       "t": "Est-ce-ce que toi, et umm, Lisa vous êtes"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'amis ?Si c'est le cas t-t'as tellement de"
+       "t": "plus qu'amis? Si c'est le cas t-t'as"
       },
       {
        "nl": true
       },
       {
-       "t": "chance..Je suis j-jaloux.."
+       "t": "tellement "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de chance.. Je suis j-jaloux.."
       }
      ]
     }
@@ -600,7 +657,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Est-ce-ce que toi,et umm,Lisa vous êtes plus\nqu'amis ?Si c'est le cas t-t'as tellement de\nchance..Je suis j-jaloux..",
+   "brut_fr": "Est-ce-ce que toi, et umm, Lisa vous êtes\nplus qu'amis? Si c'est le cas t-t'as\ntellement [1205][U+000F] de chance.. Je suis j-jaloux..",
    "brut_en": "A-Are[SP]you[SP]and,[SP]umm,[SP]L-Lisa-san[SP]m-more[SP]than\nj-just[SP]friends?[SP]I-If[SP]you[SP]are,[SP]y-you're[SP]so\nlucky...[SP]I'm[SP]j-j-jealous...",
    "data_size": 278,
    "budget": 270
@@ -620,13 +677,19 @@
        "nl": true
       },
       {
-       "t": " tu sais....T-Tu peux juste pas garder quelqu'un comme"
+       "t": "tu sais.... T-Tu peux juste pas garder"
       },
       {
        "nl": true
       },
       {
-       "t": "ça juste pour t-toi.."
+       "t": "quelqu'un comme"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ça juste pour t-toi.."
       }
      ]
     }
@@ -655,7 +718,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lisa est une c-candidate pour Miss Seven,\n tu sais....T-Tu peux juste pas garder quelqu'un comme\nça juste pour t-toi..",
+   "brut_fr": "Lisa est une c-candidate pour Miss Seven,\ntu sais.... T-Tu peux juste pas garder\nquelqu'un comme[1205][U+000F] ça juste pour t-toi..",
    "brut_en": "L-Lisa-san's[SP]a[SP]c-candidate[SP]for[SP]Miss[SP]Sevens,\nyou[SP]know...[SP]Y-You[SP]can't[SP]hog[SP]s-someone[SP]like\nthat[SP]all[SP]t-t-to[SP]yourself...",
    "data_size": 282,
    "budget": 274
@@ -669,13 +732,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu viens vraiment me parler ?"
+       "t": "Tu viens vraiment me parler? Senpai? Contente"
       },
       {
        "nl": true
       },
       {
-       "t": "Senpai?Contente d'avoir pu me tirer hors du lit aujourd'hui..."
+       "t": "d'avoir pu me tirer hors du lit aujourd'hui..."
+      },
+      {
+       "pause": true
       },
       {
        "pause": true
@@ -684,7 +750,7 @@
        "nl": true
       },
       {
-       "t": "Mme.Saeko?Je crois l'ai  vu au premier étage"
+       "t": "Mme. Saeko? Je crois l'ai vu au premier étage"
       }
      ]
     }
@@ -716,7 +782,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu viens vraiment me parler ?\nSenpai?Contente d'avoir pu me tirer hors du lit aujourd'hui...[1205][001E]\nMme.Saeko?Je crois l'ai  vu au premier étage",
+   "brut_fr": "Tu viens vraiment me parler? Senpai? Contente\nd'avoir pu me tirer hors du lit aujourd'hui...[1205][001E][1205][U+000F]\nMme. Saeko? Je crois l'ai vu au premier étage",
    "brut_en": "You'd[SP]take[SP]the[SP]time[SP]to[SP]talk[SP]to[SP]someone[SP]like[SP]me,\nSenpai?[SP]Glad[SP]I[SP]dragged[SP]myself[SP]to[SP]school[SP]today...[1205][001E]\nMs.[SP]Saeko?[SP]I[SP]saw[SP]her[SP]on[SP]the[SP]first[SP]floor.",
    "data_size": 336,
    "budget": 328
@@ -730,22 +796,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu cherches Mme.Saeko,Senpai ?"
+       "t": "Tu cherches Mme. Saeko, Senpai?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je l'ai vu au bout du couloir de cet étage il y a un petit moment."
-      },
-      {
-       "pause": true
+       "t": " Je l'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu l'as pas vu ?"
+       "t": "vu au bout du couloir de cet étage il y"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a un petit moment."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu l'as pas vu?"
       }
      ]
     }
@@ -783,7 +858,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu cherches Mme.Saeko,Senpai ?[1205][U+000A]Je l'ai vu au bout du couloir de cet étage il y a un petit moment.[1205][U+000F]\nTu l'as pas vu ?",
+   "brut_fr": "Tu cherches Mme. Saeko, Senpai?[1205][U+000A] Je l'ai\nvu au bout du couloir de cet étage il y\na un petit moment.[1205][U+000F] Tu l'as pas vu?",
    "brut_en": "Looking[SP]for[SP]Ms.[SP]Saeko,[SP]Senpai?[1205][U+000A][SP]I[SP]saw[SP]her[SP]going\ndown[SP]the[SP]hall[SP]on[SP]this[SP]floor[SP]a[SP]moment[SP]ago.[1205][U+000F]\nYou[SP]didn't[SP]see[SP]her?",
    "data_size": 282,
    "budget": 274
@@ -797,25 +872,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh...! Je peux pas croire que tu prends le temps de me parler..."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": "Hein?MMe.Saeko"
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": "Oui, je l'ai  "
+       "t": "Oh...! Je peux pas croire que tu prends le"
       },
       {
        "nl": true
       },
       {
-       "t": "vu dans le couloir au 3ème étage."
+       "t": "temps de me parler..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hein? MMe. Saeko"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Oui,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je l'ai vu dans le couloir au 3ème étage."
       }
      ]
     }
@@ -856,7 +937,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh...! Je peux pas croire que tu prends le temps de me parler...[1205][U+000F]Hein?MMe.Saeko[1205][U+000F]Oui, je l'ai  \nvu dans le couloir au 3ème étage.",
+   "brut_fr": "Oh...! Je peux pas croire que tu prends le\ntemps de me parler...[1205][U+000F] Hein? MMe. Saeko[1205][U+000F]Oui,\nje l'ai vu dans le couloir au 3ème étage.",
    "brut_en": "Oh...![SP]I[SP]can't[SP]believe[SP]you're[SP]taking[SP]the[SP]time\nto[SP]talk[SP]to[SP]me...[1205][U+000F][SP]Huh?[SP]Ms.[SP]Saeko?[1205][U+000F][SP]Yeah,[SP]I[SP]saw\nher[SP]in[SP]the[SP]hall[SP]on[SP]the[SP]third[SP]floor.",
    "data_size": 318,
    "budget": 310
@@ -870,31 +951,37 @@
      "nom": null,
      "seg": [
       {
-       "t": "Senpai,tu cherches Mme.Saeko?"
+       "t": "Senpai, tu cherches Mme. Saeko?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je crois qu'"
+       "t": " Je crois"
       },
       {
        "nl": true
       },
       {
-       "t": "elle était dans la cour il y a une minute..."
+       "t": "qu' elle était dans la cour il y a une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "minute..."
       },
       {
        "pause": true
       },
       {
-       "t": "T'  "
+       "t": " T' "
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "as déja été voir là bas ?"
+       "t": " as déja été voir là bas?"
       }
      ]
     }
@@ -935,7 +1022,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Senpai,tu cherches Mme.Saeko?[1205][U+000F]Je crois qu'\nelle était dans la cour il y a une minute...[1205][U+000A]T'  \nas déja été voir là bas ?",
+   "brut_fr": "Senpai, tu cherches Mme. Saeko?[1205][U+000F] Je crois\nqu' elle était dans la cour il y a une\nminute...[1205][U+000A] T' [1205][U+000F] as déja été voir là bas?",
    "brut_en": "Senpai,[SP]are[SP]you[SP]looking[SP]for[SP]Ms.[SP]Saeko?[1205][U+000F][SP]I[SP]think\nshe[SP]was[SP]in[SP]the[SP]courtyard[SP]a[SP]minute[SP]ago...[1205][U+000A][SP]Have\nyou[SP]tried[SP]there[SP]yet?",
    "data_size": 292,
    "budget": 284
@@ -949,54 +1036,72 @@
      "nom": null,
      "seg": [
       {
-       "t": "J-j'y crois pas,tu me"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "parles..!"
+       "t": "J-j'y crois pas, tu me parles..!"
       },
       {
        "pause": true
       },
       {
-       "t": "Ah tu cherches Mme.Saeko non?"
-      },
-      {
-       "pause": true
+       "t": " Ah tu"
       },
       {
        "nl": true
       },
       {
-       "t": "Elle est à l'abri à vélos,je crois."
+       "t": "cherches Mme. Saeko non?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Elle est à l'abri"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à vélos, je crois."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
       }
      ]
     },
     {
-     "nom": "Le directeur du journal de l'école",
+     "nom": "Le directeur du journal",
      "seg": [
       {
-       "t": "et notre éditeur,Kozy,n'est toujours pas revenue.Elle a "
+       "t": "de l'école et notre éditeur, Kozy, n'est"
       },
       {
        "nl": true
       },
       {
-       "t": "disparue elle enquêtait sur la rumeur"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": " de la malédiction.."
+       "t": "toujours pas revenue. Elle a "
       },
       {
        "pause": true
       },
       {
-       "t": "Chikarin est introuvable aussi.Hmm.. "
+       "t": " disparue elle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "enquêtait sur la rumeur de la malédiction.."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Chikarin est introuvable aussi. Hmm.."
       }
      ]
     }
@@ -1060,7 +1165,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J-j'y crois pas,tu me\nparles..![1205][001E]Ah tu cherches Mme.Saeko non?[1205][001E]\nElle est à l'abri à vélos,je crois.[E1][E2]\n[E3][E4][NULL][NULL]\"Le directeur du journal de l'école\net notre éditeur,Kozy,n'est toujours pas revenue.Elle a \ndisparue elle enquêtait sur la rumeur\n de la malédiction..[1205][001E]Chikarin est introuvable aussi.Hmm.. ",
+   "brut_fr": "J-j'y crois pas, tu me parles..![1205][001E] Ah tu\ncherches Mme. Saeko non?[1205][001E] Elle est à l'abri\nà vélos, je crois.[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Le directeur du journal\nde l'école et notre éditeur, Kozy, n'est\ntoujours pas revenue. Elle a [1205][U+000F] disparue elle\nenquêtait sur la rumeur de la malédiction..[1205][001E]\nChikarin est introuvable aussi. Hmm..",
    "brut_en": "I-I[SP]can't[SP]believe[SP]you're[SP]actually[SP]talking[SP]to\nme...![1205][001E][SP]Y-You're[SP]looking[SP]for[SP]Ms.[SP]Saeko,[SP]right?[1205][001E]\nShe's[SP]at[SP]the[SP]bike[SP]stands,[SP]I[SP]think.[E1][E2]\n[E3][E4][NULL][NULL]\"School[SP]paper[SP]writer\nOur[SP]editor,[SP]Kozy,[SP]hasn't[SP]come[SP]back.[SP]She[SP]ran\nout,[SP]saying[SP]she[SP]was[SP]investigating[SP]the[SP]curse\nrumor...[1205][001E][SP]Chikarin[SP]isn't[SP]around[SP]either.[SP]Hmm...",
    "data_size": 642,
    "budget": 634
@@ -1074,19 +1179,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Kozy est partie interviewer des"
+       "t": "Kozy est partie interviewer des élèves"
       },
       {
        "nl": true
       },
       {
-       "t": "élèves de Kakasu, donc je suis un peu"
+       "t": "de Kakasu, donc je suis un peu inquiet."
       },
       {
        "nl": true
       },
       {
-       "t": "inquiet.J'espère qu'elle n'est pas en danger.."
+       "t": "J'espère qu'elle n'est pas en "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " danger.."
       }
      ]
     }
@@ -1115,7 +1226,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Kozy est partie interviewer des\nélèves de Kakasu, donc je suis un peu\ninquiet.J'espère qu'elle n'est pas en danger..",
+   "brut_fr": "Kozy est partie interviewer des élèves\nde Kakasu, donc je suis un peu inquiet.\nJ'espère qu'elle n'est pas en [1205][U+000F] danger..",
    "brut_en": "Kozy[SP]said[SP]she[SP]was[SP]going[SP]to[SP]interview[SP]some\nCuss[SP]High[SP]students[SP]in[SP]person,[SP]so[SP]I'm[SP]kinda\nworried.[SP]I[SP]hope[SP]she's[SP]not[SP]in[SP]trouble...",
    "data_size": 298,
    "budget": 290
@@ -1135,13 +1246,25 @@
        "pause": true
       },
       {
-       "t": "J'aurais du être en date avec un mec de Kakasu"
+       "t": " J'aurais du être en date avec un mec"
       },
       {
        "nl": true
       },
       {
-       "t": ",même si il est moche.J'aurais pu avoir une de leurs emblêmes exorcisant"
+       "t": "de Kakasu, même si il est moche. J'aurais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pu avoir "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " une de leurs emblêmes exorcisant"
       }
      ]
     }
@@ -1176,7 +1299,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Argh.[1205][001E]J'aurais du être en date avec un mec de Kakasu\n,même si il est moche.J'aurais pu avoir une de leurs emblêmes exorcisant",
+   "brut_fr": "Argh.[1205][001E] J'aurais du être en date avec un mec\nde Kakasu, même si il est moche. J'aurais\npu avoir [1205][U+000F] une de leurs emblêmes exorcisant",
    "brut_en": "Argh...[1205][001E][SP]I[SP]should've[SP]hooked[SP]up[SP]with[SP]a[SP]Cuss[SP]High\nguy,[SP]even[SP]if[SP]he[SP]was[SP]ugly.[SP]Then[SP]I[SP]could've[SP]had\none[SP]of[SP]their[SP]evil-repelling[SP]emblems.",
    "data_size": 302,
    "budget": 294

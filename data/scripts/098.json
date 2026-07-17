@@ -165,7 +165,13 @@
        "pause": true
       },
       {
-       "t": " C'est sûrement notre faute si tu es devenu si froid."
+       "t": " C'est sûrement notre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "faute si tu es devenu si froid."
       },
       {
        "pause": true
@@ -206,7 +212,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le [1114] que j'ai connu était plus\nénergique...[1205][001E] C'est sûrement notre faute si tu es devenu si froid.[1205][001E]",
+   "brut_fr": "Le [1114] que j'ai connu était plus\nénergique...[1205][001E] C'est sûrement notre\nfaute si tu es devenu si froid.[1205][001E]",
    "brut_en": "The[SP][1114][SP]I[SP]knew[SP]then[SP]was[SP]a[SP]lot[SP]more\nenergetic...[1205][001E][SP]It's[SP]probably[SP]our[SP]fault[SP]that\nyou[SP]became[SP]so[SP]distant.[1205][001E]",
    "data_size": 230,
    "budget": 222
@@ -220,22 +226,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je sais que les mots ne font pas tous..."
+       "t": "Je sais que les mots ne font pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tous..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Mais je n'ai aucun autre choix que de"
+       "t": " Mais je n'ai aucun autre choix"
       },
       {
        "nl": true
       },
       {
-       "t": "m'excuser."
+       "t": "que de m'excuser."
       },
       {
        "pause": true
@@ -279,7 +288,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je sais que les mots ne font pas tous...[1205][001E]\nMais je n'ai aucun autre choix que de\nm'excuser.[1205][001E] Je suis désolé...",
+   "brut_fr": "Je sais que les mots ne font pas\ntous...[1205][001E] Mais je n'ai aucun autre choix\nque de m'excuser.[1205][001E] Je suis désolé...",
    "brut_en": "I[SP]know[SP]that[SP]words[SP]can[SP]never[SP]be[SP]enough...[1205][001E]\nBut[SP]there's[SP]nothing[SP]else[SP]I[SP]can[SP]do[SP]now\nbesides[SP]apologize.[1205][001E][SP]I'm[SP]so[SP]sorry...",
    "data_size": 262,
    "budget": 254
@@ -293,7 +302,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu connais la phrase la plus utile au monde ?"
+       "t": "Tu connais la phrase la plus utile au monde?"
       }
      ]
     }
@@ -316,7 +325,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu connais la phrase la plus utile au monde ?",
+   "brut_fr": "Tu connais la phrase la plus utile au monde?",
    "brut_en": "Do[SP]you[SP]know[SP]what[SP]the[SP]most[SP]convenient[SP]phrase\nin[SP]the[SP]world[SP]is?",
    "data_size": 142,
    "budget": 134
@@ -339,19 +348,25 @@
        "pause": true
       },
       {
-       "t": " Quiconque qui entend ça,"
+       "t": " Quiconque qui"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'il soit blessé ou en colère, se doit"
+       "t": "entend ça, qu'il soit blessé ou en"
       },
       {
        "nl": true
       },
       {
-       "t": "de pardonner..."
+       "t": "colère, se doit"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de pardonner..."
       }
      ]
     }
@@ -389,7 +404,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est [1432][NULL][NULL][0014]Je suis désolé.[1432][NULL][NULL][0014][1205][001E] Quiconque qui entend ça,\nqu'il soit blessé ou en colère, se doit\nde pardonner...",
+   "brut_fr": "C'est [1432][NULL][NULL][0014]Je suis désolé.[1432][NULL][NULL][0014][1205][001E] Quiconque qui\nentend ça, qu'il soit blessé ou en\ncolère, se doit[1205][U+000F] de pardonner...",
    "brut_en": "It's[SP][1432][NULL][NULL][0014]I'm[SP]sorry.[1432][NULL][NULL][0014][1205][001E][SP]Anyone[SP]who[SP]hears[SP]that[SP]is\nobligated[SP]to[SP]forgive,[SP]no[SP]matter[SP]how[SP]hurt[SP]or\nangry[SP]they[SP]may[SP]be...",
    "data_size": 252,
    "budget": 244
@@ -403,19 +418,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il n'y a pas plus ignoble comme phrase. Elle"
+       "t": "Il n'y a pas plus ignoble comme phrase."
       },
       {
        "nl": true
       },
       {
-       "t": "est utilisé pour échapper à tes pécher tout"
+       "t": "Elle est utilisé pour échapper à tes"
       },
       {
        "nl": true
       },
       {
-       "t": "en les léguant à autrui..."
+       "t": "pécher "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tout en les léguant à autrui..."
       }
      ]
     }
@@ -444,7 +465,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il n'y a pas plus ignoble comme phrase. Elle\nest utilisé pour échapper à tes pécher tout\nen les léguant à autrui...",
+   "brut_fr": "Il n'y a pas plus ignoble comme phrase.\nElle est utilisé pour échapper à tes\npécher [1205][U+000F] tout en les léguant à autrui...",
    "brut_en": "There's[SP]no[SP]more[SP]disgusting[SP]phrase[SP]in[SP]all[SP]the\nworld.[SP]It's[SP]used[SP]to[SP]displace[SP]your[SP]suffering\nonto[SP]others[SP]so[SP]you[SP]can[SP]escape[SP]your[SP]sins...",
    "data_size": 284,
    "budget": 276
@@ -458,13 +479,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tes souffrances deviennent les leurs"
+       "t": "Tes souffrances deviennent les leurs au"
       },
       {
        "nl": true
       },
       {
-       "t": "au moment où tu l'emploi. Une chose peu être"
+       "t": "moment où tu l'emploi. Une chose peu être"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -499,7 +523,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tes souffrances deviennent les leurs\nau moment où tu l'emploi. Une chose peu être\nimpardonable mais bon, si on est désolé...",
+   "brut_fr": "Tes souffrances deviennent les leurs au\nmoment où tu l'emploi. Une chose peu être[1205][U+000F]\nimpardonable mais bon, si on est désolé...",
    "brut_en": "The[SP]moment[SP]you[SP]employ[SP]it,[SP]your[SP]suffering\nbecomes[SP]the[SP]other[SP]person's.[SP]A[SP]thing[SP]can[SP]be\nunforgivable,[SP]but[SP]oh,[SP]if[SP]they[SP]apologize...",
    "data_size": 274,
    "budget": 266
@@ -571,7 +595,13 @@
        "enc": "Je suis désolé"
       },
       {
-       "t": ", une phrase ignoble...? Je crois pas."
+       "t": ", une phrase"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ignoble...? Je crois pas."
       }
      ]
     }
@@ -597,7 +627,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Je suis désolé[1432][NULL][NULL][0014], une phrase ignoble...? Je crois pas.",
+   "brut_fr": "[1432][NULL][NULL][0014]Je suis désolé[1432][NULL][NULL][0014], une phrase\nignoble...? Je crois pas.",
    "brut_en": "[1432][NULL][NULL][0014]I'm[SP]sorry[1432][NULL][NULL][0014][SP]is[SP]a[SP]disgusting[SP]phrase...?\nI[SP]don't[SP]think[SP]so.",
    "data_size": 150,
    "budget": 142

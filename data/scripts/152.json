@@ -65,13 +65,10 @@
        "pause": true
       },
       {
-       "t": " Elle sait que je"
-      },
-      {
        "nl": true
       },
       {
-       "t": "suis là."
+       "t": "Elle sait que je suis là."
       }
      ]
     }
@@ -100,7 +97,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle se moque de moi...[1205][001E] Elle sait que je\nsuis là.",
+   "brut_fr": "Elle se moque de moi...[1205][001E]\nElle sait que je suis là.",
    "brut_en": "I[SP]can[SP]feel[SP]her[SP]laughing[SP]at[SP]me...[1205][001E][SP]She[SP]knows\nI'm[SP]here[SP]too.",
    "data_size": 140,
    "budget": 132
@@ -120,19 +117,25 @@
        "pause": true
       },
       {
-       "t": " Regarde,"
+       "t": " Regarde, tout"
       },
       {
        "nl": true
       },
       {
-       "t": "tout a commencé avec la malédiction de l'emblème et c'est devenu"
+       "t": "a commencé avec la malédiction de"
       },
       {
        "nl": true
       },
       {
-       "t": "cette *merde*..."
+       "t": "l'emblème et c'est devenu"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " cette *merde*..."
       }
      ]
     }
@@ -167,7 +170,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Rumeurs, rumeurs, rumeurs...[1205][001E] Regarde,\ntout a commencé avec la malédiction de l'emblème et c'est devenu\ncette *merde*...",
+   "brut_fr": "Rumeurs, rumeurs, rumeurs...[1205][001E] Regarde, tout\na commencé avec la malédiction de\nl'emblème et c'est devenu[1205][U+000F] cette *merde*...",
    "brut_en": "Rumors,[SP]rumors,[SP]rumors...[1205][001E][SP]Thinking[SP]back,\nthis[SP]all[SP]began[SP]with[SP]the[SP]emblem[SP]curse,[SP]and\nit's[SP]turned[SP]into[SP]this[SP]huge[SP]*thing*...",
    "data_size": 272,
    "budget": 264
@@ -181,13 +184,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est pas un jeu, tu sais? On est bientôt au 21ème siècle. Pourquoi"
+       "t": "C'est pas un jeu, tu sais? On est bientôt"
       },
       {
        "nl": true
       },
       {
-       "t": "des lycéens se battent pour sauver le monde?"
+       "t": "au 21ème siècle. Pourquoi des lycéens se"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "battent pour sauver le "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " monde?"
       }
      ]
     }
@@ -216,7 +231,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pas un jeu, tu sais? On est bientôt au 21ème siècle. Pourquoi\ndes lycéens se battent pour sauver le monde?",
+   "brut_fr": "C'est pas un jeu, tu sais? On est bientôt\nau 21ème siècle. Pourquoi des lycéens se\nbattent pour sauver le [1205][U+000F] monde?",
    "brut_en": "This[SP]ain't[SP]a[SP]video[SP]game,[SP]you[SP]know?[SP]We're\nnearly[SP]into[SP]the[SP]21st[SP]century[SP]here.[SP]Why[SP]are\nhigh[SP]schoolers[SP]fighting[SP]to[SP]save[SP]the[SP]world?",
    "data_size": 280,
    "budget": 272
@@ -236,10 +251,13 @@
        "enc": "On est déjà à bord,"
       },
       {
+       "t": " mais"
+      },
+      {
        "nl": true
       },
       {
-       "t": "mais quelqu'un pensait à un vaisseau SPATIAL..."
+       "t": "quelqu'un pensait à un vaisseau SPATIAL..."
       }
      ]
     }
@@ -274,7 +292,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je connais le dicton, [1432][NULL][NULL][0014]On est déjà à bord,[1432][NULL][NULL][0014]\nmais quelqu'un pensait à un vaisseau SPATIAL...",
+   "brut_fr": "Je connais le dicton, [1432][NULL][NULL][0014]On est déjà à bord,[1432][NULL][NULL][0014] mais\nquelqu'un pensait à un vaisseau SPATIAL...",
    "brut_en": "I[SP]know[SP]the[SP]saying[SP]goes,[SP][1432][NULL][NULL][0014]We've[SP]already[SP]boarded\nthe[SP]ship,[1432][NULL][NULL][0014][SP]but[SP]I[SP]don't[SP]think[SP]whoever[SP]first[SP]said\nthat[SP]had[SP]a[SP]SPACE[SP]ship[SP]in[SP]mind...",
    "data_size": 294,
    "budget": 286
@@ -349,19 +367,19 @@
        "pause": true
       },
       {
-       "t": " Quatre éléments."
+       "t": " Quatre"
       },
       {
        "nl": true
       },
       {
-       "t": "Terre, Taureau... Eau, Scorpion... Feu,"
+       "t": "éléments. Terre, Taureau... Eau,"
       },
       {
        "nl": true
       },
       {
-       "t": "Lion... Air, Verseau."
+       "t": "Scorpion... Feu, Lion... Air, Verseau."
       }
      ]
     }
@@ -396,7 +414,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Terre, eau, feu, air...[1205][001E] Quatre éléments.\nTerre, Taureau... Eau, Scorpion... Feu,\nLion... Air, Verseau.",
+   "brut_fr": "Terre, eau, feu, air...[1205][001E] Quatre\néléments. Terre, Taureau... Eau,\nScorpion... Feu, Lion... Air, Verseau.",
    "brut_en": "Earth,[SP]water,[SP]fire,[SP]wind...[1205][001E][SP]Four[SP]elements.\nEarth[SP]is[SP]Taurus...[SP]Water[SP]is[SP]Scorpio...[SP]Fire[SP]is\nLeo...[SP]and[SP]Wind[SP]is[SP]Aquarius...",
    "data_size": 266,
    "budget": 258
@@ -410,13 +428,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce relief doit montrer le lien entre"
+       "t": "Ce relief doit montrer le lien"
       },
       {
        "nl": true
       },
       {
-       "t": "les éléments et les planètes."
+       "t": "entre les éléments et les planètes."
       }
      ]
     }
@@ -439,7 +457,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce relief doit montrer le lien entre\nles éléments et les planètes.",
+   "brut_fr": "Ce relief doit montrer le lien\nentre les éléments et les planètes.",
    "brut_en": "This[SP]relief[SP]must[SP]show[SP]the[SP]relationship[SP]of\nthose[SP]elements[SP]to[SP]each[SP]other.",
    "data_size": 164,
    "budget": 156
@@ -502,7 +520,13 @@
        "nl": true
       },
       {
-       "t": "Par exemple, le feu domine l'air mais il est inférieur à l'eau..."
+       "t": "Par exemple, le feu domine l'air"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais il est inférieur à l'eau..."
       }
      ]
     }
@@ -531,7 +555,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Chaque élément en domine un autre.\nPar exemple, le feu domine l'air mais il est inférieur à l'eau...",
+   "brut_fr": "Chaque élément en domine un autre.\nPar exemple, le feu domine l'air\nmais il est inférieur à l'eau...",
    "brut_en": "Each[SP]element[SP]rules[SP]over[SP]another[SP]one.\nFor[SP]example,[SP]fire[SP]rules[SP]over[SP]wind,[SP]but[SP]it's\nsubservient[SP]to[SP]water...",
    "data_size": 230,
    "budget": 222
@@ -545,19 +569,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sans celui de feu, l'eau, le plus faible, n'a pas de Crâne"
+       "t": "Sans celui de feu, l'eau, le plus faible,"
       },
       {
        "nl": true
       },
       {
-       "t": "inférieur-et l'air, le plus fort, n'en a pas de"
+       "t": "n'a pas de Crâne inférieur-et l'air, le"
       },
       {
        "nl": true
       },
       {
-       "t": "supérieur."
+       "t": "plus fort, n'en a "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pas de supérieur."
       }
      ]
     }
@@ -586,7 +616,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sans celui de feu, l'eau, le plus faible, n'a pas de Crâne\ninférieur-et l'air, le plus fort, n'en a pas de\nsupérieur.",
+   "brut_fr": "Sans celui de feu, l'eau, le plus faible,\nn'a pas de Crâne inférieur-et l'air, le\nplus fort, n'en a [1205][U+000F] pas de supérieur.",
    "brut_en": "So[SP]if[SP]we[SP]remove[SP]the[SP]Fire[SP]Skull,[SP]water[SP]has[SP]no\nunderling,[SP]making[SP]it[SP]weaker--but[SP]wind[SP]has[SP]no\nmaster,[SP]making[SP]it[SP]stronger.",
    "data_size": 256,
    "budget": 248
@@ -600,19 +630,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça doit affecter la structure"
+       "t": "Ça doit affecter la structure des temples"
       },
       {
        "nl": true
       },
       {
-       "t": "des temples et la puissance des démons"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "à l'intérieur..."
+       "t": "et la puissance des démons à l'intérieur..."
       }
      ]
     }
@@ -641,7 +665,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça doit affecter la structure\ndes temples et la puissance des démons\nà l'intérieur...",
+   "brut_fr": "Ça doit affecter la structure des temples\net la puissance des démons à l'intérieur...",
    "brut_en": "It[SP]all[SP]probably[SP]affects[SP]each[SP]temple's\nstructure[SP]and[SP]how[SP]strong[SP]the[SP]demons[SP]in\nit[SP]are...",
    "data_size": 194,
    "budget": 186
@@ -710,16 +734,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça va être un combat contre vous-mêmes..."
-      },
-      {
-       "pause": true
+       "t": "Ça va être un combat contre"
       },
       {
        "nl": true
       },
       {
-       "t": "Mais vos cœurs finiront par surpasser vos autres vous!"
+       "t": "vous-mêmes..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais vos cœurs finiront"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "par surpasser vos autres vous!"
       }
      ]
     }
@@ -751,7 +784,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça va être un combat contre vous-mêmes...[1205][001E]\nMais vos cœurs finiront par surpasser vos autres vous!",
+   "brut_fr": "Ça va être un combat contre\nvous-mêmes...[1205][001E] Mais vos cœurs finiront\npar surpasser vos autres vous!",
    "brut_en": "It'll[SP]be[SP]a[SP]battle[SP]against[SP]yourselves...[1205][001E]\nBut[SP]your[SP]hearts[SP]will[SP]overcome[SP]your[SP]other\nnature[SP]in[SP]the[SP]end!",
    "data_size": 224,
    "budget": 216
@@ -765,13 +798,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les quatre constellations de la Croix Cosmique sont"
+       "t": "Les quatre constellations de la"
       },
       {
        "nl": true
       },
       {
-       "t": "chacune associée à l'un des quatre éléments."
+       "t": "Croix Cosmique sont chacune associée"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à l'un des quatre "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " éléments."
       }
      ]
     }
@@ -800,7 +845,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les quatre constellations de la Croix Cosmique sont\nchacune associée à l'un des quatre éléments.",
+   "brut_fr": "Les quatre constellations de la\nCroix Cosmique sont chacune associée\nà l'un des quatre [1205][U+000F] éléments.",
    "brut_en": "The[SP]four[SP]constellations[SP]of[SP]the[SP]Grand[SP]Cross[SP]are\neach[SP]associated[SP]with[SP]one[SP]of[SP]the[SP]elements[SP]of\nearth,[SP]water,[SP]fire,[SP]and[SP]wind.",
    "data_size": 260,
    "budget": 252
@@ -826,10 +871,19 @@
        "pause": true
       },
       {
+       "pause": true
+      },
+      {
        "nl": true
       },
       {
-       "t": "C'est un symbole du mysticisme dont Père m'a parlé."
+       "t": "C'est un symbole du mysticisme dont Père m'a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "parlé."
       }
      ]
     }
@@ -861,7 +915,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ces éléments maintiennent l'équilibre du\nmonde, chacun a ses forces et ses faiblesses.[1205][001E]\nC'est un symbole du mysticisme dont Père m'a parlé.",
+   "brut_fr": "Ces éléments maintiennent l'équilibre du\nmonde, chacun a ses forces et ses faiblesses.[1205][001E][1205][U+000F]\nC'est un symbole du mysticisme dont Père m'a\nparlé.",
    "brut_en": "These[SP]four[SP]elements[SP]maintain[SP]the[SP]balance[SP]of[SP]the\nworld,[SP]and[SP]each[SP]has[SP]strengths[SP]and[SP]weaknesses.[1205][001E]\nIt's[SP]a[SP]brand[SP]of[SP]mysticism[SP]Father[SP]told[SP]me[SP]about.",
    "data_size": 306,
    "budget": 298
@@ -875,19 +929,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Donc, Xibalba est une maquette du"
+       "t": "Donc, Xibalba est une maquette du nouveau"
       },
       {
        "nl": true
       },
       {
-       "t": "nouveau monde..."
+       "t": "monde..."
       },
       {
        "pause": true
       },
       {
-       "t": " L'équilibre des temples symbolisant le monde doit être important..."
+       "t": " L'équilibre des temples symbolisant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le monde doit être "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " important..."
       }
      ]
     }
@@ -922,7 +988,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Donc, Xibalba est une maquette du\nnouveau monde...[1205][001E] L'équilibre des temples symbolisant le monde doit être important...",
+   "brut_fr": "Donc, Xibalba est une maquette du nouveau\nmonde...[1205][001E] L'équilibre des temples symbolisant\nle monde doit être [1205][U+000F] important...",
    "brut_en": "Xibalba[SP]is,[SP]in[SP]other[SP]words,[SP]a[SP]model[SP]for[SP]the\nnew[SP]world...[1205][001E][SP]The[SP]balance[SP]of[SP]the[SP]temples\nsymbolizing[SP]the[SP]world[SP]may[SP]be[SP]important...",
    "data_size": 274,
    "budget": 266
@@ -936,16 +1002,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Même d'ici, je ressens la présence de Père..."
-      },
-      {
-       "pause": true
+       "t": "Même d'ici, je ressens la présence de"
       },
       {
        "nl": true
       },
       {
-       "t": "Sa volonté enveloppe la ville..."
+       "t": "Père..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sa volonté enveloppe la ville..."
       }
      ]
     }
@@ -971,7 +1040,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Même d'ici, je ressens la présence de Père...[1205][001E]\nSa volonté enveloppe la ville...",
+   "brut_fr": "Même d'ici, je ressens la présence de\nPère...[1205][001E] Sa volonté enveloppe la ville...",
    "brut_en": "Even[SP]from[SP]here,[SP]I[SP]can[SP]sense[SP]Father's[SP]presence...[1205][001E]\nHis[SP]will[SP]is[SP]enveloping[SP]the[SP]city...",
    "data_size": 190,
    "budget": 182
@@ -1028,19 +1097,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je dois l'arrêter pour le bien de"
+       "t": "Je dois l'arrêter pour le bien de ces"
       },
       {
        "nl": true
       },
       {
-       "t": "ces enfants..."
+       "t": "enfants..."
       },
       {
        "pause": true
       },
       {
        "t": " Je ne mourrai pas en tant que"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -1081,7 +1153,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je dois l'arrêter pour le bien de\nces enfants...[1205][001E] Je ne mourrai pas en tant que\nmarionnette!",
+   "brut_fr": "Je dois l'arrêter pour le bien de ces\nenfants...[1205][001E] Je ne mourrai pas en tant que[1205][U+000F]\nmarionnette!",
    "brut_en": "I[SP]need[SP]to[SP]stop[SP]Father[SP]for[SP]those[SP]children's\nsake[SP]as[SP]well...[1205][001E][SP]I[SP]won't[SP]end[SP]my[SP]life[SP]as[SP]a\npuppet!",
    "data_size": 206,
    "budget": 198
@@ -1101,19 +1173,19 @@
        "pause": true
       },
       {
-       "t": " Juste un dernier temple et"
+       "t": " Juste un dernier temple"
       },
       {
        "nl": true
       },
       {
-       "t": "nous aurons tous les crânes, autre que"
+       "t": "et nous aurons tous les crânes, autre"
       },
       {
        "nl": true
       },
       {
-       "t": "le Crâne du Paradis."
+       "t": "que le Crâne du Paradis."
       }
      ]
     }
@@ -1148,7 +1220,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Plus qu'un...[1205][001E] Juste un dernier temple et\nnous aurons tous les crânes, autre que\nle Crâne du Paradis.",
+   "brut_fr": "Plus qu'un...[1205][001E] Juste un dernier temple\net nous aurons tous les crânes, autre\nque le Crâne du Paradis.",
    "brut_en": "Only[SP]one[SP]more...[1205][001E][SP]Just[SP]one[SP]last[SP]temple[SP]and\nwe'll[SP]have[SP]all[SP]the[SP]crystal[SP]skulls,[SP]other[SP]than\nthe[SP]Heaven[SP]Skull.",
    "data_size": 234,
    "budget": 226

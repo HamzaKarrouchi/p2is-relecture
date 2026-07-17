@@ -10,7 +10,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bonjooouuuur !"
+       "t": "Bonjooouuuur!"
       },
       {
        "pause": true
@@ -22,7 +22,7 @@
        "nl": true
       },
       {
-       "t": "GIGA MACHO ! Que vous faut-il ?"
+       "t": "GIGA MACHO! Que vous faut-il?"
       }
      ]
     }
@@ -51,14 +51,14 @@
    ],
    "choix_fr": {
     "options": [
-     "Acheter des CDs",
+     "Acheter des CDs[1205]",
      "Parler",
      "Annuler",
      "Quitter"
     ],
     "question": [
      {
-      "t": "Bonjooouuuur !"
+      "t": "Bonjooouuuur!"
      },
      {
       "pause": true
@@ -70,7 +70,7 @@
       "nl": true
      },
      {
-      "t": "GIGA MACHO ! Que vous faut-il ?"
+      "t": "GIGA MACHO! Que vous faut-il?"
      }
     ]
    },
@@ -99,7 +99,7 @@
      }
     ]
    },
-   "brut_fr": "Bonjooouuuur ![1205][U+000F] Bienvenue au magasin de disques\nGIGA MACHO ! Que vous faut-il ?\n[1208][U+0004]Acheter des CDs\nParler\nAnnuler\nQuitter",
+   "brut_fr": "Bonjooouuuur![1205][U+000F] Bienvenue au magasin de disques\nGIGA MACHO! Que vous faut-il?\n[1208][U+0004]Acheter des CDs[1205][U+000F]\nParler\nAnnuler\nQuitter",
    "brut_en": "Hellooooo![1205][U+000F][SP]Welcome[SP]to[SP]the[SP]record[SP]store\nGIGA[SP]MACHOOOO![SP]State[SP]your[SP]business!\n[1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 290,
    "budget": 282
@@ -113,7 +113,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Parfait ! Autre chose ?"
+       "t": "Parfait! Autre chose?"
       }
      ]
     }
@@ -131,13 +131,13 @@
    "choix_fr": {
     "options": [
      "Acheter des CDs",
-     "Parler",
+     "Parler[1205]",
      "Annuler",
      "Quitter"
     ],
     "question": [
      {
-      "t": "Parfait ! Autre chose ?"
+      "t": "Parfait! Autre chose?"
      }
     ]
    },
@@ -154,7 +154,7 @@
      }
     ]
    },
-   "brut_fr": "Parfait ! Autre chose ?\n[1208][U+0004]Acheter des CDs\nParler\nAnnuler\nQuitter",
+   "brut_fr": "Parfait! Autre chose?\n[1208][U+0004]Acheter des CDs\nParler[1205][U+000F]\nAnnuler\nQuitter",
    "brut_en": "Alrighty![SP]Anything[SP]else?\n[1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 186,
    "budget": 178
@@ -168,7 +168,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'avez-vous en tête ?"
+       "t": "Qu'avez-vous en tête?"
       }
      ]
     }
@@ -186,12 +186,12 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler des CD",
+     "Parler des CD[1205]",
      "Sélection cachée"
     ],
     "question": [
      {
-      "t": "Qu'avez-vous en tête ?"
+      "t": "Qu'avez-vous en tête?"
      }
     ]
    },
@@ -207,7 +207,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'avez-vous en tête ?\n[1208][U+0003]Bavarder\nParler des CD\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nParler des CD[1205][U+000F]\n[1210][U+0100]Sélection cachée",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]CDs\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 182,
    "budget": 174
@@ -221,13 +221,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh ! Vous savez quoi ? J'ai croisé LE Ginji"
+       "t": "Oh! Vous savez quoi? J'ai croisé LE Ginji"
       },
       {
        "nl": true
       },
       {
-       "t": "Sasaki à l'instant ! Héhéhé... Génial !"
+       "t": "Sasaki à l'instant! Héhéhé... Génial!"
       }
      ]
     }
@@ -256,7 +256,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh ! Vous savez quoi ? J'ai croisé LE Ginji\nSasaki à l'instant ! Héhéhé... Génial !",
+   "brut_fr": "Oh! Vous savez quoi? J'ai croisé LE Ginji\nSasaki à l'instant! Héhéhé... Génial!",
    "brut_en": "Ooh![SP]Guess[SP]what![SP]I[SP]got[SP]to[SP]meet[SP]THE[SP]Ginji\nSasaki[SP]a[SP]minute[SP]ago![SP]Heheheh...[SP]It[SP]was\nawesome!",
    "data_size": 204,
    "budget": 196
@@ -270,25 +270,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Heeey... La fille blonde avec vous, c'est pas"
+       "t": "Heeey... La fille blonde avec"
       },
       {
        "nl": true
       },
       {
-       "t": "Lisa des Muses par hasard ?"
+       "t": "vous, c'est pas Lisa des Muses par"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hasard?"
       },
       {
        "pause": true
       },
       {
-       "t": " Waouh ! C'est"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "bien elle !"
+       "t": " Waouh! C'est bien elle!"
       }
      ]
     }
@@ -323,7 +323,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Heeey... La fille blonde avec vous, c'est pas\nLisa des Muses par hasard ?[1205][U+000F] Waouh ! C'est\nbien elle !",
+   "brut_fr": "Heeey... La fille blonde avec\nvous, c'est pas Lisa des Muses par\nhasard?[1205][U+000F] Waouh! C'est bien elle!",
    "brut_en": "Heeeey...[SP]Does[SP]that[SP]blonde[SP]girl[SP]with[SP]you[SP]happen\nto[SP]be[SP]Lisa-san[SP]from[SP]Muses?[1205][U+000F][SP]Whoa![SP]She's[SP]the[SP]real\ndeal!",
    "data_size": 234,
    "budget": 226
@@ -337,7 +337,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? Et les autres filles ?"
+       "t": "Hein? Et les autres filles?"
       },
       {
        "pause": true
@@ -390,7 +390,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? Et les autres filles ?[1205][U+000F] Il y avait\npas...[1205][U+000F] Bizarre. Je m'en souviens plus...",
+   "brut_fr": "Hein? Et les autres filles?[1205][U+000F] Il y avait\npas...[1205][U+000F] Bizarre. Je m'en souviens plus...",
    "brut_en": "Huh?[SP]Wait,[SP]what[SP]about[SP]the[SP]other[SP]girls?[1205][U+000F][SP]Weren't\nthere...[1205][U+000F][SP]Weird.[SP]I[SP]can't[SP]remember...",
    "data_size": 200,
    "budget": 192
@@ -422,10 +422,13 @@
        "pause": true
       },
       {
+       "t": " Je"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Je devrais porter plainte !"
+       "t": "devrais porter plainte!"
       }
      ]
     }
@@ -466,7 +469,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*soupir*[1205][U+000F] Avec cette vague de terreur,\non a perdu tant de clients...[1205][U+000F]\nJe devrais porter plainte !",
+   "brut_fr": "*soupir*[1205][U+000F] Avec cette vague de terreur,\non a perdu tant de clients...[1205][U+000F] Je\ndevrais porter plainte!",
    "brut_en": "*sigh*[1205][U+000F][SP]We've[SP]lost[SP]so[SP]many[SP]customers[SP]to[SP]this\nawful[SP]terror[SP]wave...[1205][U+000F][SP]I[SP]should[SP]sue[SP]for\nobstruction[SP]of[SP]business.",
    "data_size": 248,
    "budget": 240
@@ -486,13 +489,19 @@
        "nl": true
       },
       {
-       "t": "mouvementé que soit le monde,"
+       "t": "mouvementé que soit le monde, essayez"
       },
       {
        "nl": true
       },
       {
-       "t": "essayez de vous détendre avec de la musique."
+       "t": "de vous détendre avec de la "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " musique."
       }
      ]
     }
@@ -521,7 +530,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On a un nouveau rayon Secondo. Aussi\nmouvementé que soit le monde,\nessayez de vous détendre avec de la musique.",
+   "brut_fr": "On a un nouveau rayon Secondo. Aussi\nmouvementé que soit le monde, essayez\nde vous détendre avec de la [1205][U+000F] musique.",
    "brut_en": "We[SP]have[SP]a[SP]new[SP]Secondo[SP]corner[SP]now.[SP]As[SP]hectic[SP]as\nthings[SP]are[SP]in[SP]this[SP]world,[SP]you[SP]should[SP]try[SP]and\nrelax[SP]with[SP]some[SP]tunes.",
    "data_size": 256,
    "budget": 248
@@ -535,13 +544,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé, qu'est-ce vous pensez de l'In Lak'ech ?"
+       "t": "Hé, qu'est-ce vous pensez de l'In Lak'ech"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous y croyez ?"
+       "t": "? Vous y croyez?"
       },
       {
        "pause": true
@@ -576,7 +585,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, qu'est-ce vous pensez de l'In Lak'ech ?\nVous y croyez ?[1205][U+000F] Bah, moi je m'en fiche.",
+   "brut_fr": "Hé, qu'est-ce vous pensez de l'In Lak'ech\n? Vous y croyez?[1205][U+000F] Bah, moi je m'en fiche.",
    "brut_en": "Hey,[SP]what[SP]do[SP]you[SP]think[SP]of[SP]the[SP]In[SP]Lak'ech?\nThink[SP]it's[SP]true?[1205][U+000F][SP]Well,[SP]I[SP]don't[SP]really[SP]care.",
    "data_size": 202,
    "budget": 194
@@ -590,25 +599,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Wah, vous tombez bien. On vient"
+       "t": "Wah, vous tombez bien. On vient juuuste"
       },
       {
        "nl": true
       },
       {
-       "t": "juuuste de recevoir des nouveaux singles"
+       "t": "de recevoir des nouveaux singles dans"
       },
       {
        "nl": true
       },
       {
-       "t": "dans le rayon Terzo."
+       "t": "le rayon Terzo."
       },
       {
        "pause": true
       },
       {
-       "t": " Venez voir !"
+       "t": " Venez voir!"
       }
      ]
     }
@@ -640,7 +649,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Wah, vous tombez bien. On vient\njuuuste de recevoir des nouveaux singles\ndans le rayon Terzo.[1205][U+000F] Venez voir !",
+   "brut_fr": "Wah, vous tombez bien. On vient juuuste\nde recevoir des nouveaux singles dans\nle rayon Terzo.[1205][U+000F] Venez voir!",
    "brut_en": "Man,[SP]you[SP]always[SP]have[SP]the[SP]best[SP]timing.[SP]We[SP]juuust\ngot[SP]in[SP]some[SP]new[SP]singles[SP]in[SP]the[SP]Terzo[SP]corner.[1205][U+000F]\nHere,[SP]come[SP]take[SP]a[SP]look.",
    "data_size": 264,
    "budget": 256
@@ -654,19 +663,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "La ville est sens dessus dessous,"
+       "t": "La ville est sens dessus dessous, mais on a"
       },
       {
        "nl": true
       },
       {
-       "t": "mais on a quand même reçu notre livraison"
+       "t": "quand même reçu notre livraison de nouvelles"
       },
       {
        "nl": true
       },
       {
-       "t": "de nouvelles sorties."
+       "t": "sorties."
       },
       {
        "pause": true
@@ -707,7 +716,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La ville est sens dessus dessous,\nmais on a quand même reçu notre livraison\nde nouvelles sorties.[1205][U+000F] J'ai monté un rayon Quarto.",
+   "brut_fr": "La ville est sens dessus dessous, mais on a\nquand même reçu notre livraison de nouvelles\nsorties.[1205][U+000F] J'ai monté un rayon Quarto.",
    "brut_en": "The[SP]city's[SP]a[SP]mess[SP]right[SP]now,[SP]but[SP]we[SP]did[SP]get\nour[SP]scheduled[SP]delivery[SP]of[SP]new[SP]material.[1205][U+000F][SP]I've\nfinally[SP]put[SP]together[SP]a[SP]Quarto[SP]corner.",
    "data_size": 284,
    "budget": 276
@@ -721,22 +730,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pfff, on reçoit tellement de nouvelles musiques en"
+       "t": "Pfff, on reçoit tellement de nouvelles"
       },
       {
        "nl": true
       },
       {
-       "t": "ce moment que je manque de rayonnage."
+       "t": "musiques en ce moment que je manque de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rayonnage."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Boooon, on a enfin un rayon Quinto."
+       "t": " Boooon, on a enfin un rayon Quinto."
       }
      ]
     }
@@ -768,7 +780,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pfff, on reçoit tellement de nouvelles musiques en\nce moment que je manque de rayonnage.[1205][U+000F]\nBoooon, on a enfin un rayon Quinto.",
+   "brut_fr": "Pfff, on reçoit tellement de nouvelles\nmusiques en ce moment que je manque de\nrayonnage.[1205][U+000F] Boooon, on a enfin un rayon Quinto.",
    "brut_en": "Geez,[SP]we're[SP]getting[SP]in[SP]so[SP]much[SP]new[SP]music[SP]these\ndays,[SP]I'm[SP]running[SP]out[SP]of[SP]rack[SP]space[SP]for[SP]it[SP]all.[1205][U+000F]\nAaaanyways,[SP]we[SP]have[SP]a[SP]Quinto[SP]corner[SP]at[SP]last.",
    "data_size": 310,
    "budget": 302
@@ -788,28 +800,28 @@
        "pause": true
       },
       {
-       "t": " On avait ce"
-      },
-      {
-       "nl": true
+       "t": " On avait ce "
       },
       {
        "enc": "CD secret"
       },
       {
-       "t": " en stock ?"
+       "nl": true
+      },
+      {
+       "t": "en stock?"
       },
       {
        "pause": true
       },
       {
-       "t": " Bah, je vois qu'on l'a"
+       "t": " Bah, je vois qu'on l'a en"
       },
       {
        "nl": true
       },
       {
-       "t": "en rayon... donc je suppose qu'on le vend !"
+       "t": "rayon... donc je suppose qu'on le vend !"
       }
      ]
     }
@@ -853,7 +865,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est bizarre...[1205][U+000F] On avait ce\n[1432][NULL][NULL][0014]CD secret[1432][NULL][NULL][0014] en stock ?[1205][U+000F] Bah, je vois qu'on l'a\nen rayon... donc je suppose qu'on le vend !",
+   "brut_fr": "C'est bizarre...[1205][U+000F] On avait ce [1432][NULL][NULL][0014]CD secret[1432][NULL][NULL][0014]\nen stock?[1205][U+000F] Bah, je vois qu'on l'a en\nrayon... donc je suppose qu'on le vend !",
    "brut_en": "Now[SP]that's[SP]weird...[1205][U+000F][SP]Did[SP]we[SP]used[SP]to[SP]carry[SP]this\n[1432][NULL][NULL][0014]secret[SP]CD[1432][NULL][NULL][0014]?[1205][U+000F][SP]Huh,[SP]well,[SP]I[SP]see[SP]we[SP]have[SP]it[SP]in\nstock...[SP]so[SP]I[SP]guess[SP]we[SP]carry[SP]it[SP]now!",
    "data_size": 300,
    "budget": 292
@@ -879,13 +891,13 @@
        "pause": true
       },
       {
-       "t": " Je l'ai mis dans le rayon"
+       "t": " Je l'ai mis dans le rayon Quarto."
       },
       {
        "nl": true
       },
       {
-       "t": "Quarto. Débarrassez-m'en, s'il vous plaît !"
+       "t": "Débarrassez-m'en, s'il vous plaît !"
       }
      ]
     }
@@ -920,7 +932,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Y a un truc louche là-dedans, mais...\nBon.[1205][U+000F] Je l'ai mis dans le rayon\nQuarto. Débarrassez-m'en, s'il vous plaît !",
+   "brut_fr": "Y a un truc louche là-dedans, mais...\nBon.[1205][U+000F] Je l'ai mis dans le rayon Quarto.\nDébarrassez-m'en, s'il vous plaît !",
    "brut_en": "Something[SP]seems[SP]fishy[SP]about[SP]this,[SP]but...\nOh[SP]well.[1205][U+000F][SP]Anyway,[SP]I[SP]put[SP]it[SP]in[SP]the[SP]Quarto\ncorner.[SP]Take[SP]it[SP]off[SP]my[SP]hands,[SP]will[SP]ya?",
    "data_size": 270,
    "budget": 262
@@ -934,16 +946,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oups, on n'a plus aucun CD en stock !"
+       "t": "Oups, on n'a plus aucun CD en stock!"
       },
       {
        "pause": true
       },
       {
+       "t": " Hein?"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Hein ? Oh, ceux sur les étagères ?"
+       "t": "Oh, ceux sur les étagères?"
       },
       {
        "pause": true
@@ -955,7 +970,7 @@
        "nl": true
       },
       {
-       "t": "juste pour la déco. Vraiment désolé !"
+       "t": "juste pour la déco. Vraiment désolé!"
       }
      ]
     }
@@ -993,7 +1008,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oups, on n'a plus aucun CD en stock ![1205][U+000F]\nHein ? Oh, ceux sur les étagères ?[1205][U+000F] Ouais, c'est\njuste pour la déco. Vraiment désolé !",
+   "brut_fr": "Oups, on n'a plus aucun CD en stock![1205][U+000F] Hein?\nOh, ceux sur les étagères?[1205][U+000F] Ouais, c'est\njuste pour la déco. Vraiment désolé!",
    "brut_en": "Whoops,[SP]we're[SP]completely[SP]out[SP]of[SP]CDs[SP]right[SP]now![1205][U+000F]\nHuh?[SP]Oh,[SP]those[SP]ones[SP]on[SP]the[SP]shelves?[1205][U+000F][SP]Yeah,[SP]those\nare[SP]just[SP]for[SP]show.[SP]So[SP]sorry!",
    "data_size": 282,
    "budget": 274
@@ -1013,19 +1028,19 @@
        "pause": true
       },
       {
-       "t": " Vous avez acheté"
+       "t": " Vous"
       },
       {
        "nl": true
       },
       {
-       "t": "tous les CDs ! Merci, merci, et au"
+       "t": "avez acheté tous les CDs! Merci,"
       },
       {
        "nl": true
       },
       {
-       "t": "cas où j'oublie, merci !"
+       "t": "merci, et au cas où j'oublie, merci!"
       }
      ]
     }
@@ -1060,7 +1075,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Waouh, vous êtes incroyable.[1205][U+000F] Vous avez acheté\ntous les CDs ! Merci, merci, et au\ncas où j'oublie, merci !",
+   "brut_fr": "Waouh, vous êtes incroyable.[1205][U+000F] Vous\navez acheté tous les CDs! Merci,\nmerci, et au cas où j'oublie, merci!",
    "brut_en": "Wow,[SP]you're[SP]something[SP]else.[1205][U+000F][SP]You've[SP]bought[SP]up\nevery[SP]CD[SP]in[SP]the[SP]shop![SP]Thanks,[SP]thanks,[SP]and[SP]in\ncase[SP]I[SP]forget,[SP]thanks!",
    "data_size": 256,
    "budget": 248
@@ -1074,7 +1089,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Okay ! Parlons des CDs !"
+       "t": "Okay! Parlons des CDs!"
       }
      ]
     }
@@ -1091,7 +1106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Okay ! Parlons des CDs !",
+   "brut_fr": "Okay! Parlons des CDs!",
    "brut_en": "Okaaaaay![SP]A[SP]word[SP]on[SP]CDs!",
    "data_size": 76,
    "budget": 68
@@ -1111,19 +1126,13 @@
        "enc": "Acheter des CDs"
       },
       {
-       "t": " ici"
+       "t": " ici pour voir"
       },
       {
        "nl": true
       },
       {
-       "t": "pour voir notre sélection de musique"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "sans pareille!"
+       "t": "notre sélection de musique sans pareille!"
       }
      ]
     }
@@ -1152,7 +1161,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Choisissez [1432][NULL][NULL][0014]Acheter des CDs[1432][NULL][NULL][0014] ici\npour voir notre sélection de musique\nsans pareille!",
+   "brut_fr": "Choisissez [1432][NULL][NULL][0014]Acheter des CDs[1432][NULL][NULL][0014] ici pour voir\nnotre sélection de musique sans pareille!",
    "brut_en": "If[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]CDs[1432][NULL][NULL][0014][SP]here,[SP]you[SP]can[SP]look\nthrough[SP]our[SP]unmatched[SP]selection[SP]of[SP]tunes!",
    "data_size": 208,
    "budget": 200
@@ -1166,13 +1175,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On reçoit régulièrement de nouveaux singles,"
+       "t": "On reçoit régulièrement de nouveaux"
       },
       {
        "nl": true
       },
       {
-       "t": "revenez les voir."
+       "t": "singles, revenez les voir."
       }
      ]
     }
@@ -1195,7 +1204,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On reçoit régulièrement de nouveaux singles,\nrevenez les voir.",
+   "brut_fr": "On reçoit régulièrement de nouveaux\nsingles, revenez les voir.",
    "brut_en": "We[SP]get[SP]more[SP]singles[SP]over[SP]time,[SP]so[SP]make[SP]sure\nyou[SP]come[SP]by[SP]to[SP]check[SP]'em[SP]out.",
    "data_size": 174,
    "budget": 166
@@ -1215,13 +1224,13 @@
        "nl": true
       },
       {
-       "t": "sur une chaîne. Vous connaissez quelqu'un"
+       "t": "sur une chaîne. Vous connaissez"
       },
       {
        "nl": true
       },
       {
-       "t": "avec une sono, non ?"
+       "t": "quelqu'un avec une sono, non?"
       }
      ]
     }
@@ -1250,7 +1259,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh, et vous pouvez écouter les CDs\nsur une chaîne. Vous connaissez quelqu'un\navec une sono, non ?",
+   "brut_fr": "Oh, et vous pouvez écouter les CDs\nsur une chaîne. Vous connaissez\nquelqu'un avec une sono, non?",
    "brut_en": "Oh,[SP]and[SP]you[SP]can[SP]play[SP]the[SP]CDs[SP]you[SP]buy[SP]on\na[SP]stereo.[SP]You've[SP]gotta[SP]know[SP]someone[SP]with\na[SP]boom[SP]box,[SP]right?",
    "data_size": 226,
    "budget": 218
@@ -1270,7 +1279,7 @@
        "nl": true
       },
       {
-       "t": "Vous l'achetez ?"
+       "t": "Vous l'achetez?"
       }
      ]
     }
@@ -1293,7 +1302,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
@@ -1304,7 +1313,7 @@
       "nl": true
      },
      {
-      "t": "Vous l'achetez ?"
+      "t": "Vous l'achetez?"
      }
     ]
    },
@@ -1325,7 +1334,7 @@
      }
     ]
    },
-   "brut_fr": "Ça fera [120E][NULL] yens.\nVous l'achetez ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Ça fera [120E][NULL] yens.\nVous l'achetez?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "That'll[SP]be[SP][120E][NULL][SP]yen.\nYou[SP]wanna[SP]buy[SP]it...?\n[1208][0002]Yes\nNo",
    "data_size": 126,
    "budget": 118
@@ -1339,13 +1348,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Waouh, le rayon Primo est épuisé !"
+       "t": "Waouh, le rayon Primo est épuisé!"
       },
       {
        "nl": true
       },
       {
-       "t": "Merci de votre patronage !"
+       "t": "Merci de votre patronage!"
       }
      ]
     }
@@ -1368,7 +1377,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Waouh, le rayon Primo est épuisé !\nMerci de votre patronage !",
+   "brut_fr": "Waouh, le rayon Primo est épuisé!\nMerci de votre patronage!",
    "brut_en": "Wow,[SP]the[SP]Primo[SP]corner's[SP]all[SP]sold[SP]out!\nThanks[SP]for[SP]your[SP]patronage!",
    "data_size": 156,
    "budget": 148
@@ -1382,19 +1391,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Félicitations ! Et félicitations à moi ! Le"
+       "t": "Félicitations! Et félicitations à moi! Le"
       },
       {
        "nl": true
       },
       {
-       "t": "rayon Secondo est épuisé lui aussi !"
+       "t": "rayon Secondo est épuisé lui aussi!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je"
       },
       {
        "nl": true
       },
       {
-       "t": "Je suis si ému que j'en attends de la grêle !"
+       "t": "suis si ému que j'en attends de la grêle!"
       }
      ]
     }
@@ -1423,7 +1438,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Félicitations ! Et félicitations à moi ! Le\nrayon Secondo est épuisé lui aussi !\nJe suis si ému que j'en attends de la grêle !",
+   "brut_fr": "Félicitations! Et félicitations à moi! Le\nrayon Secondo est épuisé lui aussi![1205][U+000F] Je\nsuis si ému que j'en attends de la grêle!",
    "brut_en": "Congratulations![SP]Congratulations[SP]to[SP]me![SP]The\nSecondo[SP]corner[SP]has[SP]successfully[SP]sold[SP]out[SP]too!\nI'm[SP]so[SP]touched,[SP]I'm[SP]expecting[SP]it[SP]to[SP]hail!",
    "data_size": 290,
    "budget": 282
@@ -1437,13 +1452,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Non mais ! Le rayon Terzo est épuisé !? Putain,"
+       "t": "Non mais! Le rayon Terzo est épuisé!?"
       },
       {
        "nl": true
       },
       {
-       "t": "je suis aux anges ! Merci !"
+       "t": "Putain, je suis aux anges! Merci!"
       }
      ]
     }
@@ -1466,7 +1481,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non mais ! Le rayon Terzo est épuisé !? Putain,\nje suis aux anges ! Merci !",
+   "brut_fr": "Non mais! Le rayon Terzo est épuisé!?\nPutain, je suis aux anges! Merci!",
    "brut_en": "No[SP]way![SP]The[SP]Terzo[SP]corner[SP]sold[SP]out!?[SP]Man,[SP]I'm\npleased[SP]as[SP]damn[SP]punch![SP]Thanks!",
    "data_size": 178,
    "budget": 170
@@ -1480,13 +1495,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hm ?"
+       "t": "Hm?"
       },
       {
        "pause": true
       },
       {
-       "t": " Le rayon Quarto est épuisé ?"
+       "t": " Le rayon Quarto est épuisé?"
       },
       {
        "pause": true
@@ -1504,7 +1519,7 @@
        "pause": true
       },
       {
-       "t": " Mais je me plains pas !"
+       "t": " Mais je me plains pas!"
       }
      ]
     }
@@ -1545,7 +1560,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm ?[1205][U+000F] Le rayon Quarto est épuisé ?[1205][U+000F] C'était...\nsacrément rapide...[1205][U+000F] Mais je me plains pas !",
+   "brut_fr": "Hm?[1205][U+000F] Le rayon Quarto est épuisé?[1205][U+000F] C'était...\nsacrément rapide...[1205][U+000F] Mais je me plains pas!",
    "brut_en": "Hmm?[1205][U+000F][SP]The[SP]Quarto[SP]corner's[SP]sold[SP]out?[1205][U+000F][SP]That[SP]was...\ndisappointingly[SP]quick...[1205][U+000F][SP]But[SP]I[SP]won't[SP]complain!",
    "data_size": 226,
    "budget": 218
@@ -1559,13 +1574,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ohoooo ! Le rayon Quarto est épuisé !"
+       "t": "Ohoooo! Le rayon Quarto est"
       },
       {
        "nl": true
       },
       {
-       "t": "Je suis aux anges !"
+       "t": "épuisé! Je suis aux anges!"
       }
      ]
     }
@@ -1588,7 +1603,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ohoooo ! Le rayon Quarto est épuisé !\nJe suis aux anges !",
+   "brut_fr": "Ohoooo! Le rayon Quarto est\népuisé! Je suis aux anges!",
    "brut_en": "Ohoooo![SP]The[SP]Quarto[SP]corner's[SP]sold[SP]out!\nI'm[SP]happy[SP]as[SP]a[SP]clam!",
    "data_size": 144,
    "budget": 136
@@ -1602,19 +1617,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bonté divine ! Le rayon Quinto est épuisé !?"
+       "t": "Bonté divine! Le rayon Quinto est"
       },
       {
        "nl": true
       },
       {
-       "t": "Magnifique ! Et c'est tout grâce à vous !"
+       "t": "épuisé !? Magnifique! Et c'est tout"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous êtes le meilleur !"
+       "t": "grâce à vous!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous êtes le meilleur!"
       }
      ]
     }
@@ -1643,7 +1664,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bonté divine ! Le rayon Quinto est épuisé !?\nMagnifique ! Et c'est tout grâce à vous !\nVous êtes le meilleur !",
+   "brut_fr": "Bonté divine! Le rayon Quinto est\népuisé !? Magnifique! Et c'est tout\ngrâce à vous![1205][U+000F] Vous êtes le meilleur!",
    "brut_en": "Goodness[SP]gracious[SP]me![SP]The[SP]Quinto[SP]corner's[SP]sold\nout!?[SP]Splendid![SP]And[SP]it's[SP]all[SP]thanks[SP]to[SP]you!\nYou're[SP]the[SP]bestest!",
    "data_size": 248,
    "budget": 240

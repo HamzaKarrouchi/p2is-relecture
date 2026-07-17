@@ -40,15 +40,7 @@
        "pause": true
       },
       {
-       "t": ".Ça bouge."
-      }
-     ]
-    },
-    {
-     "nom": "Lisa",
-     "seg": [
-      {
-       "t": "Ouais. Ça bouge."
+       "t": ". Ça bouge. \"Lisa Ouais. Ça bouge."
       }
      ]
     }
@@ -103,7 +95,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].Ça bouge.[E1][E2]\n[E3][E4][NULL][NULL]\"Lisa\nOuais. Ça bouge.",
+   "brut_fr": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F]. Ça bouge.[E1][E2] [E3][E4][NULL][NULL]\"Lisa Ouais. Ça bouge.",
    "brut_en": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].It's[SP]movin'.[E1][E2]\n[E3][E4][NULL][NULL]\"Lisa\nYep.[SP]It's[SP]movin'.",
    "data_size": 142,
    "budget": 134
@@ -178,7 +170,7 @@
        "pause": true
       },
       {
-       "t": ".Alors c'est sûr?"
+       "t": ". Alors c'est sûr?"
       }
      ]
     }
@@ -225,7 +217,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].Alors c'est sûr?",
+   "brut_fr": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F]. Alors c'est sûr?",
    "brut_en": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].So[SP]that[SP]settles[SP]it?",
    "data_size": 98,
    "budget": 90
@@ -301,22 +293,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Gaaaah ! Impossible ! Comment un truc"
+       "t": "Gaaaah! Impossible! Comment un truc aussi"
       },
       {
        "nl": true
       },
       {
-       "t": "aussi ridicule peut arriver !?"
+       "t": "ridicule peut arriver!?"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "M-Mes 3000 yens..."
+       "t": " M-Mes 3000 yens..."
       }
      ]
     }
@@ -348,7 +337,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Gaaaah ! Impossible ! Comment un truc\naussi ridicule peut arriver !?[1205][001E]\nM-Mes 3000 yens...",
+   "brut_fr": "Gaaaah! Impossible! Comment un truc aussi\nridicule peut arriver!?[1205][001E] M-Mes 3000 yens...",
    "brut_en": "Gaaaaah![SP]Hell[SP]no![SP]That's[SP]impossible![SP]How[SP]could\nsomething[SP]this[SP]ridiculous[SP]actually[SP]happen!?[1205][001E]\nM-My[SP]3,000[SP]yen...",
    "data_size": 246,
    "budget": 238
@@ -362,28 +351,37 @@
      "nom": null,
      "seg": [
       {
-       "t": "Comme on disait ! Les rumeurs se réalisent."
+       "t": "Comme on disait! Les rumeurs se"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "réalisent."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Youhou, 3000 yens de plus pour moi !"
+       "t": " Youhou, 3000 yens de plus"
       },
       {
        "nl": true
       },
       {
-       "t": "Allons dîner, "
+       "t": "pour moi!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Allons dîner, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -421,7 +419,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Comme on disait ! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi !\nAllons dîner, [1113] !",
+   "brut_fr": "Comme on disait! Les rumeurs se\nréalisent.[1205][001E] Youhou, 3000 yens de plus\npour moi![1205][U+000F] Allons dîner, [1113]!",
    "brut_en": "It's[SP]like[SP]we[SP]heard![SP]Rumors[SP]are[SP]coming[SP]true.[1205][001E]\nWoohoo,[SP]I'm[SP]3,000[SP]yen[SP]richer[SP]now![SP]Let's[SP]go\nget[SP]some[SP]dinner,[SP][1113]!",
    "data_size": 236,
    "budget": 228
@@ -435,7 +433,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Comme on disait ! Les rumeurs se réalisent."
+       "t": "Comme on disait! Les rumeurs se réalisent."
       },
       {
        "pause": true
@@ -444,37 +442,43 @@
        "nl": true
       },
       {
-       "t": "Youhou, 3000 yens de plus pour moi !"
+       "t": "Youhou, 3000 yens de plus pour moi!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Allons"
       },
       {
        "nl": true
       },
       {
-       "t": "Allons dîner, "
+       "t": "dîner, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " !> Pierre Narurato"
+       "t": "!> Pierre Narurato Un mégalithe"
       },
       {
        "nl": true
       },
       {
-       "t": "Un mégalithe déterré à la construction"
+       "t": "déterré à la construction du lycée. Fait de"
       },
       {
        "nl": true
       },
       {
-       "t": "du lycée. Fait de thamatite, il possède"
+       "t": "thamatite, il possède"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "un magnétisme anormal."
+       "t": " un magnétisme anormal."
       },
       {
        "nl": true
@@ -489,28 +493,58 @@
        "t": "gardienne où l'être céleste Hiremon a"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "scellé le démon Narurato Hotefu.> Statue en l'honneur du directeur Hanya"
-      },
-      {
-       "nl": true
-      },
-      {
-       "enc": "Regardez-moi ! Suivez-moi ! Ne comptez pas sur moi !"
+       "t": " scellé"
       },
       {
        "nl": true
       },
       {
-       "t": "est la citation contradictoire écrite ici."
+       "t": "le démon Narurato Hotefu.> Statue en"
       },
       {
        "nl": true
       },
       {
-       "t": "La regarder vous met étrangement en colère..."
+       "t": "l'honneur du directeur Hanya "
+      },
+      {
+       "enc": "Regardez-moi!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Suivez-moi! Ne comptez pas"
+      },
+      {
+       "pause": true
+      },
+      {
+       "enc": " sur moi!"
+      },
+      {
+       "t": " est la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "citation contradictoire écrite ici. La"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "regarder vous met étrangement en "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " colère..."
       }
      ]
     }
@@ -602,7 +636,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Comme on disait ! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi !\nAllons dîner, [1113] ![E1][E2][E3]> Pierre Narurato\nUn mégalithe déterré à la construction\ndu lycée. Fait de thamatite, il possède\nun magnétisme anormal.\n[E1][E2]> La légende dit que c'est une pierre\ngardienne où l'être céleste Hiremon a\nscellé le démon Narurato Hotefu.[E1][E2][E3]> Statue en l'honneur du directeur Hanya\n[1432][NULL][NULL][0014]Regardez-moi ! Suivez-moi ! Ne comptez pas sur moi ![1432][NULL][NULL][0014]\nest la citation contradictoire écrite ici.\nLa regarder vous met étrangement en colère...",
+   "brut_fr": "Comme on disait! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi![1205][U+000F] Allons\ndîner, [1113]![E1][E2][E3]> Pierre Narurato Un mégalithe\ndéterré à la construction du lycée. Fait de\nthamatite, il possède[1205][U+000F] un magnétisme anormal.\n[E1][E2]> La légende dit que c'est une pierre\ngardienne où l'être céleste Hiremon a[1205][U+000F] scellé\nle démon Narurato Hotefu.[E1][E2][E3]> Statue en\nl'honneur du directeur Hanya [1432][NULL][NULL][0014]Regardez-moi!\nSuivez-moi! Ne comptez pas[1205][U+000F] sur moi![1432][NULL][NULL][0014] est la\ncitation contradictoire écrite ici. La\nregarder vous met étrangement en [1205][U+000F] colère...",
    "brut_en": "It's[SP]like[SP]we[SP]heard![SP]Rumors[SP]are[SP]coming[SP]true.[1205][001E]\nWoohoo,[SP]I'm[SP]3,000[SP]yen[SP]richer[SP]now![SP]Let's[SP]go\nget[SP]some[SP]dinner,[SP][1113]![E1][E2][E3]>[SP]Narurato[SP]Stone\nA[SP]megalith[SP]that[SP]was[SP]excavated[SP]when[SP]the[SP]school\nwas[SP]first[SP]built.[SP]It's[SP]made[SP]of[SP]thamatite[SP]and\npossesses[SP]an[SP]abnormal[SP]magnetism.\n[E1][E2]>[SP]Legend[SP]has[SP]it[SP]that[SP]it's[SP]a[SP]guardian[SP]stone\nin[SP]which[SP]the[SP]heavenly[SP]being[SP]Hiremon[SP]sealed\nthe[SP]evil[SP]demon[SP]Narurato[SP]Hotefu.[E1][E2][E3]>[SP]Statue[SP]in[SP]honor[SP]of[SP]Principal[SP]Hanya\n[1432][NULL][NULL][0014]Look[SP]at[SP]me![SP]Follow[SP]me![SP]Don't[SP]rely[SP]on[SP]me![1432][NULL][NULL][0014]\nis[SP]the[SP]rather[SP]contradictory[SP]quote[SP]written[SP]here.\nLooking[SP]at[SP]it[SP]makes[SP]you[SP]inexplicably[SP]angry...",
    "data_size": 1126,
    "budget": 1118
@@ -616,19 +650,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça va, ça va !"
+       "t": "Ça va, ça va!"
       },
       {
        "pause": true
       },
       {
-       "t": " J'avoue! Les rumeurs"
+       "t": " J'avoue! Les"
       },
       {
        "nl": true
       },
       {
-       "t": "se réalisent ! Bon sang..."
+       "t": "rumeurs se réalisent! Bon sang..."
       }
      ]
     }
@@ -657,7 +691,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça va, ça va ![1205][001E] J'avoue! Les rumeurs\nse réalisent ! Bon sang...",
+   "brut_fr": "Ça va, ça va![1205][001E] J'avoue! Les\nrumeurs se réalisent! Bon sang...",
    "brut_en": "Alright,[SP]alright![1205][001E][SP]I[SP]admit[SP]it![SP]Rumors[SP]are\ncoming[SP]true![SP]Dammit...",
    "data_size": 156,
    "budget": 148
@@ -671,31 +705,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une cérémonie pour le directeur ?"
+       "t": "Une cérémonie pour le directeur?"
       },
       {
        "pause": true
       },
       {
-       "t": " Oh oh..."
+       "t": " Oh"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est à cause de ce que t'as dit, "
+       "t": "oh... C'est à cause de ce que t'as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dit, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": "."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je m'en lave les mains !"
+       "t": ". Je m'en lave les mains!"
       }
      ]
     }
@@ -736,7 +770,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une cérémonie pour le directeur ?[1205][001E] Oh oh...\nC'est à cause de ce que t'as dit, [1113].\nJe m'en lave les mains !",
+   "brut_fr": "Une cérémonie pour le directeur?[1205][001E] Oh\noh... C'est à cause de ce que t'as\ndit, [1113]. Je m'en lave les mains!",
    "brut_en": "A[SP]memorial[SP]service[SP]for[SP]the[SP]principal?[1205][001E][SP]Uh-oh...\nThis[SP]is[SP]because[SP]of[SP]what[SP]you[SP]said,[SP][1113].\nI'm[SP]washing[SP]my[SP]hands[SP]of[SP]this[SP]one!",
    "data_size": 264,
    "budget": 256
@@ -750,25 +784,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cette dame, c'est Mme Idéale, non ?"
+       "t": "Cette dame, c'est Mme Idéale, non?"
       },
       {
        "pause": true
       },
       {
-       "t": " Elle a"
+       "nl": true
+      },
+      {
+       "t": "Elle a l'air d'une prof bizarre. Elle"
       },
       {
        "nl": true
       },
       {
-       "t": "l'air d'une prof bizarre. Elle ferait mieux"
+       "t": "ferait mieux"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "archéologue... ou ninja."
+       "t": " archéologue... ou ninja."
       }
      ]
     }
@@ -803,7 +840,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cette dame, c'est Mme Idéale, non ?[1205][U+000F] Elle a\nl'air d'une prof bizarre. Elle ferait mieux\narchéologue... ou ninja.",
+   "brut_fr": "Cette dame, c'est Mme Idéale, non?[1205][U+000F]\nElle a l'air d'une prof bizarre. Elle\nferait mieux[1205][U+000F] archéologue... ou ninja.",
    "brut_en": "That[SP]lady's[SP]called[SP]Ms.[SP]Ideal,[SP]right?[1205][U+000F][SP]She[SP]seems\nlike[SP]a[SP]pretty[SP]weird[SP]teacher.[SP]Like[SP]she'd[SP]be[SP]more\nat[SP]home[SP]as[SP]an[SP]archaeologist...[SP]or[SP]a[SP]ninja.",
    "data_size": 304,
    "budget": 296
@@ -817,25 +854,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je crois que ce têtu de Boss des Calbutes"
+       "t": "Je crois que ce têtu de Boss des"
       },
       {
        "nl": true
       },
       {
-       "t": "a enfin compris."
+       "t": "Calbutes a enfin compris."
       },
       {
        "pause": true
       },
       {
-       "t": " Contente d'avoir parié"
+       "t": " Contente"
       },
       {
        "nl": true
       },
       {
-       "t": "avec lui en venant !"
+       "t": "d'avoir parié avec lui en venant!"
       }
      ]
     }
@@ -870,7 +907,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je crois que ce têtu de Boss des Calbutes\na enfin compris.[1205][001E] Contente d'avoir parié\navec lui en venant !",
+   "brut_fr": "Je crois que ce têtu de Boss des\nCalbutes a enfin compris.[1205][001E] Contente\nd'avoir parié avec lui en venant!",
    "brut_en": "I[SP]think[SP]that[SP]stubborn[SP]Undie[SP]Boss[SP]finally[SP]gets\nwhat's[SP]going[SP]on.[1205][001E][SP]I'm[SP]glad[SP]I[SP]made[SP]that[SP]bet[SP]with\nhim[SP]on[SP]the[SP]way[SP]here!",
    "data_size": 250,
    "budget": 242
@@ -884,25 +921,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je crois que ce têtu de Boss des Calbutes"
+       "t": "Je crois que ce têtu de Boss des"
       },
       {
        "nl": true
       },
       {
-       "t": "a enfin compris."
+       "t": "Calbutes a enfin compris."
       },
       {
        "pause": true
       },
       {
-       "t": " Contente d'avoir parié"
+       "t": " Contente"
       },
       {
        "nl": true
       },
       {
-       "t": "avec lui en venant !"
+       "t": "d'avoir parié avec lui en venant!"
       }
      ]
     }
@@ -937,7 +974,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je crois que ce têtu de Boss des Calbutes\na enfin compris.[1205][001E] Contente d'avoir parié\navec lui en venant !",
+   "brut_fr": "Je crois que ce têtu de Boss des\nCalbutes a enfin compris.[1205][001E] Contente\nd'avoir parié avec lui en venant!",
    "brut_en": "I[SP]think[SP]that[SP]stubborn[SP]Undie[SP]Boss[SP]finally[SP]gets\nwhat's[SP]going[SP]on.[1205][001E][SP]I'm[SP]glad[SP]I[SP]made[SP]that[SP]bet[SP]with\nhim[SP]on[SP]the[SP]way[SP]here!",
    "data_size": 252,
    "budget": 244
@@ -951,7 +988,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est pas une de CES rumeurs, si ?"
+       "t": "C'est pas une de CES rumeurs, si?"
       },
       {
        "nl": true
@@ -980,7 +1017,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pas une de CES rumeurs, si ?\nIl va pas vraiment mourir, hein...?",
+   "brut_fr": "C'est pas une de CES rumeurs, si?\nIl va pas vraiment mourir, hein...?",
    "brut_en": "This[SP]won't[SP]be[SP]one[SP]of[SP]THOSE[SP]rumors,[SP]is[SP]it?\nHe's[SP]not[SP]gonna[SP]die[SP]for[SP]real,[SP]right...?",
    "data_size": 182,
    "budget": 174
@@ -1049,7 +1086,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ouah ! La statue se balade vraiment..."
+       "t": "Ouah! La statue se balade vraiment..."
       },
       {
        "pause": true
@@ -1058,7 +1095,7 @@
        "nl": true
       },
       {
-       "t": "C'est à cause de la rumeur, hein ?"
+       "t": "C'est à cause de la rumeur, hein?"
       }
      ]
     }
@@ -1084,7 +1121,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouah ! La statue se balade vraiment...[1205][001E]\nC'est à cause de la rumeur, hein ?",
+   "brut_fr": "Ouah! La statue se balade vraiment...[1205][001E]\nC'est à cause de la rumeur, hein?",
    "brut_en": "Wow![SP]The[SP]statue[SP]really[SP]is[SP]walking[SP]around...[1205][001E]\nThis[SP]is[SP]because[SP]of[SP]the[SP]rumor,[SP]huh?",
    "data_size": 180,
    "budget": 172
@@ -1104,13 +1141,13 @@
        "pause": true
       },
       {
-       "t": " C'est un peu tard pour"
+       "t": " C'est un peu tard"
       },
       {
        "nl": true
       },
       {
-       "t": "suggérer qu'il a survécu..."
+       "t": "pour suggérer qu'il a survécu..."
       }
      ]
     }
@@ -1139,7 +1176,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh là là...[1205][001E] C'est un peu tard pour\nsuggérer qu'il a survécu...",
+   "brut_fr": "Oh là là...[1205][001E] C'est un peu tard\npour suggérer qu'il a survécu...",
    "brut_en": "Yikes...[1205][001E][SP]I[SP]think[SP]it's[SP]a[SP]little[SP]late[SP]now[SP]to\nstart[SP]suggesting[SP]he[SP]lived...",
    "data_size": 166,
    "budget": 158
@@ -1153,31 +1190,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et alors !? On n'y peut plus rien !"
+       "t": "Et alors!? On n'y peut plus rien!"
       },
       {
        "pause": true
       },
       {
-       "t": " Ce qui"
-      },
-      {
        "nl": true
       },
       {
-       "t": "est fait est fait."
+       "t": "Ce qui est fait est fait."
       },
       {
        "pause": true
       },
       {
-       "t": " C'était juste une"
+       "t": " C'était"
       },
       {
        "nl": true
       },
       {
-       "t": "blague de lycéens..."
+       "t": "juste une blague de lycéens..."
       }
      ]
     }
@@ -1218,7 +1252,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et alors !? On n'y peut plus rien ![1205][001E] Ce qui\nest fait est fait.[1205][001E] C'était juste une\nblague de lycéens...",
+   "brut_fr": "Et alors!? On n'y peut plus rien![1205][001E]\nCe qui est fait est fait.[1205][001E] C'était\njuste une blague de lycéens...",
    "brut_en": "Well,[SP]so[SP]what!?[SP]Nothing[SP]we[SP]can[SP]do[SP]now![1205][001E][SP]No[SP]use\ncrying[SP]over[SP]spilt[SP]milk,[SP]I[SP]guess.[1205][001E][SP]It[SP]was[SP]just\nanother[SP]student[SP]prank...",
    "data_size": 258,
    "budget": 250
@@ -1320,7 +1354,7 @@
        "nl": true
       },
       {
-       "t": "Qui l'eût cru, hein ?"
+       "t": "Qui l'eût cru, hein?"
       }
      ]
     }
@@ -1346,7 +1380,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça n'a pas l'air motorisé...[1205][001E]\nQui l'eût cru, hein ?",
+   "brut_fr": "Ça n'a pas l'air motorisé...[1205][001E]\nQui l'eût cru, hein?",
    "brut_en": "Doesn't[SP]seem[SP]like[SP]it's[SP]motorized...[1205][001E]\nWho'd[SP]have[SP]thought,[SP]huh?",
    "data_size": 148,
    "budget": 140
@@ -1415,19 +1449,19 @@
        "nl": true
       },
       {
-       "t": "Pierre Hiremon ?"
+       "t": "Pierre Hiremon?"
       },
       {
        "pause": true
       },
       {
-       "t": " On avait pareil"
+       "t": " On avait pareil à St."
       },
       {
        "nl": true
       },
       {
-       "t": "à St. Hermelin..."
+       "t": "Hermelin..."
       }
      ]
     }
@@ -1468,7 +1502,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Au fait, [1113]... Ce rocher, c'est une\nPierre Hiremon ?[1205][001E] On avait pareil\nà St. Hermelin...",
+   "brut_fr": "Au fait, [1113]... Ce rocher, c'est une\nPierre Hiremon?[1205][001E] On avait pareil à St.\nHermelin...",
    "brut_en": "By[SP]the[SP]way,[SP][1113]...[SP]Is[SP]that[SP]big[SP]rock[SP]a\nHiremon[SP]Stone?[1205][001E][SP]We[SP]had[SP]something[SP]like[SP]it[SP]at\nSt.[SP]Hermelin[SP]too...",
    "data_size": 224,
    "budget": 216
@@ -1482,7 +1516,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? C'est la Pierre Narurato ?"
+       "t": "Hein? C'est la Pierre Narurato?"
       },
       {
        "pause": true
@@ -1495,6 +1529,9 @@
       },
       {
        "t": "Elle est différente de celle de mes"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -1535,7 +1572,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? C'est la Pierre Narurato ?[1205][001E] Ah oui...\nElle est différente de celle de mes\nsouvenirs... Elle me met mal à l'aise.",
+   "brut_fr": "Hein? C'est la Pierre Narurato?[1205][001E] Ah oui...\nElle est différente de celle de mes[1205][U+000F]\nsouvenirs... Elle me met mal à l'aise.",
    "brut_en": "Huh?[SP]It's[SP]the[SP]Narurato[SP]Stone?[1205][001E][SP]Really...\nI[SP]guess[SP]it[SP]does[SP]seem[SP]different[SP]from[SP]the[SP]one\nI[SP]remember...[SP]It[SP]creeps[SP]me[SP]out[SP]a[SP]little.",
    "data_size": 276,
    "budget": 268
@@ -1549,7 +1586,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce rocher, c'est une Pierre Hiremon ?"
+       "t": "Ce rocher, c'est une Pierre Hiremon?"
       },
       {
        "pause": true
@@ -1587,7 +1624,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce rocher, c'est une Pierre Hiremon ?[1205][001E]\nOn avait pareil à St. Hermelin...",
+   "brut_fr": "Ce rocher, c'est une Pierre Hiremon?[1205][001E]\nOn avait pareil à St. Hermelin...",
    "brut_en": "Is[SP]that[SP]big[SP]rock[SP]a[SP]Hiremon[SP]Stone?[1205][001E][SP]We[SP]had\nsomething[SP]like[SP]it[SP]at[SP]St.[SP]Hermelin[SP]too...",
    "data_size": 190,
    "budget": 182
@@ -1601,7 +1638,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? C'est la Pierre Narurato ?"
+       "t": "Hein? C'est la Pierre Narurato?"
       },
       {
        "pause": true
@@ -1614,6 +1651,9 @@
       },
       {
        "t": "Elle est différente de celle de mes"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -1654,7 +1694,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? C'est la Pierre Narurato ?[1205][001E] Ah oui...\nElle est différente de celle de mes\nsouvenirs... Elle me met mal à l'aise.",
+   "brut_fr": "Hein? C'est la Pierre Narurato?[1205][001E] Ah oui...\nElle est différente de celle de mes[1205][U+000F]\nsouvenirs... Elle me met mal à l'aise.",
    "brut_en": "Huh?[SP]It's[SP]the[SP]Narurato[SP]Stone?[1205][001E][SP]Really...\nI[SP]guess[SP]it[SP]does[SP]seem[SP]different[SP]from[SP]the[SP]one\nI[SP]remember...[SP]It[SP]creeps[SP]me[SP]out[SP]a[SP]little.",
    "data_size": 276,
    "budget": 268
@@ -1668,13 +1708,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "L-La Pierre Narurato affecterait la"
+       "t": "L-La Pierre Narurato affecterait"
       },
       {
        "nl": true
       },
       {
-       "t": "statue...?"
+       "t": "la statue...?"
       },
       {
        "pause": true
@@ -1730,7 +1770,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L-La Pierre Narurato affecterait la\nstatue...?[1205][001E] C-C'est terrible...[1205][001E]\nKashihara, que dois-je faire...?",
+   "brut_fr": "L-La Pierre Narurato affecterait\nla statue...?[1205][001E] C-C'est terrible...[1205][001E]\nKashihara, que dois-je faire...?",
    "brut_en": "C-Could[SP]the[SP]Narurato[SP]Stone[SP]be[SP]affecting[SP]the\nstatue...?[1205][001E][SP]Th-This[SP]is[SP]terrible...[1205][001E][SP]Kashihara,\nwhat[SP]should[SP]I[SP]do...?",
    "data_size": 256,
    "budget": 248
@@ -1744,19 +1784,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hm !?"
+       "t": "Hm!?"
       },
       {
        "pause": true
       },
       {
-       "t": " Que faites-vous ici !?"
+       "t": " Que faites-vous ici!?"
       },
       {
        "nl": true
       },
       {
-       "t": "Partez tout de suite !"
+       "t": "Partez tout de suite!"
       }
      ]
     }
@@ -1785,7 +1825,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm !?[1205][001E] Que faites-vous ici !?\nPartez tout de suite !",
+   "brut_fr": "Hm!?[1205][001E] Que faites-vous ici!?\nPartez tout de suite!",
    "brut_en": "Hm!?[1205][001E][SP]What[SP]are[SP]you[SP]kids[SP]doing[SP]here!?[SP]You[SP]must\nleave[SP]at[SP]once!",
    "data_size": 152,
    "budget": 144
@@ -1808,13 +1848,13 @@
        "pause": true
       },
       {
-       "t": " R-Regardez la statue !"
+       "t": " R-Regardez la statue! E-Elle"
       },
       {
        "nl": true
       },
       {
-       "t": "E-Elle se balade ! C-C'est dangereux, non !?"
+       "t": "se balade! C-C'est dangereux, non !?"
       }
      ]
     }
@@ -1846,7 +1886,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Pourquoi[1432][NULL][NULL][0014]...!?[1205][001E] R-Regardez la statue !\nE-Elle se balade ! C-C'est dangereux, non !?",
+   "brut_fr": "[1432][NULL][NULL][0014]Pourquoi[1432][NULL][NULL][0014]...!?[1205][001E] R-Regardez la statue! E-Elle\nse balade! C-C'est dangereux, non !?",
    "brut_en": "[1432][NULL][NULL][0014]Why[1432][NULL][NULL][0014]...!?[1205][001E][SP]L-Look[SP]at[SP]the[SP]statue![SP]I-It's[SP]walking\naround![SP]D-Don't[SP]you[SP]think[SP]that's[SP]dangerous!?",
    "data_size": 230,
    "budget": 222
@@ -1878,7 +1918,7 @@
        "nl": true
       },
       {
-       "t": "La roue du destin est en marche !"
+       "t": "La roue du destin est en marche!"
       }
      ]
     }
@@ -1913,7 +1953,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'horloge est détruite, mais trop tard...[1205][001E]\nUn vers de l'Oracle s'est déjà réalisé.[1205][001E]\nLa roue du destin est en marche !",
+   "brut_fr": "L'horloge est détruite, mais trop tard...[1205][001E]\nUn vers de l'Oracle s'est déjà réalisé.[1205][001E]\nLa roue du destin est en marche!",
    "brut_en": "The[SP]clock's[SP]been[SP]destroyed,[SP]but[SP]it's[SP]too[SP]late...[1205][001E]\nOne[SP]line[SP]of[SP]the[SP]Oracle[SP]is[SP]already[SP]fulfilled.[1205][001E]\nThe[SP]wheel[SP]of[SP]fortune[SP]is[SP]already[SP]moving!",
    "data_size": 304,
    "budget": 296
@@ -1933,7 +1973,7 @@
        "nl": true
       },
       {
-       "t": "peut-être. Tenez-vous prêts !"
+       "t": "peut-être. Tenez-vous prêts!"
       }
      ]
     }
@@ -1956,7 +1996,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Plus personne ne peut l'arrêter,\npeut-être. Tenez-vous prêts !",
+   "brut_fr": "Plus personne ne peut l'arrêter,\npeut-être. Tenez-vous prêts!",
    "brut_en": "It's[SP]possible[SP]that[SP]no[SP]one[SP]can[SP]stop[SP]it[SP]now.\nYou[SP]should[SP]all[SP]be[SP]prepared!",
    "data_size": 170,
    "budget": 162
@@ -2025,7 +2065,7 @@
        "nl": true
       },
       {
-       "t": "ensuite : le directeur héros de Seven !"
+       "t": "ensuite: le directeur héros de Seven!"
       }
      ]
     }
@@ -2054,7 +2094,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On ne l'oubliera jamais. On transmettra\nsa légende à nos cadets, et aux leurs\nensuite : le directeur héros de Seven !",
+   "brut_fr": "On ne l'oubliera jamais. On transmettra\nsa légende à nos cadets, et aux leurs\nensuite: le directeur héros de Seven!",
    "brut_en": "We'll[SP]never[SP]forget[SP]him.[SP]We'll[SP]pass[SP]his[SP]legend\non[SP]down[SP]to[SP]our[SP]juniors,[SP]and[SP]to[SP]theirs[SP]after\nthem:[SP]The[SP]hero[SP]principal[SP]of[SP]Sevens!",
    "data_size": 286,
    "budget": 278
@@ -2068,33 +2108,45 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci, directeur Hanya ! Et adieu !"
+       "t": "Merci, directeur Hanya! Et adieu! Nous"
       },
       {
        "nl": true
       },
       {
-       "t": "Nous contemplons avec révérence"
+       "t": "contemplons avec révérence De notre maître"
       },
       {
        "nl": true
       },
       {
-       "t": "De notre maître l'élégance"
+       "t": "l'élégance"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
       }
      ]
     },
     {
-     "nom": "Lycéenne",
+     "nom": "Lycéenne C'est grâce au directeur",
      "seg": [
       {
-       "t": "C'est grâce au directeur que la malédiction"
+       "t": "que la malédiction"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " est levée... Seven est"
       },
       {
        "nl": true
       },
       {
-       "t": "est levée... Seven est sauvé !"
+       "t": "sauvé!"
       }
      ]
     }
@@ -2137,7 +2189,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci, directeur Hanya ! Et adieu !\nNous contemplons avec révérence\nDe notre maître l'élégance[E1][E2]\n[E3][E4][NULL][NULL]\"Lycéenne\nC'est grâce au directeur que la malédiction\nest levée... Seven est sauvé !",
+   "brut_fr": "Merci, directeur Hanya! Et adieu! Nous\ncontemplons avec révérence De notre maître\nl'élégance[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Lycéenne C'est grâce au directeur\nque la malédiction[1205][U+000F] est levée... Seven est\nsauvé!",
    "brut_en": "Thank[SP]you,[SP]Principal[SP]Hanya![SP]And[SP]farewell!\nAs[SP]we[SP]look[SP]with[SP]reverence\nOn[SP]our[SP]teacher's[SP]elegance[E1][E2]\n[E3][E4][NULL][NULL]\"Female[SP]student\nIt[SP]was[SP]thanks[SP]to[SP]our[SP]Principal[SP]that[SP]the\ncurse[SP]was[SP]lifted...[SP]Sevens[SP]is[SP]saved!",
    "data_size": 424,
    "budget": 416

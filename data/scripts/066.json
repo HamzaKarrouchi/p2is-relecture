@@ -59,13 +59,7 @@
        "pause": true
       },
       {
-       "t": " Elle n'est pas là..."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Pourquoi faire ça!?"
+       "t": " Elle n'est pas là... Pourquoi faire ça!?"
       }
      ]
     }
@@ -94,7 +88,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Anna![1205][001E] Elle n'est pas là...\nPourquoi faire ça!?",
+   "brut_fr": "Anna![1205][001E] Elle n'est pas là... Pourquoi faire ça!?",
    "brut_en": "Anna![1205][001E][SP]She's[SP]not[SP]here...[SP]Why[SP]would[SP]she\ndo[SP]this!?",
    "data_size": 124,
    "budget": 116
@@ -227,6 +221,9 @@
        "t": "Allons en ville demander aux gens s'ils ont"
       },
       {
+       "pause": true
+      },
+      {
        "nl": true
       },
       {
@@ -259,7 +256,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Où il y a des rumeurs, Joker y est, non?\nAllons en ville demander aux gens s'ils ont\ndes rumeurs sur le Cercle masqué et Joker!",
+   "brut_fr": "Où il y a des rumeurs, Joker y est, non?\nAllons en ville demander aux gens s'ils ont[1205][U+000F]\ndes rumeurs sur le Cercle masqué et Joker!",
    "brut_en": "Guys,[SP]wherever[SP]rumors[SP]are,[SP]Joker's[SP]there[SP]too,\nright?[SP]Let's[SP]go[SP]out[SP]in[SP]the[SP]city[SP]and[SP]ask[SP]people\nfor[SP]rumors[SP]about[SP]the[SP]Masked[SP]Circle[SP]and[SP]Joker!",
    "data_size": 298,
    "budget": 290
@@ -304,13 +301,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a forcément une raison pour qu'Anna"
+       "t": "Il y a forcément une raison pour"
       },
       {
        "nl": true
       },
       {
-       "t": "soit cadre du Cercle masqué..."
+       "t": "qu'Anna soit cadre du Cercle masqué..."
       },
       {
        "pause": true
@@ -339,7 +336,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a forcément une raison pour qu'Anna\nsoit cadre du Cercle masqué...[1205][001E]",
+   "brut_fr": "Il y a forcément une raison pour\nqu'Anna soit cadre du Cercle masqué...[1205][001E]",
    "brut_en": "There[SP]must[SP]be[SP]a[SP]reason[SP]why[SP]Anna[SP]became[SP]an\nexecutive[SP]in[SP]the[SP]Masked[SP]Circle...[1205][001E]",
    "data_size": 180,
    "budget": 172

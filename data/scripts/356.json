@@ -16,13 +16,13 @@
        "pause": true
       },
       {
-       "t": " Dans"
+       "t": " Dans toute"
       },
       {
        "nl": true
       },
       {
-       "t": "toute notre vie, combien de choses"
+       "t": "notre vie, combien de choses"
       },
       {
        "nl": true
@@ -63,7 +63,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pas que toi, Ginko.[1205][U+000A] Dans\ntoute notre vie, combien de choses\nsommes-nous sûrs d'avoir vraiment vues?",
+   "brut_fr": "C'est pas que toi, Ginko.[1205][U+000A] Dans toute\nnotre vie, combien de choses\nsommes-nous sûrs d'avoir vraiment vues?",
    "brut_en": "It's[SP]probably[SP]not[SP]just[SP]you,[SP]Ginko.[1205][U+000A][SP]I[SP]mean,[SP]in\nall[SP]our[SP]lives,[SP]how[SP]much[SP]do[SP]we[SP]know[SP]for[SP]sure\nthat[SP]we've[SP]never[SP]actually[SP]seen?",
    "data_size": 272,
    "budget": 264
@@ -77,22 +77,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "D'habitude, on entend quelque chose, et on pense"
+       "t": "D'habitude, on entend quelque chose,"
       },
       {
        "nl": true
+      },
+      {
+       "t": "et on pense "
       },
       {
        "enc": "Oh, si il le dit,"
       },
       {
-       "t": " et on assume"
+       "t": " et on"
       },
       {
        "nl": true
       },
       {
-       "t": "que c'est la vérité."
+       "t": "assume"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que c'est la vérité."
       }
      ]
     }
@@ -127,7 +136,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "D'habitude, on entend quelque chose, et on pense\n[1432][NULL][NULL][0014]Oh, si il le dit,[1432][NULL][NULL][0014] et on assume\nque c'est la vérité.",
+   "brut_fr": "D'habitude, on entend quelque chose,\net on pense [1432][NULL][NULL][0014]Oh, si il le dit,[1432][NULL][NULL][0014] et on\nassume[1205][U+000F] que c'est la vérité.",
    "brut_en": "Usually,[SP]you[SP]hear[SP]about[SP]something,[SP]and[SP]you\nthink,[SP][1432][NULL][NULL][0014]Oh,[SP]well,[SP]if[SP]he[SP]said[SP]so,[1432][NULL][NULL][0014][SP]and[SP]assume\nit's[SP]the[SP]truth.",
    "data_size": 244,
    "budget": 236
@@ -184,13 +193,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Honnêtement, je sais plus distinguer"
+       "t": "Honnêtement, je sais plus distinguer ce"
       },
       {
        "nl": true
       },
       {
-       "t": "ce qui existait de ce qui vient des rumeurs."
+       "t": "qui existait de ce qui vient des rumeurs."
       }
      ]
     }
@@ -213,7 +222,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Honnêtement, je sais plus distinguer\nce qui existait de ce qui vient des rumeurs.",
+   "brut_fr": "Honnêtement, je sais plus distinguer ce\nqui existait de ce qui vient des rumeurs.",
    "brut_en": "Honestly,[SP]I[SP]can't[SP]tell[SP]anymore[SP]what[SP]was[SP]always\nreal[SP]and[SP]what's[SP]true[SP]because[SP]of[SP]the[SP]rumors.",
    "data_size": 202,
    "budget": 194
@@ -239,16 +248,19 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Si tu demandes si quoi que ce soit avant"
+       "t": " Si tu"
       },
       {
        "nl": true
       },
       {
-       "t": "s'est passé ou non, je suis pas si sûre..."
+       "t": "demandes si quoi que ce soit avant s'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "passé ou non, je suis pas si sûre..."
       }
      ]
     }
@@ -286,7 +298,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ces attaques et tout, oui.[1205][U+000F] Mais...[1205][U+000F]\nSi tu demandes si quoi que ce soit avant\ns'est passé ou non, je suis pas si sûre...",
+   "brut_fr": "Ces attaques et tout, oui.[1205][U+000F] Mais...[1205][U+000F] Si tu\ndemandes si quoi que ce soit avant s'est\npassé ou non, je suis pas si sûre...",
    "brut_en": "I[SP]mean,[SP]these[SP]attacks[SP]and[SP]stuff,[SP]sure.[1205][U+000F][SP]But...[1205][U+000F]\nIf[SP]you[SP]ask[SP]me[SP]whether[SP]anything[SP]before[SP]that\nhappened[SP]or[SP]not,[SP]I'm[SP]not[SP]so[SP]confident...",
    "data_size": 288,
    "budget": 280
@@ -343,13 +355,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Peut-être que la réalité reposait déjà"
+       "t": "Peut-être que la réalité"
       },
       {
        "nl": true
       },
       {
-       "t": "sur un consensus."
+       "t": "reposait déjà sur un consensus."
       }
      ]
     }
@@ -372,7 +384,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Peut-être que la réalité reposait déjà\nsur un consensus.",
+   "brut_fr": "Peut-être que la réalité\nreposait déjà sur un consensus.",
    "brut_en": "Maybe[SP]most[SP]of[SP]reality[SP]was[SP]based[SP]on[SP]common\nconsensus,[SP]even[SP]before.",
    "data_size": 150,
    "budget": 142
@@ -404,13 +416,19 @@
        "pause": true
       },
       {
-       "t": " Le problème"
+       "t": " Le"
       },
       {
        "nl": true
       },
       {
-       "t": "c'est leur contenu..."
+       "t": "problème"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " c'est leur contenu..."
       }
      ]
     }
@@ -451,7 +469,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Voici ce que je pense.[1205][U+000A] C'est merveilleux\nque des rumeurs deviennent vraies.[1205][U+000A] Le problème\nc'est leur contenu...",
+   "brut_fr": "Voici ce que je pense.[1205][U+000A] C'est merveilleux\nque des rumeurs deviennent vraies.[1205][U+000A] Le\nproblème[1205][U+000F] c'est leur contenu...",
    "brut_en": "Here's[SP]what[SP]I[SP]think.[1205][U+000A][SP]It's[SP]actually[SP]wonderful\nthat[SP]rumors[SP]are[SP]coming[SP]true.[1205][U+000A][SP]The[SP]problem[SP]is\nthe[SP]content[SP]of[SP]the[SP]rumors...",
    "data_size": 260,
    "budget": 252
@@ -465,13 +483,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ou plutôt, les désirs et pulsions enfouis"
+       "t": "Ou plutôt, les désirs et pulsions"
       },
       {
        "nl": true
       },
       {
-       "t": "au fond des gens."
+       "t": "enfouis au fond des gens."
       }
      ]
     }
@@ -494,7 +512,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ou plutôt, les désirs et pulsions enfouis\nau fond des gens.",
+   "brut_fr": "Ou plutôt, les désirs et pulsions\nenfouis au fond des gens.",
    "brut_en": "Or[SP]rather,[SP]the[SP]desires[SP]and[SP]impulses[SP]buried\ndeep[SP]within[SP]people.",
    "data_size": 142,
    "budget": 134
@@ -508,13 +526,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si ça reste, ce monde"
+       "t": "Si ça reste, ce monde n'est"
       },
       {
        "nl": true
       },
       {
-       "t": "n'est pas fait pour les humains..."
+       "t": "pas fait pour les humains..."
       }
      ]
     }
@@ -537,7 +555,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si ça reste, ce monde\nn'est pas fait pour les humains...",
+   "brut_fr": "Si ça reste, ce monde n'est\npas fait pour les humains...",
    "brut_en": "If[SP]those[SP]things[SP]can't[SP]be[SP]set[SP]aside,[SP]then[SP]this\nworld[SP]isn't[SP]fit[SP]for[SP]humans...",
    "data_size": 168,
    "budget": 160
@@ -582,13 +600,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "N'est-ce pas une ville"
+       "t": "N'est-ce pas une ville faite"
       },
       {
        "nl": true
       },
       {
-       "t": "faite pour les Idéaliens...?"
+       "t": "pour les Idéaliens...?"
       }
      ]
     }
@@ -611,7 +629,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N'est-ce pas une ville\nfaite pour les Idéaliens...?",
+   "brut_fr": "N'est-ce pas une ville faite\npour les Idéaliens...?",
    "brut_en": "Isn't[SP]this[SP]city[SP]already[SP]perfectly[SP]suited\nfor[SP]Idealians...?",
    "data_size": 134,
    "budget": 126
@@ -625,22 +643,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si toute la ville est en l'air, elle ne sera pas"
+       "t": "Si toute la ville est en l'air, elle ne"
       },
       {
        "nl": true
       },
       {
-       "t": "entraînée dans la destruction en bas..."
+       "t": "sera pas entraînée dans la destruction"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en bas..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Mais qu'arrive-t-il ensuite?"
+       "t": " Mais qu'arrive-t-il ensuite?"
       }
      ]
     }
@@ -672,7 +693,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si toute la ville est en l'air, elle ne sera pas\nentraînée dans la destruction en bas...[1205][U+000F]\nMais qu'arrive-t-il ensuite?",
+   "brut_fr": "Si toute la ville est en l'air, elle ne\nsera pas entraînée dans la destruction\nen bas...[1205][U+000F] Mais qu'arrive-t-il ensuite?",
    "brut_en": "If[SP]the[SP]entire[SP]city[SP]is[SP]in[SP]the[SP]air,[SP]it[SP]won't[SP]get\ndragged[SP]into[SP]the[SP]destruction[SP]down[SP]below...[1205][U+000F]\nBut[SP]what[SP]happens[SP]after[SP]that?",
    "data_size": 274,
    "budget": 266
@@ -717,13 +738,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Xibalba revient sur Terre"
+       "t": "Xibalba revient sur Terre dans"
       },
       {
        "nl": true
       },
       {
-       "t": "dans cet Oracle?"
+       "t": "cet Oracle?"
       },
       {
        "pause": true
@@ -782,7 +803,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Xibalba revient sur Terre\ndans cet Oracle?[1205][U+000F] Enfin...[1205][U+000A] Je suppose\nque ça n'a pas d'importance...",
+   "brut_fr": "Xibalba revient sur Terre dans\ncet Oracle?[1205][U+000F] Enfin...[1205][U+000A] Je suppose\nque ça n'a pas d'importance...",
    "brut_en": "Was[SP]there[SP]a[SP]line[SP]about[SP]Xibalba[SP]returning[SP]back\ndown[SP]to[SP]Earth[SP]in[SP]that[SP]Oracle?[1205][U+000F][SP]Well...[1205][U+000A][SP]I[SP]suppose\nit[SP]doesn't[SP]matter...",
    "data_size": 270,
    "budget": 262
@@ -802,13 +823,13 @@
        "nl": true
       },
       {
-       "t": "deviens une Idéalienne, je saurai mon but"
+       "t": "deviens une Idéalienne, je saurai mon"
       },
       {
        "nl": true
       },
       {
-       "t": "dans la vie. J'attendrai juste ça."
+       "t": "but dans la vie. J'attendrai juste ça."
       }
      ]
     }
@@ -837,7 +858,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon, je vais pas trop m'inquiéter. Si je\ndeviens une Idéalienne, je saurai mon but\ndans la vie. J'attendrai juste ça.",
+   "brut_fr": "Bon, je vais pas trop m'inquiéter. Si je\ndeviens une Idéalienne, je saurai mon\nbut dans la vie. J'attendrai juste ça.",
    "brut_en": "Yeah,[SP]I'm[SP]not[SP]going[SP]to[SP]worry[SP]too[SP]much.[SP]If[SP]I\nbecome[SP]an[SP]Idealian,[SP]I'll[SP]know[SP]what[SP]my[SP]purpose\nin[SP]life[SP]is[SP]then.[SP]I'll[SP]just[SP]wait[SP]for[SP]that.",
    "data_size": 308,
    "budget": 300
@@ -869,13 +890,19 @@
        "pause": true
       },
       {
-       "t": " Qu'on me remette mon but sur un plateau"
+       "t": " Qu'on me remette mon but sur un"
       },
       {
        "nl": true
       },
       {
-       "t": "comme ça... Ça me rendra vraiment heureuse...?"
+       "t": "plateau comme ça... Ça me rendra vraiment"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "heureuse...?"
       }
      ]
     }
@@ -913,7 +940,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais quand même...[1205][U+000F] Est-ce la meilleure\nfaçon...?[1205][U+000F] Qu'on me remette mon but sur un plateau\ncomme ça... Ça me rendra vraiment heureuse...?",
+   "brut_fr": "Mais quand même...[1205][U+000F] Est-ce la meilleure\nfaçon...?[1205][U+000F] Qu'on me remette mon but sur un\nplateau comme ça... Ça me rendra vraiment\nheureuse...?",
    "brut_en": "Then[SP]again...[1205][U+000F][SP]Is[SP]that[SP]really[SP]the[SP]best[SP]way...?[1205][U+000F]\nHaving[SP]my[SP]purpose[SP]just[SP]giftwrapped[SP]for[SP]me[SP]like\nthat...[SP]Will[SP]that[SP]really[SP]make[SP]me[SP]happy...?",
    "data_size": 324,
    "budget": 316
@@ -982,13 +1009,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bonjour! Bienvenue chez Etheria."
+       "t": "Bonjour! Bienvenue chez"
       },
       {
        "nl": true
       },
       {
-       "t": "Que faire pour vous?"
+       "t": "Etheria. Que faire pour vous?"
       }
      ]
     }
@@ -1011,7 +1038,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bonjour! Bienvenue chez Etheria.\nQue faire pour vous?",
+   "brut_fr": "Bonjour! Bienvenue chez\nEtheria. Que faire pour vous?",
    "brut_en": "Why,[SP]hello![SP]Welcome[SP]to[SP]Etheria.[SP]What[SP]can[SP]we\ndo[SP]for[SP]you[SP]today?",
    "data_size": 156,
    "budget": 148
@@ -1043,7 +1070,7 @@
    "choix_fr": {
     "options": [
      "Soigner",
-     "Parler à l'esthéticienne",
+     "Parler à l'esthéticienne[1205]",
      "Laisser tomber",
      "Quitter"
     ],
@@ -1066,7 +1093,7 @@
      }
     ]
    },
-   "brut_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soigner\nParler à l'esthéticienne\nLaisser tomber\nQuitter",
+   "brut_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soigner\nParler à l'esthéticienne[1205][U+000F]\nLaisser tomber\nQuitter",
    "brut_en": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
    "data_size": 212,
    "budget": 204
@@ -1241,13 +1268,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a un coût, mais nos méthodes"
+       "t": "Il y a un coût, mais nos méthodes vous"
       },
       {
        "nl": true
       },
       {
-       "t": "vous affectent tous à la fois. Croyez-moi,"
+       "t": "affectent tous à la fois. Croyez-moi,"
       },
       {
        "nl": true
@@ -1282,7 +1309,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a un coût, mais nos méthodes\nvous affectent tous à la fois. Croyez-moi,\nvous économiserez à long terme.",
+   "brut_fr": "Il y a un coût, mais nos méthodes vous\naffectent tous à la fois. Croyez-moi,\nvous économiserez à long terme.",
    "brut_en": "There[SP]is[SP]a[SP]cost[SP]involved,[SP]but[SP]our[SP]methods\naffect[SP]all[SP]of[SP]you[SP]at[SP]once.[SP]Believe[SP]me,[SP]in\nthe[SP]long[SP]run,[SP]you'll[SP]save[SP]money.",
    "data_size": 266,
    "budget": 258
@@ -1351,19 +1378,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh? Vous semblez tous en bonne santé."
+       "t": "Oh? Vous semblez tous en bonne santé. Pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Pas besoin de traitement"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pour l'instant..."
+       "t": "besoin de traitement pour l'instant..."
       }
      ]
     }
@@ -1386,7 +1407,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh? Vous semblez tous en bonne santé.\nPas besoin de traitement\npour l'instant...",
+   "brut_fr": "Oh? Vous semblez tous en bonne santé. Pas\nbesoin de traitement pour l'instant...",
    "brut_en": "Oh?[SP]But[SP]you[SP]all[SP]seem[SP]so[SP]healthy.[SP]I[SP]don't[SP]see\nthe[SP]need[SP]for[SP]any[SP]treatment[SP]at[SP]the[SP]moment...",
    "data_size": 210,
    "budget": 202
@@ -1429,7 +1450,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
@@ -1461,7 +1482,7 @@
      }
     ]
    },
-   "brut_fr": "Bien. Ce sera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Bien. Ce sera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?\n[1208][0002]Yes\nNo",
    "data_size": 220,
    "budget": 212
@@ -1475,19 +1496,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quoi? Pourquoi pas? Vous doutez"
+       "t": "Quoi? Pourquoi pas? Vous doutez de"
       },
       {
        "nl": true
       },
       {
-       "t": "de l'esthétique Éther?"
+       "t": "l'esthétique Éther? Les croyants seront"
       },
       {
        "nl": true
       },
       {
-       "t": "Les croyants seront sauvés."
+       "t": "sauvés."
       }
      ]
     }
@@ -1510,7 +1531,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quoi? Pourquoi pas? Vous doutez\nde l'esthétique Éther?\nLes croyants seront sauvés.",
+   "brut_fr": "Quoi? Pourquoi pas? Vous doutez de\nl'esthétique Éther? Les croyants seront\nsauvés.",
    "brut_en": "What?[SP]Why[SP]not?[SP]Don't[SP]you[SP]trust[SP]Ether[SP]esthetics?\nThose[SP]who[SP]believe[SP]will[SP]be[SP]saved.[SP]Very[SP]much[SP]so.",
    "data_size": 222,
    "budget": 214
@@ -1536,13 +1557,13 @@
        "nl": true
       },
       {
-       "t": "traitement vous envelopper..."
+       "t": "traitement vous envelopper... Esthétique"
       },
       {
        "nl": true
       },
       {
-       "t": "Esthétique Éther!"
+       "t": "Éther!"
       }
      ]
     }
@@ -1571,7 +1592,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Okay! Détendez-vous...[1205][U+000F] laissez notre\ntraitement vous envelopper...\nEsthétique Éther!",
+   "brut_fr": "Okay! Détendez-vous...[1205][U+000F] laissez notre\ntraitement vous envelopper... Esthétique\nÉther!",
    "brut_en": "Okay![SP]Just[SP]relax...[1205][U+000F][SP]and[SP]let[SP]our[SP]shop's[SP]unique\ntreatment[SP]wash[SP]over[SP]you...[SP]Ether[SP]esthetics!",
    "data_size": 216,
    "budget": 208
@@ -1591,13 +1612,7 @@
        "nl": true
       },
       {
-       "t": "c'était comment ? Bien ?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Très bien ?"
+       "t": "c'était comment? Bien? Très bien?"
       }
      ]
     }
@@ -1620,7 +1635,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Traitement terminé. L'esthétique Éther,\nc'était comment ? Bien ?\nTrès bien ?",
+   "brut_fr": "Traitement terminé. L'esthétique Éther,\nc'était comment? Bien? Très bien?",
    "brut_en": "That[SP]concludes[SP]our[SP]treatment.[SP]How[SP]would[SP]you[SP]say\nthe[SP]Ether[SP]esthetics[SP]made[SP]you[SP]feel?[SP]Good?[SP]Great?",
    "data_size": 224,
    "budget": 216
@@ -1677,22 +1692,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je me demande si ça réduira"
+       "t": "Je me demande si ça réduira le nombre"
       },
       {
        "nl": true
       },
       {
-       "t": "le nombre de gens intéressés par les soins."
+       "t": "de gens intéressés par les soins."
       },
       {
        "pause": true
       },
       {
+       "t": " Ça"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Ça pourrait être un problème..."
+       "t": "pourrait être un problème..."
       }
      ]
     }
@@ -1724,7 +1742,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me demande si ça réduira\nle nombre de gens intéressés par les soins.[1205][U+000F]\nÇa pourrait être un problème...",
+   "brut_fr": "Je me demande si ça réduira le nombre\nde gens intéressés par les soins.[1205][U+000F] Ça\npourrait être un problème...",
    "brut_en": "Though[SP]I[SP]wonder[SP]if[SP]that[SP]will[SP]reduce[SP]the[SP]number\nof[SP]people[SP]interested[SP]in[SP]esthetic[SP]treatment.[1205][U+000F]\nThat[SP]could[SP]be[SP]a[SP]problem...",
    "data_size": 272,
    "budget": 264
@@ -1832,7 +1850,7 @@
    "choix_fr": {
     "options": [
      "Soigner",
-     "Parler à l'esthéticienne",
+     "Parler à l'esthéticienne[1205]",
      "Laisser tomber",
      "Quitter"
     ],
@@ -1855,7 +1873,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler à l'esthéticienne\nLaisser tomber\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler à l'esthéticienne[1205][U+000F]\nLaisser tomber\nQuitter",
    "brut_en": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
    "data_size": 200,
    "budget": 192
@@ -1920,19 +1938,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ahh, vous n'avez pas assez"
+       "t": "Ahh, vous n'avez pas assez d'argent..."
       },
       {
        "nl": true
       },
       {
-       "t": "d'argent... Nos soins révolutionnaires"
+       "t": "Nos soins révolutionnaires sont chers."
       },
       {
        "nl": true
       },
       {
-       "t": "sont chers. Toutes mes excuses."
+       "t": "Toutes mes excuses."
       }
      ]
     }
@@ -1961,7 +1979,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ahh, vous n'avez pas assez\nd'argent... Nos soins révolutionnaires\nsont chers. Toutes mes excuses.",
+   "brut_fr": "Ahh, vous n'avez pas assez d'argent...\nNos soins révolutionnaires sont chers.\nToutes mes excuses.",
    "brut_en": "Ahh,[SP]I[SP]don't[SP]think[SP]you[SP]have[SP]enough[SP]money...\nRevolutionary[SP]treatment[SP]like[SP]ours[SP]doesn't\ncome[SP]cheap.[SP]My[SP]apologies.",
    "data_size": 256,
    "budget": 248

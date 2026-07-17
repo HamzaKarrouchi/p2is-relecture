@@ -10,7 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et bien? C'est quoi ces trous? Quelqu'un essaierait d'épier ma personne à travers?"
+       "t": "Et bien? C'est quoi ces trous? Quelqu'un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "essaierait d'épier ma personne à travers?"
       }
      ]
     }
@@ -33,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et bien? C'est quoi ces trous? Quelqu'un essaierait d'épier ma personne à travers?",
+   "brut_fr": "Et bien? C'est quoi ces trous? Quelqu'un\nessaierait d'épier ma personne à travers?",
    "brut_en": "Hm?[SP]What's[SP]with[SP]these[SP]holes?[SP]Is[SP]someone[SP]trying\nto[SP]peep[SP]through[SP]to[SP]catch[SP]a[SP]glimpse[SP]of[SP]moi?",
    "data_size": 204,
    "budget": 196
@@ -109,13 +115,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C... C'est pas drôle...! Mon beau visage a"
+       "t": "C... C'est pas drôle...! Mon beau visage"
       },
       {
        "nl": true
       },
       {
-       "t": "failli être transformé en gruyère..."
+       "t": "a failli être transformé en gruyère..."
       }
      ]
     }
@@ -138,7 +144,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C... C'est pas drôle...! Mon beau visage a\nfailli être transformé en gruyère...",
+   "brut_fr": "C... C'est pas drôle...! Mon beau visage\na failli être transformé en gruyère...",
    "brut_en": "Th...[SP]That[SP]wasn't[SP]funny...![SP]My[SP]beautiful[SP]face\nnearly[SP]got[SP]zapped[SP]full[SP]of[SP]holes...",
    "data_size": 186,
    "budget": 178
@@ -152,16 +158,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je vais tellement te tuer quand tout sera fini,"
+       "t": "Je vais tellement te tuer quand tout"
       },
       {
        "nl": true
       },
       {
-       "t": "t'es au courant!? Et c'était quoi ce"
+       "t": "sera fini, t'es au courant!? Et c'était"
       },
       {
        "nl": true
+      },
+      {
+       "t": "quoi ce"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
       },
       {
        "enc": "Je vous en prie"
@@ -199,7 +214,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vais tellement te tuer quand tout sera fini,\nt'es au courant!? Et c'était quoi ce\n[1432][NULL][NULL][0014]Je vous en prie[1432][NULL][NULL][0014] débile!?",
+   "brut_fr": "Je vais tellement te tuer quand tout\nsera fini, t'es au courant!? Et c'était\nquoi ce[1205][U+000F] [1432][NULL][NULL][0014]Je vous en prie[1432][NULL][NULL][0014] débile!?",
    "brut_en": "I[SP]am[SP]so[SP]going[SP]to[SP]kill[SP]you[SP]after[SP]this[SP]is[SP]all\nover,[SP]you[SP]know[SP]that!?[SP]What[SP]was[SP]that[SP]stupid\n[1432][NULL][NULL][0014]Feast[SP]your[SP]eyes[1432][NULL][NULL][0014][SP]stunt!?",
    "data_size": 258,
    "budget": 250

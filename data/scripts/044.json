@@ -133,7 +133,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ces brûlures sur tes mains... Qu'est-ce qui se passe?"
+       "t": "Ces brûlures sur tes mains..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qu'est-ce qui se passe?"
       }
      ]
     }
@@ -156,7 +162,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ces brûlures sur tes mains... Qu'est-ce qui se passe?",
+   "brut_fr": "Ces brûlures sur tes mains...\nQu'est-ce qui se passe?",
    "brut_en": "What[SP]the--Those[SP]burns[SP]on[SP]your[SP]hands...\nWhat[SP]in[SP]the[SP]world...?",
    "data_size": 146,
    "budget": 138
@@ -170,7 +176,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'est-ce qu'elle a tout d'un coup!? Fais quelque chose, "
+       "t": "Qu'est-ce qu'elle a tout d'un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "coup!? Fais quelque chose, "
       },
       {
        "hero": "prenom"
@@ -205,7 +217,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'est-ce qu'elle a tout d'un coup!? Fais quelque chose, [1113]!",
+   "brut_fr": "Qu'est-ce qu'elle a tout d'un\ncoup!? Fais quelque chose, [1113]!",
    "brut_en": "What's[SP]with[SP]her[SP]all[SP]of[SP]a[SP]sudden!?[SP]You[SP]gotta\ndo[SP]something,[SP][1113]!",
    "data_size": 144,
    "budget": 136
@@ -294,25 +306,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pardon...Ça va maintenant..."
+       "t": "Pardon... Ça va maintenant..."
       },
       {
        "pause": true
       },
       {
+       "t": " C'est juste..."
+      },
+      {
        "nl": true
       },
       {
-       "t": "C'est juste... j'ai si peur de ses feux..."
+       "t": "j'ai si peur de ses feux..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "C'est honteux...?"
+       "t": " C'est honteux...?"
       }
      ]
     }
@@ -347,7 +359,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pardon...Ça va maintenant...[1205][001E]\nC'est juste... j'ai si peur de ses feux...[1205][001E]\nC'est honteux...?",
+   "brut_fr": "Pardon... Ça va maintenant...[1205][001E] C'est juste...\nj'ai si peur de ses feux...[1205][001E] C'est honteux...?",
    "brut_en": "I'm[SP]sorry...[SP]I'm...[SP]I'm[SP]okay[SP]now...[1205][001E]\nI'm[SP]just...[SP]so[SP]scared[SP]of[SP]his[SP]fires...[1205][001E]\nShameful,[SP]isn't[SP]it...?",
    "data_size": 222,
    "budget": 214
@@ -515,10 +527,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Ça va."
+       "t": " Ça va."
       }
      ]
     }
@@ -556,7 +565,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci, [1113]-kun.[1205][001E] T'es gentil... [1205][001E]\nÇa va.",
+   "brut_fr": "Merci, [1113]-kun.[1205][001E] T'es gentil... [1205][001E] Ça va.",
    "brut_en": "Thanks,[SP][1113]-kun.[1205][001E][SP]You're[SP]so[SP]kind...[1205][001E]\nI'm[SP]okay[SP]now.",
    "data_size": 122,
    "budget": 114
@@ -570,19 +579,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Desolée pour ça. Allez, faut"
+       "t": "Desolée pour ça. Allez, faut trouver la"
       },
       {
        "nl": true
       },
       {
-       "t": "trouver la prochaine cible du Cercle Masqué"
+       "t": "prochaine cible du Cercle Masqué"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Voyons..."
+       "t": " Voyons..."
       }
      ]
     }
@@ -611,7 +620,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Desolée pour ça. Allez, faut\ntrouver la prochaine cible du Cercle Masqué\nVoyons...",
+   "brut_fr": "Desolée pour ça. Allez, faut trouver la\nprochaine cible du Cercle Masqué[1205][U+000F] Voyons...",
    "brut_en": "Sorry[SP]about[SP]that,[SP]everyone.[SP]C'mon,[SP]we[SP]need\nto[SP]find[SP]the[SP]Masked[SP]Circle's[SP]next[SP]target!\nLet's[SP]see[SP]here...",
    "data_size": 224,
    "budget": 216
@@ -631,13 +640,13 @@
        "nl": true
       },
       {
-       "t": "Quand les vents changent"
+       "t": "Quand les vents changent Tous"
       },
       {
        "nl": true
       },
       {
-       "t": "Tous descendent souriant aux enfers..."
+       "t": "descendent souriant aux enfers..."
       }
      ]
     }
@@ -666,7 +675,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Douze bêtes couronnent les Pleiades\nQuand les vents changent\nTous descendent souriant aux enfers...",
+   "brut_fr": "Douze bêtes couronnent les Pleiades\nQuand les vents changent Tous\ndescendent souriant aux enfers...",
    "brut_en": "Twelve[SP]beasts[SP]crown[SP]the[SP]Pleiades\nWhen[SP]the[SP]winds[SP]of[SP]change[SP]blow\nAll[SP]descend[SP]with[SP]smiles[SP]to[SP]the[SP]netherworld...",
    "data_size": 238,
    "budget": 230
@@ -735,36 +744,45 @@
        "pause": true
       },
       {
-       "t": " Ça ne peut être que"
+       "t": " Ça ne peut être que l'Oracle de"
       },
       {
        "nl": true
       },
       {
-       "t": "l'Oracle de Maia! M-Mais qui...!?"
+       "t": "Maia! M-Mais qui...!?"
       },
       {
-       "nl": true
+       "pause": true
+      },
+      {
+       "t": "  "
       }
      ]
     },
     {
-     "nom": "Maya",
+     "nom": "Maya Excusez-moi...",
      "seg": [
       {
-       "t": "Excusez-moi... Vous êtes Mme Okamura de Seven,"
+       "t": "Vous êtes Mme Okamura de "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Seven, n'est-ce pas?"
       },
       {
        "nl": true
       },
       {
-       "t": "n'est-ce pas? Je suis Maya Amano, de la"
+       "t": "Je suis Maya Amano, de la redaction de"
       },
       {
        "nl": true
       },
       {
-       "t": "redaction de Coolest."
+       "t": "Coolest."
       }
      ]
     }
@@ -834,7 +852,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La [1432][NULL][NULL][0014]chanson étrangere[1432][NULL][NULL][0014]... Les [1432][NULL][NULL][0014]flammes de\nl'expiation[1432][NULL][NULL][0014]...[1205][001E] Ça ne peut être que\nl'Oracle de Maia! M-Mais qui...!?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nExcusez-moi... Vous êtes Mme Okamura de Seven,\nn'est-ce pas? Je suis Maya Amano, de la\nredaction de Coolest.",
+   "brut_fr": "La [1432][NULL][NULL][0014]chanson étrangere[1432][NULL][NULL][0014]... Les [1432][NULL][NULL][0014]flammes de\nl'expiation[1432][NULL][NULL][0014]...[1205][001E] Ça ne peut être que l'Oracle de\nMaia! M-Mais qui...!?[1205][U+000F] [E1][E2] [E3][E4][NULL][NULL]\"Maya Excusez-moi...\nVous êtes Mme Okamura de [1205][U+000F] Seven, n'est-ce pas?\nJe suis Maya Amano, de la redaction de\nCoolest.",
    "brut_en": "The[SP][1432][NULL][NULL][0014]foreign[SP]song[1432][NULL][NULL][0014]...[SP]the[SP][1432][NULL][NULL][0014]flames[SP]of\nexpiation[1432][NULL][NULL][0014]...[1205][001E][SP]It[SP]can't[SP]be[SP]anything[SP]but\nthe[SP]Oracle[SP]of[SP]Maia![SP]B-But[SP]who...!?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nExcuse[SP]me...[SP]You're[SP]Ms.[SP]Okamura[SP]from[SP]Sevens,\nright?[SP]My[SP]name[SP]is[SP]Maya[SP]Amano,[SP]I'm[SP]with\nCoolest's[SP]editorial[SP]division.",
    "data_size": 534,
    "budget": 526
@@ -848,22 +866,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous avez parlé de l'Oracle de Maia..."
+       "t": "Vous avez parlé de l'Oracle de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maia..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Vous en savez quelque chose? Si ça ne vous"
+       "t": " Vous en savez quelque chose?"
       },
       {
        "nl": true
       },
       {
-       "t": "dit rien, j'aimerais--"
+       "t": "Si ça ne vous dit rien, j'aimerais--"
       }
      ]
     }
@@ -895,7 +916,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous avez parlé de l'Oracle de Maia...[1205][001E]\nVous en savez quelque chose? Si ça ne vous\ndit rien, j'aimerais--",
+   "brut_fr": "Vous avez parlé de l'Oracle de\nMaia...[1205][001E] Vous en savez quelque chose?\nSi ça ne vous dit rien, j'aimerais--",
    "brut_en": "You[SP]mentioned[SP]the[SP]Oracle[SP]of[SP]Maia[SP]just[SP]now...[1205][001E]\nDo[SP]you[SP]know[SP]something[SP]about[SP]it?[SP]If[SP]you[SP]don't\nmind,[SP]I'd[SP]like--",
    "data_size": 238,
    "budget": 230
@@ -976,13 +997,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "*M'dites pas qu'vous êtes du"
+       "t": "*M'dites pas qu'vous êtes"
       },
       {
        "nl": true
       },
       {
-       "t": "Dernier Bataillon!?"
+       "t": "du Dernier Bataillon!?"
       }
      ]
     }
@@ -1005,7 +1026,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*M'dites pas qu'vous êtes du\nDernier Bataillon!?",
+   "brut_fr": "*M'dites pas qu'vous êtes\ndu Dernier Bataillon!?",
    "brut_en": "*gasp*[SP]D-Don't[SP]tell[SP]me[SP]you're[SP]part[SP]of[SP]the\nLast[SP]Battalion...!?",
    "data_size": 154,
    "budget": 146
@@ -1062,19 +1083,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Infiltrer une espionne parmi les élèves pour nous"
+       "t": "Infiltrer une espionne parmi les élèves"
       },
       {
        "nl": true
       },
       {
-       "t": "avoir, Kashihara et moi... Sale ordure!"
+       "t": "pour nous avoir, Kashihara et moi... Sale"
       },
       {
        "nl": true
       },
       {
-       "t": "Sales chiens, sbires du Führer!"
+       "t": "ordure!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sales chiens, sbires du Führer!"
       }
      ]
     }
@@ -1103,7 +1130,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Infiltrer une espionne parmi les élèves pour nous\navoir, Kashihara et moi... Sale ordure!\nSales chiens, sbires du Führer!",
+   "brut_fr": "Infiltrer une espionne parmi les élèves\npour nous avoir, Kashihara et moi... Sale\nordure![1205][U+000F] Sales chiens, sbires du Führer!",
    "brut_en": "Sneaking[SP]a[SP]spy[SP]in[SP]with[SP]the[SP]students[SP]to[SP]deal\nwith[SP]Kashihara[SP]and[SP]me[SP]too...[SP]Dirty[SP]bastard!\nNasty[SP]mongrels[SP]and[SP]minions[SP]of[SP]the[SP]Fuhrer!",
    "data_size": 290,
    "budget": 282
@@ -1117,13 +1144,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu... C'était quoi!? Elle avait l'air d'en"
+       "t": "Qu... C'était quoi!? Elle avait"
       },
       {
        "nl": true
       },
       {
-       "t": "savoir long..."
+       "t": "l'air d'en savoir long..."
       }
      ]
     }
@@ -1146,7 +1173,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu... C'était quoi!? Elle avait l'air d'en\nsavoir long...",
+   "brut_fr": "Qu... C'était quoi!? Elle avait\nl'air d'en savoir long...",
    "brut_en": "Wh...[SP]What[SP]was[SP]that[SP]all[SP]about!?[SP]She[SP]seemed\nto[SP]know[SP]a[SP]lot...",
    "data_size": 140,
    "budget": 132
@@ -1203,13 +1230,19 @@
        "nl": true
       },
       {
-       "t": "Une pote à moi connait bien ce genre de choses,"
+       "t": "Une pote à moi connait bien ce genre de"
       },
       {
        "nl": true
       },
       {
-       "t": "je vais essayer de l'appeler."
+       "t": "choses,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " je vais essayer de l'appeler."
       }
      ]
     }
@@ -1238,7 +1271,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cet Oracle doit être un truc occulte.\nUne pote à moi connait bien ce genre de choses,\nje vais essayer de l'appeler.",
+   "brut_fr": "Cet Oracle doit être un truc occulte.\nUne pote à moi connait bien ce genre de\nchoses,[1205][U+000F] je vais essayer de l'appeler.",
    "brut_en": "This[SP]Oracle[SP]is[SP]probably[SP]an[SP]occult[SP]thing.\nA[SP]friend[SP]of[SP]mine[SP]knows[SP]a[SP]lot[SP]about[SP]that[SP]stuff,\nso[SP]I'll[SP]try[SP]calling[SP]her[SP]up.",
    "data_size": 256,
    "budget": 248
