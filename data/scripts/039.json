@@ -10,19 +10,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Me faites pas répéter ! C'est n'importe"
+       "t": "Me faites pas répéter! C'est n'importe"
       },
       {
        "nl": true
       },
       {
-       "t": "quoi que je sois douée en anglais."
+       "t": "quoi que je sois douée en anglais. Je"
       },
       {
        "nl": true
       },
       {
-       "t": "Je baragouine à peine un mot !"
+       "t": "baragouine à peine un mot!"
       }
      ]
     }
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Me faites pas répéter ! C'est n'importe\nquoi que je sois douée en anglais.\nJe baragouine à peine un mot !",
+   "brut_fr": "Me faites pas répéter! C'est n'importe\nquoi que je sois douée en anglais. Je\nbaragouine à peine un mot!",
    "brut_en": "Don't[SP]make[SP]me[SP]say[SP]it[SP]over[SP]and[SP]over![SP]It's\ncomplete[SP]BS[SP]that[SP]I'm[SP]any[SP]good[SP]at[SP]English.\nI[SP]can[SP]barely[SP]speak[SP]a[SP]word[SP]of[SP]it!",
    "data_size": 254,
    "budget": 246
@@ -65,19 +65,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tous les blonds parlent anglais !?"
+       "t": "Tous les blonds parlent anglais!? C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est si bizarre qu'une fille aux yeux"
+       "t": "si bizarre qu'une fille aux yeux bleus"
       },
       {
        "nl": true
       },
       {
-       "t": "bleus parle japonais ? J'suis un monstre !?"
+       "t": "parle japonais? J'suis un monstre "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " !?"
       }
      ]
     }
@@ -106,7 +112,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tous les blonds parlent anglais !?\nC'est si bizarre qu'une fille aux yeux\nbleus parle japonais ? J'suis un monstre !?",
+   "brut_fr": "Tous les blonds parlent anglais!? C'est\nsi bizarre qu'une fille aux yeux bleus\nparle japonais? J'suis un monstre [1205][U+000F] !?",
    "brut_en": "Do[SP]all[SP]blonde-haired[SP]people[SP]automatically\nspeak[SP]English!?[SP]Is[SP]it[SP]weird[SP]for[SP]a[SP]blue-eyed\ngirl[SP]to[SP]know[SP]Japanese?[SP]Am[SP]I[SP]some[SP]freak!?",
    "data_size": 276,
    "budget": 268
@@ -126,13 +132,13 @@
        "pause": true
       },
       {
-       "t": " T'es"
+       "t": " T'es cool"
       },
       {
        "nl": true
       },
       {
-       "t": "cool car tu te démarques, Lisa."
+       "t": "car tu te démarques, Lisa."
       }
      ]
     }
@@ -161,7 +167,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T-T'es pas bizarre...[1205][001E] T'es\ncool car tu te démarques, Lisa.",
+   "brut_fr": "T-T'es pas bizarre...[1205][001E] T'es cool\ncar tu te démarques, Lisa.",
    "brut_en": "Y-You're[SP]not[SP]weird[SP]at[SP]all...[1205][001E][SP]You're[SP]cool\nbecause[SP]you[SP]stand[SP]out,[SP]Lisa.",
    "data_size": 164,
    "budget": 156
@@ -199,10 +205,19 @@
        "pause": true
       },
       {
+       "t": " J'en"
+      },
+      {
        "nl": true
       },
       {
-       "t": "J'en ai marre que les autres me définissent!"
+       "t": "ai marre que les autres me "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " définissent!"
       }
      ]
     }
@@ -249,7 +264,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Donc j'étais harcelée pour ça avant, mais\ndésormais c'est [1432][NULL][NULL][0014]cool[1432][NULL][NULL][0014]? C'est [1432][NULL][NULL][0014]unique[1432][NULL][NULL][0014]?[1205][001E]\nJ'en ai marre que les autres me définissent!",
+   "brut_fr": "Donc j'étais harcelée pour ça avant, mais\ndésormais c'est [1432][NULL][NULL][0014]cool[1432][NULL][NULL][0014]? C'est [1432][NULL][NULL][0014]unique[1432][NULL][NULL][0014]?[1205][001E] J'en\nai marre que les autres me [1205][U+000F] définissent!",
    "brut_en": "Oh,[SP]so[SP]I[SP]was[SP]bullied[SP]for[SP]it[SP]as[SP]a[SP]kid,[SP]but\nnow[SP]it's[SP][1432][NULL][NULL][0014]cool[1432][NULL][NULL][0014]?[SP]It's[SP][1432][NULL][NULL][0014]unique[1432][NULL][NULL][0014]?[1205][001E][SP]I'm[SP]tired\nof[SP]other[SP]people[SP]deciding[SP]how[SP]to[SP]define[SP]me!",
    "data_size": 304,
    "budget": 296
@@ -272,13 +287,13 @@
        "nl": true
       },
       {
-       "t": "Mais tous croient que les étrangers"
+       "t": "Mais tous croient que les étrangers le"
       },
       {
        "nl": true
       },
       {
-       "t": "le parlent..."
+       "t": "parlent..."
       },
       {
        "pause": true
@@ -322,7 +337,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mon père ne m'a jamais appris l'anglais...[1205][001E]\nMais tous croient que les étrangers\nle parlent...[1205][001E] Faut se démarquer...",
+   "brut_fr": "Mon père ne m'a jamais appris l'anglais...[1205][001E]\nMais tous croient que les étrangers le\nparlent...[1205][001E] Faut se démarquer...",
    "brut_en": "My[SP]dad[SP]never[SP]taught[SP]me[SP]a[SP]word[SP]of[SP]English...[1205][001E]\nBut[SP]everyone[SP]assumes[SP]all[SP]foreigners[SP]can\nspeak[SP]it...[1205][001E][SP]They[SP]have[SP]to[SP]stand[SP]out...",
    "data_size": 274,
    "budget": 266
@@ -342,25 +357,19 @@
        "pause": true
       },
       {
-       "t": " Je... Je suis"
+       "t": " Je... Je suis comme tout"
       },
       {
        "nl": true
       },
       {
-       "t": "comme tout le monde..."
+       "t": "le monde..."
       },
       {
        "pause": true
       },
       {
-       "t": " Juste une"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "fille normale..."
+       "t": " Juste une fille normale..."
       }
      ]
     }
@@ -395,7 +404,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Que dois-je faire?[1205][001E] Je... Je suis\ncomme tout le monde...[1205][001E] Juste une\nfille normale...",
+   "brut_fr": "Que dois-je faire?[1205][001E] Je... Je suis comme tout\nle monde...[1205][001E] Juste une fille normale...",
    "brut_en": "What[SP]am[SP]I[SP]supposed[SP]to[SP]do?[1205][001E][SP]I'm...[SP]I'm[SP]just\nlike[SP]anyone[SP]else...[1205][001E][SP]Just[SP]a[SP]normal[SP]girl...",
    "data_size": 198,
    "budget": 190
@@ -464,19 +473,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais dans ce cas, on peut pas"
+       "t": "Mais dans ce cas, on peut pas t'abandonner"
       },
       {
        "nl": true
       },
       {
-       "t": "t'abandonner maintenant. Viens"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "avec nous, ok?"
+       "t": "maintenant. Viens avec nous, ok?"
       }
      ]
     }
@@ -499,7 +502,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais dans ce cas, on peut pas\nt'abandonner maintenant. Viens\navec nous, ok?",
+   "brut_fr": "Mais dans ce cas, on peut pas t'abandonner\nmaintenant. Viens avec nous, ok?",
    "brut_en": "But[SP]if[SP]that's[SP]how[SP]it[SP]is,[SP]then[SP]we[SP]really\ncan't[SP]abandon[SP]you[SP]now.[SP]Come[SP]with[SP]us,[SP]okay?",
    "data_size": 186,
    "budget": 178
@@ -513,19 +516,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sheba a raison! Que Maître Joker"
+       "t": "Sheba a raison! Que Maître Joker s'occupe"
       },
       {
        "nl": true
       },
       {
-       "t": "s'occupe de toi, et tu parleras"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "un anglais de pro!"
+       "t": "de toi, et tu parleras un anglais de pro!"
       }
      ]
     }
@@ -554,7 +551,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sheba a raison! Que Maître Joker\ns'occupe de toi, et tu parleras\nun anglais de pro!",
+   "brut_fr": "Sheba a raison! Que Maître Joker s'occupe\nde toi, et tu parleras un anglais de pro!",
    "brut_en": "Sheba's[SP]right![SP]You[SP]just[SP]need[SP]to[SP]get\nMaster[SP]Joker[SP]to[SP]fix[SP]you[SP]up[SP]so[SP]you[SP]can\nspeak[SP]English[SP]like[SP]a[SP]pro!",
    "data_size": 220,
    "budget": 212
@@ -568,13 +565,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je le savais! Vous êtes du"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Cercle Masqué!"
+       "t": "Je le savais! Vous êtes du Cercle Masqué!"
       }
      ]
     }
@@ -591,7 +582,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je le savais! Vous êtes du\nCercle Masqué!",
+   "brut_fr": "Je le savais! Vous êtes du Cercle Masqué!",
    "brut_en": "I[SP]knew[SP]it![SP]You[SP]two[SP]are[SP]in[SP]the[SP]Masked[SP]Circle!",
    "data_size": 112,
    "budget": 104
@@ -605,13 +596,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lisa... Quel est ton rêve? Pourquoi ne"
+       "t": "Lisa... Quel est ton rêve? Pourquoi"
       },
       {
        "nl": true
       },
       {
-       "t": "pas l'avoir dit à Maître Joker?"
+       "t": "ne pas l'avoir dit à Maître Joker?"
       }
      ]
     }
@@ -634,7 +625,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lisa... Quel est ton rêve? Pourquoi ne\npas l'avoir dit à Maître Joker?",
+   "brut_fr": "Lisa... Quel est ton rêve? Pourquoi\nne pas l'avoir dit à Maître Joker?",
    "brut_en": "Lisa-kun...[SP]What's[SP]your[SP]dream?[SP]Why[SP]didn't\nyou[SP]tell[SP]it[SP]to[SP]Master[SP]Joker?",
    "data_size": 164,
    "budget": 156
@@ -691,19 +682,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Non. Tu n'avais aucun rêve à lui dire."
+       "t": "Non. Tu n'avais aucun rêve à lui"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dire."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Ça a dû être douloureux d'être avec"
+       "t": " Ça a dû être douloureux"
       },
       {
        "nl": true
+      },
+      {
+       "t": "d'être avec "
       },
       {
        "hero": "nom"
@@ -747,7 +744,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non. Tu n'avais aucun rêve à lui dire.[1205][001E]\nÇa a dû être douloureux d'être avec\n[1112] et les autres.",
+   "brut_fr": "Non. Tu n'avais aucun rêve à lui\ndire.[1205][001E] Ça a dû être douloureux\nd'être avec [1112] et les autres.",
    "brut_en": "No.[SP]You[SP]had[SP]no[SP]dream[SP]to[SP]tell[SP]him.[1205][001E][SP]It[SP]must\nhave[SP]been[SP]painful[SP]for[SP]you,[SP]being[SP]with\n[1112]-kun[SP]and[SP]the[SP]others.",
    "data_size": 230,
    "budget": 222
@@ -825,25 +822,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça te mortifie... C'est pour ça que tu"
+       "t": "Ça te mortifie... C'est pour ça"
       },
       {
        "nl": true
       },
       {
-       "t": "te disputes avec le boss, et que tu"
+       "t": "que tu te disputes avec le boss,"
       },
       {
        "nl": true
       },
       {
-       "t": "t'accroches à "
+       "t": "et que tu t'accroches à "
       },
       {
        "hero": "nom"
       },
       {
-       "t": ". Non ?"
+       "t": ". Non?"
       }
      ]
     }
@@ -878,7 +875,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça te mortifie... C'est pour ça que tu\nte disputes avec le boss, et que tu\nt'accroches à [1112]. Non ?",
+   "brut_fr": "Ça te mortifie... C'est pour ça\nque tu te disputes avec le boss,\net que tu t'accroches à [1112]. Non?",
    "brut_en": "It[SP]mortifies[SP]you...[SP]That's[SP]why[SP]you[SP]keep\nsquabbling[SP]with[SP]the[SP]gang[SP]boss,[SP]why[SP]you\ncontinue[SP]to[SP]cling[SP]to[SP][1112]-kun.[SP]No?",
    "data_size": 244,
    "budget": 236
@@ -898,10 +895,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Mais je l'ai perdu..."
+       "t": " Mais je l'ai perdu..."
       }
      ]
     }
@@ -924,7 +918,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J-J'avais un rêve![1205][001E]\nMais je l'ai perdu...",
+   "brut_fr": "J-J'avais un rêve![1205][001E] Mais je l'ai perdu...",
    "brut_en": "I-I[SP]had[SP]a[SP]dream![1205][001E][SP]But...[SP]I[SP]lost[SP]it,[SP]so...",
    "data_size": 108,
    "budget": 100
@@ -950,16 +944,19 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Mais on peut toujours en"
+       "t": " Mais on"
       },
       {
        "nl": true
       },
       {
-       "t": "poursuivre un autre."
+       "t": "peut toujours en"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " poursuivre un autre."
       }
      ]
     }
@@ -991,7 +988,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je connais bien ta douleur. Ceux vaincus\npar leurs rêves font pitié...[1205][001E]\nMais on peut toujours en\npoursuivre un autre.",
+   "brut_fr": "Je connais bien ta douleur. Ceux vaincus\npar leurs rêves font pitié...[1205][001E] Mais on\npeut toujours en[1205][U+000F] poursuivre un autre.",
    "brut_en": "I[SP]know[SP]your[SP]pain[SP]all[SP]too[SP]well.[SP]Those[SP]who've\nbeen[SP]defeated[SP]by[SP]their[SP]dreams[SP]are[SP]pitiful...[1205][001E]\nBut[SP]you[SP]can[SP]always[SP]pursue[SP]another[SP]dream.",
    "data_size": 286,
    "budget": 278
@@ -1060,25 +1057,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les jeunes qui se reconnaîtront dans"
+       "t": "Les jeunes qui se reconnaîtront dans ta"
       },
       {
        "nl": true
       },
       {
-       "t": "ta chanson appelleront Joker et"
+       "t": "chanson appelleront Joker et réaliseront"
       },
       {
        "nl": true
       },
       {
-       "t": "réaliseront leurs rêves, selon la"
+       "t": "leurs rêves, selon la"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "volonté de l'Exalté."
+       "t": " volonté de l'Exalté."
       }
      ]
     }
@@ -1107,7 +1104,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les jeunes qui se reconnaîtront dans\nta chanson appelleront Joker et\nréaliseront leurs rêves, selon la\nvolonté de l'Exalté.",
+   "brut_fr": "Les jeunes qui se reconnaîtront dans ta\nchanson appelleront Joker et réaliseront\nleurs rêves, selon la[1205][U+000F] volonté de l'Exalté.",
    "brut_en": "The[SP]youth[SP]who[SP]see[SP]themselves[SP]in[SP]your[SP]song\nwill[SP]summon[SP]Master[SP]Joker[SP]and[SP]realize[SP]their\ndreams,[SP]just[SP]as[SP]the[SP]Exalted[SP]One[SP]wishes.",
    "data_size": 272,
    "budget": 264
@@ -1121,19 +1118,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est... C'est faux. Et les ombres,"
+       "t": "C'est... C'est faux. Et les ombres, hein!?"
       },
       {
        "nl": true
       },
       {
-       "t": "hein!? Pourquoi il vole les"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "cœurs rêveurs de tous?"
+       "t": "Pourquoi il vole les cœurs rêveurs de tous?"
       }
      ]
     }
@@ -1162,7 +1153,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est... C'est faux. Et les ombres,\nhein!? Pourquoi il vole les\ncœurs rêveurs de tous?",
+   "brut_fr": "C'est... C'est faux. Et les ombres, hein!?\nPourquoi il vole les cœurs rêveurs de tous?",
    "brut_en": "That's...[SP]That's[SP]a[SP]lie.[SP]What[SP]about[SP]the\nshadowmen,[SP]huh!?[SP]Why[SP]is[SP]he[SP]stealing\neveryone's[SP]dreaming[SP]hearts?",
    "data_size": 228,
    "budget": 220
@@ -1176,31 +1167,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu connais la douleur de vivre"
+       "t": "Tu connais la douleur de vivre sans"
       },
       {
        "nl": true
       },
       {
-       "t": "sans rêves..."
+       "t": "rêves..."
       },
       {
        "pause": true
       },
       {
-       "t": " Ils ont été libérés"
+       "t": " Ils ont été libérés de ça."
       },
       {
        "nl": true
       },
       {
-       "t": "de ça. N'est-ce pas une autre forme"
+       "t": "N'est-ce pas une autre forme"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "de bonheur ?"
+       "t": " de bonheur?"
       }
      ]
     }
@@ -1232,7 +1223,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu connais la douleur de vivre\nsans rêves...[1205][001E] Ils ont été libérés\nde ça. N'est-ce pas une autre forme\nde bonheur ?",
+   "brut_fr": "Tu connais la douleur de vivre sans\nrêves...[1205][001E] Ils ont été libérés de ça.\nN'est-ce pas une autre forme[1205][U+000F] de bonheur?",
    "brut_en": "You[SP]know[SP]the[SP]pain[SP]of[SP]living[SP]without[SP]dreams...[1205][001E]\nThey[SP]have[SP]been[SP]released[SP]from[SP]that[SP]pain.\nIsn't[SP]that[SP]another[SP]form[SP]of[SP]happiness?",
    "data_size": 274,
    "budget": 266
@@ -1246,31 +1237,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais si possible, ceux sans rêves"
+       "t": "Mais si possible, ceux sans rêves en recevront"
       },
       {
        "nl": true
       },
       {
-       "t": "en recevront de nouveaux... C'est"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "ce que pense l'Exalté."
+       "t": "de nouveaux... C'est ce que pense l'Exalté."
       },
       {
        "pause": true
       },
       {
-       "t": " Et pour ça,"
+       "t": " Et"
       },
       {
        "nl": true
       },
       {
-       "t": "nous avons besoin de toi."
+       "t": "pour ça,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " nous avons besoin de toi."
       }
      ]
     }
@@ -1305,7 +1296,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais si possible, ceux sans rêves\nen recevront de nouveaux... C'est\nce que pense l'Exalté.[1205][001E] Et pour ça,\nnous avons besoin de toi.",
+   "brut_fr": "Mais si possible, ceux sans rêves en recevront\nde nouveaux... C'est ce que pense l'Exalté.[1205][001E] Et\npour ça,[1205][U+000F] nous avons besoin de toi.",
    "brut_en": "But[SP]whenever[SP]possible,[SP]those[SP]without[SP]dreams\nwill[SP]be[SP]granted[SP]new[SP]ones...[SP]That[SP]is[SP]what[SP]the\nExalted[SP]One[SP]thinks.[1205][001E][SP]For[SP]that,[SP]we[SP]need[SP]you.",
    "data_size": 290,
    "budget": 282

@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "! C'est toi le chef aujourd'hui!?"
+       "t": "! C'est toi le chef"
       },
       {
        "nl": true
       },
       {
-       "t": "Dit lui de rester!"
+       "t": "aujourd'hui!? Dit lui de rester!"
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1114]! C'est toi le chef aujourd'hui!?\nDit lui de rester!",
+   "brut_fr": "[1114]! C'est toi le chef\naujourd'hui!? Dit lui de rester!",
    "brut_en": "[1114]![SP]You're[SP]the[SP]boss[SP]today,[SP]right!?\nOrder[SP]her[SP]not[SP]to[SP]go!",
    "data_size": 136,
    "budget": 128
@@ -219,13 +219,13 @@
        "pause": true
       },
       {
-       "t": " On doit"
+       "t": " On"
       },
       {
        "nl": true
       },
       {
-       "t": "la laisser partir!"
+       "t": "doit la laisser partir!"
       }
      ]
     }
@@ -254,7 +254,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On ne peut pas! On...[1205][001E] On doit\nla laisser partir!",
+   "brut_fr": "On ne peut pas! On...[1205][001E] On\ndoit la laisser partir!",
    "brut_en": "We[SP]can't,[SP]guys![SP]We...[1205][001E][SP]We[SP]have[SP]to[SP]let\nBig[SP]Sis[SP]go!",
    "data_size": 120,
    "budget": 112
@@ -274,7 +274,7 @@
        "pause": true
       },
       {
-       "t": "tuer soeurette, pas vrai?"
+       "t": " tuer soeurette, pas vrai?"
       }
      ]
     }
@@ -297,7 +297,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On va...[1205][001E]tuer soeurette, pas vrai?",
+   "brut_fr": "On va...[1205][001E] tuer soeurette, pas vrai?",
    "brut_en": "We're[SP]gonna...[1205][001E][SP]kill[SP]Big[SP]Sis,[SP]right?",
    "data_size": 102,
    "budget": 94
@@ -372,7 +372,10 @@
        "pause": true
       },
       {
-       "t": " On va tuer soeurette, pas vrai?"
+       "nl": true
+      },
+      {
+       "t": "On va tuer soeurette, pas vrai?"
       }
      ]
     }
@@ -398,7 +401,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour qu'elle n'aille nulle part...[1205][001E] On va tuer soeurette, pas vrai?",
+   "brut_fr": "Pour qu'elle n'aille nulle part...[1205][001E]\nOn va tuer soeurette, pas vrai?",
    "brut_en": "To[SP]make[SP]sure[SP]she[SP]can't[SP]go[SP]anywhere...[1205][001E]\nWe're[SP]gonna[SP]kill[SP]Big[SP]Sis,[SP]right?",
    "data_size": 168,
    "budget": 160

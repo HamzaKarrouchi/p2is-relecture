@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Dites, c'est faible mais... Vous la ressentez?"
+       "t": "Dites, c'est faible mais... Vous la"
       },
       {
        "nl": true
       },
       {
-       "t": "Une sorte de présence pesante..."
+       "t": "ressentez? Une sorte de présence pesante..."
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dites, c'est faible mais... Vous la ressentez?\nUne sorte de présence pesante...",
+   "brut_fr": "Dites, c'est faible mais... Vous la\nressentez? Une sorte de présence pesante...",
    "brut_en": "Hey,[SP]it's[SP]pretty[SP]faint...[SP]But[SP]do[SP]you[SP]feel\nthat?[SP]It's[SP]like[SP]a[SP]sense[SP]of[SP]oppression...",
    "data_size": 188,
    "budget": 180
@@ -53,28 +53,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ma Persona m'indique que c'est lui..."
+       "t": "Ma Persona m'indique que c'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "lui..."
       },
       {
        "pause": true
       },
       {
+       "t": " Ton imposteur est droit"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Ton imposteur est droit devant, "
+       "t": "devant, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": ". Je le"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "sens pas..."
+       "t": ". Je le sens pas..."
       }
      ]
     }
@@ -112,7 +115,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ma Persona m'indique que c'est lui...[1205][001E]\nTon imposteur est droit devant, [1113]. Je le\nsens pas...",
+   "brut_fr": "Ma Persona m'indique que c'est\nlui...[1205][001E] Ton imposteur est droit\ndevant, [1113]. Je le sens pas...",
    "brut_en": "My[SP]Persona's[SP]telling[SP]me[SP]that[SP]it's[SP]him...[1205][001E]\nYour[SP]impostor[SP]is[SP]here,[SP][1113].[SP]I'm[SP]getting\nsome[SP]bad[SP]vibes...",
    "data_size": 220,
    "budget": 212
@@ -126,25 +129,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mac Moustache n'a pas l'air d'avoir abandonné"
+       "t": "Mac Moustache n'a pas l'air d'avoir"
       },
       {
        "nl": true
       },
       {
-       "t": "les crânes..."
+       "t": "abandonné les crânes..."
       },
       {
        "pause": true
       },
       {
-       "t": " Surprenons-les en les récupérant"
+       "t": " Surprenons-les"
       },
       {
        "nl": true
       },
       {
-       "t": "en premier!"
+       "t": "en les "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " récupérant en premier!"
       }
      ]
     }
@@ -179,7 +188,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mac Moustache n'a pas l'air d'avoir abandonné\nles crânes...[1205][001E] Surprenons-les en les récupérant\nen premier!",
+   "brut_fr": "Mac Moustache n'a pas l'air d'avoir\nabandonné les crânes...[1205][001E] Surprenons-les\nen les [1205][U+000F] récupérant en premier!",
    "brut_en": "Looks[SP]like[SP]Mustache[SP]Man[SP]hasn't[SP]given[SP]up[SP]on\nthe[SP]skulls[SP]yet...[1205][001E][SP]Let's[SP]get[SP]them[SP]all[SP]first\nand[SP]give[SP]'em[SP]a[SP]good[SP]scare!",
    "data_size": 256,
    "budget": 248
@@ -401,19 +410,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Chaque élément l'emporte contre un autre."
+       "t": "Chaque élément l'emporte contre un"
       },
       {
        "nl": true
       },
       {
-       "t": "Exemple; le feu contrôle l'air, mais est"
+       "t": "autre. Exemple; le feu contrôle"
       },
       {
        "nl": true
       },
       {
-       "t": "vaincu par l'eau..."
+       "t": "l'air, mais est vaincu par l'eau..."
       }
      ]
     }
@@ -442,7 +451,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Chaque élément l'emporte contre un autre.\nExemple; le feu contrôle l'air, mais est\nvaincu par l'eau...",
+   "brut_fr": "Chaque élément l'emporte contre un\nautre. Exemple; le feu contrôle\nl'air, mais est vaincu par l'eau...",
    "brut_en": "Each[SP]element[SP]rules[SP]over[SP]another[SP]one.\nFor[SP]example,[SP]fire[SP]rules[SP]over[SP]wind,[SP]but[SP]it's\nsubservient[SP]to[SP]water...",
    "data_size": 230,
    "budget": 222
@@ -456,19 +465,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "En enlèvant le Crâne de Feu, l'eau perdra son"
+       "t": "En enlèvant le Crâne de Feu, l'eau perdra"
       },
       {
        "nl": true
       },
       {
-       "t": "faire-valoir, s'affaiblissant, et l'air"
+       "t": "son faire-valoir, s'affaiblissant, et"
       },
       {
        "nl": true
       },
       {
-       "t": "se renforcera librement."
+       "t": "l'air"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " se renforcera librement."
       }
      ]
     }
@@ -497,7 +512,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En enlèvant le Crâne de Feu, l'eau perdra son\nfaire-valoir, s'affaiblissant, et l'air\nse renforcera librement.",
+   "brut_fr": "En enlèvant le Crâne de Feu, l'eau perdra\nson faire-valoir, s'affaiblissant, et\nl'air[1205][U+000F] se renforcera librement.",
    "brut_en": "So[SP]if[SP]we[SP]remove[SP]the[SP]Fire[SP]Skull,[SP]water[SP]has[SP]no\nunderling,[SP]making[SP]it[SP]weaker--but[SP]wind[SP]has[SP]no\nmaster,[SP]making[SP]it[SP]stronger.",
    "data_size": 256,
    "budget": 248
@@ -511,19 +526,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cela affectera sûrement la structure"
+       "t": "Cela affectera sûrement la structure et la"
       },
       {
        "nl": true
       },
       {
-       "t": "et la puissance des démons de chaque"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "temple..."
+       "t": "puissance des démons de chaque temple..."
       }
      ]
     }
@@ -552,7 +561,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cela affectera sûrement la structure\net la puissance des démons de chaque\ntemple...",
+   "brut_fr": "Cela affectera sûrement la structure et la\npuissance des démons de chaque temple...",
    "brut_en": "It[SP]all[SP]probably[SP]affects[SP]each[SP]temple's\nstructure[SP]and[SP]how[SP]strong[SP]the[SP]demons[SP]in\nit[SP]are...",
    "data_size": 194,
    "budget": 186
@@ -627,10 +636,13 @@
        "pause": true
       },
       {
+       "t": " Mais"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Mais nos coeurs surmonteront cette part de nous!"
+       "t": "nos coeurs surmonteront cette part de nous!"
       }
      ]
     }
@@ -662,7 +674,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On va se retrouver face à nous-mêmes...[1205][001E]\nMais nos coeurs surmonteront cette part de nous!",
+   "brut_fr": "On va se retrouver face à nous-mêmes...[1205][001E] Mais\nnos coeurs surmonteront cette part de nous!",
    "brut_en": "It'll[SP]be[SP]a[SP]battle[SP]against[SP]yourselves...[1205][001E]\nBut[SP]your[SP]hearts[SP]will[SP]overcome[SP]your[SP]other\nnature[SP]in[SP]the[SP]end!",
    "data_size": 224,
    "budget": 216
@@ -676,19 +688,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "La constellation de la Croix Cosmique associe"
+       "t": "La constellation de la Croix Cosmique"
       },
       {
        "nl": true
       },
       {
-       "t": "chacune de ses étoiles à un élément. Terre,"
+       "t": "associe chacune de ses étoiles à un"
       },
       {
        "nl": true
       },
       {
-       "t": "eau, feu et air."
+       "t": "élément. "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Terre, eau, feu et air."
       }
      ]
     }
@@ -717,7 +735,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La constellation de la Croix Cosmique associe\nchacune de ses étoiles à un élément. Terre,\neau, feu et air.",
+   "brut_fr": "La constellation de la Croix Cosmique\nassocie chacune de ses étoiles à un\nélément. [1205][U+000F] Terre, eau, feu et air.",
    "brut_en": "The[SP]four[SP]constellations[SP]of[SP]the[SP]Grand[SP]Cross[SP]are\neach[SP]associated[SP]with[SP]one[SP]of[SP]the[SP]elements[SP]of\nearth,[SP]water,[SP]fire,[SP]and[SP]wind.",
    "data_size": 260,
    "budget": 252
@@ -731,22 +749,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Chaque élément, avec ses force et ses faiblesses,"
+       "t": "Chaque élément, avec ses force et ses"
       },
       {
        "nl": true
       },
       {
-       "t": "contribue à l'équilibre du monde."
+       "t": "faiblesses, contribue à l'équilibre du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "monde."
       },
       {
        "pause": true
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Père m'a déjà parlé de ces mythes."
+       "t": " Père m'a déjà parlé de ces mythes."
       }
      ]
     }
@@ -778,7 +802,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Chaque élément, avec ses force et ses faiblesses,\ncontribue à l'équilibre du monde.[1205][001E]\nPère m'a déjà parlé de ces mythes.",
+   "brut_fr": "Chaque élément, avec ses force et ses\nfaiblesses, contribue à l'équilibre du\nmonde.[1205][001E][1205][U+000F] Père m'a déjà parlé de ces mythes.",
    "brut_en": "These[SP]four[SP]elements[SP]maintain[SP]the[SP]balance[SP]of[SP]the\nworld,[SP]and[SP]each[SP]has[SP]strengths[SP]and[SP]weaknesses.[1205][001E]\nIt's[SP]a[SP]brand[SP]of[SP]mysticism[SP]Father[SP]told[SP]me[SP]about.",
    "data_size": 306,
    "budget": 298
@@ -792,25 +816,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Autrement dit, Xibalba est la maquette d'un monde"
+       "t": "Autrement dit, Xibalba est la maquette"
       },
       {
        "nl": true
       },
       {
-       "t": "nouveau..."
+       "t": "d'un monde nouveau..."
       },
       {
        "pause": true
       },
       {
-       "t": " L'équilibre du monde et"
+       "t": " L'équilibre du monde"
       },
       {
        "nl": true
       },
       {
-       "t": "des temples doit être important..."
+       "t": "et"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " des temples doit être important..."
       }
      ]
     }
@@ -845,7 +875,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Autrement dit, Xibalba est la maquette d'un monde\nnouveau...[1205][001E] L'équilibre du monde et\ndes temples doit être important...",
+   "brut_fr": "Autrement dit, Xibalba est la maquette\nd'un monde nouveau...[1205][001E] L'équilibre du monde\net[1205][U+000F] des temples doit être important...",
    "brut_en": "Xibalba[SP]is,[SP]in[SP]other[SP]words,[SP]a[SP]model[SP]for[SP]the\nnew[SP]world...[1205][001E][SP]The[SP]balance[SP]of[SP]the[SP]temples\nsymbolizing[SP]the[SP]world[SP]may[SP]be[SP]important...",
    "data_size": 274,
    "budget": 266
@@ -1021,19 +1051,25 @@
        "pause": true
       },
       {
-       "t": " Un temple et nous posséderons"
+       "t": " Un temple et nous"
       },
       {
        "nl": true
       },
       {
-       "t": "tout les crânes de crystal, en dehors du"
+       "t": "posséderons tout les crânes de crystal,"
       },
       {
        "nl": true
       },
       {
-       "t": "Crâne du Paradis."
+       "t": "en dehors du"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Crâne du Paradis."
       }
      ]
     }
@@ -1068,7 +1104,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Plus qu'un...[1205][1205] Un temple et nous posséderons\ntout les crânes de crystal, en dehors du\nCrâne du Paradis.",
+   "brut_fr": "Plus qu'un...[1205][1205] Un temple et nous\nposséderons tout les crânes de crystal,\nen dehors du[1205][U+000F] Crâne du Paradis.",
    "brut_en": "Only[SP]one[SP]more...[1205][001E][SP]Just[SP]one[SP]last[SP]temple[SP]and\nwe'll[SP]have[SP]all[SP]the[SP]crystal[SP]skulls,[SP]other[SP]than\nthe[SP]Heaven[SP]Skull.",
    "data_size": 234,
    "budget": 226

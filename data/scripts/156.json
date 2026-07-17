@@ -133,19 +133,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et le RESTE que tu as tu,"
+       "t": "Et le RESTE que tu as tu, hein?"
       },
       {
        "nl": true
       },
       {
-       "t": "hein? Comme racketter"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "les vieux pervers?"
+       "t": "Comme racketter les vieux pervers?"
       }
      ]
     }
@@ -174,7 +168,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et le RESTE que tu as tu,\nhein? Comme racketter\nles vieux pervers?",
+   "brut_fr": "Et le RESTE que tu as tu, hein?\nComme racketter les vieux pervers?",
    "brut_en": "But[SP]what[SP]about[SP]all[SP]the[SP]OTHER[SP]stuff[SP]you[SP]haven't\nmentioned[SP]yet,[SP]huh?[SP]Like[SP]swindling[SP]money[SP]from\nperverted[SP]old[SP]farts?",
    "data_size": 264,
    "budget": 256
@@ -188,25 +182,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et expérimenter ces vilaiiines"
+       "t": "Et expérimenter ces vilaiiines drogues?"
       },
       {
        "nl": true
       },
       {
-       "t": "drogues? C'est un peu tard pour"
+       "t": "C'est un peu tard pour regretter, même"
       },
       {
        "nl": true
       },
       {
-       "t": "regretter, même si tu te rebellais"
+       "t": "si tu te rebellais"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "contre Steven!"
+       "t": " contre Steven!"
       }
      ]
     }
@@ -235,7 +229,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et expérimenter ces vilaiiines\ndrogues? C'est un peu tard pour\nregretter, même si tu te rebellais\ncontre Steven!",
+   "brut_fr": "Et expérimenter ces vilaiiines drogues?\nC'est un peu tard pour regretter, même\nsi tu te rebellais[1205][U+000F] contre Steven!",
    "brut_en": "And[SP]experimenting[SP]with[SP]those[SP]nassssty[SP]drugs?\nIt's[SP]a[SP]little[SP]late[SP]to[SP]regret[SP]it[SP]all,[SP]even[SP]if\nyou[SP]were[SP]rebelling[SP]against[SP]Steven!",
    "data_size": 286,
    "budget": 278
@@ -249,13 +243,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mami et Miho ont été"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "piégées avec toi."
+       "t": "Mami et Miho ont été piégées avec toi."
       },
       {
        "nl": true
@@ -264,16 +252,19 @@
        "enc": "Tous veulent m'approcher"
       },
       {
+       "pause": true
+      },
+      {
+       "enc": " pour briller"
+      },
+      {
        "nl": true
       },
       {
-       "enc": "pour briller sous ma gloire!"
+       "enc": "sous ma gloire!"
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Quel ego trip!"
+       "t": " Quel ego trip!"
       }
      ]
     }
@@ -308,7 +299,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mami et Miho ont été\npiégées avec toi.\n[1432][NULL][NULL][0014]Tous veulent m'approcher\npour briller sous ma gloire![1432][NULL][NULL][0014]\nQuel ego trip!",
+   "brut_fr": "Mami et Miho ont été piégées avec toi.\n[1432][NULL][NULL][0014]Tous veulent m'approcher[1205][U+000F] pour briller\nsous ma gloire![1432][NULL][NULL][0014] Quel ego trip!",
    "brut_en": "Poor[SP]Mami[SP]and[SP]Miho[SP]got[SP]dragged[SP]into[SP]your\nmess,[SP]too.[SP][1432][NULL][NULL][0014]They[SP]all[SP]just[SP]wanna[SP]get[SP]close[SP]and\nbask[SP]in[SP]my[SP]glory![1432][NULL][NULL][0014][SP]Talk[SP]about[SP]an[SP]ego[SP]trip!",
    "data_size": 308,
    "budget": 300
@@ -328,25 +319,25 @@
        "hero": "prenom"
       },
       {
-       "t": " juste pour"
+       "t": " juste pour chercher"
       },
       {
        "nl": true
       },
       {
-       "t": "chercher ce même statut que tu"
+       "t": "ce même statut que tu détestais voir"
       },
       {
        "nl": true
       },
       {
-       "t": "détestais voir les autres"
+       "t": "les autres"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "exploiter chez toi!"
+       "t": " exploiter chez toi!"
       }
      ]
     }
@@ -381,7 +372,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu suivais [1113] juste pour\nchercher ce même statut que tu\ndétestais voir les autres\nexploiter chez toi!",
+   "brut_fr": "Tu suivais [1113] juste pour chercher\nce même statut que tu détestais voir\nles autres[1205][U+000F] exploiter chez toi!",
    "brut_en": "I[SP]mean,[SP]you[SP]were[SP]only[SP]dogging[SP][1113][SP]'cause\nyou[SP]were[SP]after[SP]the[SP]same[SP]status[SP]that[SP]you[SP]hated\neveryone[SP]else[SP]exploiting[SP]you[SP]for!",
    "data_size": 274,
    "budget": 266
@@ -426,19 +417,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu dis détester être différente,"
+       "t": "Tu dis détester être différente, mais tu"
       },
       {
        "nl": true
       },
       {
-       "t": "mais tu veux qu'on te remarque."
+       "t": "veux qu'on te remarque. C'est pour ça que tu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est pour ça que tu visais "
+       "t": "visais "
       },
       {
        "hero": "prenom"
@@ -447,10 +438,10 @@
        "t": ","
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "le centre de l'attention!"
+       "t": " le centre de l'attention!"
       }
      ]
     }
@@ -482,7 +473,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu dis détester être différente,\nmais tu veux qu'on te remarque.\nC'est pour ça que tu visais [1113],\nle centre de l'attention!",
+   "brut_fr": "Tu dis détester être différente, mais tu\nveux qu'on te remarque. C'est pour ça que tu\nvisais [1113],[1205][U+000F] le centre de l'attention!",
    "brut_en": "You[SP]say[SP]you[SP]hate[SP]being[SP]different,[SP]but[SP]really,\nyou[SP]want[SP]to[SP]be[SP]noticed.[SP]That's[SP]why[SP]you[SP]went[SP]for\n[1113],[SP]the[SP]center[SP]of[SP]everyone's[SP]attention!",
    "data_size": 302,
    "budget": 294
@@ -496,25 +487,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu as tellement besoin de t'appuyer"
+       "t": "Tu as tellement besoin de t'appuyer sur"
       },
       {
        "nl": true
       },
       {
-       "t": "sur quelqu'un, mais tu ne crois"
+       "t": "quelqu'un, mais tu ne crois en personne!"
       },
       {
        "nl": true
       },
       {
-       "t": "en personne! Franchement,"
+       "t": "Franchement,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "quelle peste égoïste!"
+       "t": " quelle peste égoïste!"
       }
      ]
     }
@@ -543,7 +534,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu as tellement besoin de t'appuyer\nsur quelqu'un, mais tu ne crois\nen personne! Franchement,\nquelle peste égoïste!",
+   "brut_fr": "Tu as tellement besoin de t'appuyer sur\nquelqu'un, mais tu ne crois en personne!\nFranchement,[1205][U+000F] quelle peste égoïste!",
    "brut_en": "You're[SP]desperate[SP]for[SP]someone[SP]to[SP]lean[SP]against,\nbut[SP]you[SP]don't[SP]believe[SP]in[SP]anyone![SP]Honestly,\nwhat[SP]a[SP]selfish[SP]little[SP]bitch[SP]you[SP]are!",
    "data_size": 288,
    "budget": 280
@@ -563,16 +554,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "J'ai été une gamine pathétique"
+       "t": " J'ai été une"
       },
       {
        "nl": true
       },
       {
-       "t": "longtemps..."
+       "t": "gamine pathétique longtemps..."
       }
      ]
     }
@@ -601,7 +589,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est très vrai...[1205][001E]\nJ'ai été une gamine pathétique\nlongtemps...",
+   "brut_fr": "C'est très vrai...[1205][001E] J'ai été une\ngamine pathétique longtemps...",
    "brut_en": "You're[SP]absolutely[SP]right...[1205][001E][SP]I[SP]was[SP]a[SP]pathetic\nlittle[SP]girl[SP]for[SP]a[SP]long[SP]time...",
    "data_size": 176,
    "budget": 168
@@ -615,13 +603,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai changé. J'ai"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "retrouvé ce qui manquait..."
+       "t": "J'ai changé. J'ai retrouvé ce qui manquait..."
       }
      ]
     }
@@ -638,7 +620,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai changé. J'ai\nretrouvé ce qui manquait...",
+   "brut_fr": "J'ai changé. J'ai retrouvé ce qui manquait...",
    "brut_en": "But[SP]I'm[SP]different[SP]now.[SP]I[SP]found[SP]what[SP]I[SP]lost...",
    "data_size": 114,
    "budget": 106
@@ -652,22 +634,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Souviens-t'en, si tu es moi."
+       "t": "Souviens-t'en, si tu es moi. Mon"
       },
       {
        "nl": true
       },
       {
-       "t": "Mon rêve il y a 10 ans était"
+       "t": "rêve il y a 10 ans était d'épouser"
       },
       {
        "nl": true
       },
       {
-       "t": "d'épouser mon 1er amour..."
+       "t": "mon 1er amour..."
       },
       {
-       "nl": true
+       "pause": true
+      },
+      {
+       "t": " "
       },
       {
        "hero": "prenom"
@@ -705,7 +690,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Souviens-t'en, si tu es moi.\nMon rêve il y a 10 ans était\nd'épouser mon 1er amour...\n[1113]...",
+   "brut_fr": "Souviens-t'en, si tu es moi. Mon\nrêve il y a 10 ans était d'épouser\nmon 1er amour...[1205][U+000F] [1113]...",
    "brut_en": "You[SP]should[SP]remember,[SP]if[SP]you're[SP]me.[SP]My[SP]dream\nten[SP]years[SP]ago[SP]was[SP]to[SP]marry[SP]my[SP]first[SP]love...\n[1113]...",
    "data_size": 208,
    "budget": 200
@@ -737,13 +722,7 @@
        "nl": true
       },
       {
-       "t": "est mort! Il"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "restera mien!"
+       "t": "est mort! Il restera mien!"
       }
      ]
     }
@@ -778,7 +757,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Stop![1205][001E] Le [1113] que j'aimais\nest mort! Il\nrestera mien!",
+   "brut_fr": "Stop![1205][001E] Le [1113] que j'aimais\nest mort! Il restera mien!",
    "brut_en": "Stop...![1205][001E][SP]The[SP][1113][SP]I[SP]loved[SP]died[SP]back[SP]then!\nSo[SP]he'll[SP]always[SP]be[SP]mine!",
    "data_size": 168,
    "budget": 160
@@ -792,13 +771,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Personne ne dictera mon coeur."
+       "t": "Personne ne dictera mon coeur. Ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Ce que "
+       "t": "que "
       },
       {
        "hero": "prenom"
@@ -842,7 +821,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Personne ne dictera mon coeur.\nCe que [1113] ressent le regarde.\nMais mes sentiments sont à moi...",
+   "brut_fr": "Personne ne dictera mon coeur. Ce\nque [1113] ressent le regarde.\nMais mes sentiments sont à moi...",
    "brut_en": "I[SP]won't[SP]let[SP]anyone[SP]tell[SP]me[SP]how[SP]I[SP]feel.\n[1113]'s[SP]feelings[SP]are[SP]his[SP]business.\nBut[SP]my[SP]feelings[SP]are[SP]mine...",
    "data_size": 218,
    "budget": 210
@@ -862,13 +841,7 @@
        "hero": "prenom"
       },
       {
-       "t": " me déteste,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "je l'aime."
+       "t": " me déteste, je l'aime."
       }
      ]
     }
@@ -891,7 +864,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et même si [1113] me déteste,\nje l'aime.",
+   "brut_fr": "Et même si [1113] me déteste, je l'aime.",
    "brut_en": "And[SP]even[SP]if[SP][1113][SP]hates[SP]me,[SP]I[SP]love[SP]him.",
    "data_size": 94,
    "budget": 86

@@ -16,13 +16,13 @@
        "pause": true
       },
       {
-       "t": "< Un long cauchemar, tout ce"
+       "t": "< Un long"
       },
       {
        "nl": true
       },
       {
-       "t": "temps...?"
+       "t": "cauchemar, tout ce temps...?"
       }
      ]
     }
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ai-je fait...[1205]< Un long cauchemar, tout ce\ntemps...?",
+   "brut_fr": "Ai-je fait...[1205]< Un long\ncauchemar, tout ce temps...?",
    "brut_en": "This[SP]whole[SP]time...[1205]<[SP]Was[SP]I...[SP]having[SP]a\nnightmare...?",
    "data_size": 124,
    "budget": 116
@@ -236,16 +236,19 @@
        "pause": true
       },
       {
-       "t": " Elle s'était arrêtée..."
-      },
-      {
-       "pause": true
+       "t": " Elle s'était"
       },
       {
        "nl": true
       },
       {
-       "t": "depuis ce jour..."
+       "t": "arrêtée..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " depuis ce jour..."
       },
       {
        "pause": true
@@ -283,7 +286,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'aiguille bouge...[1205][001E] Elle s'était arrêtée...[1205][001E]\ndepuis ce jour...[1205][001E]",
+   "brut_fr": "L'aiguille bouge...[1205][001E] Elle s'était\narrêtée...[1205][001E] depuis ce jour...[1205][001E]",
    "brut_en": "It's[SP]ticking...[1205][001E][SP]It[SP]had[SP]been[SP]stopped...[1205][001E]\nEver[SP]since[SP]that[SP]day...[1205][001E]",
    "data_size": 154,
    "budget": 146
@@ -376,16 +379,19 @@
        "pause": true
       },
       {
-       "t": " Voici ce que je ressens..."
-      },
-      {
-       "pause": true
+       "t": " Voici ce que je"
       },
       {
        "nl": true
       },
       {
-       "t": "Je te jure..."
+       "t": "ressens..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je te jure..."
       }
      ]
     }
@@ -417,7 +423,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun...[1205][001E] Voici ce que je ressens...[1205][001E]\nJe te jure...",
+   "brut_fr": "Jun...[1205][001E] Voici ce que je\nressens...[1205][001E] Je te jure...",
    "brut_en": "Jun-kun...[1205][001E][SP]This[SP]is[SP]how[SP]I[SP]feel...[1205][001E]\nI[SP]promise[SP]you...",
    "data_size": 128,
    "budget": 120
@@ -437,25 +443,22 @@
        "pause": true
       },
       {
-       "t": " Même si je"
+       "nl": true
+      },
+      {
+       "t": "Même si je me met le monde à"
       },
       {
        "nl": true
       },
       {
-       "t": "me met le monde à dos..."
+       "t": "dos..."
       },
       {
        "pause": true
       },
       {
-       "t": " Je tiendrai"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "ma promesse..."
+       "t": " Je tiendrai ma promesse..."
       }
      ]
     }
@@ -496,7 +499,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Que peu importe tes ennemis...[1205][001E] Même si je\nme met le monde à dos...[1205][001E] Je tiendrai\nma promesse...",
+   "brut_fr": "Que peu importe tes ennemis...[1205][001E]\nMême si je me met le monde à\ndos...[1205][001E] Je tiendrai ma promesse...",
    "brut_en": "No[SP]matter[SP]who[SP]stands[SP]against[SP]you...[1205][001E][SP]Even[SP]if\nthe[SP]whole[SP]world[SP]becomes[SP]my[SP]enemy...[1205][001E][SP]I'll[SP]keep\nmy[SP]promise...",
    "data_size": 236,
    "budget": 228
@@ -522,16 +525,19 @@
        "pause": true
       },
       {
-       "t": "< suis désolé, Sœurette..."
-      },
-      {
-       "pause": true
+       "t": "< suis désolé,"
       },
       {
        "nl": true
       },
       {
-       "t": "Si désolé... "
+       "t": "Sœurette..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Si désolé... "
       },
       {
        "hero": "prenom"
@@ -581,7 +587,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une [E4][NULL][NULL][U+0006]Némophile...[E4][NULL][NULL][0002] Je...[1205]< suis désolé, Sœurette...[1205][001E]\nSi désolé... [1113]...",
+   "brut_fr": "Une [E4][NULL][NULL][U+0006]Némophile...[E4][NULL][NULL][0002] Je...[1205]< suis désolé,\nSœurette...[1205][001E] Si désolé... [1113]...",
    "brut_en": "A[SP][E4][NULL][NULL][U+0006]Nemophilia[E4][NULL][NULL][0002][SP]flower...[1205]<[SP]I'm[SP]sorry...[SP]Big[SP]Sis...[1205][001E]\nI'm[SP]so[SP]sorry...[SP][1113]...",
    "data_size": 178,
    "budget": 170
@@ -675,13 +681,13 @@
        "pause": true
       },
       {
-       "t": " Le chef du Cercle Masqué laisse"
+       "t": " Le chef du Cercle Masqué"
       },
       {
        "nl": true
       },
       {
-       "t": "ses ennemis le prendre en pitié?"
+       "t": "laisse ses ennemis le prendre en pitié?"
       }
      ]
     }
@@ -710,7 +716,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quelle honte.[1205][001E] Le chef du Cercle Masqué laisse\nses ennemis le prendre en pitié?",
+   "brut_fr": "Quelle honte.[1205][001E] Le chef du Cercle Masqué\nlaisse ses ennemis le prendre en pitié?",
    "brut_en": "Shame[SP]on[SP]you.[1205][001E][SP]The[SP]head[SP]of[SP]the[SP]Masked[SP]Circle\ndares[SP]to[SP]allow[SP]his[SP]enemies[SP]to[SP]pity[SP]him?",
    "data_size": 190,
    "budget": 182
@@ -730,13 +736,13 @@
        "pause": true
       },
       {
-       "t": " Venge-toi et ouvre la voie de"
+       "t": " Venge-toi et"
       },
       {
        "nl": true
       },
       {
-       "t": "l'Idéalien."
+       "t": "ouvre la voie de l'Idéalien."
       }
      ]
     }
@@ -765,7 +771,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Viens, Jun.[1205][001E] Venge-toi et ouvre la voie de\nl'Idéalien.",
+   "brut_fr": "Viens, Jun.[1205][001E] Venge-toi et\nouvre la voie de l'Idéalien.",
    "brut_en": "Come,[SP]Jun...[1205][001E][SP]Claim[SP]your[SP]revenge[SP]and[SP]open[SP]the\nway[SP]to[SP]Idealian.",
    "data_size": 146,
    "budget": 138
@@ -785,19 +791,25 @@
        "pause": true
       },
       {
-       "t": " Je... souhaitais juste"
+       "t": " Je..."
       },
       {
        "nl": true
       },
       {
-       "t": "aider les gens à atteindre leurs rêves, comme"
+       "t": "souhaitais juste aider les gens à"
       },
       {
        "nl": true
       },
       {
-       "t": "Sœurette!"
+       "t": "atteindre leurs rêves, "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " comme Sœurette!"
       }
      ]
     }
@@ -832,7 +844,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Père... Arrêtons tout ça...[1205][001E] Je... souhaitais juste\naider les gens à atteindre leurs rêves, comme\nSœurette!",
+   "brut_fr": "Père... Arrêtons tout ça...[1205][001E] Je...\nsouhaitais juste aider les gens à\natteindre leurs rêves, [1205][U+000F] comme Sœurette!",
    "brut_en": "Father...[SP]We[SP]need[SP]to[SP]stop[SP]this...[1205][001E][SP]I...[SP]I[SP]just\nwanted[SP]to[SP]be[SP]like[SP]Big[SP]Sis[SP]and[SP]lead[SP]everyone\nto[SP]their[SP]dreams!",
    "data_size": 236,
    "budget": 228
@@ -846,19 +858,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et je t'ai donné ce pouvoir et l'In Lak'ech"
+       "t": "Et je t'ai donné ce pouvoir et l'In"
       },
       {
        "nl": true
       },
       {
-       "t": "pour que ton rêve se réalise, alors pourquoi"
+       "t": "Lak'ech pour que ton rêve se réalise,"
       },
       {
        "nl": true
       },
       {
-       "t": "me résister?"
+       "t": "alors "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pourquoi me résister?"
       }
      ]
     }
@@ -887,7 +905,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et je t'ai donné ce pouvoir et l'In Lak'ech\npour que ton rêve se réalise, alors pourquoi\nme résister?",
+   "brut_fr": "Et je t'ai donné ce pouvoir et l'In\nLak'ech pour que ton rêve se réalise,\nalors [1205][U+000F] pourquoi me résister?",
    "brut_en": "And[SP]that's[SP]why[SP]I[SP]gave[SP]you[SP]that[SP]power[SP]and[SP]the\nIn[SP]Lak'ech.[SP]Your[SP]dream[SP]has[SP]come[SP]true,[SP]so[SP]why\nresist[SP]me?",
    "data_size": 238,
    "budget": 230
@@ -901,22 +919,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est désormais à toi de réaliser MON rêve..."
+       "t": "C'est désormais à toi de réaliser MON"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rêve..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "En tant que père, j'écraserais tout"
+       "t": " En tant que père, j'écraserais"
       },
       {
        "nl": true
       },
       {
-       "t": "ceux qui te manipulent. Alors viens."
+       "t": "tout"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ceux qui te manipulent. Alors viens."
       }
      ]
     }
@@ -948,7 +975,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est désormais à toi de réaliser MON rêve...[1205][001E]\nEn tant que père, j'écraserais tout\nceux qui te manipulent. Alors viens.",
+   "brut_fr": "C'est désormais à toi de réaliser MON\nrêve...[1205][001E] En tant que père, j'écraserais\ntout[1205][U+000F] ceux qui te manipulent. Alors viens.",
    "brut_en": "It's[SP]your[SP]turn[SP]now[SP]to[SP]grant[SP]MY[SP]dream...[1205][001E]\nAnd[SP]as[SP]your[SP]father,[SP]I[SP]will[SP]eliminate[SP]anyone\nwho[SP]tries[SP]to[SP]deceive[SP]you.[SP]Now,[SP]come.",
    "data_size": 282,
    "budget": 274
@@ -1090,13 +1117,13 @@
        "pause": true
       },
       {
-       "t": " Tu vas faire partie des"
+       "t": " Tu vas faire partie"
       },
       {
        "nl": true
       },
       {
-       "t": "fondations de ce nouveau monde..."
+       "t": "des fondations de ce nouveau monde..."
       }
      ]
     }
@@ -1131,7 +1158,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je prendrais la tête du Cercle Masqué.\nAdieu, mon fils.[1205][001E] Tu vas faire partie des\nfondations de ce nouveau monde...",
+   "brut_fr": "Je prendrais la tête du Cercle Masqué.\nAdieu, mon fils.[1205][001E] Tu vas faire partie\ndes fondations de ce nouveau monde...",
    "brut_en": "I[SP]will[SP]lead[SP]the[SP]Masked[SP]Circle[SP]in[SP]your[SP]stead.\nFarewell,[SP]my[SP]son.[1205][001E][SP]You[SP]will[SP]become[SP]part[SP]of[SP]the\nfoundation[SP]for[SP]the[SP]new[SP]world...",
    "data_size": 286,
    "budget": 278
@@ -1151,13 +1178,13 @@
        "pause": true
       },
       {
-       "t": "< Un long cauchemar, tout ce"
+       "t": "< Un long"
       },
       {
        "nl": true
       },
       {
-       "t": "temps...?"
+       "t": "cauchemar, tout ce temps...?"
       }
      ]
     }
@@ -1186,7 +1213,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ai-je fait...[1205]< Un long cauchemar, tout ce\ntemps...?",
+   "brut_fr": "Ai-je fait...[1205]< Un long\ncauchemar, tout ce temps...?",
    "brut_en": "This[SP]whole[SP]time...[1205]<[SP]Was[SP]I...[SP]having[SP]a\nnightmare...?",
    "data_size": 124,
    "budget": 116
@@ -1371,16 +1398,19 @@
        "pause": true
       },
       {
-       "t": " Elle s'était arrêtée..."
-      },
-      {
-       "pause": true
+       "t": " Elle s'était"
       },
       {
        "nl": true
       },
       {
-       "t": "depuis ce jour..."
+       "t": "arrêtée..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " depuis ce jour..."
       },
       {
        "pause": true
@@ -1418,7 +1448,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'aiguille bouge...[1205][001E] Elle s'était arrêtée...[1205][001E]\ndepuis ce jour...[1205][001E]",
+   "brut_fr": "L'aiguille bouge...[1205][001E] Elle s'était\narrêtée...[1205][001E] depuis ce jour...[1205][001E]",
    "brut_en": "It's[SP]ticking...[1205][001E][SP]It[SP]had[SP]been[SP]stopped...[1205][001E]\nEver[SP]since[SP]that[SP]day...[1205][001E]",
    "data_size": 154,
    "budget": 146
@@ -1511,16 +1541,19 @@
        "pause": true
       },
       {
-       "t": " Voici ce que je ressens..."
-      },
-      {
-       "pause": true
+       "t": " Voici ce que je"
       },
       {
        "nl": true
       },
       {
-       "t": "Je te jure..."
+       "t": "ressens..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je te jure..."
       }
      ]
     }
@@ -1552,7 +1585,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun...[1205][001E] Voici ce que je ressens...[1205][001E]\nJe te jure...",
+   "brut_fr": "Jun...[1205][001E] Voici ce que je\nressens...[1205][001E] Je te jure...",
    "brut_en": "Jun-kun...[1205][001E][SP]This[SP]is[SP]how[SP]I[SP]feel...[1205][001E]\nI[SP]promise[SP]you...",
    "data_size": 128,
    "budget": 120
@@ -1572,25 +1605,22 @@
        "pause": true
       },
       {
-       "t": " Même si je"
+       "nl": true
+      },
+      {
+       "t": "Même si je me met le monde à"
       },
       {
        "nl": true
       },
       {
-       "t": "me met le monde à dos..."
+       "t": "dos..."
       },
       {
        "pause": true
       },
       {
-       "t": " Je tiendrai"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "ma promesse..."
+       "t": " Je tiendrai ma promesse..."
       }
      ]
     }
@@ -1631,7 +1661,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Que peu importe tes ennemis...[1205][001E] Même si je\nme met le monde à dos...[1205][001E] Je tiendrai\nma promesse...",
+   "brut_fr": "Que peu importe tes ennemis...[1205][001E]\nMême si je me met le monde à\ndos...[1205][001E] Je tiendrai ma promesse...",
    "brut_en": "No[SP]matter[SP]who[SP]stands[SP]against[SP]you...[1205][001E][SP]Even[SP]if\nthe[SP]whole[SP]world[SP]becomes[SP]my[SP]enemy...[1205][001E][SP]I'll[SP]keep\nmy[SP]promise...",
    "data_size": 236,
    "budget": 228
@@ -1657,16 +1687,19 @@
        "pause": true
       },
       {
-       "t": "< suis désolé, Sœurette..."
-      },
-      {
-       "pause": true
+       "t": "< suis désolé,"
       },
       {
        "nl": true
       },
       {
-       "t": "Si désolé... "
+       "t": "Sœurette..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Si désolé... "
       },
       {
        "hero": "prenom"
@@ -1716,7 +1749,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une [E4][NULL][NULL][U+0006]Némophile...[E4][NULL][NULL][0002] Je...[1205]< suis désolé, Sœurette...[1205][001E]\nSi désolé... [1113]...",
+   "brut_fr": "Une [E4][NULL][NULL][U+0006]Némophile...[E4][NULL][NULL][0002] Je...[1205]< suis désolé,\nSœurette...[1205][001E] Si désolé... [1113]...",
    "brut_en": "A[SP][E4][NULL][NULL][U+0006]Nemophilia[E4][NULL][NULL][0002][SP]flower...[1205]<[SP]I'm[SP]sorry...[SP]Big[SP]Sis...[1205][001E]\nI'm[SP]so[SP]sorry...[SP][1113]...",
    "data_size": 178,
    "budget": 170
@@ -1810,13 +1843,13 @@
        "pause": true
       },
       {
-       "t": " Le chef du Cercle Masqué laisse"
+       "t": " Le chef du Cercle Masqué"
       },
       {
        "nl": true
       },
       {
-       "t": "ses ennemis le prendre en pitié?"
+       "t": "laisse ses ennemis le prendre en pitié?"
       }
      ]
     }
@@ -1845,7 +1878,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quelle honte.[1205][001E] Le chef du Cercle Masqué laisse\nses ennemis le prendre en pitié?",
+   "brut_fr": "Quelle honte.[1205][001E] Le chef du Cercle Masqué\nlaisse ses ennemis le prendre en pitié?",
    "brut_en": "Shame[SP]on[SP]you.[1205][001E][SP]The[SP]head[SP]of[SP]the[SP]Masked[SP]Circle\ndares[SP]to[SP]allow[SP]his[SP]enemies[SP]to[SP]pity[SP]him?",
    "data_size": 190,
    "budget": 182
@@ -1865,13 +1898,13 @@
        "pause": true
       },
       {
-       "t": " Venge-toi et ouvre la voie de"
+       "t": " Venge-toi et"
       },
       {
        "nl": true
       },
       {
-       "t": "l'Idéalien."
+       "t": "ouvre la voie de l'Idéalien."
       }
      ]
     }
@@ -1900,7 +1933,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Viens, Jun.[1205][001E] Venge-toi et ouvre la voie de\nl'Idéalien.",
+   "brut_fr": "Viens, Jun.[1205][001E] Venge-toi et\nouvre la voie de l'Idéalien.",
    "brut_en": "Come,[SP]Jun...[1205][001E][SP]Claim[SP]your[SP]revenge[SP]and[SP]open[SP]the\nway[SP]to[SP]Idealian.",
    "data_size": 146,
    "budget": 138
@@ -1920,19 +1953,25 @@
        "pause": true
       },
       {
-       "t": " Je... souhaitais juste"
+       "t": " Je..."
       },
       {
        "nl": true
       },
       {
-       "t": "aider les gens à atteindre leurs rêves, comme"
+       "t": "souhaitais juste aider les gens à"
       },
       {
        "nl": true
       },
       {
-       "t": "Sœurette!"
+       "t": "atteindre leurs rêves, "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " comme Sœurette!"
       }
      ]
     }
@@ -1967,7 +2006,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Père... Arrêtons tout ça...[1205][001E] Je... souhaitais juste\naider les gens à atteindre leurs rêves, comme\nSœurette!",
+   "brut_fr": "Père... Arrêtons tout ça...[1205][001E] Je...\nsouhaitais juste aider les gens à\natteindre leurs rêves, [1205][U+000F] comme Sœurette!",
    "brut_en": "Father...[SP]We[SP]need[SP]to[SP]stop[SP]this...[1205][001E][SP]I...[SP]I[SP]just\nwanted[SP]to[SP]be[SP]like[SP]Big[SP]Sis[SP]and[SP]lead[SP]everyone\nto[SP]their[SP]dreams!",
    "data_size": 236,
    "budget": 228
@@ -1981,19 +2020,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et je t'ai donné ce pouvoir et l'In Lak'ech"
+       "t": "Et je t'ai donné ce pouvoir et l'In"
       },
       {
        "nl": true
       },
       {
-       "t": "pour que ton rêve se réalise, alors pourquoi"
+       "t": "Lak'ech pour que ton rêve se réalise,"
       },
       {
        "nl": true
       },
       {
-       "t": "me résister?"
+       "t": "alors "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pourquoi me résister?"
       }
      ]
     }
@@ -2022,7 +2067,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et je t'ai donné ce pouvoir et l'In Lak'ech\npour que ton rêve se réalise, alors pourquoi\nme résister?",
+   "brut_fr": "Et je t'ai donné ce pouvoir et l'In\nLak'ech pour que ton rêve se réalise,\nalors [1205][U+000F] pourquoi me résister?",
    "brut_en": "And[SP]that's[SP]why[SP]I[SP]gave[SP]you[SP]that[SP]power[SP]and[SP]the\nIn[SP]Lak'ech.[SP]Your[SP]dream[SP]has[SP]come[SP]true,[SP]so[SP]why\nresist[SP]me?",
    "data_size": 238,
    "budget": 230
@@ -2036,22 +2081,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est désormais à toi de réaliser MON rêve..."
+       "t": "C'est désormais à toi de réaliser MON"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rêve..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "En tant que père, j'écraserais tout"
+       "t": " En tant que père, j'écraserais"
       },
       {
        "nl": true
       },
       {
-       "t": "ceux qui te manipulent. Alors viens."
+       "t": "tout"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ceux qui te manipulent. Alors viens."
       }
      ]
     }
@@ -2083,7 +2137,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est désormais à toi de réaliser MON rêve...[1205][001E]\nEn tant que père, j'écraserais tout\nceux qui te manipulent. Alors viens.",
+   "brut_fr": "C'est désormais à toi de réaliser MON\nrêve...[1205][001E] En tant que père, j'écraserais\ntout[1205][U+000F] ceux qui te manipulent. Alors viens.",
    "brut_en": "It's[SP]your[SP]turn[SP]now[SP]to[SP]grant[SP]MY[SP]dream...[1205][001E]\nAnd[SP]as[SP]your[SP]father,[SP]I[SP]will[SP]eliminate[SP]anyone\nwho[SP]tries[SP]to[SP]deceive[SP]you.[SP]Now,[SP]come.",
    "data_size": 282,
    "budget": 274

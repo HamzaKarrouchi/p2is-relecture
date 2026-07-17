@@ -16,13 +16,7 @@
        "pause": true
       },
       {
-       "t": " Je n'ai"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pas oublié..."
+       "t": " Je n'ai pas oublié..."
       },
       {
        "pause": true
@@ -63,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je comprends...[1205][001E] Je n'ai\npas oublié...[1205][001E] Assez...",
+   "brut_fr": "Je comprends...[1205][001E] Je n'ai pas oublié...[1205][001E] Assez...",
    "brut_en": "I[SP]get[SP]it...[1205][001E][SP]I[SP]didn't[SP]forget...[1205][001E][SP]So[SP]please,\nno[SP]more...",
    "data_size": 136,
    "budget": 128
@@ -199,10 +193,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "C'est ma faute..."
+       "t": " C'est ma faute..."
       },
       {
        "pause": true
@@ -231,7 +222,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'était pas toi...[1205][001E]\nC'est ma faute...[1205][001E]",
+   "brut_fr": "C'était pas toi...[1205][001E] C'est ma faute...[1205][001E]",
    "brut_en": "It[SP]wasn't[SP]you...[1205][001E][SP]This[SP]is[SP]all[SP]my[SP]fault...[1205][001E]",
    "data_size": 116,
    "budget": 108
@@ -245,13 +236,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je... quel idiot ! J'avais peur"
+       "t": "Je... quel idiot! J'avais peur de"
       },
       {
        "nl": true
       },
       {
-       "t": "de ce que j'avais fait... je m'étais"
+       "t": "ce que j'avais fait... je m'étais"
       },
       {
        "nl": true
@@ -286,7 +277,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je... quel idiot ! J'avais peur\nde ce que j'avais fait... je m'étais\nconvaincu que c'était un rêve...",
+   "brut_fr": "Je... quel idiot! J'avais peur de\nce que j'avais fait... je m'étais\nconvaincu que c'était un rêve...",
    "brut_en": "I...[SP]I'm[SP]such[SP]an[SP]idiot![SP]I[SP]was[SP]so[SP]scared[SP]of\nwhat[SP]I[SP]did[SP]that[SP]I[SP]tried[SP]to[SP]convince[SP]myself\nit[SP]was[SP]all[SP]a[SP]dream...",
    "data_size": 242,
    "budget": 234
@@ -306,16 +297,13 @@
        "pause": true
       },
       {
-       "t": " Depuis que j'ai entendu "
-      },
-      {
-       "enc": "Cercle"
+       "t": " Depuis que j'ai entendu"
       },
       {
        "nl": true
       },
       {
-       "enc": "masqué"
+       "enc": "Cercle masqué"
       },
       {
        "t": "..."
@@ -324,13 +312,13 @@
        "pause": true
       },
       {
-       "t": " J'ai commencé à me souvenir"
+       "t": " J'ai commencé à"
       },
       {
        "nl": true
       },
       {
-       "t": "que c'était réel..."
+       "t": "me souvenir que c'était réel..."
       }
      ]
     }
@@ -377,7 +365,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je savais.[1205][001E] Depuis que j'ai entendu [1432][NULL][NULL][0014]Cercle\nmasqué[1432][NULL][NULL][0014]...[1205][001E] J'ai commencé à me souvenir\nque c'était réel...",
+   "brut_fr": "Je savais.[1205][001E] Depuis que j'ai entendu\n[1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]...[1205][001E] J'ai commencé à\nme souvenir que c'était réel...",
    "brut_en": "I[SP]knew.[1205][001E][SP]Ever[SP]since[SP]I[SP]heard[SP]the[SP]name[SP][1432][NULL][NULL][0014]Masked\nCircle[1432][NULL][NULL][0014]...[1205][001E][SP]I[SP]started[SP]to[SP]remember[SP]that[SP]what\nhappened[SP]was[SP]real...",
    "data_size": 258,
    "budget": 250
@@ -397,13 +385,13 @@
        "pause": true
       },
       {
-       "t": " J'espérais"
+       "t": " J'espérais que"
       },
       {
        "nl": true
       },
       {
-       "t": "que c'était un mauvais rêve..."
+       "t": "c'était un mauvais rêve..."
       },
       {
        "pause": true
@@ -438,7 +426,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ces dix ans...[1205][001E] J'espérais\nque c'était un mauvais rêve...[1205][001E]",
+   "brut_fr": "Ces dix ans...[1205][001E] J'espérais que\nc'était un mauvais rêve...[1205][001E]",
    "brut_en": "The[SP]last[SP]ten[SP]years...[1205][001E][SP]I[SP]had[SP]hoped[SP]it[SP]was[SP]all\njust[SP]a[SP]bad[SP]dream...[1205][001E]",
    "data_size": 160,
    "budget": 152
@@ -464,13 +452,13 @@
        "pause": true
       },
       {
-       "t": " J'ai"
+       "t": " J'ai cru"
       },
       {
        "nl": true
       },
       {
-       "t": "cru que j'avais tout imaginé..."
+       "t": "que j'avais tout imaginé..."
       }
      ]
     }
@@ -505,7 +493,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Au bout d'un moment, je ne savais\nplus ce qui était réel.[1205][001E] J'ai\ncru que j'avais tout imaginé...",
+   "brut_fr": "Au bout d'un moment, je ne savais\nplus ce qui était réel.[1205][001E] J'ai cru\nque j'avais tout imaginé...",
    "brut_en": "Eventually,[SP]I[SP]couldn't[SP]tell[SP]what[SP]was[SP]real\nanymore.[1205][001E][SP]I[SP]began[SP]to[SP]think[SP]it[SP]had[SP]all[SP]been\nin[SP]my[SP]head...",
    "data_size": 222,
    "budget": 214
@@ -519,7 +507,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'est-il arrivé après ?"
+       "t": "Qu'est-il arrivé après?"
       }
      ]
     }
@@ -536,7 +524,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'est-il arrivé après ?",
+   "brut_fr": "Qu'est-il arrivé après?",
    "brut_en": "What[SP]happened[SP]after[SP]that?",
    "data_size": 76,
    "budget": 68
@@ -647,13 +635,16 @@
        "pause": true
       },
       {
-       "t": " On était de"
+       "t": " On était"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "vrais gamins. C'était pas malin..."
+       "t": "de vrais gamins. C'était pas malin..."
       }
      ]
     }
@@ -688,7 +679,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On pensait que si elle passait une nuit là,\nelle ne pourrait pas déménager...[1205][001E] On était de\nvrais gamins. C'était pas malin...",
+   "brut_fr": "On pensait que si elle passait une nuit là,\nelle ne pourrait pas déménager...[1205][001E] On était[1205][U+000F]\nde vrais gamins. C'était pas malin...",
    "brut_en": "We[SP]thought[SP]if[SP]she[SP]spent[SP]one[SP]night[SP]there,[SP]she\nwouldn't[SP]be[SP]able[SP]to[SP]move[SP]away...[1205][001E][SP]We[SP]were[SP]such\ndumb[SP]kids.[SP]It[SP]didn't[SP]make[SP]much[SP]sense...",
    "data_size": 292,
    "budget": 284
@@ -824,19 +815,19 @@
        "pause": true
       },
       {
-       "t": " On a caché"
+       "t": " On a caché nos"
       },
       {
        "nl": true
       },
       {
-       "t": "nos masques ici en pleurant,"
+       "t": "masques ici en pleurant, et juré de"
       },
       {
        "nl": true
       },
       {
-       "t": "et juré de ne plus jamais se revoir..."
+       "t": "ne plus jamais se revoir..."
       }
      ]
     }
@@ -871,7 +862,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun, Ginko et moi...[1205][001E] On a caché\nnos masques ici en pleurant,\net juré de ne plus jamais se revoir...",
+   "brut_fr": "Jun, Ginko et moi...[1205][001E] On a caché nos\nmasques ici en pleurant, et juré de\nne plus jamais se revoir...",
    "brut_en": "Jun,[SP]Ginko,[SP]and[SP]me...[1205][001E][SP]We[SP]hid[SP]our[SP]masks[SP]in\nthis[SP]secret[SP]hideout,[SP]crying[SP]our[SP]eyes[SP]out,\nand[SP]made[SP]one[SP]last[SP]rule[SP]never[SP]to[SP]meet[SP]again...",
    "data_size": 290,
    "budget": 282
@@ -891,13 +882,10 @@
        "hero": "prenom"
       },
       {
-       "t": " avait"
-      },
-      {
        "nl": true
       },
       {
-       "t": "été poignardé mais avait survécu..."
+       "t": "avait été poignardé mais avait survécu..."
       },
       {
        "pause": true
@@ -944,7 +932,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien plus tard, j'ai appris que [1113] avait\nété poignardé mais avait survécu...[1205][001E]\nMais je n'ai pas osé me montrer...",
+   "brut_fr": "Bien plus tard, j'ai appris que [1113]\navait été poignardé mais avait survécu...[1205][001E]\nMais je n'ai pas osé me montrer...",
    "brut_en": "Way[SP]later,[SP]I[SP]heard[SP]a[SP]rumor[SP]that[SP][1113][SP]had\nbeen[SP]stabbed[SP]by[SP]the[SP]arsonist,[SP]but[SP]lived...[1205][001E]\nStill,[SP]I[SP]didn't[SP]dare[SP]show[SP]my[SP]face...",
    "data_size": 266,
    "budget": 258
@@ -958,19 +946,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu as protégé sœurette jusqu'au"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "bout..."
+       "t": "Tu as protégé sœurette jusqu'au bout..."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais moi... je l'ai... tuée...!"
+       "nl": true
+      },
+      {
+       "t": "Mais moi... je l'ai... tuée...!"
       }
      ]
     }
@@ -999,7 +984,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu as protégé sœurette jusqu'au\nbout...[1205][001E] Mais moi... je l'ai... tuée...!",
+   "brut_fr": "Tu as protégé sœurette jusqu'au bout...[1205][001E]\nMais moi... je l'ai... tuée...!",
    "brut_en": "You[SP]tried[SP]to[SP]protect[SP]our[SP]Big[SP]Sis[SP]to[SP]the\nvery[SP]end...[1205][001E][SP]But[SP]I...[SP]killed[SP]her...!",
    "data_size": 182,
    "budget": 174
@@ -1019,13 +1004,7 @@
        "pause": true
       },
       {
-       "t": "< C'est faux."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Elle est en vie..."
+       "t": "< C'est faux. Elle est en vie..."
       }
      ]
     }
@@ -1048,7 +1027,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non...[1205]< C'est faux.\nElle est en vie...",
+   "brut_fr": "Non...[1205]< C'est faux. Elle est en vie...",
    "brut_en": "No...[1205]<[SP]You[SP]didn't.[SP]Big[SP]Sis[SP]is[SP]alive...",
    "data_size": 102,
    "budget": 94
@@ -1123,19 +1102,28 @@
        "pause": true
       },
       {
+       "t": " J'ai"
+      },
+      {
        "nl": true
       },
       {
-       "t": "J'ai demandé à mon père d'appeler la police."
+       "t": "demandé à mon père d'appeler la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "police."
       },
       {
        "pause": true
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Mais pas de corps retrouvé..."
+       "t": " Mais pas de corps retrouvé..."
       }
      ]
     }
@@ -1173,7 +1161,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand le sanctuaire a brûlé...[1205][001E]\nJ'ai demandé à mon père d'appeler la police.[1205][001E]\nMais pas de corps retrouvé...",
+   "brut_fr": "Quand le sanctuaire a brûlé...[1205][001E] J'ai\ndemandé à mon père d'appeler la\npolice.[1205][001E][1205][U+000F] Mais pas de corps retrouvé...",
    "brut_en": "When[SP]the[SP]shrine[SP]burned[SP]down[SP]and[SP]it[SP]became[SP]a\nhuge[SP]deal...[1205][001E][SP]I[SP]had[SP]my[SP]dad[SP]call[SP]the[SP]police.[1205][001E]\nBut[SP]they[SP]said[SP]there[SP]were[SP]no[SP]bodies[SP]found...",
    "data_size": 292,
    "budget": 284
@@ -1187,16 +1175,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Voilà pourquoi tu étais si perdue..."
-      },
-      {
-       "pause": true
+       "t": "Voilà pourquoi tu étais si"
       },
       {
        "nl": true
       },
       {
-       "t": "T'étais une gamine."
+       "t": "perdue..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " T'étais une gamine."
       }
      ]
     }
@@ -1222,7 +1213,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Voilà pourquoi tu étais si perdue...[1205][001E]\nT'étais une gamine.",
+   "brut_fr": "Voilà pourquoi tu étais si\nperdue...[1205][001E] T'étais une gamine.",
    "brut_en": "So[SP]that's[SP]why[SP]you[SP]were[SP]so[SP]confused...[1205][001E]\nYou[SP]were[SP]just[SP]a[SP]kid.",
    "data_size": 146,
    "budget": 138
@@ -1242,10 +1233,13 @@
        "enc": "sœurette"
       },
       {
+       "t": " est"
+      },
+      {
        "nl": true
       },
       {
-       "t": "est encore en vie ? C'est bien !"
+       "t": "encore en vie? C'est bien!"
       }
      ]
     }
@@ -1274,7 +1268,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Alors cette [1432][NULL][NULL][0014]sœurette[1432][NULL][NULL][0014]\nest encore en vie ? C'est bien !",
+   "brut_fr": "Alors cette [1432][NULL][NULL][0014]sœurette[1432][NULL][NULL][0014] est\nencore en vie? C'est bien!",
    "brut_en": "Then[SP]this[SP][1432][NULL][NULL][0014]Big[SP]Sis[1432][NULL][NULL][0014][SP]is[SP]still[SP]alive?\nThat's[SP]good[SP]to[SP]hear.",
    "data_size": 150,
    "budget": 142
@@ -1288,19 +1282,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Non !"
+       "t": "Non!"
       },
       {
        "pause": true
       },
       {
-       "t": " Vous voyez pas ?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "C'est Joker, sœurette !"
+       "t": " Vous voyez pas? C'est Joker, sœurette!"
       }
      ]
     }
@@ -1329,7 +1317,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non ![1205][001E] Vous voyez pas ?\nC'est Joker, sœurette !",
+   "brut_fr": "Non![1205][001E] Vous voyez pas? C'est Joker, sœurette!",
    "brut_en": "No,[SP]it[SP]isn't![1205][001E][SP]Don't[SP]you[SP]see...?\nBig[SP]Sis[SP]is[SP]Joker!",
    "data_size": 126,
    "budget": 118
@@ -1386,7 +1374,7 @@
        "enc": "comme une déesse"
       },
       {
-       "t": " ! Sœurette aussi !"
+       "t": "! Sœurette aussi!"
       }
      ]
     }
@@ -1415,7 +1403,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Roi Lion a dit que Joker était [1432][NULL][NULL][0014]belle\ncomme une déesse[1432][NULL][NULL][0014] ! Sœurette aussi !",
+   "brut_fr": "Roi Lion a dit que Joker était [1432][NULL][NULL][0014]belle\ncomme une déesse[1432][NULL][NULL][0014]! Sœurette aussi!",
    "brut_en": "King[SP]Leo[SP]said[SP]Joker[SP]was[SP]as[SP][1432][NULL][NULL][0014]beautiful[SP]as[SP]a\ngoddess[1432][NULL][NULL][0014]![SP]Big[SP]Sis[SP]was[SP]like[SP]that!",
    "data_size": 186,
    "budget": 178
@@ -1472,13 +1460,19 @@
        "nl": true
       },
       {
-       "t": "fait passer pour l'une de vous... J'attendais"
+       "t": "fait passer pour l'une de vous..."
       },
       {
        "nl": true
       },
       {
-       "t": "que vous vous souveniez de tout !"
+       "t": "J'attendais"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que vous vous souveniez de tout!"
       }
      ]
     }
@@ -1513,7 +1507,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est exact, je suis vivante.[1205][001E] Je me suis\nfait passer pour l'une de vous... J'attendais\nque vous vous souveniez de tout !",
+   "brut_fr": "C'est exact, je suis vivante.[1205][001E] Je me suis\nfait passer pour l'une de vous...\nJ'attendais[1205][U+000F] que vous vous souveniez de tout!",
    "brut_en": "That's[SP]right,[SP]I'm[SP]alive.[1205][001E][SP]I[SP]posed[SP]as[SP]one[SP]of\nyour[SP]team[SP]to[SP]get[SP]my[SP]revenge...[SP]I[SP]was[SP]only\nwaiting[SP]for[SP]you[SP]to[SP]remember[SP]everything!",
    "data_size": 274,
    "budget": 266
@@ -1607,13 +1601,13 @@
        "pause": true
       },
       {
-       "t": " Vous allez souffrir la même terreur"
+       "t": " Vous allez souffrir"
       },
       {
        "nl": true
       },
       {
-       "t": "que moi !"
+       "t": "la même terreur que moi!"
       }
      ]
     }
@@ -1642,7 +1636,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non.[1205][001E] Vous allez souffrir la même terreur\nque moi !",
+   "brut_fr": "Non.[1205][001E] Vous allez souffrir\nla même terreur que moi!",
    "brut_en": "No.[1205][001E][SP]You'll[SP]suffer[SP]through[SP]the[SP]same[SP]terror\nthat[SP]I[SP]had[SP]to!",
    "data_size": 138,
    "budget": 130
@@ -1687,13 +1681,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "T-Toi...!? C'est impossible ! Mes comparses"
+       "t": "T-Toi...!? C'est impossible! Mes"
       },
       {
        "nl": true
       },
       {
-       "t": "auraient dû s'occuper de toi !"
+       "t": "comparses auraient dû s'occuper de toi!"
       }
      ]
     }
@@ -1716,7 +1710,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T-Toi...!? C'est impossible ! Mes comparses\nauraient dû s'occuper de toi !",
+   "brut_fr": "T-Toi...!? C'est impossible! Mes\ncomparses auraient dû s'occuper de toi!",
    "brut_en": "Y-You...!?[SP]That's[SP]impossible![SP]My[SP]cohorts\nshould[SP]have[SP]dealt[SP]with[SP]you[SP]by[SP]now!",
    "data_size": 172,
    "budget": 164
@@ -1730,7 +1724,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une héroïne ne tombe pas si facilement !"
+       "t": "Une héroïne ne tombe pas si facilement!"
       }
      ]
     }
@@ -1747,7 +1741,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une héroïne ne tombe pas si facilement !",
+   "brut_fr": "Une héroïne ne tombe pas si facilement!",
    "brut_en": "A[SP]heroine[SP]can't[SP]go[SP]down[SP]that[SP]easy,[SP]right?",
    "data_size": 104,
    "budget": 96
@@ -1804,7 +1798,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ciao ! Désolée du retard."
+       "t": "Ciao! Désolée du retard."
       }
      ]
     }
@@ -1821,7 +1815,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ciao ! Désolée du retard.",
+   "brut_fr": "Ciao! Désolée du retard.",
    "brut_en": "Ciao,[SP]everyone.[SP]Sorry[SP]I'm[SP]late.",
    "data_size": 84,
    "budget": 76
@@ -1835,13 +1829,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cette Maya est une impostrice causée par"
+       "t": "Cette Maya est une impostrice causée"
       },
       {
        "nl": true
       },
       {
-       "t": "les rumeurs terroristes..."
+       "t": "par les rumeurs terroristes..."
       },
       {
        "pause": true
@@ -1853,7 +1847,7 @@
        "nl": true
       },
       {
-       "t": "une espionne du Cercle masqué !"
+       "t": "une espionne du Cercle masqué!"
       }
      ]
     }
@@ -1888,7 +1882,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cette Maya est une impostrice causée par\nles rumeurs terroristes...[1205][001E] C'est\nune espionne du Cercle masqué !",
+   "brut_fr": "Cette Maya est une impostrice causée\npar les rumeurs terroristes...[1205][001E] C'est\nune espionne du Cercle masqué!",
    "brut_en": "That[SP]Maya's[SP]an[SP]impostor,[SP]probably[SP]caused[SP]by\nthose[SP]terrorist[SP]rumors...[1205][001E][SP]She's[SP]a[SP]spy[SP]from\nthe[SP]Masked[SP]Circle!",
    "data_size": 236,
    "budget": 228
@@ -1908,13 +1902,13 @@
        "pause": true
       },
       {
-       "t": " Et juste quand tout commençait"
+       "t": " Et juste quand tout"
       },
       {
        "nl": true
       },
       {
-       "t": "à aller si bien...!"
+       "t": "commençait à aller si bien...!"
       }
      ]
     }
@@ -1943,7 +1937,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Toi...[1205][001E] Et juste quand tout commençait\nà aller si bien...!",
+   "brut_fr": "Toi...[1205][001E] Et juste quand tout\ncommençait à aller si bien...!",
    "brut_en": "You...[1205][001E][SP]And[SP]just[SP]when[SP]everything[SP]was[SP]starting\nto[SP]go[SP]so[SP]smoothly...!",
    "data_size": 158,
    "budget": 150
@@ -1963,13 +1957,7 @@
        "pause": true
       },
       {
-       "t": " Vous ne serez plus"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "un obstacle..."
+       "t": " Vous ne serez plus un obstacle..."
       }
      ]
     }
@@ -1998,7 +1986,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En effet...[1205][001E] Vous ne serez plus\nun obstacle...",
+   "brut_fr": "En effet...[1205][001E] Vous ne serez plus un obstacle...",
    "brut_en": "Indeed...[1205][001E][SP]You[SP]won't[SP]get[SP]in[SP]my[SP]way\nany[SP]longer...",
    "data_size": 118,
    "budget": 110
@@ -2043,13 +2031,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mon plan : leur faire croire que toi"
+       "t": "Mon plan: leur faire croire que"
       },
       {
        "nl": true
       },
       {
-       "t": "tu étais morte, pour les noyer"
+       "t": "toi tu étais morte, pour les noyer"
       },
       {
        "nl": true
@@ -2084,7 +2072,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mon plan : leur faire croire que toi\ntu étais morte, pour les noyer\ndans le désespoir, a échoué...",
+   "brut_fr": "Mon plan: leur faire croire que\ntoi tu étais morte, pour les noyer\ndans le désespoir, a échoué...",
    "brut_en": "My[SP]plan[SP]to[SP]make[SP]them[SP]believe[SP]you[SP]were[SP]the\none[SP]who[SP]died[SP]and[SP]drown[SP]them[SP]in[SP]despair[SP]has\nbeen[SP]ruined...",
    "data_size": 222,
    "budget": 214
@@ -2282,13 +2270,10 @@
        "pause": true
       },
       {
-       "t": " "
+       "nl": true
       },
       {
        "hero": "prenom"
-      },
-      {
-       "nl": true
       },
       {
        "t": "t'a tuée...!"
@@ -2329,7 +2314,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Arrête...[1205][001E] C'est impossible...[1205][001E] [1113]\nt'a tuée...!",
+   "brut_fr": "Arrête...[1205][001E] C'est impossible...[1205][001E]\n[1113]t'a tuée...!",
    "brut_en": "Stop...[1205][001E][SP]That's[SP]impossible...[1205][001E][SP][1113]\nkilled[SP]you...!",
    "data_size": 122,
    "budget": 114
@@ -2343,7 +2328,10 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aucune raison de vous battre, toi et "
+       "t": "Aucune raison de vous battre, toi et"
+      },
+      {
+       "nl": true
       },
       {
        "hero": "prenom"
@@ -2355,16 +2343,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Souviens-toi de cette nuit dans le parc !"
+       "t": " Souviens-toi de cette nuit"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous étiez presque--"
+       "t": "dans le parc! Vous étiez presque--"
       }
      ]
     }
@@ -2405,7 +2390,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aucune raison de vous battre, toi et [1113]...[1205][001E]\nSouviens-toi de cette nuit dans le parc !\nVous étiez presque--",
+   "brut_fr": "Aucune raison de vous battre, toi et\n[1113]...[1205][001E] Souviens-toi de cette nuit\ndans le parc! Vous étiez presque--",
    "brut_en": "There's[SP]no[SP]reason[SP]why[SP]you[SP]and[SP][1113]-kun\nshould[SP]fight...[1205][001E][SP]Remember[SP]that[SP]night[SP]at[SP]the\npark?[SP]It[SP]was[SP]as[SP]if[SP]you[SP]two[SP]were--",
    "data_size": 250,
    "budget": 242

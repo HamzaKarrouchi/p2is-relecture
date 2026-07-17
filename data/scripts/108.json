@@ -10,13 +10,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ouais... C'est ça !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "On aimait sœurette !"
+       "t": "Ouais... C'est ça! On aimait sœurette!"
       }
      ]
     }
@@ -33,7 +27,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouais... C'est ça !\nOn aimait sœurette !",
+   "brut_fr": "Ouais... C'est ça! On aimait sœurette!",
    "brut_en": "Yeah...[SP]Yeah![SP]That's[SP]right![SP]We[SP]loved[SP]Big[SP]Sis!",
    "data_size": 118,
    "budget": 110
@@ -47,16 +41,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle était belle... vive... douce..."
-      },
-      {
-       "pause": true
+       "t": "Elle était belle... vive..."
       },
       {
        "nl": true
       },
       {
-       "t": "Elle nous disait de suivre"
+       "t": "douce..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Elle nous disait de suivre"
       },
       {
        "nl": true
@@ -103,7 +100,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle était belle... vive... douce...[1205][001E]\nElle nous disait de suivre\nnos rêves...[1205][001E] Et puis... j'ai...",
+   "brut_fr": "Elle était belle... vive...\ndouce...[1205][001E] Elle nous disait de suivre\nnos rêves...[1205][001E] Et puis... j'ai...",
    "brut_en": "She[SP]was[SP]beautiful...[SP]energetic...[SP]kind...[1205][001E]\nShe[SP]taught[SP]us[SP]to[SP]follow[SP]our[SP]dreams...[1205][001E]\nAnd[SP]then...[SP]I...",
    "data_size": 228,
    "budget": 220
@@ -126,13 +123,13 @@
        "nl": true
       },
       {
-       "t": "Sœurette nous regardait avec"
+       "t": "Sœurette nous regardait avec un"
       },
       {
        "nl": true
       },
       {
-       "t": "un grand sourire tout le temps..."
+       "t": "grand sourire tout le temps..."
       }
      ]
     }
@@ -164,7 +161,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On jouait au Persona Game ensemble.[1205][001E]\nSœurette nous regardait avec\nun grand sourire tout le temps...",
+   "brut_fr": "On jouait au Persona Game ensemble.[1205][001E]\nSœurette nous regardait avec un\ngrand sourire tout le temps...",
    "brut_en": "We[SP]played[SP]the[SP]Persona[SP]Game[SP]together.[1205][001E]\nBig[SP]Sis[SP]watched[SP]us[SP]with[SP]a[SP]huge[SP]smile[SP]on\nher[SP]face[SP]the[SP]whole[SP]time...",
    "data_size": 234,
    "budget": 226
@@ -178,22 +175,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle disait que nos rêves ne"
+       "t": "Elle disait que nos rêves ne dépendaient"
       },
       {
        "nl": true
       },
       {
-       "t": "dépendaient que de nous!"
+       "t": "que de nous!"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Mais après... je... je...!"
+       "t": " Mais après... je... je...!"
       }
      ]
     }
@@ -222,7 +216,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle disait que nos rêves ne\ndépendaient que de nous![1205][001E]\nMais après... je... je...!",
+   "brut_fr": "Elle disait que nos rêves ne dépendaient\nque de nous![1205][001E] Mais après... je... je...!",
    "brut_en": "She[SP]told[SP]us[SP]that[SP]whether[SP]our[SP]dream[SP]comes\ntrue[SP]depends[SP]on[SP]us![1205][001E][SP]But[SP]then...[SP]I...[SP]I...!",
    "data_size": 194,
    "budget": 186

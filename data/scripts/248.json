@@ -16,13 +16,10 @@
        "pause": true
       },
       {
-       "t": " Ça va"
-      },
-      {
        "nl": true
       },
       {
-       "t": "ruiner ma super coiffure."
+       "t": "Ça va ruiner ma super coiffure."
       }
      ]
     }
@@ -51,7 +48,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*tousse* Toute cette poussière...[1205][001E] Ça va\nruiner ma super coiffure.",
+   "brut_fr": "*tousse* Toute cette poussière...[1205][001E]\nÇa va ruiner ma super coiffure.",
    "brut_en": "*cough*[SP]It's[SP]so[SP]dusty[SP]here...[1205][001E][SP]My[SP]perfect\nhair[SP]is[SP]going[SP]to[SP]get[SP]mussed.",
    "data_size": 170,
    "budget": 162
@@ -71,13 +68,19 @@
        "nl": true
       },
       {
-       "t": "Dépêchons-nous de casser la grande horloge,"
+       "t": "Dépêchons-nous de casser la grande"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'on puisse sortir d'ici."
+       "t": "horloge,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " qu'on puisse sortir d'ici."
       }
      ]
     }
@@ -106,7 +109,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mr Hanya est pas là, on dirait.\nDépêchons-nous de casser la grande horloge,\nqu'on puisse sortir d'ici.",
+   "brut_fr": "Mr Hanya est pas là, on dirait.\nDépêchons-nous de casser la grande\nhorloge,[1205][U+000F] qu'on puisse sortir d'ici.",
    "brut_en": "Looks[SP]like[SP]Mr.[SP]Hanya's[SP]not[SP]here,[SP]either.\nLet's[SP]hurry[SP]and[SP]break[SP]the[SP]big[SP]clock[SP]so\nwe[SP]can[SP]get[SP]outta[SP]here.",
    "data_size": 232,
    "budget": 224
@@ -120,16 +123,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cette sensation à l'instant..."
-      },
-      {
-       "pause": true
+       "t": "Cette sensation à"
       },
       {
        "nl": true
       },
       {
-       "t": "C'était quoi...?"
+       "t": "l'instant..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'était quoi...?"
       }
      ]
     }
@@ -155,7 +161,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cette sensation à l'instant...[1205][001E]\nC'était quoi...?",
+   "brut_fr": "Cette sensation à\nl'instant...[1205][001E] C'était quoi...?",
    "brut_en": "But[SP]that[SP]feeling[SP]a[SP]moment[SP]ago...[1205][001E]\nWhat[SP]was[SP]it...?",
    "data_size": 124,
    "budget": 116
@@ -169,7 +175,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "B-Boss des Calbutes!D-Derrière toi!"
+       "t": "B-Boss des Calbutes! D-Derrière toi!"
       }
      ]
     }
@@ -186,7 +192,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "B-Boss des Calbutes![S]D-Derrière toi!",
+   "brut_fr": "B-Boss des Calbutes![S] D-Derrière toi!",
    "brut_en": "U-U-Undie[SP]Boss![SP]B-Behind![SP]Behind[SP]you!",
    "data_size": 98,
    "budget": 90
@@ -200,7 +206,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "..ne dois..."
+       "t": ".. ne dois..."
       }
      ]
     }
@@ -217,7 +223,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "..ne dois...",
+   "brut_fr": ".. ne dois...",
    "brut_en": "...not[SP]be...",
    "data_size": 68,
    "budget": 60
@@ -231,7 +237,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Hé?"
+       "t": "... Hé?"
       }
      ]
     }
@@ -248,7 +254,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Hé?",
+   "brut_fr": "... Hé?",
    "brut_en": "...Huh?",
    "data_size": 42,
    "budget": 34
@@ -551,13 +557,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Proviseur Hanya! Vous étiez impliqué"
+       "t": "Proviseur Hanya! Vous"
       },
       {
        "nl": true
       },
       {
-       "t": "avec Joker!"
+       "t": "étiez impliqué avec Joker!"
       }
      ]
     }
@@ -580,7 +586,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Proviseur Hanya! Vous étiez impliqué\navec Joker!",
+   "brut_fr": "Proviseur Hanya! Vous\nétiez impliqué avec Joker!",
    "brut_en": "Principal[SP]Hanya![SP]So[SP]you[SP]were[SP]mixed[SP]up\nwith[SP]Joker!",
    "data_size": 122,
    "budget": 114
@@ -594,7 +600,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "La malédiction de l'emblème et les attitudes étranges sont dues à votre lien avec Joker, hein!? Avouez!"
+       "t": "La malédiction de l'emblème et les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "attitudes étranges sont dues à votre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "lien avec Joker, hein!? Avouez!"
       }
      ]
     }
@@ -623,7 +641,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La malédiction de l'emblème et les attitudes étranges sont dues à votre lien avec Joker, hein!? Avouez!",
+   "brut_fr": "La malédiction de l'emblème et les\nattitudes étranges sont dues à votre\nlien avec Joker, hein!? Avouez!",
    "brut_en": "The[SP]emblem[SP]curse[SP]and[SP]everyone[SP]acting[SP]weird\nis[SP]all[SP]because[SP]you[SP]teamed[SP]up[SP]with[SP]Joker,\nisn't[SP]it!?[SP]Fess[SP]up!",
    "data_size": 230,
    "budget": 222
@@ -637,22 +655,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pauvre idiote! Comment oses-tu? Cette "
-      },
-      {
-       "enc": "malédiction"
+       "t": "Pauvre idiote! Comment oses-tu?"
       },
       {
        "nl": true
       },
       {
-       "t": "est un châtiment divin infligé aux"
+       "t": "Cette "
+      },
+      {
+       "enc": " malédiction"
+      },
+      {
+       "t": " est un châtiment"
       },
       {
        "nl": true
       },
       {
-       "t": "mauvais élèves!"
+       "t": "divin infligé aux"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " mauvais élèves!"
       }
      ]
     }
@@ -687,7 +714,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pauvre idiote! Comment oses-tu? Cette [1432][NULL][NULL][0014]malédiction[1432][NULL][NULL][0014]\nest un châtiment divin infligé aux\nmauvais élèves!",
+   "brut_fr": "Pauvre idiote! Comment oses-tu?\nCette [1432][NULL][NULL][0014] malédiction[1432][NULL][NULL][0014] est un châtiment\ndivin infligé aux[1205][U+000F] mauvais élèves!",
    "brut_en": "Foolish[SP]girl![SP]How[SP]dare[SP]you?[SP]The[SP][1432][NULL][NULL][0014]emblem\ncurse[1432][NULL][NULL][0014][SP]is[SP]a[SP]divine[SP]punishment[SP]brought[SP]on\nby[SP]the[SP]students'[SP]poor[SP]conduct!",
    "data_size": 278,
    "budget": 270
@@ -707,13 +734,7 @@
        "nl": true
       },
       {
-       "t": "vos vies à vous soucier d'amour et"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de mode!"
+       "t": "vos vies à vous soucier d'amour et de mode!"
       }
      ]
     }
@@ -742,7 +763,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous oubliez votre place d'élèves, gâchant\nvos vies à vous soucier d'amour et\nde mode!",
+   "brut_fr": "Vous oubliez votre place d'élèves, gâchant\nvos vies à vous soucier d'amour et de mode!",
    "brut_en": "You[SP]fools[SP]forget[SP]that[SP]you're[SP]students[SP]and\nwaste[SP]your[SP]lives[SP]worrying[SP]about[SP]dating\nand[SP]fashion!",
    "data_size": 230,
    "budget": 222
@@ -762,13 +783,13 @@
        "nl": true
       },
       {
-       "t": "Enfin, je n'imaginais pas que la rumeur de"
+       "t": "Enfin, je n'imaginais pas que la"
       },
       {
        "nl": true
       },
       {
-       "t": "Kakasu deviendraitréelle..."
+       "t": "rumeur de Kakasu deviendraitréelle..."
       }
      ]
     }
@@ -797,7 +818,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est votre faute, la malédiction!\nEnfin, je n'imaginais pas que la rumeur de\nKakasu deviendrait[S]réelle...",
+   "brut_fr": "C'est votre faute, la malédiction!\nEnfin, je n'imaginais pas que la\nrumeur de Kakasu deviendrait[S]réelle...",
    "brut_en": "You[SP]brought[SP]this[SP]curse[SP]on[SP]yourselves!\nThough[SP]I[SP]didn't[SP]think[SP]the[SP]rumor[SP]Cuss[SP]High\nstarted[SP]would[SP]come[SP]true...",
    "data_size": 256,
    "budget": 248
@@ -811,19 +832,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais bon, les élèves pourraient juste souhaiter"
+       "t": "Mais bon, les élèves pourraient"
       },
       {
        "nl": true
       },
       {
-       "t": "à Maître Joker de retrouver leur visage"
+       "t": "juste souhaiter à Maître Joker"
       },
       {
        "nl": true
       },
       {
-       "t": "normal!"
+       "t": "de retrouver leur visage"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " normal!"
       }
      ]
     }
@@ -852,7 +879,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais bon, les élèves pourraient juste souhaiter\nà Maître Joker de retrouver leur visage\nnormal!",
+   "brut_fr": "Mais bon, les élèves pourraient\njuste souhaiter à Maître Joker\nde retrouver leur visage[1205][U+000F] normal!",
    "brut_en": "But[SP]if[SP]they'd[SP]make[SP]a[SP]wish[SP]to[SP]Master[SP]Joker,\nthe[SP]students'[SP]faces[SP]would[SP]return[SP]to[SP]normal\nin[SP]no[SP]time.",
    "data_size": 238,
    "budget": 230
@@ -866,13 +893,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sans oublier que suivre Maître Joker est"
+       "t": "Sans oublier que suivre Maître Joker est la"
       },
       {
        "nl": true
       },
       {
-       "t": "la meilleure façon d'avoir une vie accomplie!"
+       "t": "meilleure façon d'avoir une vie accomplie!"
       }
      ]
     }
@@ -901,7 +928,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sans oublier que suivre Maître Joker est\nla meilleure façon d'avoir une vie accomplie!",
+   "brut_fr": "Sans oublier que suivre Maître Joker est la\nmeilleure façon d'avoir une vie accomplie!",
    "brut_en": "Not[SP]only[SP]that,[SP]but[SP]following[SP]Master[SP]Joker\nis[SP]the[SP]essence[SP]of[SP]having[SP]a[SP]chance[SP]at[SP]a\nfulfilling[SP]life!",
    "data_size": 238,
    "budget": 230
@@ -1010,13 +1037,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Joker! Tu voulais pas te venger"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de nous!?"
+       "t": "Joker! Tu voulais pas te venger de nous!?"
       }
      ]
     }
@@ -1039,7 +1060,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Joker! Tu voulais pas te venger\nde nous!?",
+   "brut_fr": "Joker! Tu voulais pas te venger de nous!?",
    "brut_en": "Joker![SP]Weren't[SP]you[SP]out[SP]for[SP]revenge\non[SP]us!?",
    "data_size": 112,
    "budget": 104
@@ -1053,13 +1074,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pourquoi réaliser le souhait de ce vieux"
+       "t": "Pourquoi réaliser le souhait"
       },
       {
        "nl": true
       },
       {
-       "t": "schnock!?"
+       "t": "de ce vieux schnock!?"
       }
      ]
     }
@@ -1082,7 +1103,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pourquoi réaliser le souhait de ce vieux\nschnock!?",
+   "brut_fr": "Pourquoi réaliser le souhait\nde ce vieux schnock!?",
    "brut_en": "What's[SP]the[SP]point[SP]in[SP]granting[SP]a[SP]stupid\ngeezer's[SP]wish!?",
    "data_size": 134,
    "budget": 126
@@ -1158,13 +1179,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est un combat pour mon rêve entre moi,"
+       "t": "C'est un combat pour mon rêve entre moi, le"
       },
       {
        "nl": true
       },
       {
-       "t": "le Donneur..."
+       "t": "Donneur..."
       },
       {
        "pause": true
@@ -1182,13 +1203,7 @@
        "hero": "prenom"
       },
       {
-       "t": ","
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "le Voleur!"
+       "t": ", le Voleur!"
       }
      ]
     }
@@ -1232,7 +1247,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est un combat pour mon rêve entre moi,\nle Donneur...[1205][001E] Et toi, [1112] [1113],\nle Voleur!",
+   "brut_fr": "C'est un combat pour mon rêve entre moi, le\nDonneur...[1205][001E] Et toi, [1112] [1113], le Voleur!",
    "brut_en": "This[SP]is[SP]between[SP]myself,[SP]the[SP]Giver,[SP]and\nyou,[SP]the[SP]Thief...[1205][001E][SP]A[SP]battle[SP]with\n[1112][SP][1113][SP]for[SP]my[SP]dream!",
    "data_size": 204,
    "budget": 196
@@ -1246,25 +1261,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je ne te laisserais plus détruire"
+       "t": "Je ne te laisserais plus détruire mon"
       },
       {
        "nl": true
       },
       {
-       "t": "mon rêve..."
+       "t": "rêve..."
       },
       {
        "pause": true
       },
       {
-       "t": " Je ne répéterais"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pas mon erreur!"
+       "t": " Je ne répéterais pas mon erreur!"
       }
      ]
     }
@@ -1299,7 +1308,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne te laisserais plus détruire\nmon rêve...[1205][001E] Je ne répéterais\npas mon erreur!",
+   "brut_fr": "Je ne te laisserais plus détruire mon\nrêve...[1205][001E] Je ne répéterais pas mon erreur!",
    "brut_en": "I'll[SP]never[SP]let[SP]you[SP]destroy[SP]my[SP]dream\nagain...[1205][001E][SP]I[SP]won't[SP]make[SP]the[SP]same\nmistake[SP]twice!",
    "data_size": 190,
    "budget": 182
@@ -1350,13 +1359,13 @@
        "pause": true
       },
       {
-       "t": " Prenez garde à vos"
+       "t": " Prenez garde"
       },
       {
        "nl": true
       },
       {
-       "t": "rêves pour qui sonne le glas!"
+       "t": "à vos rêves pour qui sonne le glas!"
       }
      ]
     }
@@ -1385,7 +1394,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le temps est libéré...[1205][001E] Prenez garde à vos\nrêves pour qui sonne le glas!",
+   "brut_fr": "Le temps est libéré...[1205][001E] Prenez garde\nà vos rêves pour qui sonne le glas!",
    "brut_en": "Time[SP]is[SP]free[SP]again...[1205][001E][SP]Heed[SP]the[SP]sound[SP]of[SP]the\nbells[SP]that[SP]toll[SP]for[SP]your[SP]dreams!",
    "data_size": 180,
    "budget": 172

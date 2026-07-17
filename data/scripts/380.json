@@ -16,16 +16,19 @@
        "pause": true
       },
       {
-       "t": " B-Bon, j'ai mangé le tanmen fraise..."
-      },
-      {
-       "pause": true
+       "t": " B-Bon, j'ai mangé le tanmen"
       },
       {
        "nl": true
       },
       {
-       "t": "Bon, aux choses sérieuses..."
+       "t": "fraise..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bon, aux choses sérieuses..."
       }
      ]
     }
@@ -57,7 +60,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Blauch...[1205][001E] B-Bon, j'ai mangé le tanmen fraise...[1205][001E]\nBon, aux choses sérieuses...",
+   "brut_fr": "Blauch...[1205][001E] B-Bon, j'ai mangé le tanmen\nfraise...[1205][001E] Bon, aux choses sérieuses...",
    "brut_en": "Blauch...[1205][001E][SP]O-Okay,[SP]I[SP]ate[SP]the[SP]strawberry[SP]tanmen...[1205][001E]\nN-Now[SP]let's[SP]get[SP]down[SP]to[SP]business...",
    "data_size": 194,
    "budget": 186
@@ -217,10 +220,13 @@
        "pause": true
       },
       {
+       "t": " Et"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Et les gyoza aux haricots rouges sucrés?"
+       "t": "les gyoza aux haricots rouges sucrés?"
       }
      ]
     }
@@ -255,7 +261,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai dû commander le mauvais truc...\nJ'ai entendu que c'était dégoûtant.[1205][001E]\nEt les gyoza aux haricots rouges sucrés?",
+   "brut_fr": "J'ai dû commander le mauvais truc...\nJ'ai entendu que c'était dégoûtant.[1205][001E] Et\nles gyoza aux haricots rouges sucrés?",
    "brut_en": "I[SP]must've[SP]just[SP]ordered[SP]the[SP]wrong[SP]thing...\nI[SP]heard[SP]it[SP]was[SP]something[SP]disgusting.[1205][001E][SP]What[SP]about\nthe[SP]sweet[SP]red[SP]bean[SP]gyoza?",
    "data_size": 260,
    "budget": 252
@@ -306,13 +312,7 @@
        "pause": true
       },
       {
-       "t": " Un ramen"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "char siu banane !"
+       "t": " Un ramen char siu banane!"
       }
      ]
     }
@@ -335,7 +335,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pourquoi moi...?[1205][001E] Un ramen\nchar siu banane !",
+   "brut_fr": "Pourquoi moi...?[1205][001E] Un ramen char siu banane!",
    "brut_en": "Why[SP]me...?[1205][001E][SP]One[SP]banana[SP]char[SP]siu[SP]ramen,[SP]Ma'am!",
    "data_size": 118,
    "budget": 110
@@ -380,25 +380,34 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je savais que ce jour viendrait, Eikichi..."
-      },
-      {
-       "pause": true
+       "t": "Je savais que ce jour viendrait,"
       },
       {
        "nl": true
       },
       {
-       "t": "Ces armes sont offertes, adieu."
+       "t": "Eikichi..."
       },
       {
        "pause": true
       },
       {
+       "t": " Ces armes sont offertes,"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Hmmm... Voyons voir..."
+       "t": "adieu."
+      },
+      {
+       "pause": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hmmm... Voyons voir..."
       }
      ]
     }
@@ -436,7 +445,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je savais que ce jour viendrait, Eikichi...[1205][001E]\nCes armes sont offertes, adieu.[1205][001E]\nHmmm... Voyons voir...",
+   "brut_fr": "Je savais que ce jour viendrait,\nEikichi...[1205][001E] Ces armes sont offertes,\nadieu.[1205][001E][1205][U+000F] Hmmm... Voyons voir...",
    "brut_en": "I[SP]knew[SP]this[SP]day[SP]would[SP]come,[SP]Eikichi...[1205][001E][SP]These\nweapons[SP]are[SP]on[SP]the[SP]house,[SP]as[SP]a[SP]farewell[SP]gift.[1205][001E]\nHmmm...[SP]Let's[SP]see...",
    "data_size": 252,
    "budget": 244
@@ -450,31 +459,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Eikichi : Mallette standard."
+       "t": "Eikichi: Mallette standard."
       },
       {
        "pause": true
       },
       {
-       "t": " M. le"
+       "t": " M. le cool:"
       },
       {
        "nl": true
       },
       {
-       "t": "cool : Miséricorde..."
+       "t": "Miséricorde..."
       },
       {
        "pause": true
       },
       {
-       "t": " Et"
+       "t": " Et des Gants en cuir pour la"
       },
       {
        "nl": true
       },
       {
-       "t": "des Gants en cuir pour la fille."
+       "t": "fille."
       }
      ]
     }
@@ -515,7 +524,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eikichi : [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0007]Mallette standard[E4][NULL][NULL][0002].[1205][U+000F] M. le\ncool : [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0006]Miséricorde[E4][NULL][NULL][0002]...[1205][U+000F] Et\ndes [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0008]Gants en cuir[E4][NULL][NULL][0002] pour la fille.",
+   "brut_fr": "Eikichi: [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0007]Mallette standard[E4][NULL][NULL][0002].[1205][U+000F] M. le cool:\n[E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0006]Miséricorde[E4][NULL][NULL][0002]...[1205][U+000F] Et des [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0008]Gants en cuir[E4][NULL][NULL][0002] pour la\nfille.",
    "brut_en": "Eikichi,[SP]you[SP]get[SP]a[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0007]Standard[SP]Case[E4][NULL][NULL][0002].[1205][U+000F][SP]Mr.[SP]Cool\nhere[SP]gets[SP]a[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0006]Misericorde[E4][NULL][NULL][0002]...[1205][U+000F][SP]And[SP]I'll[SP]throw[SP]in\nsome[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0008]Leather[SP]Gloves[E4][NULL][NULL][0002][SP]for[SP]the[SP]girl.",
    "data_size": 344,
    "budget": 336
@@ -535,16 +544,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Tu dois manger ce que tu as commandé,"
+       "t": " Tu dois manger ce que"
       },
       {
        "nl": true
       },
       {
-       "t": "sinon ça n'a pas eu lieu."
+       "t": "tu as commandé, sinon ça n'a pas eu lieu."
       }
      ]
     }
@@ -573,7 +579,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Règles sont règles.[1205][U+000F]\nTu dois manger ce que tu as commandé,\nsinon ça n'a pas eu lieu.",
+   "brut_fr": "Règles sont règles.[1205][U+000F] Tu dois manger ce que\ntu as commandé, sinon ça n'a pas eu lieu.",
    "brut_en": "But[SP]rules[SP]are[SP]rules.[1205][U+000F][SP]You[SP]have[SP]to[SP]eat[SP]what[SP]you\nordered,[SP]or[SP]I'll[SP]pretend[SP]this[SP]never[SP]happened.",
    "data_size": 208,
    "budget": 200
@@ -587,16 +593,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Voilà! J'ai avalé ça! Dans ta face!"
-      },
-      {
-       "pause": true
+       "t": "Voilà! J'ai avalé ça! Dans"
       },
       {
        "nl": true
       },
       {
-       "t": "Bluuuurghhhh..."
+       "t": "ta face!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bluuuurghhhh..."
       }
      ]
     }
@@ -622,7 +631,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Voilà! J'ai avalé ça! Dans ta face![1205][001E]\nBluuuurghhhh...",
+   "brut_fr": "Voilà! J'ai avalé ça! Dans\nta face![1205][001E] Bluuuurghhhh...",
    "brut_en": "There![SP]I[SP]choked[SP]it[SP]down![SP]Take[SP]that![1205][001E]\nBluuuuuurrghhhh...",
    "data_size": 138,
    "budget": 130
@@ -636,19 +645,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Grande nouvelle! Quelqu'un a vu"
+       "t": "Grande nouvelle! Quelqu'un a vu le proviseur"
       },
       {
        "nl": true
       },
       {
-       "t": "le proviseur Hanya avec"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "un mystérieux personnage masqué!"
+       "t": "Hanya avec un mystérieux personnage masqué!"
       }
      ]
     }
@@ -677,7 +680,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Grande nouvelle! Quelqu'un a vu\nle proviseur Hanya avec\nun mystérieux personnage masqué!",
+   "brut_fr": "Grande nouvelle! Quelqu'un a vu le proviseur\nHanya avec un mystérieux personnage masqué!",
    "brut_en": "Big[SP]news,[SP]everyone![SP]I[SP]talked[SP]to[SP]someone[SP]who\nwitnessed[SP]Principal[SP]Hanya[SP]with[SP]a[SP]mysterious\nmasked[SP]figure!",
    "data_size": 224,
    "budget": 216
@@ -728,13 +731,13 @@
        "hero": "prenom"
       },
       {
-       "t": "! Hanya"
+       "t": "! Hanya sait"
       },
       {
        "nl": true
       },
       {
-       "t": "sait peut-être quelque chose sur Joker!"
+       "t": "peut-être quelque chose sur Joker!"
       }
      ]
     }
@@ -763,7 +766,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On va à Seven, [1113]! Hanya\nsait peut-être quelque chose sur Joker!",
+   "brut_fr": "On va à Seven, [1113]! Hanya sait\npeut-être quelque chose sur Joker!",
    "brut_en": "Let's[SP]go[SP]back[SP]to[SP]Sevens,[SP][1113]![SP]Hanya[SP]might\nknow[SP]something[SP]about[SP]Joker!",
    "data_size": 154,
    "budget": 146
@@ -820,13 +823,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle s'amuse toujours à faire"
+       "t": "Elle s'amuse toujours à"
       },
       {
        "nl": true
       },
       {
-       "t": "marcher ses clients."
+       "t": "faire marcher ses clients."
       }
      ]
     }
@@ -849,7 +852,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle s'amuse toujours à faire\nmarcher ses clients.",
+   "brut_fr": "Elle s'amuse toujours à\nfaire marcher ses clients.",
    "brut_en": "That[SP]lady's[SP]always[SP]teasing[SP]her[SP]customers[SP]out\nof[SP]boredom.",
    "data_size": 138,
    "budget": 130
@@ -863,19 +866,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je la connais depuis que je suis gamin,"
+       "t": "Je la connais depuis que je suis gamin, donc"
       },
       {
        "nl": true
       },
       {
-       "t": "donc je connais bien cet endroit. Et je"
+       "t": "je connais bien cet endroit. Et je sais"
       },
       {
        "nl": true
       },
       {
-       "t": "sais qu'on ne peut pas acheter d'armes ici."
+       "t": "qu'on ne peut pas acheter d'armes "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ici."
       }
      ]
     }
@@ -904,7 +913,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je la connais depuis que je suis gamin,\ndonc je connais bien cet endroit. Et je\nsais qu'on ne peut pas acheter d'armes ici.",
+   "brut_fr": "Je la connais depuis que je suis gamin, donc\nje connais bien cet endroit. Et je sais\nqu'on ne peut pas acheter d'armes [1205][U+000F] ici.",
    "brut_en": "I've[SP]known[SP]her[SP]since[SP]I[SP]was[SP]a[SP]kid,[SP]so[SP]I'm[SP]pretty\nfamiliar[SP]with[SP]this[SP]place.[SP]And[SP]I[SP]know[SP]there's[SP]no\nway[SP]you[SP]can[SP]buy[SP]weapons[SP]here.",
    "data_size": 276,
    "budget": 268
@@ -936,13 +945,13 @@
        "nl": true
       },
       {
-       "t": "sûrement le mot de passe pour acheter des"
+       "t": "sûrement le mot de passe pour acheter"
       },
       {
        "nl": true
       },
       {
-       "t": "armes. Allons demander au Chef !"
+       "t": "des armes. Allons demander au Chef!"
       }
      ]
     }
@@ -983,7 +992,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il a dit [1432][NULL][NULL][0014]plat secret,[1432][NULL][NULL][0014] [1113]? C'est\nsûrement le mot de passe pour acheter des\narmes. Allons demander au Chef !",
+   "brut_fr": "Il a dit [1432][NULL][NULL][0014]plat secret,[1432][NULL][NULL][0014] [1113]? C'est\nsûrement le mot de passe pour acheter\ndes armes. Allons demander au Chef!",
    "brut_en": "Did[SP]he[SP]say,[SP][1432][NULL][NULL][0014]secret[SP]dish,[1432][NULL][NULL][0014][SP][1113]?[SP]That[SP]must\nbe[SP]the[SP]password[SP]you[SP]need[SP]to[SP]buy[SP]weapons.[SP]Let's\ngo[SP]ask[SP]the[SP]Chief[SP]what[SP]it[SP]is!",
    "data_size": 262,
    "budget": 254
@@ -1082,7 +1091,7 @@
        "nl": true
       },
       {
-       "t": "Nos bureaux : ruelle Kameya."
+       "t": "Nos bureaux: ruelle Kameya."
       }
      ]
     }
@@ -1105,7 +1114,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tenez, voilà un prospectus.\nNos bureaux : ruelle Kameya.",
+   "brut_fr": "Tenez, voilà un prospectus.\nNos bureaux: ruelle Kameya.",
    "brut_en": "Here,[SP]take[SP]one[SP]of[SP]our[SP]flyers.[SP]Our[SP]offices[SP]are\nin[SP]Kameya[SP]Alley.",
    "data_size": 150,
    "budget": 142
@@ -1156,13 +1165,7 @@
        "nl": true
       },
       {
-       "t": "pétrolier arabe, je ne vends"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pas d'armes."
+       "t": "pétrolier arabe, je ne vends pas d'armes."
       }
      ]
     }
@@ -1185,7 +1188,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'étais la 3ème épouse d'un magnat\npétrolier arabe, je ne vends\npas d'armes.",
+   "brut_fr": "J'étais la 3ème épouse d'un magnat\npétrolier arabe, je ne vends pas d'armes.",
    "brut_en": "I[SP]was[SP]actually[SP]the[SP]third[SP]wife[SP]of[SP]an[SP]Arabian\noil[SP]tycoon,[SP]so[SP]I[SP]don't[SP]sell[SP]weapons.",
    "data_size": 182,
    "budget": 174
@@ -1205,13 +1208,13 @@
        "pause": true
       },
       {
-       "t": " J'arrive pas"
+       "t": " J'arrive"
       },
       {
        "nl": true
       },
       {
-       "t": "à croire que tu manges des trucs"
+       "t": "pas à croire que tu manges des trucs"
       },
       {
        "nl": true
@@ -1264,7 +1267,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Maaaan, quelle surprise.[1205][U+000F] J'arrive pas\nà croire que tu manges des trucs\ncomme ça.[1205][U+000F] La ville est flippante.",
+   "brut_fr": "Maaaan, quelle surprise.[1205][U+000F] J'arrive\npas à croire que tu manges des trucs\ncomme ça.[1205][U+000F] La ville est flippante.",
    "brut_en": "Maaaan,[SP]what[SP]a[SP]surprise.[1205][U+000F][SP]I[SP]can't[SP]believe[SP]you\ncan[SP]eat[SP]stuff[SP]like[SP]that.[1205][U+000F][SP]The[SP]city[SP]sure[SP]is\na[SP]scary[SP]place.",
    "data_size": 252,
    "budget": 244
@@ -1284,13 +1287,13 @@
        "nl": true
       },
       {
-       "t": "gamin! J'arrive pas à croire"
+       "t": "gamin! J'arrive pas à croire que"
       },
       {
        "nl": true
       },
       {
-       "t": "que tu tombes dans ses histoires."
+       "t": "tu tombes dans ses histoires."
       }
      ]
     }
@@ -1319,7 +1322,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ahhhahahahah! Elle t'en fait voir,\ngamin! J'arrive pas à croire\nque tu tombes dans ses histoires.",
+   "brut_fr": "Ahhhahahahah! Elle t'en fait voir,\ngamin! J'arrive pas à croire que\ntu tombes dans ses histoires.",
    "brut_en": "Ahhhahahaha![SP]She's[SP]pulling[SP]the[SP]wool[SP]over[SP]your\neyes,[SP]kid![SP]I[SP]can't[SP]believe[SP]you're[SP]falling[SP]for\nher[SP]wild[SP]stories.",
    "data_size": 254,
    "budget": 246

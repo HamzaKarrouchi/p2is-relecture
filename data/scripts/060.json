@@ -16,7 +16,7 @@
        "nl": true
       },
       {
-       "t": "Cherche-t-il vraiment le transmetteur ?"
+       "t": "Cherche-t-il vraiment le transmetteur?"
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eikichi agit bizarrement...\nCherche-t-il vraiment le transmetteur ?",
+   "brut_fr": "Eikichi agit bizarrement...\nCherche-t-il vraiment le transmetteur?",
    "brut_en": "Eikichi's[SP]acting[SP]kinda[SP]funny[SP]over[SP]there...\nIs[SP]he[SP]really[SP]looking[SP]for[SP]the[SP]transmitter?",
    "data_size": 192,
    "budget": 184
@@ -53,25 +53,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lui aussi est du Cercle Masqué ?"
+       "t": "Lui aussi est du Cercle Masqué? ... Il avait"
       },
       {
        "nl": true
       },
       {
-       "t": "...Il avait l'air cool ? Moins que"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "toi, bien sûr, "
+       "t": "l'air cool? Moins que toi, bien sûr, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -106,7 +100,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lui aussi est du Cercle Masqué ?\n...Il avait l'air cool ? Moins que\ntoi, bien sûr, [1113] !",
+   "brut_fr": "Lui aussi est du Cercle Masqué? ... Il avait\nl'air cool? Moins que toi, bien sûr, [1113]!",
    "brut_en": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][1113]!",
    "data_size": 246,
    "budget": 238
@@ -126,16 +120,19 @@
        "pause": true
       },
       {
-       "t": " C'est scandaleux...!"
-      },
-      {
-       "pause": true
+       "t": " C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "Hrrrghhh..."
+       "t": "scandaleux...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hrrrghhh..."
       },
       {
        "pause": true
@@ -179,7 +176,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce justaucorps...[1205][001E] C'est scandaleux...![1205][001E]\nHrrrghhh...[1205][001E]*gasp*",
+   "brut_fr": "Ce justaucorps...[1205][001E] C'est\nscandaleux...![1205][001E] Hrrrghhh...[1205][001E]*gasp*",
    "brut_en": "Th-This[SP]leotard...[1205][001E][SP]How[SP]scandalous...![1205][001E]\nHrrrghhhh...[1205][001E][SP]*gasp*",
    "data_size": 154,
    "budget": 146
@@ -193,13 +190,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un homme ne touche jamais les habits"
+       "t": "Un homme ne touche jamais les"
       },
       {
        "nl": true
       },
       {
-       "t": "d'une femme ! Jamais !"
+       "t": "habits d'une femme! Jamais!"
       }
      ]
     }
@@ -222,7 +219,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un homme ne touche jamais les habits\nd'une femme ! Jamais !",
+   "brut_fr": "Un homme ne touche jamais les\nhabits d'une femme! Jamais!",
    "brut_en": "A-A[SP]man[SP]must[SP]never[SP]touch[SP]clothes[SP]that[SP]a\nlady[SP]has[SP]worn![SP]Never!",
    "data_size": 150,
    "budget": 142
@@ -236,22 +233,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il a fui dès qu'il nous a vus !"
+       "t": "Il a fui dès qu'il nous a vus! C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est suspect. Allons le rattraper,"
-      },
-      {
-       "nl": true
+       "t": "suspect. Allons le rattraper, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -286,7 +280,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il a fui dès qu'il nous a vus !\nC'est suspect. Allons le rattraper,\n[1113] !",
+   "brut_fr": "Il a fui dès qu'il nous a vus! C'est\nsuspect. Allons le rattraper, [1113]!",
    "brut_en": "That[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][1113]!",
    "data_size": 224,
    "budget": 216
@@ -361,13 +355,13 @@
        "pause": true
       },
       {
-       "t": " J'ai l'impression de l'avoir"
+       "t": " J'ai l'impression"
       },
       {
        "nl": true
       },
       {
-       "t": "déjà vu. Suivons-le !"
+       "t": "de l'avoir déjà vu. Suivons-le!"
       }
      ]
     }
@@ -396,7 +390,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cet homme...[1205][001E] J'ai l'impression de l'avoir\ndéjà vu. Suivons-le !",
+   "brut_fr": "Cet homme...[1205][001E] J'ai l'impression\nde l'avoir déjà vu. Suivons-le!",
    "brut_en": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
    "data_size": 174,
    "budget": 166
@@ -410,19 +404,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "S'il fait partie du Cercle Masqué,"
+       "t": "S'il fait partie du Cercle"
       },
       {
        "nl": true
       },
       {
-       "t": "c'est l'occasion d'avoir des infos"
+       "t": "Masqué, c'est l'occasion d'avoir"
       },
       {
        "nl": true
       },
       {
-       "t": "sur Joker. Traquons-le."
+       "t": "des infos sur Joker. Traquons-le."
       }
      ]
     }
@@ -451,7 +445,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "S'il fait partie du Cercle Masqué,\nc'est l'occasion d'avoir des infos\nsur Joker. Traquons-le.",
+   "brut_fr": "S'il fait partie du Cercle\nMasqué, c'est l'occasion d'avoir\ndes infos sur Joker. Traquons-le.",
    "brut_en": "If[SP]that[SP]guy's[SP]in[SP]the[SP]Masked[SP]Circle,[SP]this[SP]is\nour[SP]chance[SP]to[SP]pump[SP]him[SP]for[SP]information[SP]about\nJoker.[SP]Let's[SP]hunt[SP]him[SP]down.",
    "data_size": 258,
    "budget": 250
@@ -465,19 +459,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Espèce de... Satané imbécile !"
+       "t": "Espèce de... Satané imbécile! Quoi,"
       },
       {
        "nl": true
       },
       {
-       "t": "Quoi, "
-      },
-      {
        "hero": "prenom"
       },
       {
-       "t": " !? Je suis occupée là !"
+       "t": "!? Je suis occupée là!"
       }
      ]
     }
@@ -506,7 +497,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Espèce de... Satané imbécile !\nQuoi, [1113] !? Je suis occupée là !",
+   "brut_fr": "Espèce de... Satané imbécile! Quoi,\n[1113]!? Je suis occupée là!",
    "brut_en": "You![SP]God![SP]Damned![SP]Stupid![SP]Son[SP]of[SP]a...!\nWhat[SP]IS[SP]it,[SP][1113]!?[SP]Little[SP]busy[SP]here!",
    "data_size": 170,
    "budget": 162

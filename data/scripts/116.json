@@ -10,37 +10,37 @@
      "nom": null,
      "seg": [
       {
-       "t": "S'ils nous voient, ils ne se"
+       "t": "S'ils nous voient, ils ne se retiendront"
       },
       {
        "nl": true
       },
       {
-       "t": "retiendront pas."
+       "t": "pas."
       },
       {
        "pause": true
       },
       {
-       "t": " On peut y aller"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de front..."
+       "t": " On peut y aller de front..."
       },
       {
        "pause": true
       },
       {
-       "t": " Ou prendre le chemin"
+       "t": " Ou"
       },
       {
        "nl": true
       },
       {
-       "t": "de montagne par ici..."
+       "t": "prendre le chemin"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de montagne par ici..."
       }
      ]
     }
@@ -78,7 +78,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "S'ils nous voient, ils ne se\nretiendront pas.[1205][001E] On peut y aller\nde front...[1205][001E] Ou prendre le chemin\nde montagne par ici...",
+   "brut_fr": "S'ils nous voient, ils ne se retiendront\npas.[1205][001E] On peut y aller de front...[1205][001E] Ou\nprendre le chemin[1205][U+000F] de montagne par ici...",
    "brut_en": "I[SP]doubt[SP]they'll[SP]hold[SP]back[SP]if[SP]they[SP]see[SP]anyone\ncoming.[1205][001E][SP]Our[SP]choices[SP]are[SP]the[SP]frontal[SP]route...[1205][001E]\nOr[SP]the[SP]mountain[SP]path[SP]over[SP]here...",
    "data_size": 280,
    "budget": 272
@@ -92,13 +92,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "On fait quoi? Peu m'importe"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "le chemin."
+       "t": "On fait quoi? Peu m'importe le chemin."
       }
      ]
     }
@@ -115,7 +109,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On fait quoi? Peu m'importe\nle chemin.",
+   "brut_fr": "On fait quoi? Peu m'importe le chemin.",
    "brut_en": "What[SP]should[SP]we[SP]do?[SP]I[SP]could[SP]go[SP]either[SP]way.",
    "data_size": 108,
    "budget": 100
@@ -129,13 +123,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pas de temps à perdre! On y va"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de front!"
+       "t": "Pas de temps à perdre! On y va de front!"
       }
      ]
     }
@@ -152,7 +140,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pas de temps à perdre! On y va\nde front!",
+   "brut_fr": "Pas de temps à perdre! On y va de front!",
    "brut_en": "No[SP]time[SP]to[SP]waste![SP]We[SP]go[SP]through[SP]the[SP]front!",
    "data_size": 108,
    "budget": 100
@@ -172,16 +160,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Mais je ne pense pas que ce sera"
+       "t": " Mais"
       },
       {
        "nl": true
       },
       {
-       "t": "forcément facile."
+       "t": "je ne pense pas que ce sera forcément facile."
       }
      ]
     }
@@ -207,7 +192,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La route directe serait plus courte...[1205][001E]\nMais je ne pense pas que ce sera\nforcément facile.",
+   "brut_fr": "La route directe serait plus courte...[1205][001E] Mais\nje ne pense pas que ce sera forcément facile.",
    "brut_en": "The[SP]direct[SP]route[SP]would[SP]be[SP]a[SP]shorter[SP]distance...[1205][001E]\nBut[SP]I[SP]don't[SP]think[SP]it'll[SP]be[SP]easy,[SP]necessarily.",
    "data_size": 208,
    "budget": 200
@@ -221,13 +206,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un petit détour pour les éviter"
+       "t": "Un petit détour pour les"
       },
       {
        "nl": true
       },
       {
-       "t": "serait plus rapide..."
+       "t": "éviter serait plus rapide..."
       }
      ]
     }
@@ -250,7 +235,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un petit détour pour les éviter\nserait plus rapide...",
+   "brut_fr": "Un petit détour pour les\néviter serait plus rapide...",
    "brut_en": "Taking[SP]a[SP]slight[SP]detour[SP]to[SP]avoid[SP]them[SP]might\nbe[SP]faster[SP]in[SP]the[SP]end...",
    "data_size": 152,
    "budget": 144
@@ -480,31 +465,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça devient trop dur"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pour moi..."
+       "t": "Ça devient trop dur pour moi..."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais au final,"
+       "t": " Mais"
       },
       {
        "nl": true
       },
       {
-       "t": "c'est nous, les humains, qui les"
+       "t": "au final, c'est nous, les humains,"
       },
       {
        "nl": true
       },
       {
-       "t": "avons appelés, hein?"
+       "t": "qui les"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " avons appelés, hein?"
       }
      ]
     }
@@ -539,7 +524,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça devient trop dur\npour moi...[1205][001E] Mais au final,\nc'est nous, les humains, qui les\navons appelés, hein?",
+   "brut_fr": "Ça devient trop dur pour moi...[1205][001E] Mais\nau final, c'est nous, les humains,\nqui les[1205][U+000F] avons appelés, hein?",
    "brut_en": "This[SP]is[SP]all[SP]getting[SP]too[SP]complicated[SP]for\nme...[1205][001E][SP]But[SP]in[SP]the[SP]end,[SP]it[SP]was[SP]us[SP]humans\nwho[SP]called[SP]them[SP]here,[SP]huh?",
    "data_size": 240,
    "budget": 232
@@ -553,25 +538,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ces types sont des tueurs"
+       "t": "Ces types sont des tueurs impitoyables,"
       },
       {
        "nl": true
       },
       {
-       "t": "impitoyables, non...? Je sais"
+       "t": "non...? Je sais qu'ils sont là à cause de la"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'ils sont là à cause de la rumeur,"
+       "t": "rumeur,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "mais ces tueries... Ça m'écœure..."
+       "t": " mais ces tueries... Ça m'écœure..."
       }
      ]
     }
@@ -600,7 +585,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ces types sont des tueurs\nimpitoyables, non...? Je sais\nqu'ils sont là à cause de la rumeur,\nmais ces tueries... Ça m'écœure...",
+   "brut_fr": "Ces types sont des tueurs impitoyables,\nnon...? Je sais qu'ils sont là à cause de la\nrumeur,[1205][U+000F] mais ces tueries... Ça m'écœure...",
    "brut_en": "These[SP]guys[SP]are[SP]ruthless[SP]killers,[SP]right...?\nI[SP]know[SP]they're[SP]here[SP]because[SP]of[SP]the[SP]rumor,[SP]but\nall[SP]this[SP]killing...[SP]I[SP]feel[SP]a[SP]little[SP]sick...",
    "data_size": 286,
    "budget": 278
@@ -614,51 +599,36 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le Führer aurait survécu"
+       "t": "Le Führer aurait survécu plus de 50"
       },
       {
        "nl": true
       },
       {
-       "t": "plus de 50 ans..."
+       "t": "ans..."
       },
       {
        "pause": true
       },
       {
-       "t": " Triste rappel"
+       "t": " Triste rappel du karma humain..."
       },
       {
-       "nl": true
-      },
-      {
-       "t": "du karma humain..."
+       "pause": true
       }
      ]
     },
     {
-     "nom": "Yukino",
+     "nom": "Yukino Désolée...[1205][001E] Je sais que vous",
      "seg": [
       {
-       "t": "Désolée..."
+       "t": "vous inquiétez pour Jun,"
       },
       {
        "pause": true
       },
       {
-       "t": " Je sais que vous"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "vous inquiétez pour Jun,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "mais..."
+       "t": " mais..."
       }
      ]
     }
@@ -713,7 +683,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Führer aurait survécu\nplus de 50 ans...[1205][001E] Triste rappel\ndu karma humain...[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nDésolée...[1205][001E] Je sais que vous\nvous inquiétez pour Jun,\nmais...",
+   "brut_fr": "Le Führer aurait survécu plus de 50\nans...[1205][001E] Triste rappel du karma humain...[E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Yukino Désolée...[1205][001E] Je sais que vous\nvous inquiétez pour Jun,[1205][U+000F] mais...",
    "brut_en": "The[SP]returning[SP]Fuhrer,[SP]rumored[SP]to[SP]be[SP]alive[SP]for\nover[SP]50[SP]years...[1205][001E][SP]It's[SP]a[SP]sorry[SP]reminder[SP]of\nmankind's[SP]karma...[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nI'm[SP]sorry...[1205][001E][SP]I[SP]know[SP]you[SP]guys[SP]must[SP]be[SP]worried\nabout[SP]Jun,[SP]but...",
    "data_size": 394,
    "budget": 386
@@ -810,19 +780,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aiyah!? Si tu continues par là,"
+       "t": "Aiyah!? Si tu continues par là, ils te"
       },
       {
        "nl": true
       },
       {
-       "t": "ils te verront! N'avions-nous"
+       "t": "verront! N'avions-nous pas décidé de"
       },
       {
        "nl": true
       },
       {
-       "t": "pas décidé de contourner?"
+       "t": "contourner?"
       }
      ]
     }
@@ -851,7 +821,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aiyah!? Si tu continues par là,\nils te verront! N'avions-nous\npas décidé de contourner?",
+   "brut_fr": "Aiyah!? Si tu continues par là, ils te\nverront! N'avions-nous pas décidé de\ncontourner?",
    "brut_en": "Aiyah!?[SP]If[SP]you[SP]keep[SP]going[SP]that[SP]way,\nthey'll[SP]see[SP]you![SP]Didn't[SP]we[SP]decide[SP]to\ntake[SP]the[SP]long[SP]way[SP]around?",
    "data_size": 218,
    "budget": 210

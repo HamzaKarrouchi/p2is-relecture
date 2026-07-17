@@ -10,19 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh mec, matez un peu ça! Le Boss! Pourquoi tu"
+       "t": "Oh mec, matez un peu ça! Le Boss! Pourquoi"
       },
       {
        "nl": true
       },
       {
-       "t": "te tiens le bide comme ça? Envie de chier?"
+       "t": "tu te tiens le bide comme ça? Envie de"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu veux que je te baisse ton froc?"
+       "t": "chier?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu veux que je te baisse ton froc?"
       }
      ]
     }
@@ -51,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh mec, matez un peu ça! Le Boss! Pourquoi tu\nte tiens le bide comme ça? Envie de chier?\nTu veux que je te baisse ton froc?",
+   "brut_fr": "Oh mec, matez un peu ça! Le Boss! Pourquoi\ntu te tiens le bide comme ça? Envie de\nchier?[1205][U+000F] Tu veux que je te baisse ton froc?",
    "brut_en": "Oh[SP]man,[SP]check[SP]it[SP]out![SP]The[SP]Boss![SP]What're[SP]you\nholdin'[SP]your[SP]stomach[SP]for?[SP]Gotta[SP]take[SP]a[SP]shit?\nWant[SP]me[SP]to[SP]drop[SP]your[SP]drawers[SP]for[SP]you?",
    "data_size": 278,
    "budget": 270
@@ -65,19 +71,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Doucement! Tu sais ce qui va arriver à"
+       "t": "Doucement! Tu sais ce qui va"
       },
       {
        "nl": true
       },
       {
-       "t": "cette meuf si tu sors ton esprit"
+       "t": "arriver à cette meuf si tu sors ton"
       },
       {
        "nl": true
       },
       {
-       "t": "de la mort, pas vrai...?"
+       "t": "esprit de la mort, pas vrai...?"
       }
      ]
     }
@@ -106,7 +112,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Doucement! Tu sais ce qui va arriver à\ncette meuf si tu sors ton esprit\nde la mort, pas vrai...?",
+   "brut_fr": "Doucement! Tu sais ce qui va\narriver à cette meuf si tu sors ton\nesprit de la mort, pas vrai...?",
    "brut_en": "Easy[SP]there![SP]You[SP]know[SP]what's[SP]gonna[SP]happen[SP]to\nthis[SP]chick[SP]if[SP]you[SP]bring[SP]out[SP]your[SP]death\nspirit,[SP]right...?",
    "data_size": 226,
    "budget": 218
@@ -120,13 +126,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Héhé! T'es rien du tout sans ton"
+       "t": "Héhé! T'es rien du tout"
       },
       {
        "nl": true
       },
       {
-       "t": "esprit de la mort!"
+       "t": "sans ton esprit de la mort!"
       }
      ]
     }
@@ -149,7 +155,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Héhé! T'es rien du tout sans ton\nesprit de la mort!",
+   "brut_fr": "Héhé! T'es rien du tout\nsans ton esprit de la mort!",
    "brut_en": "Heheh![SP]You[SP]ain't[SP]shit[SP]without[SP]that[SP]death\nspirit[SP]of[SP]yours!",
    "data_size": 162,
    "budget": 154
@@ -166,22 +172,16 @@
        "t": "Ces conneries de "
       },
       {
-       "enc": "je tolère pas"
+       "enc": "je tolère pas le"
       },
       {
        "nl": true
       },
       {
-       "enc": "le harcèlement"
+       "enc": "harcèlement"
       },
       {
-       "t": "? Tu disais"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "ça car T'ES faible!"
+       "t": "? Tu disais ça car T'ES faible!"
       }
      ]
     }
@@ -216,7 +216,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ces conneries de [1432][NULL][NULL][0014]je tolère pas\nle harcèlement[1432][NULL][NULL][0014]? Tu disais\nça car T'ES faible!",
+   "brut_fr": "Ces conneries de [1432][NULL][NULL][0014]je tolère pas le\nharcèlement[1432][NULL][NULL][0014]? Tu disais ça car T'ES faible!",
    "brut_en": "What's[SP]with[SP]your[SP][1432][NULL][NULL][0014]I[SP]won't[SP]allow[SP]any\nbullying[SP]of[SP]the[SP]weak[1432][NULL][NULL][0014][SP]crap?[SP]You[SP]only[SP]said\nthat[SP]'cause[SP]YOU'RE[SP]weak!",
    "data_size": 264,
    "budget": 256
@@ -236,19 +236,13 @@
        "enc": "rassemblement"
       },
       {
-       "t": " avait l'air"
+       "t": " avait l'air chiant, mais ravi"
       },
       {
        "nl": true
       },
       {
-       "t": "chiant, mais ravi d'être venu"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pour voir un truc aussi génial!"
+       "t": "d'être venu pour voir un truc aussi génial!"
       }
      ]
     }
@@ -283,7 +277,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce [1432][NULL][NULL][0014]rassemblement[1432][NULL][NULL][0014] avait l'air\nchiant, mais ravi d'être venu\npour voir un truc aussi génial!",
+   "brut_fr": "Ce [1432][NULL][NULL][0014]rassemblement[1432][NULL][NULL][0014] avait l'air chiant, mais ravi\nd'être venu pour voir un truc aussi génial!",
    "brut_en": "That[SP][1432][NULL][NULL][0014]gathering[1432][NULL][NULL][0014][SP]stuff[SP]seemed[SP]like[SP]a[SP]pain[SP]in\nthe[SP]ass,[SP]but[SP]I'm[SP]glad[SP]I[SP]came[SP]if[SP]it[SP]meant\nseeing[SP]something[SP]this[SP]awesome!",
    "data_size": 292,
    "budget": 284
@@ -297,13 +291,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'es amoché. Bouboule"
+       "t": "T'es amoché. Bouboule ici"
       },
       {
        "nl": true
       },
       {
-       "t": "ici compte tant pour toi?"
+       "t": "compte tant pour toi?"
       }
      ]
     }
@@ -326,7 +320,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'es amoché. Bouboule\nici compte tant pour toi?",
+   "brut_fr": "T'es amoché. Bouboule ici\ncompte tant pour toi?",
    "brut_en": "Sheesh,[SP]you're[SP]a[SP]mess.[SP]Is[SP]Fatty[SP]here[SP]really\nthat[SP]important[SP]to[SP]ya?",
    "data_size": 154,
    "budget": 146
@@ -407,13 +401,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein!? De quoi tu parles?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Hanakouji est--"
+       "t": "Hein!? De quoi tu parles? Hanakouji est--"
       }
      ]
     }
@@ -436,7 +424,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein!? De quoi tu parles?\nHanakouji est--",
+   "brut_fr": "Hein!? De quoi tu parles? Hanakouji est--",
    "brut_en": "Huh!?[SP]What're[SP]you[SP]talking[SP]about?\nHanakouji's--",
    "data_size": 118,
    "budget": 110
@@ -481,13 +469,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ahahah! Tu savais pas!?"
+       "t": "Ahahah! Tu savais pas!? La"
       },
       {
        "nl": true
       },
       {
-       "t": "La grosse ici EST Miyabi Hanakouji!"
+       "t": "grosse ici EST Miyabi Hanakouji!"
       }
      ]
     }
@@ -510,7 +498,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ahahah! Tu savais pas!?\nLa grosse ici EST Miyabi Hanakouji!",
+   "brut_fr": "Ahahah! Tu savais pas!? La\ngrosse ici EST Miyabi Hanakouji!",
    "brut_en": "Ahyahahahahaha![SP]You[SP]didn't[SP]know!?\nThis[SP]hambeast[SP]here[SP]IS[SP]Miyabi[SP]Hanakouji!",
    "data_size": 172,
    "budget": 164
@@ -592,13 +580,7 @@
        "pause": true
       },
       {
-       "t": " Pourquoi avoir rien dit!?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "J-Je..."
+       "t": " Pourquoi avoir rien dit!? J-Je..."
       }
      ]
     }
@@ -627,7 +609,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pourquoi...[1205][001E] Pourquoi avoir rien dit!?\nJ-Je...",
+   "brut_fr": "Pourquoi...[1205][001E] Pourquoi avoir rien dit!? J-Je...",
    "brut_en": "Why...[1205][001E][SP]Why[SP]did[SP]you[SP]never[SP]say[SP]anything!?\nI-I...",
    "data_size": 124,
    "budget": 116
@@ -850,13 +832,13 @@
        "pause": true
       },
       {
-       "t": " Mais quiconque se moque"
+       "t": " Mais quiconque"
       },
       {
        "nl": true
       },
       {
-       "t": "d'elle est un homme mort!"
+       "t": "se moque d'elle est un homme mort!"
       }
      ]
     }
@@ -897,7 +879,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Enfoiré...[1205][001E] Dis ce que tu veux sur\nmoi, je m'en fous.[1205][001E] Mais quiconque se moque\nd'elle est un homme mort!",
+   "brut_fr": "Enfoiré...[1205][001E] Dis ce que tu veux sur\nmoi, je m'en fous.[1205][001E] Mais quiconque\nse moque d'elle est un homme mort!",
    "brut_en": "You[SP]bastard...[1205][001E][SP]Say[SP]whatever[SP]you[SP]want[SP]about\nme,[SP]I[SP]don't[SP]care.[1205][001E][SP]But[SP]anyone[SP]who[SP]laughs[SP]at\nher[SP]is[SP]a[SP]dead[SP]man!",
    "data_size": 244,
    "budget": 236
@@ -1059,13 +1041,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce Hiroki est le pire de tous! Très bien, je"
+       "t": "Ce Hiroki est le pire de tous! Très"
       },
       {
        "nl": true
       },
       {
-       "t": "vais sortir ma Persona et--"
+       "t": "bien, je vais sortir ma Persona et--"
       }
      ]
     }
@@ -1088,7 +1070,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce Hiroki est le pire de tous! Très bien, je\nvais sortir ma Persona et--",
+   "brut_fr": "Ce Hiroki est le pire de tous! Très\nbien, je vais sortir ma Persona et--",
    "brut_en": "That[SP]Hiroki[SP]guy's[SP]the[SP]worst![SP]Alright,[SP]I'm\ngonna[SP]bust[SP]out[SP]my[SP]Persona[SP]and--",
    "data_size": 170,
    "budget": 162
@@ -1102,13 +1084,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Attends! Ça blesserait"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "la fierté de Eikichi."
+       "t": "Attends! Ça blesserait la fierté de Eikichi."
       }
      ]
     }
@@ -1131,7 +1107,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Attends! Ça blesserait\nla fierté de Eikichi.",
+   "brut_fr": "Attends! Ça blesserait la fierté de Eikichi.",
    "brut_en": "Wait![SP]We[SP]storm[SP]in[SP]there,[SP]we[SP]hurt\nEikichi's[SP]pride.",
    "data_size": 122,
    "budget": 114
@@ -1151,13 +1127,7 @@
        "pause": true
       },
       {
-       "t": " Mais"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "c'est son combat!"
+       "t": " Mais c'est son combat!"
       }
      ]
     }
@@ -1186,7 +1156,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est dur à voir...[1205][001E] Mais\nc'est son combat!",
+   "brut_fr": "C'est dur à voir...[1205][001E] Mais c'est son combat!",
    "brut_en": "I[SP]know[SP]it's[SP]tough[SP]to[SP]watch...[1205][001E][SP]But[SP]this[SP]is\nhis[SP]moment!",
    "data_size": 134,
    "budget": 126
@@ -1200,13 +1170,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Rien faire...!? Sérieux!"
+       "t": "Rien faire...!? Sérieux! Jamais!"
       },
       {
        "nl": true
       },
       {
-       "t": "Jamais! Allons les aider, "
+       "t": "Allons les aider, "
       },
       {
        "hero": "prenom"
@@ -1241,7 +1211,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Rien faire...!? Sérieux!\nJamais! Allons les aider, [1113]!",
+   "brut_fr": "Rien faire...!? Sérieux! Jamais!\nAllons les aider, [1113]!",
    "brut_en": "You[SP]want[SP]us[SP]to[SP]just[SP]sit[SP]back...!?[SP]Fanna!\nNo[SP]way![SP]Let's[SP]go[SP]save[SP]them,[SP][1113]!",
    "data_size": 166,
    "budget": 158
@@ -1337,13 +1307,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Te fais pas d'idées!"
+       "t": "Te fais pas d'idées! On est"
       },
       {
        "nl": true
       },
       {
-       "t": "On est juste là pour Kozy, alors--"
+       "t": "juste là pour Kozy, alors--"
       }
      ]
     }
@@ -1366,7 +1336,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Te fais pas d'idées!\nOn est juste là pour Kozy, alors--",
+   "brut_fr": "Te fais pas d'idées! On est\njuste là pour Kozy, alors--",
    "brut_en": "Yeah,[SP]yeah,[SP]don't[SP]get[SP]the[SP]wrong[SP]idea!\nWe[SP]came[SP]to[SP]save[SP]Kozy,[SP]so[SP]remember--",
    "data_size": 170,
    "budget": 162
@@ -1411,13 +1381,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Enfoirés... Comment osez-vous vous"
+       "t": "Enfoirés... Comment osez-vous"
       },
       {
        "nl": true
       },
       {
-       "t": "foutre de moi..."
+       "t": "vous foutre de moi..."
       },
       {
        "pause": true
@@ -1452,7 +1422,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Enfoirés... Comment osez-vous vous\nfoutre de moi...[1205][001E] Matez ça!",
+   "brut_fr": "Enfoirés... Comment osez-vous\nvous foutre de moi...[1205][001E] Matez ça!",
    "brut_en": "You[SP]bastards...[SP]How[SP]dare[SP]you[SP]make[SP]a[SP]fool\noutta[SP]me...[1205][001E][SP]Check[SP]this!",
    "data_size": 158,
    "budget": 150
@@ -1472,13 +1442,13 @@
        "pause": true
       },
       {
-       "t": " Tu m'as eu. Fais de ton"
+       "t": " Tu m'as eu. Fais"
       },
       {
        "nl": true
       },
       {
-       "t": "pire. Mais lâche-la."
+       "t": "de ton pire. Mais lâche-la."
       }
      ]
     }
@@ -1507,7 +1477,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ok, Hiroki.[1205][001E] Tu m'as eu. Fais de ton\npire. Mais lâche-la.",
+   "brut_fr": "Ok, Hiroki.[1205][001E] Tu m'as eu. Fais\nde ton pire. Mais lâche-la.",
    "brut_en": "All[SP]right,[SP]Hiroki.[1205][001E][SP]You[SP]got[SP]me.[SP]Do[SP]your[SP]worst.\nJust[SP]let[SP]her[SP]go.",
    "data_size": 156,
    "budget": 148
@@ -1815,13 +1785,13 @@
        "pause": true
       },
       {
-       "t": " C'est ça, bordel! Le"
+       "t": " C'est ça, bordel! Le Leader"
       },
       {
        "nl": true
       },
       {
-       "t": "Leader est plus fort que le Boss, t'entends!?"
+       "t": "est plus fort que le Boss, t'entends!?"
       }
      ]
     }
@@ -1850,7 +1820,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*halète* *halète*[1205][001E] C'est ça, bordel! Le\nLeader est plus fort que le Boss, t'entends!?",
+   "brut_fr": "*halète* *halète*[1205][001E] C'est ça, bordel! Le Leader\nest plus fort que le Boss, t'entends!?",
    "brut_en": "*pant*[SP]*pant*[1205][001E][SP]That's[SP]right,[SP]dammit![SP]The\nLeader[SP]is[SP]stronger[SP]than[SP]the[SP]Boss,[SP]you[SP]hear!?",
    "data_size": 198,
    "budget": 190
@@ -1895,7 +1865,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Eh?"
+       "t": "... Eh?"
       }
      ]
     }
@@ -1912,7 +1882,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Eh?",
+   "brut_fr": "... Eh?",
    "brut_en": "...Uh?",
    "data_size": 38,
    "budget": 30
@@ -1932,13 +1902,13 @@
        "nl": true
       },
       {
-       "t": "mais jamais Hiroki Sugimoto ne sera"
+       "t": "mais jamais Hiroki Sugimoto ne"
       },
       {
        "nl": true
       },
       {
-       "t": "plus fort qu'Eikichi Mishina!"
+       "t": "sera plus fort qu'Eikichi Mishina!"
       }
      ]
     }
@@ -1967,7 +1937,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Leader bat peut-être le Boss,\nmais jamais Hiroki Sugimoto ne sera\nplus fort qu'Eikichi Mishina!",
+   "brut_fr": "Le Leader bat peut-être le Boss,\nmais jamais Hiroki Sugimoto ne\nsera plus fort qu'Eikichi Mishina!",
    "brut_en": "The[SP]Leader[SP]might[SP]be[SP]stronger[SP]than[SP]the[SP]Boss,\nbut[SP]there's[SP]no[SP]way[SP]Hiroki[SP]Sugimoto[SP]is[SP]ever\nstronger[SP]than[SP]Eikichi[SP]Mishina!",
    "data_size": 262,
    "budget": 254

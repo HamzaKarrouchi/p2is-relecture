@@ -22,16 +22,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Ça ne va pas... à une jolie"
+       "t": " Ça ne va"
       },
       {
        "nl": true
       },
       {
-       "t": "fille comme toi..."
+       "t": "pas... à une jolie fille comme toi..."
       }
      ]
     }
@@ -63,7 +60,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Yo...[1205][001E] P-Pourquoi cette tête...?[1205][001E]\nÇa ne va pas... à une jolie\nfille comme toi...",
+   "brut_fr": "Yo...[1205][001E] P-Pourquoi cette tête...?[1205][001E] Ça ne va\npas... à une jolie fille comme toi...",
    "brut_en": "Yo...[1205][001E][SP]Wh-What's[SP]with[SP]the[SP]long[SP]face...?[1205][001E]\nDoesn't[SP]suit...[SP]a[SP]pretty[SP]girl[SP]like[SP]you...",
    "data_size": 208,
    "budget": 200
@@ -218,16 +215,19 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "la beauté... et la laideur..."
+       "t": " la"
       },
       {
        "nl": true
       },
       {
-       "t": "sans rien dissimuler..."
+       "t": "beauté... et la laideur... sans rien"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dissimuler..."
       },
       {
        "pause": true
@@ -236,10 +236,10 @@
        "t": " Pas vrai,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Makki...?"
+       "t": " Makki...?"
       }
      ]
     }
@@ -280,7 +280,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Notre métier... c'est de montrer...[1205][001E]\nla beauté... et la laideur...\nsans rien dissimuler...[1205][001E] Pas vrai,\nMakki...?",
+   "brut_fr": "Notre métier... c'est de montrer...[1205][001E] la\nbeauté... et la laideur... sans rien\ndissimuler...[1205][001E] Pas vrai,[1205][U+000F] Makki...?",
    "brut_en": "Our[SP]job...[SP]is[SP]to[SP]show[SP]people...[1205][001E][SP]the[SP]bright...\nand[SP]the[SP]dirty[SP]things...[SP]without[SP]covering[SP]any\nof[SP]it[SP]up...[1205][001E][SP]Right,[SP]Makki...?",
    "data_size": 270,
    "budget": 262
@@ -355,13 +355,7 @@
        "pause": true
       },
       {
-       "t": " reçu mon appareil? "
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Du maître...?"
+       "t": " reçu mon appareil? Du maître...?"
       }
      ]
     }
@@ -390,7 +384,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "As-tu...[1205][001E] reçu mon appareil? \nDu maître...?",
+   "brut_fr": "As-tu...[1205][001E] reçu mon appareil? Du maître...?",
    "brut_en": "Did[SP]you...[1205][001E][SP]get[SP]my[SP]camera?[SP]From[SP]the\nhead[SP]monk...?",
    "data_size": 124,
    "budget": 116
@@ -508,25 +502,28 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "prendre des photos... espérant..."
+       "t": " prendre des"
       },
       {
        "nl": true
       },
       {
-       "t": "capturer ces étoiles?"
+       "t": "photos... espérant... capturer ces"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "étoiles?"
       },
       {
        "pause": true
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Yukki..."
+       "t": " Yukki..."
       },
       {
        "pause": true
@@ -591,7 +588,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tant de fois... venu ici...[1205][001E]\nprendre des photos... espérant...\ncapturer ces étoiles?[1205][001E]\nYukki...[1205][001E] capture...[1205][001E] ton étoile...",
+   "brut_fr": "Tant de fois... venu ici...[1205][001E] prendre des\nphotos... espérant... capturer ces\nétoiles?[1205][001E][1205][U+000F] Yukki...[1205][001E] capture...[1205][001E] ton étoile...",
    "brut_en": "How[SP]many[SP]times...[SP]have[SP]I[SP]come[SP]here...[1205][001E][SP]snapping\npics...[SP]while[SP]wondering...[SP]if[SP]I[SP]could[SP]capture\nthose[SP]stars?[1205][001E][SP]Yukki...[1205][001E][SP]capture...[1205][001E][SP]your[SP]star...",
    "data_size": 316,
    "budget": 308
@@ -654,22 +651,19 @@
        "pause": true
       },
       {
-       "t": " Je reste là..."
+       "t": " Je reste là... Je ne peux"
       },
       {
        "nl": true
       },
       {
-       "t": "Je ne peux plus lutter..."
+       "t": "plus lutter..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Je refuse de me battre...!"
+       "t": " Je refuse de me battre...!"
       }
      ]
     }
@@ -710,7 +704,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je le quitte PAS![1205][001E] Je reste là...\nJe ne peux plus lutter...[1205][001E]\nJe refuse de me battre...!",
+   "brut_fr": "Je le quitte PAS![1205][001E] Je reste là... Je ne peux\nplus lutter...[1205][001E] Je refuse de me battre...!",
    "brut_en": "I'm[SP]NOT[SP]leaving[SP]him![1205][001E][SP]I'm...[SP]staying[SP]here...\nI...[SP]I[SP]can't[SP]fight[SP]anymore...[1205][001E][SP]I[SP]don't[SP]want\nto[SP]fight...!",
    "data_size": 232,
    "budget": 224
@@ -741,7 +735,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Refuser sa dernière volonté ?",
+     "Refuser sa dernière volonté?",
      "Continuer à quatre."
     ],
     "question": [
@@ -761,7 +755,7 @@
      }
     ]
    },
-   "brut_fr": "Je ne veux plus me battre...!\n[1208][0002][1432][NULL][NULL][0014]Refuser sa dernière volonté ?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Continuer à quatre.[1432][NULL][NULL][0014]",
+   "brut_fr": "Je ne veux plus me battre...!\n[1208][0002][1432][NULL][NULL][0014]Refuser sa dernière volonté?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Continuer à quatre.[1432][NULL][NULL][0014]",
    "brut_en": "I[SP]don't[SP]want[SP]to[SP]fight...!\n[1208][0002][1432][NULL][NULL][0014]You'd[SP]deny[SP]his[SP]last[SP]request...?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]The[SP]four[SP]of[SP]us[SP]will[SP]go[SP]on.[1432][NULL][NULL][0014]",
    "data_size": 230,
    "budget": 222
@@ -781,13 +775,13 @@
        "pause": true
       },
       {
-       "t": " Tu es trop dur"
+       "t": " Tu"
       },
       {
        "nl": true
       },
       {
-       "t": "avec elle..."
+       "t": "es trop dur avec elle..."
       }
      ]
     }
@@ -816,7 +810,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais...! Chinyan...[1205][001E] Tu es trop dur\navec elle...",
+   "brut_fr": "Mais...! Chinyan...[1205][001E] Tu\nes trop dur avec elle...",
    "brut_en": "That's...![SP]Chinyan...[1205][001E][SP]You're[SP]being[SP]too\nhard[SP]on[SP]her...",
    "data_size": 134,
    "budget": 126
@@ -833,25 +827,19 @@
        "hero": "prenom"
       },
       {
-       "t": " a raison..."
+       "t": "a raison..."
       },
       {
        "pause": true
       },
       {
-       "t": " Fujii"
+       "t": " Fujii voulait"
       },
       {
        "nl": true
       },
       {
-       "t": "voulait que tu atteignes ton rêve,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Yukki..."
+       "t": "que tu atteignes ton rêve, Yukki..."
       }
      ]
     }
@@ -883,7 +871,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113] a raison...[1205][001E] Fujii\nvoulait que tu atteignes ton rêve,\nYukki...",
+   "brut_fr": "[1113]a raison...[1205][001E] Fujii voulait\nque tu atteignes ton rêve, Yukki...",
    "brut_en": "[1113]-kun's[SP]right...[1205][001E][SP]Fujii-san[SP]wanted[SP]you\nto[SP]achieve[SP]your[SP]dream,[SP]Yukki...",
    "data_size": 164,
    "budget": 156
@@ -897,31 +885,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les rumeurs vont engloutir le"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "monde."
+       "t": "Les rumeurs vont engloutir le monde."
       },
       {
        "pause": true
       },
       {
-       "t": " Si ça arrive, le"
+       "nl": true
+      },
+      {
+       "t": "Si ça arrive, le souhait de Fujii et"
       },
       {
        "nl": true
       },
       {
-       "t": "souhait de Fujii et ton rêve"
+       "t": "ton rêve"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "ne se réaliseront jamais..."
+       "t": " ne se réaliseront jamais..."
       }
      ]
     }
@@ -956,7 +941,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les rumeurs vont engloutir le\nmonde.[1205][001E] Si ça arrive, le\nsouhait de Fujii et ton rêve\nne se réaliseront jamais...",
+   "brut_fr": "Les rumeurs vont engloutir le monde.[1205][001E]\nSi ça arrive, le souhait de Fujii et\nton rêve[1205][U+000F] ne se réaliseront jamais...",
    "brut_en": "The[SP]world[SP]is[SP]on[SP]the[SP]verge[SP]of[SP]being[SP]swallowed\nby[SP]rumors.[1205][001E][SP]If[SP]that[SP]happens,[SP]Fujii-san's[SP]last\nwish[SP]and[SP]your[SP]dream[SP]will[SP]never[SP]come[SP]true...",
    "data_size": 292,
    "budget": 284
@@ -976,25 +961,16 @@
        "pause": true
       },
       {
-       "t": " Je dois... faire"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "encore une chose."
+       "t": " Je dois... faire encore une chose."
       },
       {
        "pause": true
       },
       {
-       "t": " Je n'ai pas"
-      },
-      {
        "nl": true
       },
       {
-       "t": "tenue ma promesse envers Anna..."
+       "t": "Je n'ai pas tenue ma promesse envers Anna..."
       }
      ]
     }
@@ -1035,7 +1011,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Allons-y...[1205][001E] Je dois... faire\nencore une chose.[1205][001E] Je n'ai pas\ntenue ma promesse envers Anna...",
+   "brut_fr": "Allons-y...[1205][001E] Je dois... faire encore une chose.[1205][001E]\nJe n'ai pas tenue ma promesse envers Anna...",
    "brut_en": "Let's[SP]go...[1205][001E][SP]There's...[SP]still[SP]something[SP]I[SP]need\nto[SP]do.[1205][001E][SP]I[SP]haven't[SP]kept[SP]my[SP]promise[SP]to[SP]save\nAnna[SP]yet...",
    "data_size": 230,
    "budget": 222
@@ -1049,25 +1025,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Émotions et chaleur se"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "transmettent..."
+       "t": "Émotions et chaleur se transmettent..."
       },
       {
        "pause": true
       },
       {
-       "t": " Cet appareil"
-      },
-      {
        "nl": true
       },
       {
-       "t": "est l'âme de votre amant..."
+       "t": "Cet appareil est l'âme de votre amant..."
       }
      ]
     }
@@ -1102,7 +1069,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Émotions et chaleur se\ntransmettent...[1205][001E] Cet appareil\nest l'âme de votre amant...",
+   "brut_fr": "Émotions et chaleur se transmettent...[1205][001E]\nCet appareil est l'âme de votre amant...",
    "brut_en": "Strong[SP]emotions[SP]and[SP]warm[SP]feelings[SP]are[SP]passed\nfrom[SP]person[SP]to[SP]person...[1205][001E][SP]That[SP]camera[SP]is[SP]your\nlover's[SP]heart[SP]and[SP]soul...",
    "data_size": 262,
    "budget": 254
@@ -1116,13 +1083,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il vivra en vous comme une"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "nouvelle Persona..."
+       "t": "Il vivra en vous comme une nouvelle Persona..."
       }
      ]
     }
@@ -1145,7 +1106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il vivra en vous comme une\nnouvelle Persona...",
+   "brut_fr": "Il vivra en vous comme une nouvelle Persona...",
    "brut_en": "It[SP]will[SP]continue[SP]to[SP]live[SP]on[SP]inside[SP]you[SP]as\na[SP]new[SP]Persona...",
    "data_size": 146,
    "budget": 138
@@ -1165,46 +1126,46 @@
        "pause": true
       },
       {
-       "t": " Mon devoir"
+       "t": " Mon devoir est de"
       },
       {
        "nl": true
       },
       {
-       "t": "est de pourfendre le mal qui menace ce"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "monde..."
+       "t": "pourfendre le mal qui menace ce monde..."
       },
       {
        "pause": true
       },
       {
-       "t": " Sache que ton destin n'est"
+       "nl": true
+      },
+      {
+       "t": "Sache que ton destin n'est"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " rien de moins"
       },
       {
        "nl": true
       },
       {
-       "t": "rien de moins que cela."
+       "t": "que cela.  > Le stock de Personae est"
       },
       {
        "nl": true
       },
       {
-       "nl": true
+       "t": "plein."
       },
       {
-       "t": "> Le stock de Personae est plein."
+       "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Veuillez libérer un emplacement."
+       "t": " Veuillez libérer un emplacement."
       }
      ]
     }
@@ -1260,7 +1221,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis [E4][NULL][NULL][U+0005]Durga[E4][NULL][NULL][0002].[1205][001E] Mon devoir\nest de pourfendre le mal qui menace ce\nmonde...[1205][001E] Sache que ton destin n'est\nrien de moins que cela.\n[E1][E2][E3]\n> Le stock de Personae est plein.\nVeuillez libérer un emplacement.[E4][NULL][NULL][0002]",
+   "brut_fr": "Je suis [E4][NULL][NULL][U+0005]Durga[E4][NULL][NULL][0002].[1205][001E] Mon devoir est de\npourfendre le mal qui menace ce monde...[1205][001E]\nSache que ton destin n'est[1205][U+000F] rien de moins\nque cela. [E1][E2][E3] > Le stock de Personae est\nplein.[1205][U+000F] Veuillez libérer un emplacement.[E4][NULL][NULL][0002]",
    "brut_en": "I[SP]am[SP][E4][NULL][NULL][U+0005]Durga[E4][NULL][NULL][0002].[1205][001E][SP]My[SP]duty[SP]is[SP]to[SP]rend[SP]asunder[SP]the\nevil[SP]that[SP]threatens[SP]the[SP]world...[1205][001E][SP]Know[SP]that\nyour[SP]destiny[SP]is[SP]nothing[SP]less[SP]than[SP]this.\n[E1][E2][E3]\n>[SP]The[SP]party's[SP]stock[SP]of[SP]Personas[SP]is[SP]full.\nPlease[SP]create[SP]one[SP]opening.[E4][NULL][NULL][0002]",
    "data_size": 450,
    "budget": 442
@@ -1286,10 +1247,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Allez, on y va..."
+       "t": " Allez, on y va..."
       }
      ]
     }
@@ -1318,7 +1276,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein...[1205][001E] Merci, Philémon.[1205][001E]\nAllez, on y va...",
+   "brut_fr": "Hein...[1205][001E] Merci, Philémon.[1205][001E] Allez, on y va...",
    "brut_en": "Huh...[1205][001E][SP]Thanks,[SP]Philemon.[1205][001E][SP]C'mon,[SP]let's[SP]go...",
    "data_size": 120,
    "budget": 112
@@ -1485,37 +1443,34 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est pas la faute de Fujii,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "mais..."
+       "t": "C'est pas la faute de Fujii, mais..."
       },
       {
        "pause": true
       },
       {
-       "t": " C'est juste...!"
+       "nl": true
+      },
+      {
+       "t": "C'est juste...!"
       },
       {
        "pause": true
       },
       {
-       "t": " C'est"
+       "t": " C'est injuste pour"
       },
       {
        "nl": true
       },
       {
-       "t": "injuste pour ceux qui restent"
+       "t": "ceux qui restent"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "derrière...!"
+       "t": " derrière...!"
       }
      ]
     }
@@ -1553,7 +1508,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pas la faute de Fujii,\nmais...[1205][001E] C'est juste...![1205][001E] C'est\ninjuste pour ceux qui restent\nderrière...!",
+   "brut_fr": "C'est pas la faute de Fujii, mais...[1205][001E]\nC'est juste...![1205][001E] C'est injuste pour\nceux qui restent[1205][U+000F] derrière...!",
    "brut_en": "I[SP]know[SP]it's[SP]not[SP]Fujii-san's[SP]fault,[SP]but...[1205][001E]\nThis[SP]is[SP]just...![1205][001E][SP]It's[SP]not[SP]fair[SP]to[SP]the[SP]ones\nwho[SP]get[SP]left[SP]behind...!",
    "data_size": 248,
    "budget": 240
@@ -1567,25 +1522,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quelqu'un prêt à mourir"
+       "t": "Quelqu'un prêt à mourir pour son"
       },
       {
        "nl": true
       },
       {
-       "t": "pour son rêve..."
+       "t": "rêve..."
       },
       {
        "pause": true
       },
       {
-       "t": " On ne peut"
+       "t": " On ne peut pas l'en"
       },
       {
        "nl": true
       },
       {
-       "t": "pas l'en empêcher."
+       "t": "empêcher."
       },
       {
        "pause": true
@@ -1594,10 +1549,10 @@
        "t": " Je"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "le sais bien, mais..."
+       "t": " le sais bien, mais..."
       }
      ]
     }
@@ -1638,7 +1593,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quelqu'un prêt à mourir\npour son rêve...[1205][001E] On ne peut\npas l'en empêcher.[1205][001E] Je\nle sais bien, mais...",
+   "brut_fr": "Quelqu'un prêt à mourir pour son\nrêve...[1205][001E] On ne peut pas l'en\nempêcher.[1205][001E] Je[1205][U+000F] le sais bien, mais...",
    "brut_en": "Someone[SP]who's[SP]so[SP]passionate[SP]about[SP]a[SP]dream\nthey'd[SP]die[SP]for[SP]it...[1205][001E][SP]You[SP]can't[SP]stop[SP]people\nlike[SP]that.[1205][001E][SP]I[SP]know[SP]you[SP]can't,[SP]but...",
    "data_size": 270,
    "budget": 262
@@ -1652,25 +1607,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est trop horrible..."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Pauvre Yukki."
+       "t": "C'est trop horrible... Pauvre Yukki."
       },
       {
        "pause": true
       },
       {
-       "t": " De telles"
-      },
-      {
        "nl": true
       },
       {
-       "t": "choses sont..."
+       "t": "De telles choses sont..."
       },
       {
        "pause": true
@@ -1711,7 +1657,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est trop horrible...\nPauvre Yukki.[1205][001E] De telles\nchoses sont...[1205][001E] Papa...",
+   "brut_fr": "C'est trop horrible... Pauvre Yukki.[1205][001E]\nDe telles choses sont...[1205][001E] Papa...",
    "brut_en": "This[SP]is[SP]too[SP]horrible...[SP]I[SP]feel[SP]so[SP]bad[SP]for\nYukki.[1205][001E][SP]Things[SP]like[SP]this[SP]are[SP]just...[1205][001E][SP]Dad...",
    "data_size": 198,
    "budget": 190
@@ -1731,28 +1677,31 @@
        "pause": true
       },
       {
-       "t": " Tu peux"
+       "t": " Tu peux voir la fierté"
       },
       {
        "nl": true
       },
       {
-       "t": "voir la fierté sur son visage."
+       "t": "sur son visage."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "J'espère qu'un jour je pourrai"
+       "t": " J'espère qu'un jour"
       },
       {
        "nl": true
       },
       {
-       "t": "sourire comme ça..."
+       "t": "je pourrai"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " sourire comme ça..."
       }
      ]
     }
@@ -1793,7 +1742,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Regarde, [1114]...[1205][001E] Tu peux\nvoir la fierté sur son visage.[1205][001E]\nJ'espère qu'un jour je pourrai\nsourire comme ça...",
+   "brut_fr": "Regarde, [1114]...[1205][001E] Tu peux voir la fierté\nsur son visage.[1205][001E] J'espère qu'un jour\nje pourrai[1205][U+000F] sourire comme ça...",
    "brut_en": "Look,[SP][1114]...[1205][001E][SP]You[SP]can[SP]see[SP]the[SP]pride[SP]on\nthe[SP]guy's[SP]face.[1205][001E][SP]I[SP]hope[SP]one[SP]day[SP]I[SP]can[SP]find[SP]it\nin[SP]me[SP]to[SP]smile[SP]like[SP]that...",
    "data_size": 252,
    "budget": 244
@@ -1813,28 +1762,31 @@
        "pause": true
       },
       {
+       "t": " J'ai jamais"
+      },
+      {
        "nl": true
       },
       {
-       "t": "J'ai jamais pu..."
+       "t": "pu..."
       },
       {
        "pause": true
       },
       {
-       "t": " lui dire..."
+       "t": " lui dire... que je l'aimais..."
       },
       {
        "nl": true
       },
       {
-       "t": "que je l'aimais... que je"
+       "t": "que je"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "l'aimais tant...!"
+       "t": " l'aimais tant...!"
       }
      ]
     }
@@ -1875,7 +1827,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pourquoi... Pourquoi!?[1205][001E]\nJ'ai jamais pu...[1205][001E] lui dire...\nque je l'aimais... que je\nl'aimais tant...!",
+   "brut_fr": "Pourquoi... Pourquoi!?[1205][001E] J'ai jamais\npu...[1205][001E] lui dire... que je l'aimais...\nque je[1205][U+000F] l'aimais tant...!",
    "brut_en": "Why...[SP]Why!?[1205][001E][SP]I[SP]still[SP]hadn't...[1205][001E][SP]I[SP]never[SP]got\nto[SP]tell[SP]him...[SP]that[SP]I[SP]liked[SP]him...[SP]that[SP]I\nloved[SP]him...!",
    "data_size": 230,
    "budget": 222
@@ -1895,25 +1847,19 @@
        "pause": true
       },
       {
-       "t": " Ce n'était pas"
+       "t": " Ce n'était pas une"
       },
       {
        "nl": true
       },
       {
-       "t": "une erreur..."
+       "t": "erreur..."
       },
       {
        "pause": true
       },
       {
-       "t": " de t'aimer,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pas vrai...?"
+       "t": " de t'aimer, pas vrai...?"
       }
      ]
     }
@@ -1945,7 +1891,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Shunsuke...[1205][001E] Ce n'était pas\nune erreur...[1205][001E] de t'aimer,\npas vrai...?",
+   "brut_fr": "Shunsuke...[1205][001E] Ce n'était pas une\nerreur...[1205][001E] de t'aimer, pas vrai...?",
    "brut_en": "Shunsuke-san...[1205][001E][SP]It[SP]wasn't[SP]a[SP]mistake...[1205][001E]\nfalling[SP]in[SP]love[SP]with[SP]you,[SP]right...?",
    "data_size": 180,
    "budget": 172
@@ -1965,37 +1911,31 @@
        "pause": true
       },
       {
-       "t": " Mais"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "attends-moi..."
+       "t": " Mais attends-moi..."
       },
       {
        "pause": true
       },
       {
-       "t": " Je reviendrai"
+       "t": " Je"
       },
       {
        "nl": true
       },
       {
-       "t": "vite te chercher..."
+       "t": "reviendrai vite te chercher..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " > Le corps de"
       },
       {
        "nl": true
       },
       {
-       "t": "> Le corps de Fujii. Son visage"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "est paisible et fier. Le"
+       "t": "Fujii. Son visage est paisible et fier. Le"
       },
       {
        "nl": true
@@ -2004,10 +1944,10 @@
        "t": "visage d'un homme ayant accompli"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "ses rêves..."
+       "t": " ses rêves..."
       }
      ]
     }
@@ -2057,7 +1997,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il fait froid ici...[1205][001E] Mais\nattends-moi...[1205][001E] Je reviendrai\nvite te chercher...\n[E1][E2][E3]> Le corps de Fujii. Son visage\nest paisible et fier. Le\nvisage d'un homme ayant accompli\nses rêves...",
+   "brut_fr": "Il fait froid ici...[1205][001E] Mais attends-moi...[1205][001E] Je\nreviendrai vite te chercher...[1205][U+000F] [E1][E2][E3]> Le corps de\nFujii. Son visage est paisible et fier. Le\nvisage d'un homme ayant accompli[1205][U+000F] ses rêves...",
    "brut_en": "I[SP]know[SP]it's[SP]cold[SP]here...[1205][001E][SP]But[SP]wait[SP]for[SP]me...[1205][001E]\nI'll[SP]be[SP]back[SP]for[SP]you[SP]real[SP]soon...\n[E1][E2][E3]>[SP]It's[SP]Fujii's[SP]body.[SP]His[SP]face[SP]is[SP]peaceful\nand[SP]proud.[SP]It's[SP]the[SP]face[SP]of[SP]a[SP]man[SP]who[SP]had\naccomplished[SP]his[SP]dreams...",
    "data_size": 416,
    "budget": 408

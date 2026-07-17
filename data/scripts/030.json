@@ -10,7 +10,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Et voilà! Nous attendons plus de"
+       "t": "... Et voilà! Nous attendons plus de"
       },
       {
        "nl": true
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Et voilà! Nous attendons plus de\nlettres de VOTRE PART, auditeurs!",
+   "brut_fr": "... Et voilà! Nous attendons plus de\nlettres de VOTRE PART, auditeurs!",
    "brut_en": "...And[SP]that's[SP]that![SP]We're[SP]waiting[SP]for[SP]more\nletters[SP]from[SP]YOU,[SP]the[SP]listeners!",
    "data_size": 186,
    "budget": 178
@@ -53,13 +53,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "À ce propos, Ginji, tu as dit que tu avais une annonce"
+       "t": "À ce propos, Ginji, tu as dit que tu"
       },
       {
        "nl": true
       },
       {
-       "t": "importante à faire aujourd'hui. Tu ne veux pas dire...?"
+       "t": "avais une annonce importante à faire"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aujourd'hui. Tu ne veux"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pas dire...?"
       },
       {
        "pause": true
@@ -94,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "À ce propos, Ginji, tu as dit que tu avais une annonce\nimportante à faire aujourd'hui. Tu ne veux pas dire...?[1205][001E]",
+   "brut_fr": "À ce propos, Ginji, tu as dit que tu\navais une annonce importante à faire\naujourd'hui. Tu ne veux[1205][U+000F] pas dire...?[1205][001E]",
    "brut_en": "By[SP]the[SP]way,[SP]Ginji-san,[SP]you[SP]said[SP]you[SP]had[SP]an\nimportant[SP]announcement[SP]to[SP]make[SP]during[SP]our\nshow[SP]today.[SP]You[SP]don't[SP]mean...?[1205][001E]",
    "data_size": 270,
    "budget": 262
@@ -114,19 +126,25 @@
        "pause": true
       },
       {
-       "t": "Là tu m'as eu. Ouais,"
+       "t": " Là tu m'as eu. Ouais, c'est"
       },
       {
        "nl": true
       },
       {
-       "t": "c'est le moment. Il semblerait que notre dernière invitée"
+       "t": "le moment. Il semblerait que notre"
       },
       {
        "nl": true
       },
       {
-       "t": "vient d'arriver."
+       "t": "dernière invitée"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " vient d'arriver."
       }
      ]
     }
@@ -161,7 +179,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ahahah...[1205][001E]Là tu m'as eu. Ouais,\nc'est le moment. Il semblerait que notre dernière invitée\nvient d'arriver.",
+   "brut_fr": "Ahahah...[1205][001E] Là tu m'as eu. Ouais, c'est\nle moment. Il semblerait que notre\ndernière invitée[1205][U+000F] vient d'arriver.",
    "brut_en": "Ahahah...[1205][001E][SP]You've[SP]got[SP]me[SP]there.[SP]Yeah,[SP]I'd[SP]say\nit's[SP]about[SP]time.[SP]Looks[SP]like[SP]our[SP]last[SP]guest\nhas[SP]just[SP]arrived.",
    "data_size": 234,
    "budget": 226
@@ -181,16 +199,22 @@
        "nl": true
       },
       {
-       "t": "et que j'annonce le troisième membre de Muses!"
-      },
-      {
-       "pause": true
+       "t": "et que j'annonce le troisième membre de"
       },
       {
        "nl": true
       },
       {
-       "t": "Lisa Silverman! Te voilà!"
+       "t": "Muses!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Lisa Silverman! Te voilà!"
       }
      ]
     }
@@ -222,7 +246,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vais donné aux gens ce qu'ils veulent\net que j'annonce le troisième membre de Muses![1205][001E]\nLisa Silverman! Te voilà!",
+   "brut_fr": "Je vais donné aux gens ce qu'ils veulent\net que j'annonce le troisième membre de\nMuses![1205][001E][1205][U+000F] Lisa Silverman! Te voilà!",
    "brut_en": "It's[SP]time[SP]I[SP]gave[SP]the[SP]people[SP]what[SP]they[SP]want\nand[SP]announced[SP]the[SP]third[SP]member[SP]of[SP]Muses![1205][001E]\nLisa[SP]Silverman![SP]There[SP]you[SP]are!",
    "data_size": 256,
    "budget": 248
@@ -236,19 +260,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bon sang! Je fais quoi, "
-      },
-      {
-       "hero": "prenom"
-      },
-      {
-       "t": "!?"
+       "t": "Bon sang! Je fais quoi,"
       },
       {
        "nl": true
       },
       {
-       "t": "Kaumena! Aide moi!"
+       "hero": "prenom"
+      },
+      {
+       "t": "!? Kaumena! Aide moi!"
       }
      ]
     }
@@ -277,7 +298,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon sang! Je fais quoi, [1113]!?\nKaumena! Aide moi!",
+   "brut_fr": "Bon sang! Je fais quoi,\n[1113]!? Kaumena! Aide moi!",
    "brut_en": "Oh,[SP]geez![SP]What[SP]should[SP]I[SP]do,[SP][1113]!?\nKaumena![SP]Help[SP]me!",
    "data_size": 122,
    "budget": 114
@@ -291,19 +312,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu n'as pas le choix! "
+       "t": "Tu n'as pas le choix! Prends ton courage à"
       },
       {
        "nl": true
       },
       {
-       "t": "Prends ton courage à deux mains et lance toi! Essaie d'obtenir"
+       "t": "deux mains et lance toi! Essaie d'obtenir"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": " le plus d'informations possibles!"
+       "t": "le plus d'informations possibles!"
       }
      ]
     }
@@ -332,7 +356,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu n'as pas le choix! \nPrends ton courage à deux mains et lance toi! Essaie d'obtenir\n le plus d'informations possibles!",
+   "brut_fr": "Tu n'as pas le choix! Prends ton courage à\ndeux mains et lance toi! Essaie d'obtenir[1205][U+000F]\nle plus d'informations possibles!",
    "brut_en": "I[SP]don't[SP]think[SP]you[SP]have[SP]a[SP]choice![SP]Time[SP]to\nbite[SP]the[SP]bullet[SP]and[SP]go[SP]do[SP]this![SP]Try[SP]and\npry[SP]out[SP]as[SP]much[SP]information[SP]as[SP]you[SP]can!",
    "data_size": 262,
    "budget": 254
@@ -346,13 +370,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour ceux qui nous écoute, Muses devient"
+       "t": "Pour ceux qui nous écoute,"
       },
       {
        "nl": true
       },
       {
-       "t": "un trio à 3!"
+       "t": "Muses devient un trio à 3!"
       }
      ]
     }
@@ -375,7 +399,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour ceux qui nous écoute, Muses devient\nun trio à 3!",
+   "brut_fr": "Pour ceux qui nous écoute,\nMuses devient un trio à 3!",
    "brut_en": "For[SP]everyone[SP]tuning[SP]in[SP]now,[SP]Muses[SP]is[SP]now\na[SP]full[SP]trio!",
    "data_size": 142,
    "budget": 134
@@ -450,7 +474,7 @@
        "nl": true
       },
       {
-       "t": " résonance de Persona chez ce Sasaki?"
+       "t": "résonance de Persona chez ce Sasaki?"
       }
      ]
     }
@@ -485,7 +509,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hey, [1113].[1205][001E] tu sens une légère\n résonance de Persona chez ce Sasaki?",
+   "brut_fr": "Hey, [1113].[1205][001E] tu sens une légère\nrésonance de Persona chez ce Sasaki?",
    "brut_en": "Hey,[SP][1113]-kun.[1205][001E][SP]Do[SP]you[SP]detect[SP]a[SP]faint\nPersona[SP]resonance[SP]in[SP]that[SP]Sasaki[SP]guy?",
    "data_size": 168,
    "budget": 160
@@ -499,13 +523,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'me demande s'il fait partie du Cercle Masqué..."
+       "t": "J'me demande s'il fait partie du Cercle"
       },
       {
        "nl": true
       },
       {
-       "t": "Si oui, attention Lisa."
+       "t": "Masqué... Si oui, attention Lisa."
       }
      ]
     }
@@ -528,7 +552,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'me demande s'il fait partie du Cercle Masqué...\nSi oui, attention Lisa.",
+   "brut_fr": "J'me demande s'il fait partie du Cercle\nMasqué... Si oui, attention Lisa.",
    "brut_en": "I[SP]wonder[SP]if[SP]he's[SP]one[SP]of[SP]the[SP]Masked[SP]Circle...\nIf[SP]he[SP]is,[SP]Lisa's[SP]in[SP]trouble.",
    "data_size": 168,
    "budget": 160
@@ -542,22 +566,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si on s'en tient au plan, on peut peut-être"
+       "t": "Si on s'en tient au plan, on peut"
       },
       {
        "nl": true
       },
       {
-       "t": "obtenir quelques détails sur le Cercle Masqué."
+       "t": "peut-être obtenir quelques détails sur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le Cercle "
       },
       {
        "pause": true
       },
       {
-       "nl": true
+       "t": " Masqué."
       },
       {
-       "t": "Tout dépend de Lisa."
+       "pause": true
+      },
+      {
+       "t": " Tout dépend de Lisa."
       }
      ]
     }
@@ -589,7 +622,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si on s'en tient au plan, on peut peut-être\nobtenir quelques détails sur le Cercle Masqué.[1205][001E]\nTout dépend de Lisa.",
+   "brut_fr": "Si on s'en tient au plan, on peut\npeut-être obtenir quelques détails sur\nle Cercle [1205][U+000F] Masqué.[1205][001E] Tout dépend de Lisa.",
    "brut_en": "But[SP]if[SP]we[SP]go[SP]along[SP]with[SP]the[SP]plan,[SP]we[SP]might\nget[SP]some[SP]juicy[SP]details[SP]on[SP]the[SP]Masked[SP]Circle.[1205][001E]\nWell,[SP]it's[SP]all[SP]up[SP]to[SP]Lisa[SP]now.",
    "data_size": 262,
    "budget": 254
@@ -603,19 +636,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien, passons à la question"
+       "t": "Bien, passons à la question qui brûle"
       },
       {
        "nl": true
       },
       {
-       "t": "qui brûle les lèvres de tous nos auditeurs' pensées:"
+       "t": "les lèvres de tous nos auditeurs'"
       },
       {
        "nl": true
       },
       {
-       "t": "Lisa, es-tu célibataire!?"
+       "t": "pensées:"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Lisa, es-tu célibataire!?"
       }
      ]
     }
@@ -644,7 +683,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien, passons à la question\nqui brûle les lèvres de tous nos auditeurs' pensées:\nLisa, es-tu célibataire!?",
+   "brut_fr": "Bien, passons à la question qui brûle\nles lèvres de tous nos auditeurs'\npensées:[1205][U+000F] Lisa, es-tu célibataire!?",
    "brut_en": "Well[SP]then,[SP]let's[SP]move[SP]on[SP]to[SP]the[SP]burning\nquestion[SP]on[SP]all[SP]our[SP]male[SP]listeners'[SP]minds:\nLisa-chan,[SP]are[SP]you[SP]single!?",
    "data_size": 256,
    "budget": 248
@@ -658,13 +697,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ng Oui! Il y'en a un!"
+       "t": "Ng Oui! Il y'en a un! Justement,"
       },
       {
        "nl": true
       },
       {
-       "t": "Justement, il est là aujourd'hui!"
+       "t": "il est là aujourd'hui!"
       }
      ]
     }
@@ -687,7 +726,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ng Oui! Il y'en a un!\nJustement, il est là aujourd'hui!",
+   "brut_fr": "Ng Oui! Il y'en a un! Justement,\nil est là aujourd'hui!",
    "brut_en": "Ng[SP]Hai![SP]There[SP]is[SP]a[SP]certain[SP]gentleman!\nActually,[SP]he's[SP]here[SP]today!",
    "data_size": 152,
    "budget": 144
@@ -701,13 +740,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Woah! Lisa vient de larguer une seconde bombe"
+       "t": "Woah! Lisa vient de larguer une"
       },
       {
        "nl": true
       },
       {
-       "t": "sur notre auditoire! Qui est donc, ce petit ami!?"
+       "t": "seconde bombe sur notre auditoire!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qui est donc, ce "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " petit ami!?"
       }
      ]
     }
@@ -736,7 +787,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Woah! Lisa vient de larguer une seconde bombe\nsur notre auditoire! Qui est donc, ce petit ami!?",
+   "brut_fr": "Woah! Lisa vient de larguer une\nseconde bombe sur notre auditoire!\nQui est donc, ce [1205][U+000F] petit ami!?",
    "brut_en": "Woah![SP]Lisa-chan[SP]drops[SP]a[SP]second[SP]bombshell\non[SP]our[SP]audience![SP]Who,[SP]may[SP]we[SP]ask,[SP]is[SP]this\nboyfriend[SP]of[SP]yours!?",
    "data_size": 242,
    "budget": 234
@@ -750,13 +801,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il est là bas... Le grand mec sympa!"
+       "t": "Il est là bas... Le grand mec"
       },
       {
        "nl": true
       },
       {
-       "t": "Hiii, je l'ai dit!"
+       "t": "sympa! Hiii, je l'ai dit!"
       }
      ]
     }
@@ -779,7 +830,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il est là bas... Le grand mec sympa!\nHiii, je l'ai dit!",
+   "brut_fr": "Il est là bas... Le grand mec\nsympa! Hiii, je l'ai dit!",
    "brut_en": "He's[SP]over[SP]there...[SP]The[SP]tall,[SP]cool[SP]guy!\nEeeee,[SP]I[SP]said[SP]it!",
    "data_size": 136,
    "budget": 128
@@ -793,7 +844,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "..Moi?"
+       "t": ".. Moi?"
       }
      ]
     }
@@ -810,7 +861,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "..Moi?",
+   "brut_fr": ".. Moi?",
    "brut_en": "...Me?",
    "data_size": 40,
    "budget": 32
@@ -830,16 +881,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Chérie deviens mienne! Voilà une bonne"
+       "t": " Chérie"
       },
       {
        "nl": true
       },
       {
-       "t": "dose d'amour!"
+       "t": "deviens mienne! Voilà une bonne dose d'amour!"
       }
      ]
     }
@@ -871,7 +919,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Awww, tu aurais dû le dire avant...[1205][001E]\nChérie deviens mienne! Voilà une bonne\ndose d'amour!",
+   "brut_fr": "Awww, tu aurais dû le dire avant...[1205][001E] Chérie\ndeviens mienne! Voilà une bonne dose d'amour!",
    "brut_en": "Awww,[SP]you[SP]should've[SP]said[SP]so[SP]before...[1205][001E]\nBaby[SP]be[SP]mine![SP]I'm[SP]gonna[SP]give[SP]you[SP]a[SP]whole\nlotta[SP]love!",
    "data_size": 212,
    "budget": 204
@@ -971,13 +1019,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mon Chinyan n'est pas un pervers fou"
+       "t": "Mon Chinyan n'est pas un"
       },
       {
        "nl": true
       },
       {
-       "t": "comme lui!"
+       "t": "pervers fou comme lui!"
       }
      ]
     }
@@ -1000,7 +1048,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mon Chinyan n'est pas un pervers fou\ncomme lui!",
+   "brut_fr": "Mon Chinyan n'est pas un\npervers fou comme lui!",
    "brut_en": "My[SP]Chinyan[SP]isn't[SP]a[SP]twisted[SP]narcissist\nlike[SP]him!",
    "data_size": 118,
    "budget": 110
@@ -1014,13 +1062,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hhh, ok! Bon alors, Ginji? Racontes-nous"
+       "t": "Hhh, ok! Bon alors, Ginji?"
       },
       {
        "nl": true
       },
       {
-       "t": "la première chanson de Muse, qu'on a hâte d'entendre!"
+       "t": "Racontes-nous la première chanson"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de Muse, qu'on a hâte d'entendre!"
       }
      ]
     }
@@ -1049,7 +1103,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hhh, ok! Bon alors, Ginji? Racontes-nous\nla première chanson de Muse, qu'on a hâte d'entendre!",
+   "brut_fr": "Hhh, ok! Bon alors, Ginji?\nRacontes-nous la première chanson\nde Muse, qu'on a hâte d'entendre!",
    "brut_en": "Uhhh,[SP]okay![SP]Well[SP]then,[SP]Ginji-san?[SP]Lay[SP]it[SP]on\nus[SP]about[SP]the[SP]Muses'[SP]debut[SP]song[SP]we're[SP]all\ndying[SP]to[SP]hear!",
    "data_size": 234,
    "budget": 226
@@ -1069,19 +1123,19 @@
        "enc": "jeu Joker"
       },
       {
-       "t": " qui fait"
+       "t": " qui"
       },
       {
        "nl": true
       },
       {
-       "t": "fureur chez les jeunes."
+       "t": "fait fureur chez les jeunes. La"
       },
       {
        "nl": true
       },
       {
-       "t": "La chanson s'appelle, du coup, "
+       "t": "chanson s'appelle, du coup, "
       },
       {
        "enc": "Joker"
@@ -1128,7 +1182,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle est basée sur le [1432][NULL][NULL][0014]jeu Joker[1432][NULL][NULL][0014] qui fait\nfureur chez les jeunes.\nLa chanson s'appelle, du coup, [1432][NULL][NULL][0014]Joker[1432][NULL][NULL][0014]!",
+   "brut_fr": "Elle est basée sur le [1432][NULL][NULL][0014]jeu Joker[1432][NULL][NULL][0014] qui\nfait fureur chez les jeunes. La\nchanson s'appelle, du coup, [1432][NULL][NULL][0014]Joker[1432][NULL][NULL][0014]!",
    "brut_en": "It's[SP]based[SP]on[SP]the[SP][1432][NULL][NULL][0014]Joker[SP]Game[1432][NULL][NULL][0014][SP]that's\ncatching[SP]on[SP]with[SP]the[SP]kids[SP]today.\nIt's[SP]called,[SP]naturally,[SP][1432][NULL][NULL][0014]Joker[1432][NULL][NULL][0014]!",
    "data_size": 254,
    "budget": 246
@@ -1173,19 +1227,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et puisque Lisa parle si bien anglais,"
+       "t": "Et puisque Lisa parle si bien anglais, J'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai préparé un solo en anglais"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "rien que pour elle."
+       "t": "préparé un solo en anglais rien que pour elle."
       }
      ]
     }
@@ -1214,7 +1262,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et puisque Lisa parle si bien anglais,\nJ'ai préparé un solo en anglais\nrien que pour elle.",
+   "brut_fr": "Et puisque Lisa parle si bien anglais, J'ai\npréparé un solo en anglais rien que pour elle.",
    "brut_en": "And[SP]since[SP]Lisa-kun's[SP]so[SP]fluent[SP]in[SP]English,\nI've[SP]prepared[SP]an[SP]entire[SP]English[SP]solo[SP]part\nfor[SP]her.",
    "data_size": 210,
    "budget": 202
@@ -1234,10 +1282,16 @@
        "nl": true
       },
       {
-       "t": "message a faire passer en anglais pour tout tes fans"
+       "t": "message a faire passer en anglais"
       },
       {
        "nl": true
+      },
+      {
+       "t": "pour tout tes fans"
+      },
+      {
+       "pause": true
       },
       {
        "t": " aujourd'hui?"
@@ -1269,7 +1323,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vois...! Bien, alors, Lisa. Un\nmessage a faire passer en anglais pour tout tes fans\n aujourd'hui?",
+   "brut_fr": "Je vois...! Bien, alors, Lisa. Un\nmessage a faire passer en anglais\npour tout tes fans[1205][U+000F] aujourd'hui?",
    "brut_en": "I[SP]see...![SP]Alright[SP]then,[SP]Lisa-chan.[SP]Got[SP]a\nmessage[SP]in[SP]English[SP]for[SP]all[SP]your[SP]adoring\nfans[SP]out[SP]there[SP]today?",
    "data_size": 240,
    "budget": 232
@@ -1283,19 +1337,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Bien, j'avais de grands espoirs, mais c'est tout"
+       "t": "... Bien, j'avais de grands espoirs,"
       },
       {
        "nl": true
       },
       {
-       "t": "pour aujourd'hui! Nous attendons"
+       "t": "mais c'est tout pour aujourd'hui! Nous"
       },
       {
        "nl": true
       },
       {
-       "t": "d'écouter ton couplet, Lisa!"
+       "t": "attendons"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " d'écouter ton couplet, Lisa!"
       }
      ]
     }
@@ -1324,7 +1384,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Bien, j'avais de grands espoirs, mais c'est tout\npour aujourd'hui! Nous attendons\nd'écouter ton couplet, Lisa!",
+   "brut_fr": "... Bien, j'avais de grands espoirs,\nmais c'est tout pour aujourd'hui! Nous\nattendons[1205][U+000F] d'écouter ton couplet, Lisa!",
    "brut_en": "...Well,[SP]I[SP]had[SP]high[SP]hopes,[SP]but[SP]that's[SP]all\nthe[SP]time[SP]we[SP]have[SP]today![SP]We'll[SP]be[SP]looking\nforward[SP]to[SP]your[SP]part,[SP]Lisa-chan!",
    "data_size": 266,
    "budget": 258
@@ -1341,27 +1401,30 @@
        "enc": "D'acc...! Ou-Ouaiiis!"
       },
       {
-       "nl": true
+       "t": "  "
       }
      ]
     },
     {
-     "nom": "Meteor Masa",
+     "nom": "Meteor Masa[1205][U+000F] Les",
      "seg": [
       {
-       "t": "Les Muses, Mesdames et Messieurs, en débutant"
+       "t": "Muses, Mesdames et Messieurs, en débutant"
       },
       {
        "nl": true
       },
       {
-       "t": "leur carrière avec un mini-concert aujourd'hui à"
+       "t": "leur carrière avec un mini-concert "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "l'open hair d'Aoba!"
+       "t": "aujourd'hui à l'open hair d'Aoba!"
       }
      ]
     }
@@ -1401,7 +1464,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]D'acc...! Ou-Ouaiiis![1432][NULL][NULL][0014]\n[E1][E2]\n[E3][E4][NULL][NULL]\"Meteor Masa\nLes Muses, Mesdames et Messieurs, en débutant\nleur carrière avec un mini-concert aujourd'hui à\nl'open hair d'Aoba!",
+   "brut_fr": "[1432][NULL][NULL][0014]D'acc...! Ou-Ouaiiis![1432][NULL][NULL][0014] [E1][E2] [E3][E4][NULL][NULL]\"Meteor Masa[1205][U+000F] Les\nMuses, Mesdames et Messieurs, en débutant\nleur carrière avec un mini-concert [1205][U+000F]\naujourd'hui à l'open hair d'Aoba!",
    "brut_en": "[1432][NULL][NULL][0014]O...[SP]Oh-kay![SP]Y-Yeees![1432][NULL][NULL][0014]\n[E1][E2]\n[E3][E4][NULL][NULL]\"Meteor[SP]Masa\nMuses,[SP]ladies[SP]and[SP]gentlemen,[SP]kicking[SP]off\ntheir[SP]career[SP]with[SP]a[SP]mini-concert[SP]today[SP]at\nthe[SP]outdoor[SP]concert[SP]hall[SP]in[SP]Aoba!",
    "data_size": 356,
    "budget": 348
@@ -1421,13 +1484,19 @@
        "nl": true
       },
       {
-       "t": "pour aujourd'hui! Rendez-vous la semaine prochaine"
+       "t": "pour aujourd'hui! Rendez-vous la"
       },
       {
        "nl": true
       },
       {
-       "t": "pour plus de contenu!"
+       "t": "semaine prochaine"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pour plus de contenu!"
       }
      ]
     }
@@ -1456,7 +1525,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est la fin de Meteor Masa To The Max\npour aujourd'hui! Rendez-vous la semaine prochaine\npour plus de contenu!",
+   "brut_fr": "C'est la fin de Meteor Masa To The Max\npour aujourd'hui! Rendez-vous la\nsemaine prochaine[1205][U+000F] pour plus de contenu!",
    "brut_en": "And[SP]that's[SP]a[SP]wrap[SP]for[SP]today's[SP]edition[SP]of\nMeteor[SP]Masa[SP]To[SP]The[SP]Max![SP]Tune[SP]in[SP]next[SP]week\nfor[SP]more[SP]of[SP]what[SP]you[SP]looooove!",
    "data_size": 262,
    "budget": 254

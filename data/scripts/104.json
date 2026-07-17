@@ -140,13 +140,7 @@
        "pause": true
       },
       {
-       "t": " On joue au"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "papa et à la maman!"
+       "t": " On joue au papa et à la maman!"
       }
      ]
     }
@@ -169,7 +163,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ok, alors...[1205][001E] On joue au\npapa et à la maman!",
+   "brut_fr": "Ok, alors...[1205][001E] On joue au papa et à la maman!",
    "brut_en": "Okay,[SP]then[SP]today...[1205][001E][SP]We're[SP]gonna[SP]play[SP]house!",
    "data_size": 114,
    "budget": 106
@@ -183,19 +177,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Q-Quoooi!? O-On d-dessine"
+       "t": "Q-Quoooi!? O-On d-dessine aujourd'hui!"
       },
       {
        "nl": true
       },
       {
-       "t": "aujourd'hui! J-J'ai mes"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "c-c-crayons..."
+       "t": "J-J'ai mes c-c-crayons..."
       }
      ]
     }
@@ -218,7 +206,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Q-Quoooi!? O-On d-dessine\naujourd'hui! J-J'ai mes\nc-c-crayons...",
+   "brut_fr": "Q-Quoooi!? O-On d-dessine aujourd'hui!\nJ-J'ai mes c-c-crayons...",
    "brut_en": "Wh-Whaaat!?[SP]C-C'mon,[SP]let's[SP]d-draw[SP]today.\nI-I[SP]brought[SP]my[SP]c-c-crayons...",
    "data_size": 168,
    "budget": 160
@@ -232,19 +220,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Désolé, Jaune. C'est la cheffe,"
+       "t": "Désolé, Jaune. C'est la cheffe, alors on doit"
       },
       {
        "nl": true
       },
       {
-       "t": "alors on doit l'écouter quoi"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "qu'il arrive. C'est la règle."
+       "t": "l'écouter quoi qu'il arrive. C'est la règle."
       }
      ]
     }
@@ -273,7 +255,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Désolé, Jaune. C'est la cheffe,\nalors on doit l'écouter quoi\nqu'il arrive. C'est la règle.",
+   "brut_fr": "Désolé, Jaune. C'est la cheffe, alors on doit\nl'écouter quoi qu'il arrive. C'est la règle.",
    "brut_en": "Sorry,[SP]Yellow.[SP]She's[SP]the[SP]boss,[SP]so[SP]we[SP]have[SP]to\nlisten[SP]to[SP]what[SP]she[SP]says[SP]no[SP]matter[SP]what.\nThat's[SP]the[SP]rule.",
    "data_size": 248,
    "budget": 240
@@ -287,25 +269,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mmmh, Rouge fera le papa, et"
+       "t": "Mmmh, Rouge fera le papa, et moi la maman,"
       },
       {
        "nl": true
       },
       {
-       "t": "moi la maman, bien sûr."
+       "t": "bien sûr. Et toi Noir, tu seras mon"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " grand"
       },
       {
        "nl": true
       },
       {
-       "t": "Et toi Noir, tu seras mon"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "grand frère!"
+       "t": "frère!"
       }
      ]
     }
@@ -334,7 +316,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mmmh, Rouge fera le papa, et\nmoi la maman, bien sûr.\nEt toi Noir, tu seras mon\ngrand frère!",
+   "brut_fr": "Mmmh, Rouge fera le papa, et moi la maman,\nbien sûr. Et toi Noir, tu seras mon[1205][U+000F] grand\nfrère!",
    "brut_en": "Ummm,[SP]Red[SP]will[SP]be[SP]the[SP]daddy,[SP]and[SP]I'll[SP]be[SP]the\nmommy,[SP]of[SP]course.[SP]And[SP]you'll[SP]be[SP]my[SP]big\nbrother,[SP]Black!",
    "data_size": 222,
    "budget": 214
@@ -441,19 +423,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Chériii! Les enfants sont"
+       "t": "Chériii! Les enfants sont couchés,"
       },
       {
        "nl": true
       },
       {
-       "t": "couchés, alors prenons un"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "bain tous les deux!"
+       "t": "alors prenons un bain tous les deux!"
       }
      ]
     }
@@ -476,7 +452,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Chériii! Les enfants sont\ncouchés, alors prenons un\nbain tous les deux!",
+   "brut_fr": "Chériii! Les enfants sont couchés,\nalors prenons un bain tous les deux!",
    "brut_en": "Daaaarling![SP]The[SP]kids[SP]are[SP]all[SP]tucked[SP]in[SP]now,\nso[SP]let's[SP]take[SP]a[SP]bath[SP]together!",
    "data_size": 172,
    "budget": 164

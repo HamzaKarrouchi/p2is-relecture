@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mate un peu, . On dirait que ce"
+       "t": "Mate un peu, . On dirait que ce gars"
       },
       {
        "nl": true
       },
       {
-       "t": "gars va gerber. Je me demande pourquoi."
+       "t": "va gerber. Je me demande pourquoi."
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mate un peu, [1114]. On dirait que ce\ngars va gerber. Je me demande pourquoi.",
+   "brut_fr": "Mate un peu, [1114]. On dirait que ce gars\nva gerber. Je me demande pourquoi.",
    "brut_en": "Check[SP]it[SP]out,[SP][1114].[SP]That[SP]guy[SP]looks[SP]like\nhe's[SP]gonna[SP]throw[SP]up.[SP]I[SP]wonder[SP]what's[SP]wrong?",
    "data_size": 186,
    "budget": 178
@@ -117,10 +117,13 @@
        "pause": true
       },
       {
+       "t": " Si"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Si la ville vole, pourquoi la pression et"
+       "t": "la ville vole, pourquoi la pression et"
       },
       {
        "nl": true
@@ -170,7 +173,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dis...[1205][U+000A] J'avais une question, Jun.[1205][U+000F]\nSi la ville vole, pourquoi la pression et\nla température sont pas plus basses?",
+   "brut_fr": "Dis...[1205][U+000A] J'avais une question, Jun.[1205][U+000F] Si\nla ville vole, pourquoi la pression et\nla température sont pas plus basses?",
    "brut_en": "Oh[SP]yeah...[1205][U+000A][SP]I[SP]was[SP]wondering[SP]something,[SP]Jun.[1205][U+000F]\nThe[SP]city's[SP]flying[SP]now,[SP]right?[1205][U+000F][SP]So[SP]why[SP]isn't\nthe[SP]air[SP]thinner[SP]or[SP]colder?",
    "data_size": 258,
    "budget": 250
@@ -276,7 +279,7 @@
        "pause": true
       },
       {
-       "t": "Kudan"
+       "t": " Kudan"
       },
       {
        "nl": true
@@ -311,7 +314,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mince... On avait faux sur tout.[1205][U+000F]Kudan\nétait juste le surnom de son ami...",
+   "brut_fr": "Mince... On avait faux sur tout.[1205][U+000F] Kudan\nétait juste le surnom de son ami...",
    "brut_en": "It's[SP]too[SP]bad...[SP]We[SP]had[SP]it[SP]all[SP]wrong.[1205][U+000F][SP]Kudan\nwas[SP]just[SP]a[SP]nickname[SP]for[SP]his[SP]friend...",
    "data_size": 184,
    "budget": 176
@@ -331,19 +334,19 @@
        "pause": true
       },
       {
-       "t": " Je me prétend journaliste et"
+       "t": " Je me prétend journaliste"
       },
       {
        "nl": true
       },
       {
-       "t": "ne me renseigne pas assez. Je dois"
+       "t": "et ne me renseigne pas assez. Je"
       },
       {
        "nl": true
       },
       {
-       "t": "retourner à mon école..."
+       "t": "dois retourner à mon école..."
       }
      ]
     }
@@ -378,7 +381,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pff...[1205][U+000F] Je me prétend journaliste et\nne me renseigne pas assez. Je dois\nretourner à mon école...",
+   "brut_fr": "Pff...[1205][U+000F] Je me prétend journaliste\net ne me renseigne pas assez. Je\ndois retourner à mon école...",
    "brut_en": "Man...[1205][U+000F][SP]Some[SP]journalist[SP]I[SP]am[SP]for[SP]not[SP]asking\nmore[SP]closely[SP]about[SP]it.[SP]I[SP]need[SP]to[SP]go[SP]back\nto[SP]J-school...",
    "data_size": 220,
    "budget": 212
@@ -392,25 +395,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Xibalba serait l'astronef qui a amené les"
+       "t": "Xibalba serait l'astronef qui a"
       },
       {
        "nl": true
       },
       {
-       "t": "Mayas ici."
+       "t": "amené les Mayas ici."
       },
       {
        "pause": true
       },
       {
-       "t": " Il fut donc construit pour"
+       "t": " Il fut donc"
       },
       {
        "nl": true
       },
       {
-       "t": "les accommoder."
+       "t": "construit pour les accommoder."
       }
      ]
     }
@@ -445,7 +448,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Xibalba serait l'astronef qui a amené les\nMayas ici.[1205][U+000F] Il fut donc construit pour\nles accommoder.",
+   "brut_fr": "Xibalba serait l'astronef qui a\namené les Mayas ici.[1205][U+000F] Il fut donc\nconstruit pour les accommoder.",
    "brut_en": "Xibalba[SP]is[SP]said[SP]to[SP]be[SP]the[SP]starship[SP]that[SP]brought\nthe[SP]Mayans[SP]here.[1205][U+000F][SP]It[SP]was[SP]built[SP]to[SP]accommodate\nthem.",
    "data_size": 218,
    "budget": 210
@@ -465,16 +468,19 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "D'abord Mme Kurosu, l'actrice, puis Brown ont"
+       "t": " D'abord"
       },
       {
        "nl": true
       },
       {
-       "t": "disparu."
+       "t": "Mme Kurosu, l'actrice, puis Brown ont"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " disparu."
       }
      ]
     }
@@ -509,7 +515,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aww, où sont passés ces deux-là...?[1205][U+000F]\nD'abord Mme Kurosu, l'actrice, puis Brown ont\ndisparu.",
+   "brut_fr": "Aww, où sont passés ces deux-là...?[1205][U+000F] D'abord\nMme Kurosu, l'actrice, puis Brown ont[1205][U+000F] disparu.",
    "brut_en": "Aww,[SP]where[SP]did[SP]those[SP]two[SP]go...?[1205][U+000F][SP]First[SP]Ms.\nKurosu,[SP]the[SP]actress,[SP]and[SP]now[SP]even[SP]Brown's\ngone[SP]missing.",
    "data_size": 234,
    "budget": 226
@@ -535,13 +541,13 @@
        "nl": true
       },
       {
-       "t": "des temples apparaissent partout... Qu'on"
+       "t": "des temples apparaissent partout..."
       },
       {
        "nl": true
       },
       {
-       "t": "m'explique tout ce bazar!"
+       "t": "Qu'on m'explique tout ce bazar!"
       }
      ]
     }
@@ -576,7 +582,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, il se passe quoi?[1205][U+000F] La ville vole,\ndes temples apparaissent partout... Qu'on\nm'explique tout ce bazar!",
+   "brut_fr": "Hé, il se passe quoi?[1205][U+000F] La ville vole,\ndes temples apparaissent partout...\nQu'on m'explique tout ce bazar!",
    "brut_en": "Hey,[SP]what's[SP]going[SP]on?[1205][U+000F][SP]The[SP]city's[SP]flying,[SP]there\nare[SP]temples[SP]popping[SP]up[SP]all[SP]over...[SP]Someone[SP]tell\nme[SP]what's[SP]happening!",
    "data_size": 256,
    "budget": 248
@@ -590,19 +596,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les sponsors veulent qu'on continue la"
+       "t": "Les sponsors veulent qu'on continue"
       },
       {
        "nl": true
       },
       {
-       "t": "diffusion là? Ces soldats nous ont déjà"
+       "t": "la diffusion là? Ces soldats nous ont"
       },
       {
        "nl": true
       },
       {
-       "t": "pris trois de nos nouveaux vans!"
+       "t": "déjà pris trois de nos nouveaux vans!"
       }
      ]
     }
@@ -631,7 +637,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les sponsors veulent qu'on continue la\ndiffusion là? Ces soldats nous ont déjà\npris trois de nos nouveaux vans!",
+   "brut_fr": "Les sponsors veulent qu'on continue\nla diffusion là? Ces soldats nous ont\ndéjà pris trois de nos nouveaux vans!",
    "brut_en": "Do[SP]the[SP]sponsors[SP]want[SP]us[SP]to[SP]keep[SP]broadcasting\nlike[SP]this?[SP]We've[SP]already[SP]had[SP]three[SP]news[SP]vans\ntotaled[SP]by[SP]those[SP]soldiers!",
    "data_size": 254,
    "budget": 246
@@ -719,19 +725,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Navré, mais les étages supérieurs sont"
+       "t": "Navré, mais les étages supérieurs"
       },
       {
        "nl": true
       },
       {
-       "t": "réservés aux employés. Merci de ne pas"
+       "t": "sont réservés aux employés. Merci"
       },
       {
        "nl": true
       },
       {
-       "t": "utiliser l'ascenseur."
+       "t": "de ne pas utiliser l'ascenseur."
       }
      ]
     }
@@ -760,7 +766,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Navré, mais les étages supérieurs sont\nréservés aux employés. Merci de ne pas\nutiliser l'ascenseur.",
+   "brut_fr": "Navré, mais les étages supérieurs\nsont réservés aux employés. Merci\nde ne pas utiliser l'ascenseur.",
    "brut_en": "I'm[SP]sorry,[SP]but[SP]the[SP]upper[SP]floors[SP]are[SP]restricted\nto[SP]employees[SP]only.[SP]Please[SP]refrain[SP]from[SP]using\nthe[SP]elevator.",
    "data_size": 246,
    "budget": 238
@@ -786,25 +792,40 @@
        "nl": true
       },
       {
-       "t": "utiliser l'ascenseur.> C'est un modèle de Sumaru TV. Chaque"
+       "t": "utiliser l'ascenseur.> C'est un modèle de "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "détail a été répliqué avec soin.> Lundi, 19H-20H"
+       "t": "Sumaru TV. Chaque détail a été répliqué avec"
       },
       {
        "nl": true
+      },
+      {
+       "t": "soin.> Lundi, 19H-20H"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
       },
       {
        "enc": "La Minute de Brown!"
       },
       {
+       "t": " Une"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Une émission de variété présentée par le"
+       "t": "émission de variété présentée par le"
       },
       {
        "nl": true
@@ -813,7 +834,10 @@
        "t": "polyvalent Brown.> Mardi, 22H-23H"
       },
       {
-       "nl": true
+       "pause": true
+      },
+      {
+       "t": " "
       },
       {
        "enc": "TV-Shopping"
@@ -831,46 +855,73 @@
        "t": "vend des produits.> Mercredi, 11H-12H"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "enc": "C votre avis?"
+       "t": " "
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Une émission où on analyse et imagine"
+       "enc": "C votre"
       },
       {
        "nl": true
       },
       {
-       "t": "des solutions à des problématiques variées.> Jeudi, 18H-18:30H"
+       "enc": "avis?"
+      },
+      {
+       "t": " Une émission où on analyse et imagine"
       },
       {
        "nl": true
       },
       {
-       "enc": "Lightron, Combattant du Carat"
+       "t": "des solutions à des problématiques "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " variées.>"
       },
       {
        "nl": true
       },
       {
-       "t": "Un dessin animé où un jeune justicier se"
+       "t": "Jeudi, 18H-18:30H "
+      },
+      {
+       "enc": "Lightron, Combattant du"
       },
       {
        "nl": true
       },
       {
-       "t": "transforme en Combattant Doré pour affronter le mal.> Vendredi, 20H-21H"
+       "enc": "Carat"
+      },
+      {
+       "t": " Un dessin animé où un jeune justicier se"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
+      },
+      {
+       "t": "transforme en Combattant Doré pour affronter"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le mal.> Vendredi, 20H-21H "
       },
       {
        "enc": "Je suis en direct!"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -882,10 +933,16 @@
        "nl": true
       },
       {
-       "t": "Son franc-parler semble attirer bien des fans.>Samedi, 21H-22H"
+       "t": "Son franc-parler semble attirer bien des "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
+      },
+      {
+       "t": "fans.>Samedi, 21H-22H "
       },
       {
        "enc": "Le Jour où Joe a Basculé"
@@ -897,10 +954,16 @@
        "t": "Un drame avec un assassin qui possède"
       },
       {
+       "pause": true
+      },
+      {
+       "t": " sept"
+      },
+      {
        "nl": true
       },
       {
-       "t": "sept personalités différentes."
+       "t": "personalités différentes."
       }
      ]
     }
@@ -1043,7 +1106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Navré, mais les étages supérieurs sont\nréservés aux employés. Merci de ne pas\nutiliser l'ascenseur.[E1][E2][E3]> C'est un modèle de Sumaru TV. Chaque\ndétail a été répliqué avec soin.[E1][E2][E3]> Lundi, 19H-20H\n[1432][NULL][NULL][0014]La Minute de Brown![1432][NULL][NULL][0014]\nUne émission de variété présentée par le\npolyvalent Brown.[E1][E2][E3]> Mardi, 22H-23H\n[1432][NULL][NULL][0014]TV-Shopping[1432][NULL][NULL][0014]\nUn programme de télé-achat qui présente et\nvend des produits.[E1][E2][E3]> Mercredi, 11H-12H\n[1432][NULL][NULL][0014]C votre avis?[1432][NULL][NULL][0014]\nUne émission où on analyse et imagine\ndes solutions à des problématiques variées.[E1][E2][E3]> Jeudi, 18H-18:30H\n[1432][NULL][NULL][0014]Lightron, Combattant du Carat[1432][NULL][NULL][0014]\nUn dessin animé où un jeune justicier se\ntransforme en Combattant Doré pour affronter le mal.[E1][E2][E3]> Vendredi, 20H-21H\n[1432][NULL][NULL][0014]Je suis en direct![1432][NULL][NULL][0014]\nUne émission-débat présentée par Junko Kurosu.\nSon franc-parler semble attirer bien des fans.[E1][E2][E3]>Samedi, 21H-22H\n[1432][NULL][NULL][0014]Le Jour où Joe a Basculé[1432][NULL][NULL][0014]\nUn drame avec un assassin qui possède\nsept personalités différentes.",
+   "brut_fr": "Navré, mais les étages supérieurs sont\nréservés aux employés. Merci de ne pas\nutiliser l'ascenseur.[E1][E2][E3]> C'est un modèle de [1205][U+000F]\nSumaru TV. Chaque détail a été répliqué avec\nsoin.[E1][E2][E3]> Lundi, 19H-20H[1205][U+000F] [1432][NULL][NULL][0014]La Minute de Brown![1432][NULL][NULL][0014] Une\némission de variété présentée par le\npolyvalent Brown.[E1][E2][E3]> Mardi, 22H-23H[1205][U+000F] [1432][NULL][NULL][0014]TV-Shopping[1432][NULL][NULL][0014]\nUn programme de télé-achat qui présente et\nvend des produits.[E1][E2][E3]> Mercredi, 11H-12H[1205][U+000F] [1432][NULL][NULL][0014]C votre\navis?[1432][NULL][NULL][0014] Une émission où on analyse et imagine\ndes solutions à des problématiques [1205][U+000F] variées.[E1][E2][E3]>\nJeudi, 18H-18:30H [1432][NULL][NULL][0014]Lightron, Combattant du\nCarat[1432][NULL][NULL][0014] Un dessin animé où un jeune justicier se[1205][U+000F]\ntransforme en Combattant Doré pour affronter\nle mal.[E1][E2][E3]> Vendredi, 20H-21H [1432][NULL][NULL][0014]Je suis en direct![1432][NULL][NULL][0014][1205][U+000F]\nUne émission-débat présentée par Junko Kurosu.\nSon franc-parler semble attirer bien des [1205][U+000F]\nfans.[E1][E2][E3]>Samedi, 21H-22H [1432][NULL][NULL][0014]Le Jour où Joe a Basculé[1432][NULL][NULL][0014]\nUn drame avec un assassin qui possède[1205][U+000F] sept\npersonalités différentes.",
    "brut_en": "I'm[SP]sorry,[SP]but[SP]the[SP]upper[SP]floors[SP]are[SP]restricted\nto[SP]employees[SP]only.[SP]Please[SP]refrain[SP]from[SP]using\nthe[SP]elevator.[E1][E2][E3]>[SP]It's[SP]a[SP]model[SP]of[SP]Sumaru[SP]TV.[SP]Every[SP]last[SP]detail\nis[SP]carefully[SP]replicated.[E1][E2][E3]>[SP]Monday,[SP]7PM-8PM\n[1432][NULL][NULL][0014]It's[SP]Brown![1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]variety[SP]show[SP]hosted[SP]by\nthe[SP]multitalented[SP]Brown.[E1][E2][E3]>[SP]Tuesday,[SP]10PM-11PM\n[1432][NULL][NULL][0014]Super[SP]Shoppers[1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]shopping[SP]program[SP]where[SP]they\ndemonstrate[SP]and[SP]sell[SP]various[SP]products.[E1][E2][E3]>[SP]Wednesday,[SP]11AM-12PM\n[1432][NULL][NULL][0014]What's[SP]Your[SP]Take?[1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]panel[SP]show[SP]that[SP]analyzes\nissues[SP]and[SP]thinks[SP]of[SP]ways[SP]to[SP]resolve[SP]them.[E1][E2][E3]>[SP]Thursday,[SP]6PM-6:30PM\n[1432][NULL][NULL][0014]Golden[SP]Battler[SP]Lightron[1432][NULL][NULL][0014]\nA[SP]cartoon[SP]where[SP]a[SP]justice-loving[SP]boy[SP]turns\ninto[SP]the[SP]Golden[SP]Battler[SP]to[SP]fight[SP]evil.[E1][E2][E3]>[SP]Friday,[SP]8PM-9PM\n[1432][NULL][NULL][0014]I'm[SP]Talking[SP]Here![1432][NULL][NULL][0014]\nA[SP]talk[SP]show[SP]hosted[SP]by[SP]Junko[SP]Kurosu.[SP]Her[SP]sharp\ntongue[SP]seems[SP]to[SP]have[SP]many[SP]fans.[E1][E2][E3]>[SP]Saturday,[SP]9PM-10PM\n[1432][NULL][NULL][0014]Rainbow[SP]Joe[1432][NULL][NULL][0014]\nA[SP]drama[SP]starring[SP]an[SP]assassin[SP]named[SP]Joe[SP]with\nseven[SP]different[SP]personalities.",
    "data_size": 1910,
    "budget": 1902
@@ -1081,13 +1144,10 @@
        "pause": true
       },
       {
-       "t": " J'essaie"
+       "t": " J'essaie d'oublier"
       },
       {
        "nl": true
-      },
-      {
-       "t": "d'oublier "
       },
       {
        "hl": "Kudan"
@@ -1146,7 +1206,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jamais entendu un truc aussi badant...[1205][U+000F] Tu\nveux savoir quoi?[1205][U+000F] Non![1205][U+000F] J'essaie\nd'oublier [E4][NULL][NULL][U+0006]Kudan[E4][NULL][NULL][0002] dans l'usine abandonnée...",
+   "brut_fr": "Jamais entendu un truc aussi badant...[1205][U+000F] Tu\nveux savoir quoi?[1205][U+000F] Non![1205][U+000F] J'essaie d'oublier\n[E4][NULL][NULL][U+0006]Kudan[E4][NULL][NULL][0002] dans l'usine abandonnée...",
    "brut_en": "Scariest[SP]story[SP]I[SP]ever[SP]heard...[1205][U+000F][SP]What[SP]kind[SP]of\nstory,[SP]you[SP]ask?[1205][U+000F][SP]No![1205][U+000F][SP]I'm[SP]trying[SP]to[SP]forget\nabout[SP][E4][NULL][NULL][U+0006]Kudan[E4][NULL][NULL][0002][SP]at[SP]the[SP]abandoned[SP]factory...",
    "data_size": 304,
    "budget": 296
@@ -1172,13 +1232,10 @@
        "pause": true
       },
       {
-       "t": " Pardon, je"
-      },
-      {
        "nl": true
       },
       {
-       "t": "parle tout seul."
+       "t": "Pardon, je parle tout seul."
       }
      ]
     }
@@ -1213,7 +1270,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me demande ce qui est arrivé à\nKudan dans l'usine abandonnée...[1205][U+000F] Pardon, je\nparle tout seul.",
+   "brut_fr": "Je me demande ce qui est arrivé à\nKudan dans l'usine abandonnée...[1205][U+000F]\nPardon, je parle tout seul.",
    "brut_en": "I[SP]wonder[SP]what[SP]happened[SP]with[SP]Kudan[SP]and[SP]the\nabandoned[SP]factory...[1205][U+000F][SP]Sorry,[SP]just[SP]talking[SP]to\nmyself[SP]there.",
    "data_size": 230,
    "budget": 222
@@ -1242,16 +1299,19 @@
        "nl": true
       },
       {
-       "t": "Hein? Comment ça, c'est moi qui l'ai demandé?"
-      },
-      {
-       "pause": true
+       "t": "Hein? Comment ça, c'est moi qui"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est Kudan, ça...?"
+       "t": "l'ai demandé?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est Kudan, ça...?"
       }
      ]
     }
@@ -1292,7 +1352,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'est-ce que?[1205][U+000F] Urk, c'est immonde![1205][U+000F]\nHein? Comment ça, c'est moi qui l'ai demandé?[1205][U+000F]\nC'est Kudan, ça...?",
+   "brut_fr": "Qu'est-ce que?[1205][U+000F] Urk, c'est immonde![1205][U+000F]\nHein? Comment ça, c'est moi qui\nl'ai demandé?[1205][U+000F] C'est Kudan, ça...?",
    "brut_en": "What[SP]the[SP]hell[SP]is[SP]this?[1205][U+000F][SP]Ugh,[SP]that's[SP]disgusting![1205][U+000F]\nHuh?[SP]What[SP]do[SP]you[SP]mean,[SP]I[SP]asked[SP]for[SP]this?[1205][U+000F]\nThis[SP]is[SP]Kudan...?",
    "data_size": 250,
    "budget": 242
@@ -1312,13 +1372,19 @@
        "nl": true
       },
       {
-       "t": "dans l'usine abandonnée. Il m'a raconté une"
+       "t": "dans l'usine abandonnée. Il m'a"
       },
       {
        "nl": true
       },
       {
-       "t": "histoire terrifiante."
+       "t": "raconté une"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " histoire terrifiante."
       }
      ]
     }
@@ -1347,7 +1413,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non, Kudan est un ami que rencontré\ndans l'usine abandonnée. Il m'a raconté une\nhistoire terrifiante.",
+   "brut_fr": "Non, Kudan est un ami que rencontré\ndans l'usine abandonnée. Il m'a\nraconté une[1205][U+000F] histoire terrifiante.",
    "brut_en": "No,[SP]Kudan's[SP]a[SP]friend[SP]of[SP]mine[SP]I[SP]met[SP]at[SP]the\nabandoned[SP]factory.[SP]He[SP]told[SP]me[SP]the[SP]scariest\nstory[SP]I[SP]ever[SP]heard.",
    "data_size": 236,
    "budget": 228
@@ -1465,25 +1531,19 @@
        "pause": true
       },
       {
-       "t": " Y penser m'effraie encore"
+       "t": " Y penser m'effraie encore plus."
       },
       {
        "nl": true
       },
       {
-       "t": "plus. Gahhh..."
+       "t": "Gahhh..."
       },
       {
        "pause": true
       },
       {
-       "t": " Plus envie de penser"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "à Kudan..."
+       "t": " Plus envie de penser à Kudan..."
       }
      ]
     }
@@ -1524,7 +1584,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ugh...[1205][U+000F] Y penser m'effraie encore\nplus. Gahhh...[1205][U+000F] Plus envie de penser\nà Kudan...",
+   "brut_fr": "Ugh...[1205][U+000F] Y penser m'effraie encore plus.\nGahhh...[1205][U+000F] Plus envie de penser à Kudan...",
    "brut_en": "Ugh...[1205][U+000F][SP]Thinking[SP]about[SP]that[SP]makes[SP]me[SP]even[SP]more\nscared.[SP]Gahhh...[1205][U+000F][SP]I[SP]don't[SP]wanna[SP]think[SP]about\nKudan[SP]anymore...",
    "data_size": 246,
    "budget": 238
@@ -1556,13 +1616,13 @@
        "pause": true
       },
       {
-       "t": " Mais wow, je peux"
+       "t": " Mais wow, je"
       },
       {
        "nl": true
       },
       {
-       "t": "pas croire ce qui s'est passé..."
+       "t": "peux pas croire ce qui s'est passé..."
       }
      ]
     }
@@ -1603,7 +1663,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Désolé du malentendu.[1205][U+000F] J'avais peur aussi!\nVous m'excuserez, j'espère.[1205][U+000F] Mais wow, je peux\npas croire ce qui s'est passé...",
+   "brut_fr": "Désolé du malentendu.[1205][U+000F] J'avais peur aussi!\nVous m'excuserez, j'espère.[1205][U+000F] Mais wow, je\npeux pas croire ce qui s'est passé...",
    "brut_en": "Sorry[SP]about[SP]the[SP]misunderstanding.[1205][U+000F][SP]I[SP]was[SP]scared,\ntoo![SP]I[SP]hope[SP]you[SP]forgive[SP]me.[1205][U+000F][SP]But[SP]wow...[SP]I[SP]can't\nbelieve[SP]this[SP]is[SP]happening...",
    "data_size": 282,
    "budget": 274

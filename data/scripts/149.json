@@ -22,13 +22,22 @@
        "pause": true
       },
       {
+       "nl": true
+      },
+      {
        "t": "Je suis ton Ombre."
       },
       {
        "pause": true
       },
       {
-       "t": "Je sais tout ce qui se trâme dans ton cœur."
+       "t": " Je sais tout"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce qui se trâme dans ton cœur."
       }
      ]
     }
@@ -72,7 +81,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bravo [1113], tu es arrivé ici.[1205][001E]Je suis ton Ombre.[1205][001E]Je sais tout ce qui se trâme dans ton cœur.",
+   "brut_fr": "Bravo [1113], tu es arrivé ici.[1205][001E]\nJe suis ton Ombre.[1205][001E] Je sais tout\nce qui se trâme dans ton cœur.",
    "brut_en": "Good[SP]job[SP]making[SP]it[SP]here,[SP][1113]...[1205][001E]\nI'm[SP]your[SP]shadow.[1205][001E][SP]I[SP]know[SP]full[SP]well[SP]what\ngoes[SP]on[SP]in[SP]your[SP]heart...",
    "data_size": 224,
    "budget": 216
@@ -92,7 +101,13 @@
        "pause": true
       },
       {
-       "t": "Mais pas pour apprendre quoi que ce soit."
+       "t": " Mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas pour apprendre quoi que ce soit."
       }
      ]
     }
@@ -127,7 +142,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ton rêve c'était d'aller à la fac...[1205][001E]Mais pas pour apprendre quoi que ce soit.",
+   "brut_fr": "Ton rêve c'était d'aller à la fac...[1205][001E] Mais\npas pour apprendre quoi que ce soit.",
    "brut_en": "Your[SP]dream[SP]was[SP]to[SP]go[SP]to[SP]college...[1205][001E][SP]But[SP]not\nbecause[SP]there[SP]was[SP]anything[SP]you[SP]wanted\nto[SP]learn.",
    "data_size": 214,
    "budget": 206
@@ -141,16 +156,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu faisais juste ce que la société attendait de toi. "
-      },
-      {
-       "pause": true
+       "t": "Tu faisais juste ce que la société attendait"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu suivait un chemin déjà tout tracé."
+       "t": "de toi. "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu suivait un chemin déjà tout tracé."
       }
      ]
     }
@@ -182,7 +200,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu faisais juste ce que la société attendait de toi. [1205][001E]\nTu suivait un chemin déjà tout tracé.",
+   "brut_fr": "Tu faisais juste ce que la société attendait\nde toi. [1205][001E] Tu suivait un chemin déjà tout tracé.",
    "brut_en": "You[SP]were[SP]doing[SP]what[SP]society[SP]expected[SP]of[SP]you.[1205][001E]\nFollowing[SP]the[SP]path[SP]already[SP]laid[SP]out[SP]in[SP]front\nof[SP]you.",
    "data_size": 228,
    "budget": 220
@@ -196,19 +214,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est si facile, pourquoi"
+       "t": "C'est si facile, pourquoi vouloir sortir"
       },
       {
        "nl": true
       },
       {
-       "t": " vouloir sortir des sentiers battus ? Vas-y."
+       "t": "des sentiers battus? Vas-y."
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "J'ai tort ?"
+       "t": " J'ai tort?"
       }
      ]
     }
@@ -237,7 +255,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est si facile, pourquoi\n vouloir sortir des sentiers battus ? Vas-y.\nJ'ai tort ?",
+   "brut_fr": "C'est si facile, pourquoi vouloir sortir\ndes sentiers battus? Vas-y.[1205][U+000F] J'ai tort?",
    "brut_en": "It's[SP]easier[SP]to[SP]take[SP]the[SP]pre-paved[SP]road[SP]than\nto[SP]wander[SP]off[SP]the[SP]beaten[SP]track.[SP]Go[SP]ahead.\nTell[SP]me[SP]I'm[SP]wrong.",
    "data_size": 238,
    "budget": 230
@@ -308,13 +326,13 @@
        "nl": true
       },
       {
-       "t": "Le vrai toi ne prends jamais de décisions,"
+       "t": "Le vrai toi ne prends jamais de"
       },
       {
        "nl": true
       },
       {
-       "t": "même dans son propre intérêt."
+       "t": "décisions, même dans son propre intérêt."
       }
      ]
     }
@@ -343,7 +361,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand arrêtera-tu de te voiler la face?\nLe vrai toi ne prends jamais de décisions,\nmême dans son propre intérêt.",
+   "brut_fr": "Quand arrêtera-tu de te voiler la face?\nLe vrai toi ne prends jamais de\ndécisions, même dans son propre intérêt.",
    "brut_en": "When[SP]will[SP]you[SP]stop[SP]deluding[SP]yourself?\nThe[SP]real[SP]you[SP]never[SP]makes[SP]any[SP]decisions,\nnot[SP]even[SP]for[SP]your[SP]own[SP]benefit.",
    "data_size": 246,
    "budget": 238
@@ -357,25 +375,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu ne pourrais même pas sauver"
+       "t": "Tu ne pourrais même pas sauver une"
       },
       {
        "nl": true
       },
       {
-       "t": "une seule vie, alors le monde ?"
+       "t": "seule vie, alors le monde?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je parie qu'au fond de toi,"
+       "t": " Je parie"
       },
       {
        "nl": true
       },
       {
-       "t": "tu détestes Jun..."
+       "t": "qu'au fond de toi,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tu détestes Jun..."
       }
      ]
     }
@@ -410,7 +434,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu ne pourrais même pas sauver\nune seule vie, alors le monde ?[1205][001E]Je parie qu'au fond de toi,\ntu détestes Jun...",
+   "brut_fr": "Tu ne pourrais même pas sauver une\nseule vie, alors le monde?[1205][001E] Je parie\nqu'au fond de toi,[1205][U+000F] tu détestes Jun...",
    "brut_en": "A[SP]man[SP]like[SP]you[SP]could[SP]never[SP]save[SP]even[SP]one\nperson,[SP]let[SP]alone[SP]the[SP]world.[1205][001E][SP]Why,[SP]I[SP]bet[SP]that\ndeep[SP]down[SP]inside,[SP]you[SP]actually[SP]hate[SP]Jun...",
    "data_size": 290,
    "budget": 282
@@ -430,7 +454,13 @@
        "pause": true
       },
       {
-       "t": "Tu n'as jamais pris une seule décision."
+       "t": " Tu n'as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jamais pris une seule décision."
       }
      ]
     }
@@ -459,7 +489,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu en es incapable.[1205][001E]Tu n'as jamais pris une seule décision.",
+   "brut_fr": "Tu en es incapable.[1205][001E] Tu n'as\njamais pris une seule décision.",
    "brut_en": "Of[SP]course[SP]you[SP]can't.[1205][001E][SP]You[SP]never[SP]make[SP]any\ndecisions[SP]for[SP]yourself.",
    "data_size": 160,
    "budget": 152
@@ -473,25 +503,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu ne pourrais même pas sauver"
+       "t": "Tu ne pourrais même pas sauver une"
       },
       {
        "nl": true
       },
       {
-       "t": "une seule vie, alors le monde ?"
+       "t": "seule vie, alors le monde?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je parie qu'au fond de toi,"
+       "t": " Je parie"
       },
       {
        "nl": true
       },
       {
-       "t": "tu détestes Jun..."
+       "t": "qu'au fond de toi,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tu détestes Jun..."
       }
      ]
     }
@@ -526,7 +562,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu ne pourrais même pas sauver\nune seule vie, alors le monde ?[1205][001E]Je parie qu'au fond de toi,\ntu détestes Jun...",
+   "brut_fr": "Tu ne pourrais même pas sauver une\nseule vie, alors le monde?[1205][001E] Je parie\nqu'au fond de toi,[1205][U+000F] tu détestes Jun...",
    "brut_en": "A[SP]man[SP]like[SP]you[SP]could[SP]never[SP]save[SP]even[SP]one\nperson,[SP]let[SP]alone[SP]the[SP]world.[1205][001E][SP]Why,[SP]I[SP]bet[SP]that\ndeep[SP]down[SP]inside,[SP]you[SP]actually[SP]hate[SP]Jun...",
    "data_size": 290,
    "budget": 282
@@ -546,13 +582,13 @@
        "pause": true
       },
       {
-       "t": "Mais tu ne veux pas travailler,"
+       "t": " Mais tu ne veux"
       },
       {
        "nl": true
       },
       {
-       "t": "tu veux faire autre chose."
+       "t": "pas travailler, tu veux faire autre chose."
       }
      ]
     }
@@ -587,7 +623,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu rêves d'une carrière...[1205][001E]Mais tu ne veux pas travailler,\ntu veux faire autre chose.",
+   "brut_fr": "Tu rêves d'une carrière...[1205][001E] Mais tu ne veux\npas travailler, tu veux faire autre chose.",
    "brut_en": "You[SP]dream[SP]of[SP]a[SP]career...[1205][001E][SP]But[SP]you[SP]don't[SP]want\na[SP]job,[SP]because[SP]there's[SP]something[SP]else[SP]you\nwant[SP]to[SP]do.",
    "data_size": 228,
    "budget": 220
@@ -613,13 +649,13 @@
        "pause": true
       },
       {
-       "t": "Se battre"
+       "t": " Se"
       },
       {
        "nl": true
       },
       {
-       "t": "maintenant n'y changera rien."
+       "t": "battre maintenant n'y changera rien."
       }
      ]
     }
@@ -660,7 +696,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ta situation ne le permet pas. Tu n'as\naucune chance d'aller à la fac.[1205][001E]Se battre\nmaintenant n'y changera rien.",
+   "brut_fr": "Ta situation ne le permet pas. Tu n'as\naucune chance d'aller à la fac.[1205][001E] Se\nbattre maintenant n'y changera rien.",
    "brut_en": "Your[SP]circumstances[SP]won't[SP]allow[SP]it.[1205][001E][SP]You[SP]have\nno[SP]chance[SP]of[SP]going[SP]to[SP]college.[1205][001E][SP]Struggling\nnow[SP]won't[SP]change[SP]the[SP]facts.",
    "data_size": 264,
    "budget": 256
@@ -674,7 +710,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu as abandonné. J'ai tort ?"
+       "t": "Tu as abandonné. J'ai tort?"
       }
      ]
     }
@@ -691,7 +727,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu as abandonné. J'ai tort ?",
+   "brut_fr": "Tu as abandonné. J'ai tort?",
    "brut_en": "And[SP]so[SP]you[SP]gave[SP]up.[SP]Tell[SP]me[SP]I'm[SP]wrong.",
    "data_size": 106,
    "budget": 98
@@ -756,22 +792,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quand arrêtera-tu de te voiler la face?"
+       "t": "Quand arrêtera-tu de te voiler la"
       },
       {
        "nl": true
       },
       {
-       "t": "Le vrai toi a abandonné ses rêves.."
+       "t": "face? Le vrai toi a abandonné ses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rêves.."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "..abandonné sa vie entière."
+       "t": " .. abandonné sa vie entière."
       }
      ]
     }
@@ -803,7 +842,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand arrêtera-tu de te voiler la face?\nLe vrai toi a abandonné ses rêves..[1205][001E]\n..abandonné sa vie entière.",
+   "brut_fr": "Quand arrêtera-tu de te voiler la\nface? Le vrai toi a abandonné ses\nrêves..[1205][001E] .. abandonné sa vie entière.",
    "brut_en": "When[SP]will[SP]you[SP]stop[SP]deluding[SP]yourself?\nThe[SP]real[SP]you[SP]gave[SP]up[SP]on[SP]his[SP]dreams...[1205][001E]\nGave[SP]up[SP]on[SP]his[SP]entire[SP]life.",
    "data_size": 240,
    "budget": 232
@@ -817,25 +856,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu ne pourrais même pas sauver"
+       "t": "Tu ne pourrais même pas sauver une"
       },
       {
        "nl": true
       },
       {
-       "t": "une seule vie, alors le monde ?"
+       "t": "seule vie, alors le monde?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je parie qu'au fond de toi,"
+       "t": " Je parie"
       },
       {
        "nl": true
       },
       {
-       "t": "tu détestes Jun..."
+       "t": "qu'au fond de toi,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tu détestes Jun..."
       }
      ]
     }
@@ -870,7 +915,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu ne pourrais même pas sauver\nune seule vie, alors le monde ?[1205][001E]Je parie qu'au fond de toi,\ntu détestes Jun...",
+   "brut_fr": "Tu ne pourrais même pas sauver une\nseule vie, alors le monde?[1205][001E] Je parie\nqu'au fond de toi,[1205][U+000F] tu détestes Jun...",
    "brut_en": "A[SP]man[SP]like[SP]you[SP]could[SP]never[SP]save[SP]even[SP]one\nperson,[SP]let[SP]alone[SP]the[SP]world.[1205][001E][SP]Why,[SP]I[SP]bet[SP]that\ndeep[SP]down[SP]inside,[SP]you[SP]actually[SP]hate[SP]Jun...",
    "data_size": 290,
    "budget": 282
@@ -884,13 +929,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu en es incapable.Le vrai toi"
+       "t": "Tu en es incapable. Le vrai toi a abandonné"
       },
       {
        "nl": true
       },
       {
-       "t": "a abandonné ses rêves...abandonné sa vie entière."
+       "t": "ses rêves... abandonné sa vie entière."
       }
      ]
     }
@@ -919,7 +964,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu en es incapable.Le vrai toi\na abandonné ses rêves...abandonné sa vie entière.",
+   "brut_fr": "Tu en es incapable. Le vrai toi a abandonné\nses rêves... abandonné sa vie entière.",
    "brut_en": "Of[SP]course[SP]you[SP]can't.[SP]The[SP]real[SP]you[SP]gave[SP]up[SP]on\nhis[SP]dreams...[1205][001E][SP]Gave[SP]up[SP]on[SP]his[SP]entire[SP]life.",
    "data_size": 206,
    "budget": 198
@@ -933,25 +978,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu ne pourrais même pas sauver"
+       "t": "Tu ne pourrais même pas sauver une"
       },
       {
        "nl": true
       },
       {
-       "t": "une seule vie, alors le monde ?"
+       "t": "seule vie, alors le monde?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je parie qu'au fond de toi,"
+       "t": " Je parie"
       },
       {
        "nl": true
       },
       {
-       "t": "tu détestes Jun..."
+       "t": "qu'au fond de toi,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tu détestes Jun..."
       }
      ]
     }
@@ -986,7 +1037,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu ne pourrais même pas sauver\nune seule vie, alors le monde ?[1205][001E]Je parie qu'au fond de toi,\ntu détestes Jun...",
+   "brut_fr": "Tu ne pourrais même pas sauver une\nseule vie, alors le monde?[1205][001E] Je parie\nqu'au fond de toi,[1205][U+000F] tu détestes Jun...",
    "brut_en": "A[SP]man[SP]like[SP]you[SP]could[SP]never[SP]save[SP]even[SP]one\nperson,[SP]let[SP]alone[SP]the[SP]world.[1205][001E][SP]Why,[SP]I[SP]bet[SP]that\ndeep[SP]down[SP]inside,[SP]you[SP]actually[SP]hate[SP]Jun...",
    "data_size": 290,
    "budget": 282
@@ -1000,19 +1051,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu poursuis toujours un rêve insignifiant ?"
+       "t": "Tu poursuis toujours un rêve insignifiant"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu ne penses pas sérieusement le réaliser"
+       "t": "? Tu ne penses pas sérieusement le"
       },
       {
        "nl": true
       },
       {
-       "t": "sans diplôme ni job, hein ?"
+       "t": "réaliser"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " sans diplôme ni job, hein?"
       }
      ]
     }
@@ -1041,7 +1098,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu poursuis toujours un rêve insignifiant ?\nTu ne penses pas sérieusement le réaliser\nsans diplôme ni job, hein ?",
+   "brut_fr": "Tu poursuis toujours un rêve insignifiant\n? Tu ne penses pas sérieusement le\nréaliser[1205][U+000F] sans diplôme ni job, hein?",
    "brut_en": "Are[SP]you[SP]still[SP]chasing[SP]a[SP]worthless[SP]dream?\nYou[SP]don't[SP]seriously[SP]think[SP]you[SP]can[SP]keep[SP]it\nwithout[SP]an[SP]education[SP]or[SP]a[SP]job,[SP]do[SP]you?",
    "data_size": 272,
    "budget": 264
@@ -1061,13 +1118,13 @@
        "pause": true
       },
       {
-       "t": "C'est plus facile"
+       "t": " C'est plus facile de suivre"
       },
       {
        "nl": true
       },
       {
-       "t": "de suivre un chemin qu'on a tracé pour toi. J'ai tort ?"
+       "t": "un chemin qu'on a tracé pour toi. J'ai tort?"
       }
      ]
     }
@@ -1102,7 +1159,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu le sais déjà...[1205][001E]C'est plus facile\nde suivre un chemin qu'on a tracé pour toi. J'ai tort ?",
+   "brut_fr": "Tu le sais déjà...[1205][001E] C'est plus facile de suivre\nun chemin qu'on a tracé pour toi. J'ai tort?",
    "brut_en": "You[SP]must[SP]know[SP]already...[1205][001E][SP]It's[SP]much[SP]easier\nto[SP]walk[SP]a[SP]path[SP]that[SP]someone[SP]else[SP]decides\nfor[SP]you.[SP]Tell[SP]me[SP]I'm[SP]wrong.",
    "data_size": 254,
    "budget": 246
@@ -1176,6 +1233,9 @@
        "t": "Qu'as tu fait pour te rapprocher de ce rêve?"
       },
       {
+       "pause": true
+      },
+      {
        "nl": true
       },
       {
@@ -1208,7 +1268,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand arrêtera-tu de te voiler la face?\nQu'as tu fait pour te rapprocher de ce rêve?\nNe me dit pas que tu es fier de cette vie...",
+   "brut_fr": "Quand arrêtera-tu de te voiler la face?\nQu'as tu fait pour te rapprocher de ce rêve?[1205][U+000F]\nNe me dit pas que tu es fier de cette vie...",
    "brut_en": "When[SP]will[SP]you[SP]stop[SP]deluding[SP]yourself?[SP]So[SP]what\nsteps[SP]have[SP]you[SP]taken[SP]to[SP]achieve[SP]this[SP]dream?\nDon't[SP]tell[SP]me[SP]you're[SP]proud[SP]of[SP]your[SP]life...",
    "data_size": 294,
    "budget": 286
@@ -1222,25 +1282,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu ne pourrais même pas sauver"
+       "t": "Tu ne pourrais même pas sauver une"
       },
       {
        "nl": true
       },
       {
-       "t": "une seule vie, alors le monde ?"
+       "t": "seule vie, alors le monde?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je parie qu'au fond de toi,"
+       "t": " Je parie"
       },
       {
        "nl": true
       },
       {
-       "t": "tu détestes Jun..."
+       "t": "qu'au fond de toi,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tu détestes Jun..."
       }
      ]
     }
@@ -1275,7 +1341,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu ne pourrais même pas sauver\nune seule vie, alors le monde ?[1205][001E]Je parie qu'au fond de toi,\ntu détestes Jun...",
+   "brut_fr": "Tu ne pourrais même pas sauver une\nseule vie, alors le monde?[1205][001E] Je parie\nqu'au fond de toi,[1205][U+000F] tu détestes Jun...",
    "brut_en": "A[SP]man[SP]like[SP]you[SP]could[SP]never[SP]save[SP]even[SP]one\nperson,[SP]let[SP]alone[SP]the[SP]world.[1205][001E][SP]Why,[SP]I[SP]bet[SP]that\ndeep[SP]down[SP]inside,[SP]you[SP]actually[SP]hate[SP]Jun...",
    "data_size": 290,
    "budget": 282
@@ -1289,22 +1355,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu en es incapable."
+       "t": "Tu en es incapable. Tu veux juste"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu veux juste qu'on choisisse pour toi..."
+       "t": "qu'on choisisse pour toi..."
       },
       {
        "pause": true
       },
       {
+       "t": " Tu es"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Tu es impuissant face à ta liberté."
+       "t": "impuissant face à ta liberté."
       }
      ]
     }
@@ -1336,7 +1405,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu en es incapable.\nTu veux juste qu'on choisisse pour toi...[1205][001E]\nTu es impuissant face à ta liberté.",
+   "brut_fr": "Tu en es incapable. Tu veux juste\nqu'on choisisse pour toi...[1205][001E] Tu es\nimpuissant face à ta liberté.",
    "brut_en": "Of[SP]course[SP]you[SP]can't.[SP]You[SP]want[SP]more[SP]than\nanything[SP]for[SP]someone[SP]to[SP]pick[SP]a[SP]path[SP]for[SP]you...[1205][001E]\nYou[SP]can't[SP]make[SP]a[SP]single[SP]choice[SP]for[SP]yourself.",
    "data_size": 296,
    "budget": 288
@@ -1350,25 +1419,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu ne pourrais même pas sauver"
+       "t": "Tu ne pourrais même pas sauver une"
       },
       {
        "nl": true
       },
       {
-       "t": "une seule vie, alors le monde ?"
+       "t": "seule vie, alors le monde?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je parie qu'au fond de toi,"
+       "t": " Je parie"
       },
       {
        "nl": true
       },
       {
-       "t": "tu détestes Jun..."
+       "t": "qu'au fond de toi,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tu détestes Jun..."
       }
      ]
     }
@@ -1403,7 +1478,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu ne pourrais même pas sauver\nune seule vie, alors le monde ?[1205][001E]Je parie qu'au fond de toi,\ntu détestes Jun...",
+   "brut_fr": "Tu ne pourrais même pas sauver une\nseule vie, alors le monde?[1205][001E] Je parie\nqu'au fond de toi,[1205][U+000F] tu détestes Jun...",
    "brut_en": "A[SP]man[SP]like[SP]you[SP]could[SP]never[SP]save[SP]even[SP]one\nperson,[SP]let[SP]alone[SP]the[SP]world.[1205][001E][SP]Why,[SP]I[SP]bet[SP]that\ndeep[SP]down[SP]inside,[SP]you[SP]actually[SP]hate[SP]Jun...",
    "data_size": 290,
    "budget": 282
@@ -1417,7 +1492,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors, tu t'en sors, pour te trouver un rêve ? Et le sens de la vie ?"
+       "t": "Alors, tu t'en sors, pour te trouver"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "un rêve? Et le sens de la vie?"
       }
      ]
     }
@@ -1440,7 +1521,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Alors, tu t'en sors, pour te trouver un rêve ? Et le sens de la vie ?",
+   "brut_fr": "Alors, tu t'en sors, pour te trouver\nun rêve? Et le sens de la vie?",
    "brut_en": "Well?[SP]Any[SP]luck[SP]finding[SP]a[SP]dream?[SP]Have[SP]you\ndiscovered[SP]the[SP]fabled[SP]meaning[SP]of[SP]life?",
    "data_size": 188,
    "budget": 180
@@ -1454,22 +1535,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quelle vie...sans but et agaçante..."
+       "t": "Quelle vie... sans but et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "agaçante..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Tu dois l'avoir compris, ton"
+       "t": " Tu dois l'avoir compris,"
       },
       {
        "nl": true
       },
       {
-       "t": "existence est dépourvue de sens."
+       "t": "ton existence est dépourvue de sens."
       }
      ]
     }
@@ -1501,7 +1585,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quelle vie...sans but et agaçante...[1205][001E]\nTu dois l'avoir compris, ton\nexistence est dépourvue de sens.",
+   "brut_fr": "Quelle vie... sans but et\nagaçante...[1205][001E] Tu dois l'avoir compris,\nton existence est dépourvue de sens.",
    "brut_en": "Some[SP]life...[SP]Aimless[SP]and[SP]irritating...[1205][001E]\nYou[SP]must[SP]have[SP]figured[SP]out[SP]by[SP]now[SP]that[SP]your\nlife[SP]has[SP]no[SP]meaning[SP]whatsoever.",
    "data_size": 260,
    "budget": 252
@@ -1521,13 +1605,25 @@
        "pause": true
       },
       {
-       "t": "Une marionnette aux fils emmêlés,"
+       "t": " Une marionnette"
       },
       {
        "nl": true
       },
       {
-       "t": "qui se tortille pour se libérer. Dis moi que j'ai tort."
+       "t": "aux fils emmêlés, qui se tortille pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "se libérer. Dis moi "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que j'ai tort."
       }
      ]
     }
@@ -1562,7 +1658,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est comique à voir...[1205][001E]Une marionnette aux fils emmêlés,\nqui se tortille pour se libérer. Dis moi que j'ai tort.",
+   "brut_fr": "C'est comique à voir...[1205][001E] Une marionnette\naux fils emmêlés, qui se tortille pour\nse libérer. Dis moi [1205][U+000F] que j'ai tort.",
    "brut_en": "It's[SP]a[SP]scream[SP]to[SP]watch...[1205][001E][SP]You're[SP]nothing[SP]but\na[SP]puppet[SP]with[SP]tangled[SP]strings,[SP]writhing[SP]to\ntry[SP]and[SP]get[SP]free.[SP]Tell[SP]me[SP]I'm[SP]wrong.",
    "data_size": 282,
    "budget": 274
@@ -1633,13 +1729,19 @@
        "nl": true
       },
       {
-       "t": "Tu as fait quoi pour changer ça ?"
+       "t": "Tu as fait quoi pour changer ça? Ne me"
       },
       {
        "nl": true
       },
       {
-       "t": "Ne me dit pas que tu es fier de cette vie..."
+       "t": "dit pas que tu es fier de cette "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " vie..."
       }
      ]
     }
@@ -1668,7 +1770,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand arrêtera-tu de te voiler la face?\nTu as fait quoi pour changer ça ?\nNe me dit pas que tu es fier de cette vie...",
+   "brut_fr": "Quand arrêtera-tu de te voiler la face?\nTu as fait quoi pour changer ça? Ne me\ndit pas que tu es fier de cette [1205][U+000F] vie...",
    "brut_en": "When[SP]will[SP]you[SP]stop[SP]deluding[SP]yourself?[SP]What[SP]did\nyou[SP]ever[SP]do[SP]to[SP]change[SP]that?[SP]Don't[SP]go[SP]telling\nme[SP]you're[SP]proud[SP]of[SP]your[SP]life...",
    "data_size": 276,
    "budget": 268
@@ -1682,25 +1784,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu ne pourrais même pas sauver"
+       "t": "Tu ne pourrais même pas sauver une"
       },
       {
        "nl": true
       },
       {
-       "t": "une seule vie, alors le monde ?"
+       "t": "seule vie, alors le monde?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je parie qu'au fond de toi,"
+       "t": " Je parie"
       },
       {
        "nl": true
       },
       {
-       "t": "tu détestes Jun..."
+       "t": "qu'au fond de toi,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tu détestes Jun..."
       }
      ]
     }
@@ -1735,7 +1843,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu ne pourrais même pas sauver\nune seule vie, alors le monde ?[1205][001E]Je parie qu'au fond de toi,\ntu détestes Jun...",
+   "brut_fr": "Tu ne pourrais même pas sauver une\nseule vie, alors le monde?[1205][001E] Je parie\nqu'au fond de toi,[1205][U+000F] tu détestes Jun...",
    "brut_en": "A[SP]man[SP]like[SP]you[SP]could[SP]never[SP]save[SP]even[SP]one\nperson,[SP]let[SP]alone[SP]the[SP]world.[1205][001E][SP]Why,[SP]I[SP]bet[SP]that\ndeep[SP]down[SP]inside,[SP]you[SP]actually[SP]hate[SP]Jun...",
    "data_size": 290,
    "budget": 282
@@ -1749,13 +1857,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu en es incapable."
+       "t": "Tu en es incapable. Une marionnette"
       },
       {
        "nl": true
       },
       {
-       "t": "Une marionnette triste qui ne sait pas ce qu'elle veut..."
+       "t": "triste qui ne sait pas ce qu'elle veut..."
       }
      ]
     }
@@ -1778,7 +1886,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu en es incapable.\nUne marionnette triste qui ne sait pas ce qu'elle veut...",
+   "brut_fr": "Tu en es incapable. Une marionnette\ntriste qui ne sait pas ce qu'elle veut...",
    "brut_en": "Of[SP]course[SP]you[SP]can't.[SP]You're[SP]a[SP]sad[SP]puppet[SP]who\ncan't[SP]even[SP]figure[SP]out[SP]what[SP]he[SP]wants...",
    "data_size": 196,
    "budget": 188
@@ -1792,25 +1900,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu ne pourrais même pas sauver"
+       "t": "Tu ne pourrais même pas sauver une"
       },
       {
        "nl": true
       },
       {
-       "t": "une seule vie, alors le monde ?"
+       "t": "seule vie, alors le monde?"
       },
       {
        "pause": true
       },
       {
-       "t": "Je parie qu'au fond de toi,"
+       "t": " Je parie"
       },
       {
        "nl": true
       },
       {
-       "t": "tu détestes Jun..."
+       "t": "qu'au fond de toi,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tu détestes Jun..."
       }
      ]
     }
@@ -1845,7 +1959,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu ne pourrais même pas sauver\nune seule vie, alors le monde ?[1205][001E]Je parie qu'au fond de toi,\ntu détestes Jun...",
+   "brut_fr": "Tu ne pourrais même pas sauver une\nseule vie, alors le monde?[1205][001E] Je parie\nqu'au fond de toi,[1205][U+000F] tu détestes Jun...",
    "brut_en": "A[SP]man[SP]like[SP]you[SP]could[SP]never[SP]save[SP]even[SP]one\nperson,[SP]let[SP]alone[SP]the[SP]world.[1205][001E][SP]Why,[SP]I[SP]bet[SP]that\ndeep[SP]down[SP]inside,[SP]you[SP]actually[SP]hate[SP]Jun...",
    "data_size": 290,
    "budget": 282
@@ -1889,6 +2003,7 @@
    "choix_fr": {
     "options": [
      "...Peut-être...",
+     "[1205]",
      "Je ne le déteste pas",
      "J'aurais fait la même chose."
     ],
@@ -1922,7 +2037,7 @@
      }
     ]
    },
-   "brut_fr": "Je parie qu'au fond de toi,\ntu détestes Jun...\n[1208][U+0003][1432][NULL][NULL][0014]...Peut-être...[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je ne le déteste pas[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]J'aurais fait la même chose.[1432][NULL][NULL][0014]",
+   "brut_fr": "Je parie qu'au fond de toi,\ntu détestes Jun...\n[1208][U+0003][1432][NULL][NULL][0014]...Peut-être...[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Je ne le déteste pas[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]J'aurais fait la même chose.[1432][NULL][NULL][0014]",
    "brut_en": "Why,[SP]I[SP]bet[SP]that[SP]deep[SP]down[SP]inside,[SP]you[SP]actually\nhate[SP]Jun...\n[1208][U+0003][1432][NULL][NULL][0014]...Maybe[SP]so...[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]don't[SP]hate[SP]him.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]He[SP]only[SP]did[SP]what[SP]I[SP]would[SP]have.[1432][NULL][NULL][0014]",
    "data_size": 326,
    "budget": 318
@@ -1942,13 +2057,19 @@
        "pause": true
       },
       {
-       "t": "À quel point ton égo est-il grand"
+       "t": " À quel point"
       },
       {
        "nl": true
       },
       {
-       "t": "pour que tu juges les autres comme ça?"
+       "t": "ton égo est-il grand pour que tu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "juges les autres comme ça?"
       }
      ]
     }
@@ -1983,7 +2104,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quelle prétention...[1205][001E]À quel point ton égo est-il grand\npour que tu juges les autres comme ça?",
+   "brut_fr": "Quelle prétention...[1205][001E] À quel point\nton égo est-il grand pour que tu\njuges les autres comme ça?",
    "brut_en": "How[SP]self-righteous...[1205][001E][SP]Is[SP]your[SP]ego[SP]so\noverdeveloped[SP]that[SP]you[SP]can[SP]judge[SP]others\nlike[SP]that?",
    "data_size": 208,
    "budget": 200
@@ -1997,13 +2118,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Non, c'est cette arrogance qui te définit..."
+       "t": "Non, c'est cette arrogance qui te"
       },
       {
        "nl": true
       },
       {
-       "t": "Je comprends ta vraie nature."
+       "t": "définit... Je comprends ta vraie nature."
       }
      ]
     }
@@ -2026,7 +2147,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non, c'est cette arrogance qui te définit...\nJe comprends ta vraie nature.",
+   "brut_fr": "Non, c'est cette arrogance qui te\ndéfinit... Je comprends ta vraie nature.",
    "brut_en": "No,[SP]it's[SP]that[SP]arrogance[SP]that[SP]makes[SP]you[SP]who\nyou[SP]are...[SP]You[SP]understand[SP]your[SP]true[SP]nature.",
    "data_size": 202,
    "budget": 194
@@ -2046,13 +2167,13 @@
        "pause": true
       },
       {
-       "t": "une telle vision"
+       "t": " une telle vision des choses"
       },
       {
        "nl": true
       },
       {
-       "t": "des choses n'a aucun sens. Tu vas mourir ici."
+       "t": "n'a aucun sens. Tu vas mourir ici."
       }
      ]
     }
@@ -2081,7 +2202,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dommage...[1205][001E]une telle vision\ndes choses n'a aucun sens. Tu vas mourir ici.",
+   "brut_fr": "Dommage...[1205][001E] une telle vision des choses\nn'a aucun sens. Tu vas mourir ici.",
    "brut_en": "Too[SP]bad...[1205][001E][SP]there's[SP]no[SP]meaning[SP]in[SP]an[SP]outlook\nlike[SP]that.[SP]Prepare[SP]to[SP]die[SP]here.",
    "data_size": 184,
    "budget": 176
@@ -2101,7 +2222,13 @@
        "pause": true
       },
       {
-       "t": "À moins que tu sois un petit ange ?"
+       "t": " À moins"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que tu sois un petit ange?"
       }
      ]
     }
@@ -2130,7 +2257,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quel hypocrite![1205][001E]À moins que tu sois un petit ange ?",
+   "brut_fr": "Quel hypocrite![1205][001E] À moins\nque tu sois un petit ange?",
    "brut_en": "What[SP]a[SP]hypocrite![1205][001E][SP]Either[SP]that[SP]or[SP]you[SP]really\nare[SP]Mr.[SP]Perfect.",
    "data_size": 154,
    "budget": 146
@@ -2193,13 +2320,13 @@
        "pause": true
       },
       {
-       "t": "une telle vision"
+       "t": " une telle vision des choses"
       },
       {
        "nl": true
       },
       {
-       "t": "des choses n'a aucun sens. Tu vas mourir ici."
+       "t": "n'a aucun sens. Tu vas mourir ici."
       }
      ]
     }
@@ -2228,7 +2355,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dommage...[1205][001E]une telle vision\ndes choses n'a aucun sens. Tu vas mourir ici.",
+   "brut_fr": "Dommage...[1205][001E] une telle vision des choses\nn'a aucun sens. Tu vas mourir ici.",
    "brut_en": "Too[SP]bad...[1205][001E][SP]there's[SP]no[SP]meaning[SP]in[SP]an[SP]outlook\nlike[SP]that.[SP]Prepare[SP]to[SP]die[SP]here.",
    "data_size": 184,
    "budget": 176

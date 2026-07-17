@@ -16,13 +16,13 @@
        "pause": true
       },
       {
-       "t": " Je ne vois même"
+       "t": " Je ne"
       },
       {
        "nl": true
       },
       {
-       "t": "pas le plafond."
+       "t": "vois même pas le plafond."
       }
      ]
     }
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Regarde sa taille...[1205][001E] Je ne vois même\npas le plafond.",
+   "brut_fr": "Regarde sa taille...[1205][001E] Je ne\nvois même pas le plafond.",
    "brut_en": "Look[SP]at[SP]the[SP]size[SP]of[SP]it...[1205][001E][SP]I[SP]can't[SP]even[SP]make\nout[SP]the[SP]ceiling.",
    "data_size": 144,
    "budget": 136
@@ -65,13 +65,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est étrange quand même. Ils savent"
+       "t": "C'est étrange quand même. Ils savent qu'on"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'on les chasse..."
+       "t": "les chasse..."
       },
       {
        "pause": true
@@ -80,10 +80,16 @@
        "t": " Pourquoi c'est si calme?"
       },
       {
+       "pause": true
+      },
+      {
+       "t": " Il"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Il n'y a personne pour nous accueillir."
+       "t": "n'y a personne pour nous accueillir."
       }
      ]
     }
@@ -118,7 +124,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est étrange quand même. Ils savent\nqu'on les chasse...[1205][001E] Pourquoi c'est si calme?\nIl n'y a personne pour nous accueillir.",
+   "brut_fr": "C'est étrange quand même. Ils savent qu'on\nles chasse...[1205][001E] Pourquoi c'est si calme?[1205][U+000F] Il\nn'y a personne pour nous accueillir.",
    "brut_en": "That's[SP]odd,[SP]though.[SP]They[SP]know[SP]we're[SP]after\nthem...[1205][001E][SP]So[SP]isn't[SP]it[SP]a[SP]little[SP]too[SP]quiet?\nThere's[SP]not[SP]even[SP]a[SP]welcoming[SP]committee[SP]here.",
    "data_size": 278,
    "budget": 270
@@ -138,13 +144,13 @@
        "nl": true
       },
       {
-       "t": "je parie qu'il y a pleins de pièges."
+       "t": "je parie qu'il y a pleins de pièges. Tout"
       },
       {
        "nl": true
       },
       {
-       "t": "Tout le monde a dû tomber dedans..."
+       "t": "le monde a dû tomber dedans..."
       }
      ]
     }
@@ -173,7 +179,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce vaisseau peut porter une ville entière,\nje parie qu'il y a pleins de pièges.\nTout le monde a dû tomber dedans...",
+   "brut_fr": "Ce vaisseau peut porter une ville entière,\nje parie qu'il y a pleins de pièges. Tout\nle monde a dû tomber dedans...",
    "brut_en": "This[SP]spaceship[SP]can[SP]carry[SP]an[SP]entire[SP]city,\nso[SP]I[SP]bet[SP]it[SP]has[SP]tons[SP]of[SP]high-tech[SP]traps.\nEveryone[SP]probably[SP]fell[SP]for[SP]them...",
    "data_size": 256,
    "budget": 248
@@ -202,7 +208,7 @@
        "t": "tu as raison, il doit y avoir des pièges"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
        "t": " ici."
@@ -240,7 +246,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Umm...[1205][001E] Je doute qu'ils soient TOUS morts, mais\ntu as raison, il doit y avoir des pièges\n ici.",
+   "brut_fr": "Umm...[1205][001E] Je doute qu'ils soient TOUS morts, mais\ntu as raison, il doit y avoir des pièges[1205][U+000F] ici.",
    "brut_en": "Hmm...[1205][001E][SP]I[SP]doubt[SP]they[SP]ALL[SP]died,[SP]but[SP]you're\nright,[SP]there[SP]must[SP]be[SP]some[SP]pretty[SP]devious\ntraps[SP]in[SP]here.",
    "data_size": 218,
    "budget": 210
@@ -254,7 +260,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quoi par exemple ?"
+       "t": "Quoi par exemple?"
       }
      ]
     }
@@ -271,7 +277,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quoi par exemple ?",
+   "brut_fr": "Quoi par exemple?",
    "brut_en": "Like[SP]what[SP]exactly?",
    "data_size": 64,
    "budget": 56
@@ -285,7 +291,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Comme quoi ?"
+       "t": "Comme quoi?"
       }
      ]
     }
@@ -302,12 +308,12 @@
    ],
    "choix_fr": {
     "options": [
-     "Des lasers ?",
+     "Des lasers?",
      "Une pièce brûlante."
     ],
     "question": [
      {
-      "t": "Comme quoi ?"
+      "t": "Comme quoi?"
      }
     ]
    },
@@ -322,7 +328,7 @@
      }
     ]
    },
-   "brut_fr": "Comme quoi ?\n[1208][0002][1432][NULL][NULL][0014]Des lasers ?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Une pièce brûlante.[1432][NULL][NULL][0014]",
+   "brut_fr": "Comme quoi?\n[1208][0002][1432][NULL][NULL][0014]Des lasers?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Une pièce brûlante.[1432][NULL][NULL][0014]",
    "brut_en": "Like[SP]what[SP]exactly?\n[1208][0002][1432][NULL][NULL][0014]Lasers,[SP]maybe.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]A[SP]superheated[SP]room.[1432][NULL][NULL][0014]",
    "data_size": 170,
    "budget": 162
@@ -336,19 +342,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quoique ce soit, on doit bouger."
+       "t": "Quoique ce soit, on doit bouger. On"
       },
       {
        "nl": true
       },
       {
-       "t": "On doit récupérer le Crâne du Paradis pour rendre"
+       "t": "doit récupérer le Crâne du Paradis pour"
       },
       {
        "nl": true
       },
       {
-       "t": "à la ville son état normal..."
+       "t": "rendre"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " à la ville son état normal..."
       }
      ]
     }
@@ -377,7 +389,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quoique ce soit, on doit bouger.\nOn doit récupérer le Crâne du Paradis pour rendre\nà la ville son état normal...",
+   "brut_fr": "Quoique ce soit, on doit bouger. On\ndoit récupérer le Crâne du Paradis pour\nrendre[1205][U+000F] à la ville son état normal...",
    "brut_en": "Whatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
    "data_size": 248,
    "budget": 240
@@ -422,19 +434,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quoique ce soit, on doit bouger."
+       "t": "Quoique ce soit, on doit bouger. On"
       },
       {
        "nl": true
       },
       {
-       "t": "On doit récupérer le Crâne du Paradis pour rendre"
+       "t": "doit récupérer le Crâne du Paradis pour"
       },
       {
        "nl": true
       },
       {
-       "t": "à la ville son état normal..."
+       "t": "rendre"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " à la ville son état normal..."
       }
      ]
     }
@@ -463,7 +481,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quoique ce soit, on doit bouger.\nOn doit récupérer le Crâne du Paradis pour rendre\nà la ville son état normal...",
+   "brut_fr": "Quoique ce soit, on doit bouger. On\ndoit récupérer le Crâne du Paradis pour\nrendre[1205][U+000F] à la ville son état normal...",
    "brut_en": "Whatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
    "data_size": 248,
    "budget": 240

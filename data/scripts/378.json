@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aiyah! Attendez attendez!"
+       "t": "Aiyah! Attendez attendez! On"
       },
       {
        "nl": true
       },
       {
-       "t": "On n'a aucune raison d'être ici!"
+       "t": "n'a aucune raison d'être ici!"
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aiyah! Attendez attendez!\nOn n'a aucune raison d'être ici!",
+   "brut_fr": "Aiyah! Attendez attendez! On\nn'a aucune raison d'être ici!",
    "brut_en": "Aiyah![SP]Wait[SP]wait[SP]wait![SP]We[SP]don't[SP]have[SP]any\nreason[SP]to[SP]come[SP]here!",
    "data_size": 142,
    "budget": 134
@@ -53,13 +53,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aiyah! Attendez attendez!"
+       "t": "Aiyah! Attendez attendez! On"
       },
       {
        "nl": true
       },
       {
-       "t": "On n'a aucune raison d'être ici!"
+       "t": "n'a aucune raison d'être ici!"
       }
      ]
     }
@@ -82,7 +82,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aiyah! Attendez attendez!\nOn n'a aucune raison d'être ici!",
+   "brut_fr": "Aiyah! Attendez attendez! On\nn'a aucune raison d'être ici!",
    "brut_en": "Aiyah![SP]Wait[SP]wait[SP]wait![SP]We[SP]don't[SP]have[SP]any\nreason[SP]to[SP]come[SP]here!",
    "data_size": 144,
    "budget": 136
@@ -108,19 +108,19 @@
        "pause": true
       },
       {
-       "t": " Je t'ai dit que dans"
+       "t": " Je t'ai dit"
       },
       {
        "nl": true
       },
       {
-       "t": "cette maison, au retour tu dois"
+       "t": "que dans cette maison, au retour"
       },
       {
        "nl": true
       },
       {
-       "t": "te présenter à ton père."
+       "t": "tu dois te présenter à ton père."
       }
      ]
     }
@@ -161,7 +161,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh?[1205][001E] Tu es là, Lisa?[1205][001E] Je t'ai dit que dans\ncette maison, au retour tu dois\nte présenter à ton père.",
+   "brut_fr": "Oh?[1205][001E] Tu es là, Lisa?[1205][001E] Je t'ai dit\nque dans cette maison, au retour\ntu dois te présenter à ton père.",
    "brut_en": "Oh?[1205][001E][SP]You're[SP]home,[SP]Lisa?[1205][001E][SP]I[SP]told[SP]you,[SP]in[SP]this\nhouse,[SP]when[SP]you[SP]come[SP]home[SP]you[SP]must[SP]report\nto[SP]your[SP]father.",
    "data_size": 226,
    "budget": 218
@@ -181,19 +181,25 @@
        "nl": true
       },
       {
-       "t": "discrète, respecte la piété filiale"
+       "t": "discrète, respecte la piété filiale et les"
       },
       {
        "nl": true
       },
       {
-       "t": "et les règles du foyer."
+       "t": "règles du foyer."
       },
       {
        "pause": true
       },
       {
-       "t": " Viens, ta leçon de thé commence."
+       "t": " Viens, ta leçon de thé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "commence."
       }
      ]
     }
@@ -228,7 +234,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale\net les règles du foyer.[1205][001E] Viens, ta leçon de thé commence.",
+   "brut_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé\ncommence.",
    "brut_en": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
    "data_size": 316,
    "budget": 308
@@ -254,19 +260,19 @@
        "pause": true
       },
       {
-       "t": " Je t'ai dit que dans"
+       "t": " Je t'ai dit"
       },
       {
        "nl": true
       },
       {
-       "t": "cette maison, au retour tu dois"
+       "t": "que dans cette maison, au retour"
       },
       {
        "nl": true
       },
       {
-       "t": "te présenter à ton père."
+       "t": "tu dois te présenter à ton père."
       }
      ]
     }
@@ -307,7 +313,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh?[1205][001E] Tu es là, Lisa?[1205][001E] Je t'ai dit que dans\ncette maison, au retour tu dois\nte présenter à ton père.",
+   "brut_fr": "Oh?[1205][001E] Tu es là, Lisa?[1205][001E] Je t'ai dit\nque dans cette maison, au retour\ntu dois te présenter à ton père.",
    "brut_en": "Oh?[1205][001E][SP]You're[SP]home,[SP]Lisa?[1205][001E][SP]I[SP]told[SP]you,[SP]in[SP]this\nhouse,[SP]when[SP]you[SP]come[SP]home[SP]you[SP]must[SP]report\nto[SP]your[SP]father.",
    "data_size": 226,
    "budget": 218
@@ -327,19 +333,25 @@
        "nl": true
       },
       {
-       "t": "discrète, respecte la piété filiale"
+       "t": "discrète, respecte la piété filiale et les"
       },
       {
        "nl": true
       },
       {
-       "t": "et les règles du foyer."
+       "t": "règles du foyer."
       },
       {
        "pause": true
       },
       {
-       "t": " Viens, ta leçon de thé commence."
+       "t": " Viens, ta leçon de thé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "commence."
       }
      ]
     }
@@ -374,7 +386,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale\net les règles du foyer.[1205][001E] Viens, ta leçon de thé commence.",
+   "brut_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé\ncommence.",
    "brut_en": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
    "data_size": 316,
    "budget": 308
@@ -509,13 +521,19 @@
        "nl": true
       },
       {
-       "t": "jours!? Elles vont en boîte et font"
+       "t": "jours!? Elles vont en boîte et font la fête"
       },
       {
        "nl": true
       },
       {
-       "t": "la fête toute la nuit! C'est ça que tu voulais!"
+       "t": "toute la nuit! C'est ça que tu "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " voulais!"
       }
      ]
     }
@@ -544,7 +562,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'as vu les filles japonaises de nos\njours!? Elles vont en boîte et font\nla fête toute la nuit! C'est ça que tu voulais!",
+   "brut_fr": "T'as vu les filles japonaises de nos\njours!? Elles vont en boîte et font la fête\ntoute la nuit! C'est ça que tu [1205][U+000F] voulais!",
    "brut_en": "Ever[SP]looked[SP]around[SP]at[SP]Japanese[SP]ladies[SP]these\ndays!?[SP]They[SP]go[SP]to[SP]clubs[SP]and[SP]party[SP]all[SP]night\nwith[SP]guys![SP]I'm[SP]doing[SP]exactly[SP]like[SP]you[SP]asked!",
    "data_size": 284,
    "budget": 276
@@ -679,13 +697,19 @@
        "nl": true
       },
       {
-       "t": "jours!? Elles vont en boîte et font"
+       "t": "jours!? Elles vont en boîte et font la fête"
       },
       {
        "nl": true
       },
       {
-       "t": "la fête toute la nuit! C'est ça que tu voulais!"
+       "t": "toute la nuit! C'est ça que tu "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " voulais!"
       }
      ]
     }
@@ -714,7 +738,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'as vu les filles japonaises de nos\njours!? Elles vont en boîte et font\nla fête toute la nuit! C'est ça que tu voulais!",
+   "brut_fr": "T'as vu les filles japonaises de nos\njours!? Elles vont en boîte et font la fête\ntoute la nuit! C'est ça que tu [1205][U+000F] voulais!",
    "brut_en": "Ever[SP]looked[SP]around[SP]at[SP]Japanese[SP]ladies[SP]these\ndays!?[SP]They[SP]go[SP]to[SP]clubs[SP]and[SP]party[SP]all[SP]night\nwith[SP]guys![SP]I'm[SP]doing[SP]exactly[SP]like[SP]you[SP]asked!",
    "data_size": 286,
    "budget": 278
@@ -734,19 +758,19 @@
        "pause": true
       },
       {
-       "t": " Je me demandais"
+       "t": " Je me"
       },
       {
        "nl": true
       },
       {
-       "t": "quelle famille noble vivait ici,"
+       "t": "demandais quelle famille noble"
       },
       {
        "nl": true
       },
       {
-       "t": "mais c'est SA maison!?"
+       "t": "vivait ici, mais c'est SA maison!?"
       }
      ]
     }
@@ -781,7 +805,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "V-vraie dame japonaise!?[1205][001E] Je me demandais\nquelle famille noble vivait ici,\nmais c'est SA maison!?",
+   "brut_fr": "V-vraie dame japonaise!?[1205][001E] Je me\ndemandais quelle famille noble\nvivait ici, mais c'est SA maison!?",
    "brut_en": "P-Proper[SP]Japanese[SP]lady!?[1205][001E][SP]I[SP]wondered[SP]what[SP]kind\nof[SP]classy[SP]family[SP]lived[SP]here,[SP]but[SP]it[SP]was[SP]HER\nhouse!?",
    "data_size": 224,
    "budget": 216
@@ -795,25 +819,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Donc c'est son père, et c'est sa maison..."
-      },
-      {
-       "pause": true
+       "t": "Donc c'est son père, et c'est sa"
       },
       {
        "nl": true
       },
       {
-       "t": "Une fille blonde qui parle cantonais..."
+       "t": "maison..."
       },
       {
        "pause": true
       },
       {
+       "t": " Une fille blonde qui parle"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Elle vient de QUEL pays!?"
+       "t": "cantonais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Elle vient de QUEL pays!?"
       }
      ]
     }
@@ -848,7 +878,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Donc c'est son père, et c'est sa maison...[1205][001E]\nUne fille blonde qui parle cantonais...[1205][001E]\nElle vient de QUEL pays!?",
+   "brut_fr": "Donc c'est son père, et c'est sa\nmaison...[1205][001E] Une fille blonde qui parle\ncantonais...[1205][001E] Elle vient de QUEL pays!?",
    "brut_en": "So[SP]that's[SP]her[SP]dad,[SP]and[SP]this[SP]is[SP]her[SP]house...[1205][001E]\nShe's[SP]a[SP]white[SP]girl[SP]who[SP]uses[SP]Cantonese...[1205][001E]\nWhat[SP]country[SP]IS[SP]she[SP]from!?",
    "data_size": 256,
    "budget": 248
@@ -862,19 +892,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et pourquoi tu portes toujours un hakama!?"
+       "t": "Et pourquoi tu portes toujours un"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est pas beau! C'est juste trop chaud!"
+       "t": "hakama!? C'est pas beau! C'est juste"
       },
       {
        "nl": true
       },
       {
-       "t": "Aaaaargh! On y va, "
+       "t": "trop chaud! Aaaaargh! On y va, "
       },
       {
        "hero": "prenom"
@@ -915,7 +945,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et pourquoi tu portes toujours un hakama!?\nC'est pas beau! C'est juste trop chaud!\nAaaaargh! On y va, [1113]!",
+   "brut_fr": "Et pourquoi tu portes toujours un\nhakama!? C'est pas beau! C'est juste\ntrop chaud! Aaaaargh! On y va, [1113]!",
    "brut_en": "And[SP]why[SP]are[SP]you[SP]always[SP]wearing[SP]a[SP]hakama!?\nIt[SP]doesn't[SP]look[SP]good![SP]It[SP]just[SP]looks[SP]hot!\nArrrrrgh![SP]Let's[SP]go,[SP][1113]!",
    "data_size": 230,
    "budget": 222
@@ -929,19 +959,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et pourquoi tu portes toujours un hakama!?"
+       "t": "Et pourquoi tu portes toujours un"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est pas beau! C'est juste trop chaud!"
+       "t": "hakama!? C'est pas beau! C'est juste"
       },
       {
        "nl": true
       },
       {
-       "t": "Aaaaargh! On y va, "
+       "t": "trop chaud! Aaaaargh! On y va, "
       },
       {
        "hero": "prenom"
@@ -982,7 +1012,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et pourquoi tu portes toujours un hakama!?\nC'est pas beau! C'est juste trop chaud!\nAaaaargh! On y va, [1113]!",
+   "brut_fr": "Et pourquoi tu portes toujours un\nhakama!? C'est pas beau! C'est juste\ntrop chaud! Aaaaargh! On y va, [1113]!",
    "brut_en": "And[SP]why[SP]are[SP]you[SP]always[SP]wearing[SP]a[SP]hakama!?\nIt[SP]doesn't[SP]look[SP]good![SP]It[SP]just[SP]looks[SP]hot!\nArrrrrgh![SP]Let's[SP]go,[SP][1113]!",
    "data_size": 232,
    "budget": 224
@@ -1051,30 +1081,45 @@
        "nl": true
       },
       {
-       "t": "tendue. Quelle charge d'avoir un enfant"
+       "t": "tendue. Quelle charge d'avoir un enfant si"
       },
       {
        "nl": true
       },
       {
-       "t": "si rebelle. Le pauvre homme."
-      }
-     ]
-    },
-    {
-     "nom": "Yukino",
-     "seg": [
-      {
-       "t": "Mon père est parti avec une autre femme..."
+       "t": "rebelle. Le pauvre homme."
       },
       {
        "pause": true
       },
       {
+       "t": " "
+      }
+     ]
+    },
+    {
+     "nom": "Yukino Mon père",
+     "seg": [
+      {
+       "t": "est parti avec une autre femme..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je lui"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Je lui casserais la gueule si je le revoyais."
+       "t": "casserais la gueule si je le "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " revoyais."
       }
      ]
     }
@@ -1120,7 +1165,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La relation de Lisa avec son père est\ntendue. Quelle charge d'avoir un enfant\nsi rebelle. Le pauvre homme.[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nMon père est parti avec une autre femme...[1205][001E]\nJe lui casserais la gueule si je le revoyais.",
+   "brut_fr": "La relation de Lisa avec son père est\ntendue. Quelle charge d'avoir un enfant si\nrebelle. Le pauvre homme.[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Yukino Mon père\nest parti avec une autre femme...[1205][001E] Je lui\ncasserais la gueule si je le [1205][U+000F] revoyais.",
    "brut_en": "Lisa's[SP]relationship[SP]with[SP]her[SP]father[SP]seems\nstrained.[SP]What[SP]a[SP]burden[SP]for[SP]her[SP]parents[SP]to\nhave[SP]such[SP]a[SP]rebellious[SP]child.[SP]The[SP]poor[SP]man.[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nMy[SP]dad[SP]ran[SP]off[SP]one[SP]day[SP]with[SP]another[SP]woman...[1205][001E]\nI'd[SP]only[SP]kick[SP]his[SP]ass[SP]if[SP]I[SP]ever[SP]saw[SP]him[SP]again.",
    "data_size": 492,
    "budget": 484
@@ -1140,19 +1185,13 @@
        "pause": true
       },
       {
-       "t": " Oui. J'ai toujours"
+       "t": " Oui. J'ai toujours voulu quelque"
       },
       {
        "nl": true
       },
       {
-       "t": "voulu quelque chose à défendre."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "J'enviais Lisa pour ça..."
+       "t": "chose à défendre. J'enviais Lisa pour ça..."
       }
      ]
     }
@@ -1187,7 +1226,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Son père...[1205][U+000F] Oui. J'ai toujours\nvoulu quelque chose à défendre.\nJ'enviais Lisa pour ça...",
+   "brut_fr": "Son père...[1205][U+000F] Oui. J'ai toujours voulu quelque\nchose à défendre. J'enviais Lisa pour ça...",
    "brut_en": "Her[SP]father...[1205][U+000F][SP]Yes.[SP]I've[SP]always[SP]wanted[SP]to\nhave[SP]something[SP]like[SP]this[SP]to[SP]defend.[SP]I[SP]was\nso[SP]jealous[SP]of[SP]Lisa...",
    "data_size": 230,
    "budget": 222
@@ -1201,13 +1240,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'y a-t-il, jeune homme? Avez-vous"
+       "t": "Qu'y a-t-il, jeune homme?"
       },
       {
        "nl": true
       },
       {
-       "t": "quelque chose à me dire?"
+       "t": "Avez-vous quelque chose à me dire?"
       }
      ]
     }
@@ -1230,7 +1269,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'y a-t-il, jeune homme? Avez-vous\nquelque chose à me dire?",
+   "brut_fr": "Qu'y a-t-il, jeune homme?\nAvez-vous quelque chose à me dire?",
    "brut_en": "What[SP]is[SP]it,[SP]young[SP]man?[SP]Is[SP]there[SP]something\nyou[SP]wish[SP]to[SP]discuss[SP]with[SP]me?",
    "data_size": 178,
    "budget": 170
@@ -1244,13 +1283,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'y a-t-il, jeune homme? Avez-vous"
+       "t": "Qu'y a-t-il, jeune homme?"
       },
       {
        "nl": true
       },
       {
-       "t": "quelque chose à me dire?"
+       "t": "Avez-vous quelque chose à me dire?"
       }
      ]
     }
@@ -1273,7 +1312,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'y a-t-il, jeune homme? Avez-vous\nquelque chose à me dire?",
+   "brut_fr": "Qu'y a-t-il, jeune homme?\nAvez-vous quelque chose à me dire?",
    "brut_en": "What[SP]is[SP]it,[SP]young[SP]man?[SP]Is[SP]there[SP]something\nyou[SP]wish[SP]to[SP]discuss[SP]with[SP]me?",
    "data_size": 180,
    "budget": 172
@@ -1305,7 +1344,7 @@
    "choix_fr": {
     "options": [
      "Poser une question sur le tirage",
-     "Parler avec le père de Ginko",
+     "Parler avec le père de Ginko[1205]",
      "Rien"
     ],
     "question": [
@@ -1326,7 +1365,7 @@
      }
     ]
    },
-   "brut_fr": "Avez-vous quelque chose à me dire?\n[1208][U+0003]Poser une question sur le tirage\nParler avec le père de Ginko\nRien",
+   "brut_fr": "Avez-vous quelque chose à me dire?\n[1208][U+0003]Poser une question sur le tirage\nParler avec le père de Ginko[1205][U+000F]\nRien",
    "brut_en": "Is[SP]there[SP]something[SP]you[SP]wish[SP]to[SP]discuss[SP]with[SP]me?\n[1208][U+0003]Ask[SP]about[SP]the[SP]sweepstakes\nTalk[SP]with[SP]Ginko's[SP]father\nNothing",
    "data_size": 258,
    "budget": 250
@@ -1340,19 +1379,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le tirage au sort? Il n'y a eu aucune"
+       "t": "Le tirage au sort? Il n'y a eu"
       },
       {
        "nl": true
       },
       {
-       "t": "livraison... Êtes-vous en avance? Revenez"
+       "t": "aucune livraison... Êtes-vous en"
       },
       {
        "nl": true
       },
       {
-       "t": "dans quelque temps."
+       "t": "avance? Revenez dans quelque temps."
       }
      ]
     }
@@ -1381,7 +1420,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort? Il n'y a eu aucune\nlivraison... Êtes-vous en avance? Revenez\ndans quelque temps.",
+   "brut_fr": "Le tirage au sort? Il n'y a eu\naucune livraison... Êtes-vous en\navance? Revenez dans quelque temps.",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]There[SP]have[SP]been[SP]no\ndeliveries...[SP]Are[SP]you[SP]early,[SP]perhaps?[SP]Why[SP]not\ncome[SP]back[SP]after[SP]the[SP]passing[SP]of[SP]some[SP]time?",
    "data_size": 302,
    "budget": 294
@@ -1401,13 +1440,13 @@
        "nl": true
       },
       {
-       "t": "aucune livraison... Êtes-vous en avance?"
+       "t": "aucune livraison... Êtes-vous en"
       },
       {
        "nl": true
       },
       {
-       "t": "Revenez dans quelque temps."
+       "t": "avance? Revenez dans quelque temps."
       }
      ]
     }
@@ -1436,7 +1475,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort? Il n'y a eu\naucune livraison... Êtes-vous en avance?\nRevenez dans quelque temps.",
+   "brut_fr": "Le tirage au sort? Il n'y a eu\naucune livraison... Êtes-vous en\navance? Revenez dans quelque temps.",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]There[SP]have[SP]been[SP]no\ndeliveries...[SP]Are[SP]you[SP]early,[SP]perhaps?[SP]Why[SP]not\ncome[SP]back[SP]after[SP]the[SP]passing[SP]of[SP]some[SP]time?",
    "data_size": 304,
    "budget": 296
@@ -1512,13 +1551,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le tirage au sort? Ah oui, bien sûr."
+       "t": "Le tirage au sort? Ah oui, bien sûr. Ceci"
       },
       {
        "nl": true
       },
       {
-       "t": "Ceci a été livré ici. Tenez, prenez-le.> Lettre"
+       "t": "a été livré ici. Tenez, prenez-le.> Lettre"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -1577,7 +1619,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort? Ah oui, bien sûr.\nCeci a été livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnant\ncette fois. Tentez à nouveau votre chance![1432][NULL][NULL][0014]",
+   "brut_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci\na été livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnant\ncette fois. Tentez à nouveau votre chance![1432][NULL][NULL][0014]",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
    "data_size": 516,
    "budget": 508
@@ -1591,13 +1633,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le tirage au sort? Ah oui, bien sûr."
+       "t": "Le tirage au sort? Ah oui, bien sûr. Ceci a"
       },
       {
        "nl": true
       },
       {
-       "t": "Ceci a été livré ici. Tenez, prenez-le.> Lettre"
+       "t": "été livré ici. Tenez, prenez-le.> Lettre"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -1621,16 +1666,28 @@
        "t": "Veuillez accepter ceci "
       },
       {
+       "pause": true
+      },
+      {
+       "t": " en guise"
+      },
+      {
        "nl": true
       },
       {
-       "t": "en guise de prix. Tentez à nouveau votre chance!> Vous n'avez plus de place pour un autre"
+       "t": "de prix. Tentez à nouveau votre chance!>"
       },
       {
        "nl": true
       },
       {
-       "t": "..."
+       "t": "Vous n'avez plus de place pour un autre"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ..."
       }
      ]
     }
@@ -1692,7 +1749,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort? Ah oui, bien sûr.\nCeci a été livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nFélicitations! Vous avez été sélectionné\ngagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter ceci [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nen guise de prix. Tentez à nouveau votre chance![1432][NULL][NULL][0014][E1][E2][E3]> Vous n'avez plus de place pour un autre\n[E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
+   "brut_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci a\nété livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nFélicitations! Vous avez été sélectionné\ngagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter ceci [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002][1205][U+000F] en guise\nde prix. Tentez à nouveau votre chance![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez plus de place pour un autre[1205][U+000F] [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner![E1][E2][E3]>[SP][1432][NULL][NULL][0014]Please[SP]accept[SP]this[SP][E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nas[SP]your[SP]prize.[SP]We[SP]encourage[SP]you[SP]to[SP]continue\nentering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014][E1][E2][E3]>[SP]You[SP]have[SP]no[SP]room[SP]for[SP]another\n[E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
    "data_size": 742,
    "budget": 734

@@ -16,19 +16,19 @@
        "pause": true
       },
       {
-       "t": " J'peux pas profiter du festival"
+       "t": " J'peux pas profiter du"
       },
       {
        "nl": true
       },
       {
-       "t": "à mon rythme avec toi. Mon argent part"
+       "t": "festival à mon rythme avec toi."
       },
       {
        "nl": true
       },
       {
-       "t": "vite lui aussi..."
+       "t": "Mon argent part vite lui aussi..."
       }
      ]
     }
@@ -63,7 +63,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*soupir*[1205][001E] J'peux pas profiter du festival\nà mon rythme avec toi. Mon argent part\nvite lui aussi...",
+   "brut_fr": "*soupir*[1205][001E] J'peux pas profiter du\nfestival à mon rythme avec toi.\nMon argent part vite lui aussi...",
    "brut_en": "*sigh*[1205][001E][SP]I[SP]can't[SP]enjoy[SP]the[SP]festival[SP]at[SP]my[SP]own\npace[SP]with[SP]you[SP]around.[SP]My[SP]allowance[SP]is\ndraining[SP]fast,[SP]too...",
    "data_size": 238,
    "budget": 230
@@ -77,13 +77,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je vais faire un tour."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Reste là, "
+       "t": "Je vais faire un tour. Reste là, "
       },
       {
        "hero": "prenom"
@@ -118,7 +112,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vais faire un tour.\nReste là, [1113].",
+   "brut_fr": "Je vais faire un tour. Reste là, [1113].",
    "brut_en": "I'm[SP]going[SP]to[SP]go[SP]take[SP]a[SP]quick[SP]look[SP]around.\nStay[SP]right[SP]here,[SP][1113].",
    "data_size": 150,
    "budget": 142
@@ -187,10 +181,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "On est deux."
+       "t": " On est deux."
       }
      ]
     }
@@ -225,7 +216,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh...[1205][001E] T'es tout seul aussi...[1205][001E]\nOn est deux.",
+   "brut_fr": "Oh...[1205][001E] T'es tout seul aussi...[1205][001E] On est deux.",
    "brut_en": "Oh...[1205][001E][SP]You're[SP]by[SP]yourself[SP]too...[1205][001E][SP]That[SP]makes\ntwo[SP]of[SP]us.",
    "data_size": 160,
    "budget": 152
@@ -239,25 +230,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Papa et Maman se disputaient"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "encore..."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Ils avaient promis"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de venir au festival avec moi."
+       "t": "Papa et Maman se disputaient encore..."
       },
       {
        "pause": true
@@ -266,7 +239,22 @@
        "nl": true
       },
       {
-       "t": "Pourquoi ils s'énervent autant?"
+       "t": "Ils avaient promis de venir au festival"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec moi."
+      },
+      {
+       "pause": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pourquoi ils s'énervent autant?"
       }
      ]
     }
@@ -304,7 +292,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Papa et Maman se disputaient\nencore...[1205][001E] Ils avaient promis\nde venir au festival avec moi.[1205][001E]\nPourquoi ils s'énervent autant?",
+   "brut_fr": "Papa et Maman se disputaient encore...[1205][001E]\nIls avaient promis de venir au festival\navec moi.[1205][001E][1205][U+000F] Pourquoi ils s'énervent autant?",
    "brut_en": "Papa[SP]and[SP]Mama[SP]were[SP]fighting[SP]today,[SP]too...[1205][001E]\nAnd[SP]they[SP]promised[SP]they'd[SP]go[SP]to[SP]the[SP]festival\nwith[SP]me.[1205][001E][SP]Why[SP]are[SP]grown-ups[SP]always[SP]so[SP]mad?",
    "data_size": 308,
    "budget": 300
@@ -349,13 +337,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aaargh! La ferme, Eikichi!?"
+       "t": "Aaargh! La ferme, Eikichi!? Je"
       },
       {
        "nl": true
       },
       {
-       "t": "Je t'ai déjà acheté un masque!"
+       "t": "t'ai déjà acheté un masque!"
       }
      ]
     }
@@ -378,7 +366,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aaargh! La ferme, Eikichi!?\nJe t'ai déjà acheté un masque!",
+   "brut_fr": "Aaargh! La ferme, Eikichi!? Je\nt'ai déjà acheté un masque!",
    "brut_en": "Aaargh![SP]Will[SP]you[SP]shut[SP]up,[SP]Eikichi!?\nI[SP]bought[SP]you[SP]a[SP]mask[SP]already!",
    "data_size": 164,
    "budget": 156
@@ -669,10 +657,13 @@
        "pause": true
       },
       {
+       "t": " I-Il"
+      },
+      {
        "nl": true
       },
       {
-       "t": "I-Il est 18ème dan de k-karaté et judo..."
+       "t": "est 18ème dan de k-karaté et judo..."
       }
      ]
     }
@@ -701,7 +692,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "M-Mon père fait super peur...[1205][001E]\nI-Il est 18ème dan de k-karaté et judo...",
+   "brut_fr": "M-Mon père fait super peur...[1205][001E] I-Il\nest 18ème dan de k-karaté et judo...",
    "brut_en": "M-My[SP]dad's[SP]r-really[SP]scary...[1205][001E][SP]H-He's[SP]like,\neighteenth[SP]rank[SP]in[SP]k-k-karate[SP]and[SP]judo...",
    "data_size": 198,
    "budget": 190
@@ -853,13 +844,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vas-y, t'en fais pas. Ces enfants"
+       "t": "Vas-y, t'en fais pas. Ces enfants ne se"
       },
       {
        "nl": true
       },
       {
-       "t": "ne se moqueront pas de tes cheveux blonds."
+       "t": "moqueront pas de tes cheveux blonds."
       }
      ]
     }
@@ -882,7 +873,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vas-y, t'en fais pas. Ces enfants\nne se moqueront pas de tes cheveux blonds.",
+   "brut_fr": "Vas-y, t'en fais pas. Ces enfants ne se\nmoqueront pas de tes cheveux blonds.",
    "brut_en": "Go[SP]on,[SP]it's[SP]all[SP]right.[SP]Those[SP]kids[SP]won't\ntease[SP]you[SP]just[SP]because[SP]you[SP]have[SP]blonde[SP]hair.",
    "data_size": 210,
    "budget": 202
@@ -902,7 +893,7 @@
        "pause": true
       },
       {
-       "t": "Vous n'allez pas m'embêter?"
+       "t": " Vous n'allez pas m'embêter?"
       }
      ]
     }
@@ -925,7 +916,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...[1205][001E]Vous n'allez pas m'embêter?",
+   "brut_fr": "...[1205][001E] Vous n'allez pas m'embêter?",
    "brut_en": "...[1205][001E]You[SP]really[SP]aren't[SP]gonna[SP]pick[SP]on[SP]me?",
    "data_size": 104,
    "budget": 96
@@ -982,13 +973,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ahaha... Ahaha..."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je suis encore tombé!"
+       "t": "Ahaha... Ahaha... Je suis encore tombé!"
       }
      ]
     }
@@ -1005,7 +990,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ahaha... Ahaha...\nJe suis encore tombé!",
+   "brut_fr": "Ahaha... Ahaha... Je suis encore tombé!",
    "brut_en": "Ahah![SP]Ahaha...[SP]Ahahaha...[SP]I-I[SP]fell[SP]again!",
    "data_size": 110,
    "budget": 102
@@ -1019,13 +1004,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hahahaha! Mais qu'est-ce qu'on va"
+       "t": "Hahahaha! Mais qu'est-ce"
       },
       {
        "nl": true
       },
       {
-       "t": "faire de toi, Jaune?"
+       "t": "qu'on va faire de toi, Jaune?"
       }
      ]
     }
@@ -1048,7 +1033,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hahahaha! Mais qu'est-ce qu'on va\nfaire de toi, Jaune?",
+   "brut_fr": "Hahahaha! Mais qu'est-ce\nqu'on va faire de toi, Jaune?",
    "brut_en": "Hahahaha![SP]Oh[SP]man,[SP]what're[SP]we[SP]gonna[SP]do[SP]with\nyou,[SP]Yellow?",
    "data_size": 156,
    "budget": 148
@@ -1068,10 +1053,13 @@
        "pause": true
       },
       {
+       "t": " J'avais"
+      },
+      {
        "nl": true
       },
       {
-       "t": "J'avais pas autant ri depuis un bail..."
+       "t": "pas autant ri depuis un bail..."
       }
      ]
     }
@@ -1100,7 +1088,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouf... J'suis fatigué...[1205][001E]\nJ'avais pas autant ri depuis un bail...",
+   "brut_fr": "Ouf... J'suis fatigué...[1205][001E] J'avais\npas autant ri depuis un bail...",
    "brut_en": "Whew...[SP]I'm[SP]tired...[1205][001E][SP]I[SP]haven't[SP]laughed[SP]this\nmuch[SP]in[SP]a[SP]while...",
    "data_size": 174,
    "budget": 166
@@ -1120,13 +1108,7 @@
        "pause": true
       },
       {
-       "t": " Vous voulez bien"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "rester mes amis?"
+       "t": " Vous voulez bien rester mes amis?"
       }
      ]
     }
@@ -1155,7 +1137,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, euh...[1205][001E] Vous voulez bien\nrester mes amis?",
+   "brut_fr": "Hé, euh...[1205][001E] Vous voulez bien rester mes amis?",
    "brut_en": "Hey,[SP]um...[1205][001E][SP]Will[SP]you[SP]guys[SP]keep[SP]being\nmy[SP]friends?",
    "data_size": 122,
    "budget": 114
@@ -1243,19 +1225,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il en manque un, mais on a"
+       "t": "Il en manque un, mais on a quatre rangers"
       },
       {
        "nl": true
       },
       {
-       "t": "quatre rangers ici. Trouvons"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "un nom pour notre groupe!"
+       "t": "ici. Trouvons un nom pour notre groupe!"
       }
      ]
     }
@@ -1284,7 +1260,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il en manque un, mais on a\nquatre rangers ici. Trouvons\nun nom pour notre groupe!",
+   "brut_fr": "Il en manque un, mais on a quatre rangers\nici. Trouvons un nom pour notre groupe!",
    "brut_en": "We're[SP]missing[SP]one,[SP]but[SP]we[SP]do[SP]have[SP]four\nrangers[SP]here.[SP]Let's[SP]come[SP]up[SP]with[SP]a[SP]name\nfor[SP]our[SP]group!",
    "data_size": 232,
    "budget": 224
@@ -1298,19 +1274,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça reste entre nous. On sera"
+       "t": "Ça reste entre nous. On sera des"
       },
       {
        "nl": true
       },
       {
-       "t": "des amis secrets qui n'enlèvent"
+       "t": "amis secrets qui n'enlèvent jamais"
       },
       {
        "nl": true
       },
       {
-       "t": "jamais le masque quand ils se voient!"
+       "t": "le masque quand ils se voient!"
       }
      ]
     }
@@ -1339,7 +1315,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça reste entre nous. On sera\ndes amis secrets qui n'enlèvent\njamais le masque quand ils se voient!",
+   "brut_fr": "Ça reste entre nous. On sera des\namis secrets qui n'enlèvent jamais\nle masque quand ils se voient!",
    "brut_en": "It'll[SP]be[SP]just[SP]between[SP]us.[SP]We'll[SP]be[SP]secret\nfriends[SP]who[SP]never[SP]take[SP]off[SP]their[SP]masks\nwhen[SP]they[SP]meet!",
    "data_size": 238,
    "budget": 230

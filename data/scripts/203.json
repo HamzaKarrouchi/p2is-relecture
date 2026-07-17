@@ -10,19 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle s'en sort. Elle est juste évanouie."
+       "t": "Elle s'en sort. Elle est juste"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "évanouie."
       },
       {
        "pause": true
       },
       {
-       "nl": true
+       "t": " Putain, quelle folle... "
       },
       {
-       "t": "Putain, quelle folle..."
+       "pause": true
       },
       {
-       "nl": true
+       "t": " "
       }
      ]
     },
@@ -30,22 +36,28 @@
      "nom": "Jun",
      "seg": [
       {
-       "t": "Je pense... Elle était vraiment prête à mourir..."
+       "t": "Je pense... Elle était vraiment prête à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mourir..."
       },
       {
        "pause": true
       },
       {
+       "pause": true
+      },
+      {
+       "t": " La dernière étape de l'Oracle"
+      },
+      {
        "nl": true
       },
       {
-       "t": "La dernière étape de l'Oracle est le sacrifice"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de la Vierge Maia..."
+       "t": "est le sacrifice de la Vierge Maia..."
       }
      ]
     }
@@ -97,7 +109,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle s'en sort. Elle est juste évanouie.[1205][001E]\nPutain, quelle folle...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nJe pense... Elle était vraiment prête à mourir...[1205][001E]\nLa dernière étape de l'Oracle est le sacrifice\nde la Vierge Maia...",
+   "brut_fr": "Elle s'en sort. Elle est juste\névanouie.[1205][001E] Putain, quelle folle... [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Jun\nJe pense... Elle était vraiment prête à\nmourir...[1205][001E][1205][U+000F] La dernière étape de l'Oracle\nest le sacrifice de la Vierge Maia...",
    "brut_en": "Looks[SP]like[SP]she's[SP]okay.[SP]She's[SP]just[SP]out[SP]cold.[1205][001E]\nGeez,[SP]what[SP]a[SP]crazy[SP]bitch...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nI[SP]think...[SP]She[SP]really[SP]was[SP]willing[SP]to[SP]die...[1205][001E]\nThe[SP]final[SP]step[SP]in[SP]the[SP]Oracle[SP]is[SP]the[SP]sacrifice\nof[SP]the[SP]Maia[SP]Maiden...",
    "data_size": 426,
    "budget": 418
@@ -117,13 +129,13 @@
        "nl": true
       },
       {
-       "t": "Maia était quelqu'un avec un fort lien"
+       "t": "Maia était quelqu'un avec un fort"
       },
       {
        "nl": true
       },
       {
-       "t": "de sang avec les Maya..."
+       "t": "lien de sang avec les Maya..."
       }
      ]
     }
@@ -152,7 +164,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il semblait penser que la Vierge\nMaia était quelqu'un avec un fort lien\nde sang avec les Maya...",
+   "brut_fr": "Il semblait penser que la Vierge\nMaia était quelqu'un avec un fort\nlien de sang avec les Maya...",
    "brut_en": "Father[SP]seems[SP]to[SP]have[SP]thought[SP]that[SP]the[SP]Maia\nMaiden[SP]was[SP]someone[SP]with[SP]a[SP]strong[SP]blood\nconnection[SP]to[SP]the[SP]Maians...",
    "data_size": 238,
    "budget": 230
@@ -166,19 +178,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'Oracle condamnait celle qui l'incarnait"
+       "t": "L'Oracle condamnait celle qui"
       },
       {
        "nl": true
       },
       {
-       "t": "à mourir. Mais ce n'était qu'une illusion."
+       "t": "l'incarnait à mourir. Mais ce n'était"
       },
       {
        "nl": true
       },
       {
-       "t": "Ça n'existe pas..."
+       "t": "qu'une illusion. Ça n'existe pas..."
       }
      ]
     }
@@ -207,7 +219,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'Oracle condamnait celle qui l'incarnait\nà mourir. Mais ce n'était qu'une illusion.\nÇa n'existe pas...",
+   "brut_fr": "L'Oracle condamnait celle qui\nl'incarnait à mourir. Mais ce n'était\nqu'une illusion. Ça n'existe pas...",
    "brut_en": "Fulfillment[SP]of[SP]the[SP]Oracle[SP]meant[SP]that[SP]whoever\nit[SP]was[SP]would[SP]die.[SP]But[SP]that[SP]was[SP]all[SP]a[SP]delusion.\nIt[SP]doesn't[SP]exist...",
    "data_size": 242,
    "budget": 234
@@ -337,13 +349,13 @@
        "pause": true
       },
       {
-       "t": " Tout comme"
+       "t": " Tout"
       },
       {
        "nl": true
       },
       {
-       "t": "nos Ombres."
+       "t": "comme nos Ombres."
       },
       {
        "pause": true
@@ -356,6 +368,9 @@
       },
       {
        "t": " créé"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -408,7 +423,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un imposteur né de nos croyances...[1205][001E] Tout comme\nnos Ombres.[1205][001E] Comme l'autre [1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014] créé\npar les rumeurs qui circulent...",
+   "brut_fr": "Un imposteur né de nos croyances...[1205][001E] Tout\ncomme nos Ombres.[1205][001E] Comme l'autre [1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014] créé[1205][U+000F]\npar les rumeurs qui circulent...",
    "brut_en": "An[SP]impostor[SP]born[SP]from[SP]our[SP]beliefs...[1205][001E][SP]Just[SP]like\nour[SP]shadows.[1205][001E][SP]Like[SP]the[SP]other[SP][1432][NULL][NULL][0014]me[1432][NULL][NULL][0014][SP]created\nby[SP]the[SP]circulating[SP]rumors...",
    "data_size": 274,
    "budget": 266
@@ -428,19 +443,19 @@
        "pause": true
       },
       {
-       "t": " Enfin, on avait"
+       "t": " Enfin,"
       },
       {
        "nl": true
       },
       {
-       "t": "des théories folles sur le père de Jun"
+       "t": "on avait des théories folles sur"
       },
       {
        "nl": true
       },
       {
-       "t": "à l'époque, mais..."
+       "t": "le père de Jun à l'époque, mais..."
       }
      ]
     }
@@ -475,7 +490,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pas possible... Sérieux!?[1205][001E] Enfin, on avait\ndes théories folles sur le père de Jun\nà l'époque, mais...",
+   "brut_fr": "Pas possible... Sérieux!?[1205][001E] Enfin,\non avait des théories folles sur\nle père de Jun à l'époque, mais...",
    "brut_en": "No[SP]way...[SP]Seriously!?[1205][001E][SP]I[SP]mean,[SP]yeah,[SP]we[SP]had[SP]all\nkinds[SP]of[SP]crazy[SP]theories[SP]about[SP]Jun's[SP]dad[SP]back\nthen,[SP]but...",
    "data_size": 236,
    "budget": 228
@@ -495,10 +510,13 @@
        "pause": true
       },
       {
+       "t": " Les rumeurs"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Les rumeurs étaient déjà réelles!?"
+       "t": "étaient déjà réelles!?"
       }
      ]
     }
@@ -527,7 +545,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça veut dire...[1205][001E]\nLes rumeurs étaient déjà réelles!?",
+   "brut_fr": "Ça veut dire...[1205][001E] Les rumeurs\nétaient déjà réelles!?",
    "brut_en": "Does[SP]this[SP]mean...[1205][001E][SP]Rumors[SP]were[SP]coming[SP]true\nthat[SP]long[SP]ago!?",
    "data_size": 146,
    "budget": 138
@@ -541,25 +559,25 @@
      "nom": null,
      "seg": [
       {
-       "enc": "Les gens se connaissent"
+       "enc": "Les gens se connaissent à travers"
       },
       {
        "nl": true
       },
       {
-       "enc": "à travers les autres..."
+       "enc": "les autres..."
       },
       {
        "pause": true
       },
       {
-       "t": " Notre ego et"
+       "t": " Notre ego et notre"
       },
       {
        "nl": true
       },
       {
-       "t": "notre conscience dépendent des autres..."
+       "t": "conscience dépendent des autres..."
       }
      ]
     }
@@ -594,7 +612,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Les gens se connaissent\nà travers les autres...[1432][NULL][NULL][0014][1205][001E] Notre ego et\nnotre conscience dépendent des autres...",
+   "brut_fr": "[1432][NULL][NULL][0014]Les gens se connaissent à travers\nles autres...[1432][NULL][NULL][0014][1205][001E] Notre ego et notre\nconscience dépendent des autres...",
    "brut_en": "[1432][NULL][NULL][0014]People[SP]come[SP]to[SP]know[SP]themselves[SP]through\nothers...[1432][NULL][NULL][0014][1205][001E][SP]Our[SP]ego[SP]and[SP]consciousness[SP]are\ndependent[SP]on[SP]the[SP]people[SP]around[SP]us...",
    "data_size": 272,
    "budget": 264
@@ -608,16 +626,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "En nous comparant aux autres et en prenant"
+       "t": "En nous comparant aux autres et en"
       },
       {
        "nl": true
       },
       {
-       "t": "conscience de l'image qu'on renvoie, notre"
+       "t": "prenant conscience de l'image qu'on"
       },
       {
        "nl": true
+      },
+      {
+       "t": "renvoie, notre "
       },
       {
        "enc": "moi"
@@ -655,7 +676,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En nous comparant aux autres et en prenant\nconscience de l'image qu'on renvoie, notre\n[1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014] prend forme...",
+   "brut_fr": "En nous comparant aux autres et en\nprenant conscience de l'image qu'on\nrenvoie, notre [1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014] prend forme...",
    "brut_en": "By[SP]comparing[SP]ourselves[SP]to[SP]others[SP]and[SP]becoming\naware[SP]of[SP]the[SP]image[SP]they[SP]hold[SP]of[SP]us,[SP]our\n[1432][NULL][NULL][0014]selves[1432][NULL][NULL][0014][SP]take[SP]shape...",
    "data_size": 250,
    "budget": 242
@@ -669,10 +690,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "En d'autres termes... Il existe autant de"
+       "t": "En d'autres termes... Il existe autant"
       },
       {
        "nl": true
+      },
+      {
+       "t": "de "
       },
       {
        "enc": "moi"
@@ -707,7 +731,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En d'autres termes... Il existe autant de\n[1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014] que de personnes dans le monde.",
+   "brut_fr": "En d'autres termes... Il existe autant\nde [1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014] que de personnes dans le monde.",
    "brut_en": "In[SP]other[SP]words...[SP]You[SP]could[SP]say[SP]that[SP]there[SP]are\nas[SP]many[SP][1432][NULL][NULL][0014]me[1432][NULL][NULL][0014]s[SP]as[SP]there[SP]are[SP]people[SP]in[SP]the[SP]world.",
    "data_size": 222,
    "budget": 214
@@ -727,13 +751,13 @@
        "enc": "moi"
       },
       {
-       "t": " s'est manifesté par"
+       "t": " s'est manifesté par les"
       },
       {
        "nl": true
       },
       {
-       "t": "les rumeurs..."
+       "t": "rumeurs..."
       },
       {
        "pause": true
@@ -774,7 +798,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et l'un de ces [1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014] s'est manifesté par\nles rumeurs...[1205][001E] Quel cruel sens de l'ironie.",
+   "brut_fr": "Et l'un de ces [1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014] s'est manifesté par les\nrumeurs...[1205][001E] Quel cruel sens de l'ironie.",
    "brut_en": "And[SP]one[SP]of[SP]these[SP][1432][NULL][NULL][0014]me[1432][NULL][NULL][0014]s[SP]manifested[SP]through\nrumors...[1205][001E][SP]Talk[SP]about[SP]a[SP]sick[SP]sense[SP]of[SP]irony.",
    "data_size": 208,
    "budget": 200
@@ -794,19 +818,19 @@
        "pause": true
       },
       {
-       "t": " Je voulais vous cacher"
+       "t": " Je voulais vous"
       },
       {
        "nl": true
       },
       {
-       "t": "qui était mon père... alors je vous"
+       "t": "cacher qui était mon père..."
       },
       {
        "nl": true
       },
       {
-       "t": "ai menti à tous..."
+       "t": "alors je vous ai menti à tous..."
       }
      ]
     }
@@ -835,7 +859,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est ma faute...[1205][001E] Je voulais vous cacher\nqui était mon père... alors je vous\nai menti à tous...",
+   "brut_fr": "C'est ma faute...[1205][001E] Je voulais vous\ncacher qui était mon père...\nalors je vous ai menti à tous...",
    "brut_en": "It's[SP]all[SP]my[SP]fault...[1205][001E][SP]I[SP]didn't[SP]want[SP]you[SP]to[SP]know[SP]who\nmy[SP]real[SP]father[SP]was...[SP]so[SP]I[SP]lied[SP]to[SP]you[SP]all...",
    "data_size": 216,
    "budget": 208
@@ -855,16 +879,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Quelqu'un nous observait depuis lors."
+       "t": " Quelqu'un nous"
       },
       {
        "nl": true
       },
       {
-       "t": "J'en suis certaine..."
+       "t": "observait depuis lors. J'en suis certaine..."
       }
      ]
     }
@@ -899,7 +920,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce n'est pas ta faute, Jun-kun.[1205][001E]\nQuelqu'un nous observait depuis lors.\nJ'en suis certaine...",
+   "brut_fr": "Ce n'est pas ta faute, Jun-kun.[1205][001E] Quelqu'un nous\nobservait depuis lors. J'en suis certaine...",
    "brut_en": "It's[SP]not[SP]your[SP]fault,[SP]Jun-kun.[1205][001E][SP]Someone's[SP]been\nwatching[SP]us[SP]all[SP]this[SP]time,[SP]ever[SP]since[SP]then.\nI'm[SP]sure[SP]of[SP]it[SP]now...",
    "data_size": 246,
    "budget": 238
@@ -913,13 +934,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une présence immense,"
+       "t": "Une présence immense, chargée"
       },
       {
        "nl": true
       },
       {
-       "t": "chargée de malice et de fausseté..."
+       "t": "de malice et de fausseté..."
       }
      ]
     }
@@ -942,7 +963,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une présence immense,\nchargée de malice et de fausseté...",
+   "brut_fr": "Une présence immense, chargée\nde malice et de fausseté...",
    "brut_en": "It's[SP]a[SP]tremendous[SP]presence,[SP]filled[SP]with\nmalice[SP]and[SP]insincerity...",
    "data_size": 152,
    "budget": 144
@@ -962,22 +983,19 @@
        "pause": true
       },
       {
-       "t": " L'ennemi"
+       "t": " L'ennemi qui fait"
       },
       {
        "nl": true
       },
       {
-       "t": "qui fait les rumeurs réelles?"
+       "t": "les rumeurs réelles?"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Mais pourquoi...?"
+       "t": " Mais pourquoi...?"
       }
      ]
     }
@@ -1015,7 +1033,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quoi que ce soit...[1205][001E] L'ennemi\nqui fait les rumeurs réelles?[1205][001E]\nMais pourquoi...?",
+   "brut_fr": "Quoi que ce soit...[1205][001E] L'ennemi qui fait\nles rumeurs réelles?[1205][001E] Mais pourquoi...?",
    "brut_en": "Whatever[SP]that[SP]is...[1205][001E][SP]Is[SP]it[SP]the[SP]real[SP]enemy\nwho's[SP]been[SP]making[SP]rumors[SP]come[SP]true?[1205][001E]\nBut[SP]why...?",
    "data_size": 212,
    "budget": 204
@@ -1041,10 +1059,13 @@
        "pause": true
       },
       {
+       "t": " Je"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Je l'entends rire et nous presser..."
+       "t": "l'entends rire et nous presser..."
       }
      ]
     }
@@ -1079,7 +1100,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mieux vaut lui demander en personne.\nNous devrions le rejoindre...[1205][001E]\nJe l'entends rire et nous presser...",
+   "brut_fr": "Mieux vaut lui demander en personne.\nNous devrions le rejoindre...[1205][001E] Je\nl'entends rire et nous presser...",
    "brut_en": "It'll[SP]be[SP]faster[SP]to[SP]ask[SP]him[SP]in[SP]person.\nWe[SP]should[SP]meet[SP]him[SP]soon...[1205][001E][SP]I[SP]can[SP]hear[SP]him\nlaughing...[SP]Telling[SP]us[SP]to[SP]hurry[SP]to[SP]him...",
    "data_size": 266,
    "budget": 258
@@ -1099,13 +1120,7 @@
        "pause": true
       },
       {
-       "t": " Philémon essayait"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de nous prévenir..."
+       "t": " Philémon essayait de nous prévenir..."
       }
      ]
     }
@@ -1134,7 +1149,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouais...[1205][001E] Philémon essayait\nde nous prévenir...",
+   "brut_fr": "Ouais...[1205][001E] Philémon essayait de nous prévenir...",
    "brut_en": "Yeah...[1205][001E][SP]Philemon[SP]was[SP]trying[SP]to[SP]tell[SP]us\nabout[SP]this...",
    "data_size": 132,
    "budget": 124
@@ -1200,13 +1215,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle aussi était liée"
+       "t": "Elle aussi était liée à ses émotions"
       },
       {
        "nl": true
       },
       {
-       "t": "à ses émotions passées..."
+       "t": "passées..."
       },
       {
        "pause": true
@@ -1241,7 +1256,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle aussi était liée\nà ses émotions passées...[1205][001E] Cette pauvre femme.",
+   "brut_fr": "Elle aussi était liée à ses émotions\npassées...[1205][001E] Cette pauvre femme.",
    "brut_en": "In[SP]the[SP]end,[SP]she[SP]was[SP]bound[SP]to[SP]her[SP]past\nemotions[SP]as[SP]well...[1205][001E][SP]The[SP]poor[SP]woman.",
    "data_size": 172,
    "budget": 164
@@ -1255,22 +1270,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les morts ne reviennent jamais, hein..."
+       "t": "Les morts ne reviennent jamais,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hein..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Mais si ça cause tant de mal"
+       "t": " Mais si ça cause tant de"
       },
       {
        "nl": true
       },
       {
-       "t": "à ceux laissés derrière..."
+       "t": "mal à ceux laissés derrière..."
       }
      ]
     }
@@ -1305,7 +1323,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les morts ne reviennent jamais, hein...[1205][001E]\nMais si ça cause tant de mal\nà ceux laissés derrière...",
+   "brut_fr": "Les morts ne reviennent jamais,\nhein...[1205][001E] Mais si ça cause tant de\nmal à ceux laissés derrière...",
    "brut_en": "The[SP]dead[SP]never[SP]come[SP]back,[SP]huh...[1205][001E][SP]But[SP]if[SP]that\ncauses[SP]those[SP]they[SP]leave[SP]behind[SP]to[SP]suffer\nso[SP]much...",
    "data_size": 218,
    "budget": 210
@@ -1444,25 +1462,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si la Grande Maya a raison, j'en ai assez"
+       "t": "Si la Grande Maya a raison, j'en"
       },
       {
        "nl": true
       },
       {
-       "t": "d'être manipulé comme ça."
+       "t": "ai assez d'être manipulé comme ça."
       },
       {
        "pause": true
       },
       {
-       "t": " Dépêchons-nous"
-      },
-      {
        "nl": true
       },
       {
-       "t": "d'y mettre fin..."
+       "t": "Dépêchons-nous d'y mettre fin..."
       }
      ]
     }
@@ -1497,7 +1512,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si la Grande Maya a raison, j'en ai assez\nd'être manipulé comme ça.[1205][001E] Dépêchons-nous\nd'y mettre fin...",
+   "brut_fr": "Si la Grande Maya a raison, j'en\nai assez d'être manipulé comme ça.[1205][001E]\nDépêchons-nous d'y mettre fin...",
    "brut_en": "If[SP]Big[SP]Maya[SP]is[SP]right,[SP]I'm[SP]sick[SP]of[SP]being\ntoyed[SP]with[SP]like[SP]this.[1205][001E][SP]Let's[SP]hurry[SP]up[SP]and\nput[SP]a[SP]stop[SP]to[SP]it...",
    "data_size": 232,
    "budget": 224
@@ -1517,13 +1532,13 @@
        "pause": true
       },
       {
-       "t": " n'avait rien"
+       "t": " n'avait rien d'autre que"
       },
       {
        "nl": true
       },
       {
-       "t": "d'autre que ses fantasmes, coupé de la réalité..."
+       "t": "ses fantasmes, coupé de la réalité..."
       }
      ]
     }
@@ -1552,7 +1567,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mon vrai père...[1205][001E] n'avait rien\nd'autre que ses fantasmes, coupé de la réalité...",
+   "brut_fr": "Mon vrai père...[1205][001E] n'avait rien d'autre que\nses fantasmes, coupé de la réalité...",
    "brut_en": "My[SP]real[SP]father...[1205][001E][SP]probably[SP]had[SP]nothing[SP]besides\nhis[SP]fantasies[SP]divorced[SP]from[SP]reality...",
    "data_size": 194,
    "budget": 186

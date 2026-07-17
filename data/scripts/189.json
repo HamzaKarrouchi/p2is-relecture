@@ -28,13 +28,7 @@
        "nl": true
       },
       {
-       "t": "longtemps, non ?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je suis crevée..."
+       "t": "longtemps, non? Je suis crevée..."
       }
      ]
     }
@@ -69,7 +63,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé,[1113]...[1205][001E] On marche depuis\nlongtemps, non ?\nJe suis crevée...",
+   "brut_fr": "Hé,[1113]...[1205][001E] On marche depuis\nlongtemps, non? Je suis crevée...",
    "brut_en": "Hey,[SP][1113]...[1205][001E][SP]Haven't[SP]we[SP]been[SP]walking[SP]for\na[SP]long[SP]time?[SP]I'm[SP]tired...",
    "data_size": 152,
    "budget": 144
@@ -83,13 +77,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Y a pas une source"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de soin quelque part !?"
+       "t": "Y a pas une source de soin quelque part!?"
       }
      ]
     }
@@ -106,7 +94,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Y a pas une source\nde soin quelque part !?",
+   "brut_fr": "Y a pas une source de soin quelque part!?",
    "brut_en": "Isn't[SP]there[SP]a[SP]healing[SP]spring[SP]around[SP]anywhere!?",
    "data_size": 114,
    "budget": 106
@@ -126,13 +114,13 @@
        "pause": true
       },
       {
-       "t": " On n'a pas vu Igor"
+       "t": " On n'a pas"
       },
       {
        "nl": true
       },
       {
-       "t": "depuis un moment."
+       "t": "vu Igor depuis un moment."
       }
      ]
     }
@@ -161,7 +149,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est vrai...[1205][001E] On n'a pas vu Igor\ndepuis un moment.",
+   "brut_fr": "C'est vrai...[1205][001E] On n'a pas\nvu Igor depuis un moment.",
    "brut_en": "You've[SP]got[SP]a[SP]point...[1205][001E][SP]We[SP]haven't[SP]seen[SP]Igor's\nface[SP]in[SP]a[SP]while,[SP]either.",
    "data_size": 170,
    "budget": 162
@@ -175,13 +163,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'aimerais changer"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "quelques Personae..."
+       "t": "J'aimerais changer quelques Personae..."
       }
      ]
     }
@@ -204,7 +186,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'aimerais changer\nquelques Personae...",
+   "brut_fr": "J'aimerais changer quelques Personae...",
    "brut_en": "I[SP]kinda[SP]wish[SP]we[SP]could[SP]have[SP]a[SP]chance[SP]to[SP]switch\nout[SP]some[SP]of[SP]our[SP]Personas...",
    "data_size": 172,
    "budget": 164
@@ -224,25 +206,19 @@
        "pause": true
       },
       {
-       "t": " Pas le temps de"
+       "t": " Pas le temps de retourner en"
       },
       {
        "nl": true
       },
       {
-       "t": "retourner en ville, "
+       "t": "ville, et même si on pouvait..."
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "et même si on pouvait..."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Tenez bon."
+       "t": " Tenez bon."
       }
      ]
     }
@@ -277,7 +253,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On est mal...[1205][001E] Pas le temps de\nretourner en ville, \net même si on pouvait...\nTenez bon.",
+   "brut_fr": "On est mal...[1205][001E] Pas le temps de retourner en\nville, et même si on pouvait...[1205][U+000F] Tenez bon.",
    "brut_en": "We're[SP]in[SP]a[SP]real[SP]fix...[1205][001E][SP]There's[SP]no[SP]time[SP]to[SP]go\nback[SP]to[SP]the[SP]city[SP]and[SP]no[SP]way[SP]to[SP]get[SP]there[SP]if\nwe[SP]could.[SP]Just[SP]hang[SP]in[SP]there,[SP]guys.",
    "data_size": 272,
    "budget": 264
@@ -291,19 +267,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Au moins, les gars du"
+       "t": "Au moins, les gars du Bataillon"
       },
       {
        "nl": true
       },
       {
-       "t": "Bataillon sont"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "bloqués aussi..."
+       "t": "sont bloqués aussi..."
       }
      ]
     }
@@ -326,7 +296,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Au moins, les gars du\nBataillon sont\nbloqués aussi...",
+   "brut_fr": "Au moins, les gars du Bataillon\nsont bloqués aussi...",
    "brut_en": "At[SP]least[SP]those[SP]Last[SP]Battalion[SP]guys[SP]can't\nget[SP]out[SP]either...",
    "data_size": 138,
    "budget": 130
@@ -340,13 +310,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ils sont fiers de leur"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "matos high-tech, non ?"
+       "t": "Ils sont fiers de leur matos high-tech, non?"
       },
       {
        "nl": true
@@ -355,10 +319,10 @@
        "t": "Ils ont peut-être un"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "moyen d'entrer et sortir."
+       "t": " moyen d'entrer et sortir."
       }
      ]
     }
@@ -387,7 +351,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils sont fiers de leur\nmatos high-tech, non ?\nIls ont peut-être un\nmoyen d'entrer et sortir.",
+   "brut_fr": "Ils sont fiers de leur matos high-tech, non?\nIls ont peut-être un[1205][U+000F] moyen d'entrer et sortir.",
    "brut_en": "They're[SP]proud[SP]of[SP]all[SP]their[SP]high-tech[SP]gizmos,\naren't[SP]they?[SP]I[SP]wonder[SP]if[SP]they[SP]brought[SP]anything\nthey[SP]can[SP]use[SP]to[SP]get[SP]in[SP]and[SP]out[SP]of[SP]here.",
    "data_size": 284,
    "budget": 276
@@ -401,13 +365,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Inutile d'espérer un"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "miracle..."
+       "t": "Inutile d'espérer un miracle..."
       },
       {
        "pause": true
@@ -436,7 +394,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Inutile d'espérer un\nmiracle...[1205][001E] Avançons.",
+   "brut_fr": "Inutile d'espérer un miracle...[1205][001E] Avançons.",
    "brut_en": "No[SP]use[SP]hoping[SP]for[SP]a[SP]miracle...[1205][001E][SP]Let's[SP]just[SP]go.",
    "data_size": 120,
    "budget": 112
@@ -456,13 +414,16 @@
        "pause": true
       },
       {
-       "t": " Cette porte dit"
+       "t": " Cette porte dit "
+      },
+      {
+       "enc": "Velvet"
       },
       {
        "nl": true
       },
       {
-       "enc": "Velvet Room"
+       "enc": "Room"
       },
       {
        "t": "..."
@@ -471,13 +432,13 @@
        "pause": true
       },
       {
-       "nl": true
+       "t": " Et l'autre,"
       },
       {
-       "t": "Et l'autre,"
+       "pause": true
       },
       {
-       "nl": true
+       "t": " "
       },
       {
        "enc": "Source de Trish"
@@ -524,7 +485,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Attends, regarde...[1205][001E] Cette porte dit\n[1432][NULL][NULL][0014]Velvet Room[1432][NULL][NULL][0014]...[1205][001E]\nEt l'autre,\n[1432][NULL][NULL][0014]Source de Trish[1432][NULL][NULL][0014].",
+   "brut_fr": "Attends, regarde...[1205][001E] Cette porte dit [1432][NULL][NULL][0014]Velvet\nRoom[1432][NULL][NULL][0014]...[1205][001E] Et l'autre,[1205][U+000F] [1432][NULL][NULL][0014]Source de Trish[1432][NULL][NULL][0014].",
    "brut_en": "Wait,[SP]look...[1205][001E][SP]This[SP]door[SP]says[SP][1432][NULL][NULL][0014]Velvet[SP]Room[1432][NULL][NULL][0014]...[1205][001E]\nAnd[SP]the[SP]one[SP]over[SP]here[SP]says[SP][1432][NULL][NULL][0014]Trish's[SP]Spring.[1432][NULL][NULL][0014]",
    "data_size": 230,
    "budget": 222
@@ -581,19 +542,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Yes ! Quelle chance !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "On y va, "
+       "t": "Yes! Quelle chance! On y va, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -616,7 +571,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Yes ! Quelle chance !\nOn y va, [1113] !",
+   "brut_fr": "Yes! Quelle chance! On y va, [1113]!",
    "brut_en": "Aiyah![SP]We're[SP]so[SP]lucky![SP]Let's[SP]go,[SP][1113]!",
    "data_size": 92,
    "budget": 84
@@ -630,19 +585,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ô déesse du destin,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "merci ! Merci !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "On fonce !"
+       "t": "Ô déesse du destin, merci! Merci! On fonce!"
       }
      ]
     }
@@ -665,7 +608,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ô déesse du destin,\nmerci ! Merci !\nOn fonce !",
+   "brut_fr": "Ô déesse du destin, merci! Merci! On fonce!",
    "brut_en": "Oh,[SP]goddess[SP]of[SP]destiny,[SP]thank[SP]you![SP]Thank[SP]you!\nLet's[SP]break[SP]on[SP]through!",
    "data_size": 164,
    "budget": 156
@@ -716,13 +659,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça sent le piège !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Vite, suivons-les !"
+       "t": "Ça sent le piège! Vite, suivons-les!"
       }
      ]
     }
@@ -745,7 +682,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça sent le piège !\nVite, suivons-les !",
+   "brut_fr": "Ça sent le piège! Vite, suivons-les!",
    "brut_en": "Oh[SP]man,[SP]this[SP]has[SP]to[SP]be[SP]some[SP]kind[SP]of[SP]trap!\nWe[SP]need[SP]to[SP]hurry[SP]after[SP]them!",
    "data_size": 158,
    "budget": 150
@@ -759,22 +696,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je vais voir Eikichi."
-      },
-      {
-       "nl": true
+       "t": "Je vais voir Eikichi. "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": ", toi et Jun,"
+       "t": ","
       },
       {
        "nl": true
       },
       {
-       "t": "suivez Lisa !"
+       "t": "toi et Jun, suivez Lisa!"
       }
      ]
     }
@@ -803,7 +737,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vais voir Eikichi.\n[1113], toi et Jun,\nsuivez Lisa !",
+   "brut_fr": "Je vais voir Eikichi. [1113],\ntoi et Jun, suivez Lisa!",
    "brut_en": "I'll[SP]go[SP]after[SP]Eikichi-kun.[SP][1113]-kun,\nyou[SP]and[SP]Jun-kun[SP]follow[SP]Lisa!",
    "data_size": 144,
    "budget": 136
@@ -817,19 +751,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Maya a raison."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Allons-y,"
+       "t": "Maya a raison. Allons-y,"
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -852,7 +780,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Maya a raison.\nAllons-y,[1113] !",
+   "brut_fr": "Maya a raison. Allons-y,[1113]!",
    "brut_en": "Big[SP]Maya's[SP]right,[SP]I[SP]think.[SP]Let's[SP]go,[SP][1113]!",
    "data_size": 96,
    "budget": 88

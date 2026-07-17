@@ -10,19 +10,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Wow ! Regardez cette foule..."
+       "t": "Wow! Regardez cette foule..."
       },
       {
        "pause": true
       },
       {
-       "t": " Les Muses"
+       "t": " Les"
       },
       {
        "nl": true
       },
       {
-       "t": "sont vraiment populaires."
+       "t": "Muses sont vraiment populaires."
       }
      ]
     }
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Wow ! Regardez cette foule...[1205][001E] Les Muses\nsont vraiment populaires.",
+   "brut_fr": "Wow! Regardez cette foule...[1205][001E] Les\nMuses sont vraiment populaires.",
    "brut_en": "Wow![SP]Look[SP]at[SP]this[SP]crowd...[1205][001E][SP]I'd[SP]say[SP]Muses'\nreputation[SP]precedes[SP]them.",
    "data_size": 160,
    "budget": 152
@@ -96,13 +96,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je veut être dans le clip !"
+       "t": "Je veut être dans le clip!"
       },
       {
        "nl": true
       },
       {
-       "t": "Regardez-moi danser !"
+       "t": "Regardez-moi danser!"
       }
      ]
     }
@@ -125,7 +125,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je veut être dans le clip !\nRegardez-moi danser !",
+   "brut_fr": "Je veut être dans le clip!\nRegardez-moi danser!",
    "brut_en": "Let[SP]me[SP]be[SP]an[SP]extra[SP]in[SP]the[SP]vid![SP]Look,[SP]I'm[SP]a\ngreat[SP]dancer!",
    "data_size": 148,
    "budget": 140
@@ -139,7 +139,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis bien meilleur que ce minable !"
+       "t": "Je suis bien meilleur que ce minable!"
       },
       {
        "nl": true
@@ -154,10 +154,10 @@
        "t": "je sais chanter"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "devant une foule !"
+       "t": " devant une foule!"
       }
      ]
     }
@@ -186,7 +186,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis bien meilleur que ce minable !\nJe chante à la gare tous les soirs.\nje sais chanter\ndevant une foule !",
+   "brut_fr": "Je suis bien meilleur que ce minable!\nJe chante à la gare tous les soirs.\nje sais chanter[1205][U+000F] devant une foule!",
    "brut_en": "I'm[SP]way[SP]better[SP]than[SP]that[SP]lameass![SP]I[SP]sing[SP]at\nthe[SP]train[SP]station[SP]every[SP]night,[SP]so[SP]I[SP]know[SP]I\ncan[SP]perform[SP]in[SP]front[SP]of[SP]a[SP]crowd!",
    "data_size": 282,
    "budget": 274
@@ -200,13 +200,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qui prendre ? On m'a dit de prendre quelqu'un "
+       "t": "Qui prendre? On m'a dit de"
       },
       {
        "nl": true
       },
       {
-       "t": "qui en jette..."
+       "t": "prendre quelqu'un qui en jette..."
       }
      ]
     }
@@ -229,7 +229,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qui prendre ? On m'a dit de prendre quelqu'un \nqui en jette...",
+   "brut_fr": "Qui prendre? On m'a dit de\nprendre quelqu'un qui en jette...",
    "brut_en": "Who[SP]should[SP]I[SP]pick...?[SP]They[SP]told[SP]me[SP]to[SP]bring\nsomeone[SP]that[SP]catches[SP]my[SP]eye...",
    "data_size": 166,
    "budget": 158
@@ -243,19 +243,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je n'arrive pas à croire que le réalisateur "
+       "t": "Je n'arrive pas à croire que le"
       },
       {
        "nl": true
       },
       {
-       "t": "me demande ça...Comment trouver des figurants"
+       "t": "réalisateur me demande ça... Comment"
       },
       {
        "nl": true
       },
       {
-       "t": "si-- ?"
+       "t": "trouver des "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " figurants si--?"
       }
      ]
     }
@@ -284,7 +290,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je n'arrive pas à croire que le réalisateur \nme demande ça...Comment trouver des figurants\nsi-- ?",
+   "brut_fr": "Je n'arrive pas à croire que le\nréalisateur me demande ça... Comment\ntrouver des [1205][U+000F] figurants si--?",
    "brut_en": "I[SP]can't[SP]believe[SP]the[SP]director's[SP]making[SP]me\ndo[SP]this...[SP]How[SP]am[SP]I[SP]supposed[SP]to[SP]find[SP]some\nextras[SP]on[SP]such[SP]short--",
    "data_size": 228,
    "budget": 220
@@ -298,7 +304,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Attendez !"
+       "t": "Attendez!"
       }
      ]
     }
@@ -315,7 +321,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Attendez !",
+   "brut_fr": "Attendez!",
    "brut_en": "Wait![SP]They'll[SP]do!",
    "data_size": 52,
    "budget": 44
@@ -329,19 +335,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "H-Hé, vous là ! On tourne"
+       "t": "H-Hé, vous là! On tourne un clip pour"
       },
       {
        "nl": true
       },
       {
-       "t": "un clip pour les Muses !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Vous voulez être figurants ?"
+       "t": "les Muses! Vous voulez être figurants?"
       }
      ]
     }
@@ -364,7 +364,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "H-Hé, vous là ! On tourne\nun clip pour les Muses !\nVous voulez être figurants ?",
+   "brut_fr": "H-Hé, vous là! On tourne un clip pour\nles Muses! Vous voulez être figurants?",
    "brut_en": "H-Hey,[SP]you[SP]guys![SP]We're[SP]filming[SP]a[SP]music[SP]video\nfor[SP]Muses[SP]right[SP]now![SP]Wanna[SP]be[SP]extras[SP]in[SP]it?",
    "data_size": 194,
    "budget": 186
@@ -378,19 +378,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Yes ! Enfin une chance de"
+       "t": "Yes! Enfin une chance de mettre"
       },
       {
        "nl": true
       },
       {
-       "t": "mettre le feu à cette ville!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Suivez moi !"
+       "t": "le feu à cette ville! Suivez moi!"
       }
      ]
     }
@@ -413,7 +407,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Yes ! Enfin une chance de\nmettre le feu à cette ville!\nSuivez moi !",
+   "brut_fr": "Yes! Enfin une chance de mettre\nle feu à cette ville! Suivez moi!",
    "brut_en": "Yeeeeeeeah![SP]Finally,[SP]my[SP]chance[SP]to[SP]really\nrock[SP]this[SP]casbah![SP]Everyone[SP]follow[SP]me!",
    "data_size": 182,
    "budget": 174
@@ -427,7 +421,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Idiot !"
+       "t": "Idiot!"
       }
      ]
     }
@@ -444,7 +438,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Idiot !",
+   "brut_fr": "Idiot!",
    "brut_en": "That[SP]idiot!",
    "data_size": 46,
    "budget": 38
@@ -458,19 +452,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bon, ça nous évite de devoir"
+       "t": "Bon, ça nous évite de devoir nous"
       },
       {
        "nl": true
       },
       {
-       "t": "nous faufiler."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Allez ! Prochaine arrêt : Muses !"
+       "t": "faufiler. Allez! Prochaine arrêt: Muses!"
       }
      ]
     }
@@ -493,7 +481,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon, ça nous évite de devoir\nnous faufiler.\nAllez ! Prochaine arrêt : Muses !",
+   "brut_fr": "Bon, ça nous évite de devoir nous\nfaufiler. Allez! Prochaine arrêt: Muses!",
    "brut_en": "Well,[SP]this[SP]does[SP]save[SP]us[SP]the[SP]trouble[SP]of\nsneaking[SP]in.[SP]C'mon,[SP]guys![SP]Next[SP]stop,[SP]Muses!",
    "data_size": 186,
    "budget": 178
@@ -507,13 +495,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bon... Qui ne tente rien n'a rien."
+       "t": "Bon... Qui ne tente rien n'a rien. Si"
       },
       {
        "nl": true
       },
       {
-       "t": "Si le Cercle Masqué cherche vraiment Lisa,"
+       "t": "le Cercle Masqué cherche vraiment Lisa,"
       },
       {
        "nl": true
@@ -548,7 +536,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon... Qui ne tente rien n'a rien.\nSi le Cercle Masqué cherche vraiment Lisa,\nnous devons savoir ce qu'ils préparent.",
+   "brut_fr": "Bon... Qui ne tente rien n'a rien. Si\nle Cercle Masqué cherche vraiment Lisa,\nnous devons savoir ce qu'ils préparent.",
    "brut_en": "Well...[SP]Nothing[SP]ventured,[SP]nothing[SP]gained.\nIf[SP]the[SP]Masked[SP]Circle[SP]really[SP]is[SP]after[SP]Lisa,\nwe[SP]need[SP]to[SP]know[SP]what[SP]they're[SP]up[SP]to.",
    "data_size": 260,
    "budget": 252
@@ -562,19 +550,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé, on y va vraiment ?"
+       "t": "Hé, on y va vraiment? Je sais ce que j'ai dit"
       },
       {
        "nl": true
       },
       {
-       "t": "Je sais ce que j'ai dit à l'agence, mais..."
+       "t": "à l'agence, mais..."
       },
       {
        "pause": true
       },
       {
-       "t": " On peut pas y aller après ?"
+       "t": " On peut pas y aller après?"
       }
      ]
     }
@@ -609,7 +597,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, on y va vraiment ?\nJe sais ce que j'ai dit à l'agence, mais...[1205][001E] On peut pas y aller après ?",
+   "brut_fr": "Hé, on y va vraiment? Je sais ce que j'ai dit\nà l'agence, mais...[1205][001E] On peut pas y aller après?",
    "brut_en": "Hey,[SP]are[SP]we[SP]really[SP]going?[SP]I[SP]know[SP]what[SP]I[SP]said\nat[SP]the[SP]detective[SP]agency,[SP]but...[1205][001E][SP]Can[SP]we[SP]not\ngo[SP]after[SP]all?",
    "data_size": 230,
    "budget": 222
@@ -623,16 +611,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est pas comme si je voulais faire du showbiz..."
-      },
-      {
-       "pause": true
+       "t": "C'est pas comme si je voulais faire"
       },
       {
        "nl": true
       },
       {
-       "t": "Et je n'ai pas vraiment envie de voir qui que ce soit."
+       "t": "du showbiz..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et je n'ai pas vraiment"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "envie de voir qui "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que ce soit."
       }
      ]
     }
@@ -664,7 +667,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pas comme si je voulais faire du showbiz...[1205][001E]\nEt je n'ai pas vraiment envie de voir qui que ce soit.",
+   "brut_fr": "C'est pas comme si je voulais faire\ndu showbiz...[1205][001E] Et je n'ai pas vraiment\nenvie de voir qui [1205][U+000F] que ce soit.",
    "brut_en": "It's[SP]not[SP]like[SP]I[SP]want[SP]to[SP]go[SP]into[SP]showbiz...[1205][001E]\nAnd[SP]I'm[SP]not[SP]in[SP]the[SP]mood[SP]to[SP]see[SP]either[SP]of\nthose[SP]two[SP]right[SP]now.",
    "data_size": 236,
    "budget": 228
@@ -678,13 +681,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un clip sans moi, c'est inutile !"
+       "t": "Un clip sans moi, c'est inutile! Mais si"
       },
       {
        "nl": true
       },
       {
-       "t": "Mais si jamais j'y étais, je volerais quand même la vedette au personnage principal."
+       "t": "jamais j'y étais, je volerais quand même"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la vedette au personnage "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " principal."
       }
      ]
     }
@@ -713,7 +728,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un clip sans moi, c'est inutile !\nMais si jamais j'y étais, je volerais quand même la vedette au personnage principal.",
+   "brut_fr": "Un clip sans moi, c'est inutile! Mais si\njamais j'y étais, je volerais quand même\nla vedette au personnage [1205][U+000F] principal.",
    "brut_en": "A[SP]music[SP]video[SP]without[SP]me[SP]in[SP]it[SP]is[SP]a[SP]waste[SP]of\ntime![SP]Though[SP]if[SP]I[SP]ever[SP]were[SP]in[SP]one,[SP]I'd[SP]just\nsteal[SP]the[SP]spotlight[SP]from[SP]the[SP]lead[SP]anyway.",
    "data_size": 288,
    "budget": 280
@@ -727,19 +742,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un tournage de clip ?"
+       "t": "Un tournage de clip? C'est un peu différent"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu différent de mes camera,"
+       "t": "de mes camera, mais j'ai de la chance de"
       },
       {
        "nl": true
       },
       {
-       "t": "mais j'ai de la chance de pouvoir observer des pros au travail."
+       "t": "pouvoir observer"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " des pros au travail."
       }
      ]
     }
@@ -768,7 +789,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un tournage de clip ?\nC'est un peu différent de mes camera,\nmais j'ai de la chance de pouvoir observer des pros au travail.",
+   "brut_fr": "Un tournage de clip? C'est un peu différent\nde mes camera, mais j'ai de la chance de\npouvoir observer[1205][U+000F] des pros au travail.",
    "brut_en": "A[SP]music[SP]video[SP]shoot,[SP]huh...?[SP]It's[SP]a[SP]little\ndifferent[SP]than[SP]my[SP]type[SP]of[SP]camera,[SP]but[SP]I'm\nlucky[SP]to[SP]be[SP]able[SP]to[SP]watch[SP]pros[SP]at[SP]work.",
    "data_size": 272,
    "budget": 264
@@ -782,19 +803,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le tournage se déroule au quatrième étage."
+       "t": "Le tournage se déroule au quatrième"
       },
       {
        "nl": true
       },
       {
-       "t": "Je dois rester ici et contenir la foule."
+       "t": "étage. Je dois rester ici et contenir"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous allez trouver le chemin ?"
+       "t": "la foule. Vous allez trouver le chemin?"
       }
      ]
     }
@@ -823,7 +844,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tournage se déroule au quatrième étage.\nJe dois rester ici et contenir la foule.\nVous allez trouver le chemin ?",
+   "brut_fr": "Le tournage se déroule au quatrième\nétage. Je dois rester ici et contenir\nla foule. Vous allez trouver le chemin?",
    "brut_en": "The[SP]shoot's[SP]being[SP]held[SP]on[SP]the[SP]fourth[SP]floor.\nI[SP]need[SP]to[SP]stay[SP]here[SP]and[SP]hold[SP]back[SP]this[SP]mob.\nAre[SP]you[SP]cool[SP]finding[SP]your[SP]own[SP]way?",
    "data_size": 262,
    "budget": 254
@@ -837,13 +858,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et moi ?!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je vous jure que je danse bien !"
+       "t": "Et moi?! Je vous jure que je danse bien!"
       }
      ]
     }
@@ -866,7 +881,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et moi ?!\nJe vous jure que je danse bien !",
+   "brut_fr": "Et moi?! Je vous jure que je danse bien!",
    "brut_en": "Why[SP]can't[SP]I[SP]be[SP]in[SP]it!?[SP]My[SP]dancing[SP]is[SP]hot,\nI[SP]tell[SP]you!",
    "data_size": 142,
    "budget": 134
@@ -880,13 +895,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mince ! Vous êtes vraiment chanceux !"
+       "t": "Mince! Vous êtes vraiment chanceux!"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous allez voir Muses de près !"
+       "t": "Vous allez voir Muses de près!"
       }
      ]
     }
@@ -909,7 +924,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mince ! Vous êtes vraiment chanceux !\nVous allez voir Muses de près !",
+   "brut_fr": "Mince! Vous êtes vraiment chanceux!\nVous allez voir Muses de près!",
    "brut_en": "Dammit![SP]You[SP]guys[SP]don't[SP]know[SP]how[SP]lucky[SP]you\nare![SP]You[SP]get[SP]to[SP]see[SP]Muses[SP]up[SP]close!",
    "data_size": 198,
    "budget": 190
@@ -929,7 +944,7 @@
        "nl": true
       },
       {
-       "t": "Ginji Sasaki qui les diriges ?"
+       "t": "Ginji Sasaki qui les diriges?"
       }
      ]
     }
@@ -952,7 +967,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Muses sont là. C'est\nGinji Sasaki qui les diriges ?",
+   "brut_fr": "Les Muses sont là. C'est\nGinji Sasaki qui les diriges?",
    "brut_en": "I[SP]heard[SP]Muses[SP]is[SP]here.[SP]Isn't[SP]Ginji[SP]Sasaki\nproducing[SP]them?",
    "data_size": 144,
    "budget": 136
@@ -966,13 +981,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Muses ?"
+       "t": "Muses? Je me demande si elles ont"
       },
       {
        "nl": true
       },
       {
-       "t": "Je me demande si elles ont amené leur troisième membre..."
+       "t": "amené leur troisième membre..."
       }
      ]
     }
@@ -995,7 +1010,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Muses ?\nJe me demande si elles ont amené leur troisième membre...",
+   "brut_fr": "Muses? Je me demande si elles ont\namené leur troisième membre...",
    "brut_en": "Muses[SP]is[SP]here?[SP]I[SP]wonder[SP]if[SP]they[SP]brought\ntheir[SP]third[SP]member[SP]along...",
    "data_size": 164,
    "budget": 156
@@ -1009,13 +1024,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Muses est là, non ?"
+       "t": "Muses est là, non? J'ai hâte"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai hâte de voir leur troisième membre."
+       "t": "de voir leur troisième membre."
       }
      ]
     }
@@ -1038,7 +1053,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Muses est là, non ?\nJ'ai hâte de voir leur troisième membre.",
+   "brut_fr": "Muses est là, non? J'ai hâte\nde voir leur troisième membre.",
    "brut_en": "Muses[SP]is[SP]here,[SP]right?[SP]I[SP]can't[SP]wait[SP]to[SP]get\na[SP]glimpse[SP]of[SP]their[SP]third[SP]member.",
    "data_size": 178,
    "budget": 170
@@ -1052,13 +1067,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Waouh, Muses est là ?"
+       "t": "Waouh, Muses est là? Ça veut"
       },
       {
        "nl": true
       },
       {
-       "t": "Ça veut dire que les trois sont là..."
+       "t": "dire que les trois sont là..."
       }
      ]
     }
@@ -1081,7 +1096,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Waouh, Muses est là ?\nÇa veut dire que les trois sont là...",
+   "brut_fr": "Waouh, Muses est là? Ça veut\ndire que les trois sont là...",
    "brut_en": "Wow,[SP]Muses[SP]is[SP]here?[SP]I[SP]wonder[SP]if[SP]that[SP]means\nall[SP]three[SP]of[SP]them...",
    "data_size": 156,
    "budget": 148
@@ -1095,13 +1110,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh, Muses est là ?"
+       "t": "Oh, Muses est là? La mystérieuse"
       },
       {
        "nl": true
       },
       {
-       "t": "La mystérieuse troisième membre est là aussi !"
+       "t": "troisième membre est là aussi!"
       }
      ]
     }
@@ -1124,7 +1139,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh, Muses est là ?\nLa mystérieuse troisième membre est là aussi !",
+   "brut_fr": "Oh, Muses est là? La mystérieuse\ntroisième membre est là aussi!",
    "brut_en": "Oooh,[SP]is[SP]Muses[SP]really[SP]here?[SP]I[SP]wonder[SP]if\nthe[SP]mystery[SP]third[SP]member[SP]is[SP]here[SP]too!",
    "data_size": 184,
    "budget": 176
@@ -1138,13 +1153,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est vrai que les Muses est là ?"
+       "t": "C'est vrai que les Muses est là?"
       },
       {
        "nl": true
       },
       {
-       "t": "Donc on va voir la troisième fille ?"
+       "t": "Donc on va voir la troisième fille?"
       }
      ]
     }
@@ -1167,7 +1182,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est vrai que les Muses est là ?\nDonc on va voir la troisième fille ?",
+   "brut_fr": "C'est vrai que les Muses est là?\nDonc on va voir la troisième fille?",
    "brut_en": "Is[SP]it[SP]true[SP]that[SP]Muses[SP]is[SP]here?[SP]So[SP]does\nthat[SP]mean[SP]we[SP]get[SP]to[SP]see[SP]the[SP]third[SP]girl?",
    "data_size": 186,
    "budget": 178
@@ -1181,13 +1196,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé ! Les Muses sont là ?"
+       "t": "Hé! Les Muses sont là? J'ai hâte de"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai hâte de voir qui est la troisième membre !"
+       "t": "voir qui est la troisième membre!"
       }
      ]
     }
@@ -1210,7 +1225,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé ! Les Muses sont là ?\nJ'ai hâte de voir qui est la troisième membre !",
+   "brut_fr": "Hé! Les Muses sont là? J'ai hâte de\nvoir qui est la troisième membre!",
    "brut_en": "Hey![SP]Is[SP]Muses[SP]seriously[SP]here?[SP]I[SP]can't[SP]wait\nto[SP]see[SP]who's[SP]their[SP]third[SP]member!",
    "data_size": 180,
    "budget": 172
@@ -1224,39 +1239,57 @@
      "nom": null,
      "seg": [
       {
-       "t": "Techniquement on est ouverts aujourd'hui,"
+       "t": "Techniquement on est ouverts aujourd'hui, mais"
       },
       {
        "nl": true
       },
       {
-       "t": "mais on est fermés pour un tournage de clip."
+       "t": "on est fermés pour un tournage de clip."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et"
       },
       {
        "nl": true
       },
       {
-       "t": "Et avec tous ces clients...> Machine n°1 de la rangée des bornes Wild 9."
+       "t": "avec tous ces clients...> Machine n°1 de la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rangée des bornes Wild 9. "
       }
      ]
     },
     {
-     "nom": "Manager",
+     "nom": "Manager[1205][U+000F] Oh désolé,",
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "monsieur! Vous ne pouvez pas jouer maintenant."
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "C'est un peu chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°2 de la rangée des bornes Wild 9."
+       "t": "n°2 de la rangée des bornes Wild 9."
       }
      ]
     }
@@ -1329,7 +1362,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Techniquement on est ouverts aujourd'hui,\nmais on est fermés pour un tournage de clip.\nEt avec tous ces clients...[E1][E2][E3]> Machine n°1 de la rangée des bornes Wild 9.[E1][E2]\n[E3][E4][NULL][NULL]\"Manager\nOh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°2 de la rangée des bornes Wild 9.",
+   "brut_fr": "Techniquement on est ouverts aujourd'hui, mais\non est fermés pour un tournage de clip.[1205][U+000F] Et\navec tous ces clients...[E1][E2][E3]> Machine n°1 de la\nrangée des bornes Wild 9.[E1][E2] [E3][E4][NULL][NULL]\"Manager[1205][U+000F] Oh désolé,\nmonsieur! Vous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°2 de la rangée des bornes Wild 9.",
    "brut_en": "We're[SP]technically[SP]open[SP]today,[SP]but[SP]we're\nshut[SP]down[SP]now[SP]because[SP]of[SP]some[SP]music[SP]video\nshoot.[SP]And[SP]with[SP]all[SP]these[SP]customers[SP]here...\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.[E1][E2]\n[E3][E4][NULL][NULL]\"Manager\nOh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
    "data_size": 716,
    "budget": 708
@@ -1343,25 +1376,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "pas jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°3 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine"
       },
       {
        "nl": true
       },
       {
-       "t": "des bornes Wild 9."
+       "t": "n°3 de la rangée des bornes Wild 9."
       }
      ]
     }
@@ -1402,7 +1441,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°3 de la rangée\ndes bornes Wild 9.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°3 de la rangée des bornes Wild 9.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
    "data_size": 328,
    "budget": 320
@@ -1416,25 +1455,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "pas jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°4 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine"
       },
       {
        "nl": true
       },
       {
-       "t": "des bornes Wild 9."
+       "t": "n°4 de la rangée des bornes Wild 9."
       }
      ]
     }
@@ -1475,7 +1520,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°4 de la rangée\ndes bornes Wild 9.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°4 de la rangée des bornes Wild 9.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
    "data_size": 328,
    "budget": 320
@@ -1489,25 +1534,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "pas jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°5 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine"
       },
       {
        "nl": true
       },
       {
-       "t": "des bornes Wild 9."
+       "t": "n°5 de la rangée des bornes Wild 9."
       }
      ]
     }
@@ -1548,7 +1599,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°5 de la rangée\ndes bornes Wild 9.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°5 de la rangée des bornes Wild 9.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
    "data_size": 328,
    "budget": 320
@@ -1562,25 +1613,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "pas jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°6 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine"
       },
       {
        "nl": true
       },
       {
-       "t": "des bornes Wild 9."
+       "t": "n°6 de la rangée des bornes Wild 9."
       }
      ]
     }
@@ -1621,7 +1678,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°6 de la rangée\ndes bornes Wild 9.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°6 de la rangée des bornes Wild 9.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
    "data_size": 328,
    "budget": 320
@@ -1635,25 +1692,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "pas jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°7 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine"
       },
       {
        "nl": true
       },
       {
-       "t": "des bornes Wild 9."
+       "t": "n°7 de la rangée des bornes Wild 9."
       }
      ]
     }
@@ -1694,7 +1757,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°7 de la rangée\ndes bornes Wild 9.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°7 de la rangée des bornes Wild 9.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
    "data_size": 328,
    "budget": 320
@@ -1708,25 +1771,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "pas jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°8 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine"
       },
       {
        "nl": true
       },
       {
-       "t": "des bornes Wild 9."
+       "t": "n°8 de la rangée des bornes Wild 9."
       }
      ]
     }
@@ -1767,7 +1836,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°8 de la rangée\ndes bornes Wild 9.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°8 de la rangée des bornes Wild 9.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
    "data_size": 328,
    "budget": 320
@@ -1781,25 +1850,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "pas jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°9 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine"
       },
       {
        "nl": true
       },
       {
-       "t": "des bornes Wild 9."
+       "t": "n°9 de la rangée des bornes Wild 9."
       }
      ]
     }
@@ -1840,7 +1915,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°9 de la rangée\ndes bornes Wild 9.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°9 de la rangée des bornes Wild 9.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#9[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
    "data_size": 328,
    "budget": 320
@@ -1854,25 +1929,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "pas jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°10 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine"
       },
       {
        "nl": true
       },
       {
-       "t": "des bornes Wild 9."
+       "t": "n°10 de la rangée des bornes Wild 9."
       }
      ]
     }
@@ -1913,7 +1994,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°10 de la rangée\ndes bornes Wild 9.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°10 de la rangée des bornes Wild 9.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#10[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
    "data_size": 330,
    "budget": 322
@@ -1927,25 +2008,34 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas jouer"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "maintenant. C'est un peu chaotique en ce"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine de blackjack"
+       "t": "moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine de blackjack "
+      },
+      {
+       "enc": "Unissons nos"
       },
       {
        "nl": true
       },
       {
-       "enc": "Unissons nos Forces"
+       "enc": "Forces"
       },
       {
        "t": "."
@@ -1989,7 +2079,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine de blackjack\n[1432][NULL][NULL][0014]Unissons nos Forces[1432][NULL][NULL][0014].",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.[E1][E2][E3]> [1205][U+000F] Machine de blackjack [1432][NULL][NULL][0014]Unissons nos\nForces[1432][NULL][NULL][0014].",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Join[SP]Forces[1432][NULL][NULL][0014][SP]blackjack[SP]machine.",
    "data_size": 328,
    "budget": 320
@@ -2003,25 +2093,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°1 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine n°1"
       },
       {
        "nl": true
       },
       {
-       "t": "des machines Arouse Blank."
+       "t": "de la rangée des machines Arouse Blank."
       }
      ]
     }
@@ -2062,7 +2158,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°1 de la rangée\ndes machines Arouse Blank.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°1\nde la rangée des machines Arouse Blank.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
    "data_size": 350,
    "budget": 342
@@ -2076,25 +2172,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°2 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine n°2"
       },
       {
        "nl": true
       },
       {
-       "t": "des machines Arouse Blank."
+       "t": "de la rangée des machines Arouse Blank."
       }
      ]
     }
@@ -2135,7 +2237,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°2 de la rangée\ndes machines Arouse Blank.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°2\nde la rangée des machines Arouse Blank.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
    "data_size": 350,
    "budget": 342
@@ -2149,25 +2251,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°3 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine n°3"
       },
       {
        "nl": true
       },
       {
-       "t": "des machines Arouse Blank."
+       "t": "de la rangée des machines Arouse Blank."
       }
      ]
     }
@@ -2208,7 +2316,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°3 de la rangée\ndes machines Arouse Blank.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°3\nde la rangée des machines Arouse Blank.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
    "data_size": 350,
    "budget": 342
@@ -2222,25 +2330,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°4 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine n°4"
       },
       {
        "nl": true
       },
       {
-       "t": "des machines Arouse Blank."
+       "t": "de la rangée des machines Arouse Blank."
       }
      ]
     }
@@ -2281,7 +2395,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°4 de la rangée\ndes machines Arouse Blank.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°4\nde la rangée des machines Arouse Blank.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
    "data_size": 350,
    "budget": 342
@@ -2295,25 +2409,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°5 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine n°5"
       },
       {
        "nl": true
       },
       {
-       "t": "des machines Arouse Blank."
+       "t": "de la rangée des machines Arouse Blank."
       }
      ]
     }
@@ -2354,7 +2474,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°5 de la rangée\ndes machines Arouse Blank.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°5\nde la rangée des machines Arouse Blank.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
    "data_size": 350,
    "budget": 342
@@ -2368,25 +2488,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°6 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine n°6"
       },
       {
        "nl": true
       },
       {
-       "t": "des machines Arouse Blank."
+       "t": "de la rangée des machines Arouse Blank."
       }
      ]
     }
@@ -2427,7 +2553,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°6 de la rangée\ndes machines Arouse Blank.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°6\nde la rangée des machines Arouse Blank.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
    "data_size": 350,
    "budget": 342
@@ -2441,25 +2567,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°7 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine n°7"
       },
       {
        "nl": true
       },
       {
-       "t": "des machines Arouse Blank."
+       "t": "de la rangée des machines Arouse Blank."
       }
      ]
     }
@@ -2500,7 +2632,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°7 de la rangée\ndes machines Arouse Blank.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°7\nde la rangée des machines Arouse Blank.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
    "data_size": 350,
    "budget": 342
@@ -2514,25 +2646,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "jouer maintenant. C'est un peu"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Machine n°8 de la rangée"
+       "t": "chaotique en ce moment.> "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Machine n°8"
       },
       {
        "nl": true
       },
       {
-       "t": "des machines Arouse Blank."
+       "t": "de la rangée des machines Arouse Blank."
       }
      ]
     }
@@ -2573,7 +2711,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Machine n°8 de la rangée\ndes machines Arouse Blank.",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°8\nde la rangée des machines Arouse Blank.",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
    "data_size": 350,
    "budget": 342
@@ -2587,22 +2725,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh désolé, monsieur !"
+       "t": "Oh désolé, monsieur! Vous ne pouvez pas"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne pouvez pas jouer maintenant."
+       "t": "jouer maintenant. C'est un peu chaotique en"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est un peu chaotique en ce moment.> Jeu de bingo"
+       "t": "ce moment.> Jeu "
       },
       {
-       "nl": true
+       "pause": true
+      },
+      {
+       "t": " de bingo "
       },
       {
        "enc": "Fortune's Reel"
@@ -2649,7 +2790,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh désolé, monsieur !\nVous ne pouvez pas jouer maintenant.\nC'est un peu chaotique en ce moment.[E1][E2][E3]> Jeu de bingo\n[1432][NULL][NULL][0014]Fortune's Reel[1432][NULL][NULL][0014].",
+   "brut_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu chaotique en\nce moment.[E1][E2][E3]> Jeu [1205][U+000F] de bingo [1432][NULL][NULL][0014]Fortune's Reel[1432][NULL][NULL][0014].",
    "brut_en": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Fortune's[SP]Reel[1432][NULL][NULL][0014][SP]bingo[SP]game.",
    "data_size": 320,
    "budget": 312

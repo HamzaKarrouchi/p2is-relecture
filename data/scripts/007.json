@@ -10,13 +10,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pourquoi tout ce foin"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pour une simple horloge?"
+       "t": "Pourquoi tout ce foin pour une simple horloge?"
       }
      ]
     }
@@ -39,7 +33,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pourquoi tout ce foin\npour une simple horloge?",
+   "brut_fr": "Pourquoi tout ce foin pour une simple horloge?",
    "brut_en": "What's[SP]the[SP]matter?[SP]Why[SP]all[SP]this[SP]fuss[SP]over\na[SP]clock[SP]starting?",
    "data_size": 144,
    "budget": 136
@@ -53,25 +47,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Y'a des tonnes de rumeurs flippantes"
+       "t": "Y'a des tonnes de rumeurs flippantes sur"
       },
       {
        "nl": true
       },
       {
-       "t": "sur cette tour! Des fantômes"
+       "t": "cette tour! Des fantômes et d'autres"
       },
       {
        "nl": true
       },
       {
-       "t": "et d'autres trucs quand"
+       "t": "trucs quand"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "l'horloge redémarre."
+       "t": " l'horloge redémarre."
       }
      ]
     }
@@ -100,7 +94,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Y'a des tonnes de rumeurs flippantes\nsur cette tour! Des fantômes\net d'autres trucs quand\nl'horloge redémarre.",
+   "brut_fr": "Y'a des tonnes de rumeurs flippantes sur\ncette tour! Des fantômes et d'autres\ntrucs quand[1205][U+000F] l'horloge redémarre.",
    "brut_en": "There's[SP]tons[SP]of[SP]scary[SP]rumors[SP]about[SP]this\ntower![SP]Like,[SP]ghosts[SP]appearing[SP]and[SP]other\nbad[SP]stuff[SP]when[SP]the[SP]clock[SP]starts[SP]again.",
    "data_size": 256,
    "budget": 248
@@ -114,13 +108,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh non... Mauvais présage..."
+       "t": "Oh non... Mauvais présage... Namu"
       },
       {
        "nl": true
       },
       {
-       "t": "Namu Amida Butsu, Namu Amida Butsu..."
+       "t": "Amida Butsu, Namu Amida Butsu..."
       }
      ]
     }
@@ -143,7 +137,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh non... Mauvais présage...\nNamu Amida Butsu, Namu Amida Butsu...",
+   "brut_fr": "Oh non... Mauvais présage... Namu\nAmida Butsu, Namu Amida Butsu...",
    "brut_en": "Oh[SP]no...[SP]What[SP]a[SP]terrible[SP]omen...\nNamu[SP]Amida[SP]Butsu,[SP]Namu[SP]Amida[SP]Butsu...",
    "data_size": 166,
    "budget": 158
@@ -157,19 +151,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Du calme, pépé ! Y'a pas de quoi"
+       "t": "Du calme, pépé! Y'a pas de quoi"
       },
       {
        "nl": true
       },
       {
-       "t": "avoir peur. Tant que je suis dans le"
+       "t": "avoir peur. Tant que je suis dans"
       },
       {
        "nl": true
       },
       {
-       "t": "coin, t'as pas à t'en faire !"
+       "t": "le coin, t'as pas à t'en faire!"
       }
      ]
     }
@@ -198,7 +192,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Du calme, pépé ! Y'a pas de quoi\navoir peur. Tant que je suis dans le\ncoin, t'as pas à t'en faire !",
+   "brut_fr": "Du calme, pépé! Y'a pas de quoi\navoir peur. Tant que je suis dans\nle coin, t'as pas à t'en faire!",
    "brut_en": "Take[SP]it[SP]easy,[SP]gramps![SP]There's[SP]no[SP]need[SP]to\nbe[SP]scared.[SP]Long[SP]as[SP]I'm[SP]around,[SP]you[SP]got\nnothing[SP]to[SP]worry[SP]about!",
    "data_size": 232,
    "budget": 224
@@ -212,13 +206,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Non! Un malheur va arriver!"
+       "t": "Non! Un malheur va arriver! Avant"
       },
       {
        "nl": true
       },
       {
-       "t": "Avant sa mort, le prof a dit: "
+       "t": "sa mort, le prof a dit: "
       },
       {
        "enc": "Le monde"
@@ -259,7 +253,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non! Un malheur va arriver!\nAvant sa mort, le prof a dit: [1432][NULL][NULL][0014]Le monde\nfinira si on n'arrête pas le temps.[1432][NULL][NULL][0014]",
+   "brut_fr": "Non! Un malheur va arriver! Avant\nsa mort, le prof a dit: [1432][NULL][NULL][0014]Le monde\nfinira si on n'arrête pas le temps.[1432][NULL][NULL][0014]",
    "brut_en": "No![SP]Something[SP]awful[SP]will[SP]happen![SP]Before\nhe[SP]died,[SP]that[SP]teacher[SP]said,[SP][1432][NULL][NULL][0014]The[SP]world\nwill[SP]end[SP]if[SP]time[SP]is[SP]not[SP]stopped.[1432][NULL][NULL][0014]",
    "data_size": 262,
    "budget": 254
@@ -285,7 +279,7 @@
        "nl": true
       },
       {
-       "t": "dans la tour de l'horloge ?"
+       "t": "dans la tour de l'horloge?"
       }
      ]
     }
@@ -314,7 +308,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous parlez de...[1205][0014] ce prof mort\ndans la tour de l'horloge ?",
+   "brut_fr": "Vous parlez de...[1205][0014] ce prof mort\ndans la tour de l'horloge?",
    "brut_en": "Are[SP]you[SP]talking[SP]about...[1205][0014][SP]that[SP]teacher[SP]who\ndied[SP]in[SP]the[SP]clock[SP]tower?",
    "data_size": 156,
    "budget": 148
@@ -334,13 +328,13 @@
        "nl": true
       },
       {
-       "t": "sa vie pour sauver les enfants"
+       "t": "sa vie pour sauver les enfants et"
       },
       {
        "nl": true
       },
       {
-       "t": "et assurer la paix mondiale!"
+       "t": "assurer la paix mondiale!"
       }
      ]
     }
@@ -369,7 +363,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oui, c'est ça... Ce prof a sacrifié\nsa vie pour sauver les enfants\net assurer la paix mondiale!",
+   "brut_fr": "Oui, c'est ça... Ce prof a sacrifié\nsa vie pour sauver les enfants et\nassurer la paix mondiale!",
    "brut_en": "Yes,[SP]that's[SP]right...[SP]That[SP]teacher[SP]nobly\nsacrificed[SP]his[SP]life[SP]to[SP]save[SP]the[SP]children\nand[SP]ensure[SP]world[SP]peace!",
    "data_size": 234,
    "budget": 226
@@ -386,13 +380,13 @@
        "t": "Non... Impossible! "
       },
       {
-       "enc": "Les sept Pléiades"
+       "enc": "Les sept Pléiades ont"
       },
       {
        "nl": true
       },
       {
-       "enc": "ont libéré le temps figé"
+       "enc": "libéré le temps figé"
       },
       {
        "t": "..."
@@ -401,31 +395,16 @@
        "pause": true
       },
       {
-       "t": " Ça a"
+       "t": " Ça a commencé!?"
       },
       {
-       "nl": true
-      },
-      {
-       "t": "commencé!?"
+       "pause": true
       }
      ]
     },
     {
-     "nom": "Mme Ideal",
+     "nom": "Mme Ideal *halète*[1205][0014] La Pierre Narurato!",
      "seg": [
-      {
-       "t": "*halète*"
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " La Pierre Narurato!"
-      },
-      {
-       "nl": true
-      },
       {
        "t": "Et la Pierre Narurato!?"
       }
@@ -482,7 +461,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non... Impossible! [1432][NULL][NULL][0014]Les sept Pléiades\nont libéré le temps figé[1432][NULL][NULL][0014]...[1205][001E] Ça a\ncommencé!?[E1][E2]\n[E3][E4][NULL][NULL]\"Mme Ideal\n*halète*[1205][0014] La Pierre Narurato!\nEt la Pierre Narurato!?",
+   "brut_fr": "Non... Impossible! [1432][NULL][NULL][0014]Les sept Pléiades ont\nlibéré le temps figé[1432][NULL][NULL][0014]...[1205][001E] Ça a commencé!?[E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Mme Ideal *halète*[1205][0014] La Pierre Narurato!\nEt la Pierre Narurato!?",
    "brut_en": "No...[SP]This[SP]can't[SP]be![SP][1432][NULL][NULL][0014]The[SP]seven[SP]Pleiades[SP]set\nthe[SP]frozen[SP]time[SP]free[1432][NULL][NULL][0014]...[1205][001E][SP]Has[SP]it[SP]begun!?[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\n*gasp*[1205][0014][SP]The[SP]Narurato[SP]Stone![SP]What[SP]about\nthe[SP]Narurato[SP]Stone!?",
    "data_size": 370,
    "budget": 362
@@ -582,19 +561,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On peut stopper la malédiction"
+       "t": "On peut stopper la malédiction en"
       },
       {
        "nl": true
       },
       {
-       "t": "en retirant les emblèmes de"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "nos uniformes!?"
+       "t": "retirant les emblèmes de nos uniformes!?"
       }
      ]
     }
@@ -617,7 +590,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On peut stopper la malédiction\nen retirant les emblèmes de\nnos uniformes!?",
+   "brut_fr": "On peut stopper la malédiction en\nretirant les emblèmes de nos uniformes!?",
    "brut_en": "Can[SP]we[SP]really[SP]prevent[SP]the[SP]curse[SP]by\ntaking[SP]the[SP]emblems[SP]off[SP]our[SP]uniforms!?",
    "data_size": 184,
    "budget": 176
@@ -631,7 +604,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Iiiiik !"
+       "t": "Iiiiik!"
       }
      ]
     }
@@ -648,7 +621,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Iiiiik !",
+   "brut_fr": "Iiiiik!",
    "brut_en": "Eeeek!",
    "data_size": 54,
    "budget": 46
@@ -761,13 +734,13 @@
        "nl": true
       },
       {
-       "t": "Enlever les emblèmes de nos uniformes"
+       "t": "Enlever les emblèmes de nos"
       },
       {
        "nl": true
       },
       {
-       "t": "n'est donc pas suffisant!?"
+       "t": "uniformes n'est donc pas suffisant!?"
       }
      ]
     }
@@ -796,7 +769,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quoi!? Qu'est-ce qui se passe!?\nEnlever les emblèmes de nos uniformes\nn'est donc pas suffisant!?",
+   "brut_fr": "Quoi!? Qu'est-ce qui se passe!?\nEnlever les emblèmes de nos\nuniformes n'est donc pas suffisant!?",
    "brut_en": "Kehhei!?[SP]What's[SP]going[SP]on!?[SP]Does[SP]this[SP]mean\nit[SP]isn't[SP]enough[SP]to[SP]take[SP]the[SP]emblems[SP]off\nour[SP]uniforms!?",
    "data_size": 214,
    "budget": 206

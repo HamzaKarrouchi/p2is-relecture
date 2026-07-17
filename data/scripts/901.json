@@ -22,7 +22,7 @@
        "nl": true
       },
       {
-       "t": "de tes ennemis avec ma lame !"
+       "t": "de tes ennemis avec ma lame!"
       }
      ]
     }
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis Rhadamanthus... le juge\ndes enfers. Je romprais les péchés\nde tes ennemis avec ma lame !",
+   "brut_fr": "Je suis Rhadamanthus... le juge\ndes enfers. Je romprais les péchés\nde tes ennemis avec ma lame!",
    "brut_en": "I am Rhadamanthus... the judge of the\nnetherworld. I shall sever your foes' sins\nwith my blade of judgement!",
    "data_size": 326,
    "budget": 318
@@ -71,13 +71,13 @@
        "nl": true
       },
       {
-       "t": "allument les flammes de l'amour... Je"
+       "t": "allument les flammes de l'amour..."
       },
       {
        "nl": true
       },
       {
-       "t": "serais ta force, mon autre moi..."
+       "t": "Je serais ta force, mon autre moi..."
       }
      ]
     }
@@ -106,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis Eros... Mes flèches dorées\nallument les flammes de l'amour... Je\nserais ta force, mon autre moi...",
+   "brut_fr": "Je suis Eros... Mes flèches dorées\nallument les flammes de l'amour...\nJe serais ta force, mon autre moi...",
    "brut_en": "I am Eros... My golden arrows kindle\nlove's flames... I shall be your strength,\nmy other self...",
    "data_size": 320,
    "budget": 312
@@ -132,7 +132,13 @@
        "nl": true
       },
       {
-       "t": "Pas des Personae, mais de vrais démons! Lisa C-C'est quoi ces machins...!?"
+       "t": "Pas des Personae, mais de vrais démons!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Lisa C-C'est quoi ces machins...!?"
       }
      ]
     }
@@ -167,7 +173,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Comme cadeau d'adieu, Je vais te\nmontrer quelque chose d'intéréssant...\nPas des Personae, mais de vrais démons! Lisa C-C'est quoi ces machins...!?",
+   "brut_fr": "Comme cadeau d'adieu, Je vais te\nmontrer quelque chose d'intéréssant...\nPas des Personae, mais de vrais démons!\nLisa C-C'est quoi ces machins...!?",
    "brut_en": "As a parting gift, I'll show you something\ninteresting... Not Personas, but true demons!\nLisa\nWh-What are those things...!?",
    "data_size": 284,
    "budget": 276
@@ -181,13 +187,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Faites attention! Vous devez rester"
+       "t": "Faites attention! Vous devez"
       },
       {
        "nl": true
       },
       {
-       "t": "derrière, les filles!"
+       "t": "rester derrière, les filles!"
       }
      ]
     }
@@ -204,7 +210,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Faites attention! Vous devez rester\nderrière, les filles!",
+   "brut_fr": "Faites attention! Vous devez\nrester derrière, les filles!",
    "brut_en": "Look out! You gotta stay back, ladies!",
    "data_size": 102,
    "budget": 94
@@ -249,13 +255,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je vous tuerais tous avec ma"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Deathbringer!"
+       "t": "Je vous tuerais tous avec ma Deathbringer!"
       }
      ]
     }
@@ -272,7 +272,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vous tuerais tous avec ma\nDeathbringer!",
+   "brut_fr": "Je vous tuerais tous avec ma Deathbringer!",
    "brut_en": "I'll kill you all with my Deathbringer!",
    "data_size": 106,
    "budget": 98
@@ -286,19 +286,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lisa, tu es la seule qui n'est pas"
+       "t": "Lisa, tu es la seule qui n'est pas tombée"
       },
       {
        "nl": true
       },
       {
-       "t": "tombée sous mon charme... Très bien,"
+       "t": "sous mon charme... Très bien, alors. Ça ne me"
       },
       {
        "nl": true
       },
       {
-       "t": "alors. Ça ne me dérange pas d'user de la force si nécessaire."
+       "t": "dérange pas d'user de la force si nécessaire."
       }
      ]
     }
@@ -327,7 +327,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lisa, tu es la seule qui n'est pas\ntombée sous mon charme... Très bien,\nalors. Ça ne me dérange pas d'user de la force si nécessaire.",
+   "brut_fr": "Lisa, tu es la seule qui n'est pas tombée\nsous mon charme... Très bien, alors. Ça ne me\ndérange pas d'user de la force si nécessaire.",
    "brut_en": "Lisa, you're the only woman who didn't\nfall for me... All right, then. I don't mind\nusing force where appropriate.",
    "data_size": 272,
    "budget": 264
@@ -341,13 +341,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Comment osez-vous lui faire ça..."
+       "t": "Comment osez-vous lui faire"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous allez le payer!"
+       "t": "ça... Vous allez le payer!"
       }
      ]
     }
@@ -370,7 +370,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Comment osez-vous lui faire ça...\nVous allez le payer!",
+   "brut_fr": "Comment osez-vous lui faire\nça... Vous allez le payer!",
    "brut_en": "How dare you do this to her...\nYou're gonna pay!",
    "data_size": 124,
    "budget": 116
@@ -415,13 +415,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je pense que quelqu'un a besoin d'une"
+       "t": "Je pense que quelqu'un a"
       },
       {
        "nl": true
       },
       {
-       "t": "bonne raclée..."
+       "t": "besoin d'une bonne raclée..."
       }
      ]
     }
@@ -438,7 +438,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je pense que quelqu'un a besoin d'une\nbonne raclée...",
+   "brut_fr": "Je pense que quelqu'un a\nbesoin d'une bonne raclée...",
    "brut_en": "I think someone needs a good spanking...",
    "data_size": 104,
    "budget": 96
@@ -452,19 +452,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hyaaahaha! Silence, sorcière! Je vous"
+       "t": "Hyaaahaha! Silence, sorcière! Je vous tuerais!"
       },
       {
        "nl": true
       },
       {
-       "t": "tuerais! Je vous réduirais en cendres!"
+       "t": "Je vous réduirais en cendres! Cette"
       },
       {
        "nl": true
       },
       {
-       "t": "Cette douloureuse brûlure alimente ma rage envers vous!"
+       "t": "douloureuse brûlure alimente ma rage envers"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vous!"
       }
      ]
     }
@@ -493,7 +499,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hyaaahaha! Silence, sorcière! Je vous\ntuerais! Je vous réduirais en cendres!\nCette douloureuse brûlure alimente ma rage envers vous!",
+   "brut_fr": "Hyaaahaha! Silence, sorcière! Je vous tuerais!\nJe vous réduirais en cendres! Cette\ndouloureuse brûlure alimente ma rage envers\nvous!",
    "brut_en": "Hyaaahaha! Silence, witch! I'll kill you!\nI'll burn you all to ashes! This painful burn\nfuels my rage against you!",
    "data_size": 272,
    "budget": 264
@@ -611,13 +617,19 @@
        "nl": true
       },
       {
-       "t": "prévu, mais j'ai juste à tuer tout"
+       "t": "prévu, mais j'ai juste à tuer tout ceux"
       },
       {
        "nl": true
       },
       {
-       "t": "ceux avec toi, Maya Amano. C'est quand même dommage de gâcher la vie de ce garçon..."
+       "t": "avec toi, Maya Amano. C'est quand même"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dommage de gâcher la vie de ce garçon..."
       }
      ]
     }
@@ -646,7 +658,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les choses ne se passent pas comme\nprévu, mais j'ai juste à tuer tout\nceux avec toi, Maya Amano. C'est quand même dommage de gâcher la vie de ce garçon...",
+   "brut_fr": "Les choses ne se passent pas comme\nprévu, mais j'ai juste à tuer tout ceux\navec toi, Maya Amano. C'est quand même\ndommage de gâcher la vie de ce garçon...",
    "brut_en": "Things aren't going to plan, but all I have to\ndo is kill everyone along with you, Maya Amano.\nShame to waste the boy's life, though...",
    "data_size": 310,
    "budget": 302
@@ -660,13 +672,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce n'est pas possible... Tu voulais"
+       "t": "Ce n'est pas possible... Tu"
       },
       {
        "nl": true
       },
       {
-       "t": "tellement mourir..."
+       "t": "voulais tellement mourir..."
       }
      ]
     }
@@ -683,7 +695,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce n'est pas possible... Tu voulais\ntellement mourir...",
+   "brut_fr": "Ce n'est pas possible... Tu\nvoulais tellement mourir...",
    "brut_en": "This can't be... You were so eager to die...",
    "data_size": 126,
    "budget": 118
@@ -740,13 +752,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Comment ces gars savent-ils pour"
+       "t": "Comment ces gars savent-ils"
       },
       {
        "nl": true
       },
       {
-       "t": "Fujii-san...!?"
+       "t": "pour Fujii-san...!?"
       }
      ]
     }
@@ -763,7 +775,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Comment ces gars savent-ils pour\nFujii-san...!?",
+   "brut_fr": "Comment ces gars savent-ils\npour Fujii-san...!?",
    "brut_en": "How do these guys know about Fujii-san...!?",
    "data_size": 112,
    "budget": 104
@@ -777,13 +789,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Yukino... Devrions nous détruire nos"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "jouets?"
+       "t": "Yukino... Devrions nous détruire nos jouets?"
       }
      ]
     }
@@ -800,7 +806,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Yukino... Devrions nous détruire nos\njouets?",
+   "brut_fr": "Yukino... Devrions nous détruire nos jouets?",
    "brut_en": "Yukino... Should we break our toys?",
    "data_size": 110,
    "budget": 102
@@ -820,13 +826,13 @@
        "nl": true
       },
       {
-       "t": "Expérimente par toi-même la douleur et"
+       "t": "Expérimente par toi-même la douleur"
       },
       {
        "nl": true
       },
       {
-       "t": "le chagrin que j'ai enduré!"
+       "t": "et le chagrin que j'ai enduré!"
       }
      ]
     }
@@ -849,7 +855,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'était dix longues années...\nExpérimente par toi-même la douleur et\nle chagrin que j'ai enduré!",
+   "brut_fr": "C'était dix longues années...\nExpérimente par toi-même la douleur\net le chagrin que j'ai enduré!",
    "brut_en": "It's been a long ten years... Experience for\nyourself the pain and sorrow I endured!",
    "data_size": 252,
    "budget": 244
@@ -980,19 +986,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je peux le sentir... Toi et ton autre"
+       "t": "Je peux le sentir... Toi et ton autre toi. Je"
       },
       {
        "nl": true
       },
       {
-       "t": "toi. Je suis ton ombre... Bien que je"
+       "t": "suis ton ombre... Bien que je sois visible,"
       },
       {
        "nl": true
       },
       {
-       "t": "sois visible, je ne peux être rejetée. Cependant..."
+       "t": "je ne peux être rejetée. Cependant..."
       }
      ]
     }
@@ -1021,7 +1027,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je peux le sentir... Toi et ton autre\ntoi. Je suis ton ombre... Bien que je\nsois visible, je ne peux être rejetée. Cependant...",
+   "brut_fr": "Je peux le sentir... Toi et ton autre toi. Je\nsuis ton ombre... Bien que je sois visible,\nje ne peux être rejetée. Cependant...",
    "brut_en": "I can sense it... You and your other you.\nI'm your shadow... Though visible, I cannot\nbe dismissed. However...",
    "data_size": 570,
    "budget": 562
@@ -1041,13 +1047,19 @@
        "nl": true
       },
       {
-       "t": "j'attendais de ma part. Mais même si"
+       "t": "j'attendais de ma part. Mais même si tu"
       },
       {
        "nl": true
       },
       {
-       "t": "tu me bats, tu ne peux te débarasser de ta propre ombre. Je serais toujours là..."
+       "t": "me bats, tu ne peux te débarasser de ta"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "propre ombre. Je serais toujours là..."
       }
      ]
     }
@@ -1076,7 +1088,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pas mal... C'est à peu près ce que\nj'attendais de ma part. Mais même si\ntu me bats, tu ne peux te débarasser de ta propre ombre. Je serais toujours là...",
+   "brut_fr": "Pas mal... C'est à peu près ce que\nj'attendais de ma part. Mais même si tu\nme bats, tu ne peux te débarasser de ta\npropre ombre. Je serais toujours là...",
    "brut_en": "Not bad... About what I'd expect from myself.\nBut even if you beat me, you can't get rid of\nyour own shadow. I'll always be there...",
    "data_size": 298,
    "budget": 290
@@ -1090,13 +1102,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Impossible! Ma vie est à moi et à"
+       "t": "Impossible! Ma vie est à"
       },
       {
        "nl": true
       },
       {
-       "t": "personne d'autre!"
+       "t": "moi et à personne d'autre!"
       }
      ]
     }
@@ -1113,7 +1125,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Impossible! Ma vie est à moi et à\npersonne d'autre!",
+   "brut_fr": "Impossible! Ma vie est à\nmoi et à personne d'autre!",
    "brut_en": "No way! My life is mine and no one else's!",
    "data_size": 110,
    "budget": 102
@@ -1158,19 +1170,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis sûre que tu le sais déjà..."
+       "t": "Je suis sûre que tu le sais déjà... Mais ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Mais ce n'est pas ma fin. Lumière et"
+       "t": "n'est pas ma fin. Lumière et Ombre... Aucune"
       },
       {
        "nl": true
       },
       {
-       "t": "Ombre... Aucune des deux ne peut se passer de l'autre..."
+       "t": "des deux ne peut se passer de l'autre..."
       }
      ]
     }
@@ -1199,7 +1211,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis sûre que tu le sais déjà...\nMais ce n'est pas ma fin. Lumière et\nOmbre... Aucune des deux ne peut se passer de l'autre...",
+   "brut_fr": "Je suis sûre que tu le sais déjà... Mais ce\nn'est pas ma fin. Lumière et Ombre... Aucune\ndes deux ne peut se passer de l'autre...",
    "brut_en": "I'm sure you already know... But this isn't the\nend of me. Light and shadow... Neither can part\nwith the other...",
    "data_size": 268,
    "budget": 260
@@ -1213,13 +1225,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'en ai marre de tes conneries! Boucle-là"
+       "t": "J'en ai marre de tes"
       },
       {
        "nl": true
       },
       {
-       "t": "un peu!"
+       "t": "conneries! Boucle-là un peu!"
       }
      ]
     }
@@ -1242,7 +1254,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'en ai marre de tes conneries! Boucle-là\nun peu!",
+   "brut_fr": "J'en ai marre de tes\nconneries! Boucle-là un peu!",
    "brut_en": "I've had enough of your bullshit! Put a sock\nin it already!",
    "data_size": 724,
    "budget": 716
@@ -1256,19 +1268,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu es incroyable... Mais ce n'est pas"
+       "t": "Tu es incroyable... Mais ce n'est pas la fin"
       },
       {
        "nl": true
       },
       {
-       "t": "la fin pour moi. Je t'aurais toujours"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "à l'oeil..."
+       "t": "pour moi. Je t'aurais toujours à l'oeil..."
       }
      ]
     }
@@ -1291,7 +1297,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu es incroyable... Mais ce n'est pas\nla fin pour moi. Je t'aurais toujours\nà l'oeil...",
+   "brut_fr": "Tu es incroyable... Mais ce n'est pas la fin\npour moi. Je t'aurais toujours à l'oeil...",
    "brut_en": "You're unbelievable... But this isn't the end\nfor me. I'll always be watching you...",
    "data_size": 328,
    "budget": 320
@@ -1305,13 +1311,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est une bien vu de ta part de ne pas"
+       "t": "C'est une bien vu de ta part de"
       },
       {
        "nl": true
       },
       {
-       "t": "surestimer ta propre force"
+       "t": "ne pas surestimer ta propre force"
       }
      ]
     }
@@ -1334,7 +1340,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est une bien vu de ta part de ne pas\nsurestimer ta propre force",
+   "brut_fr": "C'est une bien vu de ta part de\nne pas surestimer ta propre force",
    "brut_en": "It's wise of you not to overestimate your\nown strength.",
    "data_size": 248,
    "budget": 240
@@ -1354,13 +1360,7 @@
        "nl": true
       },
       {
-       "t": "devrais être en train d'aider au"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "restaurant!"
+       "t": "devrais être en train d'aider au restaurant!"
       }
      ]
     }
@@ -1383,7 +1383,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eikichi! Ne perds pas de temps ici! Tu\ndevrais être en train d'aider au\nrestaurant!",
+   "brut_fr": "Eikichi! Ne perds pas de temps ici! Tu\ndevrais être en train d'aider au restaurant!",
    "brut_en": "Eikichi! Stop wasting time here! You should\nbe helping out at the restaurant!",
    "data_size": 602,
    "budget": 594
@@ -1403,13 +1403,13 @@
        "nl": true
       },
       {
-       "t": "l'ultime obstacle de son enfant..."
+       "t": "l'ultime obstacle de son enfant... Très"
       },
       {
        "nl": true
       },
       {
-       "t": "Très bien. Bats toi de toutes tes forces!"
+       "t": "bien. Bats toi de toutes tes forces!"
       }
      ]
     }
@@ -1438,7 +1438,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est dans la nature d'un père d'être\nl'ultime obstacle de son enfant...\nTrès bien. Bats toi de toutes tes forces!",
+   "brut_fr": "C'est dans la nature d'un père d'être\nl'ultime obstacle de son enfant... Très\nbien. Bats toi de toutes tes forces!",
    "brut_en": "It is a father's nature to be the ultimate\nobstacle to his child... Very well. Reach for\nyour with all your strength!",
    "data_size": 418,
    "budget": 410

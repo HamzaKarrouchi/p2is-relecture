@@ -10,25 +10,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ahah, je savais que tu serais là, "
+       "t": "Ahah, je savais que tu serais là,"
+      },
+      {
+       "nl": true
       },
       {
        "hero": "prenom"
       },
       {
-       "t": "."
+       "t": ". J'ai pensé qu'il valait"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai pensé qu'il valait mieux t'attendre"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "près de ton bébé."
+       "t": "mieux t'attendre près de ton bébé."
       }
      ]
     }
@@ -63,7 +60,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ahah, je savais que tu serais là, [1113].\nJ'ai pensé qu'il valait mieux t'attendre\nprès de ton bébé.",
+   "brut_fr": "Ahah, je savais que tu serais là,\n[1113]. J'ai pensé qu'il valait\nmieux t'attendre près de ton bébé.",
    "brut_en": "Aha,[SP]I[SP]thought[SP]you'd[SP]be[SP]here,[SP][1113].\nI[SP]figured[SP]it[SP]would[SP]be[SP]easier[SP]to[SP]wait\nfor[SP]you[SP]by[SP]your[SP]baby[SP]here.",
    "data_size": 212,
    "budget": 204
@@ -120,13 +117,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien. Commençons ! As-tu une idée de ce"
+       "t": "Bien. Commençons! As-tu une idée de ce"
       },
       {
        "nl": true
       },
       {
-       "t": "que tu voudrais faire après le lycée ?"
+       "t": "que tu voudrais faire après le lycée?"
       }
      ]
     }
@@ -149,7 +146,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien. Commençons ! As-tu une idée de ce\nque tu voudrais faire après le lycée ?",
+   "brut_fr": "Bien. Commençons! As-tu une idée de ce\nque tu voudrais faire après le lycée?",
    "brut_en": "Good,[SP]good.[SP]Well,[SP]then![SP]Have[SP]you[SP]decided\nwhat[SP]you[SP]want[SP]to[SP]do[SP]after[SP]graduation?",
    "data_size": 188,
    "budget": 180
@@ -169,7 +166,7 @@
        "nl": true
       },
       {
-       "t": "plus tard ?     "
+       "t": "plus tard?     "
       }
      ]
     }
@@ -193,6 +190,7 @@
    "choix_fr": {
     "options": [
      "Ouais, j'ai décidé.",
+     "[1205]",
      "Rien..."
     ],
     "question": [
@@ -203,7 +201,7 @@
       "nl": true
      },
      {
-      "t": "plus tard ?     "
+      "t": "plus tard?     "
      }
     ]
    },
@@ -224,7 +222,7 @@
      }
     ]
    },
-   "brut_fr": "T'as une idée de ce que tu veux faire\nplus tard ?     \n[1208][0002][1432][NULL][NULL][0014]Ouais, j'ai décidé.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Rien... [1432][NULL][NULL][0014]",
+   "brut_fr": "T'as une idée de ce que tu veux faire\nplus tard?     \n[1208][0002][1432][NULL][NULL][0014]Ouais, j'ai décidé.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Rien... [1432][NULL][NULL][0014]",
    "brut_en": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?\n[1208][0002][1432][NULL][NULL][0014]Yeah,[SP]I've[SP]decided.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]yet.[1432][NULL][NULL][0014]",
    "data_size": 234,
    "budget": 226
@@ -311,6 +309,7 @@
    "choix_fr": {
     "options": [
      "Je veux aller à la fac.",
+     "[1205]",
      "Je veux un job."
     ],
     "question": [
@@ -342,7 +341,7 @@
      }
     ]
    },
-   "brut_fr": "Tu tentes l'université\nou chercher du boulot?\n[1208][0002][1432][NULL][NULL][0014]Je veux aller à la fac.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je veux un job.[1432][NULL][NULL][0014]",
+   "brut_fr": "Tu tentes l'université\nou chercher du boulot?\n[1208][0002][1432][NULL][NULL][0014]Je veux aller à la fac.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Je veux un job.[1432][NULL][NULL][0014]",
    "brut_en": "Will[SP]you[SP]apply[SP]to[SP]college[SP]or[SP]go\njob[SP]hunting?\n[1208][0002][1432][NULL][NULL][0014]I[SP]want[SP]to[SP]go[SP]to[SP]college.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'd[SP]like[SP]a[SP]job.[1432][NULL][NULL][0014]",
    "data_size": 238,
    "budget": 230
@@ -356,19 +355,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ne dis pas juste ce que"
+       "t": "Ne dis pas juste ce que je veux entendre"
       },
       {
        "nl": true
       },
       {
-       "t": "je veux entendre"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "T'as vraiment envie de l'université ?"
+       "t": "T'as vraiment envie de l'université?"
       }
      ]
     }
@@ -397,7 +390,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ne dis pas juste ce que\nje veux entendre\nT'as vraiment envie de l'université ?",
+   "brut_fr": "Ne dis pas juste ce que je veux entendre\nT'as vraiment envie de l'université?",
    "brut_en": "If[SP]you're[SP]just[SP]saying[SP]what[SP]you[SP]think\nI[SP]want[SP]to[SP]hear,[SP]think[SP]harder.[SP]Do[SP]you\nreally[SP]want[SP]to[SP]go[SP]to[SP]college?",
    "data_size": 238,
    "budget": 230
@@ -462,19 +455,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si tu dis ce que tu crois que"
+       "t": "Si tu dis ce que tu crois que je veux"
       },
       {
        "nl": true
       },
       {
-       "t": "je veux entendre, réfléchis."
+       "t": "entendre, réfléchis. T'as vraiment envie de"
       },
       {
        "nl": true
       },
       {
-       "t": "T'as vraiment envie de bosser?"
+       "t": "bosser?"
       }
      ]
     }
@@ -503,7 +496,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si tu dis ce que tu crois que\nje veux entendre, réfléchis.\nT'as vraiment envie de bosser?",
+   "brut_fr": "Si tu dis ce que tu crois que je veux\nentendre, réfléchis. T'as vraiment envie de\nbosser?",
    "brut_en": "If[SP]you're[SP]just[SP]saying[SP]what[SP]you[SP]think\nI[SP]want[SP]to[SP]hear,[SP]think[SP]harder.[SP]Do[SP]you\nreally[SP]want[SP]a[SP]job?",
    "data_size": 216,
    "budget": 208
@@ -568,25 +561,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Dis-moi... Sans entrer"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "dans les détails."
+       "t": "Dis-moi... Sans entrer dans les détails."
       },
       {
        "pause": true
       },
       {
-       "t": " Y a quelque chose"
+       "t": " Y"
       },
       {
        "nl": true
       },
       {
-       "t": "que t'as envie de faire ?"
+       "t": "a quelque chose que t'as envie de faire?"
       }
      ]
     }
@@ -621,7 +608,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dis-moi... Sans entrer\ndans les détails.[1205][001E] Y a quelque chose\nque t'as envie de faire ?",
+   "brut_fr": "Dis-moi... Sans entrer dans les détails.[1205][001E] Y\na quelque chose que t'as envie de faire?",
    "brut_en": "Then...[SP]Tell[SP]me,[SP]and[SP]you[SP]don't[SP]have\nto[SP]get[SP]specific.[1205][001E][SP]Is[SP]there[SP]anything\nyou[SP]want[SP]to[SP]do?",
    "data_size": 208,
    "budget": 200
@@ -635,7 +622,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Y a un truc que tu veux faire ?  "
+       "t": "Y a un truc que tu veux faire?  "
       }
      ]
     }
@@ -657,7 +644,7 @@
     ],
     "question": [
      {
-      "t": "Y a un truc que tu veux faire ?  "
+      "t": "Y a un truc que tu veux faire?  "
      }
     ]
    },
@@ -672,7 +659,7 @@
      }
     ]
    },
-   "brut_fr": "Y a un truc que tu veux faire ?  \n[1208][0002][1432][NULL][NULL][0014]En vrai, ouais.    [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas encore. [1432][NULL][NULL][0014]",
+   "brut_fr": "Y a un truc que tu veux faire?  \n[1208][0002][1432][NULL][NULL][0014]En vrai, ouais.    [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas encore. [1432][NULL][NULL][0014]",
    "brut_en": "Is[SP]there[SP]anything[SP]you[SP]want[SP]to[SP]do?\n[1208][0002][1432][NULL][NULL][0014]Actually,[SP]there[SP]is.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]No,[SP]not[SP]yet.[1432][NULL][NULL][0014]",
    "data_size": 200,
    "budget": 192
@@ -729,7 +716,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'en penses quoi ?"
+       "t": "T'en penses quoi?"
       }
      ]
     }
@@ -751,7 +738,7 @@
     ],
     "question": [
      {
-      "t": "T'en penses quoi ?"
+      "t": "T'en penses quoi?"
      }
     ]
    },
@@ -766,7 +753,7 @@
      }
     ]
    },
-   "brut_fr": "T'en penses quoi ?\n[1208][0002][1432][NULL][NULL][0014]Je mêlerai rêve et réalité.  [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]J'y pense pas trop.         [1432][NULL][NULL][0014]",
+   "brut_fr": "T'en penses quoi?\n[1208][0002][1432][NULL][NULL][0014]Je mêlerai rêve et réalité.  [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]J'y pense pas trop.         [1432][NULL][NULL][0014]",
    "brut_en": "What[SP]do[SP]you[SP]think?\n[1208][0002][1432][NULL][NULL][0014]I'll[SP]balance[SP]dreams[SP]and[SP]life.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]don't[SP]think[SP]about[SP]it[SP]much.[1432][NULL][NULL][0014]",
    "data_size": 222,
    "budget": 214
@@ -823,7 +810,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'en penses-tu ? "
+       "t": "Qu'en penses-tu? "
       }
      ]
     }
@@ -845,7 +832,7 @@
     ],
     "question": [
      {
-      "t": "Qu'en penses-tu ? "
+      "t": "Qu'en penses-tu? "
      }
     ]
    },
@@ -860,7 +847,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'en penses-tu ? \n[1208][0002][1432][NULL][NULL][0014]Je cherche mon vrai objectif[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je n'y pense pas trop.      [1432][NULL][NULL][0014]",
+   "brut_fr": "Qu'en penses-tu? \n[1208][0002][1432][NULL][NULL][0014]Je cherche mon vrai objectif[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je n'y pense pas trop.      [1432][NULL][NULL][0014]",
    "brut_en": "What[SP]do[SP]you[SP]think?\n[1208][0002][1432][NULL][NULL][0014]I[SP]want[SP]to[SP]find[SP]my[SP]true[SP]goal.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]don't[SP]think[SP]about[SP]it[SP]much.[1432][NULL][NULL][0014]",
    "data_size": 220,
    "budget": 212
@@ -883,19 +870,25 @@
        "pause": true
       },
       {
-       "t": " Pourquoi tu te restreins comme ça?"
+       "t": " Pourquoi tu te restreins"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu as l'air d'être en souffrance et je ne peux"
+       "t": "comme ça? Tu as l'air d'être en"
       },
       {
        "nl": true
       },
       {
-       "t": "le supporter..."
+       "t": "souffrance et je ne peux"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " le supporter..."
       }
      ]
     }
@@ -933,7 +926,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113]...[1205][001E] Pourquoi tu te restreins comme ça?\nTu as l'air d'être en souffrance et je ne peux\nle supporter...",
+   "brut_fr": "[1113]...[1205][001E] Pourquoi tu te restreins\ncomme ça? Tu as l'air d'être en\nsouffrance et je ne peux[1205][U+000F] le supporter...",
    "brut_en": "[1113]...[1205][001E][SP]Why[SP]do[SP]you[SP]put[SP]up[SP]walls[SP]like\nthat?[SP]You[SP]look[SP]like[SP]you're[SP]in[SP]so[SP]much[SP]pain\nthat[SP]I[SP]can't[SP]bear[SP]to[SP]see[SP]it...",
    "data_size": 250,
    "budget": 242
@@ -947,19 +940,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ah, te voilà ! Hé ! "
+       "t": "Ah, te voilà! Hé! "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": "!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Viens "
+       "t": "! Viens "
       },
       {
        "hero": "prenom"
@@ -1000,7 +987,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah, te voilà ! Hé ! [1113]!\nViens [1113]!",
+   "brut_fr": "Ah, te voilà! Hé! [1113]! Viens [1113]!",
    "brut_en": "Oh,[SP]there[SP]you[SP]are![SP]Hey![SP][1113]!\nHold[SP]up,[SP][1113]!",
    "data_size": 96,
    "budget": 88
@@ -1014,7 +1001,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Attends...Wow!"
+       "t": "Attends... Wow!"
       }
      ]
     }
@@ -1031,7 +1018,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Attends...Wow!",
+   "brut_fr": "Attends... Wow!",
    "brut_en": "Wait...[SP]Aiyah!",
    "data_size": 48,
    "budget": 40
@@ -1045,7 +1032,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lisa ! C'est quoi tout ce boucan ?"
+       "t": "Lisa! C'est quoi tout ce boucan?"
       }
      ]
     }
@@ -1062,7 +1049,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lisa ! C'est quoi tout ce boucan ?",
+   "brut_fr": "Lisa! C'est quoi tout ce boucan?",
    "brut_en": "Lisa![SP]What's[SP]all[SP]the[SP]hubbub[SP]about?",
    "data_size": 100,
    "budget": 92
@@ -1076,25 +1063,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pardon, Madame!"
+       "t": "Pardon, Madame! J'ai d'importantes affaires"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai d'importantes affaires avec "
+       "t": "avec "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": "!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je peux vous l'emprunter?"
+       "t": "! Je peux vous l'emprunter?"
       }
      ]
     }
@@ -1129,7 +1110,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pardon, Madame!\nJ'ai d'importantes affaires avec [1113]!\nJe peux vous l'emprunter?",
+   "brut_fr": "Pardon, Madame! J'ai d'importantes affaires\navec [1113]! Je peux vous l'emprunter?",
    "brut_en": "Sorry-ia,[SP]Ms.[SP]Saeko![SP]I[SP]have[SP]important\nbusiness[SP]with[SP][1113][SP]here![SP]Can[SP]I\nborrow[SP]him?",
    "data_size": 176,
    "budget": 168
@@ -1204,7 +1185,7 @@
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -1227,7 +1208,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On a un problème, [1113] !",
+   "brut_fr": "On a un problème, [1113]!",
    "brut_en": "We[SP]have[SP]a[SP]problem,[SP][1113]!",
    "data_size": 64,
    "budget": 56
@@ -1241,7 +1222,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Deux secondes...Wow!"
+       "t": "Deux secondes... Wow!"
       }
      ]
     }
@@ -1258,7 +1239,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Deux secondes...Wow!",
+   "brut_fr": "Deux secondes... Wow!",
    "brut_en": "Wait[SP]a[SP]sec...[SP]Aiyah!",
    "data_size": 62,
    "budget": 54
@@ -1272,25 +1253,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'y crois pas !"
+       "t": "J'y crois pas!"
       },
       {
        "pause": true
       },
       {
-       "t": " Pourquoi tu portes"
+       "t": " Pourquoi tu portes encore ton"
       },
       {
        "nl": true
       },
       {
-       "t": "encore ton emblème !? Tu sais bien"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "qu'il est maudit, non ?"
+       "t": "emblème!? Tu sais bien qu'il est maudit, non?"
       }
      ]
     }
@@ -1325,7 +1300,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'y crois pas ![1205][001E] Pourquoi tu portes\nencore ton emblème !? Tu sais bien\nqu'il est maudit, non ?",
+   "brut_fr": "J'y crois pas![1205][001E] Pourquoi tu portes encore ton\nemblème!? Tu sais bien qu'il est maudit, non?",
    "brut_en": "I[SP]don't[SP]believe[SP]this![1205][001E][SP]Why[SP]are[SP]you[SP]still\nwearing[SP]your[SP]emblem!?[SP]You[SP]DO[SP]know[SP]about\nthe[SP]emblem[SP]curse,[SP]right?",
    "data_size": 234,
    "budget": 226
@@ -1370,19 +1345,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais bon, ça peut attendre !"
+       "t": "Mais bon, ça peut attendre! J'ai un"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai un défi pour toi ! Un mec du"
+       "t": "défi pour toi! Un mec du Lycée Kasu"
       },
       {
        "nl": true
       },
       {
-       "t": "Lycée Kasu m'a demandé de te le remettre !"
+       "t": "m'a demandé de te le remettre!"
       }
      ]
     }
@@ -1411,7 +1386,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais bon, ça peut attendre !\nJ'ai un défi pour toi ! Un mec du\nLycée Kasu m'a demandé de te le remettre !",
+   "brut_fr": "Mais bon, ça peut attendre! J'ai un\ndéfi pour toi! Un mec du Lycée Kasu\nm'a demandé de te le remettre!",
    "brut_en": "But[SP]oh[SP]yeah,[SP]that[SP]can[SP]wait![SP]I[SP]got[SP]a\nchallenge[SP]note[SP]for[SP]you![SP]A[SP]guy[SP]from\nCuss[SP]High[SP]told[SP]me[SP]to[SP]give[SP]it[SP]to[SP]you!",
    "data_size": 236,
    "budget": 228
@@ -1425,10 +1400,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est écrit..."
-      },
-      {
-       "nl": true
+       "t": "C'est écrit... "
       },
       {
        "hero": "prenom"
@@ -1440,13 +1412,13 @@
        "hero": "nom"
       },
       {
-       "enc": " : On tient une fille de"
+       "enc": ": On tient"
       },
       {
        "nl": true
       },
       {
-       "enc": "votre lycée en otage."
+       "enc": "une fille de votre lycée en otage."
       }
      ]
     }
@@ -1484,7 +1456,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est écrit...\n[1432][NULL][NULL][0014][1113] [1112] : On tient une fille de\nvotre lycée en otage.[1432][NULL][NULL][0014]",
+   "brut_fr": "C'est écrit... [1432][NULL][NULL][0014][1113] [1112]: On tient\nune fille de votre lycée en otage.[1432][NULL][NULL][0014]",
    "brut_en": "Says[SP]here...\n[1432][NULL][NULL][0014][1113][SP][1112]:[SP]We're[SP]holding\na[SP]girl[SP]from[SP]your[SP]school[SP]hostage.[1432][NULL][NULL][0014]",
    "data_size": 166,
    "budget": 158
@@ -1498,19 +1470,19 @@
      "nom": null,
      "seg": [
       {
-       "enc": "tu veux la sauver? Viens seul"
+       "enc": "tu veux la sauver? Viens seul à la prison"
       },
       {
        "nl": true
       },
       {
-       "enc": "à la prison Sumaru.-Le boss de Kasugayama,"
+       "enc": "Sumaru.-Le boss de Kasugayama, Michel"
       },
       {
        "nl": true
       },
       {
-       "enc": "            Michel Eikichi"
+       "enc": "Eikichi"
       },
       {
        "t": "...!?"
@@ -1545,7 +1517,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]tu veux la sauver? Viens seul\nà la prison Sumaru.-Le boss de Kasugayama,\n            Michel Eikichi[1432][NULL][NULL][0014]...!?",
+   "brut_fr": "[1432][NULL][NULL][0014]tu veux la sauver? Viens seul à la prison\nSumaru.-Le boss de Kasugayama, Michel\nEikichi[1432][NULL][NULL][0014]...!?",
    "brut_en": "[1432][NULL][NULL][0014]If[SP]you[SP]value[SP]her[SP]life,[SP]come[SP]to[SP]Sumaru\nPrison[SP]alone.[SP]-Kasugayama[SP]High[SP]Boss,\n[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]Michel[SP]Eikichi[1432][NULL][NULL][0014]...!?",
    "data_size": 250,
    "budget": 242
@@ -1623,22 +1595,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai aussi entendu qu'un con du Lycée Kasu"
+       "t": "J'ai aussi entendu qu'un con du"
       },
       {
        "nl": true
       },
       {
-       "t": "aurait maudit notre emblème..."
+       "t": "Lycée Kasu aurait maudit notre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "emblème..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Pari que c'est le même !"
+       "t": " Pari que c'est le même!"
       }
      ]
     }
@@ -1670,7 +1645,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai aussi entendu qu'un con du Lycée Kasu\naurait maudit notre emblème...[1205][001E]\nPari que c'est le même !",
+   "brut_fr": "J'ai aussi entendu qu'un con du\nLycée Kasu aurait maudit notre\nemblème...[1205][001E] Pari que c'est le même!",
    "brut_en": "I[SP]also[SP]heard[SP]a[SP]rumor[SP]that[SP]it[SP]was[SP]a[SP]Cuss\nHigh[SP]jerk[SP]who[SP]cursed[SP]our[SP]emblem...[1205][001E]\nI[SP]bet[SP]it[SP]was[SP]this[SP]same[SP]guy!",
    "data_size": 230,
    "budget": 222
@@ -1693,7 +1668,7 @@
        "pause": true
       },
       {
-       "t": " T'y vas seul, hein ?"
+       "t": " T'y vas seul, hein?"
       }
      ]
     }
@@ -1719,7 +1694,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113]...[1205][001E] T'y vas seul, hein ?",
+   "brut_fr": "[1113]...[1205][001E] T'y vas seul, hein?",
    "brut_en": "[1113]...[1205][001E][SP]You're[SP]going[SP]alone,[SP]huh?",
    "data_size": 84,
    "budget": 76
@@ -1739,13 +1714,13 @@
        "pause": true
       },
       {
-       "t": " Mais tu sais"
+       "t": " Mais"
       },
       {
        "nl": true
       },
       {
-       "t": "où est la prison?"
+       "t": "tu sais où est la prison?"
       }
      ]
     }
@@ -1774,7 +1749,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'en doutais...[1205][001E] Mais tu sais\noù est la prison?",
+   "brut_fr": "Je m'en doutais...[1205][001E] Mais\ntu sais où est la prison?",
    "brut_en": "Knew[SP]it...[1205][001E][SP]But[SP]do[SP]you[SP]know[SP]how[SP]to\nget[SP]to[SP]Sumaru[SP]Prison?",
    "data_size": 136,
    "budget": 128
@@ -1788,13 +1763,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je peux te montrer le chemin !"
+       "t": "Je peux te montrer le chemin! J'veux pas"
       },
       {
        "nl": true
       },
       {
-       "t": "J'veux pas rester là pendant que la malédiction"
+       "t": "rester là pendant que la malédiction"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -1829,7 +1807,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je peux te montrer le chemin !\nJ'veux pas rester là pendant que la malédiction\nm'emporte. Emmène-moi avec toi!",
+   "brut_fr": "Je peux te montrer le chemin! J'veux pas\nrester là pendant que la malédiction[1205][U+000F]\nm'emporte. Emmène-moi avec toi!",
    "brut_en": "I[SP]can[SP]at[SP]least[SP]show[SP]you[SP]the[SP]way![SP]I[SP]don't\nwant[SP]to[SP]sit[SP]around[SP]until[SP]the[SP]curse[SP]gets\nme[SP]too.[SP]Please,[SP]take[SP]me[SP]along!",
    "data_size": 244,
    "budget": 236
@@ -1843,19 +1821,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ah bon! Tu avais l'air indécis"
+       "t": "Ah bon! Tu avais l'air indécis mais je suis"
       },
       {
        "nl": true
       },
       {
-       "t": "mais je suis contente que t'y aies"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "quand même réfléchi."
+       "t": "contente que t'y aies quand même réfléchi."
       }
      ]
     }
@@ -1884,7 +1856,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah bon! Tu avais l'air indécis\nmais je suis contente que t'y aies\nquand même réfléchi.",
+   "brut_fr": "Ah bon! Tu avais l'air indécis mais je suis\ncontente que t'y aies quand même réfléchi.",
    "brut_en": "Is[SP]that[SP]so![SP]You[SP]seemed[SP]indecisive\nfor[SP]long[SP]enough,[SP]but[SP]I'm[SP]glad[SP]you[SP]did\ngive[SP]it[SP]some[SP]thought.",
    "data_size": 218,
    "budget": 210
@@ -1935,13 +1907,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh vraiment ! T'as un domaine"
+       "t": "Oh vraiment! T'as un domaine en"
       },
       {
        "nl": true
       },
       {
-       "t": "en particulier qui t'intéresse ?"
+       "t": "particulier qui t'intéresse?"
       }
      ]
     }
@@ -1964,7 +1936,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh vraiment ! T'as un domaine\nen particulier qui t'intéresse ?",
+   "brut_fr": "Oh vraiment! T'as un domaine en\nparticulier qui t'intéresse?",
    "brut_en": "Oh,[SP]really![SP]Is[SP]there[SP]something[SP]in\nparticular[SP]you[SP]want[SP]to[SP]study?",
    "data_size": 158,
    "budget": 150
@@ -1978,13 +1950,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'as un métier en tête alors ?"
+       "t": "T'as un métier en tête alors?"
       },
       {
        "nl": true
       },
       {
-       "t": "Peut-être... dans la moto ?"
+       "t": "Peut-être... dans la moto?"
       }
      ]
     }
@@ -2007,7 +1979,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'as un métier en tête alors ?\nPeut-être... dans la moto ?",
+   "brut_fr": "T'as un métier en tête alors?\nPeut-être... dans la moto?",
    "brut_en": "Ooh,[SP]is[SP]there[SP]a[SP]profession[SP]you[SP]have[SP]in[SP]mind,\nthen?[SP]Perhaps...[SP]motorcycle-related?",
    "data_size": 194,
    "budget": 186
@@ -2027,13 +1999,13 @@
        "pause": true
       },
       {
-       "t": " Avec autant de motivation,"
+       "t": " Avec autant de"
       },
       {
        "nl": true
       },
       {
-       "t": "t'as rien à craindre!"
+       "t": "motivation, t'as rien à craindre!"
       },
       {
        "nl": true
@@ -2074,7 +2046,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dans ce cas...[1205][001E] Avec autant de motivation,\nt'as rien à craindre!\nJe serai là pour t'encourager!",
+   "brut_fr": "Dans ce cas...[1205][001E] Avec autant de\nmotivation, t'as rien à craindre!\nJe serai là pour t'encourager!",
    "brut_en": "Is[SP]that[SP]so...![1205][001E][SP]If[SP]you're[SP]that[SP]fired\nup,[SP]I'm[SP]sure[SP]you'll[SP]do[SP]just[SP]fine!\nGood[SP]luck![SP]I'll[SP]be[SP]cheering[SP]for[SP]you!",
    "data_size": 248,
    "budget": 240
@@ -2094,19 +2066,13 @@
        "pause": true
       },
       {
-       "t": " Pas besoin de se presser."
+       "t": " Pas besoin de se presser. Prends"
       },
       {
        "nl": true
       },
       {
-       "t": "Prends le temps qu'il faut pour"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "penser à ton avenir."
+       "t": "le temps qu'il faut pour penser à ton avenir."
       }
      ]
     }
@@ -2141,7 +2107,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vois...[1205][001E] Pas besoin de se presser.\nPrends le temps qu'il faut pour\npenser à ton avenir.",
+   "brut_fr": "Je vois...[1205][001E] Pas besoin de se presser. Prends\nle temps qu'il faut pour penser à ton avenir.",
    "brut_en": "I[SP]see...[1205][001E][SP]Well,[SP]there's[SP]no[SP]reason[SP]to\nrush[SP]this.[SP]Give[SP]your[SP]future[SP]the[SP]long,\ncareful[SP]consideration[SP]it[SP]deserves.",
    "data_size": 250,
    "budget": 242
@@ -2204,19 +2170,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ahh, je vois ! Pas de but précis"
+       "t": "Ahh, je vois! Pas de but précis pour"
       },
       {
        "nl": true
       },
       {
-       "t": "pour l'instant, mais tu veux suivre"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "tes rêves ?"
+       "t": "l'instant, mais tu veux suivre tes rêves?"
       }
      ]
     }
@@ -2245,7 +2205,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ahh, je vois ! Pas de but précis\npour l'instant, mais tu veux suivre\ntes rêves ?",
+   "brut_fr": "Ahh, je vois! Pas de but précis pour\nl'instant, mais tu veux suivre tes rêves?",
    "brut_en": "Ahh,[SP]I[SP]see![SP]You[SP]don't[SP]have[SP]a[SP]specific\ngoal[SP]in[SP]mind,[SP]but[SP]you[SP]want[SP]to[SP]follow\nyour[SP]dreams?",
    "data_size": 206,
    "budget": 198
@@ -2265,13 +2225,13 @@
        "pause": true
       },
       {
-       "t": " Avec autant de motivation,"
+       "t": " Avec autant de"
       },
       {
        "nl": true
       },
       {
-       "t": "t'as rien à craindre!"
+       "t": "motivation, t'as rien à craindre!"
       },
       {
        "nl": true
@@ -2312,7 +2272,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dans ce cas...[1205][001E] Avec autant de motivation,\nt'as rien à craindre!\nJe serai là pour t'encourager!",
+   "brut_fr": "Dans ce cas...[1205][001E] Avec autant de\nmotivation, t'as rien à craindre!\nJe serai là pour t'encourager!",
    "brut_en": "Is[SP]that[SP]so...![1205][001E][SP]If[SP]you're[SP]that[SP]fired\nup,[SP]I'm[SP]sure[SP]you'll[SP]do[SP]just[SP]fine!\nGood[SP]luck![SP]I'll[SP]be[SP]cheering[SP]for[SP]you!",
    "data_size": 248,
    "budget": 240
@@ -2332,13 +2292,13 @@
        "pause": true
       },
       {
-       "t": " Et bien, au moins tu"
+       "t": " Et bien, au moins"
       },
       {
        "nl": true
       },
       {
-       "t": "te fixes des objectifs."
+       "t": "tu te fixes des objectifs."
       }
      ]
     }
@@ -2367,7 +2327,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vois...[1205][001E] Et bien, au moins tu\nte fixes des objectifs.",
+   "brut_fr": "Je vois...[1205][001E] Et bien, au moins\ntu te fixes des objectifs.",
    "brut_en": "I[SP]see...[1205][001E][SP]Well,[SP]at[SP]least[SP]you[SP]have[SP]a[SP]goal\nyou're[SP]working[SP]towards.",
    "data_size": 160,
    "budget": 152
@@ -2381,13 +2341,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Même ainsi... On vit pas que de rêves."
+       "t": "Même ainsi... On vit pas que"
       },
       {
        "nl": true
       },
       {
-       "t": "Ne l'oublie pas."
+       "t": "de rêves. Ne l'oublie pas."
       }
      ]
     }
@@ -2410,7 +2370,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Même ainsi... On vit pas que de rêves.\nNe l'oublie pas.",
+   "brut_fr": "Même ainsi... On vit pas que\nde rêves. Ne l'oublie pas.",
    "brut_en": "Still...[SP]You[SP]can't[SP]live[SP]on[SP]dreams[SP]alone.\nDon't[SP]forget[SP]that.",
    "data_size": 150,
    "budget": 142
@@ -2430,13 +2390,13 @@
        "pause": true
       },
       {
-       "t": " Avec autant de motivation,"
+       "t": " Avec autant de"
       },
       {
        "nl": true
       },
       {
-       "t": "t'as rien à craindre!"
+       "t": "motivation, t'as rien à craindre!"
       },
       {
        "nl": true
@@ -2477,7 +2437,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dans ce cas...[1205][001E] Avec autant de motivation,\nt'as rien à craindre!\nJe serai là pour t'encourager!",
+   "brut_fr": "Dans ce cas...[1205][001E] Avec autant de\nmotivation, t'as rien à craindre!\nJe serai là pour t'encourager!",
    "brut_en": "Is[SP]that[SP]so...![1205][001E][SP]If[SP]you're[SP]that[SP]fired\nup,[SP]I'm[SP]sure[SP]you'll[SP]do[SP]just[SP]fine!\nGood[SP]luck![SP]I'll[SP]be[SP]cheering[SP]for[SP]you!",
    "data_size": 248,
    "budget": 240
@@ -2497,19 +2457,13 @@
        "pause": true
       },
       {
-       "t": " T'as aucune idée de ce que"
+       "t": " T'as aucune idée de ce que tu veux"
       },
       {
        "nl": true
       },
       {
-       "t": "tu veux faire, et rien qui"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "te donne envie non plus..."
+       "t": "faire, et rien qui te donne envie non plus..."
       }
      ]
     }
@@ -2544,7 +2498,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Du coup...[1205][001E] T'as aucune idée de ce que\ntu veux faire, et rien qui\nte donne envie non plus...",
+   "brut_fr": "Du coup...[1205][001E] T'as aucune idée de ce que tu veux\nfaire, et rien qui te donne envie non plus...",
    "brut_en": "So...[1205][001E][SP]You[SP]have[SP]no[SP]idea[SP]what[SP]to[SP]do[SP]after\ngraduation,[SP]and[SP]there's[SP]nothing[SP]you[SP]want\nto[SP]do[SP]either...",
    "data_size": 228,
    "budget": 220

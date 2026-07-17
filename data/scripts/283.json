@@ -47,13 +47,13 @@
        "nl": true
       },
       {
-       "t": "de poulet frit, et trois gâteaux..."
+       "t": "de poulet frit, et trois gâteaux... C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est pas normal de manger autant."
+       "t": "pas normal de manger autant."
       }
      ]
     }
@@ -82,7 +82,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cinq maxi-burgers, une pizza, six morceaux\nde poulet frit, et trois gâteaux...\nC'est pas normal de manger autant.",
+   "brut_fr": "Cinq maxi-burgers, une pizza, six morceaux\nde poulet frit, et trois gâteaux... C'est\npas normal de manger autant.",
    "brut_en": "Five[SP]king-size[SP]burgers,[SP]one[SP]medium[SP]pizza,\nsix[SP]pieces[SP]of[SP]fried[SP]chicken,[SP]and[SP]three[SP]cakes...\nNo[SP]ordinary[SP]fatty[SP]could[SP]eat[SP]that[SP]much.",
    "data_size": 282,
    "budget": 274
@@ -158,13 +158,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle a mangé trois parfaits. Sérieux,"
+       "t": "Elle a mangé trois parfaits."
       },
       {
        "nl": true
       },
       {
-       "t": "elle est sans-gêne!"
+       "t": "Sérieux, elle est sans-gêne!"
       }
      ]
     }
@@ -187,7 +187,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle a mangé trois parfaits. Sérieux,\nelle est sans-gêne!",
+   "brut_fr": "Elle a mangé trois parfaits.\nSérieux, elle est sans-gêne!",
    "brut_en": "She[SP]ate[SP]three[SP]parfaits,[SP]too.[SP]Seriously,[SP]the\ngirl[SP]has[SP]no[SP]shame!",
    "data_size": 142,
    "budget": 134
@@ -244,13 +244,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On voit, oui! On a ramené cette meuf sur ton"
+       "t": "On voit, oui! On a ramené cette meuf"
       },
       {
        "nl": true
       },
       {
-       "t": "lieu de travail, Michel!"
+       "t": "sur ton lieu de travail, Michel!"
       }
      ]
     }
@@ -273,7 +273,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On voit, oui! On a ramené cette meuf sur ton\nlieu de travail, Michel!",
+   "brut_fr": "On voit, oui! On a ramené cette meuf\nsur ton lieu de travail, Michel!",
    "brut_en": "We[SP]know![SP]We're[SP]the[SP]ones[SP]who[SP]took[SP]this[SP]chick\nto[SP]where[SP]you[SP]work,[SP]Michel-san!",
    "data_size": 170,
    "budget": 162
@@ -287,13 +287,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On paiera ce qu'elle a mangé! Donc..."
+       "t": "On paiera ce qu'elle a mangé!"
       },
       {
        "nl": true
       },
       {
-       "t": "hum... Michel?"
+       "t": "Donc... hum... Michel?"
       }
      ]
     }
@@ -316,7 +316,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On paiera ce qu'elle a mangé! Donc...\nhum... Michel?",
+   "brut_fr": "On paiera ce qu'elle a mangé!\nDonc... hum... Michel?",
    "brut_en": "We'll[SP]pay[SP]for[SP]the[SP]stuff[SP]she[SP]ate![SP]So...[SP]um...\nMichel-san?",
    "data_size": 134,
    "budget": 126
@@ -435,13 +435,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci pour le repas. Fiou... Chuis pleine."
+       "t": "Merci pour le repas. Fiou... Chuis"
       },
       {
        "nl": true
       },
       {
-       "t": "*burp* Oh, excusez-moi."
+       "t": "pleine. *burp* Oh, excusez-moi."
       }
      ]
     }
@@ -464,7 +464,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci pour le repas. Fiou... Chuis pleine.\n*burp* Oh, excusez-moi.",
+   "brut_fr": "Merci pour le repas. Fiou... Chuis\npleine. *burp* Oh, excusez-moi.",
    "brut_en": "Thanks[SP]for[SP]the[SP]food.[SP]Whew...[SP]I'm[SP]stuffed.\n*burp*[SP]Oh,[SP]my,[SP]excuse[SP]me.",
    "data_size": 154,
    "budget": 146
@@ -613,19 +613,13 @@
        "hero": "prenom"
       },
       {
-       "t": " s'est pas pointé, alors..."
+       "t": " s'est pas pointé, alors... Takeshi!"
       },
       {
        "nl": true
       },
       {
-       "t": "Takeshi! Je parie que ton défi"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "était incompréhensible!"
+       "t": "Je parie que ton défi était incompréhensible!"
       }
      ]
     }
@@ -660,7 +654,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si [1113] s'est pas pointé, alors...\nTakeshi! Je parie que ton défi\nétait incompréhensible!",
+   "brut_fr": "Si [1113] s'est pas pointé, alors... Takeshi!\nJe parie que ton défi était incompréhensible!",
    "brut_en": "If[SP][1113][SP]hasn't[SP]shown[SP]up,[SP]that[SP]means...\nTakeshi![SP]I[SP]bet[SP]the[SP]challenge[SP]you[SP]wrote[SP]to\nhim[SP]made[SP]no[SP]sense!",
    "data_size": 210,
    "budget": 202
@@ -729,19 +723,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et c'est quoi ce défi...?"
+       "t": "Et c'est quoi ce défi...? Qu'est-ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Qu'est-ce que vous manigancez derrière mon"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "dos?"
+       "t": "que vous manigancez derrière mon dos?"
       }
      ]
     }
@@ -770,7 +758,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et c'est quoi ce défi...?\nQu'est-ce que vous manigancez derrière mon\ndos?",
+   "brut_fr": "Et c'est quoi ce défi...? Qu'est-ce\nque vous manigancez derrière mon dos?",
    "brut_en": "And[SP]what's[SP]this[SP]about[SP]a[SP]challenge...?\nWhat[SP]the[SP]hell[SP]are[SP]you[SP]guys[SP]up[SP]to[SP]behind\nmy[SP]back!?",
    "data_size": 200,
    "budget": 192
@@ -815,13 +803,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Huh... Donc c'est ça qui se passe?"
+       "t": "Huh... Donc c'est ça qui se passe? Ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Ce mec à la tignasse bleue est débile ou?"
+       "t": "mec à la tignasse bleue est débile ou?"
       }
      ]
     }
@@ -844,7 +832,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Huh... Donc c'est ça qui se passe?\nCe mec à la tignasse bleue est débile ou?",
+   "brut_fr": "Huh... Donc c'est ça qui se passe? Ce\nmec à la tignasse bleue est débile ou?",
    "brut_en": "Huh...[SP]So[SP]that's[SP]what's[SP]going[SP]on[SP]here?\nIs[SP]that[SP]bluehair[SP]stupid[SP]or[SP]something!?",
    "data_size": 174,
    "budget": 166
@@ -1024,19 +1012,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qui essaierait quoi que ce soit avec"
+       "t": "Qui essaierait quoi que ce soit avec cette"
       },
       {
        "nl": true
       },
       {
-       "t": "cette empotée!? Enfin, on lui a payé le"
+       "t": "empotée!? Enfin, on lui a payé le dîner,"
       },
       {
        "nl": true
       },
       {
-       "t": "dîner, mais..."
+       "t": "mais..."
       }
      ]
     }
@@ -1065,7 +1053,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qui essaierait quoi que ce soit avec\ncette empotée!? Enfin, on lui a payé le\ndîner, mais...",
+   "brut_fr": "Qui essaierait quoi que ce soit avec cette\nempotée!? Enfin, on lui a payé le dîner,\nmais...",
    "brut_en": "Who'd[SP]want[SP]to[SP]try[SP]anything[SP]funny[SP]with[SP]a\nfatso[SP]like[SP]her!?[SP]Well,[SP]we[SP]did[SP]treat[SP]her[SP]to\ndinner,[SP]but...",
    "data_size": 212,
    "budget": 204
@@ -1079,13 +1067,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "La ferme! Hé! Tignasse bleue! T'es"
+       "t": "La ferme! Hé! Tignasse"
       },
       {
        "nl": true
       },
       {
-       "t": "Michel Eikichi?"
+       "t": "bleue! T'es Michel Eikichi?"
       }
      ]
     }
@@ -1108,7 +1096,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La ferme! Hé! Tignasse bleue! T'es\nMichel Eikichi?",
+   "brut_fr": "La ferme! Hé! Tignasse\nbleue! T'es Michel Eikichi?",
    "brut_en": "Can[SP]it,[SP]flunky![SP]Hey![SP]Bluehair![SP]Are[SP]you\nMichel[SP]Eikichi?",
    "data_size": 128,
    "budget": 120
@@ -1122,19 +1110,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Moui, l'homme le plus beau et capable"
+       "t": "Moui, l'homme le plus beau et capable du Lycée"
       },
       {
        "nl": true
       },
       {
-       "t": "du Lycée Kasugayama... Épris de toutes les"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "dames..."
+       "t": "Kasugayama... Épris de toutes les dames..."
       }
      ]
     }
@@ -1163,7 +1145,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Moui, l'homme le plus beau et capable\ndu Lycée Kasugayama... Épris de toutes les\ndames...",
+   "brut_fr": "Moui, l'homme le plus beau et capable du Lycée\nKasugayama... Épris de toutes les dames...",
    "brut_en": "Indeed,[SP]I[SP]am[SP]Kasugayama[SP]High's[SP]most[SP]handsome\nand[SP]capable[SP]man...[SP]Lover[SP]of[SP]all[SP]ladies[SP]far\nand[SP]wide...",
    "data_size": 222,
    "budget": 214
@@ -1186,10 +1168,16 @@
        "t": "voilà oiseau piégé dans la"
       },
       {
+       "pause": true
+      },
+      {
+       "t": " cage de mon"
+      },
+      {
        "nl": true
       },
       {
-       "t": "cage de mon amour..."
+       "t": "amour..."
       }
      ]
     }
@@ -1218,7 +1206,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le seul! L'unique! Michel...! Désormais, te\nvoilà oiseau piégé dans la\ncage de mon amour...",
+   "brut_fr": "Le seul! L'unique! Michel...! Désormais, te\nvoilà oiseau piégé dans la[1205][U+000F] cage de mon\namour...",
    "brut_en": "The[SP]one![SP]The[SP]only![SP]Michel...![SP]And[SP]from[SP]this\nmoment[SP]on,[SP]you're[SP]a[SP]bird[SP]trapped[SP]in[SP]the[SP]cage\nof[SP]my[SP]love...",
    "data_size": 230,
    "budget": 222
@@ -1232,7 +1220,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Tu as..."
+       "t": "... Tu as..."
       }
      ]
     }
@@ -1249,7 +1237,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Tu as...",
+   "brut_fr": "... Tu as...",
    "brut_en": "...Are[SP]you...",
    "data_size": 46,
    "budget": 38
@@ -1300,13 +1288,13 @@
        "nl": true
       },
       {
-       "t": "Mon corps si sexy qui fait battre ton"
+       "t": "Mon corps si sexy qui fait battre"
       },
       {
        "nl": true
       },
       {
-       "t": "coeur en mesure 3/4...?"
+       "t": "ton coeur en mesure 3/4...?"
       }
      ]
     }
@@ -1335,7 +1323,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mes hanches? Mes doigts? Mes yeux?\nMon corps si sexy qui fait battre ton\ncoeur en mesure 3/4...?",
+   "brut_fr": "Mes hanches? Mes doigts? Mes yeux?\nMon corps si sexy qui fait battre\nton coeur en mesure 3/4...?",
    "brut_en": "Is[SP]it[SP]my[SP]hips?[SP]My[SP]fingers?[SP]My[SP]eyes?[SP]My[SP]hot,\nhot[SP]body[SP]that[SP]sends[SP]your[SP]poor[SP]heart[SP]beating\nin[SP]3/4[SP]time...?",
    "data_size": 232,
    "budget": 224
@@ -1349,13 +1337,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pardon, bébé... Ne me hais pas à cause de"
+       "t": "Pardon, bébé... Ne me hais"
       },
       {
        "nl": true
       },
       {
-       "t": "ma beauté..."
+       "t": "pas à cause de ma beauté..."
       }
      ]
     }
@@ -1378,7 +1366,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pardon, bébé... Ne me hais pas à cause de\nma beauté...",
+   "brut_fr": "Pardon, bébé... Ne me hais\npas à cause de ma beauté...",
    "brut_en": "I'm[SP]sorry,[SP]babe...[SP]Don't[SP]hate[SP]me[SP]because\nI'm[SP]beautiful...",
    "data_size": 140,
    "budget": 132
@@ -1392,7 +1380,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...un énorme pète au casque?"
+       "t": "... un énorme pète au casque?"
       }
      ]
     }
@@ -1409,7 +1397,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...un énorme pète au casque?",
+   "brut_fr": "... un énorme pète au casque?",
    "brut_en": "...completely[SP]out[SP]of[SP]your[SP]mind?",
    "data_size": 82,
    "budget": 74
@@ -1454,19 +1442,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Allez! Fais pas le mec classe quand t'es"
+       "t": "Allez! Fais pas le mec classe quand"
       },
       {
        "nl": true
       },
       {
-       "t": "un trouillard qui se cache derrière une"
+       "t": "t'es un trouillard qui se cache"
       },
       {
        "nl": true
       },
       {
-       "t": "fille kidnappée!"
+       "t": "derrière une fille kidnappée!"
       }
      ]
     }
@@ -1495,7 +1483,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Allez! Fais pas le mec classe quand t'es\nun trouillard qui se cache derrière une\nfille kidnappée!",
+   "brut_fr": "Allez! Fais pas le mec classe quand\nt'es un trouillard qui se cache\nderrière une fille kidnappée!",
    "brut_en": "Come[SP]on![SP]Don't[SP]act[SP]all[SP]high[SP]and[SP]mighty[SP]when\nyou're[SP]just[SP]a[SP]coward[SP]who[SP]hides[SP]behind[SP]a\nkidnapped[SP]girl!",
    "data_size": 218,
    "budget": 210
@@ -1515,13 +1503,19 @@
        "nl": true
       },
       {
-       "t": "J'ai pas souvenir d'avoir pris d'otages, ni"
+       "t": "J'ai pas souvenir d'avoir pris d'otages,"
       },
       {
        "nl": true
       },
       {
-       "t": "d'avoir invité "
+       "t": "ni"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " d'avoir invité "
       },
       {
        "hero": "prenom"
@@ -1562,7 +1556,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'as écouté un mot de ce que j'ai dit!?\nJ'ai pas souvenir d'avoir pris d'otages, ni\nd'avoir invité [1113] ici!",
+   "brut_fr": "T'as écouté un mot de ce que j'ai dit!?\nJ'ai pas souvenir d'avoir pris d'otages,\nni[1205][U+000F] d'avoir invité [1113] ici!",
    "brut_en": "Are[SP]you[SP]listening[SP]to[SP]a[SP]word[SP]I[SP]said!?[SP]I[SP]don't\nrecall[SP]taking[SP]any[SP]hostages,[SP]and[SP]I[SP]certainly\nnever[SP]invited[SP][1113][SP]here!",
    "data_size": 246,
    "budget": 238
@@ -1576,13 +1570,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai assez de tes accusations bidon,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "le thon!"
+       "t": "J'ai assez de tes accusations bidon, le thon!"
       }
      ]
     }
@@ -1605,7 +1593,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai assez de tes accusations bidon,\nle thon!",
+   "brut_fr": "J'ai assez de tes accusations bidon, le thon!",
    "brut_en": "I've[SP]had[SP]enough[SP]of[SP]these[SP]baseless\naccusations,[SP]ugly!",
    "data_size": 130,
    "budget": 122
@@ -1619,13 +1607,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Kehhei! C'était la goutte de trop, gros"
+       "t": "Kehhei! C'était la goutte"
       },
       {
        "nl": true
       },
       {
-       "t": "blaireau!"
+       "t": "de trop, gros blaireau!"
       }
      ]
     }
@@ -1648,7 +1636,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Kehhei! C'était la goutte de trop, gros\nblaireau!",
+   "brut_fr": "Kehhei! C'était la goutte\nde trop, gros blaireau!",
    "brut_en": "Kehhei![SP]That[SP]was[SP]the[SP]last[SP]straw,[SP]you[SP]stuck-up\nslimebag!",
    "data_size": 130,
    "budget": 122
@@ -1705,19 +1693,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Michel Eikichi de Kakasu, le boss incontesté,"
+       "t": "Michel Eikichi de Kakasu, le boss"
       },
       {
        "nl": true
       },
       {
-       "t": "aurait eu sa place en baissant"
+       "t": "incontesté, aurait eu sa place en"
       },
       {
        "nl": true
       },
       {
-       "t": "les pantalons des gens."
+       "t": "baissant"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " les pantalons des gens."
       }
      ]
     }
@@ -1746,7 +1740,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Michel Eikichi de Kakasu, le boss incontesté,\naurait eu sa place en baissant\nles pantalons des gens.",
+   "brut_fr": "Michel Eikichi de Kakasu, le boss\nincontesté, aurait eu sa place en\nbaissant[1205][U+000F] les pantalons des gens.",
    "brut_en": "She[SP]said[SP]Michel[SP]Eikichi[SP]at[SP]Cuss[SP]High,[SP]the[SP]big\nshot[SP]Boss,[SP]got[SP]that[SP]way[SP]by[SP]yanking[SP]people's\npants[SP]down.",
    "data_size": 222,
    "budget": 214
@@ -1858,19 +1852,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sale... petite... T'es qui au juste!?"
+       "t": "Sale... petite... T'es qui au juste!? Tu sors"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu sors de nulle part et tu nous"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "craches dessus!"
+       "t": "de nulle part et tu nous craches dessus!"
       }
      ]
     }
@@ -1899,7 +1887,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sale... petite... T'es qui au juste!?\nTu sors de nulle part et tu nous\ncraches dessus!",
+   "brut_fr": "Sale... petite... T'es qui au juste!? Tu sors\nde nulle part et tu nous craches dessus!",
    "brut_en": "You...[SP]little...[SP]Who[SP]the[SP]hell[SP]are[SP]you,\nanyway!?[SP]Showing[SP]up[SP]out[SP]of[SP]nowhere[SP]and\nbitching[SP]us[SP]out!",
    "data_size": 214,
    "budget": 206
@@ -1913,13 +1901,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Um... On est super désolés, Michel!"
+       "t": "Um... On est super désolés,"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est notre faute!"
+       "t": "Michel! C'est notre faute!"
       }
      ]
     }
@@ -1942,7 +1930,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Um... On est super désolés, Michel!\nC'est notre faute!",
+   "brut_fr": "Um... On est super désolés,\nMichel! C'est notre faute!",
    "brut_en": "Um...[SP]We're[SP]real[SP]sorry,[SP]Michel-san!\nIt's[SP]all[SP]our[SP]fault!",
    "data_size": 128,
    "budget": 120
@@ -2005,13 +1993,7 @@
        "hero": "nom"
       },
       {
-       "t": " pour"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "l'appâter!"
+       "t": " pour l'appâter!"
       }
      ]
     }
@@ -2052,7 +2034,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On... On a emmené Kozy ici et envoyé\nun défi à [1113] [1112] pour\nl'appâter!",
+   "brut_fr": "On... On a emmené Kozy ici et envoyé\nun défi à [1113] [1112] pour l'appâter!",
    "brut_en": "We...[SP]We[SP]brought[SP]Kozy-san[SP]here[SP]and[SP]sent\na[SP]challenge[SP]to[SP][1113][SP][1112][SP]to[SP]call\nhim[SP]out!",
    "data_size": 172,
    "budget": 164
@@ -2066,13 +2048,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On cherchait des recrues pour Gas Chamber,"
+       "t": "On cherchait des recrues pour Gas"
       },
       {
        "nl": true
       },
       {
-       "t": "le groupe de Michel."
+       "t": "Chamber, le groupe de Michel."
       }
      ]
     }
@@ -2095,7 +2077,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On cherchait des recrues pour Gas Chamber,\nle groupe de Michel.",
+   "brut_fr": "On cherchait des recrues pour Gas\nChamber, le groupe de Michel.",
    "brut_en": "We[SP]were[SP]looking[SP]for[SP]recruits[SP]for[SP]Gas[SP]Chamber,\nMichel-san's[SP]band.",
    "data_size": 154,
    "budget": 146
@@ -2109,19 +2091,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "On s'est assurés de suivre tes ordres"
+       "t": "On s'est assurés de suivre tes"
       },
       {
        "nl": true
       },
       {
-       "t": "et de trouver un type super cool, mais"
+       "t": "ordres et de trouver un type super"
       },
       {
        "nl": true
       },
       {
-       "t": "pas autant que toi..."
+       "t": "cool, mais pas autant que toi..."
       }
      ]
     }
@@ -2150,7 +2132,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On s'est assurés de suivre tes ordres\net de trouver un type super cool, mais\npas autant que toi...",
+   "brut_fr": "On s'est assurés de suivre tes\nordres et de trouver un type super\ncool, mais pas autant que toi...",
    "brut_en": "We[SP]made[SP]sure[SP]to[SP]follow[SP]your[SP]directions[SP]and\nfind[SP]someone[SP]who's[SP]pretty[SP]cool,[SP]but[SP]not[SP]as\ncool[SP]as[SP]you...",
    "data_size": 226,
    "budget": 218
@@ -2164,7 +2146,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Personne ne correspondait."
+       "t": "... Personne ne correspondait."
       }
      ]
     }
@@ -2181,7 +2163,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Personne ne correspondait.",
+   "brut_fr": "... Personne ne correspondait.",
    "brut_en": "...But[SP]there[SP]was[SP]no[SP]one[SP]like[SP]that.",
    "data_size": 94,
    "budget": 86
@@ -2195,13 +2177,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ouais, genre, on a trouvé plein de gens"
+       "t": "Ouais, genre, on a trouvé"
       },
       {
        "nl": true
       },
       {
-       "t": "plus cools que--"
+       "t": "plein de gens plus cools que--"
       }
      ]
     }
@@ -2224,7 +2206,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouais, genre, on a trouvé plein de gens\nplus cools que--",
+   "brut_fr": "Ouais, genre, on a trouvé\nplein de gens plus cools que--",
    "brut_en": "Yeah,[SP]like,[SP]we[SP]found[SP]tons[SP]of[SP]people[SP]who[SP]were\ncooler[SP]than--",
    "data_size": 138,
    "budget": 130
@@ -2269,25 +2251,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "N-non rien! Bref, voilà pourquoi j'ai suggéré"
+       "t": "N-non rien! Bref, voilà pourquoi"
       },
       {
        "nl": true
       },
       {
-       "t": "de ramener "
+       "t": "j'ai suggéré de ramener "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": ". Tu voulais en"
+       "t": ". Tu"
       },
       {
        "nl": true
       },
       {
-       "t": "faire un larbin, en plus!"
+       "t": "voulais en"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " faire un larbin, en plus!"
       }
      ]
     }
@@ -2322,7 +2310,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N-non rien! Bref, voilà pourquoi j'ai suggéré\nde ramener [1113]. Tu voulais en\nfaire un larbin, en plus!",
+   "brut_fr": "N-non rien! Bref, voilà pourquoi\nj'ai suggéré de ramener [1113]. Tu\nvoulais en[1205][U+000F] faire un larbin, en plus!",
    "brut_en": "N-Nothing![SP]Anyway,[SP]that's[SP]why[SP]I[SP]suggested\nbringing[SP]in[SP][1113]-san.[SP]You've[SP]wanted[SP]him\nas[SP]an[SP]underling[SP]for[SP]a[SP]while[SP]now!",
    "data_size": 240,
    "budget": 232
@@ -2336,22 +2324,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sauf qu'après ce qu'on a entendu sur "
+       "t": "Sauf qu'après ce qu'on a entendu sur"
+      },
+      {
+       "nl": true
       },
       {
        "hero": "prenom"
       },
       {
-       "nl": true
-      },
-      {
-       "t": "au collège, on savait qu'il viendrait pas"
+       "t": "au collège, on savait qu'il"
       },
       {
        "nl": true
       },
       {
-       "t": "comme ça, donc..."
+       "t": "viendrait pas comme ça, donc..."
       }
      ]
     }
@@ -2386,7 +2374,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sauf qu'après ce qu'on a entendu sur [1113]\nau collège, on savait qu'il viendrait pas\ncomme ça, donc...",
+   "brut_fr": "Sauf qu'après ce qu'on a entendu sur\n[1113]au collège, on savait qu'il\nviendrait pas comme ça, donc...",
    "brut_en": "But[SP]after[SP]what[SP]we[SP]all[SP]hear[SP]about[SP][1113]-san\nback[SP]in[SP]middle[SP]school,[SP]we[SP]knew[SP]he[SP]wouldn't\njoin[SP]that[SP]easy,[SP]so...",
    "data_size": 224,
    "budget": 216
@@ -2431,13 +2419,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Abrutis! J'arrête pas de vous dire de pas"
+       "t": "Abrutis! J'arrête pas de vous dire"
       },
       {
        "nl": true
       },
       {
-       "t": "faire ces trucs de lâches!"
+       "t": "de pas faire ces trucs de lâches!"
       }
      ]
     }
@@ -2460,7 +2448,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Abrutis! J'arrête pas de vous dire de pas\nfaire ces trucs de lâches!",
+   "brut_fr": "Abrutis! J'arrête pas de vous dire\nde pas faire ces trucs de lâches!",
    "brut_en": "You[SP]numbskulls![SP]I'm[SP]constantly[SP]telling[SP]you\nnever[SP]to[SP]do[SP]cowardly[SP]shit[SP]like[SP]that!",
    "data_size": 184,
    "budget": 176
@@ -2517,13 +2505,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais c'est dur de prendre un mec"
+       "t": "Mais c'est dur de prendre un"
       },
       {
        "nl": true
       },
       {
-       "t": "aussi fort en otage..."
+       "t": "mec aussi fort en otage..."
       }
      ]
     }
@@ -2546,7 +2534,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais c'est dur de prendre un mec\naussi fort en otage...",
+   "brut_fr": "Mais c'est dur de prendre un\nmec aussi fort en otage...",
    "brut_en": "But[SP]it's[SP]not[SP]easy[SP]to[SP]take[SP]someone[SP]as[SP]strong\nas[SP]him[SP]hostage...",
    "data_size": 140,
    "budget": 132
@@ -2560,22 +2548,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Puis la gros--Euh, la meuf est venue"
+       "t": "Puis la gros--Euh, la meuf est venue nous"
       },
       {
        "nl": true
       },
       {
-       "t": "nous inteviewer sur "
+       "t": "inteviewer sur "
       },
       {
-       "enc": "la malédiction de"
-      },
-      {
-       "nl": true
-      },
-      {
-       "enc": "l'emblème"
+       "enc": "la malédiction de l'emblème"
       },
       {
        "t": "..."
@@ -2613,7 +2595,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Puis la gros--Euh, la meuf est venue\nnous inteviewer sur [1432][NULL][NULL][0014]la malédiction de\nl'emblème[1432][NULL][NULL][0014]...",
+   "brut_fr": "Puis la gros--Euh, la meuf est venue nous\ninteviewer sur [1432][NULL][NULL][0014]la malédiction de l'emblème[1432][NULL][NULL][0014]...",
    "brut_en": "That's[SP]when[SP]this[SP]fatt--I[SP]mean,[SP]this[SP]chick\ncame[SP]to[SP]interview[SP]us[SP]about[SP]the[SP][1432][NULL][NULL][0014]emblem\ncurse[1432][NULL][NULL][0014]...",
    "data_size": 214,
    "budget": 206
@@ -2627,13 +2609,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "On a accepté et demandé qu'elle nous"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "suive."
+       "t": "On a accepté et demandé qu'elle nous suive."
       }
      ]
     }
@@ -2656,7 +2632,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On a accepté et demandé qu'elle nous\nsuive.",
+   "brut_fr": "On a accepté et demandé qu'elle nous suive.",
    "brut_en": "We[SP]told[SP]her[SP]sure,[SP]and[SP]asked[SP]her[SP]to[SP]come\nwith[SP]us.",
    "data_size": 122,
    "budget": 114
@@ -2775,19 +2751,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais, heu... Du coup j'apprendrais"
+       "t": "Mais, heu... Du coup j'apprendrais rien"
       },
       {
        "nl": true
       },
       {
-       "t": "rien sur la malédiction de l'emblème"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "ici?"
+       "t": "sur la malédiction de l'emblème ici?"
       }
      ]
     }
@@ -2816,7 +2786,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais, heu... Du coup j'apprendrais\nrien sur la malédiction de l'emblème\nici?",
+   "brut_fr": "Mais, heu... Du coup j'apprendrais rien\nsur la malédiction de l'emblème ici?",
    "brut_en": "But,[SP]uh...[SP]Does[SP]this[SP]mean[SP]I[SP]won't[SP]learn\nanything[SP]about[SP]the[SP]mystery[SP]of[SP]the[SP]emblem\ncurse[SP]here?",
    "data_size": 204,
    "budget": 196
@@ -2830,13 +2800,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bon, je peux y aller?"
+       "t": "Bon, je peux y aller? Merci"
       },
       {
        "nl": true
       },
       {
-       "t": "Merci pour le repas, bien sûr."
+       "t": "pour le repas, bien sûr."
       }
      ]
     }
@@ -2859,7 +2829,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon, je peux y aller?\nMerci pour le repas, bien sûr.",
+   "brut_fr": "Bon, je peux y aller? Merci\npour le repas, bien sûr.",
    "brut_en": "Then[SP]do[SP]you[SP]mind[SP]if[SP]I[SP]excuse[SP]myself?\nThanks[SP]for[SP]the[SP]food,[SP]anyway.",
    "data_size": 150,
    "budget": 142
@@ -2928,13 +2898,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "*soupir* Bah tout va bien, j'imagine..."
+       "t": "*soupir* Bah tout va bien,"
       },
       {
        "nl": true
       },
       {
-       "t": "Rentrons, "
+       "t": "j'imagine... Rentrons, "
       },
       {
        "hero": "prenom"
@@ -2972,7 +2942,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*soupir* Bah tout va bien, j'imagine...\nRentrons, [1113].",
+   "brut_fr": "*soupir* Bah tout va bien,\nj'imagine... Rentrons, [1113].",
    "brut_en": "*sigh*[SP]I[SP]guess[SP]everything's[SP]fine,[SP]then...\nLet's[SP]go[SP]back,[SP][1113].\n[1121]",
    "data_size": 140,
    "budget": 132
@@ -2986,13 +2956,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je me sens idiote d'avoir cru que"
+       "t": "Je me sens idiote d'avoir cru que ces"
       },
       {
        "nl": true
       },
       {
-       "t": "ces nullos étaient derrière la malédiction..."
+       "t": "nullos étaient derrière la malédiction..."
       }
      ]
     }
@@ -3015,7 +2985,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me sens idiote d'avoir cru que\nces nullos étaient derrière la malédiction...",
+   "brut_fr": "Je me sens idiote d'avoir cru que ces\nnullos étaient derrière la malédiction...",
    "brut_en": "I[SP]feel[SP]like[SP]an[SP]idiot[SP]for[SP]thinking[SP]these[SP]losers\ncould[SP]be[SP]the[SP]ones[SP]behind[SP]the[SP]curse...",
    "data_size": 188,
    "budget": 180
@@ -3112,19 +3082,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pff! Je parie que ton groupe est"
+       "t": "Pff! Je parie que ton groupe est bidon."
       },
       {
        "nl": true
       },
       {
-       "t": "bidon. Genre, tu chantes des perversités sur"
+       "t": "Genre, tu chantes des perversités sur"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ta"
       },
       {
        "nl": true
       },
       {
-       "t": "ta génialitude en gigotant comme un crétin."
+       "t": "génialitude en gigotant comme un crétin."
       }
      ]
     }
@@ -3153,7 +3129,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pff! Je parie que ton groupe est\nbidon. Genre, tu chantes des perversités sur\nta génialitude en gigotant comme un crétin.",
+   "brut_fr": "Pff! Je parie que ton groupe est bidon.\nGenre, tu chantes des perversités sur[1205][U+000F] ta\ngénialitude en gigotant comme un crétin.",
    "brut_en": "Hmph![SP]I[SP]bet[SP]it's[SP]not[SP]even[SP]a[SP]band.[SP]I[SP]bet[SP]you\njust[SP]sing[SP]perverted[SP]songs[SP]about[SP]how[SP]great\nyou[SP]are[SP]while[SP]flailing[SP]around[SP]like[SP]a[SP]spaz.",
    "data_size": 276,
    "budget": 268
@@ -3229,13 +3205,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu vas voir pourquoi on me nomme le"
+       "t": "Tu vas voir pourquoi on me nomme"
       },
       {
        "nl": true
       },
       {
-       "t": "Boss Mortel du Lycée K--"
+       "t": "le Boss Mortel du Lycée K--"
       }
      ]
     }
@@ -3258,7 +3234,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu vas voir pourquoi on me nomme le\nBoss Mortel du Lycée K--",
+   "brut_fr": "Tu vas voir pourquoi on me nomme\nle Boss Mortel du Lycée K--",
    "brut_en": "I'll[SP]show[SP]you[SP]why[SP]they[SP]call[SP]me[SP]the[SP]Death[SP]Boss\nof[SP]Kasugayama[SP]H--",
    "data_size": 152,
    "budget": 144
@@ -3278,13 +3254,13 @@
        "nl": true
       },
       {
-       "t": "sang-froid? Hé, Boss des Calbutes, tu vas"
+       "t": "sang-froid? Hé, Boss des Calbutes, tu"
       },
       {
        "nl": true
       },
       {
-       "t": "descendre mon pantalon aussi?"
+       "t": "vas descendre mon pantalon aussi?"
       }
      ]
     }
@@ -3313,7 +3289,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ooooh, j'ai fait mouche? Tu perds ton\nsang-froid? Hé, Boss des Calbutes, tu vas\ndescendre mon pantalon aussi?",
+   "brut_fr": "Ooooh, j'ai fait mouche? Tu perds ton\nsang-froid? Hé, Boss des Calbutes, tu\nvas descendre mon pantalon aussi?",
    "brut_en": "Ooooh,[SP]did[SP]I[SP]hit[SP]a[SP]nerve?[SP]Did[SP]someone[SP]lose\ntheir[SP]temper?[SP]Hey,[SP]Undie[SP]Boss,[SP]are[SP]you[SP]gonna\npull[SP]my[SP]pants[SP]down[SP]too?",
    "data_size": 240,
    "budget": 232
@@ -3333,13 +3309,13 @@
        "hero": "prenom"
       },
       {
-       "t": " Le Boss Pervert"
+       "t": " Le Boss"
       },
       {
        "nl": true
       },
       {
-       "t": "me regarde bizarrement!"
+       "t": "Pervert me regarde bizarrement!"
       }
      ]
     }
@@ -3368,7 +3344,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Kaumena! Aide-moi, [1113] Le Boss Pervert\nme regarde bizarrement!",
+   "brut_fr": "Kaumena! Aide-moi, [1113] Le Boss\nPervert me regarde bizarrement!",
    "brut_en": "Kaumena![SP]Save[SP]me,[SP][1113]![SP]The[SP]Pervert[SP]Boss\nis[SP]looking[SP]at[SP]me[SP]funny!",
    "data_size": 142,
    "budget": 134
@@ -3518,7 +3494,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "M'APPELLE PAS CALBUTES !"
+       "t": "M'APPELLE PAS CALBUTES!"
       }
      ]
     }
@@ -3535,7 +3511,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "M'APPELLE PAS CALBUTES !",
+   "brut_fr": "M'APPELLE PAS CALBUTES!",
    "brut_en": "DON'T[SP]CALL[SP]ME[SP]UNDIE[SP]BOSS!",
    "data_size": 76,
    "budget": 68
@@ -3549,7 +3525,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis Eikichi Mishina !"
+       "t": "Je suis Eikichi Mishina!"
       }
      ]
     }
@@ -3566,7 +3542,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis Eikichi Mishina !",
+   "brut_fr": "Je suis Eikichi Mishina!",
    "brut_en": "My[SP]name's[SP]Eikichi[SP]Mishina!",
    "data_size": 78,
    "budget": 70

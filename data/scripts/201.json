@@ -47,13 +47,13 @@
        "pause": true
       },
       {
-       "t": " Quoi qu'en disent les autres,"
+       "t": " Quoi qu'en disent les"
       },
       {
        "nl": true
       },
       {
-       "t": "on a besoin de toi."
+       "t": "autres, on a besoin de toi."
       }
      ]
     }
@@ -82,7 +82,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun...[1205][001E] Quoi qu'en disent les autres,\non a besoin de toi.",
+   "brut_fr": "Jun...[1205][001E] Quoi qu'en disent les\nautres, on a besoin de toi.",
    "brut_en": "Jun-kun...[1205][001E][SP]No[SP]matter[SP]who[SP]else[SP]says[SP]they[SP]don't\nneed[SP]you,[SP]we[SP]need[SP]you.",
    "data_size": 162,
    "budget": 154
@@ -136,13 +136,13 @@
        "hero": "prenom"
       },
       {
-       "t": "...?"
+       "t": "...? Ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Ce garçon qui est presque ton autre toi ?"
+       "t": "garçon qui est presque ton autre toi?"
       }
      ]
     }
@@ -171,7 +171,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu laisserais tomber [1113]...?\nCe garçon qui est presque ton autre toi ?",
+   "brut_fr": "Tu laisserais tomber [1113]...? Ce\ngarçon qui est presque ton autre toi?",
    "brut_en": "You'd[SP]leave[SP][1113]-kun[SP]behind...?\nThe[SP]boy[SP]who's[SP]practically[SP]your[SP]other[SP]self?",
    "data_size": 164,
    "budget": 156
@@ -228,16 +228,19 @@
        "pause": true
       },
       {
-       "t": " Je me souviens ... de tout"
-      },
-      {
-       "pause": true
+       "t": " Je me souviens... de"
       },
       {
        "nl": true
       },
       {
-       "t": "Vite... il faut l'arrêter"
+       "t": "tout"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vite... il faut l'arrêter"
       }
      ]
     }
@@ -269,7 +272,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je...[1205][001E] Je me souviens ... de tout[1205][001E]\nVite... il faut l'arrêter",
+   "brut_fr": "Je...[1205][001E] Je me souviens... de\ntout[1205][001E] Vite... il faut l'arrêter",
    "brut_en": "I...[1205][001E][SP]I[SP]finally...[SP]remember[SP]everything...[1205][001E]\nWe[SP]need[SP]to[SP]hurry...[SP]and[SP]defeat[SP]him...",
    "data_size": 184,
    "budget": 176
@@ -363,16 +366,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous saurez quand vous le verrez."
-      },
-      {
-       "pause": true
+       "t": "Vous saurez quand vous le"
       },
       {
        "nl": true
       },
       {
-       "t": "On doit continuer"
+       "t": "verrez."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On doit continuer"
       }
      ]
     }
@@ -401,7 +407,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous saurez quand vous le verrez.[1205][001E]\nOn doit continuer",
+   "brut_fr": "Vous saurez quand vous le\nverrez.[1205][001E] On doit continuer",
    "brut_en": "You'll[SP]know[SP]when[SP]you[SP]see[SP]him.[1205][001E][SP]We[SP]have[SP]to\nkeep[SP]going...",
    "data_size": 132,
    "budget": 124
@@ -470,10 +476,13 @@
        "pause": true
       },
       {
+       "t": " Alors,"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Alors, qui est le vrai père de Jun...?"
+       "t": "qui est le vrai père de Jun...?"
       }
      ]
     }
@@ -505,7 +514,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On aurait dit le fantôme de l'horloge,\nmais c'était quelqu'un d'autre.[1205][001E]\nAlors, qui est le vrai père de Jun...?",
+   "brut_fr": "On aurait dit le fantôme de l'horloge,\nmais c'était quelqu'un d'autre.[1205][001E] Alors,\nqui est le vrai père de Jun...?",
    "brut_en": "He[SP]looked[SP]like[SP]the[SP]ghost[SP]at[SP]the[SP]clock[SP]tower,\nbut[SP]it[SP]was[SP]a[SP]completely[SP]different[SP]person.[1205][001E]\nSo[SP]which[SP]one[SP]is[SP]Jun's[SP]real[SP]dad...?",
    "data_size": 270,
    "budget": 262
@@ -519,19 +528,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'me dispute souvent avec mon vieux parce qu'il m'impose ses rêves..."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Mais je"
+       "t": "J'me dispute souvent avec mon vieux parce"
       },
       {
        "nl": true
       },
       {
-       "t": "n'ai jamais pensé à ce qu'il ressentait..."
+       "t": "qu'il m'impose ses rêves..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais je n'ai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jamais pensé à ce qu'il ressentait..."
       }
      ]
     }
@@ -566,7 +581,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'me dispute souvent avec mon vieux parce qu'il m'impose ses rêves...[1205][001E] Mais je\nn'ai jamais pensé à ce qu'il ressentait...",
+   "brut_fr": "J'me dispute souvent avec mon vieux parce\nqu'il m'impose ses rêves...[1205][001E] Mais je n'ai\njamais pensé à ce qu'il ressentait...",
    "brut_en": "I[SP]fight[SP]with[SP]my[SP]old[SP]man[SP]all[SP]the[SP]time[SP]because\nI[SP]hate[SP]how[SP]he[SP]pushes[SP]his[SP]dreams[SP]on[SP]me...[1205][001E][SP]But[SP]I\nnever[SP]bothered[SP]to[SP]think[SP]about[SP]how[SP]he[SP]felt...",
    "data_size": 300,
    "budget": 292
@@ -586,13 +601,13 @@
        "pause": true
       },
       {
-       "t": " On passait tout notre temps à"
+       "t": " On passait tout notre"
       },
       {
        "nl": true
       },
       {
-       "t": "imaginer comment était son père"
+       "t": "temps à imaginer comment était son père"
       }
      ]
     }
@@ -621,7 +636,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "À l'époque...[1205][001E] On passait tout notre temps à\nimaginer comment était son père",
+   "brut_fr": "À l'époque...[1205][001E] On passait tout notre\ntemps à imaginer comment était son père",
    "brut_en": "Back[SP]then...[1205][001E][SP]We[SP]used[SP]to[SP]speculate[SP]all[SP]the\ntime[SP]about[SP]what[SP]Jun-kun's[SP]dad[SP]was[SP]like...",
    "data_size": 192,
    "budget": 184
@@ -647,13 +662,13 @@
        "pause": true
       },
       {
-       "t": " Mais c'est"
+       "t": " Mais"
       },
       {
        "nl": true
       },
       {
-       "t": " la seule chose sensée..."
+       "t": "c'est la seule chose sensée..."
       }
      ]
     }
@@ -688,7 +703,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Attend...[1205][001E] C'est impossible [1205][001E] Mais c'est\n la seule chose sensée...",
+   "brut_fr": "Attend...[1205][001E] C'est impossible [1205][001E] Mais\nc'est la seule chose sensée...",
    "brut_en": "Wait...[1205][001E][SP]He[SP]can't[SP]be...[1205][001E][SP]But[SP]it's[SP]the[SP]only\nthing[SP]that[SP]makes[SP]sense...",
    "data_size": 162,
    "budget": 154
@@ -702,22 +717,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "On ne réalise sa chance que"
+       "t": "On ne réalise sa chance que lorsqu'on la"
       },
       {
        "nl": true
       },
       {
-       "t": "lorsqu'on la perd..."
+       "t": "perd..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "J'espère que ce n'est pas ton cas..."
+       "t": " J'espère que ce n'est pas ton cas..."
       }
      ]
     }
@@ -752,7 +764,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On ne réalise sa chance que\nlorsqu'on la perd...[1205][001E]\nJ'espère que ce n'est pas ton cas...",
+   "brut_fr": "On ne réalise sa chance que lorsqu'on la\nperd...[1205][001E] J'espère que ce n'est pas ton cas...",
    "brut_en": "You[SP]can't[SP]tell[SP]how[SP]lucky[SP]you[SP]have[SP]it[SP]until\nyou[SP]don't[SP]have[SP]it[SP]anymore...[1205][001E][SP]I[SP]hope[SP]that's\nnot[SP]the[SP]case[SP]with[SP]you...",
    "data_size": 246,
    "budget": 238
@@ -772,16 +784,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Le type de l'autre jour n'était"
+       "t": " Le type de l'autre"
       },
       {
        "nl": true
       },
       {
-       "t": "pas le père de Jun ?"
+       "t": "jour n'était pas le père de Jun?"
       }
      ]
     }
@@ -810,7 +819,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'pige rien...[1205][001E]\nLe type de l'autre jour n'était\npas le père de Jun ?",
+   "brut_fr": "J'pige rien...[1205][001E] Le type de l'autre\njour n'était pas le père de Jun?",
    "brut_en": "I[SP]don't[SP]get[SP]this[SP]at[SP]all...[1205][001E][SP]Isn't[SP]the[SP]guy[SP]we\nmet[SP]back[SP]then[SP]Jun's[SP]dad?",
    "data_size": 168,
    "budget": 160
@@ -824,7 +833,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je n'ai jamais réfléchi à si je me considérais chanceux"
+       "t": "Je n'ai jamais réfléchi à si"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je me considérais chanceux"
       }
      ]
     }
@@ -847,7 +862,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je n'ai jamais réfléchi à si je me considérais chanceux",
+   "brut_fr": "Je n'ai jamais réfléchi à si\nje me considérais chanceux",
    "brut_en": "I[SP]never[SP]thought[SP]about[SP]whether[SP]or[SP]not[SP]I\nconsider[SP]myself[SP]lucky...",
    "data_size": 154,
    "budget": 146
@@ -861,19 +876,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais en voyant Maya et Jun,"
+       "t": "Mais en voyant Maya et Jun, je me dis que j'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "je me dis que j'ai de la chance"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "d'avoir un père comme le mien..."
+       "t": "de la chance d'avoir un père comme le mien..."
       }
      ]
     }
@@ -902,7 +911,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais en voyant Maya et Jun,\nje me dis que j'ai de la chance\nd'avoir un père comme le mien...",
+   "brut_fr": "Mais en voyant Maya et Jun, je me dis que j'ai\nde la chance d'avoir un père comme le mien...",
    "brut_en": "But[SP]when[SP]I[SP]look[SP]at[SP]Big[SP]Maya[SP]and[SP]Jun,\nI[SP]think[SP]I'm[SP]probably[SP]lucky[SP]to[SP]at[SP]least\nhave[SP]a[SP]dad[SP]like[SP]mine...",
    "data_size": 226,
    "budget": 218

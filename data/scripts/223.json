@@ -246,19 +246,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pas grave! Tu as fait plus que ta part."
+       "t": "Pas grave! Tu as fait plus que ta part. On"
       },
       {
        "nl": true
       },
       {
-       "t": "On trouvera le reste nous-mêmes."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Merci, Eriko!"
+       "t": "trouvera le reste nous-mêmes. Merci, Eriko!"
       }
      ]
     }
@@ -287,7 +281,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pas grave! Tu as fait plus que ta part.\nOn trouvera le reste nous-mêmes.\nMerci, Eriko!",
+   "brut_fr": "Pas grave! Tu as fait plus que ta part. On\ntrouvera le reste nous-mêmes. Merci, Eriko!",
    "brut_en": "That's[SP]okay![SP]You've[SP]done[SP]more[SP]than[SP]your\nshare![SP]We'll[SP]figure[SP]out[SP]the[SP]rest[SP]on[SP]our\nown.[SP]Grazie,[SP]Eriko-san!",
    "data_size": 228,
    "budget": 220
@@ -301,19 +295,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Avec plaisir. Je vais rester ici et"
+       "t": "Avec plaisir. Je vais rester ici"
       },
       {
        "nl": true
       },
       {
-       "t": "méditer sur le Cercle Masqué et leur"
+       "t": "et méditer sur le Cercle Masqué"
       },
       {
        "nl": true
       },
       {
-       "t": "énigme encore un peu."
+       "t": "et leur énigme encore un peu."
       }
      ]
     }
@@ -342,7 +336,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Avec plaisir. Je vais rester ici et\nméditer sur le Cercle Masqué et leur\nénigme encore un peu.",
+   "brut_fr": "Avec plaisir. Je vais rester ici\net méditer sur le Cercle Masqué\net leur énigme encore un peu.",
    "brut_en": "You're[SP]quite[SP]welcome.[SP]I'll[SP]stay[SP]here[SP]and\nponder[SP]the[SP]Masked[SP]Circle[SP]and[SP]their[SP]riddle\na[SP]little[SP]more.",
    "data_size": 216,
    "budget": 208
@@ -393,16 +387,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais pas de temps à perdre ! En route,"
+       "t": "Mais pas de temps à perdre!"
       },
       {
        "nl": true
       },
       {
+       "t": "En route, "
+      },
+      {
        "hero": "prenom"
       },
       {
-       "t": ", Maya-san !"
+       "t": ", Maya-san!"
       }
      ]
     }
@@ -428,7 +425,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais pas de temps à perdre ! En route,\n[1113], Maya-san !",
+   "brut_fr": "Mais pas de temps à perdre!\nEn route, [1113], Maya-san!",
    "brut_en": "But[SP]there's[SP]no[SP]time[SP]to[SP]waste![SP]Let's[SP]go,\n[1113],[SP]Maya-san!",
    "data_size": 130,
    "budget": 122
@@ -585,13 +582,7 @@
        "hero": "prenom"
       },
       {
-       "t": ","
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "en fait j'ai..."
+       "t": ", en fait j'ai..."
       }
      ]
     }
@@ -626,7 +617,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pardon-ia...[1205][001E] À part [1113],\nen fait j'ai...",
+   "brut_fr": "Pardon-ia...[1205][001E] À part [1113], en fait j'ai...",
    "brut_en": "Sorry-ia...[1205][001E][SP]Other[SP]than[SP][1113],\nI've[SP]actually...",
    "data_size": 110,
    "budget": 102
@@ -646,7 +637,7 @@
        "pause": true
       },
       {
-       "t": " C'est pas le moment, hein ?"
+       "t": " C'est pas le moment, hein?"
       },
       {
        "nl": true
@@ -681,7 +672,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "E-Euh...[1205][001E] C'est pas le moment, hein ?\nJe te dirai plus tard, peut-être...",
+   "brut_fr": "E-Euh...[1205][001E] C'est pas le moment, hein?\nJe te dirai plus tard, peut-être...",
    "brut_en": "U-Umm...[1205][001E][SP]Now's[SP]not[SP]the[SP]time[SP]for[SP]this,[SP]huh?\nI'll[SP]tell[SP]you[SP]later,[SP]maybe...",
    "data_size": 172,
    "budget": 164
@@ -695,22 +686,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Souriants, tous descendent aux enfers..."
+       "t": "Souriants, tous descendent aux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "enfers..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Il y a un indice là. Vois ce que tu en"
+       "t": " Il y a un indice là."
       },
       {
        "nl": true
       },
       {
-       "t": "tires, "
+       "t": "Vois ce que tu en tires, "
       },
       {
        "hero": "prenom"
@@ -754,7 +748,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Souriants, tous descendent aux enfers...[1205][001E]\nIl y a un indice là. Vois ce que tu en\ntires, [1113].",
+   "brut_fr": "Souriants, tous descendent aux\nenfers...[1205][001E] Il y a un indice là.\nVois ce que tu en tires, [1113].",
    "brut_en": "All[SP]descend[SP]with[SP]smiles[SP]to[SP]the[SP]netherworld...[1205][001E]\nThere[SP]has[SP]to[SP]be[SP]a[SP]hint[SP]in[SP]there.[SP]See[SP]what[SP]you\ncan[SP]come[SP]up[SP]with,[SP][1113]-kun.",
    "data_size": 256,
    "budget": 248
@@ -768,13 +762,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On a déjà trop traîné. Une erreur sur"
+       "t": "On a déjà trop traîné. Une erreur"
       },
       {
        "nl": true
       },
       {
-       "t": "la cible serait fatale..."
+       "t": "sur la cible serait fatale..."
       }
      ]
     }
@@ -803,7 +797,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On a déjà trop traîné. Une erreur sur\nla cible serait fatale...",
+   "brut_fr": "On a déjà trop traîné. Une erreur\nsur la cible serait fatale...",
    "brut_en": "This[SP]has[SP]already[SP]taken[SP]up[SP]enough[SP]time[SP]as[SP]is,\nso[SP]if[SP]we[SP]get[SP]the[SP]next[SP]target[SP]wrong,[SP]it[SP]could\nbe[SP]disastrous...",
    "data_size": 234,
    "budget": 226

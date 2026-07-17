@@ -10,19 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quelqu'un ici n'a aucun rêve ?"
+       "t": "Quelqu'un ici n'a aucun rêve? Je ne comprends"
       },
       {
        "nl": true
       },
       {
-       "t": "Je ne comprends pas. Les rêves"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "rendent la vie amusante."
+       "t": "pas. Les rêves rendent la vie amusante."
       }
      ]
     }
@@ -51,7 +45,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quelqu'un ici n'a aucun rêve ?\nJe ne comprends pas. Les rêves\nrendent la vie amusante.",
+   "brut_fr": "Quelqu'un ici n'a aucun rêve? Je ne comprends\npas. Les rêves rendent la vie amusante.",
    "brut_en": "Is[SP]there[SP]anybody[SP]who[SP]has[SP]no[SP]dream?[SP]I[SP]don't\nunderstand[SP]that[SP]at[SP]all.[SP]Dreams[SP]are[SP]what[SP]make\nlife[SP]fun.",
    "data_size": 220,
    "budget": 212
@@ -65,7 +59,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "H-Hé, on peut parler un instant ?"
+       "t": "H-Hé, on peut parler un instant?"
       },
       {
        "nl": true
@@ -77,7 +71,7 @@
        "nl": true
       },
       {
-       "t": "le Joker soit dans ce lycée ?"
+       "t": "le Joker soit dans ce lycée?"
       }
      ]
     }
@@ -106,7 +100,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "H-Hé, on peut parler un instant ?\nCrois-tu qu'il soit possible que\nle Joker soit dans ce lycée ?",
+   "brut_fr": "H-Hé, on peut parler un instant?\nCrois-tu qu'il soit possible que\nle Joker soit dans ce lycée?",
    "brut_en": "H-Hey,[SP]could[SP]we[SP]talk[SP]for[SP]a[SP]sec?[SP]Do[SP]you[SP]think\nthere's[SP]any[SP]possibility[SP]that[SP]Joker[SP]might[SP]be\nsomewhere[SP]in[SP]this[SP]school?",
    "data_size": 254,
    "budget": 246
@@ -169,31 +163,28 @@
        "hero": "prenom"
       },
       {
-       "t": " ?"
+       "t": "? Je repense"
       },
       {
        "nl": true
       },
       {
-       "t": "Je repense à cette résonance"
+       "t": "à cette résonance avec le Joker."
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "avec le Joker."
+       "t": "Je l'ai en tête..."
       },
       {
        "pause": true
       },
       {
-       "t": " Je l'ai en tête..."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Pourquoi ?"
+       "t": " Pourquoi?"
       }
      ]
     }
@@ -240,7 +231,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Fanna... Hé, [1113] ?\nJe repense à cette résonance\navec le Joker.[1205][U+000F] Je l'ai en tête...[1205][U+000F] Pourquoi ?",
+   "brut_fr": "Fanna... Hé, [1113]? Je repense\nà cette résonance avec le Joker.[1205][U+000F]\nJe l'ai en tête...[1205][U+000F] Pourquoi?",
    "brut_en": "Fanna...[SP]Hey,[SP][1113]?[SP]I[SP]keep[SP]thinking[SP]about\nthat[SP]resonance[SP]with[SP]Joker.[1205][U+000F][SP]I[SP]can't[SP]get[SP]it[SP]out\nof[SP]my[SP]head...[1205][U+000F][SP]Why[SP]is[SP]that?",
    "data_size": 252,
    "budget": 244
@@ -260,16 +251,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "C'est bien qu'on n'ait pas tous"
+       "t": " C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "les mêmes."
+       "t": "bien qu'on n'ait pas tous les mêmes."
       }
      ]
     }
@@ -298,7 +286,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les rêves varient selon les gens...[1205][U+000F]\nC'est bien qu'on n'ait pas tous\nles mêmes.",
+   "brut_fr": "Les rêves varient selon les gens...[1205][U+000F] C'est\nbien qu'on n'ait pas tous les mêmes.",
    "brut_en": "Dreams[SP]differ[SP]from[SP]person[SP]to[SP]person...[1205][U+000F][SP]I[SP]think\nit's[SP]fine[SP]that[SP]not[SP]everyone[SP]has[SP]the[SP]same[SP]one.",
    "data_size": 208,
    "budget": 200
@@ -312,19 +300,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais la vie, c'est atteindre"
+       "t": "Mais la vie, c'est atteindre ces rêves. Vos"
       },
       {
        "nl": true
       },
       {
-       "t": "ces rêves. Vos idéaux sont la"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "clé de votre but dans la vie..."
+       "t": "idéaux sont la clé de votre but dans la vie..."
       }
      ]
     }
@@ -353,7 +335,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais la vie, c'est atteindre\nces rêves. Vos idéaux sont la\nclé de votre but dans la vie...",
+   "brut_fr": "Mais la vie, c'est atteindre ces rêves. Vos\nidéaux sont la clé de votre but dans la vie...",
    "brut_en": "But[SP]I[SP]think[SP]life[SP]is[SP]about[SP]reaching[SP]for[SP]those\ndreams.[SP]Your[SP]ideals[SP]are[SP]the[SP]key[SP]to[SP]learning\nyour[SP]purpose[SP]in[SP]life...",
    "data_size": 244,
    "budget": 236
@@ -367,19 +349,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je n'ai pas senti le Joker"
+       "t": "Je n'ai pas senti le Joker depuis mon"
       },
       {
        "nl": true
       },
       {
-       "t": "depuis mon arrivée ici."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je doute qu'il soit près..."
+       "t": "arrivée ici. Je doute qu'il soit près..."
       }
      ]
     }
@@ -408,7 +384,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je n'ai pas senti le Joker\ndepuis mon arrivée ici.\nJe doute qu'il soit près...",
+   "brut_fr": "Je n'ai pas senti le Joker depuis mon\narrivée ici. Je doute qu'il soit près...",
    "brut_en": "I[SP]haven't[SP]felt[SP]Joker[SP]at[SP]all[SP]since[SP]entering\nthis[SP]school.[SP]I[SP]don't[SP]think[SP]he's[SP]nearby,\nbut[SP]who[SP]knows...",
    "data_size": 218,
    "budget": 210
@@ -422,7 +398,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Obtenir ce qu'on veut est un idéal ?"
+       "t": "Obtenir ce qu'on veut est un idéal?"
       },
       {
        "pause": true
@@ -431,13 +407,13 @@
        "nl": true
       },
       {
-       "t": "Alors si on l'obtient, cela signifie"
+       "t": "Alors si on l'obtient, cela signifie que"
       },
       {
        "nl": true
       },
       {
-       "t": "que l'idéal est exaucé ?"
+       "t": "l'idéal est exaucé?"
       },
       {
        "pause": true
@@ -481,7 +457,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Obtenir ce qu'on veut est un idéal ?[1205][U+000F]\nAlors si on l'obtient, cela signifie\nque l'idéal est exaucé ?[1205][U+000F] Un peu ennuyeux.",
+   "brut_fr": "Obtenir ce qu'on veut est un idéal?[1205][U+000F]\nAlors si on l'obtient, cela signifie que\nl'idéal est exaucé?[1205][U+000F] Un peu ennuyeux.",
    "brut_en": "Does[SP]getting[SP]what[SP]you[SP]want[SP]count[SP]as[SP]an[SP]ideal?[1205][U+000F]\nThen[SP]if[SP]you[SP]get[SP]it,[SP]does[SP]that[SP]mean[SP]your[SP]ideal's\nbeen[SP]granted?[1205][U+000F][SP]Kinda[SP]boring.",
    "data_size": 274,
    "budget": 266
@@ -547,19 +523,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'était clair là-dessous que"
+       "t": "C'était clair là-dessous que le"
       },
       {
        "nl": true
       },
       {
-       "t": "le Joker et le président sont de mèche."
+       "t": "Joker et le président sont de"
       },
       {
        "nl": true
       },
       {
-       "t": "Il se montrera tôt ou tard."
+       "t": "mèche. Il se montrera tôt ou tard."
       }
      ]
     }
@@ -588,7 +564,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'était clair là-dessous que\nle Joker et le président sont de mèche.\nIl se montrera tôt ou tard.",
+   "brut_fr": "C'était clair là-dessous que le\nJoker et le président sont de\nmèche. Il se montrera tôt ou tard.",
    "brut_en": "It[SP]was[SP]clear[SP]enough[SP]down[SP]there[SP]that[SP]Joker[SP]and\nthis[SP]president[SP]are[SP]working[SP]together.[SP]I[SP]bet\nhe'll[SP]show[SP]himself[SP]sooner[SP]or[SP]later.",
    "data_size": 272,
    "budget": 264
@@ -608,13 +584,13 @@
        "pause": true
       },
       {
-       "t": " Une réunion"
+       "t": " Une"
       },
       {
        "nl": true
       },
       {
-       "t": "normale..."
+       "t": "réunion normale..."
       },
       {
        "pause": true
@@ -626,13 +602,10 @@
        "pause": true
       },
       {
-       "t": " Puis"
-      },
-      {
        "nl": true
       },
       {
-       "t": "quelqu'un avec un crâne bleu..."
+       "t": "Puis quelqu'un avec un crâne bleu..."
       }
      ]
     }
@@ -676,7 +649,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je... l'oublierai jamais...[1205][U+000F] Une réunion\nnormale...[1205][U+000F] Rien d'anormal...[1205][U+000F] Puis\nquelqu'un avec un crâne bleu...",
+   "brut_fr": "Je... l'oublierai jamais...[1205][U+000F] Une\nréunion normale...[1205][U+000F] Rien d'anormal...[1205][U+000F]\nPuis quelqu'un avec un crâne bleu...",
    "brut_en": "I'll...[SP]never[SP]forget[SP]it...[1205][U+000F][SP]A[SP]normal[SP]meeting...[1205][U+000F]\nNothing[SP]out[SP]of[SP]the[SP]ordinary...[1205][U+000F][SP]And[SP]then[SP]there\nwas[SP]someone[SP]with[SP]a[SP]blue[SP]skull...",
    "data_size": 298,
    "budget": 290
@@ -702,13 +675,10 @@
        "pause": true
       },
       {
-       "t": " De"
-      },
-      {
        "nl": true
       },
       {
-       "t": "scorpion..."
+       "t": "De scorpion..."
       },
       {
        "pause": true
@@ -752,7 +722,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un scorpion...[1205][U+000F] C'est ça...[1205][U+000F] De\nscorpion...[1205][U+000F] C'était...",
+   "brut_fr": "Un scorpion...[1205][U+000F] C'est ça...[1205][U+000F]\nDe scorpion...[1205][U+000F] C'était...",
    "brut_en": "A[SP]scorpion...[1205][U+000F][SP]That's[SP]right...[1205][U+000F][SP]A[SP]scorpion's...[1205][U+000F]\nIt[SP]was[SP]a...",
    "data_size": 162,
    "budget": 154
@@ -766,7 +736,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? Vous cherchez le président ?"
+       "t": "Hein? Vous cherchez le président?"
       },
       {
        "pause": true
@@ -825,7 +795,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? Vous cherchez le président ?[1205][U+000F]\nO-Oh, dans ce cas...[1205][U+000F] Je crois\nqu'il est en salle du conseil.",
+   "brut_fr": "Hein? Vous cherchez le président?[1205][U+000F]\nO-Oh, dans ce cas...[1205][U+000F] Je crois\nqu'il est en salle du conseil.",
    "brut_en": "Huh?[SP]Are[SP]you[SP]the[SP]guys[SP]looking[SP]for[SP]the\npresident?[1205][U+000F][SP]O-Oh,[SP]well[SP]in[SP]that[SP]case...[1205][U+000F]\nI[SP]think[SP]he's[SP]in[SP]the[SP]student[SP]council[SP]room.",
    "data_size": 278,
    "budget": 270
@@ -839,25 +809,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous cherchez le président, non ?"
+       "t": "Vous cherchez le président, non?"
       },
       {
        "pause": true
       },
       {
+       "t": " Ouais... Il"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Ouais... Il est en classe 2-4."
+       "t": "est en classe 2-4."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Pourquoi ne pas y aller... ?"
+       "t": " Pourquoi ne pas y aller...?"
       }
      ]
     }
@@ -898,7 +868,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous cherchez le président, non ?[1205][U+000F]\nOuais... Il est en classe 2-4.[1205][U+000F]\nPourquoi ne pas y aller... ?",
+   "brut_fr": "Vous cherchez le président, non?[1205][U+000F] Ouais... Il\nest en classe 2-4.[1205][U+000F] Pourquoi ne pas y aller...?",
    "brut_en": "You're[SP]looking[SP]for[SP]the[SP]president,[SP]right?[1205][U+000F][SP]Yeah...\nLooks[SP]like[SP]he's[SP]in[SP]Class[SP]2-4.[1205][U+000F][SP]Why[SP]not[SP]go[SP]check\nit[SP]out...?",
    "data_size": 256,
    "budget": 248
@@ -912,7 +882,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "T-Toujours pas trouvé le président ?"
+       "t": "T-Toujours pas trouvé le président?"
       },
       {
        "pause": true
@@ -921,7 +891,7 @@
        "nl": true
       },
       {
-       "t": "H-Hein... ?"
+       "t": "H-Hein...?"
       },
       {
        "pause": true
@@ -933,13 +903,13 @@
        "pause": true
       },
       {
-       "t": " Euh,"
+       "t": " Euh, il doit"
       },
       {
        "nl": true
       },
       {
-       "t": "il doit être en 3-1..."
+       "t": "être en 3-1..."
       },
       {
        "pause": true
@@ -995,7 +965,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T-Toujours pas trouvé le président ?[1205][U+000F]\nH-Hein... ?[1205][U+000F] Bizarre...[1205][U+000F] Euh,\nil doit être en 3-1...[1205][U+000F] Je crois.",
+   "brut_fr": "T-Toujours pas trouvé le président?[1205][U+000F]\nH-Hein...?[1205][U+000F] Bizarre...[1205][U+000F] Euh, il doit\nêtre en 3-1...[1205][U+000F] Je crois.",
    "brut_en": "Y-You[SP]still[SP]can't[SP]find[SP]the[SP]president?[1205][U+000F][SP]H-Huh...?[1205][U+000F]\nThat's[SP]weird...[1205][U+000F][SP]Um,[SP]then[SP]he's[SP]probably[SP]in\nClass[SP]3-1....[1205][U+000F][SP]I[SP]think.",
    "data_size": 276,
    "budget": 268
@@ -1070,13 +1040,13 @@
        "nl": true
       },
       {
-       "t": "que je voulais. Je vais tout miser sur le"
+       "t": "que je voulais. Je vais tout miser"
       },
       {
        "nl": true
       },
       {
-       "t": "Jeu du Joker pour tout rafler."
+       "t": "sur le Jeu du Joker pour tout rafler."
       }
      ]
     }
@@ -1105,7 +1075,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Héhéhé, j'ai eu tellement de trucs\nque je voulais. Je vais tout miser sur le\nJeu du Joker pour tout rafler.",
+   "brut_fr": "Héhéhé, j'ai eu tellement de trucs\nque je voulais. Je vais tout miser\nsur le Jeu du Joker pour tout rafler.",
    "brut_en": "Heeheehee,[SP]I've[SP]got[SP]so[SP]much[SP]stuff[SP]I[SP]always\nwanted.[SP]I'm[SP]thinking[SP]about[SP]going[SP]for[SP]broke\nwith[SP]the[SP]Joker[SP]Game[SP]and[SP]getting[SP]everything.",
    "data_size": 294,
    "budget": 286
@@ -1119,19 +1089,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? Pourquoi ? C'est mon rêve."
+       "t": "Hein? Pourquoi? C'est mon rêve. Quoi, t'as une"
       },
       {
        "nl": true
       },
       {
-       "t": "Quoi, t'as une meilleure idée ?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "J'aimerais bien l'entendre."
+       "t": "meilleure idée? J'aimerais bien l'entendre."
       }
      ]
     }
@@ -1160,7 +1124,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? Pourquoi ? C'est mon rêve.\nQuoi, t'as une meilleure idée ?\nJ'aimerais bien l'entendre.",
+   "brut_fr": "Hein? Pourquoi? C'est mon rêve. Quoi, t'as une\nmeilleure idée? J'aimerais bien l'entendre.",
    "brut_en": "Huh?[SP]Why[SP]not?[SP]That's[SP]my[SP]dream[SP]and[SP]all.[SP]What,[SP]do\nyou[SP]have[SP]a[SP]better[SP]one[SP]in[SP]mind?[SP]This[SP]I'd[SP]like\nto[SP]hear.",
    "data_size": 238,
    "budget": 230
@@ -1174,7 +1138,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'as-tu en tête ?"
+       "t": "Qu'as-tu en tête?"
       }
      ]
     }
@@ -1193,11 +1157,12 @@
     "options": [
      "Pense à l'avenir.",
      "Non, ça me va.",
+     "[1205]",
      "J'avais rien en tête."
     ],
     "question": [
      {
-      "t": "Qu'as-tu en tête ?"
+      "t": "Qu'as-tu en tête?"
      }
     ]
    },
@@ -1213,7 +1178,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'as-tu en tête ?\n[1208][U+0003][1432][NULL][NULL][0014]Pense à l'avenir.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Non, ça me va.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]J'avais rien en tête.[1432][NULL][NULL][0014]",
+   "brut_fr": "Qu'as-tu en tête?\n[1208][U+0003][1432][NULL][NULL][0014]Pense à l'avenir.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Non, ça me va.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]J'avais rien en tête.[1432][NULL][NULL][0014]",
    "brut_en": "What[SP]did[SP]you[SP]have[SP]in[SP]mind?\n[1208][U+0003][1432][NULL][NULL][0014]Think[SP]more[SP]about[SP]the[SP]future.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Nah,[SP]I[SP]think[SP]that's[SP]fine.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]didn't[SP]have[SP]anything[SP]in[SP]mind.[1432][NULL][NULL][0014]",
    "data_size": 316,
    "budget": 308
@@ -1227,25 +1192,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hmph. C'est bien beau, mais comment"
+       "t": "Hmph. C'est bien beau, mais comment connaître"
       },
       {
        "nl": true
       },
       {
-       "t": "connaître l'avenir ?"
+       "t": "l'avenir?"
       },
       {
        "pause": true
       },
       {
-       "t": " Comment baser"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "ses rêves sur ça ?"
+       "t": " Comment baser ses rêves sur ça?"
       }
      ]
     }
@@ -1280,7 +1239,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hmph. C'est bien beau, mais comment\nconnaître l'avenir ?[1205][U+000F] Comment baser\nses rêves sur ça ?",
+   "brut_fr": "Hmph. C'est bien beau, mais comment connaître\nl'avenir?[1205][U+000F] Comment baser ses rêves sur ça?",
    "brut_en": "Hmph.[SP]That's[SP]all[SP]fine[SP]and[SP]dandy,[SP]but[SP]how[SP]do[SP]you\nknow[SP]what'll[SP]happen[SP]in[SP]the[SP]future?[1205][U+000F][SP]How[SP]can[SP]you\nbase[SP]your[SP]dreams[SP]on[SP]that?",
    "data_size": 280,
    "budget": 272
@@ -1294,25 +1253,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est clair. Je ne connais que"
+       "t": "C'est clair. Je ne connais que le présent,"
       },
       {
        "nl": true
       },
       {
-       "t": "le présent, alors pourquoi planifier"
+       "t": "alors pourquoi planifier mes rêves? Et puis,"
       },
       {
        "nl": true
       },
       {
-       "t": "mes rêves ? Et puis, ce genre"
+       "t": "ce genre"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "de discours est tellement ringard."
+       "t": " de discours est tellement ringard."
       }
      ]
     }
@@ -1341,7 +1300,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est clair. Je ne connais que\nle présent, alors pourquoi planifier\nmes rêves ? Et puis, ce genre\nde discours est tellement ringard.",
+   "brut_fr": "C'est clair. Je ne connais que le présent,\nalors pourquoi planifier mes rêves? Et puis,\nce genre[1205][U+000F] de discours est tellement ringard.",
    "brut_en": "I[SP]know,[SP]right?[SP]Right[SP]now[SP]is[SP]all[SP]I[SP]know,[SP]so[SP]why\nplan[SP]ahead[SP]when[SP]it[SP]comes[SP]to[SP]my[SP]dreams?[SP]Besides,\nthat[SP]kind[SP]of[SP]talk[SP]is[SP]totally[SP]lame[SP]nowadays.",
    "data_size": 312,
    "budget": 304

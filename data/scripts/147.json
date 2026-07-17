@@ -16,13 +16,13 @@
        "pause": true
       },
       {
-       "t": " C'est faible mais... Je crois"
+       "t": " C'est faible mais..."
       },
       {
        "nl": true
       },
       {
-       "t": "qu'on s'en rapproche."
+       "t": "Je crois qu'on s'en rapproche."
       }
      ]
     }
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Chinyan...[1205][001E] C'est faible mais... Je crois\nqu'on s'en rapproche.",
+   "brut_fr": "Chinyan...[1205][001E] C'est faible mais...\nJe crois qu'on s'en rapproche.",
    "brut_en": "Chinyan...[1205][001E][SP]It's[SP]still[SP]faint,[SP]but...[SP]I[SP]think\nwe're[SP]getting[SP]closer.",
    "data_size": 158,
    "budget": 150
@@ -65,7 +65,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce faux toi dans le Caracol m'a vraiment effrayée. Comme si tu étais devenu une machine insensible..."
+       "t": "Ce faux toi dans le Caracol m'a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vraiment effrayée. Comme si tu étais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "devenu une machine insensible..."
       }
      ]
     }
@@ -94,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce faux toi dans le Caracol m'a vraiment effrayée. Comme si tu étais devenu une machine insensible...",
+   "brut_fr": "Ce faux toi dans le Caracol m'a\nvraiment effrayée. Comme si tu étais\ndevenu une machine insensible...",
    "brut_en": "When[SP]I[SP]saw[SP]the[SP]fake[SP]you[SP]at[SP]the[SP]Caracol,\nit[SP]really[SP]scared[SP]me.[SP]It's[SP]like[SP]you[SP]were[SP]an\nunfeeling[SP]machine...",
    "data_size": 230,
    "budget": 222
@@ -114,13 +126,19 @@
        "nl": true
       },
       {
-       "t": "qu'il a comme une aura rassurante. Mais Jun"
+       "t": "qu'il a comme une aura rassurante. Mais"
       },
       {
        "nl": true
       },
       {
-       "t": "abuserais pas un peu des compliments?"
+       "t": "Jun"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " abuserais pas un peu des compliments?"
       }
      ]
     }
@@ -149,7 +167,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "D'accord, [1114] a de la présence, et j'admet\nqu'il a comme une aura rassurante. Mais Jun\nabuserais pas un peu des compliments?",
+   "brut_fr": "D'accord, [1114] a de la présence, et j'admet\nqu'il a comme une aura rassurante. Mais\nJun[1205][U+000F] abuserais pas un peu des compliments?",
    "brut_en": "Sure,[SP][1114]'s[SP]a[SP]stand-up[SP]guy,[SP]and[SP]I[SP]admit\nI[SP]get[SP]a[SP]weird[SP]sense[SP]of[SP]security[SP]around[SP]him.\nBut[SP]isn't[SP]Jun[SP]laying[SP]it[SP]on[SP]a[SP]little[SP]thick?",
    "data_size": 276,
    "budget": 268
@@ -163,13 +181,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "À force d'être aussi collé et attaché à"
+       "t": "À force d'être aussi collé et attaché"
       },
       {
        "nl": true
       },
       {
-       "t": "lui, y'a un taureau enragé par la jalousie qui te foncera dessus..."
+       "t": "à lui, y'a un taureau enragé par la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jalousie qui te foncera dessus..."
       }
      ]
     }
@@ -198,7 +222,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "À force d'être aussi collé et attaché à\nlui, y'a un taureau enragé par la jalousie qui te foncera dessus...",
+   "brut_fr": "À force d'être aussi collé et attaché\nà lui, y'a un taureau enragé par la\njalousie qui te foncera dessus...",
    "brut_en": "If[SP]you[SP]keep[SP]putting[SP]on[SP]public[SP]displays[SP]of\nbro-hood[SP]with[SP]him,[SP]you're[SP]gonna[SP]find[SP]a[SP]raging\nbull[SP]of[SP]envy[SP]after[SP]you...",
    "data_size": 254,
    "budget": 246
@@ -280,13 +304,16 @@
        "hero": "prenom"
       },
       {
-       "t": "."
+       "t": ". Tu ne"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu ne trouves pas, Lisa? Il est fort, libre,"
+       "t": "trouves pas, Lisa? Il est fort, libre,"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -327,7 +354,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "De combien le Lion sied à [1113].\nTu ne trouves pas, Lisa? Il est fort, libre,\net ne laisse personne l'enchaîner...",
+   "brut_fr": "De combien le Lion sied à [1113]. Tu ne\ntrouves pas, Lisa? Il est fort, libre,[1205][U+000F]\net ne laisse personne l'enchaîner...",
    "brut_en": "I[SP]said[SP]that[SP]Leo[SP]is[SP]fitting[SP]for[SP][1113].\nDon't[SP]you[SP]think,[SP]Lisa?[SP]He's[SP]strong,[SP]free,\nand[SP]won't[SP]be[SP]tied[SP]down[SP]by[SP]anyone...",
    "data_size": 242,
    "budget": 234
@@ -434,13 +461,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Puis tu fais quoi par terre, toi!?"
+       "t": "Puis tu fais quoi par terre,"
       },
       {
        "nl": true
       },
       {
-       "t": "Tu me gênes, Eikichi!"
+       "t": "toi!? Tu me gênes, Eikichi!"
       }
      ]
     }
@@ -463,7 +490,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Puis tu fais quoi par terre, toi!?\nTu me gênes, Eikichi!",
+   "brut_fr": "Puis tu fais quoi par terre,\ntoi!? Tu me gênes, Eikichi!",
    "brut_en": "And[SP]what're[SP]you[SP]on[SP]the[SP]floor[SP]for!?\nYou're[SP]in[SP]my[SP]way,[SP]Eikichi!",
    "data_size": 146,
    "budget": 138
@@ -545,19 +572,25 @@
        "pause": true
       },
       {
-       "t": " Parfois, Ginko pète complètement les"
+       "t": " Parfois, Ginko pète complètement"
       },
       {
        "nl": true
       },
       {
-       "t": "plombs. Quand elle vire pas foldingue dès"
+       "t": "les plombs. Quand elle vire pas"
       },
       {
        "nl": true
       },
       {
-       "t": "que ça concerne ..."
+       "t": "foldingue dès"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que ça concerne ..."
       }
      ]
     }
@@ -592,7 +625,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouch...[1205][001E] Parfois, Ginko pète complètement les\nplombs. Quand elle vire pas foldingue dès\nque ça concerne [1114]...",
+   "brut_fr": "Ouch...[1205][001E] Parfois, Ginko pète complètement\nles plombs. Quand elle vire pas\nfoldingue dès[1205][U+000F] que ça concerne [1114]...",
    "brut_en": "Owww...[1205][001E][SP]Every[SP]now[SP]and[SP]then,[SP]Ginko[SP]just[SP]loses\nit[SP]completely.[SP]She[SP]goes[SP]crazy[SP]at[SP]anything\nhaving[SP]to[SP]do[SP]with[SP][1114]...",
    "data_size": 250,
    "budget": 242
@@ -606,13 +639,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Parfois, Ginko pète complètement les plombs."
+       "t": "Parfois, Ginko pète complètement"
       },
       {
        "nl": true
       },
       {
-       "t": "Quand elle vire pas foldingue dès que ça concerne ..."
+       "t": "les plombs. Quand elle vire pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "foldingue dès que ça "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " concerne ..."
       }
      ]
     }
@@ -641,7 +686,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Parfois, Ginko pète complètement les plombs.\nQuand elle vire pas foldingue dès que ça concerne [1114]...",
+   "brut_fr": "Parfois, Ginko pète complètement\nles plombs. Quand elle vire pas\nfoldingue dès que ça [1205][U+000F] concerne [1114]...",
    "brut_en": "Every[SP]now[SP]and[SP]then,[SP]Ginko[SP]just[SP]loses[SP]it\ncompletely.[SP]She[SP]goes[SP]crazy[SP]at[SP]anything\nhaving[SP]to[SP]do[SP]with[SP][1114]...",
    "data_size": 230,
    "budget": 222
@@ -655,19 +700,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai senti la même chose que Lisa. Quand"
+       "t": "J'ai senti la même chose que Lisa."
       },
       {
        "nl": true
       },
       {
-       "t": "j'ai dit que Jun était comme ton ombre,"
+       "t": "Quand j'ai dit que Jun était comme"
       },
       {
        "nl": true
       },
       {
-       "t": "c'était une image mais..."
+       "t": "ton ombre, c'était une image mais..."
       }
      ]
     }
@@ -696,7 +741,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai senti la même chose que Lisa. Quand\nj'ai dit que Jun était comme ton ombre,\nc'était une image mais...",
+   "brut_fr": "J'ai senti la même chose que Lisa.\nQuand j'ai dit que Jun était comme\nton ombre, c'était une image mais...",
    "brut_en": "I[SP]felt[SP]the[SP]same[SP]thing[SP]as[SP]Lisa.[SP]I[SP]was[SP]only\nbeing[SP]poetic[SP]when[SP]I[SP]said[SP]that[SP]Jun-kun[SP]was\nlike[SP]your[SP]shadow,[SP]but...",
    "data_size": 238,
    "budget": 230
@@ -710,13 +755,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cette fois, tu va réellement affronter ton ombre, te"
+       "t": "Cette fois, tu va réellement"
       },
       {
        "nl": true
       },
       {
-       "t": "confronter à toi-même..."
+       "t": "affronter ton ombre, te confronter"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à toi-même..."
       },
       {
        "pause": true
@@ -769,7 +820,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cette fois, tu va réellement affronter ton ombre, te\nconfronter à toi-même...[1205][001E] Tiens bon, [1113]!",
+   "brut_fr": "Cette fois, tu va réellement\naffronter ton ombre, te confronter\nà toi-même...[1205][001E] Tiens bon, [1113]!",
    "brut_en": "This[SP]time,[SP]we[SP]really[SP]are[SP]facing[SP]your[SP]shadow.[1205][001E]\nYou'll[SP]be[SP]fighting[SP]yourself...[1205][001E][SP]Hang[SP]in[SP]there,\n[1113]-kun!",
    "data_size": 224,
    "budget": 216
@@ -789,13 +840,19 @@
        "pause": true
       },
       {
-       "t": " Il incarne le feu et symbolise"
+       "t": " Il incarne le feu et"
       },
       {
        "nl": true
       },
       {
-       "t": "justice, charisme, mais aussi générosité et vitalité..."
+       "t": "symbolise justice, charisme, mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aussi générosité et vitalité..."
       }
      ]
     }
@@ -830,7 +887,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Lion...[1205][001E] Il incarne le feu et symbolise\njustice, charisme, mais aussi générosité et vitalité...",
+   "brut_fr": "Le Lion...[1205][001E] Il incarne le feu et\nsymbolise justice, charisme, mais\naussi générosité et vitalité...",
    "brut_en": "Leo...[1205][001E][SP]It[SP]embodies[SP]the[SP]element[SP]of[SP]fire[SP]and\nsymbolizes[SP]justice[SP]and[SP]leadership,[SP]as[SP]well\nas[SP]generosity[SP]and[SP]life...",
    "data_size": 246,
    "budget": 238
@@ -853,13 +910,13 @@
        "pause": true
       },
       {
-       "t": " Ce signe est digne de toi."
+       "t": " Ce signe est digne de toi. >"
       },
       {
        "nl": true
       },
       {
-       "t": "> Quelque chose est inscrit dans le relief."
+       "t": "Quelque chose est inscrit dans le relief."
       }
      ]
     }
@@ -891,7 +948,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113]...[1205][001E] Ce signe est digne de toi.\n[E1][E2][E3]> Quelque chose est inscrit dans le relief.",
+   "brut_fr": "[1113]...[1205][001E] Ce signe est digne de toi. [E1][E2][E3]>\nQuelque chose est inscrit dans le relief.",
    "brut_en": "[1113]...[1205][001E][SP]It's[SP]a[SP]constellation[SP]worthy[SP]of[SP]you.\n[E1][E2][E3]>[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.",
    "data_size": 190,
    "budget": 182

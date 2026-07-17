@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Haime... Sérieux? Pourquoi une armée nous"
+       "t": "Haime... Sérieux? Pourquoi"
       },
       {
        "nl": true
       },
       {
-       "t": "tombe dessus?"
+       "t": "une armée nous tombe dessus?"
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Haime... Sérieux? Pourquoi une armée nous\ntombe dessus?",
+   "brut_fr": "Haime... Sérieux? Pourquoi\nune armée nous tombe dessus?",
    "brut_en": "Haime...[SP]Seriously!?[SP]Why's[SP]an[SP]army[SP]invading\nfrom[SP]above!?",
    "data_size": 134,
    "budget": 126
@@ -84,7 +84,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "O...Oui, je suis ici. Ne me dit pas que..."
+       "t": "O... Oui, je suis ici. Ne me dit pas que..."
       }
      ]
     }
@@ -101,7 +101,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "O...Oui, je suis ici. Ne me dit pas que...",
+   "brut_fr": "O... Oui, je suis ici. Ne me dit pas que...",
    "brut_en": "Y...[SP]Yeah,[SP]I'm[SP]here.[SP]Don't[SP]tell[SP]me[SP]that's...",
    "data_size": 112,
    "budget": 104
@@ -115,13 +115,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai peur! Les rumeurs sur le Bataillon"
+       "t": "J'ai peur! Les rumeurs sur"
       },
       {
        "nl": true
       },
       {
-       "t": "étaient vraies!"
+       "t": "le Bataillon étaient vraies!"
       }
      ]
     }
@@ -144,7 +144,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai peur! Les rumeurs sur le Bataillon\nétaient vraies!",
+   "brut_fr": "J'ai peur! Les rumeurs sur\nle Bataillon étaient vraies!",
    "brut_en": "I'm[SP]afraid[SP]so![SP]The[SP]rumors[SP]about[SP]the[SP]Last\nBattalion[SP]are[SP]true!",
    "data_size": 160,
    "budget": 152
@@ -195,13 +195,13 @@
        "enc": "Caracol"
       },
       {
-       "t": " signifie escargot"
+       "t": " signifie"
       },
       {
        "nl": true
       },
       {
-       "t": "(katatsumuri)."
+       "t": "escargot (katatsumuri)."
       }
      ]
     }
@@ -230,7 +230,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Allô!? Écoute! [1432][NULL][NULL][0014]Caracol[1432][NULL][NULL][0014] signifie escargot\n(katatsumuri).",
+   "brut_fr": "Allô!? Écoute! [1432][NULL][NULL][0014]Caracol[1432][NULL][NULL][0014] signifie\nescargot (katatsumuri).",
    "brut_en": "Hello!?[SP]Listen[SP]to[SP]me![SP][1432][NULL][NULL][0014]Caracol[1432][NULL][NULL][0014][SP]means[SP]snail,\nor[SP]katatsumuri.",
    "data_size": 178,
    "budget": 170
@@ -287,13 +287,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le Bataillon cherche les Anneaux du"
+       "t": "Le Bataillon cherche les"
       },
       {
        "nl": true
       },
       {
-       "t": "Temps au Caracol !"
+       "t": "Anneaux du Temps au Caracol!"
       }
      ]
     }
@@ -316,7 +316,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Bataillon cherche les Anneaux du\nTemps au Caracol !",
+   "brut_fr": "Le Bataillon cherche les\nAnneaux du Temps au Caracol!",
    "brut_en": "The[SP]Last[SP]Battalion[SP]is[SP]after[SP]the[SP]Rings[SP]of\nTime[SP]at[SP]the[SP]Caracol!",
    "data_size": 168,
    "budget": 160
@@ -342,13 +342,13 @@
        "pause": true
       },
       {
-       "t": " File au Caracol, vite!"
+       "t": " File au Caracol, vite! Ne"
       },
       {
        "nl": true
       },
       {
-       "t": "Ne les laisse pas approcher des Anneaux!"
+       "t": "les laisse pas approcher des Anneaux!"
       }
      ]
     }
@@ -383,7 +383,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si les Anneaux du Temps s'activent,\nle monde...[1205][001E] File au Caracol, vite!\nNe les laisse pas approcher des Anneaux!",
+   "brut_fr": "Si les Anneaux du Temps s'activent,\nle monde...[1205][001E] File au Caracol, vite! Ne\nles laisse pas approcher des Anneaux!",
    "brut_en": "If[SP]the[SP]Rings[SP]of[SP]Time[SP]are[SP]set[SP]in[SP]motion,\nthe[SP]world...[1205][001E][SP]You[SP]must[SP]get[SP]to[SP]the[SP]Caracol\nat[SP]once![SP]Don't[SP]let[SP]them[SP]near[SP]the[SP]Rings!",
    "data_size": 290,
    "budget": 282
@@ -397,25 +397,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu as dit M.Katatsumuri!?"
+       "t": "Tu as dit M. Katatsumuri!?"
       },
       {
        "pause": true
       },
       {
-       "t": " Shunsuke est"
+       "t": " Shunsuke est au"
       },
       {
        "nl": true
       },
       {
-       "t": "au temple! S'il lui arrive quelque chose,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "je...! "
+       "t": "temple! S'il lui arrive quelque chose, je...!"
       }
      ]
     }
@@ -450,7 +444,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu as dit M.Katatsumuri!?[1205][U+000F] Shunsuke est\nau temple! S'il lui arrive quelque chose,\nje...! ",
+   "brut_fr": "Tu as dit M. Katatsumuri!?[1205][U+000F] Shunsuke est au\ntemple! S'il lui arrive quelque chose, je...!",
    "brut_en": "Did[SP]you[SP]say[SP]Mt.[SP]Katatsumuri!?[1205][001E][SP]Shunsuke-san's\nat[SP]the[SP]temple[SP]there![SP]If[SP]anything[SP]happens[SP]to\nhim,[SP]I'll...!",
    "data_size": 232,
    "budget": 224
@@ -464,19 +458,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Calme-toi, Yukki! Fujii sait se débrouiller"
+       "t": "Calme-toi, Yukki! Fujii sait se"
       },
       {
        "nl": true
       },
       {
-       "t": "tout seul, pas vrai? C'est une raison de plus"
+       "t": "débrouiller tout seul, pas vrai? C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "de se dépêcher!"
+       "t": "une raison de "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " plus de se dépêcher!"
       }
      ]
     }
@@ -505,7 +505,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Calme-toi, Yukki! Fujii sait se débrouiller\ntout seul, pas vrai? C'est une raison de plus\nde se dépêcher!",
+   "brut_fr": "Calme-toi, Yukki! Fujii sait se\ndébrouiller tout seul, pas vrai? C'est\nune raison de [1205][U+000F] plus de se dépêcher!",
    "brut_en": "Calm[SP]down,[SP]Yukki![SP]Fujii-san[SP]can[SP]take[SP]care[SP]of\nhimself,[SP]right?[SP]Rescuing[SP]him[SP]is[SP]just[SP]one[SP]more\nreason[SP]to[SP]hurry!",
    "data_size": 234,
    "budget": 226
@@ -525,13 +525,10 @@
        "pause": true
       },
       {
-       "t": " Bon!"
-      },
-      {
        "nl": true
       },
       {
-       "t": "Armée ou pas, on leur fonce dessus!"
+       "t": "Bon! Armée ou pas, on leur fonce dessus!"
       }
      ]
     }
@@ -560,7 +557,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Arrgh, les problèmes s'enchaînent...![1205][U+000F] Bon!\nArmée ou pas, on leur fonce dessus!",
+   "brut_fr": "Arrgh, les problèmes s'enchaînent...![1205][U+000F]\nBon! Armée ou pas, on leur fonce dessus!",
    "brut_en": "Rrrrgh,[SP]it's[SP]one[SP]thing[SP]after[SP]another...![1205][001E][SP]Fine!\nArmy[SP]or[SP]no[SP]army,[SP]we're[SP]goin'[SP]after[SP]them!",
    "data_size": 204,
    "budget": 196
@@ -574,16 +571,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Fujii est le chéri de Yukino..."
-      },
-      {
-       "pause": true
+       "t": "Fujii est le chéri de"
       },
       {
        "nl": true
       },
       {
-       "t": "Allons-y, "
+       "t": "Yukino..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Allons-y, "
       },
       {
        "hero": "prenom"
@@ -621,7 +621,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Fujii est le chéri de Yukino...[1205][U+000F]\nAllons-y, [1113]!",
+   "brut_fr": "Fujii est le chéri de\nYukino...[1205][U+000F] Allons-y, [1113]!",
    "brut_en": "So[SP]Fujii-san[SP]is[SP]Yukino-san's[SP]sweetie...[1205][001E]\nLet's[SP]hurry,[SP][1113]!",
    "data_size": 136,
    "budget": 128
@@ -635,25 +635,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si le Bataillon cherche ce qui se"
+       "t": "Si le Bataillon cherche ce qui se cache dans"
       },
       {
        "nl": true
       },
       {
-       "t": "cache dans l'In Lak'ech..."
+       "t": "l'In Lak'ech..."
       },
       {
        "pause": true
       },
       {
-       "t": " Jun doit être"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "là-bas aussi."
+       "t": " Jun doit être là-bas aussi."
       }
      ]
     }
@@ -688,7 +682,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si le Bataillon cherche ce qui se\ncache dans l'In Lak'ech...[1205][U+000F] Jun doit être\nlà-bas aussi.",
+   "brut_fr": "Si le Bataillon cherche ce qui se cache dans\nl'In Lak'ech...[1205][U+000F] Jun doit être là-bas aussi.",
    "brut_en": "If[SP]the[SP]Last[SP]Battalion's[SP]after[SP]what's[SP]in[SP]the\nIn[SP]Lak'ech...[1205][001E][SP]Jun-kun[SP]should[SP]be[SP]headed\nthere,[SP]too!",
    "data_size": 212,
    "budget": 204
@@ -708,13 +702,13 @@
        "pause": true
       },
       {
-       "t": " Pitié, reste en sécurité jusqu'à"
+       "t": " Pitié, reste en"
       },
       {
        "nl": true
       },
       {
-       "t": "mon arrivée!"
+       "t": "sécurité jusqu'à mon arrivée!"
       }
      ]
     }
@@ -743,7 +737,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Shunsuke...[1205][U+000F] Pitié, reste en sécurité jusqu'à\nmon arrivée!",
+   "brut_fr": "Shunsuke...[1205][U+000F] Pitié, reste en\nsécurité jusqu'à mon arrivée!",
    "brut_en": "Shunsuke-san...[1205][001E][SP]Please[SP]stay[SP]safe[SP]until[SP]I[SP]can\nget[SP]there...!",
    "data_size": 144,
    "budget": 136

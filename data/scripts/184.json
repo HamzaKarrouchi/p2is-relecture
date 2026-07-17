@@ -16,13 +16,13 @@
        "pause": true
       },
       {
-       "t": " j-je n’arrive pas à c-croire"
+       "t": " j-je n’arrive pas à"
       },
       {
        "nl": true
       },
       {
-       "t": "que ton p-père t’offre ça..."
+       "t": "c-croire que ton p-père t’offre ça..."
       }
      ]
     }
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L-La chance Jun...[1205][001E] j-je n’arrive pas à c-croire\nque ton p-père t’offre ça...",
+   "brut_fr": "L-La chance Jun...[1205][001E] j-je n’arrive pas à\nc-croire que ton p-père t’offre ça...",
    "brut_en": "Y-You're[SP]s-so[SP]lucky,[SP]Jun...[1205][001E][SP]I[SP]c-can't[SP]believe\nyour[SP]d-d-dad[SP]buys[SP]you[SP]s-stuff[SP]like[SP]this...",
    "data_size": 208,
    "budget": 200
@@ -71,13 +71,13 @@
        "pause": true
       },
       {
-       "t": " Je te montrerai quelques étoiles."
+       "t": " Je te montrerai quelques"
       },
       {
        "nl": true
       },
       {
-       "t": "Père en connaît un paquet!"
+       "t": "étoiles. Père en connaît un paquet!"
       }
      ]
     }
@@ -106,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eheh...[1205][001E] Je te montrerai quelques étoiles.\nPère en connaît un paquet!",
+   "brut_fr": "Eheh...[1205][001E] Je te montrerai quelques\nétoiles. Père en connaît un paquet!",
    "brut_en": "Eheheh...[1205][001E][SP]I'll[SP]show[SP]you[SP]some[SP]stars,[SP]too.\nPapa[SP]knows[SP]lots[SP]about[SP]the[SP]stars!",
    "data_size": 170,
    "budget": 162
@@ -120,13 +120,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Wow, c'est tellement cool!"
+       "t": "Wow, c'est tellement cool! Le"
       },
       {
        "nl": true
       },
       {
-       "t": "Le mien est toujours occupé..."
+       "t": "mien est toujours occupé..."
       }
      ]
     }
@@ -149,7 +149,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Wow, c'est tellement cool!\nLe mien est toujours occupé...",
+   "brut_fr": "Wow, c'est tellement cool! Le\nmien est toujours occupé...",
    "brut_en": "Wow,[SP]that's[SP]so[SP]cool![SP]My[SP]daddy's[SP]always[SP]busy\nwith[SP]his[SP]job.",
    "data_size": 138,
    "budget": 130
@@ -249,16 +249,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il est... trop fort et... Incroyable..."
-      },
-      {
-       "pause": true
+       "t": "Il est... trop fort et..."
       },
       {
        "nl": true
       },
       {
-       "t": "Vraiment!"
+       "t": "Incroyable..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vraiment!"
       }
      ]
     }
@@ -284,7 +287,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il est... trop fort et... Incroyable...[1205][001E]\nVraiment!",
+   "brut_fr": "Il est... trop fort et...\nIncroyable...[1205][001E] Vraiment!",
    "brut_en": "H-He's[SP]really[SP]cool[SP]and[SP]strong[SP]and[SP]great...[1205][001E]\nReally!",
    "data_size": 124,
    "budget": 116
@@ -304,13 +307,13 @@
        "pause": true
       },
       {
-       "t": " J'ai pas de père, je suis un peu"
+       "t": " J'ai pas de père, je suis un"
       },
       {
        "nl": true
       },
       {
-       "t": "jalouse..."
+       "t": "peu jalouse..."
       },
       {
        "pause": true
@@ -351,7 +354,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sérieux...?[1205][001E] J'ai pas de père, je suis un peu\njalouse...[1205][001E] Tu as de la chance Jun-kun!",
+   "brut_fr": "Sérieux...?[1205][001E] J'ai pas de père, je suis un\npeu jalouse...[1205][001E] Tu as de la chance Jun-kun!",
    "brut_en": "Seriously...?[1205][001E][SP]I[SP]don't[SP]have[SP]a[SP]dad,[SP]so[SP]I'm\nkinda[SP]jealous...[1205][001E][SP]You're[SP]so[SP]lucky,[SP]Jun-kun!",
    "data_size": 196,
    "budget": 188
@@ -365,13 +368,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Menteuse! Ta mère a dit à la mienne que"
+       "t": "Menteuse! Ta mère a dit à la mienne"
       },
       {
        "nl": true
       },
       {
-       "t": "ton père est un "
+       "t": "que ton père est un "
       },
       {
        "enc": "éreinté"
@@ -406,7 +409,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Menteuse! Ta mère a dit à la mienne que\nton père est un [1432][NULL][NULL][0014]éreinté[1432][NULL][NULL][0014]!",
+   "brut_fr": "Menteuse! Ta mère a dit à la mienne\nque ton père est un [1432][NULL][NULL][0014]éreinté[1432][NULL][NULL][0014]!",
    "brut_en": "You're[SP]such[SP]a[SP]liar![SP]Your[SP]mom[SP]told[SP]my[SP]mom[SP]that\nyour[SP]daddy[SP]is[SP]a[SP][1432][NULL][NULL][0014]deadbeat[1432][NULL][NULL][0014]!",
    "data_size": 200,
    "budget": 192
@@ -500,7 +503,7 @@
        "pause": true
       },
       {
-       "t": "Elles"
+       "t": " Elles"
       },
       {
        "nl": true
@@ -535,7 +538,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N-Ne fais p-pas attention...[1205][001E]Elles\nm'ont d-déja dit p-p-pire...",
+   "brut_fr": "N-Ne fais p-pas attention...[1205][001E] Elles\nm'ont d-déja dit p-p-pire...",
    "brut_en": "D-Don't[SP]worry[SP]about[SP]those[SP]k-kids...[1205][001E][SP]They\nsay[SP]even[SP]m-meaner[SP]s-stuff[SP]to[SP]m-me...",
    "data_size": 186,
    "budget": 178

@@ -146,7 +146,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle a quoi la nana déguisée des toilettes!? Elle est dans un avion !?"
+       "t": "Elle a quoi la nana déguisée des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "toilettes!? Elle est dans un avion!?"
       }
      ]
     }
@@ -169,7 +175,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle a quoi la nana déguisée des toilettes!? Elle est dans un avion !?",
+   "brut_fr": "Elle a quoi la nana déguisée des\ntoilettes!? Elle est dans un avion!?",
    "brut_en": "Is[SP]that[SP]the[SP]cosplayer[SP]chick[SP]from[SP]the\nbathroom!?[SP]What's[SP]she[SP]doing[SP]in[SP]the[SP]Zero?",
    "data_size": 182,
    "budget": 174
@@ -183,7 +189,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle va mourir si elle reste ici! Qu'est-ce qu'on devrait faire "
+       "t": "Elle va mourir si elle reste ici!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Qu'est-ce qu'on devrait faire "
       },
       {
        "hero": "prenom"
@@ -218,7 +230,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle va mourir si elle reste ici! Qu'est-ce qu'on devrait faire [1113]!?",
+   "brut_fr": "Elle va mourir si elle reste ici!\nQu'est-ce qu'on devrait faire [1113]!?",
    "brut_en": "She's[SP]gonna[SP]die[SP]if[SP]she[SP]stays[SP]in[SP]there[SP]much\nlonger![SP]What[SP]do[SP]we[SP]do,[SP][1113]!?",
    "data_size": 162,
    "budget": 154
@@ -263,13 +275,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'as perdu la tête, Maya!?"
+       "t": "T'as perdu la tête, Maya!? C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est impossible! Le feu est trop intense!"
+       "t": "impossible! Le feu est trop intense!"
       }
      ]
     }
@@ -292,7 +304,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'as perdu la tête, Maya!?\nC'est impossible! Le feu est trop intense!",
+   "brut_fr": "T'as perdu la tête, Maya!? C'est\nimpossible! Le feu est trop intense!",
    "brut_en": "Are[SP]you[SP]out[SP]of[SP]your[SP]mind,[SP]Maya-san!?\nIt's[SP]impossible![SP]The[SP]fire's[SP]too[SP]strong!",
    "data_size": 178,
    "budget": 170
@@ -306,13 +318,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On peut pas savoir si c'est impossible sans"
+       "t": "On peut pas savoir si c'est"
       },
       {
        "nl": true
       },
       {
-       "t": "avoir essayé!"
+       "t": "impossible sans avoir essayé!"
       }
      ]
     }
@@ -335,7 +347,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On peut pas savoir si c'est impossible sans\navoir essayé!",
+   "brut_fr": "On peut pas savoir si c'est\nimpossible sans avoir essayé!",
    "brut_en": "You[SP]don't[SP]know[SP]a[SP]thing[SP]is[SP]impossible[SP]until\nyou've[SP]tried[SP]it!",
    "data_size": 140,
    "budget": 132
@@ -352,7 +364,19 @@
        "hero": "prenom"
       },
       {
-       "t": ", va chercher une corde! Une fois que j'aurai sauté, vous devrez tous aider cette fille à remonter."
+       "t": ", va chercher une corde! Une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fois que j'aurai sauté, vous devrez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tous aider cette fille à remonter."
       }
      ]
     }
@@ -384,7 +408,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113], va chercher une corde! Une fois que j'aurai sauté, vous devrez tous aider cette fille à remonter.",
+   "brut_fr": "[1113], va chercher une corde! Une\nfois que j'aurai sauté, vous devrez\ntous aider cette fille à remonter.",
    "brut_en": "[1113]-kun,[SP]I[SP]need[SP]you[SP]to[SP]go[SP]look[SP]for\na[SP]rope![SP]Once[SP]I[SP]jump[SP]down[SP]there,[SP]the[SP]rest\nof[SP]you[SP]help[SP]pull[SP]the[SP]girl[SP]up.",
    "data_size": 228,
    "budget": 220
@@ -695,13 +719,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "On va chercher une corde. "
+       "t": "On va chercher une corde."
+      },
+      {
+       "nl": true
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " garde un œil sur maya"
+       "t": "garde un œil sur maya"
       }
      ]
     }
@@ -730,7 +757,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On va chercher une corde. [1113] garde un œil sur maya",
+   "brut_fr": "On va chercher une corde.\n[1113]garde un œil sur maya",
    "brut_en": "We'll[SP]go[SP]find[SP]a[SP]rope.[SP]You[SP]look[SP]after\nMaya-san,[SP][1113]!",
    "data_size": 126,
    "budget": 118

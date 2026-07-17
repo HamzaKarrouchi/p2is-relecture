@@ -16,12 +16,12 @@
        "nl": true
       },
       {
-       "t": "morte s'il m'était tombé dessus!"
+       "t": "morte s'il m'était tombé dessus! "
       }
      ]
     },
     {
-     "nom": "Maya",
+     "nom": "Maya[1205][U+000F]",
      "seg": [
       {
        "t": "Grazie, "
@@ -67,7 +67,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un haltère!? C'est pas drôle... Je serais\nmorte s'il m'était tombé dessus!\n[E1][E2][E3][1121][E4][NULL][NULL]\"Maya\nGrazie, [1113]... Je t'en dois une.",
+   "brut_fr": "Un haltère!? C'est pas drôle... Je serais\nmorte s'il m'était tombé dessus! [E1][E2][E3][1121][E4][NULL][NULL]\"Maya[1205][U+000F]\nGrazie, [1113]... Je t'en dois une.",
    "brut_en": "A[SP]barbell!?[SP]Th-This[SP]isn't[SP]funny...[SP]I'd[SP]be\ndead[SP]if[SP]that[SP]had[SP]landed[SP]on[SP]me!\n[E1][E2][E3][1121][E4][NULL][NULL]\"Maya\nG-Grazie,[SP][1113]-kun...[SP]I[SP]owe[SP]you[SP]one.",
    "data_size": 260,
    "budget": 252
@@ -81,13 +81,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oulah! Il y a des bombes!"
+       "t": "Oulah! Il y a des bombes! On a pas"
       },
       {
        "nl": true
       },
       {
-       "t": "On a pas le temps de toutes les désamorcer!"
+       "t": "le temps de toutes les désamorcer!"
       }
      ]
     }
@@ -110,7 +110,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oulah! Il y a des bombes!\nOn a pas le temps de toutes les désamorcer!",
+   "brut_fr": "Oulah! Il y a des bombes! On a pas\nle temps de toutes les désamorcer!",
    "brut_en": "Aiyah![SP]There[SP]are[SP]bombs[SP]everywhere!\nWe[SP]don't[SP]have[SP]time[SP]to[SP]disarm[SP]them[SP]all.",
    "data_size": 170,
    "budget": 162
@@ -124,25 +124,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce type serait du Cercle masqué lui aussi ?"
+       "t": "Ce type serait du Cercle masqué lui"
       },
       {
        "nl": true
       },
       {
-       "t": "...Il était cool non? Enfin, pas autant"
+       "t": "aussi ? ... Il était cool non? Enfin,"
       },
       {
        "nl": true
       },
       {
-       "t": "que toi bien sûr, "
+       "t": "pas autant"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que toi bien sûr, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -177,7 +183,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce type serait du Cercle masqué lui aussi ?\n...Il était cool non? Enfin, pas autant\nque toi bien sûr, [1113] !",
+   "brut_fr": "Ce type serait du Cercle masqué lui\naussi ? ... Il était cool non? Enfin,\npas autant[1205][U+000F] que toi bien sûr, [1113]!",
    "brut_en": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][1113]!",
    "data_size": 246,
    "budget": 238
@@ -191,19 +197,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ni devinettes ni d'émetteurs ici... Pfiouu,"
+       "t": "Ni devinettes ni d'émetteurs ici..."
       },
       {
        "nl": true
       },
       {
-       "t": "j'espère qu'ils ont mis une aide pour nous"
+       "t": "Pfiouu, j'espère qu'ils ont mis une"
       },
       {
        "nl": true
       },
       {
-       "t": "indiquer où ils sont."
+       "t": "aide pour nous"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " indiquer où ils sont."
       }
      ]
     }
@@ -232,7 +244,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ni devinettes ni d'émetteurs ici... Pfiouu,\nj'espère qu'ils ont mis une aide pour nous\nindiquer où ils sont.",
+   "brut_fr": "Ni devinettes ni d'émetteurs ici...\nPfiouu, j'espère qu'ils ont mis une\naide pour nous[1205][U+000F] indiquer où ils sont.",
    "brut_en": "No[SP]riddles[SP]or[SP]transmitters[SP]here...[SP]Sheesh,\nI[SP]wish[SP]they'd[SP]put[SP]up[SP]some[SP]kinda[SP]sign[SP]to\nlet[SP]us[SP]know[SP]where[SP]they[SP]are.",
    "data_size": 248,
    "budget": 240
@@ -246,22 +258,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce mec s'est enfui à la seconde où il nous a vu !"
+       "t": "Ce mec s'est enfui à la seconde où"
       },
       {
        "nl": true
       },
       {
-       "t": "Il est méfiant, très bien. Pourchassons-le,"
+       "t": "il nous a vu! Il est méfiant, très"
       },
       {
        "nl": true
+      },
+      {
+       "t": "bien. "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pourchassons-le, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -296,7 +317,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce mec s'est enfui à la seconde où il nous a vu !\nIl est méfiant, très bien. Pourchassons-le,\n[1113] !",
+   "brut_fr": "Ce mec s'est enfui à la seconde où\nil nous a vu! Il est méfiant, très\nbien. [1205][U+000F] Pourchassons-le, [1113]!",
    "brut_en": "That[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][1113]!",
    "data_size": 224,
    "budget": 216
@@ -310,13 +331,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un haltère!? C'est pas drôle. Je serais"
+       "t": "Un haltère!? C'est pas drôle. Je"
       },
       {
        "nl": true
       },
       {
-       "t": "morte s'il était tombé sur moi!"
+       "t": "serais morte s'il était tombé sur moi!"
       }
      ]
     }
@@ -339,7 +360,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un haltère!? C'est pas drôle. Je serais\nmorte s'il était tombé sur moi!",
+   "brut_fr": "Un haltère!? C'est pas drôle. Je\nserais morte s'il était tombé sur moi!",
    "brut_en": "A[SP]barbell!?[SP]Th-This[SP]isn't[SP]funny...[SP]I'd[SP]be\ndead[SP]if[SP]that[SP]had[SP]landed[SP]on[SP]me!",
    "data_size": 164,
    "budget": 156
@@ -359,13 +380,13 @@
        "pause": true
       },
       {
-       "t": " J'ai l'impression"
+       "t": " J'ai l'impression de"
       },
       {
        "nl": true
       },
       {
-       "t": "de l'avoir déjà vu. Allez, on le suit !"
+       "t": "l'avoir déjà vu. Allez, on le suit!"
       }
      ]
     }
@@ -394,7 +415,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cet homme...[1205][001E] J'ai l'impression\nde l'avoir déjà vu. Allez, on le suit !",
+   "brut_fr": "Cet homme...[1205][001E] J'ai l'impression de\nl'avoir déjà vu. Allez, on le suit!",
    "brut_en": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
    "data_size": 174,
    "budget": 166
@@ -414,13 +435,7 @@
        "nl": true
       },
       {
-       "t": "détonateurs ! Ugh, ça me tape"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "sur les nerfs !"
+       "t": "détonateurs! Ugh, ça me tape sur les nerfs!"
       }
      ]
     }
@@ -449,7 +464,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Détonateur... Détonateur... Que des\ndétonateurs ! Ugh, ça me tape\nsur les nerfs !",
+   "brut_fr": "Détonateur... Détonateur... Que des\ndétonateurs! Ugh, ça me tape sur les nerfs!",
    "brut_en": "Detonator...[SP]Detonator...[SP]Nothing[SP]but\ndetonators![SP]Ugh,[SP]this[SP]is[SP]getting[SP]on\nmy[SP]nerves!",
    "data_size": 194,
    "budget": 186

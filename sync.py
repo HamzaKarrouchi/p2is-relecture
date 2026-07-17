@@ -168,7 +168,7 @@ def generer_dictionnaire():
 # collision avec les script_NNN.json. MMAP03 et TM_EVE sont encore à 0 %
 # traduits (cf. python3 sync.py --stats-speciaux) : pas encore inclus.
 SCRIPTS_SPECIAUX = {
-    900: "CD_SHOP", 901: "F_BE", 902: "MMAP01", 903: "MMAP02",
+    900: "CD_SHOP", 901: "F_BE", 902: "MMAP01", 903: "MMAP02", 904: "MMAP03",
     905: "MMAP04", 906: "MMAP05", 907: "MMAP06",
 }
 

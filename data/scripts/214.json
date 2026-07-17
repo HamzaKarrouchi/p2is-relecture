@@ -13,9 +13,6 @@
        "hero": "prenom"
       },
       {
-       "t": " "
-      },
-      {
        "hero": "nom"
       },
       {
@@ -25,13 +22,13 @@
        "pause": true
       },
       {
-       "t": " Vas-tu vraiment en finir"
+       "t": " Vas-tu vraiment"
       },
       {
        "nl": true
       },
       {
-       "t": " sans réaliser ton rêve ?"
+       "t": "en finir sans réaliser ton rêve?"
       }
      ]
     }
@@ -69,7 +66,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113] [1112]...[1205][001E] Vas-tu vraiment en finir\n sans réaliser ton rêve ?",
+   "brut_fr": "[1113][1112]...[1205][001E] Vas-tu vraiment\nen finir sans réaliser ton rêve?",
    "brut_en": "[1113][SP][1112]...[1205][001E][SP]Are[SP]you[SP]going[SP]to[SP]your\nend[SP]without[SP]discovering[SP]your[SP]dream?",
    "data_size": 162,
    "budget": 154
@@ -83,19 +80,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'importe ses erreurs, un homme doit réfléchir à son passé"
+       "t": "Qu'importe ses erreurs, un homme doit"
       },
       {
        "nl": true
       },
       {
-       "t": "pour mieux servir l'avenir..."
+       "t": "réfléchir à son passé pour mieux servir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'avenir..."
       },
       {
        "pause": true
       },
       {
-       "t": "Va encore de l'avant."
+       "t": " Va encore de "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " l'avant."
       }
      ]
     }
@@ -130,7 +139,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'importe ses erreurs, un homme doit réfléchir à son passé\npour mieux servir l'avenir...[1205][001E]Va encore de l'avant.",
+   "brut_fr": "Qu'importe ses erreurs, un homme doit\nréfléchir à son passé pour mieux servir\nl'avenir...[1205][001E] Va encore de [1205][U+000F] l'avant.",
    "brut_en": "No[SP]matter[SP]how[SP]often[SP]one[SP]makes[SP]mistakes,\nreflecting[SP]on[SP]the[SP]past[SP]to[SP]better[SP]serve[SP]the\nfuture[SP]is[SP]man's[SP]way...[1205][001E][SP]Walk[SP]forward[SP]once[SP]more.",
    "data_size": 292,
    "budget": 284
@@ -147,9 +156,6 @@
        "hero": "prenom"
       },
       {
-       "t": " "
-      },
-      {
        "hero": "nom"
       },
       {
@@ -159,13 +165,13 @@
        "pause": true
       },
       {
-       "t": " Vas-tu vraiment en finir"
+       "t": " Vas-tu vraiment"
       },
       {
        "nl": true
       },
       {
-       "t": " sans réaliser ton rêve ?"
+       "t": "en finir sans réaliser ton rêve?"
       }
      ]
     }
@@ -203,7 +209,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113] [1112]...[1205][001E] Vas-tu vraiment en finir\n sans réaliser ton rêve ?",
+   "brut_fr": "[1113][1112]...[1205][001E] Vas-tu vraiment\nen finir sans réaliser ton rêve?",
    "brut_en": "[1113][SP][1112]...[1205][001E][SP]Are[SP]you[SP]going[SP]to[SP]your\nend[SP]without[SP]discovering[SP]your[SP]dream?",
    "data_size": 162,
    "budget": 154

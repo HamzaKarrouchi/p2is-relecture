@@ -10,13 +10,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "P-Pourquoi !?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Pourquoi tu dis a-adieu !?"
+       "t": "P-Pourquoi!? Pourquoi tu dis a-adieu!?"
       }
      ]
     }
@@ -33,7 +27,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "P-Pourquoi !?\nPourquoi tu dis a-adieu !?",
+   "brut_fr": "P-Pourquoi!? Pourquoi tu dis a-adieu!?",
    "brut_en": "Wh-Why!?[SP]Why're[SP]you[SP]saying[SP]g-goodbye...!?",
    "data_size": 110,
    "budget": 102
@@ -47,22 +41,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Désolée de ne pas vous avoir prévenus..."
+       "t": "Désolée de ne pas vous avoir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "prévenus..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "On prévoyait de déménager avant"
+       "t": " On prévoyait de déménager"
       },
       {
        "nl": true
       },
       {
-       "t": "la fin des vacances d'été..."
+       "t": "avant la fin des vacances d'été..."
       }
      ]
     }
@@ -97,7 +94,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Désolée de ne pas vous avoir prévenus...[1205][001E]\nOn prévoyait de déménager avant\nla fin des vacances d'été...",
+   "brut_fr": "Désolée de ne pas vous avoir\nprévenus...[1205][001E] On prévoyait de déménager\navant la fin des vacances d'été...",
    "brut_en": "I'm[SP]sorry[SP]I[SP]forgot[SP]to[SP]tell[SP]you...[1205][001E][SP]We[SP]were\nplanning[SP]on[SP]moving[SP]before[SP]summer[SP]vacation\nends...",
    "data_size": 236,
    "budget": 228
@@ -111,25 +108,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je m'amusais tellement à jouer avec"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "vous..."
+       "t": "Je m'amusais tellement à jouer avec vous..."
       },
       {
        "pause": true
       },
       {
-       "t": " Je n'arrivais"
-      },
-      {
        "nl": true
       },
       {
-       "t": "pas à vous le dire..."
+       "t": "Je n'arrivais pas à vous le dire..."
       },
       {
        "pause": true
@@ -164,7 +152,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'amusais tellement à jouer avec\nvous...[1205][001E] Je n'arrivais\npas à vous le dire...[1205][001E]",
+   "brut_fr": "Je m'amusais tellement à jouer avec vous...[1205][001E]\nJe n'arrivais pas à vous le dire...[1205][001E]",
    "brut_en": "I[SP]had[SP]so[SP]much[SP]fun[SP]playing[SP]with[SP]you[SP]kids\nthat...[1205][001E][SP]I[SP]just[SP]couldn't[SP]bring[SP]it[SP]up...[1205][001E]",
    "data_size": 214,
    "budget": 206
@@ -178,13 +166,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais... les membres du Cercle masqué"
+       "t": "Mais... les membres du Cercle"
       },
       {
        "nl": true
       },
       {
-       "t": "restent ensemble..."
+       "t": "masqué restent ensemble..."
       },
       {
        "pause": true
@@ -196,7 +184,7 @@
        "nl": true
       },
       {
-       "t": "notre règle... tu l'avais promis !"
+       "t": "notre règle... tu l'avais promis!"
       },
       {
        "pause": true
@@ -237,7 +225,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais... les membres du Cercle masqué\nrestent ensemble...[1205][001E] C'est\nnotre règle... tu l'avais promis ![1205][001E]",
+   "brut_fr": "Mais... les membres du Cercle\nmasqué restent ensemble...[1205][001E] C'est\nnotre règle... tu l'avais promis![1205][001E]",
    "brut_en": "But...[SP]Members[SP]of[SP]the[SP]Masked[SP]Circle[SP]will\nalways[SP]be[SP]together...[1205][001E][SP]That's[SP]our[SP]rule...[1205][001E]\nYou[SP]promised[SP]us!",
    "data_size": 228,
    "budget": 220
@@ -251,7 +239,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...T'as menti, sœurette !"
+       "t": "... T'as menti, sœurette!"
       }
      ]
     }
@@ -268,7 +256,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...T'as menti, sœurette !",
+   "brut_fr": "... T'as menti, sœurette!",
    "brut_en": "...Liar![SP]You[SP]lied[SP]to[SP]us,[SP]Big[SP]Sis!",
    "data_size": 90,
    "budget": 82
@@ -334,13 +322,13 @@
      "nom": null,
      "seg": [
       {
-       "t": " ! T'es le chef aujourd'hui !"
+       "t": "! T'es le chef aujourd'hui!"
       },
       {
        "nl": true
       },
       {
-       "t": "Dis-lui de pas partir !"
+       "t": "Dis-lui de pas partir!"
       }
      ]
     }
@@ -363,7 +351,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1114] ! T'es le chef aujourd'hui !\nDis-lui de pas partir !",
+   "brut_fr": "[1114]! T'es le chef aujourd'hui!\nDis-lui de pas partir!",
    "brut_en": "[1114]![SP]You're[SP]the[SP]boss[SP]today,[SP]right!?\nOrder[SP]her[SP]not[SP]to[SP]go!",
    "data_size": 136,
    "budget": 128
@@ -377,13 +365,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Jun ! T'as rien à dire !? Tu vas"
+       "t": "Jun! T'as rien à dire!? Tu vas"
       },
       {
        "nl": true
       },
       {
-       "t": "laisser sœurette partir comme ça !?"
+       "t": "laisser sœurette partir comme ça!?"
       }
      ]
     }
@@ -406,7 +394,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun ! T'as rien à dire !? Tu vas\nlaisser sœurette partir comme ça !?",
+   "brut_fr": "Jun! T'as rien à dire!? Tu vas\nlaisser sœurette partir comme ça!?",
    "brut_en": "Jun![SP]You[SP]gotta[SP]say[SP]something![SP]Are[SP]you\ngonna[SP]just[SP]let[SP]Big[SP]Sis[SP]go[SP]away!?",
    "data_size": 168,
    "budget": 160
@@ -457,10 +445,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Pas question !"
+       "t": " Pas question!"
       }
      ]
     }
@@ -483,7 +468,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne te laisse pas...[1205][001E]\nPas question !",
+   "brut_fr": "Je ne te laisse pas...[1205][001E] Pas question!",
    "brut_en": "I[SP]won't[SP]let[SP]you...[1205][001E][SP]I[SP]won't[SP]let[SP]you[SP]go!",
    "data_size": 104,
    "budget": 96
@@ -503,7 +488,7 @@
        "nl": true
       },
       {
-       "t": "jusqu'à demain, elle peut pas partir !"
+       "t": "jusqu'à demain, elle peut pas partir!"
       }
      ]
     }
@@ -526,7 +511,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si on l'enferme dans le sanctuaire\njusqu'à demain, elle peut pas partir !",
+   "brut_fr": "Si on l'enferme dans le sanctuaire\njusqu'à demain, elle peut pas partir!",
    "brut_en": "If[SP]we[SP]lock[SP]Big[SP]Sis[SP]in[SP]the[SP]shrine[SP]until\ntomorrow,[SP]she[SP]won't[SP]be[SP]able[SP]to[SP]go!",
    "data_size": 170,
    "budget": 162

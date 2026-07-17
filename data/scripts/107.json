@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "H-Hein? J'ai jamais vu cette fille"
+       "t": "H-Hein? J'ai jamais vu"
       },
       {
        "nl": true
       },
       {
-       "t": "ici avant..."
+       "t": "cette fille ici avant..."
       }
      ]
     }
@@ -33,7 +33,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "H-Hein? J'ai jamais vu cette fille\nici avant...",
+   "brut_fr": "H-Hein? J'ai jamais vu\ncette fille ici avant...",
    "brut_en": "H-Huh?[SP]I've[SP]never[SP]seen[SP]that[SP]girl[SP]here[SP]before...",
    "data_size": 122,
    "budget": 114
@@ -78,13 +78,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh wow, quels adorables petits héros"
+       "t": "Oh wow, quels adorables petits"
       },
       {
        "nl": true
       },
       {
-       "t": "de la justice! Ciao!"
+       "t": "héros de la justice! Ciao!"
       }
      ]
     }
@@ -107,7 +107,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh wow, quels adorables petits héros\nde la justice! Ciao!",
+   "brut_fr": "Oh wow, quels adorables petits\nhéros de la justice! Ciao!",
    "brut_en": "Oh[SP]wow,[SP]what[SP]cute[SP]little[SP]justice[SP]heroes!\nCiaaao!",
    "data_size": 146,
    "budget": 138
@@ -152,22 +152,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je visite le sanctuaire. Je prie pour"
+       "t": "Je visite le sanctuaire. Je prie pour devenir"
       },
       {
        "nl": true
       },
       {
-       "t": "devenir ce que je veux plus tard..."
+       "t": "ce que je veux plus tard..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Comme ça!"
+       "t": " Comme ça!"
       }
      ]
     }
@@ -196,7 +193,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je visite le sanctuaire. Je prie pour\ndevenir ce que je veux plus tard...[1205][001E]\nComme ça!",
+   "brut_fr": "Je visite le sanctuaire. Je prie pour devenir\nce que je veux plus tard...[1205][001E] Comme ça!",
    "brut_en": "I'm[SP]visiting[SP]the[SP]shrine.[SP]I'm[SP]praying[SP]to[SP]become\nwhat[SP]I[SP]want[SP]in[SP]the[SP]future...[1205][001E][SP]Like[SP]that!",
    "data_size": 226,
    "budget": 218
@@ -210,19 +207,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Génial! Mais au Cercle masqué,"
+       "t": "Génial! Mais au Cercle masqué, tu peux"
       },
       {
        "nl": true
       },
       {
-       "t": "tu peux devenir ce que tu veux"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "dès maintenant!"
+       "t": "devenir ce que tu veux dès maintenant!"
       }
      ]
     }
@@ -245,7 +236,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Génial! Mais au Cercle masqué,\ntu peux devenir ce que tu veux\ndès maintenant!",
+   "brut_fr": "Génial! Mais au Cercle masqué, tu peux\ndevenir ce que tu veux dès maintenant!",
    "brut_en": "Ohh,[SP]neat![SP]But[SP]if[SP]you[SP]join[SP]the[SP]Masked[SP]Circle,\nyou[SP]can[SP]be[SP]what[SP]you[SP]want[SP]right[SP]now!",
    "data_size": 186,
    "budget": 178
@@ -265,13 +256,13 @@
        "nl": true
       },
       {
-       "t": "dit est la loi. Le chef décide ce"
+       "t": "dit est la loi. Le chef décide ce que"
       },
       {
        "nl": true
       },
       {
-       "t": "que chacun d-doit faire ou d-devenir."
+       "t": "chacun d-doit faire ou d-devenir."
       }
      ]
     }
@@ -300,7 +291,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce que le c-chef du C-Cercle masqué\ndit est la loi. Le chef décide ce\nque chacun d-doit faire ou d-devenir.",
+   "brut_fr": "Ce que le c-chef du C-Cercle masqué\ndit est la loi. Le chef décide ce que\nchacun d-doit faire ou d-devenir.",
    "brut_en": "Wh-Whatever[SP]the[SP]b-boss[SP]of[SP]the[SP]Masked\nC-Circle[SP]says[SP]goes.[SP]Th-The[SP]boss[SP]gets[SP]to\ndecide[SP]what[SP]everyone[SP]d-does[SP]and[SP]b-becomes.",
    "data_size": 266,
    "budget": 258
@@ -314,13 +305,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Wow! Alors tu feras de moi ce que je"
+       "t": "Wow! Alors tu feras de moi ce"
       },
       {
        "nl": true
       },
       {
-       "t": "veux devenir aussi?"
+       "t": "que je veux devenir aussi?"
       }
      ]
     }
@@ -343,7 +334,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Wow! Alors tu feras de moi ce que je\nveux devenir aussi?",
+   "brut_fr": "Wow! Alors tu feras de moi ce\nque je veux devenir aussi?",
    "brut_en": "Wow![SP]Then[SP]will[SP]you[SP]make[SP]me[SP]what[SP]I[SP]want\nto[SP]be[SP]too?",
    "data_size": 148,
    "budget": 140
@@ -357,19 +348,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On d-doit faire quoi? Ça me"
+       "t": "On d-doit faire quoi? Ça me gênerait"
       },
       {
        "nl": true
       },
       {
-       "t": "gênerait pas qu'elle vienne"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "dans notre groupe.."
+       "t": "pas qu'elle vienne dans notre groupe.."
       }
      ]
     }
@@ -392,7 +377,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On d-doit faire quoi? Ça me\ngênerait pas qu'elle vienne\ndans notre groupe..",
+   "brut_fr": "On d-doit faire quoi? Ça me gênerait\npas qu'elle vienne dans notre groupe..",
    "brut_en": "Wh-What[SP]should[SP]we[SP]d-do?[SP]I-I[SP]wouldn't\nm-mind[SP]letting[SP]her[SP]j-join[SP]our[SP]group...",
    "data_size": 178,
    "budget": 170
@@ -449,19 +434,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci! Hé, vous voulez voir un truc? C'est"
+       "t": "Merci! Hé, vous voulez voir un truc?"
       },
       {
        "nl": true
       },
       {
-       "t": "un chant qui permettrait de voir à"
+       "t": "C'est un chant qui permettrait de voir"
       },
       {
        "nl": true
       },
       {
-       "t": "quoi on ressemblera plus tard..."
+       "t": "à quoi on ressemblera plus tard..."
       }
      ]
     }
@@ -490,7 +475,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci! Hé, vous voulez voir un truc? C'est\nun chant qui permettrait de voir à\nquoi on ressemblera plus tard...",
+   "brut_fr": "Merci! Hé, vous voulez voir un truc?\nC'est un chant qui permettrait de voir\nà quoi on ressemblera plus tard...",
    "brut_en": "Thanks![SP]Hey,[SP]want[SP]to[SP]see[SP]something?[SP]It's[SP]a\nchant[SP]that's[SP]rumored[SP]to[SP]let[SP]you[SP]be[SP]able[SP]to\nsee[SP]your[SP]future[SP]self...",
    "data_size": 268,
    "budget": 260
@@ -504,13 +489,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Wow! Fais voir! Je serais"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "mariée à Rouge?"
+       "t": "Wow! Fais voir! Je serais mariée à Rouge?"
       }
      ]
     }
@@ -533,7 +512,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Wow! Fais voir! Je serais\nmariée à Rouge?",
+   "brut_fr": "Wow! Fais voir! Je serais mariée à Rouge?",
    "brut_en": "Wow![SP]Show[SP]us,[SP]show[SP]us![SP]I[SP]wonder[SP]if[SP]I'll\nbe[SP]married[SP]to[SP]Red?",
    "data_size": 140,
    "budget": 132

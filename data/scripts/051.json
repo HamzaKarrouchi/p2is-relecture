@@ -10,19 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Laissez-moi gérer cette perle."
+       "t": "Laissez-moi gérer cette perle. Je l'aurai"
       },
       {
        "nl": true
       },
       {
-       "t": "Je l'aurai dans ma poche en deux temps,"
+       "t": "dans ma poche en deux temps, trois"
       },
       {
        "nl": true
       },
       {
-       "t": "trois mouvements avec mon baratin infaillible."
+       "t": "mouvements avec mon baratin "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " infaillible."
       }
      ]
     }
@@ -51,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Laissez-moi gérer cette perle.\nJe l'aurai dans ma poche en deux temps,\ntrois mouvements avec mon baratin infaillible.",
+   "brut_fr": "Laissez-moi gérer cette perle. Je l'aurai\ndans ma poche en deux temps, trois\nmouvements avec mon baratin [1205][U+000F] infaillible.",
    "brut_en": "Leave[SP]me[SP]to[SP]deal[SP]with[SP]this[SP]fine[SP]honey.\nI'll[SP]have[SP]her[SP]wrapped[SP]around[SP]my[SP]finger[SP]in\nno[SP]time[SP]with[SP]my[SP]can't-miss[SP]schmoozing.",
    "data_size": 266,
    "budget": 258
@@ -206,10 +212,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Hein? Ce bruit..."
+       "t": " Hein? Ce bruit..."
       }
      ]
     }
@@ -241,7 +244,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quoi de neuf, [1113]?[1205][001E]\nHein? Ce bruit...",
+   "brut_fr": "Quoi de neuf, [1113]?[1205][001E] Hein? Ce bruit...",
    "brut_en": "What's[SP]the[SP]matter,[SP][1113]?[1205][001E]\nHuh?[SP]That[SP]sound...",
    "data_size": 108,
    "budget": 100
@@ -267,7 +270,7 @@
        "hl": "détonateur à distance"
       },
       {
-       "t": "!"
+       "t": " !"
       }
      ]
     }
@@ -302,7 +305,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Là! Une [E4][NULL][NULL][U+0006]énigme[E4][NULL][NULL][0002] et un [E4][NULL][NULL][U+0006]détonateur à distance[E4][NULL][NULL][0002]!",
+   "brut_fr": "Là! Une [E4][NULL][NULL][U+0006]énigme[E4][NULL][NULL][0002] et un [E4][NULL][NULL][U+0006]détonateur à distance[E4][NULL][NULL][0002] !",
    "brut_en": "Here[SP]they[SP]are![SP]A[SP][E4][NULL][NULL][U+0006]riddle[E4][NULL][NULL][0002][SP]and[SP]a[SP][E4][NULL][NULL][U+0006]remote\ntransmitter[E4][NULL][NULL][0002]!",
    "data_size": 152,
    "budget": 144
@@ -477,7 +480,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Excusez moi! Ce détonateur dans votre seau... Où l'avez-vous trouvé!?"
+       "t": "Excusez moi! Ce détonateur dans votre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "seau... Où l'avez-vous trouvé!?"
       }
      ]
     }
@@ -500,7 +509,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Excusez moi! Ce détonateur dans votre seau... Où l'avez-vous trouvé!?",
+   "brut_fr": "Excusez moi! Ce détonateur dans votre\nseau... Où l'avez-vous trouvé!?",
    "brut_en": "E-Excuse[SP]me![SP]That[SP]transmitter[SP]in[SP]your\npail...[SP]Where[SP]did[SP]you[SP]find[SP]it!?",
    "data_size": 160,
    "budget": 152
@@ -514,13 +523,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cette pendule? Je l'ai sortie de la poubelle"
+       "t": "Cette pendule? Je l'ai sortie de la"
       },
       {
        "nl": true
       },
       {
-       "t": "des toilettes des hommes. En parfait état, pourquoi elle était là..."
+       "t": "poubelle des toilettes des hommes. En"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "parfait état,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pourquoi elle était là..."
       }
      ]
     }
@@ -549,7 +570,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cette pendule? Je l'ai sortie de la poubelle\ndes toilettes des hommes. En parfait état, pourquoi elle était là...",
+   "brut_fr": "Cette pendule? Je l'ai sortie de la\npoubelle des toilettes des hommes. En\nparfait état,[1205][U+000F] pourquoi elle était là...",
    "brut_en": "Oh,[SP]this[SP]clock?[SP]I[SP]fished[SP]it[SP]out[SP]of[SP]the[SP]trash\nin[SP]the[SP]men's[SP]room[SP]a[SP]minute[SP]ago.[SP]Perfectly\ngood[SP]clock,[SP]don't[SP]know[SP]why[SP]it[SP]was[SP]there...",
    "data_size": 298,
    "budget": 290
@@ -563,7 +584,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est un détonateur à minuterie pour bombe! Donnez-le-nous vite!"
+       "t": "C'est un détonateur à minuterie"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour bombe! Donnez-le-nous vite!"
       }
      ]
     }
@@ -592,7 +619,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est un détonateur à minuterie pour bombe! Donnez-le-nous vite!",
+   "brut_fr": "C'est un détonateur à minuterie\npour bombe! Donnez-le-nous vite!",
    "brut_en": "That's[SP]not[SP]a[SP]clock![SP]It's[SP]a[SP]timed[SP]detonator\nfor[SP]a[SP]bomb![SP]You[SP]need[SP]to[SP]give[SP]that[SP]to[SP]us\nright[SP]away!",
    "data_size": 208,
    "budget": 200
@@ -606,13 +633,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Balivernes! Vous voulez ma pendule."
+       "t": "Balivernes! Vous voulez ma"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne m'aurez pas!"
+       "t": "pendule. Vous ne m'aurez pas!"
       }
      ]
     }
@@ -641,7 +668,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Balivernes! Vous voulez ma pendule.\nVous ne m'aurez pas!",
+   "brut_fr": "Balivernes! Vous voulez ma\npendule. Vous ne m'aurez pas!",
    "brut_en": "What[SP]nonsense[SP]is[SP]this[SP]now?[SP]You[SP]just[SP]want\nmy[SP]clock![SP]Well,[SP]too[SP]bad,[SP]because[SP]you're[SP]not\nfooling[SP]me!",
    "data_size": 232,
    "budget": 224
@@ -729,13 +756,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un homme aux toilettes des femmes!? Comment osez vous!"
+       "t": "Un homme aux toilettes des femmes!?"
       },
       {
        "nl": true
       },
       {
-       "t": "Dehors!"
+       "t": "Comment osez vous! Dehors!"
       }
      ]
     }
@@ -758,7 +785,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un homme aux toilettes des femmes!? Comment osez vous!\nDehors!",
+   "brut_fr": "Un homme aux toilettes des femmes!?\nComment osez vous! Dehors!",
    "brut_en": "A[SP]man[SP]in[SP]the[SP]women's[SP]stalls!?[SP]How[SP]dare[SP]you!\nGet[SP]out[SP]of[SP]there,[SP]you[SP]pig!",
    "data_size": 178,
    "budget": 170
@@ -803,13 +830,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On dirait un assassin du Cercle Masqué."
+       "t": "On dirait un assassin du Cercle"
       },
       {
        "nl": true
       },
       {
-       "t": "Attention tout le monde!"
+       "t": "Masqué. Attention tout le monde!"
       }
      ]
     }
@@ -832,7 +859,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On dirait un assassin du Cercle Masqué.\nAttention tout le monde!",
+   "brut_fr": "On dirait un assassin du Cercle\nMasqué. Attention tout le monde!",
    "brut_en": "Looks[SP]like[SP]an[SP]assassin[SP]from[SP]the[SP]Masked\nCircle.[SP]Careful,[SP]everyone!",
    "data_size": 154,
    "budget": 146
@@ -846,13 +873,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mon nom est Belphegor, chercheur d'harmonie terrestre,"
+       "t": "Mon nom est Belphegor, chercheur"
       },
       {
        "nl": true
       },
       {
-       "t": "Duc de l'Enfer, maître de la paresse..."
+       "t": "d'harmonie terrestre, Duc de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'Enfer, maître de la paresse..."
       }
      ]
     }
@@ -881,7 +914,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mon nom est Belphegor, chercheur d'harmonie terrestre,\nDuc de l'Enfer, maître de la paresse...",
+   "brut_fr": "Mon nom est Belphegor, chercheur\nd'harmonie terrestre, Duc de\nl'Enfer, maître de la paresse...",
    "brut_en": "My[SP]name[SP]is[SP]Belphegor...[SP]the[SP]seeker[SP]of\nharmony[SP]on[SP]Earth,[SP]and[SP]Duke[SP]of[SP]Hell\npresiding[SP]over[SP]indolence...",
    "data_size": 218,
    "budget": 210
@@ -993,13 +1026,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis Ixquic, guerrière réincarnée du"
+       "t": "Je suis Ixquic, guerrière"
       },
       {
        "nl": true
       },
       {
-       "t": "Cercle Masqué!"
+       "t": "réincarnée du Cercle Masqué!"
       }
      ]
     }
@@ -1022,7 +1055,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis Ixquic, guerrière réincarnée du\nCercle Masqué!",
+   "brut_fr": "Je suis Ixquic, guerrière\nréincarnée du Cercle Masqué!",
    "brut_en": "I[SP]am[SP]Ixquic,[SP]reincarnated[SP]warrior[SP]of[SP]the\nMasked[SP]Circle!",
    "data_size": 150,
    "budget": 142
@@ -1036,13 +1069,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Heeey, les gars! Les vils dompteurs de démons sont"
+       "t": "Heeey, les gars! Les vils dompteurs"
       },
       {
        "nl": true
       },
       {
-       "t": "là, comme l'annonçait l'oracle du grand Roi Lion!"
+       "t": "de démons sont là, comme l'annonçait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'oracle du grand "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Roi Lion!"
       }
      ]
     }
@@ -1071,7 +1116,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Heeey, les gars! Les vils dompteurs de démons sont\nlà, comme l'annonçait l'oracle du grand Roi Lion!",
+   "brut_fr": "Heeey, les gars! Les vils dompteurs\nde démons sont là, comme l'annonçait\nl'oracle du grand [1205][U+000F] Roi Lion!",
    "brut_en": "Heyyy,[SP]everyone![SP]The[SP]evil[SP]demon[SP]tamers[SP]are\nhere,[SP]just[SP]like[SP]the[SP]great[SP]King[SP]Leo's[SP]oracle\nsaid[SP]they'd[SP]be!",
    "data_size": 228,
    "budget": 220
@@ -1085,15 +1130,21 @@
      "nom": null,
      "seg": [
       {
-       "t": "Gloire au Masque!"
+       "t": "Gloire au Masque! "
       }
      ]
     },
     {
-     "nom": "Ixquic",
+     "nom": "Ixquic Dompteurs de",
      "seg": [
       {
-       "t": "Dompteurs de démons, vous voulez détruire le monde!"
+       "t": "démons, vous voulez détruire "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " le monde!"
       }
      ]
     }
@@ -1124,7 +1175,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Gloire au Masque![E1][E2]\n[E3][E4][NULL][NULL]\"Ixquic\nDompteurs de démons, vous voulez détruire le monde!",
+   "brut_fr": "Gloire au Masque![E1][E2] [E3][E4][NULL][NULL]\"Ixquic Dompteurs de\ndémons, vous voulez détruire [1205][U+000F] le monde!",
    "brut_en": "Glory[SP]to[SP]the[SP]Mask![E1][E2]\n[E3][E4][NULL][NULL]\"Ixquic\nYou[SP]fiendish[SP]demon[SP]tamers[SP]who[SP]seek[SP]to\ndestroy[SP]the[SP]world!",
    "data_size": 208,
    "budget": 200
@@ -1288,13 +1339,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Moi, Ixquic, guerrière réincarnée,"
+       "t": "Moi, Ixquic, guerrière réincarnée, je vais"
       },
       {
        "nl": true
       },
       {
-       "t": "je vais vous botter le cul par rétribution divine!"
+       "t": "vous botter le cul par rétribution divine!"
       }
      ]
     }
@@ -1323,7 +1374,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Moi, Ixquic, guerrière réincarnée,\nje vais vous botter le cul par rétribution divine!",
+   "brut_fr": "Moi, Ixquic, guerrière réincarnée, je vais\nvous botter le cul par rétribution divine!",
    "brut_en": "The[SP]magical[SP]warrior[SP]Ixquic,[SP]reincarnated\nsince[SP]time[SP]immemorial,[SP]will[SP]whoop[SP]your[SP]ass\nwith[SP]divine[SP]retribution!",
    "data_size": 240,
    "budget": 232
@@ -1337,7 +1388,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Dompteurs! Retournez aux ténèbres d'où vous venez!"
+       "t": "Dompteurs! Retournez aux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ténèbres d'où vous venez!"
       }
      ]
     }
@@ -1360,7 +1417,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dompteurs! Retournez aux ténèbres d'où vous venez!",
+   "brut_fr": "Dompteurs! Retournez aux\nténèbres d'où vous venez!",
    "brut_en": "Demon[SP]tamers![SP]Be[SP]banished[SP]to[SP]the[SP]darkness\nfrom[SP]whence[SP]you[SP]came!",
    "data_size": 150,
    "budget": 142
@@ -1436,7 +1493,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "HÉ! Ne fuyez pas une guerrière du Cercle Masqué!"
+       "t": "HÉ! Ne fuyez pas une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "guerrière du Cercle Masqué!"
       }
      ]
     }
@@ -1459,7 +1522,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "HÉ! Ne fuyez pas une guerrière du Cercle Masqué!",
+   "brut_fr": "HÉ! Ne fuyez pas une\nguerrière du Cercle Masqué!",
    "brut_en": "YO![SP]DEMON[SP]TAMERS![SP]Don't[SP]turn[SP]your[SP]back[SP]on\na[SP]reincarnated[SP]warrior[SP]of[SP]the[SP]Masked[SP]Circle!",
    "data_size": 196,
    "budget": 188
@@ -1473,13 +1536,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sois une fille sage et ne nous gêne pas."
+       "t": "Sois une fille sage et ne nous"
       },
       {
        "nl": true
       },
       {
-       "t": "Toi aussi, va-t'en vite!"
+       "t": "gêne pas. Toi aussi, va-t'en vite!"
       }
      ]
     }
@@ -1508,7 +1571,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sois une fille sage et ne nous gêne pas.\nToi aussi, va-t'en vite!",
+   "brut_fr": "Sois une fille sage et ne nous\ngêne pas. Toi aussi, va-t'en vite!",
    "brut_en": "Be[SP]a[SP]good[SP]girl[SP]and[SP]don't[SP]get[SP]in[SP]our[SP]way,\nm'kay,[SP]sweetie?[SP]You[SP]should[SP]hurry[SP]out[SP]of\nhere[SP]too!",
    "data_size": 200,
    "budget": 192
@@ -1522,7 +1585,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'entends, Belphie? La vieille me prend pour une gamine!"
+       "t": "T'entends, Belphie? La vieille"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "me prend pour une gamine!"
       }
      ]
     }
@@ -1551,7 +1620,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'entends, Belphie? La vieille me prend pour une gamine!",
+   "brut_fr": "T'entends, Belphie? La vieille\nme prend pour une gamine!",
    "brut_en": "Did[SP]you[SP]hear[SP]that,[SP]Belphie!?[SP]This[SP]old[SP]hag\nis[SP]treating[SP]a[SP]magical[SP]warrior[SP]like[SP]a[SP]plain\nol'[SP]little[SP]girl!",
    "data_size": 226,
    "budget": 218
@@ -1596,19 +1665,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Yay! T'as réussi! C'est notre "
-      },
-      {
-       "hero": "prenom"
-      },
-      {
-       "t": "!"
+       "t": "Yay! T'as réussi! C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "Je le savais!"
+       "t": "notre "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Je le savais!"
       }
      ]
     }
@@ -1637,7 +1706,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Yay! T'as réussi! C'est notre [1113]!\nJe le savais!",
+   "brut_fr": "Yay! T'as réussi! C'est\nnotre [1113]! Je le savais!",
    "brut_en": "Hoisamuro![SP]You[SP]did[SP]it![SP]That's[SP]our[SP][1113]!\nI[SP]knew[SP]you[SP]could[SP]do[SP]it!",
    "data_size": 142,
    "budget": 134
@@ -1651,13 +1720,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On dirait qu'ils ont désamorcé le détonateur"
+       "t": "On dirait qu'ils ont désamorcé le"
       },
       {
        "nl": true
       },
       {
-       "t": "finalement! Que fait-on, Maître?"
+       "t": "détonateur finalement! Que fait-on, Maître?"
       }
      ]
     }
@@ -1680,7 +1749,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On dirait qu'ils ont désamorcé le détonateur\nfinalement! Que fait-on, Maître?",
+   "brut_fr": "On dirait qu'ils ont désamorcé le\ndétonateur finalement! Que fait-on, Maître?",
    "brut_en": "Looks[SP]like[SP]they've[SP]disabled[SP]the[SP]transmitter\nafter[SP]all![SP]What[SP]should[SP]we[SP]do,[SP]Master?",
    "data_size": 192,
    "budget": 184
@@ -1700,7 +1769,13 @@
        "pause": true
       },
       {
-       "t": "J'suis en colère! Je fais tout sauter avec ce détonateur!"
+       "t": " J'suis en colère! Je fais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tout sauter avec ce détonateur!"
       }
      ]
     }
@@ -1735,7 +1810,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...[1205][001E]J'suis en colère! Je fais tout sauter avec ce détonateur!",
+   "brut_fr": "...[1205][001E] J'suis en colère! Je fais\ntout sauter avec ce détonateur!",
    "brut_en": "...[1205][001E]Now[SP]I'm[SP]mad![SP]If[SP]that's[SP]how[SP]it's[SP]gonna\nbe,[SP]I'll[SP]blow[SP]the[SP]whole[SP]building[SP]with[SP]this\nremote[SP]transmitter!",
    "data_size": 234,
    "budget": 226
@@ -1749,13 +1824,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Arrête ça tout de suite! Si l'immeuble saute,"
+       "t": "Arrête ça tout de suite! Si l'immeuble"
       },
       {
        "nl": true
       },
       {
-       "t": "tu mourras avec lui!"
+       "t": "saute, tu mourras avec lui!"
       }
      ]
     }
@@ -1778,7 +1853,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Arrête ça tout de suite! Si l'immeuble saute,\ntu mourras avec lui!",
+   "brut_fr": "Arrête ça tout de suite! Si l'immeuble\nsaute, tu mourras avec lui!",
    "brut_en": "Stop[SP]that[SP]right[SP]now![SP]If[SP]this[SP]building[SP]goes,\nyou'll[SP]die[SP]along[SP]with[SP]it!",
    "data_size": 158,
    "budget": 150
@@ -1823,16 +1898,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ma famille, les cours, tout est chiant..."
-      },
-      {
-       "pause": true
+       "t": "Ma famille, les cours, tout est"
       },
       {
        "nl": true
       },
       {
-       "t": "Y a rien de bien dans la vie!"
+       "t": "chiant..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Y a rien de bien dans la vie!"
       }
      ]
     }
@@ -1858,7 +1936,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ma famille, les cours, tout est chiant...[1205][001E]\nY a rien de bien dans la vie!",
+   "brut_fr": "Ma famille, les cours, tout est\nchiant...[1205][001E] Y a rien de bien dans la vie!",
    "brut_en": "My[SP]family[SP]and[SP]classes[SP]are[SP]all[SP]just[SP]a[SP]pain...[1205][001E]\nThere's[SP]nothing[SP]good[SP]about[SP]being[SP]alive!",
    "data_size": 198,
    "budget": 190
@@ -1872,13 +1950,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "La guerrière réincarnée Ixquic vit et mourra pour la justice."
+       "t": "La guerrière réincarnée Ixquic vit et mourra"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est ma seule joie!"
+       "t": "pour la justice. C'est ma seule joie!"
       }
      ]
     }
@@ -1907,7 +1985,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La guerrière réincarnée Ixquic vit et mourra pour la justice.\nC'est ma seule joie!",
+   "brut_fr": "La guerrière réincarnée Ixquic vit et mourra\npour la justice. C'est ma seule joie!",
    "brut_en": "The[SP]reincarnated[SP]warrior[SP]Ixquic[SP]lives[SP]for\njustice,[SP]and[SP]she'll[SP]die[SP]for[SP]it[SP]too!\nOnly[SP]that[SP]will[SP]satisfy[SP]me!",
    "data_size": 232,
    "budget": 224
@@ -2007,13 +2085,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ignorer ça et dire que tu préfères mourir,"
+       "t": "Ignorer ça et dire que tu préfères"
       },
       {
        "nl": true
       },
       {
-       "t": "ça montre juste ton immaturité!"
+       "t": "mourir, ça montre juste ton immaturité!"
       }
      ]
     }
@@ -2036,7 +2114,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ignorer ça et dire que tu préfères mourir,\nça montre juste ton immaturité!",
+   "brut_fr": "Ignorer ça et dire que tu préfères\nmourir, ça montre juste ton immaturité!",
    "brut_en": "Shrugging[SP]that[SP]off[SP]and[SP]saying[SP]you'd[SP]rather\ndie[SP]just[SP]shows[SP]how[SP]immature[SP]you[SP]are!",
    "data_size": 180,
    "budget": 172
@@ -2081,7 +2159,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "...NON! Tu es totalement sénile! Ma génération déteste les sermons!"
+       "t": "... NON! Tu es totalement sénile!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ma génération déteste les sermons!"
       }
      ]
     }
@@ -2110,7 +2194,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...NON! Tu es totalement sénile! Ma génération déteste les sermons!",
+   "brut_fr": "... NON! Tu es totalement sénile!\nMa génération déteste les sermons!",
    "brut_en": "...NOT![SP]You're[SP]totally[SP]senile[SP]if[SP]you[SP]thought\nI'd[SP]listen[SP]to[SP]that![SP]My[SP]generation[SP]HATES\nbeing[SP]preached[SP]at!",
    "data_size": 230,
    "budget": 222
