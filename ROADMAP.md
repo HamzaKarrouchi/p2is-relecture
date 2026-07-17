@@ -56,6 +56,33 @@ des scripts ci-dessus n'apparaissent simplement pas dans le fil de lecture
 - Tests : `dico.js` renforcé (faux positifs, casse, cumul), 2 scripts
   `e2e/` Playwright (éditeur de choix, non-régression responsive).
 
+### 🔀 Fork P2-FR-IS-PSP resynchronisé — miroir complet (2026-07-17)
+
+Le fork avait re-divergé de l'upstream réel de chenetulipe (docs, `Dictionnaire.md`
+déplacé à la racine et reformaté en 3 colonnes, `overflows_list.txt`, MMAP03 passé
+à 100 %, nombreuses révisions de traduction). Cette fois, miroir **complet** (pas
+seulement `traduction/event_scripts/`) : tout le contenu de
+`chenetulipe/P2-FR-IS-PSP:main` (330 fichiers) recopié tel quel par-dessus le
+fork, puis les correctifs propres au fork réappliqués par-dessus (vérifiés un
+par un contre le texte upstream avant écriture, jamais d'écrasement aveugle) :
+- CI (`check_scripts.yml`) : chemin `traduction/event_scripts/*.json` (upstream
+  avait réintroduit l'ancien chemin `scripts/*.json`, obsolète)
+- 4 `nom_fr` pollués (script_038/157/248/296/359/360)
+- 6 corrections de Seb sur `script_002` (adaptées au wrapping upstream pour
+  2 d'entre elles, qui avait changé indépendamment)
+- 1 correction de relecture restante (`script_120` id0)
+
+[PR #11](https://github.com/HamzaKarrouchi/P2-FR-IS-PSP/pull/11) mergée côté
+trad (le check JsonVerify échoue sur des dépassements de budget préexistants
+dans le contenu amont de chenetulipe — hors périmètre, déjà trackés dans son
+`overflows_list.txt` — merge fait malgré ce statut `unstable`).
+[PR #13](https://github.com/HamzaKarrouchi/p2is-relecture/pull/13) : `data/`
+régénéré (dictionnaire à jour dont « Boss des calbutes »/« Jeu du Joker », et
+MMAP03 ajouté à `SCRIPTS_SPECIAUX` — 407 scripts). Supersède et ferme
+[PR #12](https://github.com/HamzaKarrouchi/p2is-relecture/pull/12) (proposition
+de chenetulipe basée sur un état qui aurait fait régresser les corrections de
+Seb).
+
 ### 🔀 Fork P2-FR-IS-PSP resynchronisé (2026-07-07)
 
 Découverte : `HamzaKarrouchi/P2-FR-IS-PSP` n'a **aucun historique git commun**
