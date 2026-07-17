@@ -10,19 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Eeeet... Action!"
+       "t": "Eeeet... Action! Bienvenue au Cinéma Climax"
       },
       {
        "nl": true
       },
       {
-       "t": "Bienvenue au Cinéma Climax de Sumaru!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "C'est votre première visite?"
+       "t": "de Sumaru! C'est votre première visite?"
       }
      ]
     }
@@ -51,7 +45,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eeeet... Action!\nBienvenue au Cinéma Climax de Sumaru!\nC'est votre première visite?",
+   "brut_fr": "Eeeet... Action! Bienvenue au Cinéma Climax\nde Sumaru! C'est votre première visite?",
    "brut_en": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]Sumaru[SP]City's[SP]Climax[SP]Theater!\nIs[SP]this[SP]your[SP]first[SP]time[SP]here?",
    "data_size": 194,
    "budget": 186
@@ -65,7 +59,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je m'appelle Mitsugi, et je serai votre guide. Enchanté!"
+       "t": "Je m'appelle Mitsugi, et je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "serai votre guide. Enchanté!"
       }
      ]
     }
@@ -88,7 +88,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'appelle Mitsugi, et je serai votre guide. Enchanté!",
+   "brut_fr": "Je m'appelle Mitsugi, et je\nserai votre guide. Enchanté!",
    "brut_en": "My[SP]name[SP]is[SP]Mitsugi,[SP]and[SP]I'll[SP]be[SP]your[SP]guide\nto[SP]the[SP]theater.[SP]Nice[SP]to[SP]meet[SP]you!",
    "data_size": 168,
    "budget": 160
@@ -145,16 +145,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "On raconte que l’image est si nette"
+       "t": "On raconte que l’image est si"
       },
       {
        "nl": true
       },
       {
-       "t": "qu’on a presque l’impression de"
+       "t": "nette qu’on a presque l’impression"
       },
       {
        "nl": true
+      },
+      {
+       "t": "de "
       },
       {
        "hl": "vivre réellement le film"
@@ -192,7 +195,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On raconte que l’image est si nette\nqu’on a presque l’impression de\n[E4][NULL][NULL][U+0006]vivre réellement le film[E4][NULL][NULL][0002]!",
+   "brut_fr": "On raconte que l’image est si\nnette qu’on a presque l’impression\nde [E4][NULL][NULL][U+0006]vivre réellement le film[E4][NULL][NULL][0002]!",
    "brut_en": "They[SP]say[SP]that[SP]the[SP]pictures[SP]are[SP]so[SP]clear[SP]and\ncrisp[SP]that[SP]it[SP]feels[SP]almost[SP]as[SP]if[SP]you're\n[E4][NULL][NULL][U+0006]really[SP]experiencing[SP]the[SP]events[SP]of[SP]the[SP]film[E4][NULL][NULL][0002]!",
    "data_size": 332,
    "budget": 324
@@ -206,19 +209,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous gagnez aussi des points à chaque"
+       "t": "Vous gagnez aussi des points à chaque film"
       },
       {
        "nl": true
       },
       {
-       "t": "film vu en entier. Ces points"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "s'accumulent!"
+       "t": "vu en entier. Ces points s'accumulent!"
       }
      ]
     }
@@ -247,7 +244,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous gagnez aussi des points à chaque\nfilm vu en entier. Ces points\ns'accumulent!",
+   "brut_fr": "Vous gagnez aussi des points à chaque film\nvu en entier. Ces points s'accumulent!",
    "brut_en": "You'll[SP]also[SP]earn[SP]points[SP]each[SP]time[SP]you[SP]watch\na[SP]movie[SP]all[SP]the[SP]way[SP]to[SP]the[SP]end.[SP]These[SP]points\nwill[SP]add[SP]up!",
    "data_size": 264,
    "budget": 256
@@ -261,13 +258,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Votre niveau de membre dépend de vos points."
+       "t": "Votre niveau de membre dépend de vos"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous commencerez au rang"
+       "t": "points. Vous commencerez au rang"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -308,7 +308,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Votre niveau de membre dépend de vos points.\nVous commencerez au rang\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et vous progresserez!",
+   "brut_fr": "Votre niveau de membre dépend de vos\npoints. Vous commencerez au rang[1205][U+000F]\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et vous progresserez!",
    "brut_en": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
    "data_size": 340,
    "budget": 332
@@ -377,25 +377,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Quoi ? Mon service impeccable"
+       "t": "... Quoi? Mon service impeccable et"
       },
       {
        "nl": true
       },
       {
-       "t": "et mes excellentes explications"
+       "t": "mes excellentes explications ne vous"
       },
       {
        "nl": true
       },
       {
-       "t": "ne vous suffisent pas ?"
+       "t": "suffisent pas?"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Vous plaisantez ?"
+       "t": " Vous plaisantez?"
       }
      ]
     }
@@ -424,7 +424,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Quoi ? Mon service impeccable\net mes excellentes explications\nne vous suffisent pas ?\nVous plaisantez ?",
+   "brut_fr": "... Quoi? Mon service impeccable et\nmes excellentes explications ne vous\nsuffisent pas?[1205][U+000F] Vous plaisantez?",
    "brut_en": "...What?[SP]Wasn't[SP]my[SP]impeccable[SP]service\nand[SP]masterful[SP]explanation[SP]enough?\nYou've[SP]got[SP]to[SP]be[SP]joking.",
    "data_size": 254,
    "budget": 246
@@ -444,13 +444,19 @@
        "nl": true
       },
       {
-       "t": "incomparable avec les films les plus réalistes"
+       "t": "incomparable avec les films les plus"
       },
       {
        "nl": true
       },
       {
-       "t": "qui soient ! Que demander de plus?"
+       "t": "réalistes"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " qui soient! Que demander de plus?"
       }
      ]
     }
@@ -479,7 +485,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nous vous offrons déjà une expérience\nincomparable avec les films les plus réalistes\nqui soient ! Que demander de plus?",
+   "brut_fr": "Nous vous offrons déjà une expérience\nincomparable avec les films les plus\nréalistes[1205][U+000F] qui soient! Que demander de plus?",
    "brut_en": "We're[SP]already[SP]giving[SP]you[SP]the[SP]unparalleled\nexperience[SP]of[SP]seeing[SP]the[SP]most[SP]realistic[SP]movies\nknown[SP]to[SP]man![SP]What[SP]more[SP]could[SP]you[SP]want?",
    "data_size": 320,
    "budget": 312
@@ -502,10 +508,16 @@
        "t": "Impressionnant! Laissez-moi débloquer"
       },
       {
+       "pause": true
+      },
+      {
+       "t": " un"
+      },
+      {
        "nl": true
       },
       {
-       "t": "un nouveau mode.>BGMajouté à la Galerie."
+       "t": "nouveau mode.>BGMajouté à la Galerie."
       }
      ]
     }
@@ -534,7 +546,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci pour votre travail! Je vous ai observé.\nImpressionnant! Laissez-moi débloquer\nun nouveau mode.[E1][E2][E3]>[1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014]ajouté à la Galerie.",
+   "brut_fr": "Merci pour votre travail! Je vous ai observé.\nImpressionnant! Laissez-moi débloquer[1205][U+000F] un\nnouveau mode.[E1][E2][E3]>[1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014]ajouté à la Galerie.",
    "brut_en": "Thanks[SP]for[SP]your[SP]hard[SP]work![SP]I've[SP]been[SP]watching,\nand[SP]I[SP]gotta[SP]say,[SP]I'm[SP]impressed![SP]Let[SP]me[SP]unlock\na[SP]new[SP]mode[SP]for[SP]you.[E1][E2][E3]>[SP][1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014][SP]was[SP]added[SP]to[SP]the[SP]Gallery.",
    "data_size": 372,
    "budget": 364
@@ -579,19 +591,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Dans Config, passez de l’Original"
+       "t": "Dans Config, passez de l’Original au Remix"
       },
       {
        "nl": true
       },
       {
-       "t": "au Remix pour profiter des versions nouvelles ou anciennes"
+       "t": "pour profiter des versions nouvelles ou"
       },
       {
        "nl": true
       },
       {
-       "t": "de ces thèmes cultes."
+       "t": "anciennes"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de ces thèmes cultes."
       }
      ]
     }
@@ -620,7 +638,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dans Config, passez de l’Original\nau Remix pour profiter des versions nouvelles ou anciennes\nde ces thèmes cultes.",
+   "brut_fr": "Dans Config, passez de l’Original au Remix\npour profiter des versions nouvelles ou\nanciennes[1205][U+000F] de ces thèmes cultes.",
    "brut_en": "If[SP]you[SP]go[SP]to[SP]Config[SP]and[SP]switch[SP]between[SP]Original\nand[SP]Remixed,[SP]you[SP]can[SP]enjoy[SP]new[SP]or[SP]old[SP]versions\nof[SP]those[SP]classic[SP]themes.",
    "data_size": 302,
    "budget": 294

@@ -16,16 +16,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Tous les gars de Seven sont"
+       "t": " Tous"
       },
       {
        "nl": true
       },
       {
-       "t": "des mauviettes."
+       "t": "les gars de Seven sont des mauviettes."
       }
      ]
     }
@@ -57,7 +54,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tant qu'il est en sûreté, ça va?[1205][001E]\nTous les gars de Seven sont\ndes mauviettes.",
+   "brut_fr": "Tant qu'il est en sûreté, ça va?[1205][001E] Tous\nles gars de Seven sont des mauviettes.",
    "brut_en": "So[SP]he[SP]feels[SP]fine[SP]as[SP]long[SP]as[SP]he's[SP]safe?[1205][001E]\nLooks[SP]like[SP]all[SP]the[SP]guys[SP]at[SP]Sevens[SP]are\nlameasses.",
    "data_size": 204,
    "budget": 196
@@ -71,13 +68,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les gars, ça va. Mais voir une dame"
+       "t": "Les gars, ça va. Mais voir une dame aussi"
       },
       {
        "nl": true
       },
       {
-       "t": "aussi triste..."
+       "t": "triste..."
       },
       {
        "pause": true
@@ -112,7 +109,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les gars, ça va. Mais voir une dame\naussi triste...[1205][001E] Sèche ces larmes, petite!",
+   "brut_fr": "Les gars, ça va. Mais voir une dame aussi\ntriste...[1205][001E] Sèche ces larmes, petite!",
    "brut_en": "The[SP]guys[SP]aside,[SP]I[SP]hate[SP]to[SP]see[SP]a[SP]lady[SP]like\nyou[SP]so[SP]sad.[1205][001E][SP]Dry[SP]those[SP]eyes,[SP]little[SP]girl!",
    "data_size": 194,
    "budget": 186
@@ -126,19 +123,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé, petite. Le grand Michel te jure qu'il"
+       "t": "Hé, petite. Le grand Michel te"
       },
       {
        "nl": true
       },
       {
-       "t": "réglera son compte à celui qui t'a fait"
+       "t": "jure qu'il réglera son compte à"
       },
       {
        "nl": true
       },
       {
-       "t": "ça au visage!"
+       "t": "celui qui t'a fait ça au visage!"
       }
      ]
     }
@@ -167,7 +164,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, petite. Le grand Michel te jure qu'il\nréglera son compte à celui qui t'a fait\nça au visage!",
+   "brut_fr": "Hé, petite. Le grand Michel te\njure qu'il réglera son compte à\ncelui qui t'a fait ça au visage!",
    "brut_en": "Hey,[SP]little[SP]girl.[SP]The[SP]great[SP]Michel[SP]vows[SP]that\nhe'll[SP]deal[SP]with[SP]the[SP]guy[SP]who[SP]messed[SP]up[SP]your\nface[SP]like[SP]that!",
    "data_size": 232,
    "budget": 224
@@ -181,22 +178,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ne te soucie pas. Si tu veux"
+       "t": "Ne te soucie pas. Si tu veux me"
       },
       {
        "nl": true
       },
       {
-       "t": "me récompenser, un baiser suffit."
+       "t": "récompenser, un baiser suffit."
       },
       {
        "pause": true
       },
       {
+       "t": " Je"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Je risquerais ma vie pour ton baiser!"
+       "t": "risquerais ma vie pour ton baiser!"
       }
      ]
     }
@@ -231,7 +231,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ne te soucie pas. Si tu veux\nme récompenser, un baiser suffit.[1205][001E]\nJe risquerais ma vie pour ton baiser!",
+   "brut_fr": "Ne te soucie pas. Si tu veux me\nrécompenser, un baiser suffit.[1205][001E] Je\nrisquerais ma vie pour ton baiser!",
    "brut_en": "Don't[SP]fret[SP]over[SP]how[SP]to[SP]thank[SP]me.[SP]If[SP]you[SP]insist\non[SP]a[SP]reward,[SP]a[SP]kiss[SP]will[SP]be[SP]enough.[1205][001E][SP]I'd[SP]risk\nmy[SP]life[SP]over[SP]one[SP]kiss[SP]from[SP]you!",
    "data_size": 276,
    "budget": 268
@@ -251,25 +251,16 @@
        "pause": true
       },
       {
-       "t": " C-C'était un sacré"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "baiser..."
+       "t": " C-C'était un sacré baiser..."
       },
       {
        "pause": true
       },
       {
-       "t": " J-Je doute qu'on"
-      },
-      {
        "nl": true
       },
       {
-       "t": "se reverra, pourtant..."
+       "t": "J-Je doute qu'on se reverra, pourtant..."
       }
      ]
     }
@@ -304,7 +295,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "P-Petite...[1205][001E] C-C'était un sacré\nbaiser...[1205][001E] J-Je doute qu'on\nse reverra, pourtant...",
+   "brut_fr": "P-Petite...[1205][001E] C-C'était un sacré baiser...[1205][001E]\nJ-Je doute qu'on se reverra, pourtant...",
    "brut_en": "L-Little[SP]girl...[1205][001E][SP]Th-That[SP]was[SP]one[SP]whopper[SP]of[SP]a\nkiss...[1205][001E][SP]I-I[SP]doubt[SP]we'll[SP]meet[SP]again,[SP]though...",
    "data_size": 216,
    "budget": 208
@@ -330,13 +321,10 @@
        "enc": "Wai!"
       },
       {
-       "t": " s'utilise"
-      },
-      {
        "nl": true
       },
       {
-       "t": "comme "
+       "t": "s'utilise comme "
       },
       {
        "enc": "Hé!"
@@ -383,7 +371,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cours de cantonais de Lisa #2![1205][001E] [1432][NULL][NULL][0014]Wai![1432][NULL][NULL][0014] s'utilise\ncomme [1432][NULL][NULL][0014]Hé![1432][NULL][NULL][0014] pour appeler quelqu'un.",
+   "brut_fr": "Cours de cantonais de Lisa #2![1205][001E] [1432][NULL][NULL][0014]Wai![1432][NULL][NULL][0014]\ns'utilise comme [1432][NULL][NULL][0014]Hé![1432][NULL][NULL][0014] pour appeler quelqu'un.",
    "brut_en": "Lisa's[SP]Cantonese[SP]lesson[SP]#2![1205][001E][SP][1432][NULL][NULL][0014]Wai![1432][NULL][NULL][0014][SP]is[SP]used\nlike[SP][1432][NULL][NULL][0014]Hey![1432][NULL][NULL][0014][SP]when[SP]you're[SP]calling[SP]to[SP]someone.",
    "data_size": 220,
    "budget": 212
@@ -476,13 +464,10 @@
        "enc": "Wai!"
       },
       {
-       "t": " s'utilise"
-      },
-      {
        "nl": true
       },
       {
-       "t": "comme "
+       "t": "s'utilise comme "
       },
       {
        "enc": "Hé!"
@@ -529,7 +514,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cours de cantonais de Lisa #2![1205][001E] [1432][NULL][NULL][0014]Wai![1432][NULL][NULL][0014] s'utilise\ncomme [1432][NULL][NULL][0014]Hé![1432][NULL][NULL][0014] pour appeler quelqu'un.",
+   "brut_fr": "Cours de cantonais de Lisa #2![1205][001E] [1432][NULL][NULL][0014]Wai![1432][NULL][NULL][0014]\ns'utilise comme [1432][NULL][NULL][0014]Hé![1432][NULL][NULL][0014] pour appeler quelqu'un.",
    "brut_en": "Lisa's[SP]Cantonese[SP]lesson[SP]#2![1205][001E][SP][1432][NULL][NULL][0014]Wai![1432][NULL][NULL][0014][SP]is[SP]used\nlike[SP][1432][NULL][NULL][0014]Hey![1432][NULL][NULL][0014][SP]when[SP]you're[SP]calling[SP]to[SP]someone.",
    "data_size": 222,
    "budget": 214
@@ -622,22 +607,28 @@
        "enc": "Kehhei"
       },
       {
-       "t": " signifie"
+       "nl": true
       },
       {
-       "nl": true
+       "t": "signifie "
       },
       {
        "enc": "quelle plaie."
       },
       {
-       "t": " On l'utilise quand on"
+       "t": " On l'utilise"
       },
       {
        "nl": true
       },
       {
-       "t": "veut montrer qu'on est agacé!"
+       "t": "quand on"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " veut montrer qu'on est agacé!"
       }
      ]
     }
@@ -681,7 +672,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cours de cantonais de Lisa #5![1205][001E] [1432][NULL][NULL][0014]Kehhei[1432][NULL][NULL][0014] signifie\n[1432][NULL][NULL][0014]quelle plaie.[1432][NULL][NULL][0014] On l'utilise quand on\nveut montrer qu'on est agacé!",
+   "brut_fr": "Cours de cantonais de Lisa #5![1205][001E] [1432][NULL][NULL][0014]Kehhei[1432][NULL][NULL][0014]\nsignifie [1432][NULL][NULL][0014]quelle plaie.[1432][NULL][NULL][0014] On l'utilise\nquand on[1205][U+000F] veut montrer qu'on est agacé!",
    "brut_en": "Lisa's[SP]Cantonese[SP]lesson[SP]#5![1205][001E][SP][1432][NULL][NULL][0014]Kehhei[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]how[SP]annoying.[1432][NULL][NULL][0014][SP]You[SP]usually[SP]use[SP]it[SP]when[SP]you\nwant[SP]people[SP]to[SP]know[SP]you're[SP]pissed!",
    "data_size": 292,
    "budget": 284
@@ -704,13 +695,13 @@
        "t": " On dit "
       },
       {
-       "enc": "Kaumena"
-      },
-      {
        "nl": true
       },
       {
-       "t": "pour demander de l'aide! Retiens ça!"
+       "enc": "Kaumena"
+      },
+      {
+       "t": " pour demander de l'aide! Retiens ça!"
       }
      ]
     }
@@ -742,7 +733,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cours de cantonais de Lisa #7![1205][001E] On dit [1432][NULL][NULL][0014]Kaumena[1432][NULL][NULL][0014]\npour demander de l'aide! Retiens ça!",
+   "brut_fr": "Cours de cantonais de Lisa #7![1205][001E] On dit [1432][NULL][NULL][0014]\nKaumena[1432][NULL][NULL][0014] pour demander de l'aide! Retiens ça!",
    "brut_en": "Lisa's[SP]Cantonese[SP]lesson[SP]#7![1205][001E][SP]You[SP]say[SP][1432][NULL][NULL][0014]Kaumena[1432][NULL][NULL][0014]\nwhen[SP]you're[SP]asking[SP]for[SP]help![SP]Remember[SP]that!",
    "data_size": 216,
    "budget": 208
@@ -762,13 +753,13 @@
        "nl": true
       },
       {
-       "t": "partir avant d'être malade, mais"
+       "t": "partir avant d'être malade, mais n'a"
       },
       {
        "nl": true
       },
       {
-       "t": "n'a pas eu le temps. Il faut agir..."
+       "t": "pas eu le temps. Il faut agir..."
       }
      ]
     }
@@ -797,7 +788,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il semble que cette fille a voulu\npartir avant d'être malade, mais\nn'a pas eu le temps. Il faut agir...",
+   "brut_fr": "Il semble que cette fille a voulu\npartir avant d'être malade, mais n'a\npas eu le temps. Il faut agir...",
    "brut_en": "Looks[SP]like[SP]that[SP]girl[SP]tried[SP]to[SP]leave[SP]school\nbefore[SP]getting[SP]sick,[SP]but[SP]didn't[SP]make[SP]it[SP]out\nin[SP]time.[SP]We[SP]have[SP]to[SP]do[SP]something...",
    "data_size": 264,
    "budget": 256
@@ -872,22 +863,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je ne peux pas le définir, mais"
+       "t": "Je ne peux pas le définir, mais il y a"
       },
       {
        "nl": true
       },
       {
-       "t": "il y a comme une incohérence ici..."
+       "t": "comme une incohérence ici..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Je le sens..."
+       "t": " Je le sens..."
       }
      ]
     }
@@ -922,7 +910,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne peux pas le définir, mais\nil y a comme une incohérence ici...[1205][U+000F]\nJe le sens...",
+   "brut_fr": "Je ne peux pas le définir, mais il y a\ncomme une incohérence ici...[1205][U+000F] Je le sens...",
    "brut_en": "I[SP]can't[SP]put[SP]my[SP]finger[SP]on[SP]it,[SP]but[SP]it[SP]feels[SP]like\nthere's[SP]some[SP]kind[SP]of[SP]discrepancy[SP]here...[1205][U+000F][SP]I[SP]just\nget[SP]this[SP]feeling...",
    "data_size": 252,
    "budget": 244
@@ -1000,13 +988,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Comment ce type peut-il dire ça"
+       "t": "Comment ce type peut-il dire ça avec"
       },
       {
        "nl": true
       },
       {
-       "t": "avec un visage impassible?"
+       "t": "un visage impassible?"
       },
       {
        "pause": true
@@ -1053,7 +1041,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Comment ce type peut-il dire ça\navec un visage impassible?[1205][001E] Bah, il cherche\nsûrement à la remonter le moral.",
+   "brut_fr": "Comment ce type peut-il dire ça avec\nun visage impassible?[1205][001E] Bah, il cherche\nsûrement à la remonter le moral.",
    "brut_en": "How[SP]in[SP]the[SP]world[SP]can[SP]that[SP]guy[SP]deliver[SP]lines\nlike[SP]that[SP]with[SP]a[SP]straight[SP]face?[1205][001E][SP]Eh,[SP]I'm[SP]sure\nhe's[SP]just[SP]trying[SP]to[SP]cheer[SP]her[SP]up.",
    "data_size": 272,
    "budget": 264
@@ -1070,16 +1058,19 @@
        "enc": "Petite"
       },
       {
-       "t": "? J'en ai la chair de poule..."
-      },
-      {
-       "pause": true
+       "t": "? J'en ai la chair de"
       },
       {
        "nl": true
       },
       {
-       "t": "Il va vraiment bien, lui?"
+       "t": "poule..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il va vraiment bien, lui?"
       }
      ]
     }
@@ -1108,7 +1099,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Petite[1432][NULL][NULL][0014]? J'en ai la chair de poule...[1205][001E]\nIl va vraiment bien, lui?",
+   "brut_fr": "[1432][NULL][NULL][0014]Petite[1432][NULL][NULL][0014]? J'en ai la chair de\npoule...[1205][001E] Il va vraiment bien, lui?",
    "brut_en": "[1432][NULL][NULL][0014]Little[SP]girl[1432][NULL][NULL][0014]?[SP]My[SP]skin's[SP]starting[SP]to[SP]crawl...[1205][001E]\nIs[SP]his[SP]head[SP]really[SP]okay?",
    "data_size": 180,
    "budget": 172
@@ -1183,25 +1174,22 @@
        "pause": true
       },
       {
-       "t": " La réunion du"
+       "t": " La réunion"
       },
       {
        "nl": true
       },
       {
-       "t": "comité est finie, je peux rentrer!"
+       "t": "du comité est finie, je peux rentrer!"
       },
       {
        "pause": true
       },
       {
-       "t": " Je pars"
-      },
-      {
        "nl": true
       },
       {
-       "t": "sans désobéir au directeur!"
+       "t": "Je pars sans désobéir au directeur!"
       }
      ]
     }
@@ -1242,7 +1230,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'est-ce que vous voulez!?[1205][001E] La réunion du\ncomité est finie, je peux rentrer![1205][001E] Je pars\nsans désobéir au directeur!",
+   "brut_fr": "Qu'est-ce que vous voulez!?[1205][001E] La réunion\ndu comité est finie, je peux rentrer![1205][001E]\nJe pars sans désobéir au directeur!",
    "brut_en": "What[SP]do[SP]you[SP]want!?[1205][001E][SP]The[SP]committee[SP]meeting's\nover,[SP]so[SP]I'm[SP]allowed[SP]to[SP]go[SP]home![1205][001E][SP]I[SP]can[SP]leave\nwithout[SP]disobeying[SP]the[SP]principal!",
    "data_size": 286,
    "budget": 278
@@ -1359,13 +1347,13 @@
        "pause": true
       },
       {
-       "t": " Mon club"
+       "t": " Mon"
       },
       {
        "nl": true
       },
       {
-       "t": "venait de finir et j'allais"
+       "t": "club venait de finir et j'allais"
       },
       {
        "nl": true
@@ -1424,7 +1412,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*sanglots*[1205][001E] Waaah... J'ai raté![1205][001E] Mon club\nvenait de finir et j'allais\nrentrer... avant...[1205][001E] *sanglots*",
+   "brut_fr": "*sanglots*[1205][001E] Waaah... J'ai raté![1205][001E] Mon\nclub venait de finir et j'allais\nrentrer... avant...[1205][001E] *sanglots*",
    "brut_en": "*sob*[1205][001E][SP]Waaaah...[SP]I[SP]didn't[SP]make[SP]it![1205][001E][SP]My[SP]club\nmeeting[SP]was[SP]over,[SP]so[SP]I[SP]was[SP]gonna[SP]hurry\nhome...[SP]before...[1205][001E][SP]*sob*",
    "data_size": 268,
    "budget": 260
@@ -1453,13 +1441,13 @@
        "nl": true
       },
       {
-       "t": "Je ferais tout, même embrasser un gars,"
+       "t": "Je ferais tout, même embrasser un"
       },
       {
        "nl": true
       },
       {
-       "t": "pour retrouver mon visage..."
+       "t": "gars, pour retrouver mon visage..."
       }
      ]
     }
@@ -1500,7 +1488,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*sanglots*[1205][001E] Je nettoie comme demandé...[1205][001E]\nJe ferais tout, même embrasser un gars,\npour retrouver mon visage...",
+   "brut_fr": "*sanglots*[1205][001E] Je nettoie comme demandé...[1205][001E]\nJe ferais tout, même embrasser un\ngars, pour retrouver mon visage...",
    "brut_en": "*sob*[1205][001E][SP]I'm[SP]cleaning[SP]up,[SP]like[SP]the[SP]principal[SP]told\nus[SP]to...[1205][001E][SP]I'd[SP]do[SP]anything,[SP]even[SP]kiss[SP]a[SP]boy,\nif[SP]it[SP]would[SP]fix[SP]my[SP]face...",
    "data_size": 288,
    "budget": 280

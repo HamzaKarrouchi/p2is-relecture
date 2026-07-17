@@ -65,13 +65,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé, sœurette? C’est pas le moment de nous dire"
+       "t": "Hé, sœurette? C’est pas le"
       },
       {
        "nl": true
       },
       {
-       "t": "ce secret?"
+       "t": "moment de nous dire ce secret?"
       }
      ]
     }
@@ -94,7 +94,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, sœurette? C’est pas le moment de nous dire\nce secret?",
+   "brut_fr": "Hé, sœurette? C’est pas le\nmoment de nous dire ce secret?",
    "brut_en": "Hey,[SP]Big[SP]Maya?[SP]Isn't[SP]it[SP]about[SP]time[SP]you[SP]told\nus[SP]about[SP]this[SP]secret[SP]of[SP]yours?",
    "data_size": 174,
    "budget": 166
@@ -182,7 +182,13 @@
        "nl": true
       },
       {
-       "t": "cacher... Je vais cracher le morceau, mais..."
+       "t": "cacher... Je vais cracher le morceau, "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " mais..."
       }
      ]
     }
@@ -217,7 +223,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous avez raison...[1205][001E] Ça ne mène à rien de le\ncacher... Je vais cracher le morceau, mais...",
+   "brut_fr": "Vous avez raison...[1205][001E] Ça ne mène à rien de le\ncacher... Je vais cracher le morceau, [1205][U+000F] mais...",
    "brut_en": "I[SP]think[SP]you're[SP]right...[1205][001E][SP]It's[SP]not[SP]good[SP]to[SP]keep\nhiding[SP]it.[SP]Alright,[SP]I'll[SP]take[SP]the[SP]plunge[SP]and\nspill[SP]the[SP]beans,[SP]but...",
    "data_size": 252,
    "budget": 244
@@ -262,7 +268,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé, hé ! Avant de me mettre à l’asile, repensez"
+       "t": "Hé, hé! Avant de me mettre à l’asile, repensez"
       },
       {
        "nl": true
@@ -297,7 +303,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, hé ! Avant de me mettre à l’asile, repensez\nà tout ce qui s’est passé jusqu’à présent.",
+   "brut_fr": "Hé, hé! Avant de me mettre à l’asile, repensez\nà tout ce qui s’est passé jusqu’à présent.",
    "brut_en": "Whoa,[SP]whoa![SP]Before[SP]you[SP]lock[SP]me[SP]in[SP]the\nnuthouse,[SP]think[SP]back[SP]on[SP]everything[SP]that's\nhappened[SP]so[SP]far.",
    "data_size": 212,
    "budget": 204
@@ -317,19 +323,19 @@
        "pause": true
       },
       {
-       "t": " Il y avait ces pièges, et l’incident"
+       "t": " Il y avait ces pièges, et"
       },
       {
        "nl": true
       },
       {
-       "t": " avec la source..."
+       "t": "l’incident avec la source..."
       },
       {
        "pause": true
       },
       {
-       "t": "Mais pourquoi...?"
+       "t": " Mais pourquoi...?"
       }
      ]
     }
@@ -364,7 +370,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pas faux...[1205][001E] Il y avait ces pièges, et l’incident\n avec la source...[1205][001E]Mais pourquoi...?",
+   "brut_fr": "Pas faux...[1205][001E] Il y avait ces pièges, et\nl’incident avec la source...[1205][001E] Mais pourquoi...?",
    "brut_en": "True...[1205][001E][SP]There[SP]were[SP]those[SP]traps[SP]and[SP]the[SP]incident\nwith[SP]the[SP]healing[SP]spring...[1205][001E][SP]But[SP]why...?",
    "data_size": 198,
    "budget": 190
@@ -469,7 +475,7 @@
        "pause": true
       },
       {
-       "nl": true
+       "t": " "
       },
       {
        "hero": "prenom"
@@ -534,7 +540,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*fi[1205][U+000A]i[1205][U+000A]i[1205][U+000A]i[1205][U+000A]i[1205][U+000A]xe*[1205][001E]\n[1113], tu m’aimes, hein?",
+   "brut_fr": "*fi[1205][U+000A]i[1205][U+000A]i[1205][U+000A]i[1205][U+000A]i[1205][U+000A]xe*[1205][001E] [1113], tu m’aimes, hein?",
    "brut_en": "*staa[1205][U+000A]a[1205][U+000A]a[1205][U+000A]a[1205][U+000A]a[1205][U+000A]are*[1205][001E]\n[1113],[SP]do[SP]you[SP]like[SP]me[SP]now...?",
    "data_size": 126,
    "budget": 118
@@ -573,6 +579,7 @@
     "options": [
      "Oui.",
      "Non.",
+     "[1205]",
      "En tant qu’amie."
     ],
     "question": [
@@ -599,7 +606,7 @@
      }
     ]
    },
-   "brut_fr": "[1113], tu m’aimes...?\n[1208][U+0003][1432][NULL][NULL][0014]Oui.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Non.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]En tant qu’amie.[1432][NULL][NULL][0014]",
+   "brut_fr": "[1113], tu m’aimes...?\n[1208][U+0003][1432][NULL][NULL][0014]Oui.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Non.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]En tant qu’amie.[1432][NULL][NULL][0014]",
    "brut_en": "[1113],[SP]do[SP]you[SP]like[SP]me[SP]now...?\n[1208][U+0003][1432][NULL][NULL][0014]Yes.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]No.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]As[SP]a[SP]friend.[1432][NULL][NULL][0014]",
    "data_size": 170,
    "budget": 162
@@ -742,13 +749,13 @@
        "pause": true
       },
       {
-       "t": " Le problème, c’est que ça"
+       "t": " Le problème, c’est"
       },
       {
        "nl": true
       },
       {
-       "t": "marche pas si facilement."
+       "t": "que ça marche pas si facilement."
       }
      ]
     }
@@ -777,7 +784,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Calme-toi...[1205][001E] Le problème, c’est que ça\nmarche pas si facilement.",
+   "brut_fr": "Calme-toi...[1205][001E] Le problème, c’est\nque ça marche pas si facilement.",
    "brut_en": "Calm[SP]down,[SP]calm[SP]down...[1205][001E][SP]The[SP]problem[SP]is,\nit[SP]doesn't[SP]work[SP]that[SP]easily.",
    "data_size": 160,
    "budget": 152
@@ -797,13 +804,19 @@
        "nl": true
       },
       {
-       "t": "la ville redevienne normale ou voir le père de"
+       "t": "la ville redevienne normale ou voir le"
       },
       {
        "nl": true
       },
       {
-       "t": "Jun-kun bientôt, mais sans succès."
+       "t": "père de"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Jun-kun bientôt, mais sans succès."
       }
      ]
     }
@@ -832,7 +845,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Depuis le début je me concentre pour que\nla ville redevienne normale ou voir le père de\nJun-kun bientôt, mais sans succès.",
+   "brut_fr": "Depuis le début je me concentre pour que\nla ville redevienne normale ou voir le\npère de[1205][U+000F] Jun-kun bientôt, mais sans succès.",
    "brut_en": "I've[SP]been[SP]concentrating[SP]this[SP]whole[SP]time[SP]on[SP]the\ncity[SP]returning[SP]to[SP]normal,[SP]or[SP]meeting[SP]Jun-kun's\nfather[SP]soon,[SP]but[SP]no[SP]luck[SP]so[SP]far.",
    "data_size": 272,
    "budget": 264
@@ -846,13 +859,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors j’y ai repensé. Peut être cette peur et"
+       "t": "Alors j’y ai repensé. Peut être"
       },
       {
        "nl": true
       },
       {
-       "t": "ces pensées négatives ont fini par devenir réelles..."
+       "t": "cette peur et ces pensées négatives"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ont fini par devenir"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " réelles..."
       }
      ]
     }
@@ -881,7 +906,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Alors j’y ai repensé. Peut être cette peur et\nces pensées négatives ont fini par devenir réelles...",
+   "brut_fr": "Alors j’y ai repensé. Peut être\ncette peur et ces pensées négatives\nont fini par devenir[1205][U+000F] réelles...",
    "brut_en": "So[SP]I've[SP]been[SP]pondering[SP]it[SP]some[SP]more.[SP]It[SP]could\nbe[SP]that[SP]fear[SP]and[SP]other[SP]negative[SP]thoughts[SP]get\npriority[SP]to[SP]become[SP]real...",
    "data_size": 254,
    "budget": 246
@@ -944,13 +969,13 @@
        "pause": true
       },
       {
-       "t": " J’expérimentais,"
+       "t": " J’expérimentais, mais"
       },
       {
        "nl": true
       },
       {
-       "t": "mais je n'arrive pas à comprendre ce que c'est."
+       "t": "je n'arrive pas à comprendre ce que c'est."
       }
      ]
     }
@@ -985,7 +1010,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C’est ça, le problème...[1205][001E] J’expérimentais,\nmais je n'arrive pas à comprendre ce que c'est.",
+   "brut_fr": "C’est ça, le problème...[1205][001E] J’expérimentais, mais\nje n'arrive pas à comprendre ce que c'est.",
    "brut_en": "That's[SP]the[SP]thing...[1205][001E][SP]I've[SP]been[SP]experimenting,\nbut[SP]I[SP]just[SP]can't[SP]figure[SP]out[SP]the[SP]pattern\nbehind[SP]it.",
    "data_size": 214,
    "budget": 206
@@ -1112,19 +1137,25 @@
        "pause": true
       },
       {
-       "t": " Il n’y a aucune raison que le"
+       "t": " Il n’y a aucune"
       },
       {
        "nl": true
       },
       {
-       "t": "père de Jun pense à des choses qui nous"
+       "t": "raison que le père de Jun pense à"
       },
       {
        "nl": true
       },
       {
-       "t": "profiteraient."
+       "t": "des choses qui nous"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " profiteraient."
       }
      ]
     }
@@ -1159,7 +1190,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je sais pas...[1205][001E] Il n’y a aucune raison que le\npère de Jun pense à des choses qui nous\nprofiteraient.",
+   "brut_fr": "Je sais pas...[1205][001E] Il n’y a aucune\nraison que le père de Jun pense à\ndes choses qui nous[1205][U+000F] profiteraient.",
    "brut_en": "I[SP]don't[SP]know...[1205][001E][SP]There[SP]would[SP]be[SP]no[SP]reason[SP]for\nJun-kun's[SP]father[SP]to[SP]think[SP]things[SP]that[SP]would\nbenefit[SP]us.",
    "data_size": 224,
    "budget": 216
@@ -1179,13 +1210,13 @@
        "pause": true
       },
       {
-       "t": " On ne peut pas éliminer la possibilité"
+       "t": " On ne peut pas éliminer la"
       },
       {
        "nl": true
       },
       {
-       "t": "qu’il joue juste avec nous..."
+       "t": "possibilité qu’il joue juste avec nous..."
       }
      ]
     }
@@ -1214,7 +1245,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et...[1205][001E] On ne peut pas éliminer la possibilité\nqu’il joue juste avec nous...",
+   "brut_fr": "Et...[1205][001E] On ne peut pas éliminer la\npossibilité qu’il joue juste avec nous...",
    "brut_en": "Still...[1205][001E][SP]We[SP]can't[SP]rule[SP]out[SP]the[SP]possibility\nthat[SP]he's[SP]just[SP]toying[SP]with[SP]us...",
    "data_size": 174,
    "budget": 166
@@ -1271,19 +1302,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien, inutile d’essayer de comprendre"
+       "t": "Bien, inutile d’essayer de comprendre ce qui"
       },
       {
        "nl": true
       },
       {
-       "t": "ce qui nous échappe! Simplement, essayez de ne penser à rien..."
+       "t": "nous échappe! Simplement, essayez de ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "penser à rien..."
       },
       {
        "pause": true
       },
       {
-       "t": "Surtout à rien d’effrayant."
+       "t": " Surtout à rien "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " d’effrayant."
       }
      ]
     }
@@ -1318,7 +1361,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien, inutile d’essayer de comprendre\nce qui nous échappe! Simplement, essayez de ne penser à rien...[1205][001E]Surtout à rien d’effrayant.",
+   "brut_fr": "Bien, inutile d’essayer de comprendre ce qui\nnous échappe! Simplement, essayez de ne\npenser à rien...[1205][001E] Surtout à rien [1205][U+000F] d’effrayant.",
    "brut_en": "Well,[SP]no[SP]use[SP]driving[SP]ourselves[SP]nuts[SP]over[SP]what\nwe[SP]can't[SP]figure[SP]out![SP]Just[SP]try[SP]not[SP]to[SP]think[SP]of\nanything...[1205][001E][SP]Especially[SP]anything[SP]scary.",
    "data_size": 286,
    "budget": 278
@@ -1375,13 +1418,7 @@
        "pause": true
       },
       {
-       "t": " Merde... Merde!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Un golden Pops...!?"
+       "t": " Merde... Merde! Un golden Pops...!?"
       }
      ]
     }
@@ -1404,7 +1441,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh...[1205][001E] Merde... Merde!\nUn golden Pops...!?",
+   "brut_fr": "Oh...[1205][001E] Merde... Merde! Un golden Pops...!?",
    "brut_en": "Oh...[1205][001E][SP]Oh[SP]shit[SP]oh[SP]shit![SP]A-A[SP]golden[SP]Pops...!?",
    "data_size": 116,
    "budget": 108

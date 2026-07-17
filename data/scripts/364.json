@@ -16,19 +16,25 @@
        "pause": true
       },
       {
-       "t": " Son"
+       "t": " Son image de"
       },
       {
        "nl": true
       },
       {
-       "t": "image de Maya a été réduite en miettes. L'écart"
+       "t": "Maya a été réduite en miettes. L'écart"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " entre"
       },
       {
        "nl": true
       },
       {
-       "t": "entre l'image et la réalité était trop grand..."
+       "t": "l'image et la réalité était trop grand..."
       }
      ]
     }
@@ -63,7 +69,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le choc était trop fort pour Jun?[1205][U+000F] Son\nimage de Maya a été réduite en miettes. L'écart\nentre l'image et la réalité était trop grand...",
+   "brut_fr": "Le choc était trop fort pour Jun?[1205][U+000F] Son image de\nMaya a été réduite en miettes. L'écart[1205][U+000F] entre\nl'image et la réalité était trop grand...",
    "brut_en": "Was[SP]the[SP]shock[SP]too[SP]much[SP]for[SP]Jun?[1205][U+000F][SP]His[SP]image[SP]of\nBig[SP]Maya[SP]just[SP]got[SP]smashed[SP]to[SP]smithereens.[SP]The\ngap[SP]between[SP]image[SP]and[SP]reality[SP]was[SP]too[SP]big...",
    "data_size": 300,
    "budget": 292
@@ -83,25 +89,22 @@
        "pause": true
       },
       {
-       "t": " C'est serait"
+       "nl": true
+      },
+      {
+       "t": "C'est serait plus confortable que"
       },
       {
        "nl": true
       },
       {
-       "t": "plus confortable que sa chambre?"
+       "t": "sa chambre?"
       },
       {
        "pause": true
       },
       {
-       "t": " Malgré tout ce"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "bazar..."
+       "t": " Malgré tout ce bazar..."
       }
      ]
     }
@@ -142,7 +145,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ulala semble souvent être ici.[1205][U+000F] C'est serait\nplus confortable que sa chambre?[1205][U+000F] Malgré tout ce\nbazar...",
+   "brut_fr": "Ulala semble souvent être ici.[1205][U+000F]\nC'est serait plus confortable que\nsa chambre?[1205][U+000F] Malgré tout ce bazar...",
    "brut_en": "Ulala[SP]always[SP]seems[SP]to[SP]hang[SP]out[SP]here.[1205][U+000F][SP]Maybe[SP]it's\ncomfier[SP]than[SP]her[SP]room?[1205][U+000F][SP]Even[SP]though[SP]it's[SP]really\nmessy...",
    "data_size": 236,
    "budget": 228
@@ -162,19 +165,25 @@
        "pause": true
       },
       {
-       "t": " Bon, je nettoierai"
+       "t": " Bon, je"
       },
       {
        "nl": true
       },
       {
-       "t": "quand tout sera fini."
+       "t": "nettoierai quand tout sera fini."
       },
       {
        "pause": true
       },
       {
-       "t": " Ménagez-moi un peu!"
+       "t": " Ménagez-moi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "un peu!"
       }
      ]
     }
@@ -209,7 +218,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous me tombez tous dessus...[1205][U+000F] Bon, je nettoierai\nquand tout sera fini.[1205][U+000F] Ménagez-moi un peu!",
+   "brut_fr": "Vous me tombez tous dessus...[1205][U+000F] Bon, je\nnettoierai quand tout sera fini.[1205][U+000F] Ménagez-moi\nun peu!",
    "brut_en": "Everyone's[SP]ganging[SP]up[SP]on[SP]me...[1205][U+000F][SP]Look,[SP]I'll[SP]clean\nit[SP]when[SP]this[SP]is[SP]all[SP]over.[1205][U+000F][SP]Cut[SP]me[SP]some[SP]slack!",
    "data_size": 212,
    "budget": 204
@@ -229,16 +238,19 @@
        "pause": true
       },
       {
-       "t": " la chambre de Maya...?"
-      },
-      {
-       "pause": true
+       "t": " la chambre de"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est une blague..."
+       "t": "Maya...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est une blague..."
       }
      ]
     }
@@ -270,7 +282,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C... C'est...[1205][U+000F] la chambre de Maya...?[1205][U+000F]\nC'est une blague...",
+   "brut_fr": "C... C'est...[1205][U+000F] la chambre de\nMaya...?[1205][U+000F] C'est une blague...",
    "brut_en": "Th...[SP]This...[1205][U+000F][SP]is[SP]Big[SP]Maya's[SP]room...?[1205][U+000F]\nYou[SP]must[SP]be[SP]joking...",
    "data_size": 142,
    "budget": 134
@@ -360,13 +372,22 @@
        "nl": true
       },
       {
-       "t": "garde tant que je peux...> Un radiocassette neuf. La seule chose"
+       "t": "garde tant que je peux...> Un "
       },
       {
        "nl": true
       },
       {
-       "t": "propre de la pièce.> Lire un CD ?"
+       "t": "radiocassette neuf. La seule chose"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "propre de la pièce.> Lire un CD?"
       }
      ]
     }
@@ -430,13 +451,22 @@
       "nl": true
      },
      {
-      "t": "garde tant que je peux...> Un radiocassette neuf. La seule chose"
+      "t": "garde tant que je peux...> Un "
      },
      {
       "nl": true
      },
      {
-      "t": "propre de la pièce.> Lire un CD ?"
+      "t": "radiocassette neuf. La seule chose"
+     },
+     {
+      "pause": true
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "propre de la pièce.> Lire un CD?"
      }
     ]
    },
@@ -475,7 +505,7 @@
      }
     ]
    },
-   "brut_fr": "Mais tu sais... un plus jeune me tente\naussi.[1205][U+000F] Si j'en trouve un mignon, je le\ngarde tant que je peux...[E1][E2][E3]> Un radiocassette neuf. La seule chose\npropre de la pièce.[E1][E2][E3]> Lire un CD ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Mais tu sais... un plus jeune me tente\naussi.[1205][U+000F] Si j'en trouve un mignon, je le\ngarde tant que je peux...[E1][E2][E3]> Un \nradiocassette neuf. La seule chose[1205][U+000F]\npropre de la pièce.[E1][E2][E3]> Lire un CD?\n[1208][0002]Oui\nNon",
    "brut_en": "But[SP]you[SP]know...[SP]I[SP]think[SP]I[SP]could[SP]go[SP]for[SP]a\nyounger[SP]guy[SP]too.[1205][U+000F][SP]Maybe[SP]I'll[SP]find[SP]a[SP]cute[SP]one\nand[SP]keep[SP]him[SP]while[SP]I[SP]can...[E1][E2][E3]>[SP]It's[SP]a[SP]new[SP]boom[SP]box.[SP]It's[SP]about[SP]the[SP]only\nclean[SP]thing[SP]in[SP]the[SP]room.[E1][E2][E3]>[SP]Play[SP]a[SP]CD?\n[1208][0002]Yes\nNo",
    "data_size": 440,
    "budget": 432

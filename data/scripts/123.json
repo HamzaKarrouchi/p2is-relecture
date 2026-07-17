@@ -16,31 +16,31 @@
        "pause": true
       },
       {
-       "t": " Ça"
+       "t": " Ça ressemble aux"
       },
       {
        "nl": true
       },
       {
-       "t": "ressemble aux photos de ruines"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "mayas."
+       "t": "photos de ruines mayas."
       },
       {
        "pause": true
       },
       {
-       "t": " Ils disaient que c'était"
+       "t": " Ils disaient que"
       },
       {
        "nl": true
       },
       {
-       "t": "un observatoire astronomique..."
+       "t": "c'était"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " un observatoire astronomique..."
       }
      ]
     }
@@ -81,7 +81,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça doit être le Caracol...[1205][001E] Ça\nressemble aux photos de ruines\nmayas.[1205][001E] Ils disaient que c'était\nun observatoire astronomique...",
+   "brut_fr": "Ça doit être le Caracol...[1205][001E] Ça ressemble aux\nphotos de ruines mayas.[1205][001E] Ils disaient que\nc'était[1205][U+000F] un observatoire astronomique...",
    "brut_en": "That[SP]must[SP]be[SP]the[SP]Caracol...[1205][001E][SP]It[SP]does[SP]look[SP]like\nthe[SP]photos[SP]I've[SP]seen[SP]of[SP]Mayan[SP]ruins.[1205][001E][SP]They\nsaid[SP]it[SP]was[SP]an[SP]astronomical[SP]observatory...",
    "data_size": 290,
    "budget": 282
@@ -95,16 +95,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'étais absente à ma dernière visite..."
-      },
-      {
-       "pause": true
+       "t": "J'étais absente à ma dernière"
       },
       {
        "nl": true
       },
       {
-       "t": "Shunsuke y est!?"
+       "t": "visite..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Shunsuke y est!?"
       }
      ]
     }
@@ -133,7 +136,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'étais absente à ma dernière visite...[1205][001E]\nShunsuke y est!?",
+   "brut_fr": "J'étais absente à ma dernière\nvisite...[1205][001E] Shunsuke y est!?",
    "brut_en": "It[SP]wasn't[SP]here[SP]last[SP]time[SP]I[SP]came...[1205][001E][SP]You[SP]think\nShunsuke-san's[SP]in[SP]there!?",
    "data_size": 170,
    "budget": 162
@@ -147,19 +150,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ces robots là-bas ressemblent"
+       "t": "Ces robots là-bas ressemblent à ceux qui"
       },
       {
        "nl": true
       },
       {
-       "t": "à ceux qui volaient au-dessus"
+       "t": "volaient au-dessus de nous y a quelques"
       },
       {
        "nl": true
       },
       {
-       "t": "de nous y a quelques minutes."
+       "t": "minutes."
       }
      ]
     }
@@ -188,7 +191,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ces robots là-bas ressemblent\nà ceux qui volaient au-dessus\nde nous y a quelques minutes.",
+   "brut_fr": "Ces robots là-bas ressemblent à ceux qui\nvolaient au-dessus de nous y a quelques\nminutes.",
    "brut_en": "Those[SP]robot[SP]things[SP]over[SP]there[SP]look[SP]like[SP]the\nsame[SP]ones[SP]that[SP]were[SP]flying[SP]overhead[SP]a[SP]few\nminutes[SP]ago.",
    "data_size": 224,
    "budget": 216
@@ -208,40 +211,37 @@
        "pause": true
       },
       {
-       "t": " Mon sonar a"
+       "t": " Mon sonar a repéré un truc. >"
       },
       {
        "nl": true
       },
       {
-       "t": "repéré un truc."
+       "t": "Ordre de la Sainte Lance"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Unité anti-Persona"
       },
       {
        "nl": true
       },
       {
-       "t": "> Ordre de la Sainte Lance"
+       "t": "du Dernier Bataillon, 13 chevaliers pilotant"
       },
       {
        "nl": true
       },
       {
-       "t": "Unité anti-Persona du Dernier"
+       "t": "les Marionette Jaeger"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Bataillon, 13 chevaliers"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pilotant les Marionette Jaeger"
-      },
-      {
-       "nl": true
+       "t": " "
       },
       {
        "enc": "Himmel Feurer."
@@ -291,7 +291,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Attends, Elf.[1205][001E] Mon sonar a\nrepéré un truc.\n[E1][E2][E3]> Ordre de la Sainte Lance\nUnité anti-Persona du Dernier\nBataillon, 13 chevaliers\npilotant les Marionette Jaeger\n[1432][NULL][NULL][0014]Himmel Feurer.[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
+   "brut_fr": "Attends, Elf.[1205][001E] Mon sonar a repéré un truc. [E1][E2][E3]>\nOrdre de la Sainte Lance[1205][U+000F] Unité anti-Persona\ndu Dernier Bataillon, 13 chevaliers pilotant\nles Marionette Jaeger[1205][U+000F] [1432][NULL][NULL][0014]Himmel Feurer.[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
    "brut_en": "Hold[SP]it,[SP]Elf.[1205][001E][SP]My[SP]sonar[SP]picked[SP]up[SP]on[SP]something.\n[E1][E2][E3]>[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance\nThe[SP]Last[SP]Battalion's[SP]anti-Persona[SP]unit[SP]made\nof[SP]13[SP]knights[SP]who[SP]pilot[SP]the[SP]Marionette[SP]Jaeger\n[1432][NULL][NULL][0014]Himmel[SP]Feurer.[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
    "data_size": 408,
    "budget": 400
@@ -348,25 +348,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hmph. On a de la vermine à"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "gérer..."
+       "t": "Hmph. On a de la vermine à gérer..."
       },
       {
        "pause": true
       },
       {
-       "t": " Très bien. Je commençais"
+       "t": " Très bien."
       },
       {
        "nl": true
       },
       {
-       "t": "à m'ennuyer avec les faiblards."
+       "t": "Je commençais à m'ennuyer avec les faiblards."
       }
      ]
     }
@@ -398,7 +392,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hmph. On a de la vermine à\ngérer...[1205][001E] Très bien. Je commençais\nà m'ennuyer avec les faiblards.",
+   "brut_fr": "Hmph. On a de la vermine à gérer...[1205][001E] Très bien.\nJe commençais à m'ennuyer avec les faiblards.",
    "brut_en": "Hmph.[SP]We[SP]have[SP]vermin[SP]to[SP]deal[SP]with...[1205][001E]\nVery[SP]well.[SP]I[SP]was[SP]growing[SP]bored[SP]of[SP]dealing\nwith[SP]weaklings.",
    "data_size": 230,
    "budget": 222
@@ -412,19 +406,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'ils nous montrent la force"
+       "t": "Qu'ils nous montrent la force des manieurs de"
       },
       {
        "nl": true
       },
       {
-       "t": "des manieurs de Persona de ce"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pays..."
+       "t": "Persona de ce pays..."
       },
       {
        "pause": true
@@ -462,7 +450,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'ils nous montrent la force\ndes manieurs de Persona de ce\npays...[1205][001E] Zwölf! Dreizehn! À moi!",
+   "brut_fr": "Qu'ils nous montrent la force des manieurs de\nPersona de ce pays...[1205][001E] Zwölf! Dreizehn! À moi!",
    "brut_en": "Let's[SP]have[SP]them[SP]show[SP]us[SP]what[SP]strength[SP]the\nPersona-users[SP]of[SP]this[SP]country[SP]hold...[1205][001E]\nZwolf![SP]Dreizehn![SP]To[SP]me!",
    "data_size": 248,
    "budget": 240
@@ -538,28 +526,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'espérais de vrais guerriers,"
+       "t": "J'espérais de vrais guerriers, pas des"
       },
       {
        "nl": true
       },
       {
-       "t": "pas des femmes et enfants..."
+       "t": "femmes et enfants..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Malheur à vous d'avoir trouvé"
+       "t": " Malheur à vous"
       },
       {
        "nl": true
       },
       {
-       "t": "l'Ordre de la Sainte Lance!"
+       "t": "d'avoir trouvé"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " l'Ordre de la Sainte Lance!"
       }
      ]
     }
@@ -594,7 +585,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'espérais de vrais guerriers,\npas des femmes et enfants...[1205][001E]\nMalheur à vous d'avoir trouvé\nl'Ordre de la Sainte Lance!",
+   "brut_fr": "J'espérais de vrais guerriers, pas des\nfemmes et enfants...[1205][001E] Malheur à vous\nd'avoir trouvé[1205][U+000F] l'Ordre de la Sainte Lance!",
    "brut_en": "I[SP]expect[SP]to[SP]face[SP]skilled[SP]warriors,[SP]and[SP]yet\nI[SP]see[SP]women[SP]and[SP]children...[1205][001E][SP]How[SP]unfortunate\nthat[SP]you[SP]found[SP]the[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance!",
    "data_size": 302,
    "budget": 294
@@ -614,13 +605,13 @@
        "pause": true
       },
       {
-       "t": " Mettez-vous"
+       "t": " Mettez-vous par"
       },
       {
        "nl": true
       },
       {
-       "t": "par deux! Le troisième est pour moi!"
+       "t": "deux! Le troisième est pour moi!"
       }
      ]
     }
@@ -649,7 +640,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On est cernés...![1205][001E] Mettez-vous\npar deux! Le troisième est pour moi!",
+   "brut_fr": "On est cernés...![1205][001E] Mettez-vous par\ndeux! Le troisième est pour moi!",
    "brut_en": "We're[SP]surrounded...![1205][001E][SP]Form[SP]groups[SP]of[SP]two[SP]to\ntake[SP]them[SP]out![SP]The[SP]third[SP]one's[SP]mine!",
    "data_size": 188,
    "budget": 180
@@ -663,25 +654,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quel gentleman laisserait"
+       "t": "Quel gentleman laisserait une dame s'en"
       },
       {
        "nl": true
       },
       {
-       "t": "une dame s'en charger!?"
+       "t": "charger!? Laisse le grand Michel"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " s'occuper du"
       },
       {
        "nl": true
       },
       {
-       "t": "Laisse le grand Michel"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "s'occuper du solo!"
+       "t": "solo!"
       }
      ]
     }
@@ -710,7 +701,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quel gentleman laisserait\nune dame s'en charger!?\nLaisse le grand Michel\ns'occuper du solo!",
+   "brut_fr": "Quel gentleman laisserait une dame s'en\ncharger!? Laisse le grand Michel[1205][U+000F] s'occuper du\nsolo!",
    "brut_en": "What[SP]kind[SP]of[SP]a[SP]gentleman[SP]would[SP]I[SP]be[SP]if[SP]I[SP]let\na[SP]lady[SP]do[SP]the[SP]hard[SP]work!?[SP]Leave[SP]the[SP]solo\nto[SP]the[SP]great[SP]Michel!",
    "data_size": 240,
    "budget": 232

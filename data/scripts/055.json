@@ -10,19 +10,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ciaaaao, Ma-ya! C'est quoi cette"
+       "t": "Ciaaaao, Ma-ya! C'est quoi cette escorte de"
       },
       {
        "nl": true
       },
       {
-       "t": "escorte de lycéens? Ils ont pas"
+       "t": "lycéens? Ils ont pas l'air d'être là pour"
       },
       {
        "nl": true
       },
       {
-       "t": "l'air d'être là pour boxer."
+       "t": "boxer."
       }
      ]
     }
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ciaaaao, Ma-ya! C'est quoi cette\nescorte de lycéens? Ils ont pas\nl'air d'être là pour boxer.",
+   "brut_fr": "Ciaaaao, Ma-ya! C'est quoi cette escorte de\nlycéens? Ils ont pas l'air d'être là pour\nboxer.",
    "brut_en": "Ciaaaao,[SP]Ma-ya![SP]What's[SP]with[SP]the[SP]high[SP]school\nentourage?[SP]They[SP]don't[SP]look[SP]like[SP]they're[SP]here\nto[SP]box.",
    "data_size": 212,
    "budget": 204
@@ -102,19 +102,13 @@
        "pause": true
       },
       {
-       "t": " T'es jeune pour être"
+       "t": " T'es jeune pour être sénile, Ma-ya."
       },
       {
        "nl": true
       },
       {
-       "t": "sénile, Ma-ya. Impossible"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "qu'il y ait des bombes ici."
+       "t": "Impossible qu'il y ait des bombes ici."
       }
      ]
     }
@@ -149,7 +143,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein!?[1205][001E] T'es jeune pour être\nsénile, Ma-ya. Impossible\nqu'il y ait des bombes ici.",
+   "brut_fr": "Hein!?[1205][001E] T'es jeune pour être sénile, Ma-ya.\nImpossible qu'il y ait des bombes ici.",
    "brut_en": "Huh!?[1205][001E][SP]You're[SP]kinda[SP]young[SP]to[SP]be[SP]going[SP]senile,\nMa-ya.[SP]Come[SP]on,[SP]there's[SP]no[SP]way[SP]there'd[SP]be\nbombs[SP]here.",
    "data_size": 224,
    "budget": 216
@@ -218,7 +212,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Sérieux!?"
+       "t": "... Sérieux!?"
       }
      ]
     }
@@ -235,7 +229,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Sérieux!?",
+   "brut_fr": "... Sérieux!?",
    "brut_en": "...Seriously!?",
    "data_size": 54,
    "budget": 46
@@ -366,13 +360,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On a pas le temps! Tout ce que"
+       "t": "On a pas le temps! Tout ce que je"
       },
       {
        "nl": true
       },
       {
-       "t": "je sais,c'est que l'organisation du"
+       "t": "sais, c'est que l'organisation du"
       },
       {
        "nl": true
@@ -407,7 +401,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On a pas le temps! Tout ce que\nje sais,c'est que l'organisation du\nCercle masqué les a posées!",
+   "brut_fr": "On a pas le temps! Tout ce que je\nsais, c'est que l'organisation du\nCercle masqué les a posées!",
    "brut_en": "Like[SP]I[SP]said,[SP]there's[SP]no[SP]time![SP]All[SP]I[SP]can[SP]say\nfor[SP]sure[SP]is[SP]that[SP]this[SP]organization[SP]called[SP]the\nMasked[SP]Circle[SP]set[SP]them!",
    "data_size": 248,
    "budget": 240
@@ -452,22 +446,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'en ai entendu parler..."
+       "t": "J'en ai entendu parler... Makimura en parlait"
       },
       {
        "nl": true
       },
       {
-       "t": "Makimura en parlait souvent."
+       "t": "souvent."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Laisse-moi deviner, il veut ma peau!?"
+       "t": " Laisse-moi deviner, il veut ma peau!?"
       }
      ]
     }
@@ -502,7 +493,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'en ai entendu parler...\nMakimura en parlait souvent.[1205][001E]\nLaisse-moi deviner, il veut ma peau!?",
+   "brut_fr": "J'en ai entendu parler... Makimura en parlait\nsouvent.[1205][001E] Laisse-moi deviner, il veut ma peau!?",
    "brut_en": "That,[SP]I've[SP]heard[SP]of...[SP]Makimura[SP]used[SP]to\ntalk[SP]about[SP]them[SP]all[SP]the[SP]time.[1205][001E][SP]Let[SP]me[SP]guess,\nhe's[SP]out[SP]for[SP]my[SP]blood[SP]now!?",
    "data_size": 250,
    "budget": 242
@@ -516,25 +507,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'heure d'utiliser mes poings a"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "sonné..."
+       "t": "L'heure d'utiliser mes poings a sonné..."
       },
       {
        "pause": true
       },
       {
-       "t": " Il a pris mes économies,"
+       "t": " Il"
       },
       {
        "nl": true
       },
       {
-       "t": "il n'aura pas ma vie!"
+       "t": "a pris mes économies, il n'aura pas ma vie!"
       }
      ]
     }
@@ -569,7 +554,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'heure d'utiliser mes poings a\nsonné...[1205][001E] Il a pris mes économies,\nil n'aura pas ma vie!",
+   "brut_fr": "L'heure d'utiliser mes poings a sonné...[1205][001E] Il\na pris mes économies, il n'aura pas ma vie!",
    "brut_en": "Sounds[SP]like[SP]the[SP]time[SP]has[SP]come[SP]to[SP]put[SP]these\nfists[SP]to[SP]use...[1205][001E][SP]He[SP]took[SP]my[SP]savings,[SP]but[SP]I\nwon't[SP]let[SP]him[SP]take[SP]my[SP]life!",
    "data_size": 252,
    "budget": 244
@@ -583,7 +568,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Elle est partie."
+       "t": "... Elle est partie."
       },
       {
        "pause": true
@@ -624,7 +609,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Elle est partie.[1205][001E] J'espère\nqu'elle sortira d'ici.",
+   "brut_fr": "... Elle est partie.[1205][001E] J'espère\nqu'elle sortira d'ici.",
    "brut_en": "...There[SP]she[SP]goes.[1205][001E][SP]I[SP]hope[SP]she[SP]remembers[SP]to\nget[SP]out[SP]of[SP]the[SP]gym.",
    "data_size": 148,
    "budget": 140
@@ -638,19 +623,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bref, puisqu'on sait que c'est la cible,"
+       "t": "Bref, puisqu'on sait que c'est la cible, pas"
       },
       {
        "nl": true
       },
       {
-       "t": "pas une seconde à perdre."
+       "t": "une seconde à perdre. Trouvons ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Trouvons ce transmetteur!"
+       "t": "transmetteur!"
       }
      ]
     }
@@ -679,7 +664,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bref, puisqu'on sait que c'est la cible,\npas une seconde à perdre.\nTrouvons ce transmetteur!",
+   "brut_fr": "Bref, puisqu'on sait que c'est la cible, pas\nune seconde à perdre. Trouvons ce\ntransmetteur!",
    "brut_en": "Anyway,[SP]now[SP]that[SP]we[SP]know[SP]this[SP]is[SP]the[SP]next\ntarget,[SP]we[SP]don't[SP]have[SP]a[SP]second[SP]to[SP]lose.\nLet's[SP]find[SP]that[SP]transmitter!",
    "data_size": 242,
    "budget": 234
@@ -699,13 +684,13 @@
        "nl": true
       },
       {
-       "t": "s'agit de ce type. Je la blâme"
+       "t": "s'agit de ce type. Je la blâme pas..."
       },
       {
        "nl": true
       },
       {
-       "t": "pas... C'était un escroc, après tout!"
+       "t": "C'était un escroc, après tout!"
       }
      ]
     }
@@ -734,7 +719,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ulala perd les pédales quand il\ns'agit de ce type. Je la blâme\npas... C'était un escroc, après tout!",
+   "brut_fr": "Ulala perd les pédales quand il\ns'agit de ce type. Je la blâme pas...\nC'était un escroc, après tout!",
    "brut_en": "Ulala[SP]loses[SP]it[SP]when[SP]it[SP]comes[SP]to[SP]that[SP]guy.\nThough[SP]I[SP]don't[SP]blame[SP]her...[SP]He[SP]was[SP]a[SP]con\nartist,[SP]after[SP]all!",
    "data_size": 224,
    "budget": 216
@@ -748,19 +733,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cette chica est très forte."
+       "t": "Cette chica est très forte. Je croyais qu'elle"
       },
       {
        "nl": true
       },
       {
-       "t": "Je croyais qu'elle boxait pour"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "maigrir, mais elle est sérieuse."
+       "t": "boxait pour maigrir, mais elle est sérieuse."
       }
      ]
     }
@@ -789,7 +768,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cette chica est très forte.\nJe croyais qu'elle boxait pour\nmaigrir, mais elle est sérieuse.",
+   "brut_fr": "Cette chica est très forte. Je croyais qu'elle\nboxait pour maigrir, mais elle est sérieuse.",
    "brut_en": "That[SP]chica's[SP]strength[SP]was[SP]amazing.\nI[SP]thought[SP]she[SP]was[SP]boxing[SP]to[SP]lose[SP]weight,\nbut[SP]she[SP]was[SP]dead[SP]serious[SP]about[SP]it.",
    "data_size": 248,
    "budget": 240
@@ -812,13 +791,13 @@
        "hero": "prenom"
       },
       {
-       "t": ", savais-tu que c'est l'origine"
+       "t": ", savais-tu que c'est"
       },
       {
        "nl": true
       },
       {
-       "t": "des arts martiaux mixtes?"
+       "t": "l'origine des arts martiaux mixtes?"
       }
      ]
     }
@@ -853,7 +832,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ont-ils du Jeet Kune Do ici?\n[1113], savais-tu que c'est l'origine\ndes arts martiaux mixtes?",
+   "brut_fr": "Ont-ils du Jeet Kune Do ici?\n[1113], savais-tu que c'est\nl'origine des arts martiaux mixtes?",
    "brut_en": "I[SP]wonder[SP]if[SP]they[SP]have[SP]Jeet[SP]Kune[SP]Do[SP]classes\nhere.[SP]Hey,[SP][1113],[SP]did[SP]you[SP]know[SP]Jeet[SP]Kune\nDo[SP]is[SP]the[SP]origin[SP]of[SP]mixed[SP]martial[SP]arts?",
    "data_size": 262,
    "budget": 254
@@ -873,16 +852,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Après ça, j'aimerais faire"
+       "t": " Après ça, j'aimerais"
       },
       {
        "nl": true
       },
       {
-       "t": "quelques rounds avec elle."
+       "t": "faire quelques rounds avec elle."
       }
      ]
     }
@@ -911,7 +887,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle a de la poigne...[1205][001E]\nAprès ça, j'aimerais faire\nquelques rounds avec elle.",
+   "brut_fr": "Elle a de la poigne...[1205][001E] Après ça, j'aimerais\nfaire quelques rounds avec elle.",
    "brut_en": "She[SP]packs[SP]a[SP]punch...[1205][001E][SP]Once[SP]this[SP]business[SP]is\nover,[SP]I'd[SP]like[SP]to[SP]go[SP]a[SP]few[SP]rounds[SP]with[SP]her.",
    "data_size": 200,
    "budget": 192
@@ -937,10 +913,13 @@
        "pause": true
       },
       {
+       "t": " perdre"
+      },
+      {
        "nl": true
       },
       {
-       "t": "perdre 30kg! Pas"
+       "t": "30kg! Pas"
       },
       {
        "pause": true
@@ -996,7 +975,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un, deux... Mon but[1205][U+000A] est de[1205][U+000A]\nperdre 30kg! Pas[1205][U+000A] le temps[1205][U+000A] de fuir!",
+   "brut_fr": "Un, deux... Mon but[1205][U+000A] est de[1205][U+000A] perdre\n30kg! Pas[1205][U+000A] le temps[1205][U+000A] de fuir!",
    "brut_en": "One,[SP]two,[SP]one,[SP]two...[SP]My[SP]goal[1205][U+000A][SP]is[SP]to[SP]lose[1205][U+000A]\n60[SP]pounds![SP]I[SP]don't[1205][U+000A][SP]have[SP]time[1205][U+000A][SP]to[SP]run!",
    "data_size": 202,
    "budget": 194
@@ -1010,13 +989,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Des bombes ont vraiment"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "été posées ici!?"
+       "t": "Des bombes ont vraiment été posées ici!?"
       }
      ]
     }
@@ -1039,7 +1012,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Des bombes ont vraiment\nété posées ici!?",
+   "brut_fr": "Des bombes ont vraiment été posées ici!?",
    "brut_en": "Is[SP]it[SP]true[SP]that[SP]someone[SP]set[SP]bombs[SP]around\nthis[SP]club!?",
    "data_size": 142,
    "budget": 134
@@ -1053,25 +1026,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Même ce club est la cible de"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "terroristes..."
+       "t": "Même ce club est la cible de terroristes..."
       },
       {
        "pause": true
       },
       {
-       "t": " *gasp*"
-      },
-      {
        "nl": true
       },
       {
-       "t": "Je dois évacuer tout le monde!"
+       "t": "*gasp* Je dois évacuer tout le monde!"
       }
      ]
     }
@@ -1106,7 +1070,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Même ce club est la cible de\nterroristes...[1205][001E] *gasp*\nJe dois évacuer tout le monde!",
+   "brut_fr": "Même ce club est la cible de terroristes...[1205][001E]\n*gasp* Je dois évacuer tout le monde!",
    "brut_en": "Even[SP]a[SP]club[SP]like[SP]this[SP]has[SP]become[SP]a[SP]target\nfor[SP]terrorists...[1205][001E][SP]*gasp*[SP]What[SP]am[SP]I[SP]doing\nstanding[SP]here?[SP]I[SP]need[SP]to[SP]evacuate[SP]everyone!",
    "data_size": 294,
    "budget": 286
@@ -1151,13 +1115,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Des bombes ont vraiment"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "été posées ici!?"
+       "t": "Des bombes ont vraiment été posées ici!?"
       }
      ]
     }
@@ -1180,7 +1138,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Des bombes ont vraiment\nété posées ici!?",
+   "brut_fr": "Des bombes ont vraiment été posées ici!?",
    "brut_en": "Is[SP]it[SP]true[SP]that[SP]someone[SP]set[SP]bombs[SP]around\nthis[SP]club!?",
    "data_size": 142,
    "budget": 134

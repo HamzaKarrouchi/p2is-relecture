@@ -13,7 +13,13 @@
        "hero": "prenom"
       },
       {
-       "t": "... Oublie ce que j’ai dit, j’avais besoin de m’exprimer."
+       "t": "... Oublie ce que j’ai dit,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j’avais besoin de m’exprimer."
       }
      ]
     }
@@ -39,7 +45,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1113]... Oublie ce que j’ai dit, j’avais besoin de m’exprimer.",
+   "brut_fr": "[1113]... Oublie ce que j’ai dit,\nj’avais besoin de m’exprimer.",
    "brut_en": "[1113]...[SP]Don't[SP]worry[SP]about[SP]what[SP]I[SP]said\nearlier.[SP]I[SP]just[SP]had[SP]to[SP]speak[SP]my[SP]mind.",
    "data_size": 168,
    "budget": 160
@@ -53,7 +59,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je ne veux pas être un frein pour toi... Ahaha... Pas le meilleur moment pour dire, hein?"
+       "t": "Je ne veux pas être un frein pour toi..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ahaha... Pas le meilleur moment pour dire,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hein?"
       }
      ]
     }
@@ -82,21 +100,21 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne veux pas être un frein pour toi... Ahaha... Pas le meilleur moment pour dire, hein?",
+   "brut_fr": "Je ne veux pas être un frein pour toi...\nAhaha... Pas le meilleur moment pour dire,\nhein?",
    "brut_en": "I[SP]don't[SP]want[SP]to[SP]be[SP]a[SP]drag[SP]on[SP]you...[1205][001E][SP]Ahaha...\nNot[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?",
    "data_size": 202,
    "budget": 194
   },
   {
    "id": 2,
-   "nom_fr": "Ginko",
+   "nom_fr": "Ginko ",
    "nom_en": "Ginko",
    "bulles_fr": [
     {
      "nom": null,
      "seg": [
       {
-       "t": "Pas le meilleur moment pour ça, hein ?"
+       "t": "Pas le meilleur moment pour ça, hein?"
       }
      ]
     }
@@ -115,13 +133,14 @@
     "options": [
      "Contente que tu penses ça.",
      "Je ne pense qu'à Maya.",
+     "[1205]",
      "Je ne pense qu'à Jun.",
-     "Mon cœur est à Eikichi !",
+     "Mon cœur est à Eikichi!",
      "......"
     ],
     "question": [
      {
-      "t": "Pas le meilleur moment pour ça, hein ?"
+      "t": "Pas le meilleur moment pour ça, hein?"
      }
     ]
    },
@@ -139,7 +158,7 @@
      }
     ]
    },
-   "brut_fr": "Pas le meilleur moment pour ça, hein ?\n[1208][U+0005][1432][NULL][NULL][0014]Contente que tu penses ça.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je ne pense qu'à Maya.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je ne pense qu'à Jun.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Mon cœur est à Eikichi ![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]......[1432][NULL][NULL][0014]",
+   "brut_fr": "Pas le meilleur moment pour ça, hein?\n[1208][U+0005][1432][NULL][NULL][0014]Contente que tu penses ça.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je ne pense qu'à Maya.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Je ne pense qu'à Jun.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Mon cœur est à Eikichi![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]......[1432][NULL][NULL][0014]",
    "brut_en": "Not[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?\n[1208][U+0005][1432][NULL][NULL][0014]I'm[SP]glad[SP]you[SP]feel[SP]that[SP]way.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'm[SP]only[SP]interested[SP]in[SP]Maya.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'm[SP]only[SP]interested[SP]in[SP]Jun.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]My[SP]heart[SP]belongs[SP]to[SP]Eikichi![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]......[1432][NULL][NULL][0014]",
    "data_size": 434,
    "budget": 426
@@ -165,13 +184,13 @@
        "pause": true
       },
       {
-       "t": " Je te prends"
+       "t": " Je te"
       },
       {
        "nl": true
       },
       {
-       "t": "au mot, tu sais..."
+       "t": "prends au mot, tu sais..."
       }
      ]
     }
@@ -206,7 +225,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein...?[1205][001E] Vraiment...?[1205][001E] Je te prends\nau mot, tu sais...",
+   "brut_fr": "Hein...?[1205][001E] Vraiment...?[1205][001E] Je te\nprends au mot, tu sais...",
    "brut_en": "Huh...?[1205][001E][SP]Really...?[1205][001E][SP]I'm[SP]gonna[SP]hold[SP]you[SP]to\nthat,[SP]you[SP]know...",
    "data_size": 148,
    "budget": 140
@@ -220,7 +239,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ah... Ahahah! Je suis si heureux que j'en ai les yeux qui piquent... E-Eheh..."
+       "t": "Ah... Ahahah! Je suis si heureux que j'en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ai les yeux qui piquent... E-Eheh..."
       }
      ]
     }
@@ -255,7 +280,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah... Ahahah! Je suis si heureux que j'en ai les yeux qui piquent... E-Eheh...",
+   "brut_fr": "Ah... Ahahah! Je suis si heureux que j'en\nai les yeux qui piquent... E-Eheh...",
    "brut_en": "Ah...[SP]Ahahah![1205][001E][SP]I'm[SP]so[SP]happy[SP]that[SP]I'm[SP]getting\na[SP]little[SP]misty-eyed...[1205][001E][SP]E-Eheheh...",
    "data_size": 188,
    "budget": 180
@@ -269,7 +294,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "’avais le pressentiment que tu dirais ça... Hé, c’est OK. Je vaux rien face à Maya-chan."
+       "t": "’avais le pressentiment que tu dirais ça..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hé, c’est OK. Je vaux rien face à Maya-chan."
       }
      ]
     }
@@ -298,7 +329,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "’avais le pressentiment que tu dirais ça... Hé, c’est OK. Je vaux rien face à Maya-chan.",
+   "brut_fr": "’avais le pressentiment que tu dirais ça...\nHé, c’est OK. Je vaux rien face à Maya-chan.",
    "brut_en": "I[SP]had[SP]a[SP]feeling[SP]you'd[SP]say[SP]that...[1205][001E][SP]Hey,[SP]it's[SP]okay.\nI'm[SP]not[SP]much[SP]now[SP]compared[SP]to[SP]Maya-chan.",
    "data_size": 206,
    "budget": 198
@@ -312,7 +343,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais un jour, je serai si incroyable que tu ne pourras pas m'ignorer... Hé, une fille peut rêver, non?"
+       "t": "Mais un jour, je serai si incroyable"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que tu ne pourras pas m'ignorer..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hé, une fille peut rêver, non?"
       }
      ]
     }
@@ -347,21 +390,27 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais un jour, je serai si incroyable que tu ne pourras pas m'ignorer... Hé, une fille peut rêver, non?",
+   "brut_fr": "Mais un jour, je serai si incroyable\nque tu ne pourras pas m'ignorer...\nHé, une fille peut rêver, non?",
    "brut_en": "But[SP]someday,[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me...[1205][001E][SP]Hey,[SP]a\ngirl[SP]can[SP]dream,[SP]right?",
    "data_size": 246,
    "budget": 238
   },
   {
    "id": 7,
-   "nom_fr": "Ginko",
+   "nom_fr": "Ginko ",
    "nom_en": "Ginko",
    "bulles_fr": [
     {
      "nom": null,
      "seg": [
       {
-       "t": "S-Sérieusement… ? Oh… Euh… J’sais pas quoi dire… T’es libre d’aimer qui tu veux."
+       "t": "S-Sérieusement…? Oh… Euh… J’sais pas quoi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dire… T’es libre d’aimer qui tu veux."
       }
      ]
     }
@@ -396,7 +445,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "S-Sérieusement… ? Oh… Euh… J’sais pas quoi dire… T’es libre d’aimer qui tu veux.",
+   "brut_fr": "S-Sérieusement…? Oh… Euh… J’sais pas quoi\ndire… T’es libre d’aimer qui tu veux.",
    "brut_en": "S-Seriously...?[1205][001E][SP]Oh...[SP]Uh...[SP]Well,[SP]I[SP]don't[SP]know\nwhat[SP]to[SP]say[SP]to[SP]that...[SP]You're[SP]free[SP]to[SP]like\nwhoever[SP]you[SP]want...",
    "data_size": 246,
    "budget": 238
@@ -410,7 +459,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais un jour, je serai si incroyable que tu ne pourras pas m'ignorer... Hé, une fille peut rêver, non?"
+       "t": "Mais un jour, je serai si incroyable"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que tu ne pourras pas m'ignorer..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hé, une fille peut rêver, non?"
       }
      ]
     }
@@ -445,7 +506,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais un jour, je serai si incroyable que tu ne pourras pas m'ignorer... Hé, une fille peut rêver, non?",
+   "brut_fr": "Mais un jour, je serai si incroyable\nque tu ne pourras pas m'ignorer...\nHé, une fille peut rêver, non?",
    "brut_en": "But[SP]someday,[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me...[1205][001E][SP]Hey,[SP]a\ngirl[SP]can[SP]dream,[SP]right?",
    "data_size": 246,
    "budget": 238
@@ -465,7 +526,7 @@
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -494,7 +555,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé! C’est pas drôle, [1113] !",
+   "brut_fr": "Hé! C’est pas drôle, [1113]!",
    "brut_en": "Oh,[SP]c'mon![1205][001E][SP]That's[SP]not[SP]funny,[SP][1113]!",
    "data_size": 90,
    "budget": 82
@@ -508,7 +569,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu essaies juste d’éviter la question, non? Un jour, je serai si incroyable que tu ne pourras pas m’ignorer!"
+       "t": "Tu essaies juste d’éviter la question,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "non? Un jour, je serai si incroyable"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que tu ne pourras pas m’ignorer!"
       }
      ]
     }
@@ -537,7 +610,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu essaies juste d’éviter la question, non? Un jour, je serai si incroyable que tu ne pourras pas m’ignorer!",
+   "brut_fr": "Tu essaies juste d’éviter la question,\nnon? Un jour, je serai si incroyable\nque tu ne pourras pas m’ignorer!",
    "brut_en": "You're[SP]just[SP]trying[SP]to[SP]dodge[SP]the[SP]question,\nright?[SP]Well,[SP]someday[SP]I'll[SP]be[SP]such[SP]an[SP]awesome\ncatch[SP]that[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me!",
    "data_size": 278,
    "budget": 270
@@ -551,7 +624,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Heh, c’est OK. Qui resterait pas perdu après une déclaration?"
+       "t": "Heh, c’est OK. Qui resterait pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "perdu après une déclaration?"
       }
      ]
     }
@@ -574,7 +653,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Heh, c’est OK. Qui resterait pas perdu après une déclaration?",
+   "brut_fr": "Heh, c’est OK. Qui resterait pas\nperdu après une déclaration?",
    "brut_en": "Heh,[SP]it's[SP]okay.[SP]Who[SP]wouldn't[SP]be[SP]at[SP]a[SP]loss\nafter[SP]hearing[SP]that[SP]out[SP]of[SP]the[SP]blue?",
    "data_size": 178,
    "budget": 170
@@ -588,7 +667,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu essaies juste d’éviter la question, non? Un jour, je serai si incroyable que tu ne pourras pas m’ignorer!"
+       "t": "Tu essaies juste d’éviter la question,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "non? Un jour, je serai si incroyable"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que tu ne pourras pas m’ignorer!"
       }
      ]
     }
@@ -617,7 +708,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu essaies juste d’éviter la question, non? Un jour, je serai si incroyable que tu ne pourras pas m’ignorer!",
+   "brut_fr": "Tu essaies juste d’éviter la question,\nnon? Un jour, je serai si incroyable\nque tu ne pourras pas m’ignorer!",
    "brut_en": "You're[SP]trying[SP]to[SP]dodge[SP]the[SP]question,[SP]huh?\nWell,[SP]someday[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me!",
    "data_size": 264,
    "budget": 256
@@ -631,7 +722,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "*siffle* Elle est toujours aussi passionnée. C’est dur d’être un séducteur, hein?"
+       "t": "*siffle* Elle est toujours aussi passionnée."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C’est dur d’être un séducteur, hein?"
       }
      ]
     }
@@ -660,7 +757,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*siffle* Elle est toujours aussi passionnée. C’est dur d’être un séducteur, hein?",
+   "brut_fr": "*siffle* Elle est toujours aussi passionnée.\nC’est dur d’être un séducteur, hein?",
    "brut_en": "*whistle*[1205][001E][SP]She's[SP]as[SP]passionate[SP]as[SP]ever.\nIt's[SP]tough[SP]being[SP]a[SP]ladykiller,[SP]isn't[SP]it?",
    "data_size": 190,
    "budget": 182
@@ -674,7 +771,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Haha... Lisa est toujours directe, comme dans souvenir..."
+       "t": "Haha... Lisa est toujours"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "directe, comme dans souvenir..."
       }
      ]
     }
@@ -703,7 +806,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Haha... Lisa est toujours directe, comme dans souvenir...",
+   "brut_fr": "Haha... Lisa est toujours\ndirecte, comme dans souvenir...",
    "brut_en": "Hahah...[1205][001E][SP]Lisa's[SP]still[SP]as[SP]blunt[SP]as[SP]I[SP]remember\nher[SP]to[SP]be...",
    "data_size": 138,
    "budget": 130
@@ -717,7 +820,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sérieux! C'était une sacré déclaration...Même moi, j'ai rougi! "
+       "t": "Sérieux! C'était une sacré"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "déclaration... Même moi, j'ai rougi!"
       }
      ]
     }
@@ -740,7 +849,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sérieux! C'était une sacré déclaration...Même moi, j'ai rougi! ",
+   "brut_fr": "Sérieux! C'était une sacré\ndéclaration... Même moi, j'ai rougi!",
    "brut_en": "Seriously![SP]That[SP]was[SP]one[SP]hell[SP]of[SP]a[SP]confession...\nEven[SP]I[SP]was[SP]blushing!",
    "data_size": 158,
    "budget": 150
@@ -754,7 +863,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je ne vais pas laisser un déprimé et une vieille me surpasser!"
+       "t": "Je ne vais pas laisser un déprimé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et une vieille me surpasser!"
       }
      ]
     }
@@ -777,7 +892,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne vais pas laisser un déprimé et une vieille me surpasser!",
+   "brut_fr": "Je ne vais pas laisser un déprimé\net une vieille me surpasser!",
    "brut_en": "I'm[SP]not[SP]letting[SP]a[SP]mopey[SP]guy[SP]and[SP]an[SP]old[SP]lady\nget[SP]the[SP]best[SP]of[SP]me!",
    "data_size": 150,
    "budget": 142
@@ -865,7 +980,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis le crâne de la terre éternelle...Si mon sommeil est troublé, l’eau débordera et le vent errera sans but..."
+       "t": "Je suis le crâne de la terre éternelle..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Si mon sommeil est troublé, l’eau"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "débordera et le vent errera sans "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " but..."
       }
      ]
     }
@@ -900,7 +1033,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis le crâne de la terre éternelle...Si mon sommeil est troublé, l’eau débordera et le vent errera sans but...",
+   "brut_fr": "Je suis le crâne de la terre éternelle...\nSi mon sommeil est troublé, l’eau\ndébordera et le vent errera sans [1205][U+000F] but...",
    "brut_en": "I[SP]am[SP]the[SP]skull[SP]of[SP]everlasting[SP]earth...[1205][001E][SP]If[SP]my\nslumber[SP]is[SP]disturbed,[SP]water[SP]will[SP]run[SP]rampant\nand[SP]wind[SP]will[SP]have[SP]no[SP]destination...",
    "data_size": 308,
    "budget": 300
@@ -1013,7 +1146,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Maya?! Désolé de te déranger, mais on a des ennuis!"
+       "t": "Maya?! Désolé de te déranger,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais on a des ennuis!"
       }
      ]
     }
@@ -1036,7 +1175,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Maya?! Désolé de te déranger, mais on a des ennuis!",
+   "brut_fr": "Maya?! Désolé de te déranger,\nmais on a des ennuis!",
    "brut_en": "Maya-san!?[SP]Sorry[SP]to[SP]bother[SP]you,[SP]but[SP]we've\ngot[SP]trouble!",
    "data_size": 150,
    "budget": 142
@@ -1118,7 +1257,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça a frappé pendant qu’on était sortis... Désolé, Tadashi était là, mais il s’est fait démolir..."
+       "t": "Ça a frappé pendant qu’on était"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sortis... Désolé, Tadashi était"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "là, mais il s’est fait démolir..."
       }
      ]
     }
@@ -1147,7 +1298,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça a frappé pendant qu’on était sortis... Désolé, Tadashi était là, mais il s’est fait démolir...",
+   "brut_fr": "Ça a frappé pendant qu’on était\nsortis... Désolé, Tadashi était\nlà, mais il s’est fait démolir...",
    "brut_en": "He[SP]struck[SP]when[SP]the[SP]Chief[SP]and[SP]I[SP]were[SP]out...\nSorry![SP]Tadashi[SP]was[SP]there,[SP]but[SP]he[SP]got[SP]creamed\npretty[SP]bad...",
    "data_size": 244,
    "budget": 236
@@ -1161,7 +1312,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et d'après Tadashi, ce type-taureau parlait d'un sacrifice!"
+       "t": "Et d'après Tadashi, ce type-taureau"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "parlait d'un sacrifice!"
       }
      ]
     }
@@ -1184,7 +1341,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et d'après Tadashi, ce type-taureau parlait d'un sacrifice!",
+   "brut_fr": "Et d'après Tadashi, ce type-taureau\nparlait d'un sacrifice!",
    "brut_en": "And[SP]from[SP]what[SP]Tadashi[SP]said,[SP]that[SP]bull[SP]guy[SP]was\nsaying[SP]something[SP]about[SP]a[SP]sacrifice!",
    "data_size": 204,
    "budget": 196
@@ -1198,7 +1355,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien sûr... Quelle négligence de ma part. La femme qui a écrit In Lak'ech avec mon père s'appelait Okamura..."
+       "t": "Bien sûr... Quelle négligence de ma"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "part. La femme qui a écrit In Lak'ech"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec mon père s'appelait Okamura..."
       }
      ]
     }
@@ -1233,7 +1402,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien sûr... Quelle négligence de ma part. La femme qui a écrit In Lak'ech avec mon père s'appelait Okamura...",
+   "brut_fr": "Bien sûr... Quelle négligence de ma\npart. La femme qui a écrit In Lak'ech\navec mon père s'appelait Okamura...",
    "brut_en": "Of[SP]course...[SP]How[SP]careless[SP]of[SP]me.[1205][001E][SP]The[SP]woman[SP]who\nauthored[SP]the[SP]In[SP]Lak'ech[SP]with[SP]my[SP]father[SP]was\nnamed[SP]Maya[SP]Okamura...",
    "data_size": 246,
    "budget": 238
@@ -1308,7 +1477,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce pervers vit encore ?! Pourquoi une femme mûre comme elle ?!"
+       "t": "Ce pervers vit encore?! Pourquoi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une femme mûre comme elle?!"
       }
      ]
     }
@@ -1331,7 +1506,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce pervers vit encore ?! Pourquoi une femme mûre comme elle ?!",
+   "brut_fr": "Ce pervers vit encore?! Pourquoi\nune femme mûre comme elle?!",
    "brut_en": "That[SP]perv's[SP]still[SP]alive!?[SP]What's[SP]he[SP]want[SP]a\nmiddle-aged[SP]lady[SP]like[SP]her[SP]for!?",
    "data_size": 176,
    "budget": 168
@@ -1345,7 +1520,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Leur destination est sans doute Xibalba. On peut les suivre par la Porte du Ciel à Seven... la Pierre Narurato."
+       "t": "Leur destination est sans doute Xibalba."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On peut les suivre par la Porte du Ciel"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à Seven... la Pierre Narurato."
       }
      ]
     }
@@ -1380,7 +1567,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Leur destination est sans doute Xibalba. On peut les suivre par la Porte du Ciel à Seven... la Pierre Narurato.",
+   "brut_fr": "Leur destination est sans doute Xibalba.\nOn peut les suivre par la Porte du Ciel\nà Seven... la Pierre Narurato.",
    "brut_en": "Their[SP]destination[SP]is[SP]no[SP]doubt[SP]Xibalba.[SP]We\nshould[SP]be[SP]able[SP]to[SP]follow[SP]them[SP]through[SP]Heaven's\nGate[SP]at[SP]Sevens...[1205][001E][SP]the[SP]Narurato[SP]Stone.",
    "data_size": 276,
    "budget": 268
@@ -1425,7 +1612,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Parfait ! Plus tôt on y va, mieux c’est. Direction Seven!"
+       "t": "Parfait! Plus tôt on y va,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mieux c’est. Direction Seven!"
       }
      ]
     }
@@ -1448,7 +1641,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Parfait ! Plus tôt on y va, mieux c’est. Direction Seven!",
+   "brut_fr": "Parfait! Plus tôt on y va,\nmieux c’est. Direction Seven!",
    "brut_en": "Gotcha![SP]The[SP]sooner[SP]we[SP]leave[SP]the[SP]better.\nNext[SP]stop,[SP]Sevens!",
    "data_size": 138,
    "budget": 130

@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé, t'as entendu ce que ce gars a dit ?"
+       "t": "Hé, t'as entendu ce que ce gars a"
       },
       {
        "nl": true
       },
       {
-       "t": "Allez... Hanako ? De nos jours ?"
+       "t": "dit? Allez... Hanako? De nos jours?"
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, t'as entendu ce que ce gars a dit ?\nAllez... Hanako ? De nos jours ?",
+   "brut_fr": "Hé, t'as entendu ce que ce gars a\ndit? Allez... Hanako? De nos jours?",
    "brut_en": "Hey,[SP]did[SP]you[SP]hear[SP]what[SP]that[SP]dude[SP]said?\nCome[SP]on...[SP]Hanako?[SP]In[SP]this[SP]day[SP]and[SP]age?",
    "data_size": 182,
    "budget": 174
@@ -53,25 +53,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Attends... Avec des démons partout,"
+       "t": "Attends... Avec des démons partout, pourquoi"
       },
       {
        "nl": true
       },
       {
-       "t": "pourquoi je serais surpris qu'elle soit"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "réelle ?"
+       "t": "je serais surpris qu'elle soit réelle?"
       },
       {
        "pause": true
       },
       {
-       "t": " Faut m'adapter avant que ça me retombe dessus."
+       "t": " Faut"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "m'adapter avant que ça me "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " retombe dessus."
       }
      ]
     }
@@ -106,7 +112,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Attends... Avec des démons partout,\npourquoi je serais surpris qu'elle soit\nréelle ?[1205][001E] Faut m'adapter avant que ça me retombe dessus.",
+   "brut_fr": "Attends... Avec des démons partout, pourquoi\nje serais surpris qu'elle soit réelle?[1205][001E] Faut\nm'adapter avant que ça me [1205][U+000F] retombe dessus.",
    "brut_en": "Wait...[SP]With[SP]demons[SP]popping[SP]up[SP]all[SP]over,[SP]why\nwould[SP]I[SP]be[SP]surprised[SP]if[SP]she's[SP]real?[1205][001E][SP]I[SP]gotta[SP]get\nwith[SP]the[SP]program[SP]before[SP]it[SP]bites[SP]me[SP]in[SP]the[SP]ass.",
    "data_size": 310,
    "budget": 302
@@ -126,19 +132,19 @@
        "hero": "prenom"
       },
       {
-       "t": ", t'as eu la récompense"
+       "t": ", t'as eu la"
       },
       {
        "nl": true
       },
       {
-       "t": "de ce gars ? J'ai hâte de voir ce"
+       "t": "récompense de ce gars? J'ai hâte"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'il va nous donner !"
+       "t": "de voir ce qu'il va nous donner!"
       }
      ]
     }
@@ -173,7 +179,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Au fait, [1113], t'as eu la récompense\nde ce gars ? J'ai hâte de voir ce\nqu'il va nous donner !",
+   "brut_fr": "Au fait, [1113], t'as eu la\nrécompense de ce gars? J'ai hâte\nde voir ce qu'il va nous donner!",
    "brut_en": "By[SP]the[SP]way,[SP][1113],[SP]did[SP]you[SP]get[SP]the[SP]reward\nfrom[SP]him[SP]yet?[SP]I[SP]can't[SP]wait[SP]to[SP]see[SP]the[SP]loot\nhe's[SP]gonna[SP]give[SP]us!",
    "data_size": 226,
    "budget": 218
@@ -193,30 +199,33 @@
        "hero": "prenom"
       },
       {
-       "t": " ? Oh, du"
+       "t": "?"
       },
       {
        "nl": true
       },
       {
-       "t": "Thé Brink ? Génial !"
+       "t": "Oh, du Thé Brink? Génial! "
       },
       {
-       "nl": true
+       "pause": true
+      },
+      {
+       "t": " "
       }
      ]
     },
     {
-     "nom": "Lisa",
+     "nom": "Lisa A y",
      "seg": [
       {
-       "t": "A y penser, les histoires de fantômes"
+       "t": "penser, les histoires de fantômes sont"
       },
       {
        "nl": true
       },
       {
-       "t": "sont des rumeurs..."
+       "t": "des rumeurs..."
       },
       {
        "pause": true
@@ -280,7 +289,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Alors qu'est-ce qu'il t'a donné, [1113] ? Oh, du\n[E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thé Brink[E4][NULL][NULL][0002] ? Génial ![E1][E2]\n\n[E3][E4][NULL][NULL]\"Lisa\nA y penser, les histoires de fantômes\nsont des rumeurs...[1205][U+000F] Alors ça veut dire...?",
+   "brut_fr": "Alors qu'est-ce qu'il t'a donné, [1113]?\nOh, du [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thé Brink[E4][NULL][NULL][0002]? Génial![E1][E2] [1205][U+000F] [E3][E4][NULL][NULL]\"Lisa A y\npenser, les histoires de fantômes sont\ndes rumeurs...[1205][U+000F] Alors ça veut dire...?",
    "brut_en": "So[SP]what[SP]did[SP]he[SP]give[SP]you,[SP][1113]?[SP]Ooh,[SP]a\n[E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]?[SP]Righteous![E1][E2]\n\n[E3][E4][NULL][NULL]\"Lisa\nNow[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][U+000F][SP]Then[SP]could\nthis[SP]be...?",
    "data_size": 390,
    "budget": 382
@@ -294,22 +303,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "A y penser, les histoires de"
+       "t": "A y penser, les histoires de fantômes sont"
       },
       {
        "nl": true
       },
       {
-       "t": "fantômes sont des rumeurs..."
+       "t": "des rumeurs..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Alors ça veut dire...?"
+       "t": " Alors ça veut dire...?"
       }
      ]
     }
@@ -344,7 +350,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "A y penser, les histoires de\nfantômes sont des rumeurs...[1205][U+000F]\nAlors ça veut dire...?",
+   "brut_fr": "A y penser, les histoires de fantômes sont\ndes rumeurs...[1205][U+000F] Alors ça veut dire...?",
    "brut_en": "Now[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][U+000F][SP]Then[SP]could\nthis[SP]be...?",
    "data_size": 222,
    "budget": 214
@@ -431,7 +437,7 @@
        "nl": true
       },
       {
-       "t": "faire répandre la rumeur !"
+       "t": "faire répandre la rumeur!"
       }
      ]
     }
@@ -454,7 +460,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Allons à l'Agence Kuzunoha\nfaire répandre la rumeur !",
+   "brut_fr": "Allons à l'Agence Kuzunoha\nfaire répandre la rumeur!",
    "brut_en": "Let's[SP]go[SP]to[SP]the[SP]Kuzunoha[SP]Detective[SP]Agency\nand[SP]have[SP]them[SP]spread[SP]the[SP]rumor!",
    "data_size": 166,
    "budget": 158
@@ -541,7 +547,7 @@
        "nl": true
       },
       {
-       "t": "faire répandre la rumeur !"
+       "t": "faire répandre la rumeur!"
       }
      ]
     }
@@ -564,7 +570,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Allons à l'Agence Kuzunoha\nfaire répandre la rumeur !",
+   "brut_fr": "Allons à l'Agence Kuzunoha\nfaire répandre la rumeur!",
    "brut_en": "Let's[SP]go[SP]to[SP]the[SP]Kuzunoha[SP]Detective[SP]Agency\nand[SP]have[SP]them[SP]spread[SP]the[SP]rumor!",
    "data_size": 168,
    "budget": 160
@@ -578,7 +584,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "On est prêts !"
+       "t": "On est prêts!"
       },
       {
        "pause": true
@@ -590,7 +596,7 @@
        "nl": true
       },
       {
-       "t": "vaincre Hanako ! Allons-y, Chinyan !"
+       "t": "vaincre Hanako! Allons-y, Chinyan!"
       }
      ]
     }
@@ -619,7 +625,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On est prêts ![1205][U+000F] Il ne reste plus qu'à\nvaincre Hanako ! Allons-y, Chinyan !",
+   "brut_fr": "On est prêts![1205][U+000F] Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!",
    "brut_en": "We're[SP]ready[SP]to[SP]go![1205][U+000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
    "data_size": 178,
    "budget": 170
@@ -633,7 +639,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "On est prêts !"
+       "t": "On est prêts!"
       },
       {
        "pause": true
@@ -645,7 +651,7 @@
        "nl": true
       },
       {
-       "t": "vaincre Hanako ! Allons-y, Chinyan !"
+       "t": "vaincre Hanako! Allons-y, Chinyan!"
       }
      ]
     }
@@ -674,7 +680,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On est prêts ![1205][U+000F] Il ne reste plus qu'à\nvaincre Hanako ! Allons-y, Chinyan !",
+   "brut_fr": "On est prêts![1205][U+000F] Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!",
    "brut_en": "We're[SP]ready[SP]to[SP]go![1205][U+000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
    "data_size": 180,
    "budget": 172
@@ -688,19 +694,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé, Chinyan. D'autres démons"
+       "t": "Hé, Chinyan. D'autres démons peuvent"
       },
       {
        "nl": true
       },
       {
-       "t": "peuvent apparaître si on répand"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "des rumeurs sur eux !"
+       "t": "apparaître si on répand des rumeurs sur eux!"
       }
      ]
     }
@@ -729,7 +729,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, Chinyan. D'autres démons\npeuvent apparaître si on répand\ndes rumeurs sur eux !",
+   "brut_fr": "Hé, Chinyan. D'autres démons peuvent\napparaître si on répand des rumeurs sur eux!",
    "brut_en": "Hey,[SP]Chinyan.[SP]There[SP]might[SP]be[SP]other[SP]demons\nbesides[SP]Hanako[SP]who[SP]appear[SP]if[SP]we[SP]spread[SP]rumors\nabout[SP]them!",
    "data_size": 218,
    "budget": 210
@@ -743,19 +743,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hé, Chinyan. D'autres démons"
+       "t": "Hé, Chinyan. D'autres démons peuvent"
       },
       {
        "nl": true
       },
       {
-       "t": "peuvent apparaître si on répand"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "des rumeurs sur eux !"
+       "t": "apparaître si on répand des rumeurs sur eux!"
       }
      ]
     }
@@ -784,7 +778,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, Chinyan. D'autres démons\npeuvent apparaître si on répand\ndes rumeurs sur eux !",
+   "brut_fr": "Hé, Chinyan. D'autres démons peuvent\napparaître si on répand des rumeurs sur eux!",
    "brut_en": "Hey,[SP]Chinyan.[SP]There[SP]might[SP]be[SP]other[SP]demons\nbesides[SP]Hanako[SP]who[SP]appear[SP]if[SP]we[SP]spread[SP]rumors\nabout[SP]them!",
    "data_size": 220,
    "budget": 212
@@ -816,13 +810,19 @@
        "pause": true
       },
       {
-       "t": "( Si elle"
+       "t": "("
       },
       {
        "nl": true
       },
       {
-       "t": "existe vraiment, quel scoop !"
+       "t": "Si elle"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " existe vraiment, quel scoop!"
       }
      ]
     }
@@ -863,7 +863,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me souviens des rumeurs sur [1432][NULL][NULL][0014]Hanako\ndes toilettes[1432][NULL][NULL][0014] quand j'étais gamine.[1205]( Si elle\nexiste vraiment, quel scoop !",
+   "brut_fr": "Je me souviens des rumeurs sur [1432][NULL][NULL][0014]Hanako\ndes toilettes[1432][NULL][NULL][0014] quand j'étais gamine.[1205](\nSi elle[1205][U+000F] existe vraiment, quel scoop!",
    "brut_en": "I[SP]remember[SP]the[SP]rumors[SP]about[SP][1432][NULL][NULL][0014]Hanako[SP]of[SP]the\ntoilets[1432][NULL][NULL][0014][SP]from[SP]when[SP]I[SP]was[SP]a[SP]kid.[1205]([SP]If[SP]she[SP]really\nexists,[SP]that'd[SP]be[SP]a[SP]great[SP]scoop!",
    "data_size": 278,
    "budget": 270
@@ -877,22 +877,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Des démons liés aux rumeurs..."
+       "t": "Des démons liés aux rumeurs... On les"
       },
       {
        "nl": true
       },
       {
-       "t": "On les appelle"
-      },
-      {
-       "nl": true
+       "t": "appelle "
       },
       {
        "hl": "Démons Rumeur"
       },
       {
-       "t": " pour l'instant ?"
+       "t": " pour l'instant?"
       }
      ]
     }
@@ -921,7 +918,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Des démons liés aux rumeurs...\nOn les appelle\n[E4][NULL][NULL][U+0006]Démons Rumeur[E4][NULL][NULL][0002] pour l'instant ?",
+   "brut_fr": "Des démons liés aux rumeurs... On les\nappelle [E4][NULL][NULL][U+0006]Démons Rumeur[E4][NULL][NULL][0002] pour l'instant?",
    "brut_en": "Demons[SP]that[SP]show[SP]up[SP]because[SP]of[SP]rumors...\nWhy[SP]don't[SP]we[SP]call[SP]them[SP][E4][NULL][NULL][U+0006]Rumor[SP]Demons[E4][NULL][NULL][0002][SP]for[SP]now?",
    "data_size": 206,
    "budget": 198
@@ -935,7 +932,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hanako, hein ?"
+       "t": "Hanako, hein?"
       },
       {
        "pause": true
@@ -947,10 +944,13 @@
        "pause": true
       },
       {
+       "t": " Elle"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Elle résiste au feu et aux attaques physiques."
+       "t": "résiste au feu et aux attaques physiques."
       }
      ]
     }
@@ -982,7 +982,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hanako, hein ?[1205][U+000F] Elle n'est pas facile...[1205][U+000F]\nElle résiste au feu et aux attaques physiques.",
+   "brut_fr": "Hanako, hein?[1205][U+000F] Elle n'est pas facile...[1205][U+000F] Elle\nrésiste au feu et aux attaques physiques.",
    "brut_en": "Hanako,[SP]huh?[1205][U+000F][SP]She's[SP]a[SP]tough[SP]nut[SP]to[SP]crack...[1205][U+000F]\nShe's[SP]resistant[SP]to[SP]fire[SP]and[SP]physical[SP]attacks.",
    "data_size": 208,
    "budget": 200
@@ -996,13 +996,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Chaque ville est pleine de rumeurs sur"
+       "t": "Chaque ville est pleine de rumeurs sur les"
       },
       {
        "nl": true
       },
       {
-       "t": "les fantômes, démons et légendes urbaines."
+       "t": "fantômes, démons et légendes urbaines."
       },
       {
        "nl": true
@@ -1037,7 +1037,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Chaque ville est pleine de rumeurs sur\nles fantômes, démons et légendes urbaines.\nD'autres comme Hanako existent sûrement.",
+   "brut_fr": "Chaque ville est pleine de rumeurs sur les\nfantômes, démons et légendes urbaines.\nD'autres comme Hanako existent sûrement.",
    "brut_en": "Every[SP]city[SP]is[SP]full[SP]of[SP]rumors[SP]about[SP]ghosts,\ndemons,[SP]and[SP]other[SP]urban[SP]legends.[SP]I[SP]wouldn't[SP]be\nsurprised[SP]if[SP]there[SP]were[SP]others[SP]like[SP]Hanako.",
    "data_size": 290,
    "budget": 282
@@ -1051,25 +1051,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je me demande ce qu'il est arrivé"
+       "t": "Je me demande ce qu'il est arrivé à la"
       },
       {
        "nl": true
       },
       {
-       "t": "à la réunion du club..."
+       "t": "réunion du club..."
       },
       {
        "pause": true
       },
       {
-       "t": " Je peux pas"
+       "t": " Je peux pas rentrer"
       },
       {
        "nl": true
       },
       {
-       "t": "rentrer avant, et personne m'a prévenu."
+       "t": "avant, et personne m'a prévenu."
       }
      ]
     }
@@ -1104,7 +1104,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me demande ce qu'il est arrivé\nà la réunion du club...[1205][001E] Je peux pas\nrentrer avant, et personne m'a prévenu.",
+   "brut_fr": "Je me demande ce qu'il est arrivé à la\nréunion du club...[1205][001E] Je peux pas rentrer\navant, et personne m'a prévenu.",
    "brut_en": "I[SP]wonder[SP]what[SP]happened[SP]to[SP]today's[SP]club\nmeeting...[1205][001E][SP]I[SP]can't[SP]go[SP]home[SP]until[SP]it's[SP]over,\nbut[SP]I[SP]haven't[SP]heard[SP]from[SP]any[SP]of[SP]them[SP]yet.",
    "data_size": 276,
    "budget": 268
@@ -1118,25 +1118,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je veux vite chercher"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "la grande sœur !"
+       "t": "Je veux vite chercher la grande sœur!"
       },
       {
        "pause": true
       },
       {
-       "t": " Elle n'a pas"
+       "nl": true
+      },
+      {
+       "t": "Elle n'a pas abandonné son rêve! Elle"
       },
       {
        "nl": true
       },
       {
-       "t": "abandonné son rêve ! Elle a besoin de ces chaussures !"
+       "t": "a besoin de ces "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " chaussures!"
       }
      ]
     }
@@ -1171,7 +1174,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je veux vite chercher\nla grande sœur ![1205][001E] Elle n'a pas\nabandonné son rêve ! Elle a besoin de ces chaussures !",
+   "brut_fr": "Je veux vite chercher la grande sœur![1205][001E]\nElle n'a pas abandonné son rêve! Elle\na besoin de ces [1205][U+000F] chaussures!",
    "brut_en": "I[SP]want[SP]to[SP]hurry[SP]and[SP]pick[SP]up[SP]the[SP]search[SP]for\nSister![1205][001E][SP]She[SP]hasn't[SP]given[SP]up[SP]on[SP]her[SP]dream[SP]yet!\nShe[SP]needs[SP]these[SP]shoes!",
    "data_size": 250,
    "budget": 242
@@ -1185,19 +1188,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le club est annulé, mais je peux"
+       "t": "Le club est annulé, mais je peux pas"
       },
       {
        "nl": true
       },
       {
-       "t": "pas rentrer - le proviseur a dit"
+       "t": "rentrer - le proviseur a dit de nettoyer!"
       },
       {
        "nl": true
       },
       {
-       "t": "de nettoyer ! Je dois trouver la grande sœur..."
+       "t": "Je dois trouver la grande "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " sœur..."
       }
      ]
     }
@@ -1226,7 +1235,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le club est annulé, mais je peux\npas rentrer - le proviseur a dit\nde nettoyer ! Je dois trouver la grande sœur...",
+   "brut_fr": "Le club est annulé, mais je peux pas\nrentrer - le proviseur a dit de nettoyer!\nJe dois trouver la grande [1205][U+000F] sœur...",
    "brut_en": "I[SP]guess[SP]the[SP]club[SP]won't[SP]be[SP]meeting[SP]today,[SP]but[SP]I\ncan't[SP]go[SP]home[SP]because[SP]the[SP]principal[SP]ordered\nus[SP]to[SP]clean[SP]up![SP]I[SP]have[SP]to[SP]find[SP]Sister...",
    "data_size": 286,
    "budget": 278
@@ -1240,19 +1249,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est le Boss du Lycée Kakasu ? Il a l'air"
+       "t": "C'est le Boss du Lycée Kakasu? Il a"
       },
       {
        "nl": true
       },
       {
-       "t": "assez bête pour ça. Reste pas trop près"
+       "t": "l'air assez bête pour ça. Reste pas trop"
       },
       {
        "nl": true
       },
       {
-       "t": "de lui, sa bêtise est contagieuse."
+       "t": "près de lui, sa bêtise est contagieuse."
       }
      ]
     }
@@ -1281,7 +1290,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est le Boss du Lycée Kakasu ? Il a l'air\nassez bête pour ça. Reste pas trop près\nde lui, sa bêtise est contagieuse.",
+   "brut_fr": "C'est le Boss du Lycée Kakasu? Il a\nl'air assez bête pour ça. Reste pas trop\nprès de lui, sa bêtise est contagieuse.",
    "brut_en": "Is[SP]that[SP]the[SP]Boss[SP]of[SP]Cuss[SP]High?[SP]He[SP]looks[SP]dumb\nenough[SP]to[SP]fit[SP]the[SP]bill.[SP]Don't[SP]stick[SP]too[SP]close\nto[SP]him,[SP]or[SP]his[SP]stupidity[SP]will[SP]rub[SP]off.",
    "data_size": 294,
    "budget": 286
@@ -1304,13 +1313,13 @@
        "nl": true
       },
       {
-       "t": "avec ce Boss du Lycée Kakasu et aide-nous"
+       "t": "avec ce Boss du Lycée Kakasu et"
       },
       {
        "nl": true
       },
       {
-       "t": "à détruire les emblèmes !"
+       "t": "aide-nous à détruire les emblèmes!"
       }
      ]
     }
@@ -1342,7 +1351,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1112]-senpai, arrête de traîner\navec ce Boss du Lycée Kakasu et aide-nous\nà détruire les emblèmes !",
+   "brut_fr": "[1112]-senpai, arrête de traîner\navec ce Boss du Lycée Kakasu et\naide-nous à détruire les emblèmes!",
    "brut_en": "[1112]-senpai,[SP]quit[SP]fooling[SP]around[SP]with[SP]the\nstupid[SP]Boss[SP]of[SP]Cuss[SP]High[SP]and[SP]help[SP]us[SP]destroy\nthe[SP]emblems!",
    "data_size": 228,
    "budget": 220
@@ -1356,19 +1365,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci pour ton aide. Tous les emblèmes"
+       "t": "Merci pour ton aide. Tous les emblèmes de"
       },
       {
        "nl": true
       },
       {
-       "t": "de cette salle devraient être détruits."
+       "t": "cette salle devraient être détruits."
       },
       {
        "nl": true
       },
       {
-       "t": "J'espère que ça mettra fin à cette folie..."
+       "t": "J'espère que ça mettra fin à cette "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " folie..."
       }
      ]
     }
@@ -1397,7 +1412,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci pour ton aide. Tous les emblèmes\nde cette salle devraient être détruits.\nJ'espère que ça mettra fin à cette folie...",
+   "brut_fr": "Merci pour ton aide. Tous les emblèmes de\ncette salle devraient être détruits.\nJ'espère que ça mettra fin à cette [1205][U+000F] folie...",
    "brut_en": "Thanks[SP]for[SP]your[SP]help.[SP]All[SP]the[SP]emblems[SP]in[SP]this\nclassroom[SP]should[SP]be[SP]destroyed.[SP]I[SP]hope[SP]that\nputs[SP]an[SP]end[SP]to[SP]this[SP]madness...",
    "data_size": 274,
    "budget": 266
@@ -1411,28 +1426,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour autant que je sache, cet emblème"
+       "t": "Pour autant que je sache, cet emblème est"
       },
       {
        "nl": true
       },
       {
-       "t": "est le dernier..."
+       "t": "le dernier..."
       },
       {
        "pause": true
       },
       {
-       "t": " Oh, attendez, non !"
+       "t": " Oh, attendez, non!"
       },
       {
        "pause": true
+      },
+      {
+       "t": " Il y a des"
       },
       {
        "nl": true
       },
       {
-       "t": "Il y a des emblèmes dans la salle des profs aussi !"
+       "t": "emblèmes dans la salle des profs aussi!"
       }
      ]
     }
@@ -1473,7 +1491,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour autant que je sache, cet emblème\nest le dernier...[1205][U+000F] Oh, attendez, non ![1205][U+000F]\nIl y a des emblèmes dans la salle des profs aussi !",
+   "brut_fr": "Pour autant que je sache, cet emblème est\nle dernier...[1205][U+000F] Oh, attendez, non![1205][U+000F] Il y a des\nemblèmes dans la salle des profs aussi!",
    "brut_en": "As[SP]far[SP]as[SP]I[SP]know,[SP]the[SP]emblem[SP]here[SP]is[SP]the[SP]last\none...[1205][U+000F][SP]Oh,[SP]wait,[SP]no[SP]it[SP]wasn't![1205][U+000F][SP]There's\nsome[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge[SP]too!",
    "data_size": 296,
    "budget": 288
@@ -1487,16 +1505,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Laisse-nous le nettoyage et occupe-toi"
+       "t": "Laisse-nous le nettoyage et occupe-toi des"
       },
       {
        "nl": true
       },
       {
-       "t": "des emblèmes dans la salle des profs,"
-      },
-      {
-       "nl": true
+       "t": "emblèmes dans la salle des profs, "
       },
       {
        "hero": "nom"
@@ -1534,7 +1549,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Laisse-nous le nettoyage et occupe-toi\ndes emblèmes dans la salle des profs,\n[1112]-senpai.",
+   "brut_fr": "Laisse-nous le nettoyage et occupe-toi des\nemblèmes dans la salle des profs, [1112]-senpai.",
    "brut_en": "Leave[SP]the[SP]cleanup[SP]to[SP]us[SP]and[SP]go[SP]deal[SP]with\nthe[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge,\n[1112]-senpai.",
    "data_size": 210,
    "budget": 202
@@ -1548,19 +1563,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu vois ? Inutile finalement."
+       "t": "Tu vois? Inutile finalement. Moi aussi j'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "Moi aussi j'ai été maudit."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Mais je garde mon calme..."
+       "t": "été maudit. Mais je garde mon calme..."
       }
      ]
     }
@@ -1589,7 +1598,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu vois ? Inutile finalement.\nMoi aussi j'ai été maudit.\nMais je garde mon calme...",
+   "brut_fr": "Tu vois? Inutile finalement. Moi aussi j'ai\nété maudit. Mais je garde mon calme...",
    "brut_en": "See?[SP]It[SP]was[SP]useless[SP]after[SP]all.[SP]I've[SP]been\ncursed[SP]now[SP]too.[SP]But[SP]I[SP]won't[SP]lose[SP]my[SP]cool\nover[SP]this...",
    "data_size": 232,
    "budget": 224
@@ -1603,19 +1612,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Exact, pas de scandale !"
+       "t": "Exact, pas de scandale! Calme"
       },
       {
        "nl": true
       },
       {
-       "t": "Calme comme un concombre ! Nettoyer ?"
+       "t": "comme un concombre! Nettoyer? Bien"
       },
       {
        "nl": true
       },
       {
-       "t": "Bien sûr ! Des déchets ? Aucun souci !"
+       "t": "sûr! Des déchets? Aucun souci!"
       }
      ]
     }
@@ -1644,7 +1653,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Exact, pas de scandale !\nCalme comme un concombre ! Nettoyer ?\nBien sûr ! Des déchets ? Aucun souci !",
+   "brut_fr": "Exact, pas de scandale! Calme\ncomme un concombre! Nettoyer? Bien\nsûr! Des déchets? Aucun souci!",
    "brut_en": "Yep,[SP]you[SP]won't[SP]see[SP]me[SP]making[SP]a[SP]fuss![SP]I'm[SP]cool\nas[SP]a[SP]cucumber![SP]Clean[SP]up?[SP]Sure![SP]Litter[SP]on[SP]the\nground?[SP]No[SP]problem!",
    "data_size": 264,
    "budget": 256
@@ -1664,13 +1673,19 @@
        "nl": true
       },
       {
-       "t": "proviseur. Pas que j'étais inquiet de toute"
+       "t": "proviseur. Pas que j'étais inquiet de"
       },
       {
        "nl": true
       },
       {
-       "t": "façon. Je savais que ça arrivait."
+       "t": "toute"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " façon. Je savais que ça arrivait."
       }
      ]
     }
@@ -1699,7 +1714,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La malédiction est levée grâce au\nproviseur. Pas que j'étais inquiet de toute\nfaçon. Je savais que ça arrivait.",
+   "brut_fr": "La malédiction est levée grâce au\nproviseur. Pas que j'étais inquiet de\ntoute[1205][U+000F] façon. Je savais que ça arrivait.",
    "brut_en": "The[SP]curse[SP]has[SP]been[SP]lifted[SP]thanks[SP]to[SP]the\nprincipal.[SP]Not[SP]that[SP]I[SP]was[SP]worried[SP]at[SP]all.\nI[SP]knew[SP]this[SP]would[SP]happen.",
    "data_size": 250,
    "budget": 242
@@ -1713,28 +1728,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "J-Je l'ai vue ! C'était "
+       "t": "J-Je l'ai vue! C'était "
       },
       {
        "hl": "Hanako"
       },
       {
-       "t": " !"
+       "t": "!"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "J'avais entendu des rumeurs, mais..."
+       "t": " J'avais"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est vrai ! Pourquoi personne me croit !?"
+       "t": "entendu des rumeurs, mais... C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vrai! Pourquoi personne me croit!?"
       }
      ]
     }
@@ -1775,7 +1793,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J-Je l'ai vue ! C'était [E4][NULL][NULL][U+0006]Hanako[E4][NULL][NULL][0002] ![1205][001E]\nJ'avais entendu des rumeurs, mais...\nC'est vrai ! Pourquoi personne me croit !?",
+   "brut_fr": "J-Je l'ai vue! C'était [E4][NULL][NULL][U+0006]Hanako[E4][NULL][NULL][0002]![1205][001E] J'avais\nentendu des rumeurs, mais... C'est\nvrai! Pourquoi personne me croit!?",
    "brut_en": "I-I[SP]saw[SP]her![SP]It[SP]was[SP]really[SP][E4][NULL][NULL][U+0006]Hanako[E4][NULL][NULL][0002]![1205][001E][SP]I[SP]always\nheard[SP]rumors,[SP]but...[SP]They're[SP]true![SP]Why[SP]won't\nanyone[SP]believe[SP]me!?",
    "data_size": 290,
    "budget": 282
@@ -1789,19 +1807,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "S'il vous plaît, senpai ! Battez Hanako"
+       "t": "S'il vous plaît, senpai! Battez Hanako et"
       },
       {
        "nl": true
       },
       {
-       "t": "et ramenez la preuve qu'elle existe vraiment,"
+       "t": "ramenez la preuve qu'elle existe vraiment,"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "et je vous récompenserai avec quelque chose !"
+       "t": "et je vous récompenserai avec quelque chose!"
       }
      ]
     }
@@ -1830,7 +1851,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "S'il vous plaît, senpai ! Battez Hanako\net ramenez la preuve qu'elle existe vraiment,\net je vous récompenserai avec quelque chose !",
+   "brut_fr": "S'il vous plaît, senpai! Battez Hanako et\nramenez la preuve qu'elle existe vraiment,[1205][U+000F]\net je vous récompenserai avec quelque chose!",
    "brut_en": "Please,[SP]Senpai![SP]Defeat[SP]Hanako[SP]and[SP]bring[SP]back\nproof[SP]she[SP]really[SP]exists,[SP]and[SP]I'll[SP]make[SP]sure\nto[SP]reward[SP]you[SP]with[SP]a[SP]little[SP]something!",
    "data_size": 308,
    "budget": 300
@@ -1844,28 +1865,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "J-Je l'ai vue ! C'était "
+       "t": "J-Je l'ai vue! C'était "
       },
       {
        "hl": "Hanako"
       },
       {
-       "t": " !"
+       "t": "!"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "J'avais entendu des rumeurs, mais..."
+       "t": " J'avais"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est vrai ! Pourquoi personne me croit !?"
+       "t": "entendu des rumeurs, mais... C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vrai! Pourquoi personne me croit!?"
       }
      ]
     }
@@ -1906,7 +1930,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J-Je l'ai vue ! C'était [E4][NULL][NULL][U+0006]Hanako[E4][NULL][NULL][0002] ![1205][001E]\nJ'avais entendu des rumeurs, mais...\nC'est vrai ! Pourquoi personne me croit !?",
+   "brut_fr": "J-Je l'ai vue! C'était [E4][NULL][NULL][U+0006]Hanako[E4][NULL][NULL][0002]![1205][001E] J'avais\nentendu des rumeurs, mais... C'est\nvrai! Pourquoi personne me croit!?",
    "brut_en": "I-I[SP]saw[SP]her![SP]It[SP]was[SP]really[SP][E4][NULL][NULL][U+0006]Hanako[E4][NULL][NULL][0002]![1205][001E][SP]I[SP]always\nheard[SP]rumors,[SP]but...[SP]They're[SP]true![SP]Why[SP]won't\nanyone[SP]believe[SP]me!?",
    "data_size": 272,
    "budget": 264
@@ -1920,19 +1944,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "S'il vous plaît, senpai ! Battez Hanako"
+       "t": "S'il vous plaît, senpai! Battez Hanako et"
       },
       {
        "nl": true
       },
       {
-       "t": "et ramenez la preuve qu'elle existe vraiment,"
+       "t": "ramenez la preuve qu'elle existe vraiment,"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "et je vous récompenserai avec quelque chose !"
+       "t": "et je vous récompenserai avec quelque chose!"
       }
      ]
     }
@@ -1961,7 +1988,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "S'il vous plaît, senpai ! Battez Hanako\net ramenez la preuve qu'elle existe vraiment,\net je vous récompenserai avec quelque chose !",
+   "brut_fr": "S'il vous plaît, senpai! Battez Hanako et\nramenez la preuve qu'elle existe vraiment,[1205][U+000F]\net je vous récompenserai avec quelque chose!",
    "brut_en": "Please,[SP]Senpai![SP]Defeat[SP]Hanako[SP]and[SP]bring[SP]back\nproof[SP]she[SP]really[SP]exists,[SP]and[SP]I'll[SP]make[SP]sure\nto[SP]reward[SP]you[SP]with[SP]a[SP]little[SP]something!",
    "data_size": 290,
    "budget": 282
@@ -1981,13 +2008,19 @@
        "nl": true
       },
       {
-       "t": "Vous êtes mon seul espoir, senpai ! Je compte"
+       "t": "Vous êtes mon seul espoir, senpai! Je"
       },
       {
        "nl": true
       },
       {
-       "t": "sur vous pour ramener la preuve !"
+       "t": "compte"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " sur vous pour ramener la preuve!"
       }
      ]
     }
@@ -2016,7 +2049,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hanako devrait encore être ici à Seven.\nVous êtes mon seul espoir, senpai ! Je compte\nsur vous pour ramener la preuve !",
+   "brut_fr": "Hanako devrait encore être ici à Seven.\nVous êtes mon seul espoir, senpai! Je\ncompte[1205][U+000F] sur vous pour ramener la preuve!",
    "brut_en": "Hanako[SP]should[SP]still[SP]be[SP]here[SP]in[SP]Sevens.\nYou're[SP]my[SP]only[SP]hope,[SP]Senpai![SP]I'm[SP]counting\non[SP]you[SP]to[SP]bring[SP]back[SP]the[SP]proof!",
    "data_size": 278,
    "budget": 270
@@ -2036,13 +2069,19 @@
        "nl": true
       },
       {
-       "t": "Vous êtes mon seul espoir, senpai! Je compte"
+       "t": "Vous êtes mon seul espoir, senpai! Je"
       },
       {
        "nl": true
       },
       {
-       "t": "sur vous pour ramener la preuve!"
+       "t": "compte"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " sur vous pour ramener la preuve!"
       }
      ]
     }
@@ -2071,7 +2110,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hanako devrait encore être ici à Seven.\nVous êtes mon seul espoir, senpai! Je compte\nsur vous pour ramener la preuve!",
+   "brut_fr": "Hanako devrait encore être ici à Seven.\nVous êtes mon seul espoir, senpai! Je\ncompte[1205][U+000F] sur vous pour ramener la preuve!",
    "brut_en": "Hanako[SP]should[SP]still[SP]be[SP]here[SP]in[SP]Sevens.\nYou're[SP]my[SP]only[SP]hope,[SP]Senpai![SP]I'm[SP]counting\non[SP]you[SP]to[SP]bring[SP]back[SP]the[SP]proof!",
    "data_size": 260,
    "budget": 252
@@ -2085,25 +2124,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ouah ! C'est super, senpai ! V-Vous avez"
+       "t": "Ouah! C'est super, senpai! V-Vous avez ramené"
       },
       {
        "nl": true
       },
       {
-       "t": "ramené le "
+       "t": "le "
       },
       {
        "hl": "Badge de Hanako"
       },
       {
-       "t": ", hein ? J-Je"
+       "t": ", hein? J-Je vais montrer"
       },
       {
        "nl": true
       },
       {
-       "t": "vais montrer ça à tous ces incrédules tout de suite !"
+       "t": "ça à tous ces incrédules tout"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de suite!"
       }
      ]
     }
@@ -2138,7 +2183,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouah ! C'est super, senpai ! V-Vous avez\nramené le [E4][NULL][NULL][U+0006]Badge de Hanako[E4][NULL][NULL][0002], hein ? J-Je\nvais montrer ça à tous ces incrédules tout de suite !",
+   "brut_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NULL][NULL][U+0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout[1205][U+000F] de suite!",
    "brut_en": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][U+0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
    "data_size": 326,
    "budget": 318
@@ -2152,7 +2197,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour te remercier, je te donne 5 Thés Brink !"
+       "t": "Pour te remercier, je te donne 5 Thés Brink!"
       }
      ]
     }
@@ -2169,7 +2214,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour te remercier, je te donne 5 [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002] !",
+   "brut_fr": "Pour te remercier, je te donne 5 [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!",
    "brut_en": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
    "data_size": 154,
    "budget": 146
@@ -2183,25 +2228,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ouah ! C'est super, senpai ! V-Vous avez"
+       "t": "Ouah! C'est super, senpai! V-Vous avez ramené"
       },
       {
        "nl": true
       },
       {
-       "t": "ramené le "
+       "t": "le "
       },
       {
        "hl": "Badge de Hanako"
       },
       {
-       "t": ", hein ? J-Je"
+       "t": ", hein? J-Je vais montrer"
       },
       {
        "nl": true
       },
       {
-       "t": "vais montrer ça à tous ces incrédules tout de suite !"
+       "t": "ça à tous ces incrédules tout"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de suite!"
       }
      ]
     }
@@ -2236,7 +2287,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouah ! C'est super, senpai ! V-Vous avez\nramené le [E4][NULL][NULL][U+0006]Badge de Hanako[E4][NULL][NULL][0002], hein ? J-Je\nvais montrer ça à tous ces incrédules tout de suite !",
+   "brut_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NULL][NULL][U+0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout[1205][U+000F] de suite!",
    "brut_en": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][U+0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
    "data_size": 308,
    "budget": 300
@@ -2250,7 +2301,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "En remerciement, 5 Thés Brink !"
+       "t": "En remerciement, 5 Thés Brink!"
       }
      ]
     }
@@ -2267,7 +2318,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En remerciement, 5 [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002] !",
+   "brut_fr": "En remerciement, 5 [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!",
    "brut_en": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
    "data_size": 136,
    "budget": 128
@@ -2281,19 +2332,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Arrrgh ! Personne me croit même quand"
+       "t": "Arrrgh! Personne me croit même quand je montre"
       },
       {
        "nl": true
       },
       {
-       "t": "je montre le badge de Hanako !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Dites-leur, senpai !"
+       "t": "le badge de Hanako! Dites-leur, senpai!"
       }
      ]
     }
@@ -2316,7 +2361,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Arrrgh ! Personne me croit même quand\nje montre le badge de Hanako !\nDites-leur, senpai !",
+   "brut_fr": "Arrrgh! Personne me croit même quand je montre\nle badge de Hanako! Dites-leur, senpai!",
    "brut_en": "Arrrgh![SP]No[SP]one[SP]believes[SP]me[SP]even[SP]when[SP]I[SP]show\nthem[SP]Hanako's[SP]nametag![SP]Tell[SP]them,[SP]Senpai!",
    "data_size": 224,
    "budget": 216
@@ -2330,19 +2375,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Arrrgh ! Personne me croit même quand"
+       "t": "Arrrgh! Personne me croit même quand je montre"
       },
       {
        "nl": true
       },
       {
-       "t": "je montre le badge de Hanako !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Dites-leur, senpai !"
+       "t": "le badge de Hanako! Dites-leur, senpai!"
       }
      ]
     }
@@ -2365,7 +2404,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Arrrgh ! Personne me croit même quand\nje montre le badge de Hanako !\nDites-leur, senpai !",
+   "brut_fr": "Arrrgh! Personne me croit même quand je montre\nle badge de Hanako! Dites-leur, senpai!",
    "brut_en": "Arrrgh![SP]No[SP]one[SP]believes[SP]me[SP]even[SP]when[SP]I[SP]show\nthem[SP]Hanako's[SP]nametag![SP]Tell[SP]them,[SP]Senpai!",
    "data_size": 206,
    "budget": 198
@@ -2385,13 +2424,13 @@
        "nl": true
       },
       {
-       "t": "Hanako existe quand même !"
+       "t": "Hanako existe quand même! Arrrrgh..."
       },
       {
        "nl": true
       },
       {
-       "t": "Arrrrgh... Pourquoi personne me croit !?"
+       "t": "Pourquoi personne me croit!?"
       }
      ]
     }
@@ -2420,7 +2459,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Même si les emblèmes sont détruits,\nHanako existe quand même !\nArrrrgh... Pourquoi personne me croit !?",
+   "brut_fr": "Même si les emblèmes sont détruits,\nHanako existe quand même! Arrrrgh...\nPourquoi personne me croit!?",
    "brut_en": "Even[SP]if[SP]the[SP]emblem[SP]curse[SP]is[SP]lifted,[SP]Hanako\nshould[SP]still[SP]exist![SP]Arrrrgh...[SP]Why[SP]won't\nanyone[SP]believe[SP]me!?",
    "data_size": 242,
    "budget": 234
@@ -2434,13 +2473,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce gars me fait rire. Vous savez quoi ?"
+       "t": "Ce gars me fait rire. Vous savez quoi?"
       },
       {
        "nl": true
       },
       {
-       "t": "Il dit qu'il a vu Hanako aux toilettes !"
+       "t": "Il dit qu'il a vu Hanako aux toilettes!"
       },
       {
        "nl": true
@@ -2475,7 +2514,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce gars me fait rire. Vous savez quoi ?\nIl dit qu'il a vu Hanako aux toilettes !\nAllez, on n'est plus en primaire.",
+   "brut_fr": "Ce gars me fait rire. Vous savez quoi?\nIl dit qu'il a vu Hanako aux toilettes!\nAllez, on n'est plus en primaire.",
    "brut_en": "That[SP]guy[SP]cracks[SP]me[SP]up.[SP]Get[SP]this--he[SP]says[SP]he\nsaw[SP]Hanako[SP]in[SP]the[SP]bathroom![SP]C'mon,[SP]we're[SP]not\ngrade-schoolers[SP]anymore.",
    "data_size": 284,
    "budget": 276
@@ -2489,13 +2528,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce gars me fait rire. Vous savez quoi ?"
+       "t": "Ce gars me fait rire. Vous savez quoi?"
       },
       {
        "nl": true
       },
       {
-       "t": "Il dit qu'il a vu Hanako aux toilettes !"
+       "t": "Il dit qu'il a vu Hanako aux toilettes!"
       },
       {
        "nl": true
@@ -2530,7 +2569,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce gars me fait rire. Vous savez quoi ?\nIl dit qu'il a vu Hanako aux toilettes !\nAllez, on n'est plus en primaire.",
+   "brut_fr": "Ce gars me fait rire. Vous savez quoi?\nIl dit qu'il a vu Hanako aux toilettes!\nAllez, on n'est plus en primaire.",
    "brut_en": "That[SP]guy[SP]cracks[SP]me[SP]up.[SP]Get[SP]this--he[SP]says[SP]he\nsaw[SP]Hanako[SP]in[SP]the[SP]bathroom![SP]C'mon,[SP]we're[SP]not\ngrade-schoolers[SP]anymore.",
    "data_size": 266,
    "budget": 258
@@ -2544,13 +2583,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce gars est comique. Il montre à tout"
+       "t": "Ce gars est comique. Il montre à tout le"
       },
       {
        "nl": true
       },
       {
-       "t": "le monde un badge d'école primaire qui dit"
+       "t": "monde un badge d'école primaire qui dit"
       },
       {
        "nl": true
@@ -2591,7 +2630,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce gars est comique. Il montre à tout\nle monde un badge d'école primaire qui dit\n[1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014] en insistant que c'est la preuve.",
+   "brut_fr": "Ce gars est comique. Il montre à tout le\nmonde un badge d'école primaire qui dit\n[1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014] en insistant que c'est la preuve.",
    "brut_en": "That[SP]guy's[SP]a[SP]riot.[SP]He's[SP]showing[SP]everyone[SP]an\nelementary[SP]school[SP]nametag[SP]that[SP]says[SP][1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014]\nand[SP]insisting[SP]it's[SP]proof[SP]that[SP]she[SP]exists.",
    "data_size": 330,
    "budget": 322
@@ -2605,16 +2644,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce gars est vraiment comique. Il montre à tout"
+       "t": "Ce gars est vraiment comique. Il montre à"
       },
       {
        "nl": true
       },
       {
-       "t": "le monde un badge d'école primaire qui dit"
+       "t": "tout le monde un badge d'école primaire qui"
       },
       {
        "nl": true
+      },
+      {
+       "t": "dit"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
       },
       {
        "enc": "Hanako"
@@ -2652,7 +2700,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce gars est vraiment comique. Il montre à tout\nle monde un badge d'école primaire qui dit\n[1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014] en insistant que c'est la preuve.",
+   "brut_fr": "Ce gars est vraiment comique. Il montre à\ntout le monde un badge d'école primaire qui\ndit[1205][U+000F] [1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014] en insistant que c'est la preuve.",
    "brut_en": "That[SP]guy's[SP]a[SP]riot.[SP]He's[SP]showing[SP]everyone[SP]an\nelementary[SP]school[SP]nametag[SP]that[SP]says[SP][1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014]\nand[SP]insisting[SP]it's[SP]proof[SP]that[SP]she[SP]exists.",
    "data_size": 312,
    "budget": 304
@@ -2666,19 +2714,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci pour ton aide. Tous les emblèmes"
+       "t": "Merci pour ton aide. Tous les emblèmes de"
       },
       {
        "nl": true
       },
       {
-       "t": "de cette salle devraient être détruits."
+       "t": "cette salle devraient être détruits."
       },
       {
        "nl": true
       },
       {
-       "t": "J'espère que ça mettra fin à cette folie..."
+       "t": "J'espère que ça mettra fin à cette "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " folie..."
       }
      ]
     }
@@ -2707,7 +2761,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci pour ton aide. Tous les emblèmes\nde cette salle devraient être détruits.\nJ'espère que ça mettra fin à cette folie...",
+   "brut_fr": "Merci pour ton aide. Tous les emblèmes de\ncette salle devraient être détruits.\nJ'espère que ça mettra fin à cette [1205][U+000F] folie...",
    "brut_en": "Thanks[SP]for[SP]your[SP]help.[SP]All[SP]the[SP]emblems[SP]in[SP]this\nclassroom[SP]should[SP]be[SP]destroyed.[SP]I[SP]hope[SP]that\nputs[SP]an[SP]end[SP]to[SP]this[SP]madness...",
    "data_size": 274,
    "budget": 266
@@ -2721,28 +2775,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour autant que je sache, cet emblème"
+       "t": "Pour autant que je sache, cet emblème est"
       },
       {
        "nl": true
       },
       {
-       "t": "est le dernier..."
+       "t": "le dernier..."
       },
       {
        "pause": true
       },
       {
-       "t": " Oh, attendez, non !"
+       "t": " Oh, attendez, non!"
       },
       {
        "pause": true
+      },
+      {
+       "t": " Il y a des"
       },
       {
        "nl": true
       },
       {
-       "t": "Il y a des emblèmes dans la salle des profs aussi !"
+       "t": "emblèmes dans la salle des profs aussi!"
       }
      ]
     }
@@ -2783,7 +2840,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour autant que je sache, cet emblème\nest le dernier...[1205][U+000F] Oh, attendez, non ![1205][U+000F]\nIl y a des emblèmes dans la salle des profs aussi !",
+   "brut_fr": "Pour autant que je sache, cet emblème est\nle dernier...[1205][U+000F] Oh, attendez, non![1205][U+000F] Il y a des\nemblèmes dans la salle des profs aussi!",
    "brut_en": "As[SP]far[SP]as[SP]I[SP]know,[SP]the[SP]emblem[SP]here[SP]is[SP]the[SP]last\none...[1205][U+000F][SP]Oh,[SP]wait,[SP]no[SP]it[SP]wasn't![1205][U+000F][SP]There's\nsome[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge[SP]too!",
    "data_size": 296,
    "budget": 288
@@ -2797,16 +2854,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Laisse-nous le nettoyage et occupe-toi"
+       "t": "Laisse-nous le nettoyage et occupe-toi des"
       },
       {
        "nl": true
       },
       {
-       "t": "des emblèmes dans la salle des profs,"
-      },
-      {
-       "nl": true
+       "t": "emblèmes dans la salle des profs, "
       },
       {
        "hero": "nom"
@@ -2844,7 +2898,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Laisse-nous le nettoyage et occupe-toi\ndes emblèmes dans la salle des profs,\n[1112]-senpai.",
+   "brut_fr": "Laisse-nous le nettoyage et occupe-toi des\nemblèmes dans la salle des profs, [1112]-senpai.",
    "brut_en": "Leave[SP]the[SP]cleanup[SP]to[SP]us[SP]and[SP]go[SP]deal[SP]with\nthe[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge,\n[1112]-senpai.",
    "data_size": 210,
    "budget": 202
@@ -2870,25 +2924,31 @@
        "nl": true
       },
       {
-       "t": "Maintenant va t'occuper des autres !> Ce sont les restes d'une horloge qui"
+       "t": "Maintenant va t'occuper des autres!> Ce"
       },
       {
        "nl": true
       },
       {
-       "t": "était au mur..."
+       "t": "sont les restes d'une horloge qui"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " était"
       },
       {
        "nl": true
       },
       {
-       "t": "> Il y a une horloge au mur avec"
+       "t": "au mur... > Il y a une horloge au mur"
       },
       {
        "nl": true
       },
       {
-       "t": "l'emblème de l'école dessus."
+       "t": "avec l'emblème de l'école dessus."
       }
      ]
     }
@@ -2935,7 +2995,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu as détruit celui-là, [1112]-senpai.\nMaintenant va t'occuper des autres ![E1][E2][E3]> Ce sont les restes d'une horloge qui\nétait au mur...\n[E1][E2][E3]> Il y a une horloge au mur avec\nl'emblème de l'école dessus.",
+   "brut_fr": "Tu as détruit celui-là, [1112]-senpai.\nMaintenant va t'occuper des autres![E1][E2][E3]> Ce\nsont les restes d'une horloge qui[1205][U+000F] était\nau mur... [E1][E2][E3]> Il y a une horloge au mur\navec l'emblème de l'école dessus.",
    "brut_en": "You[SP]destroyed[SP]that[SP]one,[SP][1112]-senpai.\nNow[SP]go[SP]and[SP]take[SP]care[SP]of[SP]the[SP]others![E1][E2][E3]>[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n[E1][E2][E3]>[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.",
    "data_size": 430,
    "budget": 422
@@ -2955,16 +3015,19 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Si tu la trouves, avertis-moi !"
+       "t": " Si tu la"
       },
       {
        "nl": true
       },
       {
-       "t": "Bien, veuillez m'excuser !"
+       "t": "trouves, avertis-moi! Bien, veuillez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "m'excuser!"
       }
      ]
     }
@@ -2999,7 +3062,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je pars chercher la grande sœur.[1205][001E]\nSi tu la trouves, avertis-moi !\nBien, veuillez m'excuser !",
+   "brut_fr": "Je pars chercher la grande sœur.[1205][001E] Si tu la\ntrouves, avertis-moi! Bien, veuillez\nm'excuser!",
    "brut_en": "I'm[SP]about[SP]to[SP]go[SP]look[SP]for[SP]Sister.[1205][001E][SP]If[SP]you[SP]find\nher,[SP]let[SP]me[SP]know[SP]at[SP]once![SP]Alright[SP]then,[SP]please\nexcuse[SP]me!",
    "data_size": 232,
    "budget": 224

@@ -10,19 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis vraiment troublé. Ça ressemble exactement"
+       "t": "Je suis vraiment troublé. Ça ressemble"
       },
       {
        "nl": true
       },
       {
-       "t": "au sanctuaire de mes rêves. C'est un vrai"
+       "t": "exactement au sanctuaire de mes rêves."
       },
       {
        "nl": true
       },
       {
-       "t": "cas de déjà-vu."
+       "t": "C'est un vrai"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " cas de déjà-vu."
       }
      ]
     }
@@ -51,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis vraiment troublé. Ça ressemble exactement\nau sanctuaire de mes rêves. C'est un vrai\ncas de déjà-vu.",
+   "brut_fr": "Je suis vraiment troublé. Ça ressemble\nexactement au sanctuaire de mes rêves.\nC'est un vrai[1205][U+000F] cas de déjà-vu.",
    "brut_en": "I'm[SP]officially[SP]baffled[SP]now.[SP]This[SP]looks[SP]exactly\nlike[SP]the[SP]shrine[SP]I[SP]see[SP]in[SP]my[SP]dreams.[SP]It's[SP]like\na[SP]bad[SP]case[SP]of[SP]deja[SP]vu.",
    "data_size": 256,
    "budget": 248
@@ -65,25 +71,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein ? Cet arbre aussi est le même..."
+       "t": "Hein? Cet arbre aussi est le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "même..."
       },
       {
        "pause": true
       },
       {
-       "t": " C'est bizarre."
+       "t": " C'est bizarre. Tout ici est"
       },
       {
        "nl": true
       },
       {
-       "t": "Tout ici est exactement comme"
+       "t": "exactement comme"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "dans mon rêve..."
+       "t": " dans mon rêve..."
       }
      ]
     }
@@ -118,7 +130,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein ? Cet arbre aussi est le même...[1205][001E] C'est bizarre.\nTout ici est exactement comme\ndans mon rêve...",
+   "brut_fr": "Hein? Cet arbre aussi est le\nmême...[1205][001E] C'est bizarre. Tout ici est\nexactement comme[1205][U+000F] dans mon rêve...",
    "brut_en": "Huh?[SP]This[SP]is[SP]the[SP]same[SP]tree,[SP]too...[1205][001E][SP]So[SP]weird.\nEverything[SP]about[SP]this[SP]place[SP]is[SP]just[SP]like[SP]it\nis[SP]in[SP]my[SP]dream...",
    "data_size": 242,
    "budget": 234
@@ -138,22 +150,25 @@
        "pause": true
       },
       {
-       "t": " Que fait-il là ?"
+       "t": " Que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fait-il là?"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Ou... est-ce que je connaissais"
+       "t": " Ou... est-ce que je"
       },
       {
        "nl": true
       },
       {
-       "t": "déjà ce sanctuaire ?"
+       "t": "connaissais déjà ce sanctuaire?"
       }
      ]
     }
@@ -191,7 +206,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le sanctuaire de mon rêve...[1205][U+000F] Que fait-il là ?[1205][U+000F]\nOu... est-ce que je connaissais\ndéjà ce sanctuaire ?",
+   "brut_fr": "Le sanctuaire de mon rêve...[1205][U+000F] Que\nfait-il là?[1205][U+000F] Ou... est-ce que je\nconnaissais déjà ce sanctuaire?",
    "brut_en": "The[SP]shrine[SP]from[SP]my[SP]dream...[1205][U+000F][SP]Why's[SP]it[SP]here?[1205][U+000F]\nOr,[SP]better[SP]question:[SP]Did[SP]I[SP]somehow[SP]know\nabout[SP]this[SP]shrine?",
    "data_size": 236,
    "budget": 228
@@ -217,22 +232,25 @@
        "pause": true
       },
       {
-       "t": " Même cette vieille"
+       "t": " Même cette"
       },
       {
        "nl": true
       },
       {
-       "t": "dame est celle que j'ai vue en rêve..."
+       "t": "vieille dame est celle que j'ai vue en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rêve..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Q-Qu'est-ce qui m'arrive ?"
+       "t": " Q-Qu'est-ce qui m'arrive?"
       }
      ]
     }
@@ -276,7 +294,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Haha...[1205][U+000A] C'est impossible...[1205][U+000F] Même cette vieille\ndame est celle que j'ai vue en rêve...[1205][U+000F]\nQ-Qu'est-ce qui m'arrive ?",
+   "brut_fr": "Haha...[1205][U+000A] C'est impossible...[1205][U+000F] Même cette\nvieille dame est celle que j'ai vue en\nrêve...[1205][U+000F] Q-Qu'est-ce qui m'arrive?",
    "brut_en": "Haha...[1205][U+000A][SP]This[SP]can't[SP]be[SP]right...[1205][U+000F][SP]Even[SP]that[SP]old\nlady[SP]is[SP]the[SP]same[SP]person[SP]I[SP]saw[SP]in[SP]my[SP]dreams...[1205][U+000F]\nWh-What's[SP]happening[SP]to[SP]me?",
    "data_size": 272,
    "budget": 264
@@ -290,19 +308,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est vrai !"
+       "t": "C'est vrai!"
       },
       {
        "pause": true
       },
       {
-       "t": " On avait une base secrète !"
+       "t": " On avait une base"
       },
       {
        "nl": true
       },
       {
-       "t": "Je m'en souviens maintenant."
+       "t": "secrète! Je m'en souviens maintenant."
       }
      ]
     }
@@ -331,7 +349,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est vrai ![1205][U+000F] On avait une base secrète !\nJe m'en souviens maintenant.",
+   "brut_fr": "C'est vrai![1205][U+000F] On avait une base\nsecrète! Je m'en souviens maintenant.",
    "brut_en": "That's[SP]right![1205][U+000F][SP]We[SP]did[SP]have[SP]a[SP]secret[SP]base!\nI[SP]can[SP]clearly[SP]remember[SP]it[SP]now.",
    "data_size": 172,
    "budget": 164
@@ -345,22 +363,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je me sens mal pour ce qu'on lui a fait."
+       "t": "Je me sens mal pour ce qu'on lui a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fait."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Si on avait agi plus tôt, elle ne se"
+       "t": " Si on avait agi plus tôt, elle"
       },
       {
        "nl": true
       },
       {
-       "t": "serait pas dans cet état..."
+       "t": "ne se serait pas dans cet état..."
       }
      ]
     }
@@ -392,7 +413,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me sens mal pour ce qu'on lui a fait.[1205][U+000F]\nSi on avait agi plus tôt, elle ne se\nserait pas dans cet état...",
+   "brut_fr": "Je me sens mal pour ce qu'on lui a\nfait.[1205][U+000F] Si on avait agi plus tôt, elle\nne se serait pas dans cet état...",
    "brut_en": "I[SP]feel[SP]bad[SP]about[SP]what[SP]we[SP]did[SP]to[SP]that[SP]girl.[1205][U+000F]\nIf[SP]we'd[SP]done[SP]this[SP]sooner,[SP]she[SP]wouldn't[SP]have\nended[SP]up[SP]in[SP]this[SP]state...",
    "data_size": 254,
    "budget": 246
@@ -412,13 +433,10 @@
        "pause": true
       },
       {
-       "t": " C'est ennuyeux."
-      },
-      {
        "nl": true
       },
       {
-       "t": "Rentre vite à Seven."
+       "t": "C'est ennuyeux. Rentre vite à Seven."
       }
      ]
     }
@@ -447,7 +465,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Fanna... Cet endroit me déplaît.[1205][001E] C'est ennuyeux.\nRentre vite à Seven.",
+   "brut_fr": "Fanna... Cet endroit me déplaît.[1205][001E]\nC'est ennuyeux. Rentre vite à Seven.",
    "brut_en": "Fanna...[SP]I[SP]don't[SP]like[SP]it[SP]here.[1205][001E][SP]It's[SP]boring.\nLet's[SP]hurry[SP]back[SP]to[SP]Sevens.",
    "data_size": 166,
    "budget": 158
@@ -467,13 +485,10 @@
        "pause": true
       },
       {
-       "t": " C'est ennuyeux."
-      },
-      {
        "nl": true
       },
       {
-       "t": "Rentre vite à Seven."
+       "t": "C'est ennuyeux. Rentre vite à Seven."
       }
      ]
     }
@@ -502,7 +517,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Fanna... Cet endroit me déplaît.[1205][001E] C'est ennuyeux.\nRentre vite à Seven.",
+   "brut_fr": "Fanna... Cet endroit me déplaît.[1205][001E]\nC'est ennuyeux. Rentre vite à Seven.",
    "brut_en": "Fanna...[SP]I[SP]don't[SP]like[SP]it[SP]here.[1205][001E][SP]It's[SP]boring.\nLet's[SP]hurry[SP]back[SP]to[SP]Sevens.",
    "data_size": 168,
    "budget": 160
@@ -522,16 +537,19 @@
        "pause": true
       },
       {
-       "t": " Je veux pas rester ici."
-      },
-      {
-       "pause": true
+       "t": " Je veux pas"
       },
       {
        "nl": true
       },
       {
-       "t": "On s'en va, Chinyan..."
+       "t": "rester ici."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On s'en va, Chinyan..."
       }
      ]
     }
@@ -563,7 +581,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Fanna, non... Non non...[1205][U+000A] Je veux pas rester ici.[1205][U+000F]\nOn s'en va, Chinyan...",
+   "brut_fr": "Fanna, non... Non non...[1205][U+000A] Je veux pas\nrester ici.[1205][U+000F] On s'en va, Chinyan...",
    "brut_en": "Fanna,[SP]no...[SP]Nuh-uh...[1205][U+000A][SP]I[SP]don't[SP]wanna[SP]be[SP]here.[1205][U+000F]\nLet's[SP]ditch[SP]this[SP]place,[SP]Chinyan...",
    "data_size": 190,
    "budget": 182
@@ -626,13 +644,13 @@
        "pause": true
       },
       {
-       "t": " Oh, pardon-ia ! Je parlais"
+       "t": " Oh, pardon-ia! Je"
       },
       {
        "nl": true
       },
       {
-       "t": "toute seule, haha..."
+       "t": "parlais toute seule, haha..."
       }
      ]
     }
@@ -661,7 +679,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "......![1205][U+000F] Oh, pardon-ia ! Je parlais\ntoute seule, haha...",
+   "brut_fr": "......![1205][U+000F] Oh, pardon-ia! Je\nparlais toute seule, haha...",
    "brut_en": "......![1205][U+000F][SP]Oh,[SP]sorry-ia![SP]I[SP]was[SP]just[SP]talking\nto[SP]myself,[SP]haha...",
    "data_size": 144,
    "budget": 136
@@ -681,22 +699,19 @@
        "pause": true
       },
       {
+       "t": " J'ai"
+      },
+      {
        "nl": true
       },
       {
-       "t": "J'ai peur, "
+       "t": "peur, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": ". Je veux pas"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "rester ici !"
+       "t": ". Je veux pas rester ici!"
       }
      ]
     }
@@ -734,7 +749,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un incendie... il y a dix ans ici...[1205][U+000F]\nJ'ai peur, [1113]. Je veux pas\nrester ici !",
+   "brut_fr": "Un incendie... il y a dix ans ici...[1205][U+000F] J'ai\npeur, [1113]. Je veux pas rester ici!",
    "brut_en": "A[SP]fire...[SP]ten[SP]years[SP]ago[SP]here,[SP]too...[1205][U+000F]\nI'm[SP]scared,[SP][1113].[SP]I[SP]don't[SP]want[SP]to\nbe[SP]here!",
    "data_size": 178,
    "budget": 170
@@ -748,7 +763,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a dix ans... Tu t'en souviens ?"
+       "t": "Il y a dix ans... Tu t'en souviens?"
       },
       {
        "pause": true
@@ -807,7 +822,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a dix ans... Tu t'en souviens ?[1205][U+000F]\nC'est réel...[1205][U+000F] J'ai peur, [1113]...",
+   "brut_fr": "Il y a dix ans... Tu t'en souviens?[1205][U+000F]\nC'est réel...[1205][U+000F] J'ai peur, [1113]...",
    "brut_en": "That[SP]summer[SP]ten[SP]years[SP]ago...[SP]Remember...?[1205][U+000F]\nIt's[SP]real...[1205][U+000F][SP]I'm[SP]scared,[SP][1113]...",
    "data_size": 172,
    "budget": 164
@@ -821,25 +836,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu te rappelles la base secrète, "
+       "t": "Tu te rappelles la base secrète,"
+      },
+      {
+       "nl": true
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " ?"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Derrière ce sanctuaire..."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Mt. Iwato..."
+       "t": "? Derrière ce sanctuaire..."
       },
       {
        "pause": true
@@ -848,7 +854,13 @@
        "nl": true
       },
       {
-       "t": "Notre QG secret..."
+       "t": "Mt. Iwato..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Notre QG secret..."
       }
      ]
     }
@@ -892,7 +904,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu te rappelles la base secrète, [1113] ?\nDerrière ce sanctuaire...[1205][U+000F] Mt. Iwato...[1205][U+000F]\nNotre QG secret...",
+   "brut_fr": "Tu te rappelles la base secrète,\n[1113]? Derrière ce sanctuaire...[1205][U+000F]\nMt. Iwato...[1205][U+000F] Notre QG secret...",
    "brut_en": "Do[SP]you[SP]remember[SP]the[SP]secret[SP]base,[SP][1113]?\nThe[SP]one[SP]behind[SP]this[SP]shrine...[1205][U+000F][SP]Mt.[SP]Iwato...[1205][U+000F]\nOur[SP]secret[SP]headquarters...",
    "data_size": 240,
    "budget": 232
@@ -915,7 +927,7 @@
        "hero": "prenom"
       },
       {
-       "t": " tout ce temps..."
+       "t": "tout ce temps..."
       },
       {
        "pause": true
@@ -956,7 +968,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cette pauvre fille... Elle attendait\n[1113] tout ce temps...[1205][U+000F] Toute seule...",
+   "brut_fr": "Cette pauvre fille... Elle attendait\n[1113]tout ce temps...[1205][U+000F] Toute seule...",
    "brut_en": "That[SP]poor[SP]girl...[SP]She[SP]must[SP]have[SP]been[SP]waiting\nfor[SP][1113][SP]all[SP]this[SP]time...[1205][U+000F][SP]All[SP]alone...",
    "data_size": 186,
    "budget": 178
@@ -1037,13 +1049,13 @@
        "pause": true
       },
       {
-       "t": " C'est juste"
+       "t": " C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "une douleur passagère."
+       "t": "juste une douleur passagère."
       }
      ]
     }
@@ -1072,7 +1084,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh, ça va. Ça va passer...[1205][001E] C'est juste\nune douleur passagère.",
+   "brut_fr": "Oh, ça va. Ça va passer...[1205][001E] C'est\njuste une douleur passagère.",
    "brut_en": "Oh,[SP]I'm[SP]okay.[SP]It'll[SP]go[SP]away[SP]soon...[1205][001E][SP]It[SP]just\nflares[SP]up[SP]from[SP]time[SP]to[SP]time.",
    "data_size": 168,
    "budget": 160
@@ -1098,25 +1110,22 @@
        "pause": true
       },
       {
-       "t": " C'est quoi"
-      },
-      {
        "nl": true
       },
       {
-       "t": "donc ?"
+       "t": "C'est quoi donc?"
       },
       {
        "pause": true
       },
       {
-       "t": " J'ai l'impression d'avoir entendu"
+       "t": " J'ai l'impression"
       },
       {
        "nl": true
       },
       {
-       "t": "ce nom quelque part..."
+       "t": "d'avoir entendu ce nom quelque part..."
       }
      ]
     }
@@ -1163,7 +1172,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cercle masqué...[1205][U+000F] Cercle masqué...[1205][U+000F] C'est quoi\ndonc ?[1205][U+000F] J'ai l'impression d'avoir entendu\nce nom quelque part...",
+   "brut_fr": "Cercle masqué...[1205][U+000F] Cercle masqué...[1205][U+000F]\nC'est quoi donc?[1205][U+000F] J'ai l'impression\nd'avoir entendu ce nom quelque part...",
    "brut_en": "Masked[SP]Circle...[1205][U+000F][SP]Masked[SP]Circle...[1205][U+000F][SP]What[SP]could\nit[SP]be?[1205][U+000F][SP]I[SP]feel[SP]like[SP]I've[SP]heard[SP]that[SP]name[SP]before,\na[SP]long[SP]time[SP]ago...",
    "data_size": 254,
    "budget": 246
@@ -1177,16 +1186,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai... prié ici autrefois pour quelque chose..."
-      },
-      {
-       "pause": true
+       "t": "J'ai... prié ici autrefois pour quelque"
       },
       {
        "nl": true
       },
       {
-       "t": "On m'a dit que ça se réaliserait..."
+       "t": "chose..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On m'a dit que ça se réaliserait..."
       },
       {
        "pause": true
@@ -1245,7 +1257,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai... prié ici autrefois pour quelque chose...[1205][U+000F]\nOn m'a dit que ça se réaliserait...[1205][U+000F]\nJ'ai rencontré quelqu'un ici.[1205][U+000F] D'important...",
+   "brut_fr": "J'ai... prié ici autrefois pour quelque\nchose...[1205][U+000F] On m'a dit que ça se réaliserait...[1205][U+000F]\nJ'ai rencontré quelqu'un ici.[1205][U+000F] D'important...",
    "brut_en": "I...[SP]prayed[SP]for[SP]something[SP]here[SP]once...[1205][U+000F][SP]And\nsomeone[SP]told[SP]me[SP]it[SP]would[SP]easily[SP]come[SP]true...[1205][U+000F]\nYes,[SP]I[SP]met[SP]someone[SP]here.[1205][U+000F][SP]Someone[SP]important...",
    "data_size": 298,
    "budget": 290
@@ -1265,16 +1277,19 @@
        "nl": true
       },
       {
-       "t": "tes souvenirs, ils brillent dans le miroir."
-      },
-      {
-       "pause": true
+       "t": "tes souvenirs, ils brillent dans le"
       },
       {
        "nl": true
       },
       {
-       "t": "On ne peut pas fuir ses péchés."
+       "t": "miroir."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On ne peut pas fuir ses péchés."
       }
      ]
     }
@@ -1306,7 +1321,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Peu importe tes efforts pour sceller\ntes souvenirs, ils brillent dans le miroir.[1205][U+000F]\nOn ne peut pas fuir ses péchés.",
+   "brut_fr": "Peu importe tes efforts pour sceller\ntes souvenirs, ils brillent dans le\nmiroir.[1205][U+000F] On ne peut pas fuir ses péchés.",
    "brut_en": "No[SP]matter[SP]how[SP]much[SP]you[SP]try[SP]to[SP]seal[SP]off[SP]your\nmemories,[SP]they[SP]shine[SP]clearly[SP]in[SP]the[SP]mirror.[1205][U+000F]\nYou[SP]can't[SP]escape[SP]your[SP]sins.",
    "data_size": 254,
    "budget": 246
@@ -1320,19 +1335,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Suis-je réelle ?"
+       "t": "Suis-je réelle?"
       },
       {
        "pause": true
       },
       {
-       "t": " C'est peut-être moi qui"
+       "t": " C'est peut-être moi"
       },
       {
        "nl": true
       },
       {
-       "t": "suis née d'une rumeur, non ?"
+       "t": "qui suis née d'une rumeur, non?"
       }
      ]
     }
@@ -1361,7 +1376,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Suis-je réelle ?[1205][U+000F] C'est peut-être moi qui\nsuis née d'une rumeur, non ?",
+   "brut_fr": "Suis-je réelle?[1205][U+000F] C'est peut-être moi\nqui suis née d'une rumeur, non?",
    "brut_en": "Am[SP]I...[SP]real...?[1205][U+000F][SP]It[SP]could[SP]be[SP]me[SP]who[SP]was[SP]born\nfrom[SP]a[SP]rumor,[SP]couldn't[SP]it?",
    "data_size": 166,
    "budget": 158
@@ -1381,19 +1396,19 @@
        "pause": true
       },
       {
-       "t": " Petit monde ! Un sanctuaire Alaya"
+       "t": " Petit monde! Un sanctuaire"
       },
       {
        "nl": true
       },
       {
-       "t": "à Mikage-cho aussi. C'est là"
+       "t": "Alaya à Mikage-cho aussi. C'est"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'on a rencontré Philémon."
+       "t": "là qu'on a rencontré Philémon."
       }
      ]
     }
@@ -1428,7 +1443,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh![1205][001E] Petit monde ! Un sanctuaire Alaya\nà Mikage-cho aussi. C'est là\nqu'on a rencontré Philémon.",
+   "brut_fr": "Oh![1205][001E] Petit monde! Un sanctuaire\nAlaya à Mikage-cho aussi. C'est\nlà qu'on a rencontré Philémon.",
    "brut_en": "Wow...[1205][001E][SP]Small[SP]world.[SP]There[SP]was[SP]an[SP]Alaya[SP]Shrine\nback[SP]in[SP]Mikage-cho,[SP]too.[SP]That's[SP]where[SP]we[SP]met\nPhilemon.",
    "data_size": 228,
    "budget": 220
@@ -1442,7 +1457,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Derrière le sanctuaire, hein ?"
+       "t": "Derrière le sanctuaire, hein?"
       },
       {
        "pause": true
@@ -1454,13 +1469,13 @@
        "nl": true
       },
       {
-       "t": "l'entrée de ton âme était derrière"
+       "t": "l'entrée de ton âme était derrière le"
       },
       {
        "nl": true
       },
       {
-       "t": "le sanctuaire Alaya."
+       "t": "sanctuaire Alaya."
       },
       {
        "pause": true
@@ -1507,7 +1522,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Derrière le sanctuaire, hein ?[1205][U+000F] À Mikage-cho,\nl'entrée de ton âme était derrière\nle sanctuaire Alaya.[1205][U+000F] Mais c'était si loin...",
+   "brut_fr": "Derrière le sanctuaire, hein?[1205][U+000F] À Mikage-cho,\nl'entrée de ton âme était derrière le\nsanctuaire Alaya.[1205][U+000F] Mais c'était si loin...",
    "brut_en": "Behind[SP]the[SP]shrine,[SP]huh...?[1205][U+000F][SP]In[SP]Mikage-cho,\nthe[SP]entrance[SP]to[SP]your[SP]soul[SP]was[SP]behind[SP]the\nAlaya[SP]Shrine.[1205][U+000F][SP]But[SP]that[SP]was[SP]a[SP]long[SP]time[SP]ago...",
    "data_size": 288,
    "budget": 280
@@ -1521,19 +1536,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous avez tous l'air ailleurs"
+       "t": "Vous avez tous l'air ailleurs quand on vient"
       },
       {
        "nl": true
       },
       {
-       "t": "quand on vient ici, comme perdus."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Qu'est-ce qui se passe ?"
+       "t": "ici, comme perdus. Qu'est-ce qui se passe?"
       }
      ]
     }
@@ -1562,7 +1571,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous avez tous l'air ailleurs\nquand on vient ici, comme perdus.\nQu'est-ce qui se passe ?",
+   "brut_fr": "Vous avez tous l'air ailleurs quand on vient\nici, comme perdus. Qu'est-ce qui se passe?",
    "brut_en": "You[SP]all[SP]get[SP]so[SP]stone-faced[SP]whenever[SP]we[SP]come\nhere,[SP]like[SP]you're[SP]lost[SP]in[SP]thought.[SP]What's\nthe[SP]deal?",
    "data_size": 214,
    "budget": 206
@@ -1576,19 +1585,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous vous connaissez depuis dix ans ?"
+       "t": "Vous vous connaissez depuis dix ans?"
       },
       {
        "nl": true
       },
       {
-       "t": "E-Eh bien, c'est une surprise. Aucun de vous"
+       "t": "E-Eh bien, c'est une surprise. Aucun"
       },
       {
        "nl": true
       },
       {
-       "t": "n'en avait parlé jusque-là."
+       "t": "de vous"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " n'en avait parlé jusque-là."
       }
      ]
     }
@@ -1617,7 +1632,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous vous connaissez depuis dix ans ?\nE-Eh bien, c'est une surprise. Aucun de vous\nn'en avait parlé jusque-là.",
+   "brut_fr": "Vous vous connaissez depuis dix ans?\nE-Eh bien, c'est une surprise. Aucun\nde vous[1205][U+000F] n'en avait parlé jusque-là.",
    "brut_en": "So[SP]you[SP]guys[SP]have[SP]known[SP]each[SP]other[SP]for[SP]ten\nyears?[SP]W-Well,[SP]that's[SP]a[SP]surprise.[SP]None[SP]of\nyou[SP]ever[SP]mentioned[SP]that[SP]before[SP]now.",
    "data_size": 262,
    "budget": 254
@@ -1637,13 +1652,13 @@
        "nl": true
       },
       {
-       "t": "laissé Fujii-san aller en montagne !"
+       "t": "laissé Fujii-san aller en montagne!"
       },
       {
        "nl": true
       },
       {
-       "t": "Pourquoi est-il parti maintenant !?"
+       "t": "Pourquoi est-il parti maintenant!?"
       }
      ]
     }
@@ -1672,7 +1687,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ngh... Si j'avais su, je n'aurais jamais\nlaissé Fujii-san aller en montagne !\nPourquoi est-il parti maintenant !?",
+   "brut_fr": "Ngh... Si j'avais su, je n'aurais jamais\nlaissé Fujii-san aller en montagne!\nPourquoi est-il parti maintenant!?",
    "brut_en": "Ngh...[SP]If[SP]I[SP]knew[SP]this[SP]would[SP]happen,[SP]I'd[SP]never\nhave[SP]let[SP]Fujii-san[SP]go[SP]to[SP]the[SP]mountain![SP]Why[SP]did\nhe[SP]have[SP]to[SP]choose[SP]now[SP]to[SP]go!?",
    "data_size": 268,
    "budget": 260
@@ -1686,19 +1701,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce sanctuaire n'a que dix ans."
+       "t": "Ce sanctuaire n'a que dix ans. Il fut"
       },
       {
        "nl": true
       },
       {
-       "t": "Il fut reconstruit après qu'on y a mis le feu"
+       "t": "reconstruit après qu'on y a mis le"
       },
       {
        "nl": true
       },
       {
-       "t": "à l'ancien, réduit en cendres."
+       "t": "feu"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " à l'ancien, réduit en cendres."
       }
      ]
     }
@@ -1727,7 +1748,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce sanctuaire n'a que dix ans.\nIl fut reconstruit après qu'on y a mis le feu\nà l'ancien, réduit en cendres.",
+   "brut_fr": "Ce sanctuaire n'a que dix ans. Il fut\nreconstruit après qu'on y a mis le\nfeu[1205][U+000F] à l'ancien, réduit en cendres.",
    "brut_en": "This[SP]shrine[SP]is[SP]actually[SP]only[SP]ten[SP]years[SP]old.\nIt[SP]was[SP]rebuilt[SP]after[SP]someone[SP]set[SP]fire[SP]to[SP]the\nold[SP]shrine[SP]and[SP]it[SP]burned[SP]down.",
    "data_size": 266,
    "budget": 258
@@ -1741,13 +1762,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On n'a jamais attrapé le coupable"
+       "t": "On n'a jamais attrapé le coupable d'un"
       },
       {
        "nl": true
       },
       {
-       "t": "d'un tel sacrilège... Que le ciel l'aide..."
+       "t": "tel sacrilège... Que le ciel l'aide..."
       }
      ]
     }
@@ -1770,7 +1791,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On n'a jamais attrapé le coupable\nd'un tel sacrilège... Que le ciel l'aide...",
+   "brut_fr": "On n'a jamais attrapé le coupable d'un\ntel sacrilège... Que le ciel l'aide...",
    "brut_en": "They[SP]never[SP]caught[SP]whoever[SP]committed[SP]such[SP]a\nterrible[SP]blasphemy...[SP]Heaven[SP]help[SP]him...",
    "data_size": 194,
    "budget": 186
@@ -1784,19 +1805,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce sanctuaire n'a que dix ans."
+       "t": "Ce sanctuaire n'a que dix ans. Il fut"
       },
       {
        "nl": true
       },
       {
-       "t": "Il fut reconstruit après qu'on y a mis le feu"
+       "t": "reconstruit après qu'on y a mis le"
       },
       {
        "nl": true
       },
       {
-       "t": "à l'ancien, réduit en cendres."
+       "t": "feu"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " à l'ancien, réduit en cendres."
       }
      ]
     }
@@ -1825,7 +1852,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce sanctuaire n'a que dix ans.\nIl fut reconstruit après qu'on y a mis le feu\nà l'ancien, réduit en cendres.",
+   "brut_fr": "Ce sanctuaire n'a que dix ans. Il fut\nreconstruit après qu'on y a mis le\nfeu[1205][U+000F] à l'ancien, réduit en cendres.",
    "brut_en": "This[SP]shrine[SP]is[SP]actually[SP]only[SP]ten[SP]years[SP]old.\nIt[SP]was[SP]rebuilt[SP]after[SP]someone[SP]set[SP]fire[SP]to[SP]the\nold[SP]shrine[SP]and[SP]it[SP]burned[SP]down.",
    "data_size": 266,
    "budget": 258
@@ -1845,19 +1872,25 @@
        "pause": true
       },
       {
-       "t": " Au fait, savez-vous"
+       "t": " Au fait,"
       },
       {
        "nl": true
       },
       {
-       "t": "la rumeur du fantôme d'une fille"
+       "t": "savez-vous la rumeur du fantôme d'une"
       },
       {
        "nl": true
       },
       {
-       "t": "qui apparaît ici parfois ?"
+       "t": "fille"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " qui apparaît ici parfois?"
       }
      ]
     }
@@ -1892,7 +1925,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Terrible... Terrible...[1205][001E] Au fait, savez-vous\nla rumeur du fantôme d'une fille\nqui apparaît ici parfois ?",
+   "brut_fr": "Terrible... Terrible...[1205][001E] Au fait,\nsavez-vous la rumeur du fantôme d'une\nfille[1205][U+000F] qui apparaît ici parfois?",
    "brut_en": "Terrible...[SP]Terrible...[1205][001E][SP]By[SP]the[SP]way,[SP]do[SP]you\nknow[SP]the[SP]rumor[SP]that[SP]a[SP]girl's[SP]ghost[SP]appears\nhere[SP]from[SP]time[SP]to[SP]time?",
    "data_size": 250,
    "budget": 242
@@ -1912,7 +1945,7 @@
        "nl": true
       },
       {
-       "t": "qui apparaît ici parfois ?"
+       "t": "qui apparaît ici parfois?"
       }
      ]
     }
@@ -1936,6 +1969,7 @@
    "choix_fr": {
     "options": [
      "Oui.",
+     "[1205]",
      "Non."
     ],
     "question": [
@@ -1946,7 +1980,7 @@
       "nl": true
      },
      {
-      "t": "qui apparaît ici parfois ?"
+      "t": "qui apparaît ici parfois?"
      }
     ]
    },
@@ -1967,7 +2001,7 @@
      }
     ]
    },
-   "brut_fr": "Connaissez-vous la rumeur du fantôme\nqui apparaît ici parfois ?\n[1208][0002][1432][NULL][NULL][0014]Oui.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Non.[1432][NULL][NULL][0014]",
+   "brut_fr": "Connaissez-vous la rumeur du fantôme\nqui apparaît ici parfois?\n[1208][0002][1432][NULL][NULL][0014]Oui.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Non.[1432][NULL][NULL][0014]",
    "brut_en": "Do[SP]you[SP]know[SP]the[SP]rumor[SP]that[SP]a[SP]girl's[SP]ghost\nappears[SP]here[SP]from[SP]time[SP]to[SP]time?\n[1208][0002][1432][NULL][NULL][0014]I[SP]do.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]don't.[1432][NULL][NULL][0014]",
    "data_size": 242,
    "budget": 234
@@ -1981,19 +2015,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle est toujours seule... J'ai tellement"
+       "t": "Elle est toujours seule... J'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "pitié d'elle... Alors je viens la voir"
+       "t": "tellement pitié d'elle... Alors"
       },
       {
        "nl": true
       },
       {
-       "t": "tous les jours."
+       "t": "je viens la voir tous les jours."
       }
      ]
     }
@@ -2022,7 +2056,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle est toujours seule... J'ai tellement\npitié d'elle... Alors je viens la voir\ntous les jours.",
+   "brut_fr": "Elle est toujours seule... J'ai\ntellement pitié d'elle... Alors\nje viens la voir tous les jours.",
    "brut_en": "It[SP]seems[SP]she's[SP]always[SP]here[SP]alone...[SP]I[SP]feel\nso[SP]sorry[SP]for[SP]the[SP]poor[SP]dear...[SP]So[SP]I[SP]come[SP]here\nevery[SP]day[SP]to[SP]see[SP]her.",
    "data_size": 246,
    "budget": 238
@@ -2036,19 +2070,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il paraît qu'une fille était à l'intérieur quand"
+       "t": "Il paraît qu'une fille était à l'intérieur"
       },
       {
        "nl": true
       },
       {
-       "t": "le sanctuaire a brûlé. Elle joue ici après"
+       "t": "quand le sanctuaire a brûlé. Elle joue ici"
       },
       {
        "nl": true
       },
       {
-       "t": "dix ans... Seule, pour l'éternité..."
+       "t": "après"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " dix ans... Seule, pour l'éternité..."
       }
      ]
     }
@@ -2077,7 +2117,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il paraît qu'une fille était à l'intérieur quand\nle sanctuaire a brûlé. Elle joue ici après\ndix ans... Seule, pour l'éternité...",
+   "brut_fr": "Il paraît qu'une fille était à l'intérieur\nquand le sanctuaire a brûlé. Elle joue ici\naprès[1205][U+000F] dix ans... Seule, pour l'éternité...",
    "brut_en": "There[SP]was[SP]supposedly[SP]a[SP]girl[SP]inside[SP]when[SP]the\nshrine[SP]burned[SP]down.[SP]She[SP]still[SP]plays[SP]here[SP]after\nten[SP]years...[SP]All[SP]alone,[SP]forever[SP]and[SP]ever...",
    "data_size": 296,
    "budget": 288
@@ -2091,13 +2131,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pourquoi ne peut-elle pas reposer en paix ?"
+       "t": "Pourquoi ne peut-elle pas reposer en"
       },
       {
        "nl": true
       },
       {
-       "t": "Soit elle ignore sa mort..."
+       "t": "paix ? Soit elle ignore sa mort..."
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -2132,7 +2175,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pourquoi ne peut-elle pas reposer en paix ?\nSoit elle ignore sa mort...\nsoit elle attend quelqu'un...",
+   "brut_fr": "Pourquoi ne peut-elle pas reposer en\npaix ? Soit elle ignore sa mort...[1205][U+000F]\nsoit elle attend quelqu'un...",
    "brut_en": "I[SP]wonder[SP]why[SP]she[SP]can't[SP]rest[SP]in[SP]peace.\nEither[SP]she[SP]doesn't[SP]know[SP]she's[SP]dead...\nor[SP]she's[SP]waiting[SP]for[SP]someone...",
    "data_size": 242,
    "budget": 234
@@ -2146,25 +2189,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le fantôme de la fille disparaît toujours"
+       "t": "Le fantôme de la fille disparaît toujours dans"
       },
       {
        "nl": true
       },
       {
-       "t": "dans le sanctuaire."
+       "t": "le sanctuaire."
       },
       {
        "pause": true
       },
       {
-       "t": " Serait-ce lié"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "à l'autre monde ?"
+       "t": " Serait-ce lié à l'autre monde?"
       }
      ]
     }
@@ -2199,7 +2236,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le fantôme de la fille disparaît toujours\ndans le sanctuaire.[1205][U+000F] Serait-ce lié\nà l'autre monde ?",
+   "brut_fr": "Le fantôme de la fille disparaît toujours dans\nle sanctuaire.[1205][U+000F] Serait-ce lié à l'autre monde?",
    "brut_en": "The[SP]girl's[SP]ghost[SP]always[SP]seems[SP]to[SP]disappear\ninto[SP]the[SP]shrine.[1205][U+000F][SP]Could[SP]it[SP]be[SP]connected[SP]to\nthe[SP]netherworld?",
    "data_size": 234,
    "budget": 226
@@ -2213,7 +2250,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Surprise !"
+       "t": "Surprise!"
       },
       {
        "pause": true
@@ -2225,7 +2262,7 @@
        "nl": true
       },
       {
-       "t": "personne bleue connaît mon nom ?"
+       "t": "personne bleue connaît mon nom?"
       }
      ]
     }
@@ -2254,7 +2291,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Surprise ![1205][U+000F] Comment cette\npersonne bleue connaît mon nom ?",
+   "brut_fr": "Surprise![1205][U+000F] Comment cette\npersonne bleue connaît mon nom?",
    "brut_en": "That[SP]was[SP]a[SP]surprise...[1205][U+000F][SP]I[SP]wonder[SP]how[SP]that\nblue[SP]person[SP]knew[SP]my[SP]name.",
    "data_size": 164,
    "budget": 156
@@ -2323,25 +2360,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "La Kuchisake-onna vivait, dit-on,"
+       "t": "La Kuchisake-onna vivait, dit-on, au Mt."
       },
       {
        "nl": true
       },
       {
-       "t": "au Mt. Iwato."
+       "t": "Iwato."
       },
       {
        "pause": true
       },
       {
-       "t": " Les locaux avaient trop"
+       "t": " Les locaux avaient trop peur d'en"
       },
       {
        "nl": true
       },
       {
-       "t": "peur d'en approcher."
+       "t": "approcher."
       },
       {
        "pause": true
@@ -2388,7 +2425,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La Kuchisake-onna vivait, dit-on,\nau Mt. Iwato.[1205][U+000F] Les locaux avaient trop\npeur d'en approcher.[1205][U+000F] Sauf certains enfants...",
+   "brut_fr": "La Kuchisake-onna vivait, dit-on, au Mt.\nIwato.[1205][U+000F] Les locaux avaient trop peur d'en\napprocher.[1205][U+000F] Sauf certains enfants...",
    "brut_en": "It[SP]was[SP]rumored[SP]that[SP]Kuchisake-onna[SP]dwelled[SP]in\nMt.[SP]Iwato.[1205][U+000F][SP]The[SP]local[SP]youth[SP]were[SP]too[SP]scared[SP]to\ngo[SP]near[SP]it.[1205][U+000F][SP]Some[SP]kids[SP]were[SP]fine,[SP]though...",
    "data_size": 304,
    "budget": 296
@@ -2402,13 +2439,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ah, ce fantôme repose enfin en paix."
+       "t": "Ah, ce fantôme repose enfin"
       },
       {
        "nl": true
       },
       {
-       "t": "Quel soulagement !"
+       "t": "en paix. Quel soulagement!"
       }
      ]
     }
@@ -2431,7 +2468,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah, ce fantôme repose enfin en paix.\nQuel soulagement !",
+   "brut_fr": "Ah, ce fantôme repose enfin\nen paix. Quel soulagement!",
    "brut_en": "Ahh,[SP]so[SP]that[SP]girl's[SP]ghost[SP]is[SP]finally[SP]at[SP]rest.\nI'm[SP]so[SP]glad[SP]to[SP]hear[SP]that.",
    "data_size": 170,
    "budget": 162
@@ -2445,13 +2482,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Triste de voir un enfant enchaîné à ce"
+       "t": "Triste de voir un enfant enchaîné"
       },
       {
        "nl": true
       },
       {
-       "t": "monde par de vieux regrets..."
+       "t": "à ce monde par de vieux regrets..."
       }
      ]
     }
@@ -2474,7 +2511,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Triste de voir un enfant enchaîné à ce\nmonde par de vieux regrets...",
+   "brut_fr": "Triste de voir un enfant enchaîné\nà ce monde par de vieux regrets...",
    "brut_en": "It[SP]was[SP]sad[SP]to[SP]see[SP]a[SP]child[SP]tied[SP]down[SP]to[SP]this\nworld[SP]because[SP]of[SP]lingering[SP]regrets...",
    "data_size": 190,
    "budget": 182
@@ -2488,28 +2525,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'est-ce qui lui prend ?"
+       "t": "Qu'est-ce qui lui prend?"
       },
       {
        "pause": true
       },
       {
-       "t": " Il fait"
+       "t": " Il fait une telle"
       },
       {
        "nl": true
       },
       {
-       "t": "une telle histoire pour la Kuchisake-onna."
+       "t": "histoire pour la Kuchisake-onna."
       },
       {
        "pause": true
       },
       {
+       "t": " Tout le"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Tout le monde sait qu'elle n'existe pas..."
+       "t": "monde sait qu'elle n'existe pas..."
       }
      ]
     }
@@ -2547,7 +2587,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'est-ce qui lui prend ?[1205][U+000F] Il fait\nune telle histoire pour la Kuchisake-onna.[1205][U+000F]\nTout le monde sait qu'elle n'existe pas...",
+   "brut_fr": "Qu'est-ce qui lui prend?[1205][U+000F] Il fait une telle\nhistoire pour la Kuchisake-onna.[1205][U+000F] Tout le\nmonde sait qu'elle n'existe pas...",
    "brut_en": "What's[SP]gotten[SP]into[SP]my[SP]old[SP]man?[1205][U+000F][SP]He's[SP]making\nsuch[SP]a[SP]fuss[SP]about[SP]seeing[SP]Kuchisake-onna.[1205][U+000F]\nEveryone[SP]knows[SP]she[SP]doesn't[SP]actually[SP]exist...",
    "data_size": 316,
    "budget": 308

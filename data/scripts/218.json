@@ -41,19 +41,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Probablement entrain de le tabasser."
+       "t": "... Probablement entrain de le tabasser."
       },
       {
        "nl": true
       },
       {
-       "t": "On devrait peut-être l'arrêter avant qu'elle ne"
+       "t": "On devrait peut-être l'arrêter avant"
       },
       {
        "nl": true
       },
       {
-       "t": "fasse un meurtre. "
+       "t": "qu'elle ne"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " fasse un meurtre."
       }
      ]
     }
@@ -82,7 +88,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Probablement entrain de le tabasser.\nOn devrait peut-être l'arrêter avant qu'elle ne\nfasse un meurtre. ",
+   "brut_fr": "... Probablement entrain de le tabasser.\nOn devrait peut-être l'arrêter avant\nqu'elle ne[1205][U+000F] fasse un meurtre.",
    "brut_en": "...Probably[SP]beating[SP]the[SP]shit[SP]out[SP]of[SP]him.\nWe[SP]should[SP]maybe[SP]go[SP]stop[SP]her[SP]before[SP]she[SP]ends\nup[SP]committing[SP]murder.",
    "data_size": 240,
    "budget": 232
@@ -96,19 +102,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ginko parle probablement ce cantonais bizarre à cause de"
+       "t": "Ginko parle probablement ce cantonais"
       },
       {
        "nl": true
       },
       {
-       "t": "tout ça: ne pas parler anglais"
+       "t": "bizarre à cause de tout ça: ne pas parler"
       },
       {
        "nl": true
       },
       {
-       "t": "et ne pas ressembler aux autres..."
+       "t": "anglais"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " et ne pas ressembler aux autres..."
       }
      ]
     }
@@ -137,7 +149,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ginko parle probablement ce cantonais bizarre à cause de\ntout ça: ne pas parler anglais\net ne pas ressembler aux autres...",
+   "brut_fr": "Ginko parle probablement ce cantonais\nbizarre à cause de tout ça: ne pas parler\nanglais[1205][U+000F] et ne pas ressembler aux autres...",
    "brut_en": "Ginko[SP]probably[SP]uses[SP]that[SP]weird[SP]Cantonese[SP]'cause\nof[SP]all[SP]the[SP]stuff[SP]about[SP]not[SP]speaking[SP]English\nand[SP]looking[SP]different[SP]from[SP]everyone[SP]else...",
    "data_size": 298,
    "budget": 290
@@ -157,22 +169,28 @@
        "pause": true
       },
       {
+       "t": " Je"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Je peux pas lui dire de laisser tomber..."
+       "t": "peux pas lui dire de laisser tomber..."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais"
-      },
-      {
        "nl": true
       },
       {
-       "t": "qui sait ce qu'elle ferait seule?"
+       "t": "Mais"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " qui sait ce qu'elle ferait seule?"
       }
      ]
     }
@@ -210,7 +228,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'en ai bavé aussi, donc je sais...[1205][001E]\nJe peux pas lui dire de laisser tomber...[1205][001E] Mais\nqui sait ce qu'elle ferait seule?",
+   "brut_fr": "J'en ai bavé aussi, donc je sais...[1205][001E] Je\npeux pas lui dire de laisser tomber...[1205][001E]\nMais[1205][U+000F] qui sait ce qu'elle ferait seule?",
    "brut_en": "I've[SP]been[SP]through[SP]some[SP]shit[SP]too,[SP]so[SP]I[SP]know...[1205][001E]\nI[SP]can't[SP]tell[SP]her[SP]to[SP]shrug[SP]it[SP]off...[1205][001E][SP]But[SP]who\nknows[SP]what[SP]she'll[SP]do[SP]if[SP]we[SP]leave[SP]her[SP]alone?",
    "data_size": 302,
    "budget": 294
@@ -224,13 +242,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Malgré ce que dit Eikichi, il a l'air"
+       "t": "Malgré ce que dit Eikichi, il a"
       },
       {
        "nl": true
       },
       {
-       "t": "vraiment inquiet pour Lisa."
+       "t": "l'air vraiment inquiet pour Lisa."
       }
      ]
     }
@@ -253,7 +271,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Malgré ce que dit Eikichi, il a l'air\nvraiment inquiet pour Lisa.",
+   "brut_fr": "Malgré ce que dit Eikichi, il a\nl'air vraiment inquiet pour Lisa.",
    "brut_en": "Despite[SP]what[SP]Eikichi-kun[SP]says,[SP]he[SP]seems\ngenuinely[SP]worried[SP]about[SP]Lisa.",
    "data_size": 160,
    "budget": 152
@@ -267,13 +285,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est pas mignon? J'adore les gens comme"
+       "t": "C'est pas mignon? J'adore les gens"
       },
       {
        "nl": true
       },
       {
-       "t": "lui. Et toi aussi, bien sûr!"
+       "t": "comme lui. Et toi aussi, bien sûr!"
       }
      ]
     }
@@ -296,7 +314,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pas mignon? J'adore les gens comme\nlui. Et toi aussi, bien sûr!",
+   "brut_fr": "C'est pas mignon? J'adore les gens\ncomme lui. Et toi aussi, bien sûr!",
    "brut_en": "Isn't[SP]that[SP]sweet?[SP]I[SP]really[SP]like[SP]people[SP]like\nhim.[SP]That[SP]goes[SP]for[SP]you[SP]too,[SP]naturally!",
    "data_size": 186,
    "budget": 178
@@ -310,19 +328,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai croisé Sasaki une fois en studio et je l'ai"
+       "t": "J'ai croisé Sasaki une fois en studio et"
       },
       {
        "nl": true
       },
       {
-       "t": "détesté d'emblée. Shun--"
+       "t": "je l'ai détesté d'emblée. Shun--"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Fujii-san"
       },
       {
        "nl": true
       },
       {
-       "t": "Fujii-san avait aussi des problèmes avec lui."
+       "t": "avait aussi des problèmes avec lui."
       }
      ]
     }
@@ -351,7 +375,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai croisé Sasaki une fois en studio et je l'ai\ndétesté d'emblée. Shun--\nFujii-san avait aussi des problèmes avec lui.",
+   "brut_fr": "J'ai croisé Sasaki une fois en studio et\nje l'ai détesté d'emblée. Shun--[1205][U+000F] Fujii-san\navait aussi des problèmes avec lui.",
    "brut_en": "I[SP]met[SP]that[SP]Sasaki[SP]guy[SP]once[SP]at[SP]a[SP]studio[SP]and\nhated[SP]him[SP]right[SP]off[SP]the[SP]bat.[SP]I[SP]remember[SP]Shun--\nFujii-san[SP]having[SP]trouble[SP]with[SP]him,[SP]too.",
    "data_size": 284,
    "budget": 276
@@ -365,19 +389,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais c'est quoi son problème!?"
+       "t": "Mais c'est quoi son problème!? Bon, il a"
       },
       {
        "nl": true
       },
       {
-       "t": "Bon, il a beau être assez connu,"
+       "t": "beau être assez connu, mais ça lui donne"
       },
       {
        "nl": true
       },
       {
-       "t": "mais ça lui donne pas le droit d'être si exécrable!"
+       "t": "pas le droit d'être si "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " exécrable!"
       }
      ]
     }
@@ -406,7 +436,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais c'est quoi son problème!?\nBon, il a beau être assez connu,\nmais ça lui donne pas le droit d'être si exécrable!",
+   "brut_fr": "Mais c'est quoi son problème!? Bon, il a\nbeau être assez connu, mais ça lui donne\npas le droit d'être si [1205][U+000F] exécrable!",
    "brut_en": "Seriously,[SP]what[SP]the[SP]hell's[SP]his[SP]problem!?\nSure,[SP]he's[SP]scraped[SP]together[SP]some[SP]fame,\nbut[SP]he[SP]doesn't[SP]have[SP]to[SP]be[SP]such[SP]a[SP]prick!",
    "data_size": 278,
    "budget": 270
@@ -420,19 +450,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je parle de ce pervers de Sasaki!"
+       "t": "Je parle de ce pervers de Sasaki! Les"
       },
       {
        "nl": true
       },
       {
-       "t": "Les filles ont droit à ses belles paroles, mais les mecs pour"
+       "t": "filles ont droit à ses belles paroles,"
       },
       {
        "nl": true
       },
       {
-       "t": "lui ne valent,"
+       "t": "mais les mecs pour"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " lui ne valent,"
       },
       {
        "enc": "rien."
@@ -467,7 +503,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je parle de ce pervers de Sasaki!\nLes filles ont droit à ses belles paroles, mais les mecs pour\nlui ne valent,[1432][NULL][NULL][0014]rien.[1432][NULL][NULL][0014]",
+   "brut_fr": "Je parle de ce pervers de Sasaki! Les\nfilles ont droit à ses belles paroles,\nmais les mecs pour[1205][U+000F] lui ne valent,[1432][NULL][NULL][0014]rien.[1432][NULL][NULL][0014]",
    "brut_en": "I'm[SP]talking[SP]about[SP]that[SP]perverted[SP]Sasaki[SP]jerk!\nGirls[SP]get[SP]the[SP]silver[SP]tongue,[SP]but[SP]every[SP]guy[SP]to\nhim[SP]is[SP]just[SP][1432][NULL][NULL][0014]worthless.[1432][NULL][NULL][0014]",
    "data_size": 284,
    "budget": 276
@@ -481,19 +517,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lui aussi c'était personne! Il passait son temps"
+       "t": "Lui aussi c'était personne! Il passait son"
       },
       {
        "nl": true
       },
       {
-       "t": "à baratiner sur son passé"
+       "t": "temps à baratiner sur son passé"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " en boîte de"
       },
       {
        "nl": true
       },
       {
-       "t": "en boîte de nuit!"
+       "t": "nuit!"
       }
      ]
     }
@@ -522,7 +564,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lui aussi c'était personne! Il passait son temps\nà baratiner sur son passé\nen boîte de nuit!",
+   "brut_fr": "Lui aussi c'était personne! Il passait son\ntemps à baratiner sur son passé[1205][U+000F] en boîte de\nnuit!",
    "brut_en": "He[SP]used[SP]to[SP]be[SP]small-time,[SP]too![SP]I[SP]know[SP]he[SP]used\nto[SP]blather[SP]on[SP]and[SP]brag[SP]about[SP]his[SP]past[SP]at\nnightclubs!",
    "data_size": 236,
    "budget": 228
@@ -536,19 +578,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "La pièce à côté est censée être libre,"
+       "t": "La pièce à côté est censée être libre, mais"
       },
       {
        "nl": true
       },
       {
-       "t": "mais j'entends toujours des voix"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "à travers le mur."
+       "t": "j'entends toujours des voix à travers le mur."
       }
      ]
     }
@@ -577,7 +613,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La pièce à côté est censée être libre,\nmais j'entends toujours des voix\nà travers le mur.",
+   "brut_fr": "La pièce à côté est censée être libre, mais\nj'entends toujours des voix à travers le mur.",
    "brut_en": "The[SP]room[SP]next[SP]door[SP]is[SP]supposed[SP]to[SP]be\nvacant[SP]now,[SP]but[SP]I[SP]keep[SP]hearing[SP]voices\nthrough[SP]the[SP]wall.",
    "data_size": 224,
    "budget": 216

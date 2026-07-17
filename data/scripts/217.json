@@ -10,19 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aiyah ! T'es encore là, vieille peau !?"
+       "t": "Aiyah! T'es encore là, vieille peau!? Il faut"
       },
       {
        "nl": true
       },
       {
-       "t": "Il faut sortir d'ici ! Il y a des"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "bombes partout !"
+       "t": "sortir d'ici! Il y a des bombes partout!"
       }
      ]
     }
@@ -51,7 +45,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aiyah ! T'es encore là, vieille peau !?\nIl faut sortir d'ici ! Il y a des\nbombes partout !",
+   "brut_fr": "Aiyah! T'es encore là, vieille peau!? Il faut\nsortir d'ici! Il y a des bombes partout!",
    "brut_en": "Aiyah![SP]You're[SP]still[SP]here,[SP]you[SP]old[SP]hag!?\nYou[SP]need[SP]to[SP]get[SP]out[SP]already![SP]There[SP]are\nbombs[SP]all[SP]over[SP]the[SP]place!",
    "data_size": 232,
    "budget": 224
@@ -65,36 +59,27 @@
      "nom": null,
      "seg": [
       {
-       "t": "V-Vieilles bombes !? Enfin, sortir d'ici"
+       "t": "V-Vieilles bombes!? Enfin, sortir d'ici avant"
       },
       {
        "nl": true
       },
       {
-       "t": "avant l'explosion !"
-      },
-      {
-       "nl": true
-      }
-     ]
-    },
-    {
-     "nom": "Maya",
-     "seg": [
-      {
-       "t": "Elle était secouée..."
+       "t": "l'explosion! "
       },
       {
        "pause": true
       },
       {
-       "t": " Allez, vite,"
-      },
+       "t": " "
+      }
+     ]
+    },
+    {
+     "nom": "Maya Elle était secouée...[1205][001E]",
+     "seg": [
       {
-       "nl": true
-      },
-      {
-       "t": "trouvons l'énigme et filons !"
+       "t": "Allez, vite, trouvons l'énigme et filons!"
       }
      ]
     }
@@ -152,7 +137,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "V-Vieilles bombes !? Enfin, sortir d'ici\navant l'explosion !\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nElle était secouée...[1205][001E] Allez, vite,\ntrouvons l'énigme et filons !",
+   "brut_fr": "V-Vieilles bombes!? Enfin, sortir d'ici avant\nl'explosion! [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Maya Elle était secouée...[1205][001E]\nAllez, vite, trouvons l'énigme et filons!",
    "brut_en": "O-Old[SP]bomb!?[SP]I[SP]mean,[SP]bombs!?[SP]I-I[SP]need[SP]to\nexplode[SP]before[SP]they[SP]get[SP]out![SP]I[SP]mean,[SP]get[SP]out\nbefore[SP]they[SP]explode!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nShe[SP]seemed[SP]pretty[SP]shook[SP]up...[1205][001E][SP]C'mon,[SP]let's\nhurry[SP]and[SP]find[SP]that[SP]riddle[SP]thing[SP]so[SP]we[SP]can\ngrab[SP]our[SP]asses[SP]and[SP]run!",
    "data_size": 490,
    "budget": 482
@@ -166,13 +151,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aiyah ! Ici aussi !? Si on ne se presse"
+       "t": "Aiyah! Ici aussi!? Si on ne se"
       },
       {
        "nl": true
       },
       {
-       "t": "pas, on va finir grillés !"
+       "t": "presse pas, on va finir grillés!"
       }
      ]
     }
@@ -195,7 +180,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aiyah ! Ici aussi !? Si on ne se presse\npas, on va finir grillés !",
+   "brut_fr": "Aiyah! Ici aussi!? Si on ne se\npresse pas, on va finir grillés!",
    "brut_en": "Aiyah![SP]Here[SP]too!?[SP]If[SP]we[SP]don't[SP]hurry,[SP]we're\ngonna[SP]get[SP]burned[SP]to[SP]a[SP]crisp!",
    "data_size": 166,
    "budget": 158
@@ -215,13 +200,13 @@
        "hero": "prenom"
       },
       {
-       "t": "! Alors"
+       "t": "!"
       },
       {
        "nl": true
       },
       {
-       "t": "partons vite d'ici!"
+       "t": "Alors partons vite d'ici!"
       }
      ]
     }
@@ -250,7 +235,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu l'as trouvé!? Génial, [1113]! Alors\npartons vite d'ici!",
+   "brut_fr": "Tu l'as trouvé!? Génial, [1113]!\nAlors partons vite d'ici!",
    "brut_en": "You[SP]found[SP]it!?[SP]Awesome,[SP][1113]![SP]Then[SP]let's\nget[SP]out[SP]of[SP]here!",
    "data_size": 132,
    "budget": 124
@@ -264,13 +249,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Rien ici, Yukino ! À part un soutien-gorge,"
+       "t": "Rien ici, Yukino! À part un soutien-gorge,"
       },
       {
        "nl": true
       },
       {
-       "t": "pas d'indice ou quoi que ce soit !"
+       "t": "pas d'indice ou quoi que ce soit!"
       }
      ]
     }
@@ -293,7 +278,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Rien ici, Yukino ! À part un soutien-gorge,\npas d'indice ou quoi que ce soit !",
+   "brut_fr": "Rien ici, Yukino! À part un soutien-gorge,\npas d'indice ou quoi que ce soit!",
    "brut_en": "No[SP]good[SP]on[SP]this[SP]end,[SP]Yukino-san![SP]All[SP]I[SP]see\nis[SP]a[SP]pushup[SP]bra,[SP]no[SP]riddle[SP]or[SP]anything!",
    "data_size": 192,
    "budget": 184
@@ -307,13 +292,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh ? Tu l'as trouvé ! Tu gagnes ce round."
+       "t": "Oh? Tu l'as trouvé! Tu gagnes ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Fichons le camp d'ici !"
+       "t": "round. Fichons le camp d'ici!"
       }
      ]
     }
@@ -336,7 +321,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh ? Tu l'as trouvé ! Tu gagnes ce round.\nFichons le camp d'ici !",
+   "brut_fr": "Oh? Tu l'as trouvé! Tu gagnes ce\nround. Fichons le camp d'ici!",
    "brut_en": "Oh?[SP]You[SP]found[SP]it![SP]Alright,[SP]you[SP]win[SP]this[SP]round,\nlet's[SP]just[SP]get[SP]the[SP]hell[SP]outta[SP]here!",
    "data_size": 192,
    "budget": 184
@@ -350,7 +335,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je sèche aussi ! Et toi, Yukki ?"
+       "t": "Je sèche aussi! Et toi, Yukki?"
       }
      ]
     }
@@ -367,7 +352,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je sèche aussi ! Et toi, Yukki ?",
+   "brut_fr": "Je sèche aussi! Et toi, Yukki?",
    "brut_en": "I'm[SP]drawing[SP]a[SP]blank[SP]too![SP]How[SP]about[SP]you,[SP]Yukki?",
    "data_size": 114,
    "budget": 106
@@ -381,19 +366,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Wow, tu l'as trouvé !? Bien joué "
-      },
-      {
-       "hero": "prenom"
-      },
-      {
-       "t": "-kun !"
+       "t": "Wow, tu l'as trouvé!? Bien joué"
       },
       {
        "nl": true
       },
       {
-       "t": "Allez, on se tire !"
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun! Allez, on se tire!"
       }
      ]
     }
@@ -422,7 +404,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Wow, tu l'as trouvé !? Bien joué [1113]-kun !\nAllez, on se tire !",
+   "brut_fr": "Wow, tu l'as trouvé!? Bien joué\n[1113]-kun! Allez, on se tire!",
    "brut_en": "Wow,[SP]you[SP]found[SP]it!?[SP]That's[SP]our[SP][1113]-kun!\nGood[SP]job![SP]Now[SP]c'mon,[SP]let's[SP]scram!",
    "data_size": 164,
    "budget": 156
@@ -436,13 +418,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qui porterait ces dessous !? Rien ici non plus,"
+       "t": "Qui porterait ces dessous!? Rien ici"
       },
       {
        "nl": true
       },
       {
-       "t": "Maya ! Et toi, Eikichi ?"
+       "t": "non plus, Maya! Et toi, Eikichi?"
       }
      ]
     }
@@ -471,7 +453,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qui porterait ces dessous !? Rien ici non plus,\nMaya ! Et toi, Eikichi ?",
+   "brut_fr": "Qui porterait ces dessous!? Rien ici\nnon plus, Maya! Et toi, Eikichi?",
    "brut_en": "Who[SP]would[SP]wear[SP]lingerie[SP]like[SP]this!?[SP]Yeah,[SP]I'm\nnot[SP]finding[SP]anything[SP]over[SP]here,[SP]Maya-san!\nAny[SP]luck,[SP]Eikichi?",
    "data_size": 238,
    "budget": 230

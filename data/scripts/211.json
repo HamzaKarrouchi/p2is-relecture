@@ -10,13 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Arrrgh! Mais Non! Rien à voir! Vous n'avez"
+       "t": "Arrrgh! Mais Non! Rien à voir!"
       },
       {
        "nl": true
       },
       {
-       "t": "aucun rythme!"
+       "t": "Vous n'avez aucun rythme!"
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Arrrgh! Mais Non! Rien à voir! Vous n'avez\naucun rythme!",
+   "brut_fr": "Arrrgh! Mais Non! Rien à voir!\nVous n'avez aucun rythme!",
    "brut_en": "Arrrrgh![SP]No![SP]That's[SP]not[SP]it[SP]at[SP]all!\nYou[SP]guys[SP]have[SP]no[SP]rhythm!",
    "data_size": 146,
    "budget": 138
@@ -53,19 +53,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est clair que non. J'ai pas touché à"
+       "t": "C'est clair que non. J'ai pas touché à un"
       },
       {
        "nl": true
       },
       {
-       "t": "un instrument depuis la flûte à bec au"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "collège..."
+       "t": "instrument depuis la flûte à bec au collège..."
       }
      ]
     }
@@ -94,7 +88,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est clair que non. J'ai pas touché à\nun instrument depuis la flûte à bec au\ncollège...",
+   "brut_fr": "C'est clair que non. J'ai pas touché à un\ninstrument depuis la flûte à bec au collège...",
    "brut_en": "Of[SP]course[SP]we[SP]don't.[SP]I[SP]haven't[SP]played[SP]an\ninstrument[SP]since[SP]my[SP]recorder[SP]back[SP]in\nmiddle[SP]school...",
    "data_size": 206,
    "budget": 198
@@ -170,10 +164,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ah ouais, Michel... Tu connais ce mec"
+       "t": "Ah ouais, Michel... Tu connais"
       },
       {
        "nl": true
+      },
+      {
+       "t": "ce mec "
       },
       {
        "hero": "prenom"
@@ -185,7 +182,7 @@
        "hero": "nom"
       },
       {
-       "t": " de Seven ?"
+       "t": " de Seven?"
       }
      ]
     }
@@ -217,7 +214,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah ouais, Michel... Tu connais ce mec\n[1113] [1112] de Seven ?",
+   "brut_fr": "Ah ouais, Michel... Tu connais\nce mec [1113] [1112] de Seven?",
    "brut_en": "Oh[SP]yeah,[SP]Michel-san...[SP]You[SP]know[SP]that[SP]guy\n[1113][SP][1112][SP]at[SP]Sevens?",
    "data_size": 130,
    "budget": 122
@@ -231,19 +228,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il paraît que c'est le gars populaire de Seven."
+       "t": "Il paraît que c'est le gars populaire"
       },
       {
        "nl": true
       },
       {
-       "t": "Et un vrai tombeur en plus! Invite le"
+       "t": "de Seven. Et un vrai tombeur en plus!"
       },
       {
        "nl": true
       },
       {
-       "t": "dans le groupe, non?"
+       "t": "Invite le"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " dans le groupe, non?"
       }
      ]
     }
@@ -272,7 +275,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il paraît que c'est le gars populaire de Seven.\nEt un vrai tombeur en plus! Invite le\ndans le groupe, non?",
+   "brut_fr": "Il paraît que c'est le gars populaire\nde Seven. Et un vrai tombeur en plus!\nInvite le[1205][U+000F] dans le groupe, non?",
    "brut_en": "I[SP]hear[SP]he's[SP]the[SP]most[SP]popular[SP]guy[SP]at[SP]Sevens,\nand[SP]he's[SP]hot[SP]with[SP]the[SP]ladies,[SP]too![SP]Why[SP]don't\nyou[SP]invite[SP]him[SP]into[SP]the[SP]band?",
    "data_size": 256,
    "budget": 248

@@ -10,7 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je t’applaudis d’être allé si loin. Tu es prêt à affronter ton passé.  "
+       "t": "Je t’applaudis d’être allé si loin."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tu es prêt à affronter ton passé."
       }
      ]
     }
@@ -33,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je t’applaudis d’être allé si loin. Tu es prêt à affronter ton passé.  ",
+   "brut_fr": "Je t’applaudis d’être allé si loin.\nTu es prêt à affronter ton passé.",
    "brut_en": "I[SP]applaud[SP]you[SP]for[SP]making[SP]it[SP]this[SP]far.\nYou[SP]are[SP]truly[SP]ready[SP]to[SP]face[SP]your[SP]past[SP]now.",
    "data_size": 190,
    "budget": 182
@@ -47,7 +53,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu commences à te rappeler ton passé oublié... Si tu souhaites connaître la vérité, va à la caverne Alaya derrière le temple."
+       "t": "Tu commences à te rappeler ton passé oublié..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Si tu souhaites connaître la vérité, va à la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "caverne Alaya derrière le "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " temple."
       }
      ]
     }
@@ -82,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu commences à te rappeler ton passé oublié... Si tu souhaites connaître la vérité, va à la caverne Alaya derrière le temple.",
+   "brut_fr": "Tu commences à te rappeler ton passé oublié...\nSi tu souhaites connaître la vérité, va à la\ncaverne Alaya derrière le [1205][U+000F] temple.",
    "brut_en": "You[SP]have[SP]begun[SP]to[SP]recover[SP]your[SP]forgotten\npast...[1205][001E][SP]If[SP]you[SP]wish[SP]to[SP]learn[SP]the[SP]truth,\ngo[SP]to[SP]the[SP]Alaya[SP]Cavern[SP]behind[SP]this[SP]shrine.",
    "data_size": 280,
    "budget": 272
@@ -96,7 +120,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les bassins reflétant le passé et l’âme montreront le chemin à suivre d’ici."
+       "t": "Les bassins reflétant le passé et l’âme"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "montreront le chemin à suivre d’ici."
       }
      ]
     }
@@ -125,7 +155,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les bassins reflétant le passé et l’âme montreront le chemin à suivre d’ici.",
+   "brut_fr": "Les bassins reflétant le passé et l’âme\nmontreront le chemin à suivre d’ici.",
    "brut_en": "The[SP]reflecting[SP]pools[SP]that[SP]show[SP]one's[SP]past\nand[SP]inner[SP]self[SP]shall[SP]show[SP]you[SP]the[SP]way[SP]to\ngo[SP]from[SP]here.",
    "data_size": 222,
    "budget": 214
@@ -139,7 +169,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "M. Iwato… Tes souvenirs et tes péchés ont été enterrés."
+       "t": "M. Iwato… Tes souvenirs et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tes péchés ont été enterrés."
       }
      ]
     }
@@ -168,7 +204,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "M. Iwato… Tes souvenirs et tes péchés ont été enterrés.",
+   "brut_fr": "M. Iwato… Tes souvenirs et\ntes péchés ont été enterrés.",
    "brut_en": "Mt.[SP]Iwato...[1205][001E][SP]Where[SP]our[SP]memories[SP]and[SP]sins\nhave[SP]been[SP]buried...",
    "data_size": 148,
    "budget": 140
@@ -182,7 +218,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "La vision du temps par l’homme le piège dans le passé et lui fait craindre l’avenir..."
+       "t": "La vision du temps par l’homme le piège dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le passé et lui fait craindre l’avenir..."
       }
      ]
     }
@@ -205,7 +247,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La vision du temps par l’homme le piège dans le passé et lui fait craindre l’avenir...",
+   "brut_fr": "La vision du temps par l’homme le piège dans\nle passé et lui fait craindre l’avenir...",
    "brut_en": "Man's[SP]understanding[SP]of[SP]time[SP]causes[SP]him[SP]to[SP]be\ntrapped[SP]in[SP]the[SP]past[SP]and[SP]fear[SP]the[SP]future...",
    "data_size": 204,
    "budget": 196

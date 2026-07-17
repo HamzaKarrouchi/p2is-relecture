@@ -65,7 +65,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est étrange, n'avoir aucun problème..."
+       "t": "C'est étrange, n'avoir aucun"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "problème..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est comme être mort..."
       },
       {
        "pause": true
@@ -74,19 +86,7 @@
        "nl": true
       },
       {
-       "t": "C'est comme être mort..."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Ou du moins"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pas vraiment humain."
+       "t": "Ou du moins pas vraiment humain."
       }
      ]
     }
@@ -127,7 +127,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est étrange, n'avoir aucun problème...[1205][U+000F]\nC'est comme être mort...[1205][U+000F] Ou du moins\npas vraiment humain.",
+   "brut_fr": "C'est étrange, n'avoir aucun\nproblème...[1205][U+000F] C'est comme être mort...[1205][U+000F]\nOu du moins pas vraiment humain.",
    "brut_en": "It[SP]does[SP]seem[SP]weird,[SP]not[SP]having[SP]any[SP]problems[SP]at\nall...[1205][U+000F][SP]It's[SP]like[SP]being[SP]dead...[1205][U+000F][SP]Or[SP]not[SP]human,\nat[SP]the[SP]very[SP]least.",
    "data_size": 250,
    "budget": 242
@@ -251,22 +251,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Personne ne veut de problèmes, ni"
+       "t": "Personne ne veut de problèmes, ni de"
       },
       {
        "nl": true
       },
       {
-       "t": "de souffrance... ni de chagrin."
+       "t": "souffrance... ni de chagrin."
       },
       {
        "pause": true
       },
       {
+       "t": " Je voulais"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Je voulais effacer ça."
+       "t": "effacer ça."
       }
      ]
     }
@@ -292,7 +295,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Personne ne veut de problèmes, ni\nde souffrance... ni de chagrin.[1205][U+000F]\nJe voulais effacer ça.",
+   "brut_fr": "Personne ne veut de problèmes, ni de\nsouffrance... ni de chagrin.[1205][U+000F] Je voulais\neffacer ça.",
    "brut_en": "Nobody[SP]wants[SP]problems,[SP]or[SP]suffering...[SP]or[SP]sorrow.[1205][U+000F]\nI[SP]thought[SP]I'd[SP]get[SP]rid[SP]of[SP]all[SP]those[SP]things.",
    "data_size": 206,
    "budget": 198
@@ -306,25 +309,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais... Le bonheur, c'est l'absence de tristesse?"
-      },
-      {
-       "pause": true
+       "t": "Mais... Le bonheur, c'est l'absence de"
       },
       {
        "nl": true
       },
       {
-       "t": "Sans jamais la connaître, peut-on rire?"
+       "t": "tristesse?"
       },
       {
        "pause": true
       },
       {
+       "t": " Sans jamais la connaître, peut-on"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Franchement, je n'ai pas la réponse."
+       "t": "rire?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Franchement, je n'ai pas la réponse."
       }
      ]
     }
@@ -359,7 +368,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais... Le bonheur, c'est l'absence de tristesse?[1205][U+000F]\nSans jamais la connaître, peut-on rire?[1205][U+000F]\nFranchement, je n'ai pas la réponse.",
+   "brut_fr": "Mais... Le bonheur, c'est l'absence de\ntristesse?[1205][U+000F] Sans jamais la connaître, peut-on\nrire?[1205][U+000F] Franchement, je n'ai pas la réponse.",
    "brut_en": "But...[SP]Is[SP]happiness[SP]just[SP]the[SP]absence[SP]of[SP]sadness?[1205][U+000F]\nIf[SP]one[SP]doesn't[SP]face[SP]sadness,[SP]can[SP]one[SP]laugh...?[1205][U+000F]\nIn[SP]all[SP]honesty,[SP]I[SP]haven't[SP]found[SP]the[SP]answer[SP]yet.",
    "data_size": 312,
    "budget": 304
@@ -519,7 +528,7 @@
    "choix_fr": {
     "options": [
      "Soigner",
-     "Parler à M. Tomi",
+     "Parler à M. Tomi[1205]",
      "Non merci",
      "Quitter"
     ],
@@ -542,7 +551,7 @@
      }
     ]
    },
-   "brut_fr": "Où soulager vos tensions aujourd'hui?\n[1208][U+0004]Soigner\nParler à M. Tomi\nNon merci\nQuitter",
+   "brut_fr": "Où soulager vos tensions aujourd'hui?\n[1208][U+0004]Soigner\nParler à M. Tomi[1205][U+000F]\nNon merci\nQuitter",
    "brut_en": "Now,[SP]where[SP]shall[SP]I[SP]relieve[SP]your[SP]tension[SP]today?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 224,
    "budget": 216
@@ -705,19 +714,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mes services ne sont pas donnés, mais"
+       "t": "Mes services ne sont pas donnés, mais comme"
       },
       {
        "nl": true
       },
       {
-       "t": "comme ils touchent tout le groupe,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "vous économisez."
+       "t": "ils touchent tout le groupe, vous économisez."
       }
      ]
     }
@@ -740,7 +743,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mes services ne sont pas donnés, mais\ncomme ils touchent tout le groupe,\nvous économisez.",
+   "brut_fr": "Mes services ne sont pas donnés, mais comme\nils touchent tout le groupe, vous économisez.",
    "brut_en": "My[SP]services[SP]are[SP]not[SP]cheap,[SP]but[SP]since[SP]they[SP]affect\neveryone,[SP]it'll[SP]save[SP]you[SP]money[SP]in[SP]the[SP]long[SP]run.",
    "data_size": 220,
    "budget": 212
@@ -803,19 +806,19 @@
        "pause": true
       },
       {
+       "t": " Ces doigts"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Ces doigts peuvent tout guérir!"
+       "t": "peuvent tout guérir!"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Doigts magiques!"
+       "t": " Doigts magiques!"
       }
      ]
     }
@@ -850,7 +853,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Revenez si vous êtes fatigués.[1205][U+000A]\nCes doigts peuvent tout guérir![1205][U+000F]\nDoigts magiques!",
+   "brut_fr": "Revenez si vous êtes fatigués.[1205][U+000A] Ces doigts\npeuvent tout guérir![1205][U+000F] Doigts magiques!",
    "brut_en": "Come[SP]again[SP]if[SP]you[SP]ever[SP]get[SP]tired.[1205][U+000A]\nThere's[SP]nothing[SP]these[SP]fingers[SP]can't[SP]cure![1205][U+000F]\nMagic[SP]fingers!",
    "data_size": 216,
    "budget": 208
@@ -864,25 +867,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hm? Mais vous êtes tous en parfaite santé."
-      },
-      {
-       "pause": true
+       "t": "Hm? Mais vous êtes tous en parfaite"
       },
       {
        "nl": true
       },
       {
-       "t": "Trop de soins nuit autant que pas assez."
+       "t": "santé."
       },
       {
        "pause": true
       },
       {
+       "t": " Trop de soins nuit autant que"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Pas lieu de vous traiter."
+       "t": "pas assez."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pas lieu de vous traiter."
       }
      ]
     }
@@ -923,7 +932,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm? Mais vous êtes tous en parfaite santé.[1205][U+000F]\nTrop de soins nuit autant que pas assez.[1205][U+000A]\nPas lieu de vous traiter.",
+   "brut_fr": "Hm? Mais vous êtes tous en parfaite\nsanté.[1205][U+000F] Trop de soins nuit autant que\npas assez.[1205][U+000A] Pas lieu de vous traiter.",
    "brut_en": "Hm?[SP]But[SP]you're[SP]all[SP]in[SP]perfect[SP]health.[1205][U+000F][SP]Overdoing\nit[SP]is[SP]worse[SP]than[SP]underdoing[SP]it.[1205][U+000A][SP]There's[SP]no[SP]need\nfor[SP]me[SP]to[SP]treat[SP]you.",
    "data_size": 268,
    "budget": 260
@@ -943,22 +952,19 @@
        "pause": true
       },
       {
-       "t": " Votre colonne"
+       "t": " Votre colonne est"
       },
       {
        "nl": true
       },
       {
-       "t": "est terriblement courbée."
+       "t": "terriblement courbée."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Il faut redresser ça."
+       "t": " Il faut redresser ça."
       }
      ]
     }
@@ -993,7 +999,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh là là, c'est grave.[1205][U+000A] Votre colonne\nest terriblement courbée.[1205][U+000A]\nIl faut redresser ça.",
+   "brut_fr": "Oh là là, c'est grave.[1205][U+000A] Votre colonne est\nterriblement courbée.[1205][U+000A] Il faut redresser ça.",
    "brut_en": "Oh[SP]my,[SP]this[SP]is[SP]terrible.[1205][U+000A][SP]Your[SP]spine's[SP]extremely\ncrooked.[1205][U+000A][SP]You'll[SP]need[SP]that[SP]straightened[SP]out.",
    "data_size": 218,
    "budget": 210
@@ -1036,7 +1042,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
@@ -1068,7 +1074,7 @@
      }
     ]
    },
-   "brut_fr": "Le soin coûtera 1 200 yens. Voulez-vous\nquand même y aller?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Le soin coûtera 1 200 yens. Voulez-vous\nquand même y aller?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?\n[1208][0002]Yes\nNo",
    "data_size": 200,
    "budget": 192
@@ -1082,22 +1088,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hm? Mais je viens de vous soigner. Vous"
+       "t": "Hm? Mais je viens de vous soigner. Vous êtes"
       },
       {
        "nl": true
       },
       {
-       "t": "êtes tous en parfaite santé."
+       "t": "tous en parfaite santé."
       },
       {
        "pause": true
       },
       {
+       "t": " Inutile de"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Inutile de recommencer."
+       "t": "recommencer."
       }
      ]
     }
@@ -1132,7 +1141,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm? Mais je viens de vous soigner. Vous\nêtes tous en parfaite santé.[1205][U+000A]\nInutile de recommencer.",
+   "brut_fr": "Hm? Mais je viens de vous soigner. Vous êtes\ntous en parfaite santé.[1205][U+000A] Inutile de\nrecommencer.",
    "brut_en": "Hm?[SP]But[SP]I[SP]just[SP]treated[SP]you.[SP]You're[SP]all[SP]in\nperfect[SP]health.[1205][U+000A][SP]There's[SP]no[SP]need[SP]for[SP]me[SP]to\ndo[SP]it[SP]again.",
    "data_size": 224,
    "budget": 216
@@ -1164,10 +1173,13 @@
        "pause": true
       },
       {
+       "t": " Ne"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Ne vous surmenez pas, quand même."
+       "t": "vous surmenez pas, quand même."
       }
      ]
     }
@@ -1205,7 +1217,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh là...[1205][U+000A] Mais ces blessures seront guéries\nen un instant avec mes doigts magiques![1205][U+000F]\nNe vous surmenez pas, quand même.",
+   "brut_fr": "Oh là...[1205][U+000A] Mais ces blessures seront guéries\nen un instant avec mes doigts magiques![1205][U+000F] Ne\nvous surmenez pas, quand même.",
    "brut_en": "Oh[SP]dear...[1205][U+000A][SP]But[SP]those[SP]wounds[SP]will[SP]be[SP]healed[SP]in\nan[SP]instant[SP]once[SP]my[SP]magic[SP]fingers[SP]do[SP]their[SP]work![1205][U+000F]\nDon't[SP]overexert[SP]yourself,[SP]now.",
    "data_size": 284,
    "budget": 276
@@ -1243,19 +1255,19 @@
        "pause": true
       },
       {
+       "t": " Mon"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Mon atout maître!"
+       "t": "atout maître!"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Les DOIGTS MAGIQUES!"
+       "t": " Les DOIGTS MAGIQUES!"
       }
      ]
     }
@@ -1305,7 +1317,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tout de suite![1205][U+000A] Laissez-moi faire quelques\nmarques avec ce stylo, et...[1205][U+000F] Voilà![1205][U+000A]\nMon atout maître![1205][U+000A]\nLes DOIGTS MAGIQUES!",
+   "brut_fr": "Tout de suite![1205][U+000A] Laissez-moi faire quelques\nmarques avec ce stylo, et...[1205][U+000F] Voilà![1205][U+000A] Mon\natout maître![1205][U+000A] Les DOIGTS MAGIQUES!",
    "brut_en": "Right[SP]away![1205][U+000A][SP]Let[SP]me[SP]just[SP]make[SP]some[SP]markings[SP]with\nthis[SP]pen,[SP]and[SP]then...[1205][U+000F][SP]Here[SP]goes![1205][U+000A][SP]My[SP]trump[SP]card![1205][U+000A]\nThe[SP]MAGIC[SP]FINGERRRRS!",
    "data_size": 278,
    "budget": 270
@@ -1319,13 +1331,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ouf... Soin terminé. Qu'avez-vous pensé"
+       "t": "Ouf... Soin terminé. Qu'avez-vous pensé du"
       },
       {
        "nl": true
       },
       {
-       "t": "du toucher délicat de mes doigts magiques?"
+       "t": "toucher délicat de mes doigts magiques?"
       }
      ]
     }
@@ -1348,7 +1360,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ouf... Soin terminé. Qu'avez-vous pensé\ndu toucher délicat de mes doigts magiques?",
+   "brut_fr": "Ouf... Soin terminé. Qu'avez-vous pensé du\ntoucher délicat de mes doigts magiques?",
    "brut_en": "Whew...[SP]Treatment[SP]complete.[SP]How[SP]did[SP]you[SP]like\nthe[SP]subtle[SP]touch[SP]of[SP]my[SP]magic[SP]fingers?",
    "data_size": 192,
    "budget": 184
@@ -1368,13 +1380,13 @@
        "pause": true
       },
       {
-       "t": " On dit que tous les"
+       "t": " On dit que tous les problèmes"
       },
       {
        "nl": true
       },
       {
-       "t": "problèmes disparaissent en devenant Idéaliens..."
+       "t": "disparaissent en devenant Idéaliens..."
       }
      ]
     }
@@ -1403,7 +1415,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Doigts magiques![1205][U+000A] On dit que tous les\nproblèmes disparaissent en devenant Idéaliens...",
+   "brut_fr": "Doigts magiques![1205][U+000A] On dit que tous les problèmes\ndisparaissent en devenant Idéaliens...",
    "brut_en": "Magic[SP]fingers![1205][U+000A][SP]They[SP]say[SP]everyone's[SP]troubles\nwill[SP]be[SP]over[SP]once[SP]they[SP]become[SP]Idealians...",
    "data_size": 204,
    "budget": 196
@@ -1417,13 +1429,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Y compris les problèmes de muscles"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "tendus?"
+       "t": "Y compris les problèmes de muscles tendus?"
       }
      ]
     }
@@ -1446,7 +1452,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Y compris les problèmes de muscles\ntendus?",
+   "brut_fr": "Y compris les problèmes de muscles tendus?",
    "brut_en": "Does[SP]that[SP]include[SP]their[SP]troubles[SP]with[SP]tense\nmuscles,[SP]too?",
    "data_size": 142,
    "budget": 134
@@ -1466,19 +1472,19 @@
        "pause": true
       },
       {
-       "t": " C'est cette douleur"
+       "t": " C'est cette"
       },
       {
        "nl": true
       },
       {
-       "t": "musculaire après une longue journée"
+       "t": "douleur musculaire après une longue"
       },
       {
        "nl": true
       },
       {
-       "t": "qui prouve qu'on est en vie."
+       "t": "journée qui prouve qu'on est en vie."
       }
      ]
     }
@@ -1513,7 +1519,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Alors je suis contre![1205][U+000F] C'est cette douleur\nmusculaire après une longue journée\nqui prouve qu'on est en vie.",
+   "brut_fr": "Alors je suis contre![1205][U+000F] C'est cette\ndouleur musculaire après une longue\njournée qui prouve qu'on est en vie.",
    "brut_en": "Then[SP]I'm[SP]against[SP]it![1205][U+000F][SP]It's[SP]that[SP]ache[SP]in[SP]your\nmuscles[SP]you[SP]get[SP]after[SP]a[SP]hard[SP]day's[SP]work[SP]that\nproves[SP]you're[SP]alive.",
    "data_size": 250,
    "budget": 242
@@ -1539,13 +1545,13 @@
        "pause": true
       },
       {
-       "t": " Et mon propre"
+       "t": " Et mon"
       },
       {
        "nl": true
       },
       {
-       "t": "travail n'aurait plus grand sens."
+       "t": "propre travail n'aurait plus grand sens."
       }
      ]
     }
@@ -1580,7 +1586,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sans ça, il n'y a guère de satisfaction\naprès un travail bien fait.[1205][U+000F] Et mon propre\ntravail n'aurait plus grand sens.",
+   "brut_fr": "Sans ça, il n'y a guère de satisfaction\naprès un travail bien fait.[1205][U+000F] Et mon\npropre travail n'aurait plus grand sens.",
    "brut_en": "Without[SP]that,[SP]there[SP]won't[SP]be[SP]much[SP]satisfaction\nin[SP]a[SP]job[SP]well[SP]done.[1205][U+000F][SP]There[SP]won't[SP]be[SP]much\nsatisfaction[SP]in[SP]my[SP]job,[SP]either...",
    "data_size": 272,
    "budget": 264
@@ -1612,7 +1618,7 @@
    "choix_fr": {
     "options": [
      "Soigner",
-     "Parler à M. Tomi",
+     "Parler à M. Tomi[1205]",
      "Non merci",
      "Quitter"
     ],
@@ -1635,7 +1641,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler à M. Tomi\nNon merci\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler à M. Tomi[1205][U+000F]\nNon merci\nQuitter",
    "brut_en": "Anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 160,
    "budget": 152
@@ -1718,13 +1724,7 @@
        "pause": true
       },
       {
-       "t": " Pas de soin"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "sans paiement."
+       "t": " Pas de soin sans paiement."
       }
      ]
     }
@@ -1756,7 +1756,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hmm![1205][U+000A] Malheureusement, vous n'avez pas\nassez d'argent.[1205][U+000F] Pas de soin\nsans paiement.",
+   "brut_fr": "Hmm![1205][U+000A] Malheureusement, vous n'avez pas\nassez d'argent.[1205][U+000F] Pas de soin sans paiement.",
    "brut_en": "Hmmm![1205][U+000A][SP]Unfortunately,[SP]you're[SP]lacking[SP]in[SP]funds.[1205][U+000F]\nI[SP]can't[SP]treat[SP]you[SP]without[SP]proper[SP]payment.",
    "data_size": 210,
    "budget": 202
@@ -1776,19 +1776,19 @@
        "pause": true
       },
       {
+       "t": " Ces doigts"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Ces doigts peuvent tout guérir!"
+       "t": "peuvent tout guérir!"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Doigts magiques!"
+       "t": " Doigts magiques!"
       }
      ]
     }
@@ -1823,7 +1823,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Revenez si vous êtes fatigués.[1205][U+000A]\nCes doigts peuvent tout guérir![1205][U+000F]\nDoigts magiques!",
+   "brut_fr": "Revenez si vous êtes fatigués.[1205][U+000A] Ces doigts\npeuvent tout guérir![1205][U+000F] Doigts magiques!",
    "brut_en": "Come[SP]again[SP]if[SP]you[SP]ever[SP]get[SP]tired.[1205][U+000A]\nThere's[SP]nothing[SP]these[SP]fingers[SP]can't[SP]cure![1205][U+000F]\nMagic[SP]fingers!",
    "data_size": 216,
    "budget": 208
@@ -1837,7 +1837,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est quoi ce délire ?"
+       "t": "C'est quoi ce délire?"
       }
      ]
     }
@@ -1854,7 +1854,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est quoi ce délire ?",
+   "brut_fr": "C'est quoi ce délire?",
    "brut_en": "What's[SP]with[SP]the[SP]people[SP]in[SP]this[SP]city?",
    "data_size": 98,
    "budget": 90
@@ -1874,22 +1874,16 @@
        "enc": "Idéaliens"
       },
       {
-       "nl": true
+       "t": " par-ci, des"
       },
       {
-       "t": "par-ci, des "
+       "nl": true
       },
       {
        "enc": "Idéaliens"
       },
       {
-       "t": " par-là !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Un truc cloche chez eux !"
+       "t": " par-là! Un truc cloche chez eux!"
       }
      ]
     }
@@ -1921,7 +1915,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On parle des [1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014]\npar-ci, des [1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014] par-là !\nUn truc cloche chez eux !",
+   "brut_fr": "On parle des [1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014] par-ci, des\n[1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014] par-là! Un truc cloche chez eux!",
    "brut_en": "Everyone's[SP]ranting[SP]about[SP][1432][NULL][NULL][0014]Idealians[1432][NULL][NULL][0014][SP]this[SP]and\n[1432][NULL][NULL][0014]Idealians[1432][NULL][NULL][0014][SP]that![SP]Something's[SP]wrong[SP]with[SP]them!",
    "data_size": 234,
    "budget": 226
@@ -1935,13 +1929,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Non merci. Je n'ai pas vécu si longtemps"
+       "t": "Non merci. Je n'ai pas vécu si"
       },
       {
        "nl": true
       },
       {
-       "t": "pour évoluer en autre chose."
+       "t": "longtemps pour évoluer en autre chose."
       }
      ]
     }
@@ -1964,7 +1958,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non merci. Je n'ai pas vécu si longtemps\npour évoluer en autre chose.",
+   "brut_fr": "Non merci. Je n'ai pas vécu si\nlongtemps pour évoluer en autre chose.",
    "brut_en": "I[SP]say[SP]no[SP]thanks.[SP]I[SP]didn't[SP]live[SP]this[SP]long[SP]just[SP]to\nevolve[SP]into[SP]something[SP]else.",
    "data_size": 178,
    "budget": 170

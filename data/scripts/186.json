@@ -78,7 +78,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "P‑Prince Taureau...? C’est le mec qui a enlevé Mme Ideal de l’agence de détectives?"
+       "t": "P‑Prince Taureau...? C’est le mec qui a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "enlevé Mme Ideal de l’agence de détectives?"
       }
      ]
     }
@@ -101,7 +107,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "P‑Prince Taureau...? C’est le mec qui a enlevé Mme Ideal de l’agence de détectives?",
+   "brut_fr": "P‑Prince Taureau...? C’est le mec qui a\nenlevé Mme Ideal de l’agence de détectives?",
    "brut_en": "P-Prince[SP]Taurus...?[SP]Isn't[SP]this[SP]the[SP]guy[SP]who\nsnatched[SP]Ms.[SP]Ideal[SP]from[SP]the[SP]detective[SP]agency?",
    "data_size": 198,
    "budget": 190
@@ -146,7 +152,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On dirait qu’il a été carbonisé par une arme énergétique... Ça doit être un autre piège."
+       "t": "On dirait qu’il a été carbonisé par une arme"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "énergétique... Ça doit être un autre piège."
       }
      ]
     }
@@ -175,7 +187,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On dirait qu’il a été carbonisé par une arme énergétique... Ça doit être un autre piège.",
+   "brut_fr": "On dirait qu’il a été carbonisé par une arme\nénergétique... Ça doit être un autre piège.",
    "brut_en": "It[SP]looks[SP]like[SP]it[SP]was[SP]carbonized[SP]by[SP]some[SP]high-\nenergy[SP]weapon...[1205][001E][SP]Must've[SP]been[SP]another[SP]trap.",
    "data_size": 200,
    "budget": 192
@@ -232,7 +244,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une salle avec un four... Peut-être que la prochaine aura des lasers?"
+       "t": "Une salle avec un four... Peut-être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que la prochaine aura des lasers?"
       }
      ]
     }
@@ -258,7 +276,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une salle avec un four... Peut-être que la prochaine aura des lasers?",
+   "brut_fr": "Une salle avec un four... Peut-être\nque la prochaine aura des lasers?",
    "brut_en": "We've[SP]already[SP]been[SP]through[SP]that[SP]oven[SP]room...[1205][001E]\nMaybe[SP]the[SP]next[SP]one[SP]will[SP]have[SP]lasers?",
    "data_size": 192,
    "budget": 184
@@ -315,7 +333,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une salle avec un laser... Peut-être que la prochaine aura un four?"
+       "t": "Une salle avec un laser... Peut-être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que la prochaine aura un four?"
       }
      ]
     }
@@ -341,7 +365,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une salle avec un laser... Peut-être que la prochaine aura un four?",
+   "brut_fr": "Une salle avec un laser... Peut-être\nque la prochaine aura un four?",
    "brut_en": "We've[SP]already[SP]been[SP]through[SP]that[SP]laser[SP]room...[1205][001E]\nMaybe[SP]the[SP]next[SP]one[SP]will[SP]be[SP]like[SP]an[SP]oven?",
    "data_size": 202,
    "budget": 194
@@ -355,13 +379,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je m’inquiète pour Mme Ideal maintenant."
+       "t": "Je m’inquiète pour Mme"
       },
       {
        "nl": true
       },
       {
-       "t": "On y va!"
+       "t": "Ideal maintenant. On y va!"
       }
      ]
     }
@@ -384,7 +408,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m’inquiète pour Mme Ideal maintenant.\nOn y va!",
+   "brut_fr": "Je m’inquiète pour Mme\nIdeal maintenant. On y va!",
    "brut_en": "I'm[SP]worried[SP]about[SP]Ms.[SP]Ideal[SP]now.\nLet's[SP]keep[SP]going!",
    "data_size": 120,
    "budget": 112
@@ -398,7 +422,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le corps de Mme Ideal ne semble pas ici, elle est peut-être encore en vie... où elle est passée."
+       "t": "Le corps de Mme Ideal ne semble"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas ici, elle est peut-être encore"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "en vie... où elle est passée."
       }
      ]
     }
@@ -433,7 +469,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le corps de Mme Ideal ne semble pas ici, elle est peut-être encore en vie... où elle est passée.",
+   "brut_fr": "Le corps de Mme Ideal ne semble\npas ici, elle est peut-être encore\nen vie... où elle est passée.",
    "brut_en": "I[SP]don't[1121]see[SP]Ms.[SP]Ideal's[SP]corpse[SP]here,[SP]so[SP]I[SP]bet\nshe's[SP]still[SP]alive...[1205][001E][SP]But[SP]I[SP]wonder[SP]where\nshe[SP]went.",
    "data_size": 214,
    "budget": 206
@@ -447,7 +483,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il était costaud, mais il a eu une fin assez soudaine..."
+       "t": "Il était costaud, mais il a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "eu une fin assez soudaine..."
       }
      ]
     }
@@ -470,7 +512,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il était costaud, mais il a eu une fin assez soudaine...",
+   "brut_fr": "Il était costaud, mais il a\neu une fin assez soudaine...",
    "brut_en": "He[SP]was[SP]pretty[SP]strong,[SP]but[SP]he[SP]came[SP]to[SP]a[SP]real\nsudden[SP]end...",
    "data_size": 136,
    "budget": 128
@@ -484,7 +526,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "J’ai toujours pas oublié ce qu’il a fait à Sheba et Mee-ho! T'auras pas ma sympathie!"
+       "t": "J’ai toujours pas oublié ce qu’il a fait à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Sheba et Mee-ho! T'auras pas ma sympathie!"
       }
      ]
     }
@@ -507,7 +555,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J’ai toujours pas oublié ce qu’il a fait à Sheba et Mee-ho! T'auras pas ma sympathie!",
+   "brut_fr": "J’ai toujours pas oublié ce qu’il a fait à\nSheba et Mee-ho! T'auras pas ma sympathie!",
    "brut_en": "Still,[SP]I[SP]haven't[SP]forgotten[SP]what[SP]he[SP]did[SP]to[SP]Sheba\nand[SP]Mee-ho![SP]He[SP]gets[SP]no[SP]sympathy[SP]from[SP]me!",
    "data_size": 198,
    "budget": 190
@@ -558,7 +606,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bientôt il y aura des fours! On fait quoi ?"
+       "t": "Bientôt il y aura des fours! On fait quoi  ?"
       }
      ]
     }
@@ -581,7 +629,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bientôt il y aura des fours! On fait quoi [1114]?",
+   "brut_fr": "Bientôt il y aura des fours! On fait quoi [1114] ?",
    "brut_en": "I[SP]swear,[SP]it'll[SP]be[SP]an[SP]oven[SP]next![SP]What[SP]should\nwe[SP]do,[SP][1114]?",
    "data_size": 132,
    "budget": 124
@@ -595,7 +643,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si je ne l’avais pas fait dirigeant, il ne serait pas mort comme ça..."
+       "t": "Si je ne l’avais pas fait dirigeant,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "il ne serait pas mort comme ça..."
       }
      ]
     }
@@ -618,7 +672,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si je ne l’avais pas fait dirigeant, il ne serait pas mort comme ça...",
+   "brut_fr": "Si je ne l’avais pas fait dirigeant,\nil ne serait pas mort comme ça...",
    "brut_en": "If[SP]I[SP]hadn't[SP]made[SP]him[SP]an[SP]executive,[SP]he[SP]wouldn't\nhave[SP]had[SP]to[SP]die[SP]like[SP]this...",
    "data_size": 168,
    "budget": 160
@@ -632,7 +686,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quand j’étais Joker, il m’a convoqué pour raviver un rêve qui avait été brisé avant..."
+       "t": "Quand j’étais Joker, il m’a convoqué pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "raviver un rêve qui avait été brisé avant..."
       }
      ]
     }
@@ -655,7 +715,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand j’étais Joker, il m’a convoqué pour raviver un rêve qui avait été brisé avant...",
+   "brut_fr": "Quand j’étais Joker, il m’a convoqué pour\nraviver un rêve qui avait été brisé avant...",
    "brut_en": "When[SP]I[SP]was[SP]Joker,[SP]he[SP]summoned[SP]me[SP]to[SP]rekindle\na[SP]dream[SP]of[SP]his[SP]that[SP]had[SP]been[SP]crushed[SP]before...",
    "data_size": 200,
    "budget": 192

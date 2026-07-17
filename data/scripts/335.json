@@ -165,10 +165,19 @@
        "t": " Mais"
       },
       {
+       "pause": true
+      },
+      {
        "nl": true
       },
       {
-       "t": "s'il ne l'avait pas fait, bien plus auraient péri."
+       "t": "s'il ne l'avait pas fait, bien plus auraient"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "péri."
       }
      ]
     }
@@ -203,7 +212,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me demande si Jun-kun se sent coupable\nd'avoir ordonné de protéger les gens...[1205][U+0019] Mais\ns'il ne l'avait pas fait, bien plus auraient péri.",
+   "brut_fr": "Je me demande si Jun-kun se sent coupable\nd'avoir ordonné de protéger les gens...[1205][U+0019] Mais[1205][U+000F]\ns'il ne l'avait pas fait, bien plus auraient\npéri.",
    "brut_en": "I[SP]wonder[SP]if[SP]Jun-kun[SP]feels[SP]guilty[SP]about[SP]giving\nthe[SP]order[SP]to[SP]protect[SP]the[SP]city's[SP]people...[1205][U+0019][SP]But\nif[SP]he[SP]hadn't,[SP]even[SP]more[SP]people[SP]would[SP]have[SP]died.",
    "data_size": 302,
    "budget": 294
@@ -223,22 +232,25 @@
        "pause": true
       },
       {
-       "t": " C'est pourquoi il essaie"
+       "t": " C'est pourquoi il"
       },
       {
        "nl": true
       },
       {
-       "t": "de porter le poids du monde seul."
+       "t": "essaie de porter le poids du monde"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "seul."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "On doit mettre fin à cette folie."
+       "t": " On doit mettre fin à cette folie."
       }
      ]
     }
@@ -276,7 +288,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il est trop gentil.[1205][U+000A] C'est pourquoi il essaie\nde porter le poids du monde seul.[1205][U+000F]\nOn doit mettre fin à cette folie.",
+   "brut_fr": "Il est trop gentil.[1205][U+000A] C'est pourquoi il\nessaie de porter le poids du monde\nseul.[1205][U+000F] On doit mettre fin à cette folie.",
    "brut_en": "He's[SP]basically[SP]just[SP]too[SP]kind.[1205][U+000A][SP]That's[SP]why[SP]he\ntries[SP]to[SP]carry[SP]the[SP]weight[SP]of[SP]the[SP]world[SP]himself.[1205][U+000F]\nWe[SP]need[SP]to[SP]hurry[SP]and[SP]end[SP]this[SP]madness.",
    "data_size": 288,
    "budget": 280
@@ -296,13 +308,19 @@
        "nl": true
       },
       {
-       "t": "masqué... Je la connaissais pas... Mais"
+       "t": "masqué... Je la connaissais pas... Mais elle"
       },
       {
        "nl": true
       },
       {
-       "t": "elle se bat là-bas. J'espère qu'elle va bien."
+       "t": "se bat là-bas. J'espère qu'elle va "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " bien."
       }
      ]
     }
@@ -331,7 +349,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ces filles avaient une amie dans le Cercle\nmasqué... Je la connaissais pas... Mais\nelle se bat là-bas. J'espère qu'elle va bien.",
+   "brut_fr": "Ces filles avaient une amie dans le Cercle\nmasqué... Je la connaissais pas... Mais elle\nse bat là-bas. J'espère qu'elle va [1205][U+000F] bien.",
    "brut_en": "Those[SP]girls[SP]had[SP]a[SP]friend[SP]who[SP]was[SP]in[SP]the[SP]Masked\nCircle...[SP]I[SP]didn't[SP]know[SP]her...[SP]but[SP]she's[SP]out\nfighting[SP]right[SP]now.[SP]I[SP]hope[SP]she's[SP]safe...",
    "data_size": 282,
    "budget": 274
@@ -345,7 +363,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bienvenue chez Anima Mundi. Que désirez-vous?"
+       "t": "Bienvenue chez Anima Mundi. Que "
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "désirez-vous?"
       }
      ]
     }
@@ -368,16 +392,22 @@
    ],
    "choix_fr": {
     "options": [
-     "Acheter armure",
+     "Acheter armure[1205]",
      "Acheter accessoires",
      "Vendre objets",
-     "Parler à la vendeuse",
+     "Parler à la vendeuse[1205]",
      "Laisser tomber",
      "Quitter le magasin"
     ],
     "question": [
      {
-      "t": "Bienvenue chez Anima Mundi. Que désirez-vous?"
+      "t": "Bienvenue chez Anima Mundi. Que "
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "désirez-vous?"
      }
     ]
    },
@@ -402,7 +432,7 @@
      }
     ]
    },
-   "brut_fr": "Bienvenue chez Anima Mundi. Que désirez-vous?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter le magasin",
+   "brut_fr": "Bienvenue chez Anima Mundi. Que \ndésirez-vous?\n[1208][U+0006]Acheter armure[1205][U+000F]\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse[1205][U+000F]\nLaisser tomber\nQuitter le magasin",
    "brut_en": "Ah,[SP]welcome[SP]to[SP]Anima[SP]Mundi,[SP]where[SP]all[SP]fashion\nsprings[SP]from.[SP]How[SP]may[SP]I[SP]help[SP]you?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 374,
    "budget": 366
@@ -416,7 +446,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et que vendrez-vous ?"
+       "t": "Et que vendrez-vous?"
       }
      ]
     }
@@ -434,16 +464,16 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets",
+     "Objets[1205]",
      "Armes",
      "Armure de tête",
-     "Armure",
+     "Armure[1205]",
      "Armure de jambes",
      "Accessoires"
     ],
     "question": [
      {
-      "t": "Et que vendrez-vous ?"
+      "t": "Et que vendrez-vous?"
      }
     ]
    },
@@ -463,7 +493,7 @@
      }
     ]
    },
-   "brut_fr": "Et que vendrez-vous ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 332,
    "budget": 324
@@ -477,7 +507,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "De quoi voulez-vous discuter ?"
+       "t": "De quoi voulez-vous discuter?"
       }
      ]
     }
@@ -495,17 +525,17 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique",
+     "Parler boutique[1205]",
      "Sélection cachée",
      "[1109][E2][E3][121D]ATTENTION[E4]",
-     "Aucun bit actif. Vérifiez ceci.",
+     "Aucun bit actif. Vérifiez ceci.[1205]",
      "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
      "-Kanada"
     ],
     "question": [
      {
-      "t": "De quoi voulez-vous discuter ?"
+      "t": "De quoi voulez-vous discuter?"
      }
     ]
    },
@@ -526,7 +556,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous discuter ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+   "brut_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
    "brut_en": "What[SP]is[SP]it[SP]you[SP]want[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
    "data_size": 454,
    "budget": 446
@@ -540,7 +570,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Autre chose ?"
+       "t": "Autre chose?"
       }
      ]
     }
@@ -558,15 +588,15 @@
    "choix_fr": {
     "options": [
      "Acheter armure",
-     "Acheter accessoires",
+     "Acheter accessoires[1205]",
      "Vendre objets",
      "Parler à la vendeuse",
-     "Laisser tomber",
+     "Laisser tomber[1205]",
      "Quitter"
     ],
     "question": [
      {
-      "t": "Autre chose ?"
+      "t": "Autre chose?"
      }
     ]
    },
@@ -585,7 +615,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose ?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires[1205][U+000F]\nVendre objets\nParler à la vendeuse\nLaisser tomber[1205][U+000F]\nQuitter",
    "brut_en": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 302,
    "budget": 294
@@ -599,7 +629,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et que vendrez-vous ?"
+       "t": "Et que vendrez-vous?"
       }
      ]
     }
@@ -617,16 +647,16 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets",
+     "Objets[1205]",
      "Armes",
      "Armure de tête",
-     "Armure",
+     "Armure[1205]",
      "Armure de jambes",
      "Accessoires"
     ],
     "question": [
      {
-      "t": "Et que vendrez-vous ?"
+      "t": "Et que vendrez-vous?"
      }
     ]
    },
@@ -646,7 +676,7 @@
      }
     ]
    },
-   "brut_fr": "Et que vendrez-vous ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 332,
    "budget": 324
@@ -660,7 +690,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "De quoi voulez-vous discuter ?"
+       "t": "De quoi voulez-vous discuter?"
       }
      ]
     }
@@ -678,12 +708,12 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique",
+     "Parler boutique[1205]",
      "Sélection cachée"
     ],
     "question": [
      {
-      "t": "De quoi voulez-vous discuter ?"
+      "t": "De quoi voulez-vous discuter?"
      }
     ]
    },
@@ -699,7 +729,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous discuter ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
    "brut_en": "What[SP]is[SP]it[SP]you[SP]wish[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 218,
    "budget": 210
@@ -725,28 +755,31 @@
        "pause": true
       },
       {
-       "t": " J'ai l'impression"
+       "t": " J'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "de m'évanouir..."
+       "t": "l'impression de m'évanouir..."
       },
       {
        "pause": true
       },
       {
-       "t": " La ville vole vraiment?"
-      },
-      {
-       "pause": true
+       "t": " La ville vole"
       },
       {
        "nl": true
       },
       {
-       "t": "Je ne sais plus ce qui est réel..."
+       "t": "vraiment?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je ne sais plus ce qui est réel..."
       }
      ]
     }
@@ -796,7 +829,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Urgh...[1205][U+000A] Je tiens à peine debout...[1205][U+000A] J'ai l'impression\nde m'évanouir...[1205][U+000F] La ville vole vraiment?[1205][U+000F]\nJe ne sais plus ce qui est réel...",
+   "brut_fr": "Urgh...[1205][U+000A] Je tiens à peine debout...[1205][U+000A] J'ai\nl'impression de m'évanouir...[1205][U+000F] La ville vole\nvraiment?[1205][U+000F] Je ne sais plus ce qui est réel...",
    "brut_en": "Ugh...[1205][U+000A][SP]I[SP]can[SP]barely[SP]stand...[1205][U+000A][SP]I[SP]feel[SP]like[SP]I'm\ngoing[SP]to[SP]faint...[1205][U+000F][SP]Is[SP]the[SP]city[SP]actually[SP]flying?[1205][U+000F]\nI[SP]can't[SP]tell[SP]what's[SP]real[SP]and[SP]what's[SP]not...",
    "data_size": 316,
    "budget": 308
@@ -810,25 +843,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'aurais voulu que ce soit toi qui me fasses"
+       "t": "J'aurais voulu que ce soit toi qui me"
       },
       {
        "nl": true
       },
       {
-       "t": "tourner la tête ainsi..."
+       "t": "fasses tourner la tête ainsi..."
       },
       {
        "pause": true
       },
       {
-       "t": " Dis-moi, on va bientôt"
+       "t": " Dis-moi,"
       },
       {
        "nl": true
       },
       {
-       "t": "devenir des Idéaliens, non?"
+       "t": "on va "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " bientôt devenir des Idéaliens, non?"
       }
      ]
     }
@@ -863,7 +902,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'aurais voulu que ce soit toi qui me fasses\ntourner la tête ainsi...[1205][0014] Dis-moi, on va bientôt\ndevenir des Idéaliens, non?",
+   "brut_fr": "J'aurais voulu que ce soit toi qui me\nfasses tourner la tête ainsi...[1205][0014] Dis-moi,\non va [1205][U+000F] bientôt devenir des Idéaliens, non?",
    "brut_en": "I[SP]would've[SP]wanted[SP]you[SP]to[SP]be[SP]the[SP]one[SP]to[SP]make[SP]me\nlightheaded[SP]like[SP]this...[1205][0014][SP]Hey,[SP]we're[SP]going[SP]to\nbecome[SP]Idealians[SP]soon,[SP]right?",
    "data_size": 278,
    "budget": 270
@@ -877,13 +916,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et si on créait quelques derniers souvenirs"
+       "t": "Et si on créait quelques derniers souvenirs en"
       },
       {
        "nl": true
       },
       {
-       "t": "en tant qu'humains?"
+       "t": "tant qu'humains?"
       },
       {
        "pause": true
@@ -918,7 +957,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et si on créait quelques derniers souvenirs\nen tant qu'humains?[1205][U+000F] Laisse tomber le blond là.",
+   "brut_fr": "Et si on créait quelques derniers souvenirs en\ntant qu'humains?[1205][U+000F] Laisse tomber le blond là.",
    "brut_en": "Why[SP]don't[SP]we[SP]go[SP]make[SP]a[SP]few[SP]last[SP]memories[SP]of\nour[SP]lives[SP]as[SP]humans?[1205][U+000F][SP]Just[SP]ditch[SP]blondie[SP]there.",
    "data_size": 216,
    "budget": 208
@@ -938,10 +977,13 @@
        "pause": true
       },
       {
+       "t": " Essayer"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Essayer de t'arrêter ne sert à rien."
+       "t": "de t'arrêter ne sert à rien."
       },
       {
        "pause": true
@@ -953,10 +995,13 @@
        "pause": true
       },
       {
+       "t": " Je"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Je veux juste que tu sois en sécurité..."
+       "t": "veux juste que tu sois en sécurité..."
       }
      ]
     }
@@ -997,7 +1042,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je pense te connaître assez bien...[1205][U+000F]\nEssayer de t'arrêter ne sert à rien.[1205][U+000A] Je le sais.[1205][U+000F]\nJe veux juste que tu sois en sécurité...",
+   "brut_fr": "Je pense te connaître assez bien...[1205][U+000F] Essayer\nde t'arrêter ne sert à rien.[1205][U+000A] Je le sais.[1205][U+000F] Je\nveux juste que tu sois en sécurité...",
    "brut_en": "I'm[SP]pretty[SP]sure[SP]I[SP]understand[SP]you[SP]as[SP]a[SP]person...[1205][U+000F]\nIt's[SP]useless[SP]to[SP]try[SP]and[SP]stop[SP]you.[1205][U+000A][SP]I[SP]know[SP]that.[1205][U+000F]\nI[SP]only[SP]want[SP]you[SP]to[SP]be[SP]safe...",
    "data_size": 292,
    "budget": 284
@@ -1017,19 +1062,25 @@
        "pause": true
       },
       {
+       "t": " Mais toi? Je veux"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Mais toi? Je veux que tu reviennes sain et sauf."
+       "t": "que tu reviennes sain et sauf."
       },
       {
        "pause": true
       },
       {
+       "t": " C'est pourquoi"
+      },
+      {
        "nl": true
       },
       {
-       "t": "C'est pourquoi j'ai préparé mes dernières créations..."
+       "t": "j'ai préparé mes dernières créations..."
       }
      ]
     }
@@ -1064,7 +1115,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce blond, je m'en fiche...[1205][U+000F]\nMais toi? Je veux que tu reviennes sain et sauf.[1205][U+000F]\nC'est pourquoi j'ai préparé mes dernières créations...",
+   "brut_fr": "Ce blond, je m'en fiche...[1205][U+000F] Mais toi? Je veux\nque tu reviennes sain et sauf.[1205][U+000F] C'est pourquoi\nj'ai préparé mes dernières créations...",
    "brut_en": "I[SP]don't[SP]give[SP]a[SP]damn[SP]about[SP]blondie[SP]there...[1205][U+000F]\nBut[SP]you?[SP]I[SP]want[SP]you[SP]to[SP]come[SP]back[SP]to[SP]me[SP]safe.[1205][U+000F]\nThat's[SP]why[SP]I[SP]prepared[SP]my[SP]newest[SP]creations...",
    "data_size": 304,
    "budget": 296
@@ -1078,19 +1129,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Allez, regarde. Chacune est une armure"
+       "t": "Allez, regarde. Chacune est une armure solide"
       },
       {
        "nl": true
       },
       {
-       "t": "solide pour te protéger! Toutes faites"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "avec amour..."
+       "t": "pour te protéger! Toutes faites avec amour..."
       }
      ]
     }
@@ -1119,7 +1164,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Allez, regarde. Chacune est une armure\nsolide pour te protéger! Toutes faites\navec amour...",
+   "brut_fr": "Allez, regarde. Chacune est une armure solide\npour te protéger! Toutes faites avec amour...",
    "brut_en": "Go[SP]on,[SP]take[SP]a[SP]look.[SP]Every[SP]one[SP]of[SP]them[SP]is[SP]a\nsecure[SP]piece[SP]of[SP]armor[SP]to[SP]protect[SP]you![SP]All\nmade[SP]with[SP]love...",
    "data_size": 236,
    "budget": 228
@@ -1133,13 +1178,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci. Revenez nous voir!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je vous attendrai..."
+       "t": "Merci. Revenez nous voir! Je vous attendrai..."
       }
      ]
     }
@@ -1162,7 +1201,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci. Revenez nous voir!\nJe vous attendrai...",
+   "brut_fr": "Merci. Revenez nous voir! Je vous attendrai...",
    "brut_en": "Thank[SP]you.[SP]Please[SP]come[SP]again!\nI'll[SP]be[SP]waiting...",
    "data_size": 128,
    "budget": 120
@@ -1207,19 +1246,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai entendu des gens dire que le Cercle"
+       "t": "J'ai entendu des gens dire que le"
       },
       {
        "nl": true
       },
       {
-       "t": "masqué combat le Bataillon dans cet"
+       "t": "Cercle masqué combat le Bataillon"
       },
       {
        "nl": true
       },
       {
-       "t": "étrange bâtiment."
+       "t": "dans cet étrange bâtiment."
       }
      ]
     }
@@ -1248,7 +1287,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai entendu des gens dire que le Cercle\nmasqué combat le Bataillon dans cet\nétrange bâtiment.",
+   "brut_fr": "J'ai entendu des gens dire que le\nCercle masqué combat le Bataillon\ndans cet étrange bâtiment.",
    "brut_en": "I[SP]heard[SP]some[SP]people[SP]saying[SP]the[SP]Masked[SP]Circle\nis[SP]fighting[SP]the[SP]Last[SP]Battalion[SP]inside[SP]that\nweird[SP]building.",
    "data_size": 226,
    "budget": 218
@@ -1455,13 +1494,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Certaines armures ne vont qu'à"
+       "t": "Certaines armures ne vont qu'à certains"
       },
       {
        "nl": true
       },
       {
-       "t": "certains personnages, vérifiez avant d'acheter."
+       "t": "personnages, vérifiez avant d'acheter."
       }
      ]
     }
@@ -1484,7 +1523,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Certaines armures ne vont qu'à\ncertains personnages, vérifiez avant d'acheter.",
+   "brut_fr": "Certaines armures ne vont qu'à certains\npersonnages, vérifiez avant d'acheter.",
    "brut_en": "Some[SP]armor[SP]can[SP]only[SP]be[SP]equipped[SP]by[SP]certain\npeople,[SP]so[SP]make[SP]sure[SP]to[SP]check[SP]before[SP]you[SP]buy.",
    "data_size": 208,
    "budget": 200
@@ -1501,22 +1540,28 @@
        "t": "Ensuite, pour vendre. Choisissez "
       },
       {
-       "enc": "Vendre objets"
-      },
-      {
-       "t": " et"
+       "enc": "Vendre"
       },
       {
        "nl": true
       },
       {
-       "t": "vous devrez sélectionner un type d'objet. Puis"
+       "enc": "objets"
+      },
+      {
+       "t": " et vous devrez sélectionner un type"
       },
       {
        "nl": true
       },
       {
-       "t": "choisissez l'objet à vendre."
+       "t": "d'objet. "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Puis choisissez l'objet à vendre."
       }
      ]
     }
@@ -1551,7 +1596,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ensuite, pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et\nvous devrez sélectionner un type d'objet. Puis\nchoisissez l'objet à vendre.",
+   "brut_fr": "Ensuite, pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] et vous devrez sélectionner un type\nd'objet. [1205][U+000F] Puis choisissez l'objet à vendre.",
    "brut_en": "Next,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]you'll\nbe[SP]prompted[SP]to[SP]select[SP]an[SP]item[SP]type.[SP]After[SP]that,\nchoose[SP]which[SP]item[SP]you[SP]want[SP]to[SP]sell.",
    "data_size": 302,
    "budget": 294
@@ -1565,19 +1610,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Nous payons environ la moitié"
+       "t": "Nous payons environ la moitié du prix"
       },
       {
        "nl": true
       },
       {
-       "t": "du prix d'origine. Pas d'objets"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "équipés ni spéciaux."
+       "t": "d'origine. Pas d'objets équipés ni spéciaux."
       }
      ]
     }
@@ -1606,7 +1645,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nous payons environ la moitié\ndu prix d'origine. Pas d'objets\néquipés ni spéciaux.",
+   "brut_fr": "Nous payons environ la moitié du prix\nd'origine. Pas d'objets équipés ni spéciaux.",
    "brut_en": "We[SP]normally[SP]pay[SP]around[SP]half[SP]the[SP]original[SP]price\nfor[SP]things[SP]you[SP]sell[SP]us.[SP]We[SP]don't[SP]take[SP]equipped\nitems[SP]or[SP]special[SP]items.",
    "data_size": 266,
    "budget": 258
@@ -1731,13 +1770,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Certaines armures ne vont qu'à"
+       "t": "Certaines armures ne vont qu'à certains"
       },
       {
        "nl": true
       },
       {
-       "t": "certains personnages, vérifiez avant d'acheter."
+       "t": "personnages, vérifiez avant d'acheter."
       }
      ]
     }
@@ -1760,7 +1799,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Certaines armures ne vont qu'à\ncertains personnages, vérifiez avant d'acheter.",
+   "brut_fr": "Certaines armures ne vont qu'à certains\npersonnages, vérifiez avant d'acheter.",
    "brut_en": "Some[SP]armor[SP]can[SP]only[SP]be[SP]equipped[SP]by[SP]certain\npeople,[SP]so[SP]make[SP]sure[SP]to[SP]check[SP]before[SP]you[SP]buy.",
    "data_size": 208,
    "budget": 200
@@ -1805,13 +1844,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Attention, certains accessoires sont réservés"
+       "t": "Attention, certains accessoires sont"
       },
       {
        "nl": true
       },
       {
-       "t": "à des personnages précis."
+       "t": "réservés à des personnages précis."
       }
      ]
     }
@@ -1834,7 +1873,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Attention, certains accessoires sont réservés\nà des personnages précis.",
+   "brut_fr": "Attention, certains accessoires sont\nréservés à des personnages précis.",
    "brut_en": "Be[SP]careful,[SP]since[SP]there[SP]are[SP]restrictions[SP]on\nwho[SP]can[SP]equip[SP]certain[SP]accessories.",
    "data_size": 188,
    "budget": 180
@@ -1851,22 +1890,28 @@
        "t": "Enfin, pour vendre. Choisissez "
       },
       {
-       "enc": "Vendre objets"
-      },
-      {
-       "t": " et"
+       "enc": "Vendre"
       },
       {
        "nl": true
       },
       {
-       "t": "vous devrez sélectionner un type d'objet. Puis"
+       "enc": "objets"
+      },
+      {
+       "t": " et vous devrez sélectionner un type"
       },
       {
        "nl": true
       },
       {
-       "t": "choisissez l'objet à vendre."
+       "t": "d'objet. "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Puis choisissez l'objet à vendre."
       }
      ]
     }
@@ -1901,7 +1946,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Enfin, pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et\nvous devrez sélectionner un type d'objet. Puis\nchoisissez l'objet à vendre.",
+   "brut_fr": "Enfin, pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] et vous devrez sélectionner un type\nd'objet. [1205][U+000F] Puis choisissez l'objet à vendre.",
    "brut_en": "Last,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]you'll\nbe[SP]prompted[SP]to[SP]select[SP]an[SP]item[SP]type.[SP]After[SP]that,\nchoose[SP]which[SP]item[SP]you[SP]want[SP]to[SP]sell.",
    "data_size": 302,
    "budget": 294
@@ -1915,19 +1960,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Nous payons environ la moitié"
+       "t": "Nous payons environ la moitié du prix"
       },
       {
        "nl": true
       },
       {
-       "t": "du prix d'origine. Pas d'objets"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "équipés ni spéciaux."
+       "t": "d'origine. Pas d'objets équipés ni spéciaux."
       }
      ]
     }
@@ -1956,7 +1995,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nous payons environ la moitié\ndu prix d'origine. Pas d'objets\néquipés ni spéciaux.",
+   "brut_fr": "Nous payons environ la moitié du prix\nd'origine. Pas d'objets équipés ni spéciaux.",
    "brut_en": "We[SP]normally[SP]pay[SP]around[SP]half[SP]the[SP]original[SP]price\nfor[SP]things[SP]you[SP]sell[SP]us.[SP]We[SP]don't[SP]take[SP]equipped\nitems[SP]or[SP]special[SP]items.",
    "data_size": 266,
    "budget": 258

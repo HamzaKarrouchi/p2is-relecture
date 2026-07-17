@@ -59,13 +59,13 @@
        "pause": true
       },
       {
-       "t": " La Rivière d'Argent"
+       "t": " La Rivière"
       },
       {
        "nl": true
       },
       {
-       "t": "porte très bien son nom."
+       "t": "d'Argent porte très bien son nom."
       }
      ]
     }
@@ -94,7 +94,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les parois brillent...[1205][001E] La Rivière d'Argent\nporte très bien son nom.",
+   "brut_fr": "Les parois brillent...[1205][001E] La Rivière\nd'Argent porte très bien son nom.",
    "brut_en": "The[SP]walls[SP]are[SP]shining...[1205][001E][SP]The[SP]Silver[SP]River[SP]is\na[SP]pretty[SP]appropriate[SP]name[SP]for[SP]it.",
    "data_size": 182,
    "budget": 174
@@ -108,13 +108,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "En descendant la rivière, nous devrions atteindre"
+       "t": "En descendant la rivière, nous devrions"
       },
       {
        "nl": true
       },
       {
-       "t": "l'entrée de Xibalba."
+       "t": "atteindre l'entrée de Xibalba."
       }
      ]
     }
@@ -137,7 +137,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En descendant la rivière, nous devrions atteindre\nl'entrée de Xibalba.",
+   "brut_fr": "En descendant la rivière, nous devrions\natteindre l'entrée de Xibalba.",
    "brut_en": "If[SP]we[SP]go[SP]down[SP]this[SP]river,[SP]we[SP]should[SP]come[SP]out\nat[SP]the[SP]entrance[SP]to[SP]Xibalba.",
    "data_size": 164,
    "budget": 156
@@ -151,13 +151,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a un de leurs bâteaux juste là."
+       "t": "Il y a un de leurs bâteaux juste"
       },
       {
        "nl": true
       },
       {
-       "t": "Mais qui va le conduire?"
+       "t": "là. Mais qui va le conduire?"
       }
      ]
     }
@@ -180,7 +180,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a un de leurs bâteaux juste là.\nMais qui va le conduire?",
+   "brut_fr": "Il y a un de leurs bâteaux juste\nlà. Mais qui va le conduire?",
    "brut_en": "One[SP]of[SP]their[SP]boats[SP]is[SP]over[SP]here.[SP]Question[SP]is,\nwho's[SP]going[SP]to[SP]pilot[SP]it?",
    "data_size": 168,
    "budget": 160
@@ -256,7 +256,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "(Dis...Elle va y arriver?)"
+       "t": "(Dis... Elle va y arriver?)"
       }
      ]
     }
@@ -273,7 +273,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "(Dis...Elle va y arriver?)",
+   "brut_fr": "(Dis... Elle va y arriver?)",
    "brut_en": "(You[SP]think[SP]she[SP]can[SP]do[SP]it?)",
    "data_size": 80,
    "budget": 72
@@ -349,13 +349,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quand as-tu appris à piloter les bâteaux,"
+       "t": "Quand as-tu appris à"
       },
       {
        "nl": true
       },
       {
-       "t": "Maya?"
+       "t": "piloter les bâteaux, Maya?"
       }
      ]
     }
@@ -378,7 +378,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand as-tu appris à piloter les bâteaux,\nMaya?",
+   "brut_fr": "Quand as-tu appris à\npiloter les bâteaux, Maya?",
    "brut_en": "So[SP]when[SP]did[SP]you[SP]learn[SP]to[SP]pilot[SP]a[SP]boat,\nBig[SP]Maya?",
    "data_size": 116,
    "budget": 108
@@ -528,19 +528,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous savez, je suis assez fière de ma"
+       "t": "Vous savez, je suis assez fière de"
       },
       {
        "nl": true
       },
       {
-       "t": "conduite...Je n'ai jamais tué personne!"
+       "t": "ma conduite... Je n'ai jamais tué"
       },
       {
        "nl": true
       },
       {
-       "t": "Ahahah... Hahahahaha!"
+       "t": "personne! Ahahah... Hahahahaha!"
       }
      ]
     }
@@ -569,7 +569,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous savez, je suis assez fière de ma\nconduite...Je n'ai jamais tué personne!\nAhahah... Hahahahaha!",
+   "brut_fr": "Vous savez, je suis assez fière de\nma conduite... Je n'ai jamais tué\npersonne! Ahahah... Hahahahaha!",
    "brut_en": "You[SP]know,[SP]I'm[SP]proud[SP]of[SP]my[SP]driving[SP]record,\nin[SP]a[SP]way...[SP]I've[SP]never[SP]killed[SP]anyone!\nAhaha...[SP]Hahahahaha!",
    "data_size": 222,
    "budget": 214
@@ -583,19 +583,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Soit gentille, laisse "
+       "t": "... Soit gentille, laisse "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " prendre les"
-      },
-      {
        "nl": true
       },
       {
-       "t": "commandes, d'accord Maya?"
+       "t": "prendre les commandes, d'accord Maya?"
       }
      ]
     }
@@ -624,7 +621,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Soit gentille, laisse [1113] prendre les\ncommandes, d'accord Maya?",
+   "brut_fr": "... Soit gentille, laisse [1113]\nprendre les commandes, d'accord Maya?",
    "brut_en": "...Now[SP]be[SP]a[SP]good[SP]girl[SP]and[SP]let[SP][1113][SP]take\nthe[SP]controls,[SP]okay[SP]Maya-chan?",
    "data_size": 156,
    "budget": 148

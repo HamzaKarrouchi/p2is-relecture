@@ -16,7 +16,7 @@
        "pause": true
       },
       {
-       "t": "Ma tête..."
+       "t": " Ma tête..."
       }
      ]
     }
@@ -39,7 +39,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C-C'était quoi...!?[1205][001E]Ma tête...",
+   "brut_fr": "C-C'était quoi...!?[1205][001E] Ma tête...",
    "brut_en": "Wh-Why[SP]are[SP]we[SP]seeing[SP]this...!?[1205][001E][SP]My[SP]head...",
    "data_size": 106,
    "budget": 98
@@ -102,16 +102,19 @@
        "pause": true
       },
       {
-       "t": " Désolé tout le monde..."
-      },
-      {
-       "pause": true
+       "t": " Désolé tout"
       },
       {
        "nl": true
       },
       {
-       "t": "Continuons..."
+       "t": "le monde..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Continuons..."
       }
      ]
     }
@@ -143,7 +146,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je... Vais bien...[1205][001E] Désolé tout le monde...[1205][001E]\nContinuons...",
+   "brut_fr": "Je... Vais bien...[1205][001E] Désolé tout\nle monde...[1205][001E] Continuons...",
    "brut_en": "I'm...[SP]I'm[SP]all[SP]right...[1205][001E][SP]Sorry,[SP]everyone...[1205][001E]\nLet's...[SP]keep[SP]going...",
    "data_size": 158,
    "budget": 150
@@ -157,16 +160,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est vrai... Père fut ma plus grande fierté..."
-      },
-      {
-       "pause": true
+       "t": "C'est vrai... Père fut ma plus grande"
       },
       {
        "nl": true
       },
       {
-       "t": "Je dois l'arrêter..."
+       "t": "fierté..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je dois l'arrêter..."
       }
      ]
     }
@@ -192,7 +198,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est vrai... Père fut ma plus grande fierté...[1205][001E]\nJe dois l'arrêter...",
+   "brut_fr": "C'est vrai... Père fut ma plus grande\nfierté...[1205][001E] Je dois l'arrêter...",
    "brut_en": "That's[SP]right...[SP]Father[SP]was[SP]my[SP]pride[SP]and[SP]joy...[1205][001E]\nI[SP]need[SP]to[SP]stop[SP]him...",
    "data_size": 160,
    "budget": 152
@@ -212,10 +218,13 @@
        "pause": true
       },
       {
+       "t": " c'est"
+      },
+      {
        "nl": true
       },
       {
-       "t": "c'est un sujet si compliqué..."
+       "t": "un sujet si compliqué..."
       }
      ]
     }
@@ -244,7 +253,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les pères hein...?[1205][001E]\nc'est un sujet si compliqué...",
+   "brut_fr": "Les pères hein...?[1205][001E] c'est\nun sujet si compliqué...",
    "brut_en": "Dads,[SP]huh...?[1205][001E][SP]It's[SP]such[SP]a[SP]complicated\nthing,[SP]for[SP]some[SP]reason...",
    "data_size": 158,
    "budget": 150
@@ -258,19 +267,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Nos pères font de nous ce que l'on est, et sont"
+       "t": "Nos pères font de nous ce que l'on est,"
       },
       {
        "nl": true
       },
       {
-       "t": "nos premiers obstacles…"
+       "t": "et sont nos premiers obstacles…"
       },
       {
        "pause": true
       },
       {
-       "t": " C’est peut-être ainsi pour les enfants."
+       "t": " C’est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "peut-être "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ainsi pour les enfants."
       }
      ]
     }
@@ -305,7 +326,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nos pères font de nous ce que l'on est, et sont\nnos premiers obstacles…[1205][001E] C’est peut-être ainsi pour les enfants.",
+   "brut_fr": "Nos pères font de nous ce que l'on est,\net sont nos premiers obstacles…[1205][001E] C’est\npeut-être [1205][U+000F] ainsi pour les enfants.",
    "brut_en": "Our[SP]dads[SP]make[SP]us[SP]who[SP]we[SP]are,[SP]and[SP]they're[SP]also\nthe[SP]first[SP]big[SP]obstacle[SP]we[SP]face...[1205][001E][SP]Maybe[SP]that's\njust[SP]how[SP]it[SP]has[SP]to[SP]be[SP]for[SP]kids.",
    "data_size": 280,
    "budget": 272
@@ -325,13 +346,13 @@
        "pause": true
       },
       {
-       "t": " Jun était si"
+       "t": " Jun"
       },
       {
        "nl": true
       },
       {
-       "t": "fier de son père."
+       "t": "était si fier de son père."
       }
      ]
     }
@@ -360,7 +381,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'en souviens...[1205][001E] Jun était si\nfier de son père.",
+   "brut_fr": "Je m'en souviens...[1205][001E] Jun\nétait si fier de son père.",
    "brut_en": "Oh[SP]yeah...[SP]I[SP]remember[SP]that.[1205][001E][SP]Jun[SP]was[SP]so\nproud[SP]of[SP]his[SP]dad.",
    "data_size": 140,
    "budget": 132

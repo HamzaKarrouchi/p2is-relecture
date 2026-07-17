@@ -16,19 +16,13 @@
        "pause": true
       },
       {
-       "t": " Le journalisme"
+       "t": " Le journalisme est un"
       },
       {
        "nl": true
       },
       {
-       "t": "est un métier noble."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "On a besoin de nous..."
+       "t": "métier noble. On a besoin de nous..."
       }
      ]
     }
@@ -57,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ecoute, Maya...[1205][001E] Le journalisme\nest un métier noble.\nOn a besoin de nous...",
+   "brut_fr": "Ecoute, Maya...[1205][001E] Le journalisme est un\nmétier noble. On a besoin de nous...",
    "brut_en": "Listen[SP]closely,[SP]Maya...[1205][001E][SP]Journalism[SP]is[SP]a[SP]job\nyou[SP]can[SP]be[SP]proud[SP]of.[SP]Society[SP]needs[SP]us...",
    "data_size": 228,
    "budget": 220
@@ -77,19 +71,13 @@
        "pause": true
       },
       {
-       "t": " Je veux être"
+       "t": " Je veux être reporter"
       },
       {
        "nl": true
       },
       {
-       "t": "reporter et transmettre"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "des rêves à tous..."
+       "t": "et transmettre des rêves à tous..."
       }
      ]
     }
@@ -118,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pour ça...[1205][001E] Je veux être\nreporter et transmettre\ndes rêves à tous...",
+   "brut_fr": "C'est pour ça...[1205][001E] Je veux être reporter\net transmettre des rêves à tous...",
    "brut_en": "That's[SP]why...[1205][001E][SP]I'm[SP]gonna[SP]be[SP]a[SP]reporter[SP]who\npasses[SP]down[SP]dreams[SP]to[SP]everyone...",
    "data_size": 176,
    "budget": 168
@@ -138,13 +126,7 @@
        "pause": true
       },
       {
-       "t": "< Ça va,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "je... ça va..."
+       "t": "< Ça va, je... ça va..."
       }
      ]
     }
@@ -173,7 +155,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je... désolé...[1205]< Ça va,\nje... ça va...",
+   "brut_fr": "Je... désolé...[1205]< Ça va, je... ça va...",
    "brut_en": "I'm...[SP]I'm[SP]sorry...[1205]<[SP]It's[SP]all[SP]right,\nI'm...[SP]okay...",
    "data_size": 126,
    "budget": 118
@@ -324,25 +306,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai suivi le métier de"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "mon père..."
+       "t": "J'ai suivi le métier de mon père..."
       },
       {
        "pause": true
       },
       {
-       "t": " Peut-être pour le"
-      },
-      {
        "nl": true
       },
       {
-       "t": "dépasser..."
+       "t": "Peut-être pour le dépasser..."
       }
      ]
     }
@@ -368,7 +341,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai suivi le métier de\nmon père...[1205][001E] Peut-être pour le\ndépasser...",
+   "brut_fr": "J'ai suivi le métier de mon père...[1205][001E]\nPeut-être pour le dépasser...",
    "brut_en": "I[SP]went[SP]into[SP]the[SP]same[SP]line[SP]of[SP]work[SP]as[SP]my[SP]dad...[1205][001E]\nMaybe[SP]I[SP]was[SP]trying[SP]to[SP]outdo[SP]him...",
    "data_size": 188,
    "budget": 180
@@ -434,19 +407,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est pour ça que je voulais"
+       "t": "C'est pour ça que je voulais réussir"
       },
       {
        "nl": true
       },
       {
-       "t": "réussir comme journaliste,"
+       "t": "comme journaliste, et concilier travail"
       },
       {
        "nl": true
       },
       {
-       "t": "et concilier travail et famille, contrairement à lui..."
+       "t": "et famille, "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " contrairement à lui..."
       }
      ]
     }
@@ -475,7 +454,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pour ça que je voulais\nréussir comme journaliste,\net concilier travail et famille, contrairement à lui...",
+   "brut_fr": "C'est pour ça que je voulais réussir\ncomme journaliste, et concilier travail\net famille, [1205][U+000F] contrairement à lui...",
    "brut_en": "That's[SP]why[SP]I...[SP]I[SP]wanted[SP]to[SP]be[SP]a[SP]successful\njournalist[SP]who[SP]could[SP]balance[SP]my[SP]work[SP]with\na[SP]family,[SP]the[SP]way[SP]he[SP]couldn't...",
    "data_size": 258,
    "budget": 250
@@ -495,13 +474,7 @@
        "pause": true
       },
       {
-       "t": " déjà entendu"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "ce poème ?"
+       "t": " déjà entendu ce poème?"
       }
      ]
     }
@@ -524,7 +497,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu as...[1205][001E] déjà entendu\nce poème ?",
+   "brut_fr": "Tu as...[1205][001E] déjà entendu ce poème?",
    "brut_en": "Have[SP]you...[1205][001E][SP]ever[SP]heard[SP]this[SP]poem[SP]before?",
    "data_size": 106,
    "budget": 98
@@ -544,19 +517,19 @@
        "pause": true
       },
       {
+       "t": " Pire qu'exilé"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Pire qu'exilé / Mort."
+       "t": "/ Mort."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Pire que mort / Oublié."
+       "t": " Pire que mort / Oublié."
       }
      ]
     }
@@ -591,7 +564,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pire que seul / Exilé.[1205][001E]\nPire qu'exilé / Mort.[1205][001E]\nPire que mort / Oublié.",
+   "brut_fr": "Pire que seul / Exilé.[1205][001E] Pire qu'exilé\n/ Mort.[1205][001E] Pire que mort / Oublié.",
    "brut_en": "Worse[SP]than[SP]alone[SP]/[SP]Exiled.[1205][001E]\nWorse[SP]than[SP]exiled[SP]/[SP]Dead.[1205][001E]\nWorse[SP]than[SP]dead[SP]/[SP]Forgotten.",
    "data_size": 192,
    "budget": 184
@@ -605,31 +578,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Que faut-il pour prouver"
+       "t": "Que faut-il pour prouver qu'on a"
       },
       {
        "nl": true
       },
       {
-       "t": "qu'on a vécu...?"
+       "t": "vécu...?"
       },
       {
        "pause": true
       },
       {
-       "t": " Même mort, si on est"
+       "t": " Même mort, si on est souvenu,"
       },
       {
        "nl": true
       },
       {
-       "t": "souvenu, on continue"
+       "t": "on continue"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "comme souvenir..."
+       "t": " comme souvenir..."
       }
      ]
     }
@@ -664,7 +637,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Que faut-il pour prouver\nqu'on a vécu...?[1205][001E] Même mort, si on est\nsouvenu, on continue\ncomme souvenir...",
+   "brut_fr": "Que faut-il pour prouver qu'on a\nvécu...?[1205][001E] Même mort, si on est souvenu,\non continue[1205][U+000F] comme souvenir...",
    "brut_en": "What[SP]does[SP]it[SP]take[SP]to[SP]prove[SP]you[SP]were[SP]ever\nalive...?[1205][001E][SP]Even[SP]if[SP]you[SP]die,[SP]as[SP]long[SP]as[SP]you're\nremembered,[SP]you'll[SP]live[SP]on[SP]as[SP]a[SP]memory...",
    "data_size": 282,
    "budget": 274
@@ -684,13 +657,13 @@
        "pause": true
       },
       {
-       "t": " Ce n'est pas si différent"
+       "t": " Ce n'est"
       },
       {
        "nl": true
       },
       {
-       "t": "d'être mort..."
+       "t": "pas si différent d'être mort..."
       }
      ]
     }
@@ -719,7 +692,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais si on est oublié...[1205][001E] Ce n'est pas si différent\nd'être mort...",
+   "brut_fr": "Mais si on est oublié...[1205][001E] Ce n'est\npas si différent d'être mort...",
    "brut_en": "But[SP]then,[SP]if[SP]you're[SP]forgotten...[1205][001E][SP]That's[SP]really\nno[SP]different[SP]from[SP]being[SP]dead...",
    "data_size": 188,
    "budget": 180
@@ -739,25 +712,22 @@
        "pause": true
       },
       {
-       "t": " On cherche à laisser"
+       "t": " On cherche"
       },
       {
        "nl": true
       },
       {
-       "t": "une trace en autrui..."
+       "t": "à laisser une trace en autrui..."
       },
       {
        "pause": true
       },
       {
-       "t": " Suivre ses rêves"
-      },
-      {
        "nl": true
       },
       {
-       "t": "peut y aider."
+       "t": "Suivre ses rêves peut y aider."
       }
      ]
     }
@@ -798,7 +768,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nul n'est une île...[1205][001E] On cherche à laisser\nune trace en autrui...[1205][001E] Suivre ses rêves\npeut y aider.",
+   "brut_fr": "Nul n'est une île...[1205][001E] On cherche\nà laisser une trace en autrui...[1205][001E]\nSuivre ses rêves peut y aider.",
    "brut_en": "No[SP]man[SP]is[SP]an[SP]island...[1205][001E][SP]So[SP]we[SP]try[SP]to[SP]imprint\nour[SP]existence[SP]in[SP]others...[1205][001E][SP]Following[SP]one's\ndream[SP]may[SP]be[SP]one[SP]way[SP]of[SP]doing[SP]so.",
    "data_size": 268,
    "budget": 260
@@ -818,25 +788,31 @@
        "pause": true
       },
       {
-       "t": " Si vous m'aviez vraiment"
+       "t": " Si vous"
       },
       {
        "nl": true
       },
       {
-       "t": "oubliée..."
+       "t": "m'aviez vraiment oubliée..."
       },
       {
        "pause": true
       },
       {
-       "t": " Je ne serais peut-être"
+       "t": " Je"
       },
       {
        "nl": true
       },
       {
-       "t": "pas là..."
+       "t": "ne serais peut-être"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pas là..."
       }
      ]
     }
@@ -877,7 +853,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'était pareil pour moi.[1205][001E] Si vous m'aviez vraiment\noubliée...[1205][001E] Je ne serais peut-être\npas là...",
+   "brut_fr": "C'était pareil pour moi.[1205][001E] Si vous\nm'aviez vraiment oubliée...[1205][001E] Je\nne serais peut-être[1205][U+000F] pas là...",
    "brut_en": "That's[SP]how[SP]it[SP]was[SP]with[SP]me.[1205][001E][SP]If[SP]you[SP]guys[SP]had\nreally[SP]forgotten[SP]about[SP]me...[1205][001E][SP]I[SP]might[SP]not[SP]be\nhere[SP]right[SP]now...",
    "data_size": 238,
    "budget": 230
@@ -891,7 +867,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je n'oublierai pas !"
+       "t": "Je n'oublierai pas!"
       },
       {
        "pause": true
@@ -903,13 +879,7 @@
        "nl": true
       },
       {
-       "t": "ma grande Maya,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "ni personne ici !"
+       "t": "ma grande Maya, ni personne ici!"
       }
      ]
     }
@@ -938,7 +908,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je n'oublierai pas ![1205][001E] Jamais je n'oublierai\nma grande Maya,\nni personne ici !",
+   "brut_fr": "Je n'oublierai pas![1205][001E] Jamais je n'oublierai\nma grande Maya, ni personne ici!",
    "brut_en": "I[SP]won't[SP]forget...![1205][001E][SP]I[SP]won't[SP]ever[SP]forget[SP]my\nBig[SP]Maya,[SP]or[SP]anyone[SP]here,[SP]ever[SP]again!",
    "data_size": 182,
    "budget": 174
@@ -1031,13 +1001,13 @@
        "pause": true
       },
       {
-       "t": " C'est là que ma Persona"
+       "t": " C'est là que ma"
       },
       {
        "nl": true
       },
       {
-       "t": "me guide depuis dix ans..."
+       "t": "Persona me guide depuis dix ans..."
       }
      ]
     }
@@ -1069,7 +1039,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est comme si j'avais enfin\ntrouvé ma place.[1205][001E] C'est là que ma Persona\nme guide depuis dix ans...",
+   "brut_fr": "C'est comme si j'avais enfin\ntrouvé ma place.[1205][001E] C'est là que ma\nPersona me guide depuis dix ans...",
    "brut_en": "It's[SP]like...[SP]I've[SP]finally[SP]found[SP]where[SP]I[SP]belong.[1205][001E]\nThis[SP]is[SP]where[SP]my[SP]Persona[SP]has[SP]been[SP]guiding[SP]me\nfor[SP]the[SP]last[SP]ten[SP]years...",
    "data_size": 262,
    "budget": 254
@@ -1083,13 +1053,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je ne veux plus que"
+       "t": "Je ne veux plus que quelqu'un"
       },
       {
        "nl": true
       },
       {
-       "t": "quelqu'un souffre..."
+       "t": "souffre..."
       },
       {
        "pause": true
@@ -1121,7 +1091,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne veux plus que\nquelqu'un souffre...[1205][001E] On doit vite en finir.",
+   "brut_fr": "Je ne veux plus que quelqu'un\nsouffre...[1205][001E] On doit vite en finir.",
    "brut_en": "I[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]suffer...[1205][001E]\nWe[SP]need[SP]to[SP]hurry[SP]and[SP]put[SP]an[SP]end[SP]to[SP]this.",
    "data_size": 182,
    "budget": 174
@@ -1135,13 +1105,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Rêver de devenir"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "une star..."
+       "t": "Rêver de devenir une star..."
       }
      ]
     }
@@ -1158,7 +1122,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Rêver de devenir\nune star...",
+   "brut_fr": "Rêver de devenir une star...",
    "brut_en": "Dreaming[SP]of[SP]becoming[SP]a[SP]big[SP]star...",
    "data_size": 96,
    "budget": 88
@@ -1172,31 +1136,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Suivre la mode et"
+       "t": "Suivre la mode et porter des"
       },
       {
        "nl": true
       },
       {
-       "t": "porter des vêtements"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "branchés, c'est pareil..."
+       "t": "vêtements branchés, c'est pareil..."
       },
       {
        "pause": true
       },
       {
-       "t": " Chacun veut se faire"
-      },
-      {
        "nl": true
       },
       {
-       "t": "une place."
+       "t": "Chacun veut se "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " faire une place."
       }
      ]
     }
@@ -1231,7 +1192,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Suivre la mode et\nporter des vêtements\nbranchés, c'est pareil...[1205][001E] Chacun veut se faire\nune place.",
+   "brut_fr": "Suivre la mode et porter des\nvêtements branchés, c'est pareil...[1205][001E]\nChacun veut se [1205][U+000F] faire une place.",
    "brut_en": "Wearing[SP]trendy[SP]clothes[SP]and[SP]chasing[SP]after[SP]the\nlatest[SP]fashion[SP]is[SP]the[SP]same[SP]thing...[1205][001E][SP]Everyone's\ndesperate[SP]to[SP]carve[SP]out[SP]their[SP]own[SP]niche.",
    "data_size": 294,
    "budget": 286
@@ -1245,19 +1206,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On aime et suit ses rêves"
+       "t": "On aime et suit ses rêves pour ne"
       },
       {
        "nl": true
       },
       {
-       "t": "pour ne pas disparaître"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "des mémoires..."
+       "t": "pas disparaître des mémoires..."
       }
      ]
     }
@@ -1280,7 +1235,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On aime et suit ses rêves\npour ne pas disparaître\ndes mémoires...",
+   "brut_fr": "On aime et suit ses rêves pour ne\npas disparaître des mémoires...",
    "brut_en": "The[SP]reason[SP]why[SP]people[SP]fall[SP]in[SP]love[SP]and[SP]chase\ndreams[SP]is[SP]because[SP]they[SP]want[SP]to[SP]be[SP]remembered...",
    "data_size": 208,
    "budget": 200
@@ -1294,40 +1249,34 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais ce n'est pas si mal,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "non ?"
+       "t": "Mais ce n'est pas si mal, non?"
       },
       {
        "pause": true
       },
       {
-       "t": " Penser ainsi n'a rien"
+       "t": " Penser"
       },
       {
        "nl": true
       },
       {
-       "t": "de mauvais..."
+       "t": "ainsi n'a rien de mauvais..."
       },
       {
        "pause": true
       },
       {
+       "pause": true
+      },
+      {
+       "t": " Peut-être"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Peut-être que je ne suis"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pas si forte..."
+       "t": "que je ne suis pas si forte..."
       }
      ]
     }
@@ -1365,7 +1314,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais ce n'est pas si mal,\nnon ?[1205][001E] Penser ainsi n'a rien\nde mauvais...[1205][001E]\nPeut-être que je ne suis\npas si forte...",
+   "brut_fr": "Mais ce n'est pas si mal, non?[1205][001E] Penser\nainsi n'a rien de mauvais...[1205][001E][1205][U+000F] Peut-être\nque je ne suis pas si forte...",
    "brut_en": "But[SP]that's[SP]not[SP]so[SP]bad,[SP]is[SP]it?[1205][001E][SP]There's[SP]nothing\nwrong[SP]with[SP]thinking[SP]that[SP]way...[SP]is[SP]there...?[1205][001E]\nMaybe[SP]I'm[SP]not[SP]that[SP]strong[SP]after[SP]all..",
    "data_size": 288,
    "budget": 280

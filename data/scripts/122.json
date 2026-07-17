@@ -16,10 +16,13 @@
        "pause": true
       },
       {
+       "t": " On"
+      },
+      {
        "nl": true
       },
       {
-       "t": "On dirait le rugissement d'un lion."
+       "t": "dirait le rugissement d'un lion."
       }
      ]
     }
@@ -48,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Est-ce les Léonides...?[1205][001E]\nOn dirait le rugissement d'un lion.",
+   "brut_fr": "Est-ce les Léonides...?[1205][001E] On\ndirait le rugissement d'un lion.",
    "brut_en": "Is[SP]that[SP]the[SP]rumored[SP]Leonids...?[1205][001E][SP]Indeed,[SP]it\nlooks[SP]as[SP]if[SP]a[SP]lion[SP]is[SP]roaring.",
    "data_size": 182,
    "budget": 174
@@ -62,22 +65,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le ciel est rayé d'étoiles qui ne"
+       "t": "Le ciel est rayé d'étoiles qui ne devraient"
       },
       {
        "nl": true
       },
       {
-       "t": "devraient pas tomber..."
+       "t": "pas tomber..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Quel terrible présage..."
+       "t": " Quel terrible présage..."
       }
      ]
     }
@@ -106,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le ciel est rayé d'étoiles qui ne\ndevraient pas tomber...[1205][001E]\nQuel terrible présage...",
+   "brut_fr": "Le ciel est rayé d'étoiles qui ne devraient\npas tomber...[1205][001E] Quel terrible présage...",
    "brut_en": "The[SP]sky[SP]is[SP]streaked[SP]with[SP]stars[SP]that[SP]should[SP]not\nbe[SP]falling[SP]now...[1205][001E][SP]What[SP]a[SP]terrible[SP]omen...",
    "data_size": 212,
    "budget": 204
@@ -129,48 +129,45 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "La Grande Croix va vite commencer!"
+       "t": " La Grande"
       },
       {
        "nl": true
       },
       {
-       "t": "Le Caracol doit être au sommet! Vite!"
+       "t": "Croix va vite commencer! Le Caracol doit"
       },
       {
        "nl": true
-      }
-     ]
-    },
-    {
-     "nom": "Maya",
-     "seg": [
-      {
-       "hero": "prenom"
       },
       {
-       "t": "-kun..."
+       "t": "être au sommet! Vite!"
       },
       {
        "pause": true
       },
       {
-       "t": " Que faire pour Jun-kun?"
+       "t": "  "
+      }
+     ]
+    },
+    {
+     "nom": "Maya [1113]-kun...[1205][001E]",
+     "seg": [
+      {
+       "t": "Que faire pour Jun-kun?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je ne veux pas que"
       },
       {
        "nl": true
       },
       {
-       "t": "Je ne veux pas que d'autres"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "souffrent par ma faute..."
+       "t": "d'autres souffrent par ma faute..."
       }
      ]
     }
@@ -237,7 +234,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Le cri du lion résonne au loin[1432][NULL][NULL][0014]...[1205][001E]\nLa Grande Croix va vite commencer!\nLe Caracol doit être au sommet! Vite!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n[1113]-kun...[1205][001E] Que faire pour Jun-kun?\nJe ne veux pas que d'autres\nsouffrent par ma faute...",
+   "brut_fr": "[1432][NULL][NULL][0014]Le cri du lion résonne au loin[1432][NULL][NULL][0014]...[1205][001E] La Grande\nCroix va vite commencer! Le Caracol doit\nêtre au sommet! Vite![1205][U+000F] [E1][E2] [E3][E4][NULL][NULL]\"Maya [1113]-kun...[1205][001E]\nQue faire pour Jun-kun?[1205][U+000F] Je ne veux pas que\nd'autres souffrent par ma faute...",
    "brut_en": "[1432][NULL][NULL][0014]The[SP]lion's[SP]roar[SP]echoes[SP]far[SP]and[SP]wide[1432][NULL][NULL][0014]...[1205][001E]\nThe[SP]Grand[SP]Cross[SP]will[SP]be[SP]starting[SP]soon!\nThe[SP]Caracol[SP]must[SP]be[SP]at[SP]the[SP]summit![SP]Hurry!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n[1113]-kun...[1205][001E][SP]What[SP]can[SP]I[SP]do[SP]for[SP]Jun-kun?\nI[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]suffer[SP]because\nof[SP]me...",
    "data_size": 486,
    "budget": 478
@@ -318,19 +315,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais d'un autre côté... Faut penser"
+       "t": "Mais d'un autre côté... Faut penser à ce que"
       },
       {
        "nl": true
       },
       {
-       "t": "à ce que ressentent ceux qu'on"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "laisse derrière, hein?"
+       "t": "ressentent ceux qu'on laisse derrière, hein?"
       }
      ]
     }
@@ -353,7 +344,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais d'un autre côté... Faut penser\nà ce que ressentent ceux qu'on\nlaisse derrière, hein?",
+   "brut_fr": "Mais d'un autre côté... Faut penser à ce que\nressentent ceux qu'on laisse derrière, hein?",
    "brut_en": "Though[SP]on[SP]the[SP]other[SP]hand...[SP]You[SP]have[SP]to[SP]think\nof[SP]how[SP]the[SP]people[SP]you[SP]leave[SP]behind[SP]feel,[SP]huh?",
    "data_size": 210,
    "budget": 202
@@ -367,22 +358,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "La ligne suivante de l'Oracle"
+       "t": "La ligne suivante de l'Oracle était: "
+      },
+      {
+       "enc": "Cinq"
       },
       {
        "nl": true
       },
       {
-       "t": "était: "
-      },
-      {
-       "enc": "Cinq crânes brillent dans"
+       "enc": "crânes brillent dans les profondeurs de"
       },
       {
        "nl": true
       },
       {
-       "enc": "les profondeurs de la terre."
+       "enc": "la terre."
       },
       {
        "pause": true
@@ -391,10 +382,10 @@
        "t": " Ils"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "se rapprochent..."
+       "t": " se rapprochent..."
       }
      ]
     }
@@ -432,7 +423,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La ligne suivante de l'Oracle\nétait: [1432][NULL][NULL][0014]Cinq crânes brillent dans\nles profondeurs de la terre.[1432][NULL][NULL][0014][1205][001E] Ils\nse rapprochent...",
+   "brut_fr": "La ligne suivante de l'Oracle était: [1432][NULL][NULL][0014]Cinq\ncrânes brillent dans les profondeurs de\nla terre.[1432][NULL][NULL][0014][1205][001E] Ils[1205][U+000F] se rapprochent...",
    "brut_en": "The[SP]line[SP]from[SP]the[SP]Oracle[SP]of[SP]Maia[SP]after[SP]this\nwas,[SP][1432][NULL][NULL][0014]Five[SP]skulls[SP]glow[SP]in[SP]the[SP]depths[SP]of[SP]the\nearth.[1432][NULL][NULL][0014][1205][001E][SP]They're[SP]steadily[SP]getting[SP]closer...",
    "data_size": 300,
    "budget": 292
@@ -446,19 +437,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Jun veut vraiment détruire le"
+       "t": "Jun veut vraiment détruire le monde?"
       },
       {
        "nl": true
       },
       {
-       "t": "monde? Pourquoi est-il devenu"
+       "t": "Pourquoi est-il devenu Joker?"
       },
       {
        "nl": true
-      },
-      {
-       "t": "Joker? "
       },
       {
        "hero": "prenom"
@@ -511,7 +499,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun veut vraiment détruire le\nmonde? Pourquoi est-il devenu\nJoker? [1113]...[1205][001E] Je pige pas du tout!",
+   "brut_fr": "Jun veut vraiment détruire le monde?\nPourquoi est-il devenu Joker?\n[1113]...[1205][001E] Je pige pas du tout!",
    "brut_en": "Is[SP]Jun[SP]really[SP]trying[SP]to[SP]destroy[SP]the[SP]world?\nWhy[SP]did[SP]he[SP]become[SP]Joker?[SP][1113]...[1205][001E][SP]I[SP]don't\nget[SP]it[SP]at[SP]all!",
    "data_size": 218,
    "budget": 210
@@ -546,10 +534,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Sois prudent..."
+       "t": " Sois prudent..."
       }
      ]
     }
@@ -587,7 +572,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pardon, [1113]...[1205][001E]\nShunsuke-san...[1205][001E]\nSois prudent...",
+   "brut_fr": "Pardon, [1113]...[1205][001E]\nShunsuke-san...[1205][001E] Sois prudent...",
    "brut_en": "Sorry[SP]I[SP]lost[SP]my[SP]cool,[SP][1113]...[1205][001E]\nShunsuke-san...[1205][001E][SP]Please[SP]be[SP]okay...",
    "data_size": 154,
    "budget": 146
@@ -601,31 +586,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les Léonides surviennent si"
+       "t": "Les Léonides surviennent si la poussière"
       },
       {
        "nl": true
       },
       {
-       "t": "la poussière autour du soleil"
+       "t": "autour du soleil croise l'orbite de la Terre,"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "croise l'orbite de la Terre,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "donnant l'impression de jaillir"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "du Lion."
+       "t": "donnant l'impression de jaillir du Lion."
       }
      ]
     }
@@ -654,7 +630,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Léonides surviennent si\nla poussière autour du soleil\ncroise l'orbite de la Terre,\ndonnant l'impression de jaillir\ndu Lion.",
+   "brut_fr": "Les Léonides surviennent si la poussière\nautour du soleil croise l'orbite de la Terre,[1205][U+000F]\ndonnant l'impression de jaillir du Lion.",
    "brut_en": "Leonid[SP]is[SP]an[SP]phenomenon[SP]where,[SP]when[SP]the[SP]rings\nof[SP]dust[SP]around[SP]the[SP]sun[SP]overlap[SP]with[SP]Earth's\nrotation,[SP]look[SP]like[SP]they're[SP]pouring[SP]from[SP]Leo.",
    "data_size": 302,
    "budget": 294
@@ -668,19 +644,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais c'est périodique."
+       "t": "Mais c'est périodique. Ce n'est"
       },
       {
        "nl": true
       },
       {
-       "t": "Ce n'est jamais aussi fort"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "maintenant..."
+       "t": "jamais aussi fort maintenant..."
       }
      ]
     }
@@ -703,7 +673,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais c'est périodique.\nCe n'est jamais aussi fort\nmaintenant...",
+   "brut_fr": "Mais c'est périodique. Ce n'est\njamais aussi fort maintenant...",
    "brut_en": "But[SP]it[SP]always[SP]happens[SP]in[SP]season.[SP]It's[SP]never\nthis[SP]strong[SP]now...",
    "data_size": 156,
    "budget": 148
@@ -729,13 +699,13 @@
        "pause": true
       },
       {
-       "t": " Les rumeurs qui circulent ont"
+       "t": " Les rumeurs qui circulent"
       },
       {
        "nl": true
       },
       {
-       "t": "provoqué cet étrange phénomène."
+       "t": "ont provoqué cet étrange phénomène."
       }
      ]
     }
@@ -767,7 +737,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand on parle du loup, on en voit la\nqueue...[1205][001E] Les rumeurs qui circulent ont\nprovoqué cet étrange phénomène.",
+   "brut_fr": "Quand on parle du loup, on en voit la\nqueue...[1205][001E] Les rumeurs qui circulent\nont provoqué cet étrange phénomène.",
    "brut_en": "Speak[SP]of[SP]the[SP]devil[SP]and[SP]he[SP]doth[SP]appear...[1205][001E]\nThe[SP]rumors[SP]circulating[SP]are[SP]what[SP]brought[SP]about\nthis[SP]strange[SP]phenomenon.",
    "data_size": 258,
    "budget": 250
@@ -787,25 +757,25 @@
        "pause": true
       },
       {
-       "t": " D'abord"
+       "t": " D'abord les"
       },
       {
        "nl": true
       },
       {
-       "t": "les soldats, puis les étoiles...?"
+       "t": "soldats, puis les étoiles...? M-Mes"
       },
       {
        "nl": true
       },
       {
-       "t": "M-Mes genoux tremblent trop"
+       "t": "genoux tremblent trop"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "pour bouger!"
+       "t": " pour bouger!"
       }
      ]
     }
@@ -840,7 +810,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh non... Oh non...[1205][001E] D'abord\nles soldats, puis les étoiles...?\nM-Mes genoux tremblent trop\npour bouger!",
+   "brut_fr": "Oh non... Oh non...[1205][001E] D'abord les\nsoldats, puis les étoiles...? M-Mes\ngenoux tremblent trop[1205][U+000F] pour bouger!",
    "brut_en": "Oh[SP]no...[SP]Oh[SP]no...[1205][001E][SP]F-First[SP]soldiers[SP]and[SP]now\nstars...?[SP]M-My[SP]knees[SP]are[SP]shaking[SP]so[SP]much[SP]that\nI[SP]can't[SP]move!",
    "data_size": 242,
    "budget": 234
@@ -854,19 +824,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "On s'entraîne dur"
+       "t": "On s'entraîne dur chaque jour dans"
       },
       {
        "nl": true
       },
       {
-       "t": "chaque jour dans l'espoir"
+       "t": "l'espoir d'apprendre l'art ultime"
       },
       {
-       "nl": true
-      },
-      {
-       "t": "d'apprendre l'art ultime"
+       "pause": true
       },
       {
        "nl": true
@@ -901,7 +868,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On s'entraîne dur\nchaque jour dans l'espoir\nd'apprendre l'art ultime\nde Goketsuji, le Mokujinken!",
+   "brut_fr": "On s'entraîne dur chaque jour dans\nl'espoir d'apprendre l'art ultime[1205][U+000F]\nde Goketsuji, le Mokujinken!",
    "brut_en": "We[SP]undergo[SP]strict[SP]training[SP]every[SP]day[SP]in[SP]hopes\nof[SP]one[SP]day[SP]learning[SP]Goketsuji's[SP]ultimate\nskill,[SP]the[SP]Mokujinken!",
    "data_size": 252,
    "budget": 244
@@ -915,22 +882,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "J-J'ignorais que Yukino"
+       "t": "J-J'ignorais que Yukino pouvait être si"
       },
       {
        "nl": true
       },
       {
-       "t": "pouvait être si effrayante..."
+       "t": "effrayante..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
+       "t": " Dure comme la pierre..."
       },
       {
-       "t": "Dure comme la pierre..."
+       "pause": true
       },
       {
        "nl": true
@@ -971,7 +938,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J-J'ignorais que Yukino\npouvait être si effrayante...[1205][001E]\nDure comme la pierre...\nElle est si modeste avec Fujii-san!",
+   "brut_fr": "J-J'ignorais que Yukino pouvait être si\neffrayante...[1205][001E] Dure comme la pierre...[1205][U+000F]\nElle est si modeste avec Fujii-san!",
    "brut_en": "I-I[SP]didn't[SP]know[SP]Yukino-san[SP]could[SP]be[SP]so\nscary...[1205][001E][SP]I[SP]mean,[SP]she[SP]was[SP]hard[SP]as[SP]nails...\nShe's[SP]so[SP]modest[SP]when[SP]she's[SP]with[SP]Fujii-san!",
    "data_size": 284,
    "budget": 276
@@ -985,25 +952,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ta coiffure est trop cool! C'est"
+       "t": "Ta coiffure est trop cool! C'est quoi, une"
       },
       {
        "nl": true
       },
       {
-       "t": "quoi, une coupe au bol? J'aimerais"
+       "t": "coupe au bol? J'aimerais bien essayer,"
       },
       {
        "nl": true
       },
       {
-       "t": "bien essayer, mais y'a cette"
+       "t": "mais y'a cette"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "histoire de crâne rasé."
+       "t": " histoire de crâne rasé."
       }
      ]
     }
@@ -1032,7 +999,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ta coiffure est trop cool! C'est\nquoi, une coupe au bol? J'aimerais\nbien essayer, mais y'a cette\nhistoire de crâne rasé.",
+   "brut_fr": "Ta coiffure est trop cool! C'est quoi, une\ncoupe au bol? J'aimerais bien essayer,\nmais y'a cette[1205][U+000F] histoire de crâne rasé.",
    "brut_en": "Your[SP]hairstyle[SP]is[SP]so[SP]cool![SP]What[SP]is[SP]that,\na[SP]pageboy?[SP]I[SP]wish[SP]I[SP]could[SP]give[SP]it[SP]a[SP]try,\nbut[SP]there's[SP]the[SP]whole[SP]shaved-head[SP]thing.",
    "data_size": 278,
    "budget": 270
@@ -1046,25 +1013,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le maître a maîtrisé un art martial"
+       "t": "Le maître a maîtrisé un art martial ancien."
       },
       {
        "nl": true
       },
       {
-       "t": "ancien. Il a 68 ans, mais il"
+       "t": "Il a 68 ans, mais il s'entraîne encore tous"
       },
       {
        "nl": true
       },
       {
-       "t": "s'entraîne encore tous les jours"
+       "t": "les jours"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "et fait un jogging en forêt."
+       "t": " et fait un jogging en forêt."
       }
      ]
     }
@@ -1093,7 +1060,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le maître a maîtrisé un art martial\nancien. Il a 68 ans, mais il\ns'entraîne encore tous les jours\net fait un jogging en forêt.",
+   "brut_fr": "Le maître a maîtrisé un art martial ancien.\nIl a 68 ans, mais il s'entraîne encore tous\nles jours[1205][U+000F] et fait un jogging en forêt.",
    "brut_en": "The[SP]head[SP]monk[SP]has[SP]mastered[SP]an[SP]ancient\nmartial[SP]art.[SP]He's[SP]68[SP]years[SP]old,[SP]but[SP]he[SP]still\ntrains[SP]every[SP]day[SP]and[SP]jogs[SP]in[SP]the[SP]forest.",
    "data_size": 280,
    "budget": 272
@@ -1107,25 +1074,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il est gracieux"
+       "t": "Il est gracieux comme un singe."
       },
       {
        "nl": true
       },
       {
-       "t": "comme un singe. Parfois, les"
+       "t": "Parfois, les randonneurs prennent même"
       },
       {
        "nl": true
       },
       {
-       "t": "randonneurs prennent même le"
+       "t": "le"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "maître pour une bête mythique."
+       "t": " maître pour une bête mythique."
       }
      ]
     }
@@ -1154,7 +1121,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il est gracieux\ncomme un singe. Parfois, les\nrandonneurs prennent même le\nmaître pour une bête mythique.",
+   "brut_fr": "Il est gracieux comme un singe.\nParfois, les randonneurs prennent même\nle[1205][U+000F] maître pour une bête mythique.",
    "brut_en": "His[SP]movements[SP]are[SP]as[SP]graceful[SP]as[SP]a[SP]monkey's.\nSometimes,[SP]hikers[SP]even[SP]mistake[SP]the[SP]head[SP]monk\nfor[SP]a[SP]mythical[SP]beast.",
    "data_size": 256,
    "budget": 248

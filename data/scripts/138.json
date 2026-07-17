@@ -81,7 +81,13 @@
        "nl": true
       },
       {
-       "t": "Les trois factions présentes peuvent invoquer"
+       "t": "Les trois factions présentes peuvent "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " invoquer"
       },
       {
        "nl": true
@@ -119,7 +125,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On dirait que tous les joueurs sont présents.[1205][001E]\nLes trois factions présentes peuvent invoquer\nXibalba et voir leurs souhaits exaucés.",
+   "brut_fr": "On dirait que tous les joueurs sont présents.[1205][001E]\nLes trois factions présentes peuvent [1205][U+000F] invoquer\nXibalba et voir leurs souhaits exaucés.",
    "brut_en": "It[SP]seems[SP]all[SP]the[SP]players[SP]have[SP]taken[SP]the[SP]stage.[1205][001E]\nThe[SP]three[SP]factions[SP]here[SP]are[SP]qualified[SP]to[SP]raise\nXibalba[SP]and[SP]have[SP]their[SP]desires[SP]granted.",
    "data_size": 294,
    "budget": 286
@@ -139,13 +145,13 @@
        "nl": true
       },
       {
-       "t": "représentant le Zodiac, possède aussi"
+       "t": "représentant le Zodiac, possède aussi ce"
       },
       {
        "nl": true
       },
       {
-       "t": "ce pouvoir."
+       "t": "pouvoir."
       }
      ]
     }
@@ -174,7 +180,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Exactement. Mon Ordre de la Lance Sacrée,\nreprésentant le Zodiac, possède aussi\nce pouvoir.",
+   "brut_fr": "Exactement. Mon Ordre de la Lance Sacrée,\nreprésentant le Zodiac, possède aussi ce\npouvoir.",
    "brut_en": "Exactly.[SP]My[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance,\nsymbolizing[SP]the[SP]Zodiac,[SP]has[SP]those\nqualifications[SP]as[SP]well.",
    "data_size": 214,
    "budget": 206
@@ -219,13 +225,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Seuls ceux nés sous la constellation"
+       "t": "Seuls ceux nés sous la constellation de la"
       },
       {
        "nl": true
       },
       {
-       "t": "de la Croix Cosmique peuvent contrôler les cinq crânes."
+       "t": "Croix Cosmique peuvent contrôler les cinq"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "crânes."
       }
      ]
     }
@@ -248,7 +260,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Seuls ceux nés sous la constellation\nde la Croix Cosmique peuvent contrôler les cinq crânes.",
+   "brut_fr": "Seuls ceux nés sous la constellation de la\nCroix Cosmique peuvent contrôler les cinq\ncrânes.",
    "brut_en": "Only[SP]those[SP]born[SP]under[SP]the[SP]holy[SP]constellation\nof[SP]the[SP]Grand[SP]Cross[SP]can[SP]control[SP]the[SP]five[SP]skulls.",
    "data_size": 210,
    "budget": 202
@@ -317,13 +329,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Comme vous, marionnette de la roue"
+       "t": "Comme vous, marionnette"
       },
       {
        "nl": true
       },
       {
-       "t": "de la fortune."
+       "t": "de la roue de la fortune."
       }
      ]
     }
@@ -346,7 +358,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Comme vous, marionnette de la roue\nde la fortune.",
+   "brut_fr": "Comme vous, marionnette\nde la roue de la fortune.",
    "brut_en": "The[SP]same[SP]as[SP]you,[SP]marionette[SP]of[SP]the[SP]Wheel\nof[SP]Fortune.",
    "data_size": 130,
    "budget": 122
@@ -366,13 +378,13 @@
        "pause": true
       },
       {
-       "t": " Chez l'homme, ces pulsions"
+       "t": " Chez l'homme, ces"
       },
       {
        "nl": true
       },
       {
-       "t": "contraires sont toujours en guerre."
+       "t": "pulsions contraires sont toujours en guerre."
       }
      ]
     }
@@ -401,7 +413,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Destruction et progrès...[1205][001E] Chez l'homme, ces pulsions\ncontraires sont toujours en guerre.",
+   "brut_fr": "Destruction et progrès...[1205][001E] Chez l'homme, ces\npulsions contraires sont toujours en guerre.",
    "brut_en": "Destruction[SP]and[SP]progress...[1205][001E][SP]These[SP]contradictory\nimpulses[SP]are[SP]constantly[SP]at[SP]war[SP]within[SP]man.",
    "data_size": 210,
    "budget": 202
@@ -415,19 +427,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce sont vos peurs et vos attentes qui m'ont"
+       "t": "Ce sont vos peurs et vos attentes qui"
       },
       {
        "nl": true
       },
       {
-       "t": "invoqué. Et maintenant que je suis ici,"
+       "t": "m'ont invoqué. Et maintenant que je suis"
       },
       {
        "nl": true
       },
       {
-       "t": "je me dois d'y répondre, nein?"
+       "t": "ici,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " je me dois d'y répondre, nein?"
       }
      ]
     }
@@ -456,7 +474,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce sont vos peurs et vos attentes qui m'ont\ninvoqué. Et maintenant que je suis ici,\nje me dois d'y répondre, nein?",
+   "brut_fr": "Ce sont vos peurs et vos attentes qui\nm'ont invoqué. Et maintenant que je suis\nici,[1205][U+000F] je me dois d'y répondre, nein?",
    "brut_en": "It[SP]was[SP]your[SP]fears[SP]and[SP]expectations[SP]of[SP]them\nwhich[SP]summoned[SP]me.[SP]And[SP]now[SP]that[SP]I[SP]am[SP]here,\nI[SP]must[SP]live[SP]up[SP]to[SP]them,[SP]nein?",
    "data_size": 256,
    "budget": 248
@@ -470,13 +488,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est vrai... Mais c'est mon devoir. Je voudrais que tu"
+       "t": "C'est vrai... Mais c'est mon devoir. Je"
       },
       {
        "nl": true
       },
       {
-       "t": "partes..."
+       "t": "voudrais que tu partes..."
       },
       {
        "pause": true
@@ -485,10 +503,10 @@
        "t": " Avec tes"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "déchets..."
+       "t": " déchets..."
       }
      ]
     }
@@ -523,7 +541,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est vrai... Mais c'est mon devoir. Je voudrais que tu\npartes...[1205][001E] Avec tes\ndéchets...",
+   "brut_fr": "C'est vrai... Mais c'est mon devoir. Je\nvoudrais que tu partes...[1205][001E] Avec tes[1205][U+000F] déchets...",
    "brut_en": "True...[SP]But[SP]that's[SP]my[SP]duty.[SP]I[SP]wish[SP]you'd\nleave,[SP]old[SP]man...[1205][001E][SP]Along[SP]with[SP]that[SP]trash\nover[SP]there...",
    "data_size": 216,
    "budget": 208
@@ -580,19 +598,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ils ne font sens que si tu les réalises"
+       "t": "Ils ne font sens que si tu les réalises par"
       },
       {
        "nl": true
       },
       {
-       "t": "par toi-même! Si l'homme veut évoluer,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "alors..."
+       "t": "toi-même! Si l'homme veut évoluer, alors..."
       }
      ]
     }
@@ -621,7 +633,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils ne font sens que si tu les réalises\npar toi-même! Si l'homme veut évoluer,\nalors...",
+   "brut_fr": "Ils ne font sens que si tu les réalises par\ntoi-même! Si l'homme veut évoluer, alors...",
    "brut_en": "They[SP]only[SP]have[SP]meaning[SP]when[SP]you[SP]achieve[SP]them\nunder[SP]your[SP]own[SP]power![SP]If[SP]man[SP]wants[SP]to[SP]evolve,\nthen...",
    "data_size": 218,
    "budget": 210
@@ -641,13 +653,13 @@
        "pause": true
       },
       {
-       "t": " Tu crois vraiment que tous les humains"
+       "t": " Tu crois vraiment que tous les"
       },
       {
        "nl": true
       },
       {
-       "t": "ont une vision si édulcorée du monde?"
+       "t": "humains ont une vision si édulcorée du monde?"
       }
      ]
     }
@@ -676,7 +688,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Idiote...[1205][001E] Tu crois vraiment que tous les humains\nont une vision si édulcorée du monde?",
+   "brut_fr": "Idiote...[1205][001E] Tu crois vraiment que tous les\nhumains ont une vision si édulcorée du monde?",
    "brut_en": "Foolish[SP]girl...[1205][001E][SP]Do[SP]you[SP]believe[SP]that[SP]all[SP]humans\nhave[SP]such[SP]a[SP]sugarcoated[SP]view[SP]of[SP]the[SP]world?",
    "data_size": 206,
    "budget": 198
@@ -690,13 +702,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "En effet... À cause de l'illusion de liberté,"
+       "t": "En effet... À cause de l'illusion de"
       },
       {
        "nl": true
       },
       {
-       "t": "l'homme s'inquiète pour rien."
+       "t": "liberté, l'homme s'inquiète pour rien."
       }
      ]
     }
@@ -719,7 +731,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En effet... À cause de l'illusion de liberté,\nl'homme s'inquiète pour rien.",
+   "brut_fr": "En effet... À cause de l'illusion de\nliberté, l'homme s'inquiète pour rien.",
    "brut_en": "Indeed...[SP]The[SP]rampant[SP]illusion[SP]of[SP]freedom\ncauses[SP]man[SP]to[SP]worry[SP]over[SP]petty[SP]matters.",
    "data_size": 188,
    "budget": 180
@@ -745,7 +757,13 @@
        "pause": true
       },
       {
-       "t": " L'inquiétude du futur provoque uniquement leur douleur!"
+       "t": " L'inquiétude du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "futur provoque uniquement leur douleur!"
       }
      ]
     }
@@ -780,7 +798,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les masses voudront toujours un chef qui\ndécide à leur place...[1205][001E] L'inquiétude du futur provoque uniquement leur douleur!",
+   "brut_fr": "Les masses voudront toujours un chef qui\ndécide à leur place...[1205][001E] L'inquiétude du\nfutur provoque uniquement leur douleur!",
    "brut_en": "The[SP]masses[SP]will[SP]always[SP]desire[SP]a[SP]leader[SP]who\ndecides[SP]everything[SP]for[SP]them...[1205][001E][SP]Anxiety[SP]over\nthe[SP]future[SP]only[SP]causes[SP]them[SP]pain!",
    "data_size": 270,
    "budget": 262
@@ -794,19 +812,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est pourquoi moi, Joker, je guiderai l'Homme"
+       "t": "C'est pourquoi moi, Joker, je guiderai"
       },
       {
        "nl": true
       },
       {
-       "t": "vers une nouvelle ère! L'Homme sera libéré des chaînes"
+       "t": "l'Homme vers une nouvelle ère! L'Homme sera"
       },
       {
        "nl": true
       },
       {
-       "t": "de la raison d'être!"
+       "t": "libéré"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " des chaînes de la raison d'être!"
       }
      ]
     }
@@ -835,7 +859,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pourquoi moi, Joker, je guiderai l'Homme\nvers une nouvelle ère! L'Homme sera libéré des chaînes\nde la raison d'être!",
+   "brut_fr": "C'est pourquoi moi, Joker, je guiderai\nl'Homme vers une nouvelle ère! L'Homme sera\nlibéré[1205][U+000F] des chaînes de la raison d'être!",
    "brut_en": "That[SP]is[SP]why[SP]I,[SP]Joker,[SP]will[SP]lead[SP]mankind[SP]into\na[SP]new[SP]era![SP]Humanity[SP]will[SP]be[SP]freed[SP]from[SP]the\nsuffocating[SP]chains[SP]of[SP]raison[SP]d'etre!",
    "data_size": 272,
    "budget": 264
@@ -855,10 +879,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Xibalba!"
+       "t": " Xibalba!"
       }
      ]
     }
@@ -884,7 +905,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les ailes de la mort renaissante![1205][001E]\nXibalba!",
+   "brut_fr": "Les ailes de la mort renaissante![1205][001E] Xibalba!",
    "brut_en": "Behold[SP]the[SP]wings[SP]of[SP]death[SP]and[SP]rebirth![1205][001E]\nXibalba!",
    "data_size": 122,
    "budget": 114

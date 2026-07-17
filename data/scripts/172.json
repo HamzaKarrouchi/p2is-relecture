@@ -16,13 +16,19 @@
        "nl": true
       },
       {
-       "t": "mais cette Rivière d'Argent machinchose juste"
+       "t": "mais cette Rivière d'Argent machinchose"
       },
       {
        "nl": true
       },
       {
-       "t": "là-dessous... C'est ridicule."
+       "t": "juste"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " là-dessous... C'est ridicule."
       }
      ]
     }
@@ -57,7 +63,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je sais qu'il y a une rivière pas loin,\nmais cette Rivière d'Argent machinchose juste\nlà-dessous... C'est ridicule.",
+   "brut_fr": "Je sais qu'il y a une rivière pas loin,\nmais cette Rivière d'Argent machinchose\njuste[1205][U+000F] là-dessous... C'est ridicule.",
    "brut_en": "That[SP]Silver[SP]River[SP]thing[SP]is[SP]under[SP]here?\nI[SP]mean,[SP]I[SP]know[SP]there's[SP]a[SP]river[SP]right[SP]near\nit,[SP]but...[1205][001E][SP]This[SP]is[SP]too[SP]ridiculous.",
    "data_size": 260,
    "budget": 252
@@ -77,13 +83,13 @@
        "pause": true
       },
       {
-       "t": " J'y crois pas, la Pierre Narurato"
+       "t": " J'y crois pas, la Pierre"
       },
       {
        "nl": true
       },
       {
-       "t": "était si cruciale..."
+       "t": "Narurato était si cruciale..."
       }
      ]
     }
@@ -112,7 +118,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aiyah...[1205][001E] J'y crois pas, la Pierre Narurato\nétait si cruciale...",
+   "brut_fr": "Aiyah...[1205][001E] J'y crois pas, la Pierre\nNarurato était si cruciale...",
    "brut_en": "Aiyah...[1205][001E][SP]I[SP]can't[SP]believe[SP]the[SP]Narurato[SP]Stone\nwas[SP]that[SP]important...",
    "data_size": 156,
    "budget": 148
@@ -132,13 +138,13 @@
        "pause": true
       },
       {
-       "t": " C'est pourquoi Mme Ideal traînait"
+       "t": " C'est pourquoi Mme Ideal"
       },
       {
        "nl": true
       },
       {
-       "t": "toujours autour, j'imagine."
+       "t": "traînait toujours autour, j'imagine."
       }
      ]
     }
@@ -167,7 +173,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Enfin...[1205][001E] C'est pourquoi Mme Ideal traînait\ntoujours autour, j'imagine.",
+   "brut_fr": "Enfin...[1205][001E] C'est pourquoi Mme Ideal\ntraînait toujours autour, j'imagine.",
    "brut_en": "Then[SP]again...[1205][001E][SP]I[SP]guess[SP]that's[SP]why[SP]you[SP]could\nalways[SP]find[SP]Ms.[SP]Ideal[SP]nearby.",
    "data_size": 170,
    "budget": 162
@@ -236,19 +242,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il pensait qu'elle passait sous Seven"
+       "t": "Il pensait qu'elle passait sous Seven et"
       },
       {
        "nl": true
       },
       {
-       "t": "et était un défluent de la Rivière"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Tanabata..."
+       "t": "était un défluent de la Rivière Tanabata..."
       }
      ]
     }
@@ -277,7 +277,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il pensait qu'elle passait sous Seven\net était un défluent de la Rivière\nTanabata...",
+   "brut_fr": "Il pensait qu'elle passait sous Seven et\nétait un défluent de la Rivière Tanabata...",
    "brut_en": "He[SP]said[SP]that[SP]underneath[SP]Sevens[SP]is[SP]the\nSilver[SP]River[SP]after[SP]it[SP]breaks[SP]off[SP]from\nTanabata[SP]River...",
    "data_size": 204,
    "budget": 196
@@ -291,25 +291,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et que la Porte du Paradis menant à la"
+       "t": "Et que la Porte du Paradis menant à"
       },
       {
        "nl": true
       },
       {
-       "t": "Rivière d'Argent sous terre..."
+       "t": "la Rivière d'Argent sous terre..."
       },
       {
        "pause": true
       },
       {
-       "t": " était"
-      },
-      {
        "nl": true
       },
       {
-       "t": "censée être la Pierre Narurato."
+       "t": "était censée être la Pierre Narurato."
       }
      ]
     }
@@ -344,7 +341,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et que la Porte du Paradis menant à la\nRivière d'Argent sous terre...[1205][001E] était\ncensée être la Pierre Narurato.",
+   "brut_fr": "Et que la Porte du Paradis menant à\nla Rivière d'Argent sous terre...[1205][001E]\nétait censée être la Pierre Narurato.",
    "brut_en": "And[SP]that[SP]the[SP]Heaven's[SP]Gate[SP]that[SP]led[SP]to[SP]the\nunderground[SP]Silver[SP]River...[1205][001E][SP]It[SP]was[SP]supposed\nto[SP]be[SP]this[SP]Narurato[SP]Stone.",
    "data_size": 248,
    "budget": 240

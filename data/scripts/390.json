@@ -10,19 +10,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et... Action !"
+       "t": "Et... Action! Bienvenue au Théâtre Climax"
       },
       {
        "nl": true
       },
       {
-       "t": "Bienvenue au Théâtre Climax de Sumaru !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "C'est votre première visite ?"
+       "t": "de Sumaru! C'est votre première visite?"
       }
      ]
     }
@@ -51,7 +45,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et... Action !\nBienvenue au Théâtre Climax de Sumaru ![U+07EA]\nC'est votre première visite ?",
+   "brut_fr": "Et... Action! Bienvenue au Théâtre Climax\nde Sumaru![U+07EA] C'est votre première visite?",
    "brut_en": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]Sumaru[SP]City's[SP]Climax[SP]Theater![U+07EA]\nIs[SP]this[SP]your[SP]first[SP]time[SP]here?",
    "data_size": 196,
    "budget": 188
@@ -65,13 +59,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je m'appelle Mitsugi, votre guide"
+       "t": "Je m'appelle Mitsugi, votre"
       },
       {
        "nl": true
       },
       {
-       "t": "du théâtre. Enchanté !"
+       "t": "guide du théâtre. Enchanté!"
       }
      ]
     }
@@ -94,7 +88,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'appelle Mitsugi, votre guide\ndu théâtre. Enchanté !",
+   "brut_fr": "Je m'appelle Mitsugi, votre\nguide du théâtre. Enchanté!",
    "brut_en": "My[SP]name[SP]is[SP]Mitsugi,[SP]and[SP]I'll[SP]be[SP]your[SP]guide\nto[SP]the[SP]theater.[SP]Nice[SP]to[SP]meet[SP]you!",
    "data_size": 168,
    "budget": 160
@@ -108,13 +102,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ici, des films grâce aux technologies"
+       "t": "Ici, des films grâce aux"
       },
       {
        "nl": true
       },
       {
-       "t": "les plus avancées."
+       "t": "technologies les plus avancées."
       }
      ]
     }
@@ -137,7 +131,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ici, des films grâce aux technologies\nles plus avancées.",
+   "brut_fr": "Ici, des films grâce aux\ntechnologies les plus avancées.",
    "brut_en": "Here[SP]you[SP]can[SP]view[SP]films[SP]using[SP]the[SP]most\nadvanced[SP]technologies[SP]available.",
    "data_size": 204,
    "budget": 196
@@ -151,19 +145,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "On dit que les images sont si nettes qu'on a"
+       "t": "On dit que les images sont si nettes"
       },
       {
        "nl": true
       },
       {
-       "t": "l'impression de"
+       "t": "qu'on a l'impression de"
       },
       {
-       "hl": "vraiment vivre les événements du film"
+       "hl": "vraiment"
       },
       {
-       "t": " !"
+       "nl": true
+      },
+      {
+       "hl": "vivre les "
+      },
+      {
+       "pause": true
+      },
+      {
+       "hl": " événements du film"
+      },
+      {
+       "t": "!"
       }
      ]
     }
@@ -195,7 +201,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On dit que les images sont si nettes qu'on a\nl'impression de[E4][NULL][NULL][U+0006]vraiment vivre les événements du film[E4][NULL][NULL][0002] !",
+   "brut_fr": "On dit que les images sont si nettes\nqu'on a l'impression de[E4][NULL][NULL][U+0006]vraiment\nvivre les [1205][U+000F] événements du film[E4][NULL][NULL][0002]!",
    "brut_en": "They[SP]say[SP]that[SP]the[SP]pictures[SP]are[SP]so[SP]clear[SP]and\ncrisp[SP]that[SP]it[SP]feels[SP]almost[SP]as[SP]if[SP]you're\n[E4][NULL][NULL][U+0006]really[SP]experiencing[SP]the[SP]events[SP]of[SP]the[SP]film[E4][NULL][NULL][0002]!",
    "data_size": 332,
    "budget": 324
@@ -215,13 +221,13 @@
        "nl": true
       },
       {
-       "t": "regardé jusqu'à la fin."
+       "t": "regardé jusqu'à la fin. Ces points"
       },
       {
        "nl": true
       },
       {
-       "t": "Ces points s'accumulent !"
+       "t": "s'accumulent!"
       }
      ]
     }
@@ -250,7 +256,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous gagnez aussi des points à chaque film\nregardé jusqu'à la fin.\nCes points s'accumulent !",
+   "brut_fr": "Vous gagnez aussi des points à chaque film\nregardé jusqu'à la fin. Ces points\ns'accumulent!",
    "brut_en": "You'll[SP]also[SP]earn[SP]points[SP]each[SP]time[SP]you[SP]watch\na[SP]movie[SP]all[SP]the[SP]way[SP]to[SP]the[SP]end.[SP]These[SP]points\nwill[SP]add[SP]up!",
    "data_size": 264,
    "budget": 256
@@ -264,22 +270,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Votre niveau dépend de vos points."
+       "t": "Votre niveau dépend de vos points. Vous"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous commencez à"
-      },
-      {
-       "nl": true
+       "t": "commencez à "
       },
       {
        "hl": "Framboise Noire"
       },
       {
-       "t": " et montez les échelons !"
+       "t": " et montez les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "échelons!"
       }
      ]
     }
@@ -311,7 +320,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Votre niveau dépend de vos points.\nVous commencez à\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise Noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et montez les échelons !",
+   "brut_fr": "Votre niveau dépend de vos points. Vous\ncommencez à [1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise Noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et montez les\néchelons!",
    "brut_en": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
    "data_size": 340,
    "budget": 332
@@ -325,19 +334,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et bien sûr, plus vous êtes fidèle,"
+       "t": "Et bien sûr, plus vous êtes fidèle, plus je"
       },
       {
        "nl": true
       },
       {
-       "t": "plus je serai heureux de vous revoir."
+       "t": "serai heureux de vous revoir. Amusez-vous"
       },
       {
        "nl": true
       },
       {
-       "t": "Amusez-vous bien !"
+       "t": "bien!"
       }
      ]
     }
@@ -366,7 +375,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et bien sûr, plus vous êtes fidèle,\nplus je serai heureux de vous revoir.\nAmusez-vous bien !",
+   "brut_fr": "Et bien sûr, plus vous êtes fidèle, plus je\nserai heureux de vous revoir. Amusez-vous\nbien!",
    "brut_en": "And,[SP]of[SP]course,[SP]the[SP]better[SP]a[SP]patron[SP]you[SP]are,\nthe[SP]happier[SP]I'll[SP]be[SP]to[SP]see[SP]you[SP]visiting[SP]our\ntheater[SP]again[SP]and[SP]again.[SP]Have[SP]fun!",
    "data_size": 308,
    "budget": 300
@@ -380,19 +389,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Quoi ? Mon service irréprochable"
+       "t": "... Quoi? Mon service irréprochable"
       },
       {
        "nl": true
       },
       {
-       "t": "et mon explication magistrale ne suffisent pas ?"
+       "t": "et mon explication magistrale ne"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous plaisantez."
+       "t": "suffisent pas?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous plaisantez."
       }
      ]
     }
@@ -421,7 +436,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Quoi ? Mon service irréprochable\net mon explication magistrale ne suffisent pas ?\nVous plaisantez.",
+   "brut_fr": "... Quoi? Mon service irréprochable\net mon explication magistrale ne\nsuffisent pas?[1205][U+000F] Vous plaisantez.",
    "brut_en": "...What?[SP]Wasn't[SP]my[SP]impeccable[SP]service\nand[SP]masterful[SP]explanation[SP]enough?\nYou've[SP]got[SP]to[SP]be[SP]joking.",
    "data_size": 254,
    "budget": 246
@@ -435,19 +450,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "On vous offre déjà l'expérience sans égale"
+       "t": "On vous offre déjà l'expérience sans"
       },
       {
        "nl": true
       },
       {
-       "t": "des films les plus réalistes qui soient !"
+       "t": "égale des films les plus réalistes"
       },
       {
        "nl": true
       },
       {
-       "t": "Que voulez-vous de plus ?"
+       "t": "qui soient! Que voulez-vous de plus?"
       }
      ]
     }
@@ -476,7 +491,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On vous offre déjà l'expérience sans égale\ndes films les plus réalistes qui soient !\nQue voulez-vous de plus ?",
+   "brut_fr": "On vous offre déjà l'expérience sans\négale des films les plus réalistes\nqui soient! Que voulez-vous de plus?",
    "brut_en": "We're[SP]already[SP]giving[SP]you[SP]the[SP]unparalleled\nexperience[SP]of[SP]seeing[SP]the[SP]most[SP]realistic[SP]movies\nknown[SP]to[SP]man![SP]What[SP]more[SP]could[SP]you[SP]want?",
    "data_size": 320,
    "budget": 312
@@ -490,13 +505,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et... Action !"
+       "t": "Et... Action! Bienvenue au"
       },
       {
        "nl": true
       },
       {
-       "t": "Bienvenue au Théâtre Climax de Sumaru !"
+       "t": "Théâtre Climax de Sumaru!"
       }
      ]
     }
@@ -519,7 +534,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et... Action !\nBienvenue au Théâtre Climax de Sumaru !",
+   "brut_fr": "Et... Action! Bienvenue au\nThéâtre Climax de Sumaru!",
    "brut_en": "Annnnnnd...[SP]Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
    "data_size": 178,
    "budget": 170
@@ -545,13 +560,7 @@
        "hero": "nom"
       },
       {
-       "t": " !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Vous étiez là l'autre jour."
+       "t": "! Vous étiez là l'autre jour."
       }
      ]
     }
@@ -586,7 +595,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah, [1113] [1112] !\nVous étiez là l'autre jour.",
+   "brut_fr": "Ah, [1113] [1112]! Vous étiez là l'autre jour.",
    "brut_en": "Oh,[SP]aren't[SP]you[SP][1113][SP][1112]?\nYou[SP]were[SP]here[SP]just[SP]the[SP]other[SP]day.",
    "data_size": 170,
    "budget": 162
@@ -600,13 +609,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et... Action !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Bienvenue au Théâtre Climax !"
+       "t": "Et... Action! Bienvenue au Théâtre Climax!"
       }
      ]
     }
@@ -629,7 +632,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et... Action !\nBienvenue au Théâtre Climax !",
+   "brut_fr": "Et... Action! Bienvenue au Théâtre Climax!",
    "brut_en": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
    "data_size": 176,
    "budget": 168
@@ -649,19 +652,16 @@
        "hero": "prenom"
       },
       {
-       "t": " ! Devenu membre"
+       "t": "! Devenu membre de niveau"
       },
       {
        "nl": true
       },
       {
-       "t": "de niveau "
-      },
-      {
        "hl": "#"
       },
       {
-       "t": " l'autre jour, n'est-ce pas ?"
+       "t": " l'autre jour, n'est-ce pas?"
       }
      ]
     }
@@ -699,7 +699,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah, [1113] ! Devenu membre\nde niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] l'autre jour, n'est-ce pas ?",
+   "brut_fr": "Ah, [1113]! Devenu membre de niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] l'autre jour, n'est-ce pas?",
    "brut_en": "Oh,[SP]it's[SP][1113]![SP]You[SP]became[SP]a\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]the[SP]other[SP]day,\nisn't[SP]that[SP]right?",
    "data_size": 230,
    "budget": 222
@@ -713,13 +713,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et... Action !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Bienvenue au Théâtre Climax !"
+       "t": "Et... Action! Bienvenue au Théâtre Climax!"
       }
      ]
     }
@@ -742,7 +736,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et... Action !\nBienvenue au Théâtre Climax !",
+   "brut_fr": "Et... Action! Bienvenue au Théâtre Climax!",
    "brut_en": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
    "data_size": 176,
    "budget": 168
@@ -762,19 +756,19 @@
        "hero": "prenom"
       },
       {
-       "t": ", membre de niveau "
-      },
-      {
-       "hl": "#"
-      },
-      {
-       "t": "."
+       "t": ", membre de"
       },
       {
        "nl": true
       },
       {
-       "t": "Merci de votre fidélité."
+       "t": "niveau "
+      },
+      {
+       "hl": "#"
+      },
+      {
+       "t": ". Merci de votre fidélité."
       }
      ]
     }
@@ -809,7 +803,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous êtes [1113], membre de niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].\nMerci de votre fidélité.",
+   "brut_fr": "Vous êtes [1113], membre de\nniveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]. Merci de votre fidélité.",
    "brut_en": "You're[SP][1113],[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.\nThank[SP]you[SP]for[SP]your[SP]continued[SP]patronage.",
    "data_size": 216,
    "budget": 208
@@ -823,13 +817,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Action ! Merci de votre visite."
+       "t": "Action! Merci de votre visite."
       },
       {
        "nl": true
       },
       {
-       "t": "Bienvenue au Théâtre Climax de Sumaru !"
+       "t": "Bienvenue au Théâtre Climax de Sumaru!"
       }
      ]
     }
@@ -852,7 +846,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Action ! Merci de votre visite.\nBienvenue au Théâtre Climax de Sumaru !",
+   "brut_fr": "Action! Merci de votre visite.\nBienvenue au Théâtre Climax de Sumaru!",
    "brut_en": "Annnnnnd...[SP]Action![SP]Thank[SP]you[SP]for[SP]coming[SP]today.\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
    "data_size": 234,
    "budget": 226
@@ -872,13 +866,7 @@
        "hero": "prenom"
       },
       {
-       "t": ", membre"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "niveau "
+       "t": ", membre niveau "
       },
       {
        "hl": "#"
@@ -916,7 +904,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah, [1113], membre\nniveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_fr": "Ah, [1113], membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
    "brut_en": "Ah,[SP]you're[SP][1113],[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nmember.",
    "data_size": 138,
    "budget": 130
@@ -930,13 +918,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si vous avez des effets à déposer,"
+       "t": "Si vous avez des effets à"
       },
       {
        "nl": true
       },
       {
-       "t": "dites-le-nous."
+       "t": "déposer, dites-le-nous."
       }
      ]
     }
@@ -959,7 +947,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si vous avez des effets à déposer,\ndites-le-nous.",
+   "brut_fr": "Si vous avez des effets à\ndéposer, dites-le-nous.",
    "brut_en": "If[SP]you[SP]have[SP]any[SP]loose[SP]items[SP]that[SP]you'd[SP]like\nus[SP]to[SP]keep,[SP]let[SP]us[SP]know.",
    "data_size": 200,
    "budget": 192
@@ -973,13 +961,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Hem ! ...Action !"
+       "t": "... Hem!... Action! Bienvenue"
       },
       {
        "nl": true
       },
       {
-       "t": "Bienvenue au Théâtre Climax de Sumaru !"
+       "t": "au Théâtre Climax de Sumaru!"
       }
      ]
     }
@@ -1002,7 +990,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Hem ! ...Action !\nBienvenue au Théâtre Climax de Sumaru !",
+   "brut_fr": "... Hem!... Action! Bienvenue\nau Théâtre Climax de Sumaru!",
    "brut_en": "*gasp*[SP]Oh,[SP]excuse[SP]me![SP]...Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
    "data_size": 204,
    "budget": 196
@@ -1074,13 +1062,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Action !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Bienvenue au théâtre Climax !"
+       "t": "Action! Bienvenue au théâtre Climax!"
       }
      ]
     }
@@ -1103,7 +1085,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Action !\nBienvenue au théâtre Climax !",
+   "brut_fr": "Action! Bienvenue au théâtre Climax!",
    "brut_en": "Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
    "data_size": 154,
    "budget": 146
@@ -1123,10 +1105,7 @@
        "hero": "prenom"
       },
       {
-       "t": ", de niveau"
-      },
-      {
-       "nl": true
+       "t": ", de niveau "
       },
       {
        "hl": "#"
@@ -1164,7 +1143,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous êtes M. [1113], de niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_fr": "Vous êtes M. [1113], de niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
    "brut_en": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel[SP]of[SP]membership.",
    "data_size": 170,
    "budget": 162
@@ -1178,13 +1157,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci infiniment de votre fidélité"
+       "t": "Merci infiniment de votre"
       },
       {
        "nl": true
       },
       {
-       "t": "à notre théâtre !"
+       "t": "fidélité à notre théâtre!"
       }
      ]
     }
@@ -1207,7 +1186,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci infiniment de votre fidélité\nà notre théâtre !",
+   "brut_fr": "Merci infiniment de votre\nfidélité à notre théâtre!",
    "brut_en": "Thank[SP]you[SP]so[SP]much[SP]for[SP]your[SP]continued[SP]patronage\nof[SP]our[SP]theater!",
    "data_size": 188,
    "budget": 180
@@ -1221,13 +1200,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Action !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Bienvenue au théâtre Climax !"
+       "t": "Action! Bienvenue au théâtre Climax!"
       }
      ]
     }
@@ -1250,7 +1223,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Action !\nBienvenue au théâtre Climax !",
+   "brut_fr": "Action! Bienvenue au théâtre Climax!",
    "brut_en": "Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
    "data_size": 154,
    "budget": 146
@@ -1270,7 +1243,7 @@
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -1293,7 +1266,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vous attendais, M. [1113] !",
+   "brut_fr": "Je vous attendais, M. [1113]!",
    "brut_en": "I've[SP]been[SP]expecting[SP]you,[SP]Mr.[SP][1113]!",
    "data_size": 124,
    "budget": 116
@@ -1307,7 +1280,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quel film voulez-vous voir aujourd'hui ?"
+       "t": "Quel film voulez-vous voir aujourd'hui?"
       }
      ]
     }
@@ -1324,7 +1297,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quel film voulez-vous voir aujourd'hui ?",
+   "brut_fr": "Quel film voulez-vous voir aujourd'hui?",
    "brut_en": "What[SP]kind[SP]of[SP]movie[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?",
    "data_size": 156,
    "budget": 148
@@ -1338,13 +1311,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Action !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Bienvenue au théâtre Climax !"
+       "t": "Action! Bienvenue au théâtre Climax!"
       }
      ]
     }
@@ -1367,7 +1334,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Action !\nBienvenue au théâtre Climax !",
+   "brut_fr": "Action! Bienvenue au théâtre Climax!",
    "brut_en": "Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
    "data_size": 154,
    "budget": 146
@@ -1387,7 +1354,7 @@
        "hero": "prenom"
       },
       {
-       "t": " !"
+       "t": "!"
       }
      ]
     }
@@ -1410,7 +1377,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vous attendais, M. [1113] !",
+   "brut_fr": "Je vous attendais, M. [1113]!",
    "brut_en": "I've[SP]been[SP]expecting[SP]you,[SP]Mr.[SP][1113]!",
    "data_size": 124,
    "budget": 116
@@ -1424,7 +1391,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quel film voulez-vous voir aujourd'hui ?"
+       "t": "Quel film voulez-vous voir aujourd'hui?"
       }
      ]
     }
@@ -1441,7 +1408,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quel film voulez-vous voir aujourd'hui ?",
+   "brut_fr": "Quel film voulez-vous voir aujourd'hui?",
    "brut_en": "What[SP]kind[SP]of[SP]movie[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?",
    "data_size": 156,
    "budget": 148
@@ -1498,7 +1465,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Venez voir un spectacle !"
+       "t": "Venez voir un spectacle!"
       }
      ]
     }
@@ -1515,7 +1482,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Venez voir un spectacle !",
+   "brut_fr": "Venez voir un spectacle!",
    "brut_en": "Please[SP]take[SP]in[SP]a[SP]show[SP]sometime.",
    "data_size": 126,
    "budget": 118
@@ -1572,7 +1539,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Venez voir un spectacle !"
+       "t": "Venez voir un spectacle!"
       }
      ]
     }
@@ -1589,7 +1556,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Venez voir un spectacle !",
+   "brut_fr": "Venez voir un spectacle!",
    "brut_en": "Please[SP]take[SP]in[SP]a[SP]show[SP]sometime.",
    "data_size": 126,
    "budget": 118
@@ -1615,10 +1582,7 @@
        "hero": "prenom"
       },
       {
-       "t": ", niveau"
-      },
-      {
-       "nl": true
+       "t": ", niveau "
       },
       {
        "hl": "#"
@@ -1665,7 +1629,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Entrée en scène, côté cour...\nM. [1113], niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_fr": "Entrée en scène, côté cour...\nM. [1113], niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
    "brut_en": "Entering[SP]frame,[SP]stage[SP]left...\nMr.[SP][1113],[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]club\nmember.",
    "data_size": 198,
    "budget": 190
@@ -1679,13 +1643,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci de votre fidélité."
+       "t": "Merci de votre fidélité. J'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai une bonne mémoire pour ça !"
+       "t": "une bonne mémoire pour ça!"
       }
      ]
     }
@@ -1708,7 +1672,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci de votre fidélité.\nJ'ai une bonne mémoire pour ça !",
+   "brut_fr": "Merci de votre fidélité. J'ai\nune bonne mémoire pour ça!",
    "brut_en": "Thank[SP]you[SP]so[SP]much[SP]for[SP]your[SP]patronage.\nI[SP]have[SP]a[SP]very[SP]good[SP]memory[SP]for[SP]these[SP]things!",
    "data_size": 224,
    "budget": 216
@@ -1728,13 +1692,19 @@
        "nl": true
       },
       {
-       "t": "de plus en plus grandioses avec les points."
+       "t": "de plus en plus grandioses avec"
       },
       {
        "nl": true
       },
       {
-       "t": "Continuez à venir !"
+       "t": "les points."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Continuez à venir!"
       }
      ]
     }
@@ -1763,7 +1733,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les noms des niveaux deviennent\nde plus en plus grandioses avec les points.\nContinuez à venir !",
+   "brut_fr": "Les noms des niveaux deviennent\nde plus en plus grandioses avec\nles points.[1205][U+000F] Continuez à venir!",
    "brut_en": "The[SP]names[SP]of[SP]the[SP]various[SP]membership[SP]levels[SP]get\ngrander[SP]and[SP]grander[SP]as[SP]you[SP]earn[SP]points.\nPlease[SP]keep[SP]coming[SP]to[SP]our[SP]shows!",
    "data_size": 302,
    "budget": 294
@@ -1777,7 +1747,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Scène XX2 :"
+       "t": "Scène XX2:"
       }
      ]
     }
@@ -1794,7 +1764,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Scène XX2 :",
+   "brut_fr": "Scène XX2:",
    "brut_en": "Scene[SP]XX2:",
    "data_size": 82,
    "budget": 74
@@ -1808,19 +1778,25 @@
      "nom": null,
      "seg": [
       {
-       "enc": "UN HOMME, vu de dos. Une FEMME"
+       "enc": "UN HOMME, vu de dos. Une FEMME travaille"
       },
       {
        "nl": true
       },
       {
-       "enc": "travaille en fond. L'HOMME s'approche,"
+       "enc": "en fond. L'HOMME s'approche, elle se"
       },
       {
        "nl": true
       },
       {
-       "enc": "elle se retourne. GROS PLAN sur son sourire."
+       "enc": "retourne. GROS PLAN sur son "
+      },
+      {
+       "pause": true
+      },
+      {
+       "enc": " sourire."
       }
      ]
     }
@@ -1849,7 +1825,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]UN HOMME, vu de dos. Une FEMME\ntravaille en fond. L'HOMME s'approche,\nelle se retourne. GROS PLAN sur son sourire.[1432][NULL][NULL][0014]",
+   "brut_fr": "[1432][NULL][NULL][0014]UN HOMME, vu de dos. Une FEMME travaille\nen fond. L'HOMME s'approche, elle se\nretourne. GROS PLAN sur son [1205][U+000F] sourire.[1432][NULL][NULL][0014]",
    "brut_en": "[1432][NULL][NULL][0014]A[SP]MAN,[SP]viewed[SP]from[SP]behind.[SP]In[SP]the[SP]background,\na[SP]tireless[SP]WOMAN[SP]working[SP]in[SP]a[SP]theater.[SP]MAN\napproaches.[SP]She[SP]turns.[SP]CLOSE-UP[SP]on[SP]WOMAN's[SP]smile.[1432][NULL][NULL][0014]",
    "data_size": 354,
    "budget": 346
@@ -1878,7 +1854,7 @@
        "hl": "#"
       },
       {
-       "t": ". Merci de votre visite !"
+       "t": ". Merci de votre visite!"
       }
      ]
     }
@@ -1910,7 +1886,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous êtes M. [1113], niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]. Merci de votre visite !",
+   "brut_fr": "Vous êtes M. [1113], niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]. Merci de votre visite!",
    "brut_en": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel[SP]of[SP]membership.[SP]Thank[SP]you[SP]for[SP]coming!",
    "data_size": 214,
    "budget": 206
@@ -1924,13 +1900,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Votre rang a augmenté !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Félicitations."
+       "t": "Votre rang a augmenté! Félicitations."
       }
      ]
     }
@@ -1953,7 +1923,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Votre rang a augmenté !\nFélicitations.",
+   "brut_fr": "Votre rang a augmenté! Félicitations.",
    "brut_en": "Your[SP]club[SP]member[SP]rank[SP]has[SP]gone[SP]up!\nCongratulations.",
    "data_size": 164,
    "budget": 156
@@ -1967,13 +1937,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh... Ce que j'ai dit à votre arrivée ?"
+       "t": "Oh... Ce que j'ai dit à votre"
       },
       {
        "nl": true
       },
       {
-       "t": "Je n'en ai aucun souvenir."
+       "t": "arrivée? Je n'en ai aucun souvenir."
       }
      ]
     }
@@ -1996,7 +1966,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh... Ce que j'ai dit à votre arrivée ?\nJe n'en ai aucun souvenir.",
+   "brut_fr": "Oh... Ce que j'ai dit à votre\narrivée? Je n'en ai aucun souvenir.",
    "brut_en": "Oh...[SP]What[SP]I[SP]said[SP]as[SP]you[SP]walked[SP]in?\nI[SP]have[SP]no[SP]recollection[SP]of[SP]it[SP]at[SP]this[SP]time.",
    "data_size": 220,
    "budget": 212
@@ -2010,7 +1980,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Scène XX3 :"
+       "t": "Scène XX3:"
       }
      ]
     }
@@ -2027,7 +1997,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Scène XX3 :",
+   "brut_fr": "Scène XX3:",
    "brut_en": "Scene[SP]XX3:",
    "data_size": 82,
    "budget": 74
@@ -2041,19 +2011,19 @@
      "nom": null,
      "seg": [
       {
-       "enc": "Une FEMME affairée."
+       "enc": "Une FEMME affairée. Elle s'agite,"
       },
       {
        "nl": true
       },
       {
-       "enc": "Elle s'agite, attendant. PANORAMIQUE."
+       "enc": "attendant. PANORAMIQUE. Ses yeux"
       },
       {
        "nl": true
       },
       {
-       "enc": "Ses yeux s'illuminent. Entrée en scène..."
+       "enc": "s'illuminent. Entrée en scène..."
       }
      ]
     }
@@ -2082,7 +2052,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Une FEMME affairée.\nElle s'agite, attendant. PANORAMIQUE.\nSes yeux s'illuminent. Entrée en scène...[1432][NULL][NULL][0014]",
+   "brut_fr": "[1432][NULL][NULL][0014]Une FEMME affairée. Elle s'agite,\nattendant. PANORAMIQUE. Ses yeux\ns'illuminent. Entrée en scène...[1432][NULL][NULL][0014]",
    "brut_en": "[1432][NULL][NULL][0014]A[SP]WOMAN[SP]is[SP]busily[SP]working.[SP]She[SP]fidgets,[SP]waiting\nfor[SP]something.[SP]PAN[SP]UP[SP]to[SP]her[SP]face.[SP]Her[SP]eyes\nsuddenly[SP]light[SP]up.[SP]Enter...[1432][NULL][NULL][0014]",
    "data_size": 316,
    "budget": 308
@@ -2102,13 +2072,13 @@
        "hero": "prenom"
       },
       {
-       "t": " ! Notre nouveau"
+       "t": "! Notre"
       },
       {
        "nl": true
       },
       {
-       "t": "membre niveau "
+       "t": "nouveau membre niveau "
       },
       {
        "hl": "#"
@@ -2146,7 +2116,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tiens, M. [1113] ! Notre nouveau\nmembre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_fr": "Tiens, M. [1113]! Notre\nnouveau membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
    "brut_en": "Why,[SP]if[SP]it[SP]isn't[SP]Mr.[SP][1113],[SP]our[SP]newest\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.",
    "data_size": 184,
    "budget": 176
@@ -2160,19 +2130,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Merci de votre fidélité."
+       "t": "Merci de votre fidélité. Vous êtes presque"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous êtes presque un habitué !"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je suis très content pour vous."
+       "t": "un habitué! Je suis très content pour vous."
       }
      ]
     }
@@ -2201,7 +2165,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Merci de votre fidélité.\nVous êtes presque un habitué !\nJe suis très content pour vous.",
+   "brut_fr": "Merci de votre fidélité. Vous êtes presque\nun habitué! Je suis très content pour vous.",
    "brut_en": "Thank[SP]you[SP]for[SP]your[SP]patronage.\nYou're[SP]like[SP]a[SP]regular[SP]now!\nI'm[SP]very[SP]happy[SP]for[SP]you.",
    "data_size": 222,
    "budget": 214
@@ -2215,13 +2179,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous êtes le seul qui me parle d'autre chose,"
+       "t": "Vous êtes le seul qui me parle d'autre"
       },
       {
        "nl": true
       },
       {
-       "t": "alors vous êtes facile à retenir."
+       "t": "chose, alors vous êtes facile à retenir."
       }
      ]
     }
@@ -2250,7 +2214,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous êtes le seul qui me parle d'autre chose,\nalors vous êtes facile à retenir.",
+   "brut_fr": "Vous êtes le seul qui me parle d'autre\nchose, alors vous êtes facile à retenir.",
    "brut_en": "You're[SP]the[SP]only[SP]one[SP]who[SP]talks[SP]to[SP]me[SP]about\nsomething[SP]other[SP]than[SP]work,[SP]so[SP]you're[SP]very\neasy[SP]to[SP]remember.",
    "data_size": 264,
    "budget": 256
@@ -2264,13 +2228,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est un plaisir."
+       "t": "C'est un plaisir. Hm?"
       },
       {
        "nl": true
       },
       {
-       "t": "Hm ? Monologue ? Quel monologue ?"
+       "t": "Monologue? Quel monologue?"
       }
      ]
     }
@@ -2293,7 +2257,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est un plaisir.\nHm ? Monologue ? Quel monologue ?",
+   "brut_fr": "C'est un plaisir. Hm?\nMonologue? Quel monologue?",
    "brut_en": "I'm[SP]very[SP]pleased[SP]to[SP]be[SP]of[SP]service[SP]to[SP]you.\nHmm?[SP]Monologue?[SP]What[SP]monologue?",
    "data_size": 210,
    "budget": 202
@@ -2307,7 +2271,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Scène XX4 :"
+       "t": "Scène XX4:"
       }
      ]
     }
@@ -2324,7 +2288,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Scène XX4 :",
+   "brut_fr": "Scène XX4:",
    "brut_en": "Scene[SP]XX4:",
    "data_size": 82,
    "budget": 74
@@ -2345,6 +2309,9 @@
       },
       {
        "enc": "regarde par la fenêtre. Elle semble attendre"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -2379,7 +2346,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Encore une journée. La FEMME au guichet\nregarde par la fenêtre. Elle semble attendre\nquelqu'un. Et puis, comme toujours...[1432][NULL][NULL][0014]",
+   "brut_fr": "[1432][NULL][NULL][0014]Encore une journée. La FEMME au guichet\nregarde par la fenêtre. Elle semble attendre[1205][U+000F]\nquelqu'un. Et puis, comme toujours...[1432][NULL][NULL][0014]",
    "brut_en": "[1432][NULL][NULL][0014]Another[SP]day[SP]at[SP]the[SP]movies.[SP]The[SP]WOMAN[SP]at[SP]the\ncounter[SP]glances[SP]out[SP]the[SP]window.[SP]She[SP]seems[SP]to[SP]be\nwaiting[SP]for[SP]someone.[SP]And[SP]then,[SP]as[SP]always...[1432][NULL][NULL][0014]",
    "data_size": 348,
    "budget": 340
@@ -2393,13 +2360,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "*Hem* Bienvenue."
+       "t": "*Hem* Bienvenue. Vous"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous avez atteint le niveau "
+       "t": "avez atteint le niveau "
       },
       {
        "hl": "#"
@@ -2440,7 +2407,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*Hem* Bienvenue.\nVous avez atteint le niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
+   "brut_fr": "*Hem* Bienvenue. Vous\navez atteint le niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].",
    "brut_en": "*Ahem*[SP]Welcome.\nYou've[SP]become[SP]a[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nclub[SP]member.",
    "data_size": 188,
    "budget": 180
@@ -2454,19 +2421,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je savais que vous viendriez bientôt."
+       "t": "Je savais que vous viendriez"
       },
       {
        "nl": true
       },
       {
-       "t": "Oh, pas que je vous attendais."
+       "t": "bientôt. Oh, pas que je vous"
       },
       {
        "nl": true
       },
       {
-       "t": "J'y pensais, c'est tout."
+       "t": "attendais. J'y pensais, c'est tout."
       }
      ]
     }
@@ -2495,7 +2462,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je savais que vous viendriez bientôt.\nOh, pas que je vous attendais.\nJ'y pensais, c'est tout.",
+   "brut_fr": "Je savais que vous viendriez\nbientôt. Oh, pas que je vous\nattendais. J'y pensais, c'est tout.",
    "brut_en": "I[SP]thought[SP]you'd[SP]be[SP]here[SP]soon.\nOh,[SP]not[SP]that[SP]I[SP]was[SP]waiting[SP]for[SP]you[SP]or[SP]anything.\nI[SP]was[SP]just[SP]thinking[SP]about[SP]it.",
    "data_size": 276,
    "budget": 268
@@ -2540,7 +2507,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Scène XX5 :"
+       "t": "Scène XX5:"
       }
      ]
     }
@@ -2557,7 +2524,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Scène XX5 :",
+   "brut_fr": "Scène XX5:",
    "brut_en": "Scene[SP]XX5:",
    "data_size": 82,
    "budget": 74
@@ -2571,19 +2538,22 @@
      "nom": null,
      "seg": [
       {
-       "enc": "GROS PLAN sur le visage de la FEMME. Elle regarde,"
+       "enc": "GROS PLAN sur le visage de la FEMME. Elle"
       },
       {
        "nl": true
       },
       {
-       "enc": "pensive, par la fenêtre. Elle réalise qu'elle pense"
+       "enc": "regarde, pensive, par la fenêtre. Elle réalise"
       },
       {
        "nl": true
       },
       {
-       "enc": "de plus en plus à l'HOMME..."
+       "pause": true
+      },
+      {
+       "enc": "qu'elle pense de plus en plus à l'HOMME..."
       }
      ]
     }
@@ -2612,7 +2582,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]GROS PLAN sur le visage de la FEMME. Elle regarde,\npensive, par la fenêtre. Elle réalise qu'elle pense\nde plus en plus à l'HOMME...[1432][NULL][NULL][0014]",
+   "brut_fr": "[1432][NULL][NULL][0014]GROS PLAN sur le visage de la FEMME. Elle\nregarde, pensive, par la fenêtre. Elle réalise\n[1205][U+000F]qu'elle pense de plus en plus à l'HOMME...[1432][NULL][NULL][0014]",
    "brut_en": "[1432][NULL][NULL][0014]CLOSE-UP[SP]on[SP]the[SP]WOMAN's[SP]face.[SP]She[SP]stares\npensively[SP]out[SP]the[SP]window.[SP]She[SP]realizes[SP]that[SP]she's\nbeen[SP]thinking[SP]about[SP]the[SP]MAN[SP]more[SP]and[SP]more...[1432][NULL][NULL][0014]",
    "data_size": 348,
    "budget": 340
@@ -2626,19 +2596,25 @@
      "nom": null,
      "seg": [
       {
-       "enc": "Elle est surprise quand l'HOMME apparaît, mais il"
+       "enc": "Elle est surprise quand l'HOMME"
       },
       {
        "nl": true
       },
       {
-       "enc": "ne s'en rend pas compte."
+       "enc": "apparaît, mais il ne s'en rend pas"
       },
       {
        "nl": true
       },
       {
-       "enc": "Et puis, comme toujours..."
+       "enc": "compte."
+      },
+      {
+       "pause": true
+      },
+      {
+       "enc": " Et puis, comme toujours..."
       }
      ]
     }
@@ -2667,7 +2643,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Elle est surprise quand l'HOMME apparaît, mais il\nne s'en rend pas compte.\nEt puis, comme toujours...[1432][NULL][NULL][0014]",
+   "brut_fr": "[1432][NULL][NULL][0014]Elle est surprise quand l'HOMME\napparaît, mais il ne s'en rend pas\ncompte.[1205][U+000F] Et puis, comme toujours...[1432][NULL][NULL][0014]",
    "brut_en": "[1432][NULL][NULL][0014]She[SP]is[SP]startled[SP]when[SP]the[SP]MAN[SP]appears,[SP]but[SP]he\ndoesn't[SP]realize[SP]that[SP]he[SP]has[SP]surprised[SP]her.\nAnd[SP]then,[SP]as[SP]always...[1432][NULL][NULL][0014]",
    "data_size": 298,
    "budget": 290
@@ -2730,16 +2706,13 @@
        "hl": "#"
       },
       {
-       "nl": true
-      },
-      {
-       "t": "de notre club. Je n'attendais pas moins."
+       "t": " de notre"
       },
       {
        "nl": true
       },
       {
-       "t": "Bravo."
+       "t": "club. Je n'attendais pas moins. Bravo."
       }
      ]
     }
@@ -2774,7 +2747,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous êtes enfin membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nde notre club. Je n'attendais pas moins.\nBravo.",
+   "brut_fr": "Vous êtes enfin membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de notre\nclub. Je n'attendais pas moins. Bravo.",
    "brut_en": "You've[SP]finally[SP]become[SP]a[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nmember[SP]our[SP]club.[SP]I[SP]expected[SP]nothing[SP]less.\nCongratulations.",
    "data_size": 264,
    "budget": 256
@@ -2788,13 +2761,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tous les employés parlent"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de vous."
+       "t": "Tous les employés parlent de vous."
       }
      ]
     }
@@ -2817,7 +2784,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tous les employés parlent\nde vous.",
+   "brut_fr": "Tous les employés parlent de vous.",
    "brut_en": "All[SP]of[SP]the[SP]workers[SP]here[SP]have[SP]been[SP]talking\nabout[SP]you.",
    "data_size": 166,
    "budget": 158
@@ -2831,13 +2798,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je savais que ça arriverait"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "dès le début !"
+       "t": "Je savais que ça arriverait dès le début!"
       }
      ]
     }
@@ -2860,7 +2821,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je savais que ça arriverait\ndès le début !",
+   "brut_fr": "Je savais que ça arriverait dès le début!",
    "brut_en": "Well,[SP]I[SP]knew[SP]this[SP]would[SP]happen[SP]from[SP]the[SP]very\nbeginning!",
    "data_size": 172,
    "budget": 164
@@ -2874,13 +2835,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tout le monde monte dans mon train..."
+       "t": "Tout le monde monte dans mon"
       },
       {
        "nl": true
       },
       {
-       "t": "Pour ainsi dire. Héhé."
+       "t": "train... Pour ainsi dire. Héhé."
       }
      ]
     }
@@ -2903,7 +2864,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tout le monde monte dans mon train...\nPour ainsi dire. Héhé.",
+   "brut_fr": "Tout le monde monte dans mon\ntrain... Pour ainsi dire. Héhé.",
    "brut_en": "Everyone[SP]else[SP]is[SP]just[SP]jumping[SP]on[SP]my[SP]bandwagon...\nSo[SP]to[SP]speak.[SP]Hehe.",
    "data_size": 198,
    "budget": 190
@@ -2917,7 +2878,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Scène XX6 :"
+       "t": "Scène XX6:"
       }
      ]
     }
@@ -2934,7 +2895,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Scène XX6 :",
+   "brut_fr": "Scène XX6:",
    "brut_en": "Scene[SP]XX6:",
    "data_size": 82,
    "budget": 74
@@ -2948,19 +2909,25 @@
      "nom": null,
      "seg": [
       {
-       "enc": "La FEMME, de dos. Elle travaille avec ardeur,"
+       "enc": "La FEMME, de dos. Elle travaille"
       },
       {
        "nl": true
       },
       {
-       "enc": "le bruit de pas se mêle à l'agitation"
+       "enc": "avec ardeur, le bruit de pas se"
       },
       {
        "nl": true
       },
       {
-       "enc": "de la ville."
+       "enc": "mêle à l'agitation"
+      },
+      {
+       "pause": true
+      },
+      {
+       "enc": " de la ville."
       }
      ]
     }
@@ -2989,7 +2956,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]La FEMME, de dos. Elle travaille avec ardeur,\nle bruit de pas se mêle à l'agitation\nde la ville.[1432][NULL][NULL][0014]",
+   "brut_fr": "[1432][NULL][NULL][0014]La FEMME, de dos. Elle travaille\navec ardeur, le bruit de pas se\nmêle à l'agitation[1205][U+000F] de la ville.[1432][NULL][NULL][0014]",
    "brut_en": "[1432][NULL][NULL][0014]The[SP]WOMAN,[SP]from[SP]behind.[SP]She[SP]is[SP]working[SP]busily,\nand[SP]the[SP]sounds[SP]of[SP]footsteps[SP]play[SP]over[SP]the[SP]general\nrush[SP]of[SP]the[SP]city.[1432][NULL][NULL][0014]",
    "data_size": 306,
    "budget": 298
@@ -3003,19 +2970,22 @@
      "nom": null,
      "seg": [
       {
-       "enc": "Elle entend les pas et se retourne, certaine"
+       "enc": "Elle entend les pas et se retourne,"
       },
       {
        "nl": true
       },
       {
-       "enc": "que c'est lui : l'homme célèbre au théâtre,"
+       "enc": "certaine que c'est lui: l'homme célèbre au "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "enc": "qui gagne sa place dans son cœur."
+       "enc": "théâtre, qui gagne sa place dans son cœur."
       }
      ]
     }
@@ -3044,7 +3014,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Elle entend les pas et se retourne, certaine\nque c'est lui : l'homme célèbre au théâtre,\nqui gagne sa place dans son cœur.[1432][NULL][NULL][0014]",
+   "brut_fr": "[1432][NULL][NULL][0014]Elle entend les pas et se retourne,\ncertaine que c'est lui: l'homme célèbre au [1205][U+000F]\nthéâtre, qui gagne sa place dans son cœur.[1432][NULL][NULL][0014]",
    "brut_en": "[1432][NULL][NULL][0014]She[SP]hears[SP]the[SP]footsteps[SP]and[SP]turns[SP]around,[SP]sure\nthat[SP]it[SP]is[SP]him:[SP]the[SP]man[SP]whose[SP]name[SP]is[SP]famous[SP]in\nthe[SP]theater,[SP]who's[SP]making[SP]his[SP]way[SP]into[SP]her[SP]heart.[1432][NULL][NULL][0014]",
    "data_size": 366,
    "budget": 358
@@ -3064,25 +3034,19 @@
        "hero": "prenom"
       },
       {
-       "t": ". Premier"
+       "t": ". Premier membre"
       },
       {
        "nl": true
       },
       {
-       "t": "membre de niveau "
+       "t": "de niveau "
       },
       {
        "hl": "#"
       },
       {
-       "t": " de l'histoire"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "de ce théâtre !"
+       "t": " de l'histoire de ce théâtre!"
       }
      ]
     }
@@ -3120,7 +3084,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Félicitations, M. [1113]. Premier\nmembre de niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de l'histoire\nde ce théâtre !",
+   "brut_fr": "Félicitations, M. [1113]. Premier membre\nde niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de l'histoire de ce théâtre!",
    "brut_en": "Congratulations,[SP]Mr.[SP][1113].[SP]You're[SP]the[SP]first\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]in[SP]the[SP]history[SP]of\nthis[SP]theater!",
    "data_size": 258,
    "budget": 250
@@ -3134,13 +3098,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Récemment, vous faisiez"
+       "t": "Récemment, vous faisiez votre"
       },
       {
        "nl": true
       },
       {
-       "t": "votre première entrée dans mon cadre."
+       "t": "première entrée dans mon cadre."
       }
      ]
     }
@@ -3163,7 +3127,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Récemment, vous faisiez\nvotre première entrée dans mon cadre.",
+   "brut_fr": "Récemment, vous faisiez votre\npremière entrée dans mon cadre.",
    "brut_en": "It[SP]wasn't[SP]too[SP]long[SP]ago[SP]when[SP]you[SP]first[SP]entered[SP]my\nframe.",
    "data_size": 172,
    "budget": 164
@@ -3177,13 +3141,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous êtes maintenant un personnage clé"
+       "t": "Vous êtes maintenant un personnage"
       },
       {
        "nl": true
       },
       {
-       "t": "du quotidien de nos équipes."
+       "t": "clé du quotidien de nos équipes."
       }
      ]
     }
@@ -3206,7 +3170,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous êtes maintenant un personnage clé\ndu quotidien de nos équipes.",
+   "brut_fr": "Vous êtes maintenant un personnage\nclé du quotidien de nos équipes.",
    "brut_en": "And[SP]now[SP]you're[SP]a[SP]major[SP]character[SP]in[SP]the[SP]jobs[SP]of\nthe[SP]people[SP]who[SP]work[SP]here.",
    "data_size": 208,
    "budget": 200
@@ -3263,13 +3227,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Continuez à soutenir notre théâtre."
+       "t": "Continuez à soutenir notre"
       },
       {
        "nl": true
       },
       {
-       "t": "Je vous suivrai de près."
+       "t": "théâtre. Je vous suivrai de près."
       }
      ]
     }
@@ -3292,7 +3256,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Continuez à soutenir notre théâtre.\nJe vous suivrai de près.",
+   "brut_fr": "Continuez à soutenir notre\nthéâtre. Je vous suivrai de près.",
    "brut_en": "Please[SP]continue[SP]to[SP]support[SP]our[SP]theater.\nI'll[SP]be[SP]following[SP]you,[SP]too.",
    "data_size": 198,
    "budget": 190
@@ -3337,13 +3301,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ne devrait pas s'afficher."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "BUG !"
+       "t": "Ne devrait pas s'afficher. BUG!"
       }
      ]
     }
@@ -3366,7 +3324,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ne devrait pas s'afficher.\nBUG !",
+   "brut_fr": "Ne devrait pas s'afficher. BUG!",
    "brut_en": "This[SP]message[SP]should[SP]never[SP]appear.\nBUG[SP]IT!",
    "data_size": 146,
    "budget": 138
@@ -3380,7 +3338,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Quel genre de film vous intéresse ?"
+       "t": "Quel genre de film vous intéresse?"
       }
      ]
     }
@@ -3398,14 +3356,14 @@
    "choix_fr": {
     "options": [
      "À l'affiche",
-     "Films indé",
+     "Films indé[1205]",
      "Exclusivités",
      "Films importés",
      "Annuler"
     ],
     "question": [
      {
-      "t": "Quel genre de film vous intéresse ?"
+      "t": "Quel genre de film vous intéresse?"
      }
     ]
    },
@@ -3423,7 +3381,7 @@
      }
     ]
    },
-   "brut_fr": "Quel genre de film vous intéresse ?\n[1208][U+0005][111F]À l'affiche\n[111F][1210][U+0100]Films indé\n[111F][1210][U+0100]Exclusivités\n[111F][1210][U+0100]Films importés\n[111F]Annuler",
+   "brut_fr": "Quel genre de film vous intéresse?\n[1208][U+0005][111F]À l'affiche\n[111F][1210][U+0100]Films indé[1205][U+000F]\n[111F][1210][U+0100]Exclusivités\n[111F][1210][U+0100]Films importés\n[111F]Annuler",
    "brut_en": "What[SP]genre[SP]are[SP]you[SP]interested[SP]in[SP]seeing?\n[1208][U+0005][111F]Now[SP]Playing\n[111F][1210][U+0100]Indie[SP]Films\n[111F][1210][U+0100]Single-Theater[SP]Films\n[111F][1210][U+0100]Imported[SP]Films\n[111F]Cancel",
    "data_size": 306,
    "budget": 298
@@ -3437,7 +3395,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh, déjà fini ?"
+       "t": "Oh, déjà fini?"
       }
      ]
     }
@@ -3454,12 +3412,12 @@
    ],
    "choix_fr": {
     "options": [
-     "Autre chose ?",
+     "Autre chose?",
      "[E4]"
     ],
     "question": [
      {
-      "t": "Oh, déjà fini ?"
+      "t": "Oh, déjà fini?"
      }
     ]
    },
@@ -3474,7 +3432,7 @@
      }
     ]
    },
-   "brut_fr": "Oh, déjà fini ?\n[1208][U+0005][111F]À l'affiche\n[111F][1210][U+0100]Films indé\n[111F][1210][U+0100]Exclusivités\n[111F][1210][U+0100]Films importés\n[111F]Annuler\n[1109][E2][E3][111F][E4][NULL][NULL]\"Mitsugi, la guide du théâtre\n[111F]Aucun chemin ne mène à cette ligne,\n[111F]cette catégorie peut disparaître.\n[111F]Saut vers [E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]Autre chose ?[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
+   "brut_fr": "Oh, déjà fini?\n[1208][U+0005][111F]À l'affiche\n[111F][1210][U+0100]Films indé[1205][U+000F]\n[111F][1210][U+0100]Exclusivités\n[111F][1210][U+0100]Films importés\n[111F]Annuler[1205][U+000F]\n[1109][E2][E3][111F][E4][NULL][NULL]\"Mitsugi, la guide du théâtre\n[111F]Aucun chemin ne mène à cette ligne,\n[111F]cette catégorie peut disparaître.[1205][U+000F]\n[111F]Saut vers [E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]Autre chose?[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
    "brut_en": "Oh,[SP]are[SP]you[SP]done[SP]already?\n[1208][U+0005][111F]Now[SP]Playing\n[111F][1210][U+0100]Indie[SP]Films\n[111F][1210][U+0100]Single-Theater[SP]Films\n[111F][1210][U+0100]Imported[SP]Films\n[111F]Cancel\n[1109][E2][E3][111F][E4][NULL][NULL]\"Mitsugi,[SP]the[SP]Theater[SP]Guide\n[111F]There[SP]is[SP]no[SP]path[SP]to[SP]this[SP]line[SP]in[SP]the[SP]resources,\n[111F]so[SP]this[SP]category[SP]may[SP]go[SP]away.\n[111F]Jump[SP]to[SP][E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]Is[SP]there[SP]anything[SP]else?[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
    "data_size": 602,
    "budget": 594
@@ -3488,7 +3446,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "De quoi voulez-vous parler ?"
+       "t": "De quoi voulez-vous parler?"
       }
      ]
     }
@@ -3506,13 +3464,13 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur le théâtre",
+     "Sur le théâtre[1205]",
      "Sur les rangs du club",
      "CATÉGORIE CACHÉE"
     ],
     "question": [
      {
-      "t": "De quoi voulez-vous parler ?"
+      "t": "De quoi voulez-vous parler?"
      }
     ]
    },
@@ -3529,7 +3487,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous parler ?\n[1208][U+0004]Bavarder\nSur le théâtre\nSur les rangs du club\n[1210][U+0100]CATÉGORIE CACHÉE",
+   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0004]Bavarder\nSur le théâtre[1205][U+000F]\nSur les rangs du club\n[1210][U+0100]CATÉGORIE CACHÉE",
    "brut_en": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][U+0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]theater\nAsk[SP]about[SP]the[SP]club[SP]ranks\n[1210][U+0100]UNDISPLAYED[SP]CATEGORY",
    "data_size": 310,
    "budget": 302
@@ -3543,7 +3501,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Savourez un climax au Théâtre Climax !"
+       "t": "Savourez un climax au Théâtre Climax!"
       }
      ]
     }
@@ -3561,13 +3519,13 @@
    "choix_fr": {
     "options": [
      "Choisir un film",
-     "Théâtre Climax",
+     "Théâtre Climax[1205]",
      "Parler",
      "Quitter le théâtre"
     ],
     "question": [
      {
-      "t": "Savourez un climax au Théâtre Climax !"
+      "t": "Savourez un climax au Théâtre Climax!"
      }
     ]
    },
@@ -3584,7 +3542,7 @@
      }
     ]
    },
-   "brut_fr": "Savourez un climax au Théâtre Climax !\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Savourez un climax au Théâtre Climax!\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax[1205][U+000F]\nParler\nQuitter le théâtre",
    "brut_en": "Please[SP]enjoy[SP]a[SP]climax[SP]at[SP]the[SP]Climax[SP]Theater!\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 266,
    "budget": 258
@@ -3598,7 +3556,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Que ferez-vous aujourd'hui ?"
+       "t": "Que ferez-vous aujourd'hui?"
       }
      ]
     }
@@ -3616,13 +3574,13 @@
    "choix_fr": {
     "options": [
      "Choisir un film",
-     "Théâtre Climax",
+     "Théâtre Climax[1205]",
      "Parler",
      "Quitter le théâtre"
     ],
     "question": [
      {
-      "t": "Que ferez-vous aujourd'hui ?"
+      "t": "Que ferez-vous aujourd'hui?"
      }
     ]
    },
@@ -3639,7 +3597,7 @@
      }
     ]
    },
-   "brut_fr": "Que ferez-vous aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Que ferez-vous aujourd'hui?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax[1205][U+000F]\nParler\nQuitter le théâtre",
    "brut_en": "What[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 242,
    "budget": 234
@@ -3653,7 +3611,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors, que ferez-vous aujourd'hui ?"
+       "t": "Alors, que ferez-vous aujourd'hui?"
       }
      ]
     }
@@ -3671,13 +3629,13 @@
    "choix_fr": {
     "options": [
      "Choisir un film",
-     "Théâtre Climax",
+     "Théâtre Climax[1205]",
      "Parler",
      "Quitter le théâtre"
     ],
     "question": [
      {
-      "t": "Alors, que ferez-vous aujourd'hui ?"
+      "t": "Alors, que ferez-vous aujourd'hui?"
      }
     ]
    },
@@ -3694,7 +3652,7 @@
      }
     ]
    },
-   "brut_fr": "Alors, que ferez-vous aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Alors, que ferez-vous aujourd'hui?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax[1205][U+000F]\nParler\nQuitter le théâtre",
    "brut_en": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 254,
    "budget": 246
@@ -3708,7 +3666,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors, que ferez-vous aujourd'hui ?"
+       "t": "Alors, que ferez-vous aujourd'hui?"
       }
      ]
     }
@@ -3726,13 +3684,13 @@
    "choix_fr": {
     "options": [
      "Choisir un film",
-     "Théâtre Climax",
+     "Théâtre Climax[1205]",
      "Parler",
      "Quitter le théâtre"
     ],
     "question": [
      {
-      "t": "Alors, que ferez-vous aujourd'hui ?"
+      "t": "Alors, que ferez-vous aujourd'hui?"
      }
     ]
    },
@@ -3749,7 +3707,7 @@
      }
     ]
    },
-   "brut_fr": "Alors, que ferez-vous aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Alors, que ferez-vous aujourd'hui?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax[1205][U+000F]\nParler\nQuitter le théâtre",
    "brut_en": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 254,
    "budget": 246
@@ -3763,7 +3721,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Alors, que ferez-vous aujourd'hui ?"
+       "t": "Alors, que ferez-vous aujourd'hui?"
       }
      ]
     }
@@ -3781,13 +3739,13 @@
    "choix_fr": {
     "options": [
      "Choisir un film",
-     "Théâtre Climax",
+     "Théâtre Climax[1205]",
      "Parler",
      "Quitter le théâtre"
     ],
     "question": [
      {
-      "t": "Alors, que ferez-vous aujourd'hui ?"
+      "t": "Alors, que ferez-vous aujourd'hui?"
      }
     ]
    },
@@ -3804,7 +3762,7 @@
      }
     ]
    },
-   "brut_fr": "Alors, que ferez-vous aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Alors, que ferez-vous aujourd'hui?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax[1205][U+000F]\nParler\nQuitter le théâtre",
    "brut_en": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 254,
    "budget": 246
@@ -3818,13 +3776,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bienvenue !"
+       "t": "Bienvenue!"
       },
       {
        "nl": true
       },
       {
-       "t": "Quel film venez-vous voir aujourd'hui ?"
+       "t": "Quel film venez-vous voir aujourd'hui?"
       }
      ]
     }
@@ -3847,20 +3805,20 @@
    ],
    "choix_fr": {
     "options": [
-     "Choisir un film",
+     "Choisir un film[1205]",
      "Théâtre Climax",
      "Parler",
      "Quitter le théâtre"
     ],
     "question": [
      {
-      "t": "Bienvenue !"
+      "t": "Bienvenue!"
      },
      {
       "nl": true
      },
      {
-      "t": "Quel film venez-vous voir aujourd'hui ?"
+      "t": "Quel film venez-vous voir aujourd'hui?"
      }
     ]
    },
@@ -3883,7 +3841,7 @@
      }
     ]
    },
-   "brut_fr": "Bienvenue !\nQuel film venez-vous voir aujourd'hui ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Bienvenue!\nQuel film venez-vous voir aujourd'hui?\n[1208][U+0004]Choisir un film[1205][U+000F]\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
    "brut_en": "Welcome!\nWhat[SP]kind[SP]of[SP]film[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 286,
    "budget": 278
@@ -3903,7 +3861,7 @@
        "nl": true
       },
       {
-       "t": "en particulier ?"
+       "t": "en particulier?"
       }
      ]
     }
@@ -3926,7 +3884,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Choisir un film",
+     "Choisir un film[1205]",
      "Théâtre Climax",
      "Parler",
      "Quitter le théâtre"
@@ -3939,7 +3897,7 @@
       "nl": true
      },
      {
-      "t": "en particulier ?"
+      "t": "en particulier?"
      }
     ]
    },
@@ -3962,7 +3920,7 @@
      }
     ]
    },
-   "brut_fr": "Un film vous intéresse-t-il\nen particulier ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Un film vous intéresse-t-il\nen particulier?\n[1208][U+0004]Choisir un film[1205][U+000F]\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
    "brut_en": "Is[SP]there[SP]a[SP]particular[SP]film[SP]you[SP]are[SP]interested\nin[SP]seeing?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 290,
    "budget": 282
@@ -3988,7 +3946,10 @@
        "nl": true
       },
       {
-       "t": "expérience de cinéma !"
+       "t": "expérience de cinéma!"
+      },
+      {
+       "pause": true
       }
      ]
     }
@@ -4019,7 +3980,7 @@
     "options": [
      "Choisir un film",
      "Théâtre Climax",
-     "Parler",
+     "Parler[1205]",
      "Quitter le théâtre"
     ],
     "question": [
@@ -4036,7 +3997,10 @@
       "nl": true
      },
      {
-      "t": "expérience de cinéma !"
+      "t": "expérience de cinéma!"
+     },
+     {
+      "pause": true
      }
     ]
    },
@@ -4065,7 +4029,7 @@
      }
     ]
    },
-   "brut_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma !\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma![1205][U+000F]\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler[1205][U+000F]\nQuitter le théâtre",
    "brut_en": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 378,
    "budget": 370
@@ -4091,7 +4055,10 @@
        "nl": true
       },
       {
-       "t": "expérience de cinéma !"
+       "t": "expérience de cinéma!"
+      },
+      {
+       "pause": true
       }
      ]
     }
@@ -4122,7 +4089,7 @@
     "options": [
      "Choisir un film",
      "Théâtre Climax",
-     "Parler",
+     "Parler[1205]",
      "Quitter le théâtre"
     ],
     "question": [
@@ -4139,7 +4106,10 @@
       "nl": true
      },
      {
-      "t": "expérience de cinéma !"
+      "t": "expérience de cinéma!"
+     },
+     {
+      "pause": true
      }
     ]
    },
@@ -4168,7 +4138,7 @@
      }
     ]
    },
-   "brut_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma !\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma![1205][U+000F]\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler[1205][U+000F]\nQuitter le théâtre",
    "brut_en": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 378,
    "budget": 370
@@ -4182,13 +4152,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et... Coupez ! Bon travail !"
+       "t": "Et... Coupez! Bon travail! Points"
       },
       {
        "nl": true
       },
       {
-       "t": "Points crédités sur votre compte."
+       "t": "crédités sur votre compte."
       }
      ]
     }
@@ -4211,7 +4181,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et... Coupez ! Bon travail !\nPoints crédités sur votre compte.",
+   "brut_fr": "Et... Coupez! Bon travail! Points\ncrédités sur votre compte.",
    "brut_en": "Annnnnnd...[SP]Cut![SP]Good[SP]job!\nLet[SP]me[SP]add[SP]your[SP]points[SP]to[SP]your[SP]account.",
    "data_size": 194,
    "budget": 186
@@ -4256,7 +4226,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Coupez ! C'est un peu décevant..."
+       "t": "... Coupez! C'est un peu décevant..."
       },
       {
        "nl": true
@@ -4285,7 +4255,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Coupez ! C'est un peu décevant...\nJ'attendrai votre retour.",
+   "brut_fr": "... Coupez! C'est un peu décevant...\nJ'attendrai votre retour.",
    "brut_en": "...Cut![SP]That[SP]was[SP]a[SP]bit[SP]of[SP]a[SP]disappointment...\nI'll[SP]be[SP]waiting[SP]for[SP]you[SP]to[SP]return.",
    "data_size": 224,
    "budget": 216
@@ -4299,7 +4269,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Autre chose pour vous ?"
+       "t": "Autre chose pour vous?"
       }
      ]
     }
@@ -4317,13 +4287,13 @@
    "choix_fr": {
     "options": [
      "Choisir un film",
-     "Théâtre Climax",
+     "Théâtre Climax[1205]",
      "Parler",
      "Quitter le théâtre"
     ],
     "question": [
      {
-      "t": "Autre chose pour vous ?"
+      "t": "Autre chose pour vous?"
      }
     ]
    },
@@ -4340,7 +4310,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose pour vous ?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+   "brut_fr": "Autre chose pour vous?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax[1205][U+000F]\nParler\nQuitter le théâtre",
    "brut_en": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]do[SP]for[SP]you?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
    "data_size": 258,
    "budget": 250
@@ -4476,19 +4446,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous pouvez quitter votre siège,"
+       "t": "Vous pouvez quitter votre siège, mais vous"
       },
       {
        "nl": true
       },
       {
-       "t": "mais vous ne gagnerez pas de points."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Faites attention."
+       "t": "ne gagnerez pas de points. Faites attention."
       }
      ]
     }
@@ -4517,7 +4481,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous pouvez quitter votre siège,\nmais vous ne gagnerez pas de points.\nFaites attention.",
+   "brut_fr": "Vous pouvez quitter votre siège, mais vous\nne gagnerez pas de points. Faites attention.",
    "brut_en": "You[SP]can[SP]leave[SP]your[SP]seat[SP]while[SP]the[SP]film[SP]is[SP]showing,\nbut[SP]if[SP]you[SP]do,[SP]you[SP]will[SP]not[SP]earn[SP]points[SP]for\nwatching[SP]it.[SP]Please[SP]be[SP]careful.",
    "data_size": 316,
    "budget": 308
@@ -4531,13 +4495,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous voulez en savoir plus sur le classement ?"
+       "t": "Vous voulez en savoir plus sur le"
       },
       {
        "nl": true
       },
       {
-       "t": "Très bien, je vous explique."
+       "t": "classement? Très bien, je vous explique."
       }
      ]
     }
@@ -4560,7 +4524,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous voulez en savoir plus sur le classement ?\nTrès bien, je vous explique.",
+   "brut_fr": "Vous voulez en savoir plus sur le\nclassement? Très bien, je vous explique.",
    "brut_en": "You[SP]would[SP]like[SP]to[SP]learn[SP]more[SP]about[SP]the[SP]ranking\nsystem?[SP]Very[SP]well,[SP]I'll[SP]explain[SP]it.",
    "data_size": 226,
    "budget": 218
@@ -4574,13 +4538,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "De bas en haut, les niveaux sont :"
+       "t": "De bas en haut, les niveaux sont: Framboise"
       },
       {
        "nl": true
       },
       {
-       "t": "Framboise Noire, Gant Blanc, Homme de Bronze..."
+       "t": "Noire, Gant Blanc, Homme de Bronze..."
       }
      ]
     }
@@ -4603,7 +4567,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "De bas en haut, les niveaux sont :\nFramboise Noire, Gant Blanc, Homme de Bronze...",
+   "brut_fr": "De bas en haut, les niveaux sont: Framboise\nNoire, Gant Blanc, Homme de Bronze...",
    "brut_en": "From[SP]the[SP]bottom,[SP]the[SP]ranks[SP]are:\nBlack[SP]Raspberry,[SP]White[SP]Glove,[SP]Bronze[SP]Man...",
    "data_size": 212,
    "budget": 204
@@ -4617,13 +4581,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Palme d'Argent, Ours d'Or, et notre plus haute"
+       "t": "Palme d'Argent, Ours d'Or, et notre plus"
       },
       {
        "nl": true
       },
       {
-       "t": "distinction, le Lion de Platine."
+       "t": "haute distinction, le Lion de Platine."
       }
      ]
     }
@@ -4646,7 +4610,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Palme d'Argent, Ours d'Or, et notre plus haute\ndistinction, le Lion de Platine.",
+   "brut_fr": "Palme d'Argent, Ours d'Or, et notre plus\nhaute distinction, le Lion de Platine.",
    "brut_en": "Silver[SP]Palm,[SP]Golden[SP]Bear,[SP]and[SP]our[SP]highest[SP]honor,\nPlatinum[SP]Lion.",
    "data_size": 188,
    "budget": 180
@@ -4660,13 +4624,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour monter en rang, vous devrez regarder"
+       "t": "Pour monter en rang, vous devrez"
       },
       {
        "nl": true
       },
       {
-       "t": "les films jusqu'à la fin."
+       "t": "regarder les films jusqu'à la fin."
       }
      ]
     }
@@ -4689,7 +4653,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour monter en rang, vous devrez regarder\nles films jusqu'à la fin.",
+   "brut_fr": "Pour monter en rang, vous devrez\nregarder les films jusqu'à la fin.",
    "brut_en": "In[SP]order[SP]to[SP]raise[SP]your[SP]member[SP]rank,[SP]you[SP]will[SP]need\nto[SP]watch[SP]films[SP]all[SP]the[SP]way[SP]through[SP]to[SP]the[SP]end.",
    "data_size": 254,
    "budget": 246
@@ -4703,19 +4667,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Essayez de monter le plus haut possible !"
+       "t": "Essayez de monter le plus haut"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous ne gagnez ni argent ni objets,"
+       "t": "possible! Vous ne gagnez ni argent"
       },
       {
        "nl": true
       },
       {
-       "t": "mais c'est amusant !"
+       "t": "ni objets, mais c'est amusant!"
       }
      ]
     }
@@ -4744,7 +4708,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Essayez de monter le plus haut possible !\nVous ne gagnez ni argent ni objets,\nmais c'est amusant !",
+   "brut_fr": "Essayez de monter le plus haut\npossible! Vous ne gagnez ni argent\nni objets, mais c'est amusant!",
    "brut_en": "Please[SP]try[SP]to[SP]raise[SP]your[SP]ranking[SP]as[SP]high[SP]as\nyou[SP]can![SP]You[SP]won't[SP]earn[SP]any[SP]money[SP]or[SP]items\nor[SP]anything,[SP]but[SP]it's[SP]fun!",
    "data_size": 290,
    "budget": 282
@@ -4758,13 +4722,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je vous attendrai pour votre prochain film."
+       "t": "Je vous attendrai pour votre"
       },
       {
        "nl": true
       },
       {
-       "t": "Et... Fondu au noir !"
+       "t": "prochain film. Et... Fondu au noir!"
       }
      ]
     }
@@ -4793,7 +4757,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vous attendrai pour votre prochain film.\nEt... Fondu au noir !",
+   "brut_fr": "Je vous attendrai pour votre\nprochain film. Et... Fondu au noir!",
    "brut_en": "Well[SP]then,[SP]I'll[SP]be[SP]waiting[SP]for[SP]you[SP]the[SP]next\ntime[SP]you[SP]come[SP]to[SP]see[SP]a[SP]film.\nAnnnnnd...[SP]Fade[SP]out!",
    "data_size": 250,
    "budget": 242
@@ -4807,13 +4771,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Votre billet :  yens."
+       "t": "Votre billet:  yens."
       },
       {
        "nl": true
       },
       {
-       "t": "Ça vous convient ?"
+       "t": "Ça vous convient?"
       }
      ]
     }
@@ -4836,18 +4800,18 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
      {
-      "t": "Votre billet :  yens."
+      "t": "Votre billet:  yens."
      },
      {
       "nl": true
      },
      {
-      "t": "Ça vous convient ?"
+      "t": "Ça vous convient?"
      }
     ]
    },
@@ -4868,7 +4832,7 @@
      }
     ]
    },
-   "brut_fr": "Votre billet : [120E][NULL] yens.\nÇa vous convient ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Votre billet: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "Your[SP]ticket[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
    "data_size": 176,
    "budget": 168
@@ -4882,13 +4846,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Votre billet :  yens."
+       "t": "Votre billet:  yens."
       },
       {
        "nl": true
       },
       {
-       "t": "Ça vous convient ?"
+       "t": "Ça vous convient?"
       }
      ]
     }
@@ -4911,18 +4875,18 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
      {
-      "t": "Votre billet :  yens."
+      "t": "Votre billet:  yens."
      },
      {
       "nl": true
      },
      {
-      "t": "Ça vous convient ?"
+      "t": "Ça vous convient?"
      }
     ]
    },
@@ -4943,7 +4907,7 @@
      }
     ]
    },
-   "brut_fr": "Votre billet : [120E][NULL] yens.\nÇa vous convient ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Votre billet: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "Your[SP]ticket[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
    "data_size": 176,
    "budget": 168
@@ -5000,7 +4964,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bonne séance !"
+       "t": "Bonne séance!"
       }
      ]
     }
@@ -5017,7 +4981,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bonne séance !",
+   "brut_fr": "Bonne séance!",
    "brut_en": "Please[SP]enjoy[SP]the[SP]show!",
    "data_size": 108,
    "budget": 100

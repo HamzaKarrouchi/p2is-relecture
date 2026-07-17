@@ -10,19 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Même eux sont devenus des Ombres..."
+       "t": "Même eux sont devenus des Ombres... Ça n'a"
       },
       {
        "nl": true
       },
       {
-       "t": "Ça n'a aucun sens. Tout allait bien il y a"
+       "t": "aucun sens. Tout allait bien il y a quelques"
       },
       {
        "nl": true
       },
       {
-       "t": "quelques jours ! Pourquoi ça arrive soudain ?"
+       "t": "jours! Pourquoi ça arrive "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " soudain?"
       }
      ]
     }
@@ -51,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Même eux sont devenus des Ombres...\nÇa n'a aucun sens. Tout allait bien il y a\nquelques jours ! Pourquoi ça arrive soudain ?",
+   "brut_fr": "Même eux sont devenus des Ombres... Ça n'a\naucun sens. Tout allait bien il y a quelques\njours! Pourquoi ça arrive [1205][U+000F] soudain?",
    "brut_en": "Even[SP]these[SP]guys[SP]turned[SP]into[SP]shadowmen...\nIt[SP]makes[SP]no[SP]sense.[SP]Everyone[SP]was[SP]fine[SP]a[SP]few\ndays[SP]ago![SP]Why[SP]is[SP]this[SP]suddenly[SP]happening...?",
    "data_size": 282,
    "budget": 274
@@ -71,13 +77,13 @@
        "nl": true
       },
       {
-       "t": "Ma mort là-dessous aurait été une"
+       "t": "Ma mort là-dessous aurait été"
       },
       {
        "nl": true
       },
       {
-       "t": "immense perte pour ce monde."
+       "t": "une immense perte pour ce monde."
       }
      ]
     }
@@ -106,7 +112,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Heureusement qu'on a fui l'abri.\nMa mort là-dessous aurait été une\nimmense perte pour ce monde.",
+   "brut_fr": "Heureusement qu'on a fui l'abri.\nMa mort là-dessous aurait été\nune immense perte pour ce monde.",
    "brut_en": "Good[SP]thing[SP]we[SP]got[SP]out[SP]of[SP]that[SP]shelter.[SP]If[SP]I'd\ndisappeared[SP]down[SP]there,[SP]it[SP]would[SP]have[SP]been[SP]a\ngreat[SP]loss[SP]to[SP]the[SP]world.",
    "data_size": 256,
    "budget": 248
@@ -126,25 +132,25 @@
        "hero": "prenom"
       },
       {
-       "t": ", tu as un rêve ?"
+       "t": ", tu as un rêve?"
       },
       {
        "pause": true
       },
       {
+       "t": " Hein? Moi?"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Hein ? Moi ? Ben... Je..."
+       "t": "Ben... Je..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Je te le dirai un jour."
+       "t": " Je te le dirai un jour."
       }
      ]
     }
@@ -182,7 +188,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé, [1113], tu as un rêve ?[1205][U+000F]\nHein ? Moi ? Ben... Je...[1205][U+000F]\nJe te le dirai un jour.",
+   "brut_fr": "Hé, [1113], tu as un rêve?[1205][U+000F] Hein? Moi?\nBen... Je...[1205][U+000F] Je te le dirai un jour.",
    "brut_en": "Hey,[SP][1113],[SP]do[SP]you[SP]have[SP]a[SP]dream?[1205][U+000F]\nHuh?[SP]Me?[SP]Well...[SP]I...[1205][U+000F][SP]Um,[SP]I'll[SP]tell[SP]you[SP]someday.",
    "data_size": 184,
    "budget": 176
@@ -202,19 +208,19 @@
        "hero": "prenom"
       },
       {
-       "t": "... Il s'est passé un truc avec"
+       "t": "... Il s'est passé un"
       },
       {
        "nl": true
       },
       {
-       "t": "Maya dans l'abri ? Vous aviez l'air"
+       "t": "truc avec Maya dans l'abri? Vous aviez"
       },
       {
        "nl": true
       },
       {
-       "t": "d'avoir eu votre petit moment..."
+       "t": "l'air d'avoir eu votre petit moment..."
       }
      ]
     }
@@ -249,7 +255,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "H-Hé, [1113]... Il s'est passé un truc avec\nMaya dans l'abri ? Vous aviez l'air\nd'avoir eu votre petit moment...",
+   "brut_fr": "H-Hé, [1113]... Il s'est passé un\ntruc avec Maya dans l'abri? Vous aviez\nl'air d'avoir eu votre petit moment...",
    "brut_en": "H-Hey,[SP][1113]...[SP]Did[SP]something[SP]happen[SP]with\nMaya-san[SP]in[SP]the[SP]shelter?[SP]You[SP]guys[SP]seemed[SP]like\nyou[SP]had[SP]a[SP]moment[SP]there...",
    "data_size": 240,
    "budget": 232
@@ -275,16 +281,19 @@
        "pause": true
       },
       {
-       "t": " ou plutôt, n'y arrivent plus..."
-      },
-      {
-       "pause": true
+       "t": " ou plutôt, n'y arrivent"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est triste quand on y pense."
+       "t": "plus..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est triste quand on y pense."
       }
      ]
     }
@@ -325,7 +334,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "De plus en plus de gens ne rêvent\nplus...[1205][U+000F] ou plutôt, n'y arrivent plus...[1205][U+000F]\nC'est triste quand on y pense.",
+   "brut_fr": "De plus en plus de gens ne rêvent\nplus...[1205][U+000F] ou plutôt, n'y arrivent\nplus...[1205][U+000F] C'est triste quand on y pense.",
    "brut_en": "There[SP]seem[SP]to[SP]be[SP]more[SP]and[SP]more[SP]people[SP]who\ndon't...[1205][U+000F][SP]or[SP]rather[SP]can't[SP]dream...[1205][U+000F][SP]It's[SP]kind\nof[SP]sad[SP]if[SP]you[SP]think[SP]about[SP]it.",
    "data_size": 258,
    "budget": 250
@@ -339,19 +348,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Haha, je ne pensais pas que ton briquet"
+       "t": "Haha, je ne pensais pas que ton"
       },
       {
        "nl": true
       },
       {
-       "t": "nous serait si utile. Un homme averti"
+       "t": "briquet nous serait si utile. Un"
       },
       {
        "nl": true
       },
       {
-       "t": "en vaut deux... Haha..."
+       "t": "homme averti en vaut deux... Haha..."
       }
      ]
     }
@@ -380,7 +389,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Haha, je ne pensais pas que ton briquet\nnous serait si utile. Un homme averti\nen vaut deux... Haha...",
+   "brut_fr": "Haha, je ne pensais pas que ton\nbriquet nous serait si utile. Un\nhomme averti en vaut deux... Haha...",
    "brut_en": "Haha,[SP]I[SP]didn't[SP]think[SP]we'd[SP]get[SP]such[SP]good[SP]use[SP]out\nof[SP]your[SP]lighter.[SP]Forewarned[SP]is[SP]forearmed...[SP]and\nsuch.[SP]Hahah...",
    "data_size": 240,
    "budget": 232
@@ -394,19 +403,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a trop d'Ombres ici, non ? Il y en"
+       "t": "Il y a trop d'Ombres ici, non? Il"
       },
       {
        "nl": true
       },
       {
-       "t": "avait si peu à Seven. Quelque chose cloche"
+       "t": "y en avait si peu à Seven. Quelque"
       },
       {
        "nl": true
       },
       {
-       "t": "dans ce lycée..."
+       "t": "chose cloche dans ce lycée..."
       }
      ]
     }
@@ -435,7 +444,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a trop d'Ombres ici, non ? Il y en\navait si peu à Seven. Quelque chose cloche\ndans ce lycée...",
+   "brut_fr": "Il y a trop d'Ombres ici, non? Il\ny en avait si peu à Seven. Quelque\nchose cloche dans ce lycée...",
    "brut_en": "Aren't[SP]there[SP]too[SP]many[SP]shadowmen[SP]here?[SP]There[SP]were\nhardly[SP]any[SP]at[SP]Sevens[SP]yet.[SP]There's[SP]something\nstrange[SP]about[SP]this[SP]school...",
    "data_size": 266,
    "budget": 258
@@ -449,19 +458,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Que peut bien cacher d'autre ce président ?"
+       "t": "Que peut bien cacher d'autre ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Ne tombons plus jamais dans ce genre"
+       "t": "président ? Ne tombons plus jamais"
       },
       {
        "nl": true
       },
       {
-       "t": "de piège, d'accord ?"
+       "t": "dans ce genre"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de piège, d'accord?"
       }
      ]
     }
@@ -490,7 +505,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Que peut bien cacher d'autre ce président ?\nNe tombons plus jamais dans ce genre\nde piège, d'accord ?",
+   "brut_fr": "Que peut bien cacher d'autre ce\nprésident ? Ne tombons plus jamais\ndans ce genre[1205][U+000F] de piège, d'accord?",
    "brut_en": "I[SP]wonder[SP]what[SP]else[SP]that[SP]president[SP]has[SP]up[SP]his\nsleeve.[SP]Let's[SP]never[SP]fall[SP]for[SP]a[SP]trap[SP]like[SP]that\nagain,[SP]okay?",
    "data_size": 230,
    "budget": 222
@@ -513,16 +528,19 @@
        "nl": true
       },
       {
-       "t": "Une histoire de... miroir qu'il avait..."
-      },
-      {
-       "pause": true
+       "t": "Une histoire de... miroir qu'il"
       },
       {
        "nl": true
       },
       {
-       "t": "De toute façon je m'en fous..."
+       "t": "avait..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " De toute façon je m'en fous..."
       }
      ]
     }
@@ -560,7 +578,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un type a... pu s'échapper de l'abri...[1205][U+000F]\nUne histoire de... miroir qu'il avait...[1205][U+000F]\nDe toute façon je m'en fous...",
+   "brut_fr": "Un type a... pu s'échapper de l'abri...[1205][U+000F]\nUne histoire de... miroir qu'il\navait...[1205][U+000F] De toute façon je m'en fous...",
    "brut_en": "There[SP]was...[SP]one[SP]who...[SP]escaped[SP]the[SP]shelter...[1205][U+000F]\nSomething[SP]about...[SP]a[SP]mirror[SP]he[SP]had...[1205][U+000F][SP]I[SP]don't\neven[SP]care...",
    "data_size": 254,
    "budget": 246
@@ -574,19 +592,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sortis de l'abri ? Vous savez"
+       "t": "Sortis de l'abri? Vous savez donc... comment"
       },
       {
        "nl": true
       },
       {
-       "t": "donc... comment utiliser"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "le miroir... Peu importe..."
+       "t": "utiliser le miroir... Peu importe..."
       }
      ]
     }
@@ -609,7 +621,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sortis de l'abri ? Vous savez\ndonc... comment utiliser\nle miroir... Peu importe...",
+   "brut_fr": "Sortis de l'abri? Vous savez donc... comment\nutiliser le miroir... Peu importe...",
    "brut_en": "You[SP]guys[SP]got[SP]out[SP]of[SP]the[SP]shelter?[SP]So[SP]you[SP]found\nout...[SP]how[SP]to[SP]use[SP]the[SP]mirror...[SP]Whatever...",
    "data_size": 214,
    "budget": 206
@@ -629,25 +641,22 @@
        "pause": true
       },
       {
-       "t": " J'ai l'impression... qu'il y a"
+       "t": " J'ai l'impression..."
       },
       {
        "nl": true
       },
       {
-       "t": "moins d'élèves en ce moment..."
+       "t": "qu'il y a moins d'élèves en ce moment..."
       },
       {
        "pause": true
       },
       {
-       "t": " Euh..."
-      },
-      {
        "nl": true
       },
       {
-       "t": "C'est juste mon imagination ?"
+       "t": "Euh... C'est juste mon imagination?"
       }
      ]
     }
@@ -688,7 +697,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Euh... Eh bien...[1205][U+000F] J'ai l'impression... qu'il y a\nmoins d'élèves en ce moment...[1205][U+000F] Euh...\nC'est juste mon imagination ?",
+   "brut_fr": "Euh... Eh bien...[1205][U+000F] J'ai l'impression...\nqu'il y a moins d'élèves en ce moment...[1205][U+000F]\nEuh... C'est juste mon imagination?",
    "brut_en": "Umm...[SP]Well...[SP]Uhh...[1205][U+000F][SP]It[SP]feels[SP]like...[SP]I[SP]have\nfewer[SP]classmates[SP]lately...[1205][U+000F][SP]Uh...[SP]Is[SP]this...\njust[SP]my[SP]imagination?",
    "data_size": 264,
    "budget": 256
@@ -708,13 +717,19 @@
        "nl": true
       },
       {
-       "t": "qu'on dit. Mais c'est quoi un idéal ? Des"
+       "t": "qu'on dit. Mais c'est quoi un idéal? Des"
       },
       {
        "nl": true
       },
       {
-       "t": "rêves d'avenir ? Je crois que je n'en ai pas."
+       "t": "rêves d'avenir? Je crois que je n'en ai "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pas."
       }
      ]
     }
@@ -743,7 +758,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Jeu du Joker réalise vos idéaux, à ce\nqu'on dit. Mais c'est quoi un idéal ? Des\nrêves d'avenir ? Je crois que je n'en ai pas.",
+   "brut_fr": "Le Jeu du Joker réalise vos idéaux, à ce\nqu'on dit. Mais c'est quoi un idéal? Des\nrêves d'avenir? Je crois que je n'en ai [1205][U+000F] pas.",
    "brut_en": "I[SP]heard[SP]your[SP]ideals[SP]will[SP]be[SP]granted[SP]if[SP]you[SP]play\nthe[SP]Joker[SP]Game.[SP]But[SP]what're[SP]ideals?[SP]Dreams[SP]for\nyour[SP]future?[SP]I[SP]don't[SP]think[SP]I[SP]have[SP]any.",
    "data_size": 302,
    "budget": 294

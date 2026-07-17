@@ -134,7 +134,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu parles d'une situation... Bon, on va juste le sortir de là. J’ai besoin de ton aide là, !"
+       "t": "Tu parles d'une situation... Bon, on va juste"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le sortir de là. J’ai besoin de ton aide là, !"
       }
      ]
     }
@@ -169,7 +175,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu parles d'une situation... Bon, on va juste le sortir de là. J’ai besoin de ton aide là, [u+1113]!",
+   "brut_fr": "Tu parles d'une situation... Bon, on va juste\nle sortir de là. J’ai besoin de ton aide là, [u+1113]!",
    "brut_en": "Talk[SP]about[SP]an[SP]odd[SP]situation...[SP]Oh[SP]well,\nwe'll[SP]just[SP]have[SP]to[SP]pull[SP]him[SP]out.[SP]I[SP]need\nyour[SP]help[SP]here,[SP][1113]!",
    "data_size": 222,
    "budget": 214

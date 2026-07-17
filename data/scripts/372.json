@@ -10,25 +10,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "On a déformés nos souvenirs sans s'en"
+       "t": "On a déformés nos souvenirs sans s'en rendre"
       },
       {
        "nl": true
       },
       {
-       "t": " rendre compte..."
+       "t": "compte..."
       },
       {
        "pause": true
       },
       {
-       "t": " Peut-être qu'on se"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "comprends pas."
+       "t": " Peut-être qu'on se comprends pas."
       }
      ]
     }
@@ -60,7 +54,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On a déformés nos souvenirs sans s'en\n rendre compte...[1205][U+000F] Peut-être qu'on se\ncomprends pas.",
+   "brut_fr": "On a déformés nos souvenirs sans s'en rendre\ncompte...[1205][U+000F] Peut-être qu'on se comprends pas.",
    "brut_en": "We've[SP]been[SP]twisting[SP]our[SP]memories[SP]around[SP]without\nrealizing[SP]it,[SP]doing[SP]things[SP]the[SP]hard[SP]way...[1205][U+000F]\nMaybe[SP]we[SP]just[SP]don't[SP]understand[SP]ourselves.",
    "data_size": 294,
    "budget": 286
@@ -74,13 +68,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Jamais j'aurais cru que les souvenirs puissent"
+       "t": "Jamais j'aurais cru que les"
       },
       {
        "nl": true
       },
       {
-       "t": "changer seuls"
+       "t": "souvenirs puissent changer seuls"
       }
      ]
     }
@@ -103,7 +97,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jamais j'aurais cru que les souvenirs puissent\nchanger seuls",
+   "brut_fr": "Jamais j'aurais cru que les\nsouvenirs puissent changer seuls",
    "brut_en": "I[SP]can't[SP]believe[SP]memories[SP]can[SP]change[SP]without[SP]you\nrealizing[SP]it.",
    "data_size": 144,
    "budget": 136
@@ -117,13 +111,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sans vous, j'aurais vécu dans la peur"
+       "t": "Sans vous, j'aurais vécu dans"
       },
       {
        "nl": true
       },
       {
-       "t": "d'un faux souvenir..."
+       "t": "la peur d'un faux souvenir..."
       }
      ]
     }
@@ -146,7 +140,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sans vous, j'aurais vécu dans la peur\nd'un faux souvenir...",
+   "brut_fr": "Sans vous, j'aurais vécu dans\nla peur d'un faux souvenir...",
    "brut_en": "If[SP]I[SP]hadn't[SP]met[SP]you[SP]guys,[SP]maybe[SP]I[SP]would've\nlived[SP]in[SP]fear[SP]of[SP]a[SP]false[SP]memory...",
    "data_size": 176,
    "budget": 168
@@ -160,19 +154,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je pense que Philémon savait tout dès le début...n"
+       "t": "Je pense que Philémon savait tout dès le"
       },
       {
        "nl": true
       },
       {
-       "t": "Il attendait qu'on atteigne nous-mêmes le"
+       "t": "début... n Il attendait qu'on atteigne"
       },
       {
        "nl": true
       },
       {
-       "t": "bassin de réflexion."
+       "t": "nous-mêmes le"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " bassin de réflexion."
       }
      ]
     }
@@ -204,7 +204,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je pense que Philémon savait tout dès le début...n\nIl attendait qu'on atteigne nous-mêmes le\nbassin de réflexion.",
+   "brut_fr": "Je pense que Philémon savait tout dès le\ndébut... n Il attendait qu'on atteigne\nnous-mêmes le[1205][U+000F] bassin de réflexion.",
    "brut_en": "I[SP]think[SP]Philemon[SP]knew[SP]it[SP]all[SP]from[SP]the[SP]start.[1205][U+000F]\nHe[SP]knew,[SP]and[SP]he[SP]was[SP]waiting[SP]for[SP]us[SP]to[SP]get[SP]to\nthe[SP]reflecting[SP]pool[SP]ourselves.",
    "data_size": 264,
    "budget": 256
@@ -218,22 +218,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "On craignait tous la vérité au fond."
+       "t": "On craignait tous la vérité au"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fond."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Sans nous retrouver, la malédiction"
+       "t": " Sans nous retrouver, la"
       },
       {
        "nl": true
       },
       {
-       "t": "'aurait pas été levée."
+       "t": "malédiction 'aurait pas été levée."
       }
      ]
     }
@@ -265,7 +268,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On craignait tous la vérité au fond.[1205][U+000F]\nSans nous retrouver, la malédiction\n'aurait pas été levée.",
+   "brut_fr": "On craignait tous la vérité au\nfond.[1205][U+000F] Sans nous retrouver, la\nmalédiction 'aurait pas été levée.",
    "brut_en": "We[SP]all[SP]feared[SP]the[SP]truth[SP]somewhere[SP]inside[SP]us.[1205][U+000F]\nThat[SP]curse[SP]wouldn't[SP]have[SP]been[SP]broken[SP]if[SP]we\nhadn't[SP]reunited[SP]and[SP]cleared[SP]everything[SP]up.",
    "data_size": 284,
    "budget": 276
@@ -279,25 +282,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "La malédiction est brisée, donc on se fait"
+       "t": "La malédiction est brisée, donc on"
       },
       {
        "nl": true
       },
       {
-       "t": "plus confiance maintenant."
+       "t": "se fait plus confiance maintenant."
       },
       {
        "pause": true
       },
       {
-       "t": " J'imagine qu'il"
-      },
-      {
        "nl": true
       },
       {
-       "t": "voulait ca."
+       "t": "J'imagine qu'il voulait ca."
       }
      ]
     }
@@ -332,7 +332,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La malédiction est brisée, donc on se fait\nplus confiance maintenant.[1205][U+000F] J'imagine qu'il\nvoulait ca.",
+   "brut_fr": "La malédiction est brisée, donc on\nse fait plus confiance maintenant.[1205][U+000F]\nJ'imagine qu'il voulait ca.",
    "brut_en": "But[SP]now[SP]that[SP]the[SP]curse[SP]is[SP]broken,[SP]we[SP]trust\neach[SP]other[SP]even[SP]more[SP]than[SP]before.[1205][U+000F][SP]I[SP]think\nthat's[SP]what[SP]he[SP]wanted.",
    "data_size": 238,
    "budget": 230
@@ -346,19 +346,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Comme les différents Personae en nous, tous"
+       "t": "Comme les différents Personae en nous,"
       },
       {
        "nl": true
       },
       {
-       "t": "les humains portent des masques, pour s'adapter et"
+       "t": "tous les humains portent des masques,"
       },
       {
        "nl": true
       },
       {
-       "t": "se protéger."
+       "t": "pour "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " s'adapter et se protéger."
       }
      ]
     }
@@ -387,7 +393,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Comme les différents Personae en nous, tous\nles humains portent des masques, pour s'adapter et\nse protéger.",
+   "brut_fr": "Comme les différents Personae en nous,\ntous les humains portent des masques,\npour [1205][U+000F] s'adapter et se protéger.",
    "brut_en": "Just[SP]as[SP]we[SP]have[SP]many[SP]Personas[SP]within[SP]us,[SP]all\nhumans[SP]wear[SP]many[SP]masks--to[SP]adapt[SP]to[SP]society,\nto[SP]protect[SP]their[SP]true[SP]selves.",
    "data_size": 256,
    "budget": 248
@@ -514,19 +520,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Maki-san est partie aider quelqu'un..."
+       "t": "Maki-san est partie aider"
       },
       {
        "nl": true
       },
       {
-       "t": "Je sais pas où elle est, mais j'espère"
+       "t": "quelqu'un... Je sais pas où elle"
       },
       {
        "nl": true
       },
       {
-       "t": " qu'elle va bien"
+       "t": "est, mais j'espère qu'elle va bien"
       }
      ]
     }
@@ -561,7 +567,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Maki-san est partie aider quelqu'un...\nJe sais pas où elle est, mais j'espère\n qu'elle va bien",
+   "brut_fr": "Maki-san est partie aider\nquelqu'un... Je sais pas où elle\nest, mais j'espère qu'elle va bien",
    "brut_en": "Maki-san[SP]said[SP]she[SP]was[SP]going[SP]to[SP]go[SP]help[SP]someone.\nI[SP]don't[SP]know[SP]where[SP]she[SP]went,[SP]but[SP]I[SP]hope[SP]she's\nokay...[1205][U+000F][SP]Man,[SP]I[SP]should[SP]have[SP]gone[SP]with[SP]her!",
    "data_size": 314,
    "budget": 306
@@ -656,6 +662,7 @@
     "options": [
      "Soigne-moi.",
      "Discutons.",
+     "[1205]",
      "Pas grand-chose.",
      "Quitter"
     ],
@@ -678,7 +685,7 @@
      }
     ]
    },
-   "brut_fr": "Que veux-tu?\n[1208][U+0004][1432][NULL][NULL][0014]Soigne-moi.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Discutons.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas grand-chose.[1432][NULL][NULL][0014]\nQuitter",
+   "brut_fr": "Que veux-tu?\n[1208][U+0004][1432][NULL][NULL][0014]Soigne-moi.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Discutons.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Pas grand-chose.[1432][NULL][NULL][0014]\nQuitter",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0004][1432][NULL][NULL][0014]I[SP]want[SP]to[SP]be[SP]healed.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]want[SP]to[SP]talk.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Nothing,[SP]really.[1432][NULL][NULL][0014]\nLeave",
    "data_size": 244,
    "budget": 236
@@ -829,13 +836,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est un peu cher, mais je vous soigne tous d'un coup."
+       "t": "C'est un peu cher, mais je vous soigne tous"
       },
       {
        "nl": true
       },
       {
-       "t": "Donc au final c'est moins cher."
+       "t": "d'un coup. Donc au final c'est moins cher."
       }
      ]
     }
@@ -864,7 +871,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est un peu cher, mais je vous soigne tous d'un coup.\nDonc au final c'est moins cher.",
+   "brut_fr": "C'est un peu cher, mais je vous soigne tous\nd'un coup. Donc au final c'est moins cher.",
    "brut_en": "It's[SP]somewhat[SP]costly,[SP]but[SP]my[SP]group[SP]sessions\nheal[SP]all[SP]of[SP]you[SP]at[SP]once,[SP]so[SP]it's[SP]cheaper[SP]in\nthe[SP]end.",
    "data_size": 222,
    "budget": 214
@@ -878,19 +885,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On se comprend le moins nous-mêmes."
+       "t": "On se comprend le moins nous-mêmes. Passe me"
       },
       {
        "nl": true
       },
       {
-       "t": "Passe me voir en cas de problème, on"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "en reparlera."
+       "t": "voir en cas de problème, on en reparlera."
       }
      ]
     }
@@ -919,7 +920,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On se comprend le moins nous-mêmes.\nPasse me voir en cas de problème, on\nen reparlera.",
+   "brut_fr": "On se comprend le moins nous-mêmes. Passe me\nvoir en cas de problème, on en reparlera.",
    "brut_en": "It's[SP]our[SP]own[SP]selves[SP]we[SP]understand[SP]least.\nCome[SP]by[SP]whenever[SP]you're[SP]in[SP]trouble,[SP]and[SP]we\ncan[SP]talk[SP]about[SP]it.",
    "data_size": 234,
    "budget": 226
@@ -933,19 +934,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ha... Tu es sain d'esprit et de corps."
+       "t": "Ha... Tu es sain d'esprit et de corps. Passe"
       },
       {
        "nl": true
       },
       {
-       "t": "Passe me voir si tu te sens pas bien."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je serai là."
+       "t": "me voir si tu te sens pas bien. Je serai là."
       }
      ]
     }
@@ -974,7 +969,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ha... Tu es sain d'esprit et de corps.\nPasse me voir si tu te sens pas bien.\nJe serai là.",
+   "brut_fr": "Ha... Tu es sain d'esprit et de corps. Passe\nme voir si tu te sens pas bien. Je serai là.",
    "brut_en": "Haha...[SP]You[SP]seem[SP]to[SP]be[SP]a[SP]sound[SP]mind[SP]in[SP]a[SP]sound\nbody.[SP]Come[SP]by[SP]if[SP]you[SP]ever[SP]feel[SP]unwell.[SP]I'll\nalways[SP]have[SP]time[SP]for[SP]you.",
    "data_size": 262,
    "budget": 254
@@ -1000,7 +995,7 @@
        "nl": true
       },
       {
-       "t": "1200 yens. Ça vous va ?"
+       "t": "1200 yens. Ça vous va?"
       }
      ]
     }
@@ -1029,7 +1024,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
@@ -1046,7 +1041,7 @@
       "nl": true
      },
      {
-      "t": "1200 yens. Ça vous va ?"
+      "t": "1200 yens. Ça vous va?"
      }
     ]
    },
@@ -1073,7 +1068,7 @@
      }
     ]
    },
-   "brut_fr": "D'accord.[1205][U+000F] Ma séance de groupe coûte\n1200 yens. Ça vous va ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "D'accord.[1205][U+000F] Ma séance de groupe coûte\n1200 yens. Ça vous va?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "All[SP]right.[1205][U+000F][SP]My[SP]rate[SP]for[SP]a[SP]group[SP]session[SP]is\n1,200[SP]yen.[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
    "data_size": 186,
    "budget": 178
@@ -1087,13 +1082,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ce message ne devrait pas apparaître."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Erreur."
+       "t": "Ce message ne devrait pas apparaître. Erreur."
       }
      ]
     }
@@ -1116,7 +1105,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce message ne devrait pas apparaître.\nErreur.",
+   "brut_fr": "Ce message ne devrait pas apparaître. Erreur.",
    "brut_en": "This[SP]message[SP]shouldn't[SP]appear.\nIt's[SP]an[SP]error.",
    "data_size": 114,
    "budget": 106
@@ -1130,13 +1119,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "N'aie pas honte de montrer les blessures de ton"
+       "t": "N'aie pas honte de montrer les blessures"
       },
       {
        "nl": true
       },
       {
-       "t": "âme. Reviens quand tu veux."
+       "t": "de ton âme. Reviens quand tu veux."
       }
      ]
     }
@@ -1159,7 +1148,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N'aie pas honte de montrer les blessures de ton\nâme. Reviens quand tu veux.",
+   "brut_fr": "N'aie pas honte de montrer les blessures\nde ton âme. Reviens quand tu veux.",
    "brut_en": "Don't[SP]be[SP]ashamed[SP]to[SP]bare[SP]the[SP]wounds[SP]of[SP]your\nsoul.[SP]Come[SP]by[SP]again[SP]whenever[SP]you'd[SP]like.",
    "data_size": 198,
    "budget": 190
@@ -1188,10 +1177,13 @@
        "pause": true
       },
       {
+       "t": " Mais ne"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Mais ne t'inquiètes pas, tu n'es pas seul..."
+       "t": "t'inquiètes pas, tu n'es pas seul..."
       }
      ]
     }
@@ -1226,7 +1218,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu vas affronter qulque chose d'immense...[1205][U+000F]\nLa pression est trop forte...[1205][U+000F]\nMais ne t'inquiètes pas, tu n'es pas seul...",
+   "brut_fr": "Tu vas affronter qulque chose d'immense...[1205][U+000F]\nLa pression est trop forte...[1205][U+000F] Mais ne\nt'inquiètes pas, tu n'es pas seul...",
    "brut_en": "You're[SP]about[SP]to[SP]face[SP]something[SP]enormous...[1205][U+000F]\nAnd[SP]the[SP]pressure[SP]of[SP]it[SP]is[SP]too[SP]much[SP]to[SP]bear.[1205][U+000F]\nBut[SP]don't[SP]worry.[SP]You're[SP]not[SP]alone...",
    "data_size": 284,
    "budget": 276
@@ -1240,13 +1232,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est tout pour aujourd'hui. Tu te"
+       "t": "C'est tout pour aujourd'hui."
       },
       {
        "nl": true
       },
       {
-       "t": "sens comment?"
+       "t": "Tu te sens comment?"
       }
      ]
     }
@@ -1269,7 +1261,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est tout pour aujourd'hui. Tu te\nsens comment?",
+   "brut_fr": "C'est tout pour aujourd'hui.\nTu te sens comment?",
    "brut_en": "All[SP]right,[SP]that's[SP]our[SP]session[SP]for[SP]today.\nHow[SP]do[SP]you[SP]feel?",
    "data_size": 146,
    "budget": 138
@@ -1289,13 +1281,13 @@
        "pause": true
       },
       {
-       "t": " Je ne l'ai pas"
+       "t": " Je"
       },
       {
        "nl": true
       },
       {
-       "t": "arrêtée, mais..."
+       "t": "ne l'ai pas arrêtée, mais..."
       }
      ]
     }
@@ -1324,7 +1316,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Maki-san vient de sortir.[1205][U+000F] Je ne l'ai pas\narrêtée, mais...",
+   "brut_fr": "Maki-san vient de sortir.[1205][U+000F] Je\nne l'ai pas arrêtée, mais...",
    "brut_en": "Maki-san[SP]just[SP]stepped[SP]out.[1205][U+000F][SP]She[SP]seemed[SP]like[SP]she\nhad[SP]a[SP]good[SP]reason,[SP]so[SP]I[SP]didn't[SP]stop[SP]her,[SP]but...",
    "data_size": 222,
    "budget": 214
@@ -1344,13 +1336,13 @@
        "pause": true
       },
       {
-       "t": " Je vais devoir"
+       "t": " Je"
       },
       {
        "nl": true
       },
       {
-       "t": "l'attendre..."
+       "t": "vais devoir l'attendre..."
       }
      ]
     }
@@ -1379,7 +1371,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle reviendra, hein?[1205][U+000F] Je vais devoir\nl'attendre...",
+   "brut_fr": "Elle reviendra, hein?[1205][U+000F] Je\nvais devoir l'attendre...",
    "brut_en": "She'll[SP]come[SP]back,[SP]won't[SP]she?[1205][U+000F][SP]I'll[SP]have[SP]to[SP]wait\nfor[SP]her...",
    "data_size": 148,
    "budget": 140
@@ -1412,6 +1404,7 @@
     "options": [
      "Je veux être soigné.",
      "Discutons.",
+     "[1205]",
      "Laisse tomber.",
      "Quitter"
     ],
@@ -1434,7 +1427,7 @@
      }
     ]
    },
-   "brut_fr": "Je peux faire autre chose pour toi?\n[1208][U+0004][1432][NULL][NULL][0014]Je veux être soigné.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Discutons.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Laisse tomber.[1432][NULL][NULL][0014]\nQuitter",
+   "brut_fr": "Je peux faire autre chose pour toi?\n[1208][U+0004][1432][NULL][NULL][0014]Je veux être soigné.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Discutons.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Laisse tomber.[1432][NULL][NULL][0014]\nQuitter",
    "brut_en": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]do[SP]for[SP]you?\n[1208][U+0004][1432][NULL][NULL][0014]I[SP]want[SP]to[SP]be[SP]healed.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]want[SP]to[SP]talk.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Nothing,[SP]really.[1432][NULL][NULL][0014]\nLeave",
    "data_size": 284,
    "budget": 276

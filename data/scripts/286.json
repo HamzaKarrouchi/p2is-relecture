@@ -16,13 +16,19 @@
        "pause": true
       },
       {
-       "t": " Ce père me donne de mauvaises vibrations."
+       "t": " Ce père me donne de mauvaises"
       },
       {
        "nl": true
       },
       {
-       "t": "I-Il ne s'intéresse pas à moi... n-non?"
+       "t": "vibrations. I-Il ne s'intéresse pas à moi..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "n-non?"
       }
      ]
     }
@@ -57,7 +63,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "H-Hé...[1205][001E] Ce père me donne de mauvaises vibrations.\nI-Il ne s'intéresse pas à moi... n-non?",
+   "brut_fr": "H-Hé...[1205][001E] Ce père me donne de mauvaises\nvibrations. I-Il ne s'intéresse pas à moi...\nn-non?",
    "brut_en": "H-Hey...[1205][001E][SP]I'm[SP]getting[SP]some[SP]bad[SP]mojo[SP]from[SP]Dads\nhere.[SP]H-He's[SP]not[SP]interested[SP]in[SP]me[SP]or[SP]anything,\ni-is[SP]he?",
    "data_size": 230,
    "budget": 222
@@ -71,19 +77,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un haori traditionnel et une maison japonaise..."
+       "t": "Un haori traditionnel et une maison"
       },
       {
        "nl": true
       },
       {
-       "t": "Je me demande ce qu'il trouve si formidable"
+       "t": "japonaise... Je me demande ce qu'il trouve si "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "dans ce pays. Je n'y comprends rien."
+       "t": "formidable dans ce pays. Je n'y comprends"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rien."
       }
      ]
     }
@@ -112,7 +127,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un haori traditionnel et une maison japonaise...\nJe me demande ce qu'il trouve si formidable\ndans ce pays. Je n'y comprends rien.",
+   "brut_fr": "Un haori traditionnel et une maison\njaponaise... Je me demande ce qu'il trouve si [1205][U+000F]\nformidable dans ce pays. Je n'y comprends\nrien.",
    "brut_en": "A[SP]traditional[SP]haori[SP]coat[SP]and[SP]a[SP]Japanese-style\nhome...[SP]I[SP]wonder[SP]what[SP]he[SP]thinks[SP]is[SP]so[SP]great\nabout[SP]this[SP]country.[SP]I[SP]don't[SP]get[SP]it[SP]at[SP]all.",
    "data_size": 290,
    "budget": 282
@@ -132,19 +147,16 @@
        "pause": true
       },
       {
-       "t": " Ohhh..."
+       "nl": true
+      },
+      {
+       "t": "Ohhh... Il l'a peut-être appris à"
       },
       {
        "nl": true
       },
       {
-       "t": "Il l'a peut-être appris à Ginko"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "qui est très douée en secret."
+       "t": "Ginko qui est très douée en secret."
       }
      ]
     }
@@ -179,7 +191,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La danse japonaise, hein...?[1205][U+000F] Ohhh...\nIl l'a peut-être appris à Ginko\nqui est très douée en secret.",
+   "brut_fr": "La danse japonaise, hein...?[1205][U+000F]\nOhhh... Il l'a peut-être appris à\nGinko qui est très douée en secret.",
    "brut_en": "Japanese[SP]dancing,[SP]huh...?[1205][U+000F][SP]Ooooh...[SP]Maybe[SP]he\ntaught[SP]it[SP]to[SP]Ginko,[SP]and[SP]she's[SP]secretly[SP]really\ngood[SP]at[SP]it.",
    "data_size": 232,
    "budget": 224
@@ -193,13 +205,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le père de Ginko serait-il un membre"
+       "t": "Le père de Ginko serait-il"
       },
       {
        "nl": true
       },
       {
-       "t": "du Cercle masqué?"
+       "t": "un membre du Cercle masqué?"
       }
      ]
     }
@@ -222,7 +234,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le père de Ginko serait-il un membre\ndu Cercle masqué?",
+   "brut_fr": "Le père de Ginko serait-il\nun membre du Cercle masqué?",
    "brut_en": "Could[SP]be[SP]that[SP]Ginko's[SP]Dads[SP]is[SP]one[SP]of[SP]the\nMasked[SP]Circle.",
    "data_size": 138,
    "budget": 130
@@ -236,13 +248,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bon, probablement pas. S'il l'était, Ginko"
+       "t": "Bon, probablement pas. S'il l'était,"
       },
       {
        "nl": true
       },
       {
-       "t": "aurait été transformée en gracieuse"
+       "t": "Ginko aurait été transformée en gracieuse"
       },
       {
        "nl": true
@@ -277,7 +289,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon, probablement pas. S'il l'était, Ginko\naurait été transformée en gracieuse\ndemoiselle japonaise rougissante.",
+   "brut_fr": "Bon, probablement pas. S'il l'était,\nGinko aurait été transformée en gracieuse\ndemoiselle japonaise rougissante.",
    "brut_en": "Then[SP]again,[SP]probably[SP]not.[SP]If[SP]he[SP]was,[SP]Ginko\nwould've[SP]been[SP]transformed[SP]into[SP]a[SP]graceful,\nblushing[SP]Japanese[SP]lady[SP]by[SP]now.",
    "data_size": 258,
    "budget": 250
@@ -462,13 +474,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Elle a comme... une aura... Je-Je veux dire,"
+       "t": "Elle a comme... une aura... Je-Je veux"
       },
       {
        "nl": true
       },
       {
-       "t": "rien comparé à la mienne, bien sûr."
+       "t": "dire, rien comparé à la mienne, bien sûr."
       }
      ]
     }
@@ -491,7 +503,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle a comme... une aura... Je-Je veux dire,\nrien comparé à la mienne, bien sûr.",
+   "brut_fr": "Elle a comme... une aura... Je-Je veux\ndire, rien comparé à la mienne, bien sûr.",
    "brut_en": "She[SP]has,[SP]like...[SP]this[SP]aura...[SP]I-I[SP]mean,\nit's[SP]nothing[SP]compared[SP]to[SP]mine,[SP]of[SP]course.",
    "data_size": 188,
    "budget": 180
@@ -505,19 +517,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Argh, Ginko... Pourquoi elle dit juste pas"
+       "t": "Argh, Ginko... Pourquoi elle dit juste"
       },
       {
        "nl": true
       },
       {
-       "t": "à son père que c'est elle qui a arrêté la"
+       "t": "pas à son père que c'est elle qui a"
       },
       {
        "nl": true
       },
       {
-       "t": "bombe? Ça ne le calmerait pas?"
+       "t": "arrêté la bombe? Ça ne le calmerait pas?"
       }
      ]
     }
@@ -546,7 +558,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Argh, Ginko... Pourquoi elle dit juste pas\nà son père que c'est elle qui a arrêté la\nbombe? Ça ne le calmerait pas?",
+   "brut_fr": "Argh, Ginko... Pourquoi elle dit juste\npas à son père que c'est elle qui a\narrêté la bombe? Ça ne le calmerait pas?",
    "brut_en": "Augh,[SP]Ginko...[SP]Why[SP]doesn't[SP]she[SP]just[SP]tell[SP]her\nDads[SP]that[SP]she's[SP]the[SP]one[SP]who[SP]stopped[SP]the[SP]bomb?\nWouldn't[SP]that[SP]settle[SP]him[SP]down?",
    "data_size": 268,
    "budget": 260
@@ -560,19 +572,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Maintenant le Bataillon? Quand les gens paniquent,"
+       "t": "Maintenant le Bataillon? Quand les gens"
       },
       {
        "nl": true
       },
       {
-       "t": "ils perdent le sens de ce qui est normal"
+       "t": "paniquent, ils perdent le sens de ce qui"
       },
       {
        "nl": true
       },
       {
-       "t": "et ce qui est n'importe quoi."
+       "t": "est normal"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " et ce qui est n'importe quoi."
       }
      ]
     }
@@ -601,7 +619,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Maintenant le Bataillon? Quand les gens paniquent,\nils perdent le sens de ce qui est normal\net ce qui est n'importe quoi.",
+   "brut_fr": "Maintenant le Bataillon? Quand les gens\npaniquent, ils perdent le sens de ce qui\nest normal[1205][U+000F] et ce qui est n'importe quoi.",
    "brut_en": "Now[SP]it's[SP]the[SP]Last[SP]Battalion?[SP]When[SP]people[SP]get\npanicky,[SP]they[SP]sure[SP]lose[SP]all[SP]perspective[SP]on\nwhat's[SP]normal[SP]and[SP]what's[SP]nonsense.",
    "data_size": 270,
    "budget": 262
@@ -658,19 +676,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le chef de famille doit protéger les siens,"
+       "t": "Le chef de famille doit protéger les"
       },
       {
        "nl": true
       },
       {
-       "t": "hein...? C'est un père au top. Même moi"
+       "t": "siens, hein...? C'est un père au"
       },
       {
        "nl": true
       },
       {
-       "t": "je dois respecter ça."
+       "t": "top. Même moi"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " je dois respecter ça."
       }
      ]
     }
@@ -699,7 +723,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le chef de famille doit protéger les siens,\nhein...? C'est un père au top. Même moi\nje dois respecter ça.",
+   "brut_fr": "Le chef de famille doit protéger les\nsiens, hein...? C'est un père au\ntop. Même moi[1205][U+000F] je dois respecter ça.",
    "brut_en": "The[SP]head[SP]of[SP]a[SP]household[SP]has[SP]to[SP]protect[SP]his\nfamily,[SP]huh...?[SP]That's[SP]one[SP]kickass[SP]Dads[SP]for\nyou.[SP]Even[SP]I[SP]gotta[SP]respect[SP]that.",
    "data_size": 262,
    "budget": 254
@@ -713,19 +737,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pfff! Rester assis les jambes croisées tout le"
+       "t": "Pfff! Rester assis les jambes croisées tout"
       },
       {
        "nl": true
       },
       {
-       "t": "temps, ça abîme! Et il continue à gaspiller"
+       "t": "le temps, ça abîme! Et il continue à "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "son argent en bonsaïs et poteries!"
+       "t": "gaspiller son argent en bonsaïs et poteries!"
       }
      ]
     }
@@ -754,7 +781,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pfff! Rester assis les jambes croisées tout le\ntemps, ça abîme! Et il continue à gaspiller\nson argent en bonsaïs et poteries!",
+   "brut_fr": "Pfff! Rester assis les jambes croisées tout\nle temps, ça abîme! Et il continue à [1205][U+000F]\ngaspiller son argent en bonsaïs et poteries!",
    "brut_en": "Sheesh![SP]Sitting[SP]with[SP]your[SP]legs[SP]folded[SP]all\nthe[SP]time[SP]screws[SP]you[SP]up![SP]And[SP]he[SP]keeps[SP]wasting\nmoney[SP]on[SP]junk[SP]like[SP]bonsai[SP]and[SP]pottery,[SP]too!",
    "data_size": 280,
    "budget": 272
@@ -768,19 +795,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pfff! Rester assis les jambes croisées tout le"
+       "t": "Pfff! Rester assis les jambes croisées tout"
       },
       {
        "nl": true
       },
       {
-       "t": "temps, ça abîme! Et il continue à gaspiller"
+       "t": "le temps, ça abîme! Et il continue à "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "son argent en bonsaïs et poteries!"
+       "t": "gaspiller son argent en bonsaïs et poteries!"
       }
      ]
     }
@@ -809,7 +839,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pfff! Rester assis les jambes croisées tout le\ntemps, ça abîme! Et il continue à gaspiller\nson argent en bonsaïs et poteries!",
+   "brut_fr": "Pfff! Rester assis les jambes croisées tout\nle temps, ça abîme! Et il continue à [1205][U+000F]\ngaspiller son argent en bonsaïs et poteries!",
    "brut_en": "Sheesh![SP]Sitting[SP]with[SP]your[SP]legs[SP]folded[SP]all\nthe[SP]time[SP]screws[SP]you[SP]up![SP]And[SP]he[SP]keeps[SP]wasting\nmoney[SP]on[SP]junk[SP]like[SP]bonsai[SP]and[SP]pottery,[SP]too!",
    "data_size": 282,
    "budget": 274
@@ -829,13 +859,13 @@
        "nl": true
       },
       {
-       "t": "qu'il pense que je suis une honte! Il ne"
+       "t": "qu'il pense que je suis une honte!"
       },
       {
        "nl": true
       },
       {
-       "t": "se soucie que de lui-même!"
+       "t": "Il ne se soucie que de lui-même!"
       }
      ]
     }
@@ -864,7 +894,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu te trompes, Maya-san! C'est parce\nqu'il pense que je suis une honte! Il ne\nse soucie que de lui-même!",
+   "brut_fr": "Tu te trompes, Maya-san! C'est parce\nqu'il pense que je suis une honte!\nIl ne se soucie que de lui-même!",
    "brut_en": "You've[SP]got[SP]it[SP]all[SP]wrong,[SP]Maya-san![SP]This[SP]is\nbecause[SP]he[SP]thinks[SP]I'm[SP]a[SP]disgrace![SP]He[SP]only\ncares[SP]about[SP]himself!",
    "data_size": 232,
    "budget": 224
@@ -964,13 +994,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "On allait au Zodiac, non? En route,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Chinyan!"
+       "t": "On allait au Zodiac, non? En route, Chinyan!"
       }
      ]
     }
@@ -993,7 +1017,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On allait au Zodiac, non? En route,\nChinyan!",
+   "brut_fr": "On allait au Zodiac, non? En route, Chinyan!",
    "brut_en": "We[SP]were[SP]on[SP]our[SP]way[SP]to[SP]Zodiac,[SP]right?[SP]Let's[SP]get\ngoing,[SP]Chinyan!",
    "data_size": 146,
    "budget": 138
@@ -1007,19 +1031,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hein!? La danse japonaise? J-Je n'y connais"
+       "t": "Hein!? La danse japonaise? J-Je n'y"
       },
       {
        "nl": true
       },
       {
-       "t": "rien! Je suis bien meilleure"
+       "t": "connais rien! Je suis bien"
       },
       {
        "nl": true
       },
       {
-       "t": "en danse normale, haha..."
+       "t": "meilleure"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " en danse normale, haha..."
       }
      ]
     }
@@ -1048,7 +1078,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hein!? La danse japonaise? J-Je n'y connais\nrien! Je suis bien meilleure\nen danse normale, haha...",
+   "brut_fr": "Hein!? La danse japonaise? J-Je n'y\nconnais rien! Je suis bien\nmeilleure[1205][U+000F] en danse normale, haha...",
    "brut_en": "Huh!?[SP]Japanese[SP]dancing?[SP]I-I[SP]don't[SP]know[SP]the\nfirst[SP]thing[SP]about[SP]that![SP]I'm[SP]much[SP]better[SP]at\nregular[SP]dancing,[SP]haha...",
    "data_size": 242,
    "budget": 234
@@ -1062,13 +1092,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mon vieux n'a aucune idée du"
+       "t": "Mon vieux n'a aucune idée du Cercle"
       },
       {
        "nl": true
       },
       {
-       "t": "Cercle masqué. Il ne pense qu'à son boulot"
+       "t": "masqué. Il ne pense qu'à son boulot"
       },
       {
        "nl": true
@@ -1103,7 +1133,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mon vieux n'a aucune idée du\nCercle masqué. Il ne pense qu'à son boulot\net aux traditions japonaises.",
+   "brut_fr": "Mon vieux n'a aucune idée du Cercle\nmasqué. Il ne pense qu'à son boulot\net aux traditions japonaises.",
    "brut_en": "I[SP]doubt[SP]my[SP]old[SP]man[SP]has[SP]a[SP]clue[SP]about[SP]the\nMasked[SP]Circle.[SP]He[SP]only[SP]cares[SP]about[SP]his[SP]job\nand[SP]Japanese[SP]stuff.",
    "data_size": 226,
    "budget": 218
@@ -1117,13 +1147,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Des fiches d'autographes!? Aïe... Sérieux,"
+       "t": "Des fiches d'autographes!? Aïe..."
       },
       {
        "nl": true
       },
       {
-       "t": "pourquoi les laisser faire!?"
+       "t": "Sérieux, pourquoi les laisser faire!?"
       },
       {
        "nl": true
@@ -1158,7 +1188,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Des fiches d'autographes!? Aïe... Sérieux,\npourquoi les laisser faire!?\nJe ne signe rien! Hors de question!",
+   "brut_fr": "Des fiches d'autographes!? Aïe...\nSérieux, pourquoi les laisser faire!?\nJe ne signe rien! Hors de question!",
    "brut_en": "Autograph[SP]slips...!?[SP]Aiyah...[SP]Geez,[SP]why[SP]did\nyou[SP]let[SP]them[SP]leave[SP]those[SP]with[SP]you!?[SP]I'm[SP]not\nsigning[SP]anything![SP]No[SP]way!",
    "data_size": 248,
    "budget": 240
@@ -1215,13 +1245,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Eikichi est sérieux là!? Je dis ça à"
+       "t": "Eikichi est sérieux là!? Je dis"
       },
       {
        "nl": true
       },
       {
-       "t": "mon vieux et il s'évanouit!"
+       "t": "ça à mon vieux et il s'évanouit!"
       }
      ]
     }
@@ -1244,7 +1274,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eikichi est sérieux là!? Je dis ça à\nmon vieux et il s'évanouit!",
+   "brut_fr": "Eikichi est sérieux là!? Je dis\nça à mon vieux et il s'évanouit!",
    "brut_en": "Is[SP]Eikichi[SP]freaking[SP]serious!?[SP]I[SP]tell[SP]my[SP]old\nman[SP]that[SP]and[SP]he'll[SP]pass[SP]out!",
    "data_size": 166,
    "budget": 158
@@ -1264,7 +1294,13 @@
        "nl": true
       },
       {
-       "t": "à quel point la rumeur s'est répandue, non?"
+       "t": "à quel point la rumeur s'est répandue, "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " non?"
       },
       {
        "nl": true
@@ -1299,7 +1335,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si même mon vieux est au courant, ça montre\nà quel point la rumeur s'est répandue, non?\nPourquoi tout le monde croit au Bataillon?",
+   "brut_fr": "Si même mon vieux est au courant, ça montre\nà quel point la rumeur s'est répandue, [1205][U+000F] non?\nPourquoi tout le monde croit au Bataillon?",
    "brut_en": "If[SP]even[SP]my[SP]old[SP]man[SP]knows,[SP]that[SP]shows[SP]how[SP]far\nthe[SP]rumor's[SP]spread,[SP]right?[SP]Why[SP]is[SP]everyone[SP]so\nwilling[SP]to[SP]believe[SP]in[SP]the[SP]Last[SP]Battalion?",
    "data_size": 286,
    "budget": 278
@@ -1319,13 +1355,10 @@
        "pause": true
       },
       {
-       "t": " Non..."
-      },
-      {
        "nl": true
       },
       {
-       "t": "Joker est vraiment..."
+       "t": "Non... Joker est vraiment..."
       }
      ]
     }
@@ -1354,7 +1387,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu te souviens... dix ans?[1205][U+000F] Non...\nJoker est vraiment...",
+   "brut_fr": "Tu te souviens... dix ans?[1205][U+000F]\nNon... Joker est vraiment...",
    "brut_en": "Remember...[SP]ten[SP]years[SP]ago...?[1205][U+000F][SP]No...[SP]Then\nJoker[SP]is[SP]really...",
    "data_size": 144,
    "budget": 136
@@ -1368,13 +1401,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a dix ans... Ce que disait le Roi Lion"
+       "t": "Il y a dix ans... Ce que disait le Roi"
       },
       {
        "nl": true
       },
       {
-       "t": "et ces fleurs était un message..."
+       "t": "Lion et ces fleurs était un message..."
       }
      ]
     }
@@ -1397,7 +1430,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a dix ans... Ce que disait le Roi Lion\net ces fleurs était un message...",
+   "brut_fr": "Il y a dix ans... Ce que disait le Roi\nLion et ces fleurs était un message...",
    "brut_en": "Ten[SP]years[SP]ago...[SP]The[SP]stuff[SP]King[SP]Leo[SP]said[SP]and\nthose[SP]flowers[SP]were[SP]all[SP]a[SP]message...",
    "data_size": 182,
    "budget": 174
@@ -1411,22 +1444,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tch... Mon vieux fait juste le fier."
+       "t": "Tch... Mon vieux fait juste le fier. Ne me"
       },
       {
        "nl": true
       },
       {
-       "t": "Ne me plaignez pas s'il finit par mourir!"
+       "t": "plaignez pas s'il finit par mourir!"
       },
       {
        "pause": true
       },
       {
+       "t": " ..."
+      },
+      {
        "nl": true
       },
       {
-       "t": "...Idiot..."
+       "t": "Idiot..."
       }
      ]
     }
@@ -1461,7 +1497,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tch... Mon vieux fait juste le fier.\nNe me plaignez pas s'il finit par mourir![1205][U+000F]\n...Idiot...",
+   "brut_fr": "Tch... Mon vieux fait juste le fier. Ne me\nplaignez pas s'il finit par mourir![1205][U+000F] ...\nIdiot...",
    "brut_en": "Tch...[SP]My[SP]old[SP]man's[SP]just[SP]trying[SP]to[SP]act[SP]all[SP]cool.\nDon't[SP]blame[SP]me[SP]when[SP]he[SP]overdoes[SP]it[SP]and[SP]ends[SP]up\ndead![1205][U+000F][SP]...Idiot...",
    "data_size": 252,
    "budget": 244
@@ -1481,13 +1517,13 @@
        "pause": true
       },
       {
-       "t": " Il y a"
+       "t": " Il"
       },
       {
        "nl": true
       },
       {
-       "t": "sûrement une raison profonde à ça."
+       "t": "y a sûrement une raison profonde à ça."
       }
      ]
     }
@@ -1516,7 +1552,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Wow, elle doit vraiment le détester.[1205][001E] Il y a\nsûrement une raison profonde à ça.",
+   "brut_fr": "Wow, elle doit vraiment le détester.[1205][001E] Il\ny a sûrement une raison profonde à ça.",
    "brut_en": "Wow,[SP]she[SP]must[SP]really[SP]hate[SP]him.[1205][001E][SP]There's[SP]gotta\nbe[SP]some[SP]deep-seated[SP]reason[SP]for[SP]that.",
    "data_size": 186,
    "budget": 178
@@ -1530,13 +1566,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il s'inquiète vraiment pour Lisa!"
+       "t": "Il s'inquiète vraiment pour Lisa! Je trouve"
       },
       {
        "nl": true
       },
       {
-       "t": "Je trouve qu'il a l'air d'un homme merveilleux."
+       "t": "qu'il a l'air d'un homme merveilleux."
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -1571,7 +1610,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il s'inquiète vraiment pour Lisa!\nJe trouve qu'il a l'air d'un homme merveilleux.\nPourquoi Lisa est si dure avec lui?",
+   "brut_fr": "Il s'inquiète vraiment pour Lisa! Je trouve\nqu'il a l'air d'un homme merveilleux.[1205][U+000F]\nPourquoi Lisa est si dure avec lui?",
    "brut_en": "He[SP]really[SP]does[SP]worry[SP]about[SP]Lisa[SP]after[SP]all!\nI[SP]think[SP]he[SP]seems[SP]like[SP]a[SP]wonderful[SP]man.[SP]Why[SP]do\nyou[SP]think[SP]Lisa's[SP]so[SP]harsh[SP]with[SP]him?",
    "data_size": 268,
    "budget": 260
@@ -1713,13 +1752,13 @@
        "nl": true
       },
       {
-       "t": "l'autographe de Lisa? Bon, on devrait"
+       "t": "l'autographe de Lisa? Bon, on devrait se"
       },
       {
        "nl": true
       },
       {
-       "t": "se concentrer sur le Cercle masqué."
+       "t": "concentrer sur le Cercle masqué."
       }
      ]
     }
@@ -1748,7 +1787,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais pourquoi les élèves de Seven veulent\nl'autographe de Lisa? Bon, on devrait\nse concentrer sur le Cercle masqué.",
+   "brut_fr": "Mais pourquoi les élèves de Seven veulent\nl'autographe de Lisa? Bon, on devrait se\nconcentrer sur le Cercle masqué.",
    "brut_en": "But[SP]why[SP]do[SP]the[SP]kids[SP]at[SP]Sevens[SP]want[SP]Lisa's\nautograph[SP]so[SP]bad...?[SP]Well,[SP]we[SP]should[SP]focus\non[SP]getting[SP]leads[SP]on[SP]the[SP]Masked[SP]Circle.",
    "data_size": 266,
    "budget": 258
@@ -1762,19 +1801,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lui parler de Lisa maintenant ne ferait que"
+       "t": "Lui parler de Lisa maintenant ne ferait"
       },
       {
        "nl": true
       },
       {
-       "t": "le stresser. On sait qu'elle est"
+       "t": "que le stresser. On sait qu'elle est"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " à"
       },
       {
        "nl": true
       },
       {
-       "t": "à la salle de concerts, alors chut."
+       "t": "la salle de concerts, alors chut."
       }
      ]
     }
@@ -1803,7 +1848,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lui parler de Lisa maintenant ne ferait que\nle stresser. On sait qu'elle est\nà la salle de concerts, alors chut.",
+   "brut_fr": "Lui parler de Lisa maintenant ne ferait\nque le stresser. On sait qu'elle est[1205][U+000F] à\nla salle de concerts, alors chut.",
    "brut_en": "Telling[SP]him[SP]about[SP]Lisa[SP]now[SP]would[SP]only[SP]worry\nhim[SP]needlessly.[SP]We[SP]know[SP]she's[SP]at[SP]the[SP]concert\nhall,[SP]so[SP]let's[SP]keep[SP]quiet,[SP]okay?",
    "data_size": 262,
    "budget": 254
@@ -1884,13 +1929,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ne t'inquiète pas, on y arrivera."
+       "t": "Ne t'inquiète pas, on y arrivera. J'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai la conviction qu'on peut le faire."
+       "t": "la conviction qu'on peut le faire."
       }
      ]
     }
@@ -1919,7 +1964,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ne t'inquiète pas, on y arrivera.\nJ'ai la conviction qu'on peut le faire.",
+   "brut_fr": "Ne t'inquiète pas, on y arrivera. J'ai\nla conviction qu'on peut le faire.",
    "brut_en": "Don't[SP]worry,[SP]I'm[SP]sure[SP]we[SP]can[SP]pull[SP]it[SP]off.\nI[SP]just[SP]get[SP]the[SP]feeling[SP]for[SP]some[SP]reason[SP]that\nwe[SP]can[SP]do[SP]this.",
    "data_size": 222,
    "budget": 214
@@ -1933,19 +1978,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je pense pas qu'Ixquic soit mauvaise."
+       "t": "Je pense pas qu'Ixquic soit mauvaise. Si"
       },
       {
        "nl": true
       },
       {
-       "t": "Si je peux, je veux l'aider. Haha,"
+       "t": "je peux, je veux l'aider. Haha, je suis"
       },
       {
        "nl": true
       },
       {
-       "t": "je suis trop curieuse dans ce genre de choses?"
+       "t": "trop curieuse dans ce genre de "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " choses?"
       }
      ]
     }
@@ -1974,7 +2025,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je pense pas qu'Ixquic soit mauvaise.\nSi je peux, je veux l'aider. Haha,\nje suis trop curieuse dans ce genre de choses?",
+   "brut_fr": "Je pense pas qu'Ixquic soit mauvaise. Si\nje peux, je veux l'aider. Haha, je suis\ntrop curieuse dans ce genre de [1205][U+000F] choses?",
    "brut_en": "I[SP]don't[SP]think[SP]Ixquic's[SP]really[SP]a[SP]bad[SP]girl.\nIf[SP]I[SP]can,[SP]I[SP]want[SP]to[SP]save[SP]her[SP]too.[SP]Haha,[SP]am\nI[SP]too[SP]nosy[SP]when[SP]it[SP]comes[SP]to[SP]this[SP]stuff?",
    "data_size": 268,
    "budget": 260
@@ -2049,13 +2100,19 @@
        "nl": true
       },
       {
-       "t": "Quand une crise menace de le détruire,"
+       "t": "Quand une crise menace de le détruire, ils"
       },
       {
        "nl": true
       },
       {
-       "t": "ils créent de faux souvenirs en guise de défense."
+       "t": "créent de faux souvenirs en guise de "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " défense."
       }
      ]
     }
@@ -2084,7 +2141,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le cœur des gens cherche à protéger l'ego.\nQuand une crise menace de le détruire,\nils créent de faux souvenirs en guise de défense.",
+   "brut_fr": "Le cœur des gens cherche à protéger l'ego.\nQuand une crise menace de le détruire, ils\ncréent de faux souvenirs en guise de [1205][U+000F] défense.",
    "brut_en": "People's[SP]hearts[SP]try[SP]to[SP]protect[SP]their[SP]ego.[SP]When\na[SP]crisis[SP]arises[SP]that[SP]threatens[SP]to[SP]destroy[SP]it,\nthey[SP]create[SP]false[SP]memories[SP]as[SP]a[SP]defense.",
    "data_size": 286,
    "budget": 278
@@ -2098,19 +2155,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais il n'y a aucun signe extérieur de ce"
+       "t": "Mais il n'y a aucun signe extérieur de"
       },
       {
        "nl": true
       },
       {
-       "t": "qui s'est passé... Tout comme pour vous."
+       "t": "ce qui s'est passé... Tout comme pour"
       },
       {
        "nl": true
       },
       {
-       "t": "Qu'êtes-vous devenus vraiment...?"
+       "t": "vous. Qu'êtes-vous devenus vraiment...?"
       }
      ]
     }
@@ -2139,7 +2196,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais il n'y a aucun signe extérieur de ce\nqui s'est passé... Tout comme pour vous.\nQu'êtes-vous devenus vraiment...?",
+   "brut_fr": "Mais il n'y a aucun signe extérieur de\nce qui s'est passé... Tout comme pour\nvous. Qu'êtes-vous devenus vraiment...?",
    "brut_en": "But[SP]there's[SP]no[SP]outward[SP]sign[SP]that[SP]this[SP]is[SP]what\nhas[SP]happened...[SP]Just[SP]like[SP]it[SP]was[SP]for[SP]you.\nWhat's[SP]become[SP]of[SP]your[SP]true[SP]selves...?",
    "data_size": 270,
    "budget": 262
@@ -2165,10 +2222,13 @@
        "pause": true
       },
       {
+       "t": " Que mon"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Que mon père protège les siens aussi..."
+       "t": "père protège les siens aussi..."
       }
      ]
     }
@@ -2203,7 +2263,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Papa...[1205][U+000F] J'aurais voulu...[1205][U+000F]\nQue mon père protège les siens aussi...",
+   "brut_fr": "Papa...[1205][U+000F] J'aurais voulu...[1205][U+000F] Que mon\npère protège les siens aussi...",
    "brut_en": "Dad...[1205][U+000F][SP]I[SP]wish...[1205][U+000F][SP]I[SP]wish[SP]my[SP]dad[SP]had[SP]cared\nabout[SP]protecting[SP]his[SP]home,[SP]too...",
    "data_size": 176,
    "budget": 168
@@ -2223,19 +2283,25 @@
        "pause": true
       },
       {
-       "t": " On ne voit plus"
+       "t": " On ne voit plus souvent"
       },
       {
        "nl": true
       },
       {
-       "t": "souvent une architecture japonaise authentique"
+       "t": "une architecture japonaise authentique"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " comme"
       },
       {
        "nl": true
       },
       {
-       "t": "comme ça. Ça ferait une belle photo..."
+       "t": "ça. Ça ferait une belle photo..."
       }
      ]
     }
@@ -2270,7 +2336,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est comme un manoir![1205][001E] On ne voit plus\nsouvent une architecture japonaise authentique\ncomme ça. Ça ferait une belle photo...",
+   "brut_fr": "C'est comme un manoir![1205][001E] On ne voit plus souvent\nune architecture japonaise authentique[1205][U+000F] comme\nça. Ça ferait une belle photo...",
    "brut_en": "This[SP]place[SP]is[SP]like[SP]a[SP]mansion![1205][001E][SP]You[SP]don't[SP]see\nauthentic[SP]Japanese[SP]architecture[SP]like[SP]this[SP]much\nanymore.[SP]This'd[SP]make[SP]a[SP]great[SP]photo...",
    "data_size": 284,
    "budget": 276
@@ -2290,19 +2356,19 @@
        "pause": true
       },
       {
-       "t": " J'ai fait presque tout"
+       "t": " J'ai fait"
       },
       {
        "nl": true
       },
       {
-       "t": "seule, donc je n'en ressens pas"
+       "t": "presque tout seule, donc je n'en"
       },
       {
        "nl": true
       },
       {
-       "t": "vraiment le besoin..."
+       "t": "ressens pas vraiment le besoin..."
       }
      ]
     }
@@ -2337,7 +2403,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les pères, hein?[1205][001E] J'ai fait presque tout\nseule, donc je n'en ressens pas\nvraiment le besoin...",
+   "brut_fr": "Les pères, hein?[1205][001E] J'ai fait\npresque tout seule, donc je n'en\nressens pas vraiment le besoin...",
    "brut_en": "Fathers,[SP]huh?[1205][001E][SP]I[SP]did[SP]pretty[SP]much[SP]everything\non[SP]my[SP]own,[SP]so[SP]I[SP]don't[SP]really[SP]feel[SP]the[SP]need[SP]for\none...",
    "data_size": 220,
    "budget": 212
@@ -2461,13 +2527,13 @@
        "pause": true
       },
       {
-       "t": " Pauvre père de Lisa"
+       "t": " Pauvre père de Lisa si"
       },
       {
        "nl": true
       },
       {
-       "t": "si elle est toujours comme ça."
+       "t": "elle est toujours comme ça."
       }
      ]
     }
@@ -2496,7 +2562,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aïe...[1205][U+000F] Pauvre père de Lisa\nsi elle est toujours comme ça.",
+   "brut_fr": "Aïe...[1205][U+000F] Pauvre père de Lisa si\nelle est toujours comme ça.",
    "brut_en": "Yikes...[1205][U+000F][SP]I[SP]don't[SP]envy[SP]Lisa's[SP]dad[SP]if[SP]she's\nalways[SP]like[SP]this.",
    "data_size": 146,
    "budget": 138
@@ -2516,13 +2582,19 @@
        "nl": true
       },
       {
-       "t": "je crois pas qu'il reconnaîtrait Lisa. J'espère"
+       "t": "je crois pas qu'il reconnaîtrait Lisa."
       },
       {
        "nl": true
       },
       {
-       "t": "que non, de toute façon..."
+       "t": "J'espère"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que non, de toute façon..."
       }
      ]
     }
@@ -2551,7 +2623,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "À ce rythme, même s'il voyait l'affiche,\nje crois pas qu'il reconnaîtrait Lisa. J'espère\nque non, de toute façon...",
+   "brut_fr": "À ce rythme, même s'il voyait l'affiche,\nje crois pas qu'il reconnaîtrait Lisa.\nJ'espère[1205][U+000F] que non, de toute façon...",
    "brut_en": "At[SP]this[SP]rate,[SP]even[SP]if[SP]he[SP]saw[SP]the[SP]poster,[SP]I[SP]don't\nthink[SP]he'd[SP]recognize[SP]it[SP]as[SP]Lisa.[SP]I[SP]sure[SP]hope\nhe[SP]wouldn't,[SP]anyway...",
    "data_size": 256,
    "budget": 248
@@ -2565,19 +2637,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Lisa a l'air tellement plus calme. Très"
+       "t": "Lisa a l'air tellement plus calme."
       },
       {
        "nl": true
       },
       {
-       "t": "déterminée... Comme une femme qui sait"
+       "t": "Très déterminée... Comme une femme"
       },
       {
        "nl": true
       },
       {
-       "t": "exactement ce qu'elle veut."
+       "t": "qui sait exactement ce qu'elle veut."
       }
      ]
     }
@@ -2606,7 +2678,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Lisa a l'air tellement plus calme. Très\ndéterminée... Comme une femme qui sait\nexactement ce qu'elle veut.",
+   "brut_fr": "Lisa a l'air tellement plus calme.\nTrès déterminée... Comme une femme\nqui sait exactement ce qu'elle veut.",
    "brut_en": "Lisa[SP]looks[SP]so[SP]much[SP]calmer[SP]now.[SP]She's[SP]very\ndetermined[SP]now...[SP]Like[SP]a[SP]woman[SP]who's[SP]figured\nout[SP]just[SP]what[SP]she[SP]wants.",
    "data_size": 246,
    "budget": 238
@@ -2620,25 +2692,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ses amies ont brisé la coquille"
+       "t": "Ses amies ont brisé la coquille autour du cœur"
       },
       {
        "nl": true
       },
       {
-       "t": "autour du cœur de Lisa."
+       "t": "de Lisa."
       },
       {
        "pause": true
       },
       {
-       "t": " Tout comme"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "les miennes à l'époque..."
+       "t": " Tout comme les miennes à l'époque..."
       }
      ]
     }
@@ -2673,7 +2739,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ses amies ont brisé la coquille\nautour du cœur de Lisa.[1205][U+000F] Tout comme\nles miennes à l'époque...",
+   "brut_fr": "Ses amies ont brisé la coquille autour du cœur\nde Lisa.[1205][U+000F] Tout comme les miennes à l'époque...",
    "brut_en": "Her[SP]two[SP]friends[SP]must've[SP]helped[SP]get[SP]rid[SP]of[SP]the\nshell[SP]over[SP]Lisa's[SP]heart.[1205][U+000F][SP]Just[SP]like[SP]mine[SP]did\nback[SP]then...",
    "data_size": 232,
    "budget": 224
@@ -2687,19 +2753,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Maya-san, tu es sûre qu'il était juste de laisser"
+       "t": "Maya-san, tu es sûre qu'il était juste de"
       },
       {
        "nl": true
       },
       {
-       "t": "cette Ixquic partir? J'ai un mauvais pressentiment"
+       "t": "laisser cette Ixquic partir? J'ai un mauvais "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "qu'elle reviendra nous harceler..."
+       "t": "pressentiment qu'elle reviendra nous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "harceler..."
       }
      ]
     }
@@ -2728,7 +2803,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Maya-san, tu es sûre qu'il était juste de laisser\ncette Ixquic partir? J'ai un mauvais pressentiment\nqu'elle reviendra nous harceler...",
+   "brut_fr": "Maya-san, tu es sûre qu'il était juste de\nlaisser cette Ixquic partir? J'ai un mauvais [1205][U+000F]\npressentiment qu'elle reviendra nous\nharceler...",
    "brut_en": "Maya-san,[SP]are[SP]you[SP]sure[SP]letting[SP]that[SP]Ixquic[SP]girl\ngo[SP]was[SP]the[SP]right[SP]thing[SP]to[SP]do?[SP]I[SP]have[SP]a[SP]sinking\nfeeling[SP]she'll[SP]be[SP]back[SP]to[SP]harass[SP]us[SP]again...",
    "data_size": 302,
    "budget": 294
@@ -2749,6 +2824,9 @@
       },
       {
        "t": "de jadis, non? Pourquoi les gens"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -2783,7 +2861,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Bataillon était l'unité spéciale du Führer\nde jadis, non? Pourquoi les gens\npenseraient-ils qu'ils sont derrière tout ça?",
+   "brut_fr": "Le Bataillon était l'unité spéciale du Führer\nde jadis, non? Pourquoi les gens[1205][U+000F]\npenseraient-ils qu'ils sont derrière tout ça?",
    "brut_en": "The[SP]Last[SP]Battalion[SP]was[SP]the[SP]Fuhrer's[SP]special\nunit[SP]from[SP]way[SP]back,[SP]right?[SP]Why[SP]would[SP]people\nthink[SP]they[SP]were[SP]the[SP]ones[SP]who[SP]did[SP]this?",
    "data_size": 276,
    "budget": 268
@@ -2803,7 +2881,13 @@
        "nl": true
       },
       {
-       "t": "Ils se comportent bizarrement depuis qu'on a"
+       "t": "Ils se comportent bizarrement depuis qu'on"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " a"
       },
       {
        "nl": true
@@ -2850,7 +2934,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'est-ce qui ne va pas avec Eikichi et Lisa?\nIls se comportent bizarrement depuis qu'on a\nquitté l'agence.[1205][U+000F] Quelque chose s'est passé?",
+   "brut_fr": "Qu'est-ce qui ne va pas avec Eikichi et Lisa?\nIls se comportent bizarrement depuis qu'on[1205][U+000F] a\nquitté l'agence.[1205][U+000F] Quelque chose s'est passé?",
    "brut_en": "What's[SP]wrong[SP]with[SP]Eikichi[SP]and[SP]Lisa?[SP]They've[SP]been\nacting[SP]funny[SP]ever[SP]since[SP]we[SP]left[SP]the[SP]detective\nagency.[1205][U+000F][SP]Did[SP]something[SP]happen[SP]to[SP]you[SP]guys?",
    "data_size": 300,
    "budget": 292
@@ -2919,13 +3003,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'y a-t-il, jeune homme? Avez-vous quelque"
+       "t": "Qu'y a-t-il, jeune homme?"
       },
       {
        "nl": true
       },
       {
-       "t": "chose à me dire?"
+       "t": "Avez-vous quelque chose à me dire?"
       }
      ]
     }
@@ -2948,7 +3032,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'y a-t-il, jeune homme? Avez-vous quelque\nchose à me dire?",
+   "brut_fr": "Qu'y a-t-il, jeune homme?\nAvez-vous quelque chose à me dire?",
    "brut_en": "What[SP]is[SP]it,[SP]young[SP]man?[SP]Is[SP]there[SP]something\nyou[SP]wish[SP]to[SP]discuss[SP]with[SP]me?",
    "data_size": 178,
    "budget": 170
@@ -2962,13 +3046,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'y a-t-il, jeune homme? Avez-vous quelque"
+       "t": "Qu'y a-t-il, jeune homme?"
       },
       {
        "nl": true
       },
       {
-       "t": "chose à me dire?"
+       "t": "Avez-vous quelque chose à me dire?"
       }
      ]
     }
@@ -2991,7 +3075,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'y a-t-il, jeune homme? Avez-vous quelque\nchose à me dire?",
+   "brut_fr": "Qu'y a-t-il, jeune homme?\nAvez-vous quelque chose à me dire?",
    "brut_en": "What[SP]is[SP]it,[SP]young[SP]man?[SP]Is[SP]there[SP]something\nyou[SP]wish[SP]to[SP]discuss[SP]with[SP]me?",
    "data_size": 180,
    "budget": 172
@@ -3023,7 +3107,7 @@
    "choix_fr": {
     "options": [
      "Parler du tirage au sort",
-     "Parler avec le père de Ginko",
+     "Parler avec le père de Ginko[1205]",
      "Rien"
     ],
     "question": [
@@ -3044,7 +3128,7 @@
      }
     ]
    },
-   "brut_fr": "Avez-vous quelque chose à me dire?\n[1208][U+0003]Parler du tirage au sort\nParler avec le père de Ginko\nRien",
+   "brut_fr": "Avez-vous quelque chose à me dire?\n[1208][U+0003]Parler du tirage au sort\nParler avec le père de Ginko[1205][U+000F]\nRien",
    "brut_en": "Is[SP]there[SP]something[SP]you[SP]wish[SP]to[SP]discuss[SP]with[SP]me?\n[1208][U+0003]Ask[SP]about[SP]the[SP]sweepstakes\nTalk[SP]with[SP]Ginko's[SP]father\nNothing",
    "data_size": 258,
    "budget": 250
@@ -3067,6 +3151,9 @@
        "t": "eu de livraison... Êtes-vous en avance?"
       },
       {
+       "pause": true
+      },
+      {
        "nl": true
       },
       {
@@ -3099,7 +3186,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort, vous dites? Il n'y a pas\neu de livraison... Êtes-vous en avance?\nRevenez après quelque temps, s'il vous plaît.",
+   "brut_fr": "Le tirage au sort, vous dites? Il n'y a pas\neu de livraison... Êtes-vous en avance?[1205][U+000F]\nRevenez après quelque temps, s'il vous plaît.",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]There[SP]have[SP]been[SP]no\ndeliveries...[SP]Are[SP]you[SP]early,[SP]perhaps?[SP]Why[SP]not\ncome[SP]back[SP]after[SP]the[SP]passing[SP]of[SP]some[SP]time?",
    "data_size": 302,
    "budget": 294
@@ -3122,6 +3209,9 @@
        "t": "eu de livraison... Êtes-vous en avance?"
       },
       {
+       "pause": true
+      },
+      {
        "nl": true
       },
       {
@@ -3154,7 +3244,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort, vous dites? Il n'y a pas\neu de livraison... Êtes-vous en avance?\nRevenez après quelque temps, s'il vous plaît.",
+   "brut_fr": "Le tirage au sort, vous dites? Il n'y a pas\neu de livraison... Êtes-vous en avance?[1205][U+000F]\nRevenez après quelque temps, s'il vous plaît.",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]There[SP]have[SP]been[SP]no\ndeliveries...[SP]Are[SP]you[SP]early,[SP]perhaps?[SP]Why[SP]not\ncome[SP]back[SP]after[SP]the[SP]passing[SP]of[SP]some[SP]time?",
    "data_size": 304,
    "budget": 296
@@ -3230,31 +3320,43 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le tirage au sort, vous dites? Ah, oui, bien sûr."
+       "t": "Le tirage au sort, vous dites? Ah, oui, bien"
       },
       {
        "nl": true
       },
       {
-       "t": "On vous l'a livré ici. Allez, prenez-le.> Lettre"
+       "t": "sûr. On vous l'a livré ici. Allez, prenez-le.>"
       },
       {
        "nl": true
       },
       {
-       "enc": "Merci de votre participation au tirage. Hélas,"
+       "pause": true
+      },
+      {
+       "t": "Lettre "
+      },
+      {
+       "enc": "Merci de votre participation au"
       },
       {
        "nl": true
       },
       {
-       "enc": "vous n'êtes pas gagnant cette fois. Nous vous"
+       "enc": "tirage. Hélas,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "enc": " vous n'êtes pas gagnant cette"
       },
       {
        "nl": true
       },
       {
-       "enc": "encourageons à continuer!"
+       "enc": "fois. Nous vous encourageons à continuer!"
       }
      ]
     }
@@ -3295,7 +3397,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort, vous dites? Ah, oui, bien sûr.\nOn vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]> Lettre\n[1432][NULL][NULL][0014]Merci de votre participation au tirage. Hélas,\nvous n'êtes pas gagnant cette fois. Nous vous\nencourageons à continuer![1432][NULL][NULL][0014]",
+   "brut_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Hélas,[1205][U+000F] vous n'êtes pas gagnant cette\nfois. Nous vous encourageons à continuer![1432][NULL][NULL][0014]",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
    "data_size": 516,
    "budget": 508
@@ -3309,31 +3411,43 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le tirage au sort, vous dites? Ah, oui, bien sûr."
+       "t": "Le tirage au sort, vous dites? Ah, oui, bien"
       },
       {
        "nl": true
       },
       {
-       "t": "On vous l'a livré ici. Allez, prenez-le.> Lettre"
+       "t": "sûr. On vous l'a livré ici. Allez, prenez-le.>"
       },
       {
        "nl": true
       },
       {
-       "enc": "Merci de votre participation au tirage."
+       "pause": true
+      },
+      {
+       "t": "Lettre "
+      },
+      {
+       "enc": "Merci de votre participation au"
       },
       {
        "nl": true
       },
       {
-       "enc": "Félicitations! Vous avez été sélectionné"
+       "enc": "tirage. Félicitations! Vous avez été"
       },
       {
        "nl": true
       },
       {
-       "enc": "comme gagnant!> "
+       "enc": "sélectionné"
+      },
+      {
+       "pause": true
+      },
+      {
+       "enc": " comme gagnant!> "
       },
       {
        "t": "Veuillez accepter "
@@ -3342,13 +3456,19 @@
        "nl": true
       },
       {
-       "t": "en guise de prix. Continuez à participer!> Vous n'avez pas de place"
+       "t": "en guise de prix. Continuez à participer!>"
       },
       {
        "nl": true
       },
       {
-       "t": "pour un(e) autre ..."
+       "t": "Vous n'avez pas de place"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pour un(e) autre ..."
       }
      ]
     }
@@ -3410,7 +3530,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort, vous dites? Ah, oui, bien sûr.\nOn vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]> Lettre\n[1432][NULL][NULL][0014]Merci de votre participation au tirage.\nFélicitations! Vous avez été sélectionné\ncomme gagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nen guise de prix. Continuez à participer![1432][NULL][NULL][0014][E1][E2][E3]> Vous n'avez pas de place\npour un(e) autre [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
+   "brut_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Félicitations! Vous avez été\nsélectionné[1205][U+000F] comme gagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nen guise de prix. Continuez à participer![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez pas de place[1205][U+000F] pour un(e) autre [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner![E1][E2][E3]>[SP][1432][NULL][NULL][0014]Please[SP]accept[SP]this[SP][E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nas[SP]your[SP]prize.[SP]We[SP]encourage[SP]you[SP]to[SP]continue\nentering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014][E1][E2][E3]>[SP]You[SP]have[SP]no[SP]room[SP]for[SP]another\n[E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
    "data_size": 742,
    "budget": 734
@@ -3430,7 +3550,13 @@
        "nl": true
       },
       {
-       "t": "aux cheveux bleus. La délinquance d'un enfant"
+       "t": "aux cheveux bleus. La délinquance d'un "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " enfant"
       },
       {
        "nl": true
@@ -3465,7 +3591,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vois! Ce doit être la faute de ce vaurien\naux cheveux bleus. La délinquance d'un enfant\nest très influencée par ses fréquentations.",
+   "brut_fr": "Je vois! Ce doit être la faute de ce vaurien\naux cheveux bleus. La délinquance d'un [1205][U+000F] enfant\nest très influencée par ses fréquentations.",
    "brut_en": "I[SP]see[SP]now![SP]This[SP]must[SP]be[SP]that[SP]wastrel[SP]blue-head's\nfault.[SP]I[SP]hear[SP]that[SP]a[SP]child's[SP]delinquency[SP]is\ngreatly[SP]affected[SP]by[SP]the[SP]company[SP]she[SP]keeps.",
    "data_size": 308,
    "budget": 300
@@ -3485,13 +3611,13 @@
        "nl": true
       },
       {
-       "t": "ma fille chérie dans l'iniquité!"
+       "t": "ma fille chérie dans l'iniquité! Je"
       },
       {
        "nl": true
       },
       {
-       "t": "Je devrais le mettre en pièces..."
+       "t": "devrais le mettre en pièces..."
       }
      ]
     }
@@ -3520,7 +3646,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Grrrh... Comment ose-t-il entraîner\nma fille chérie dans l'iniquité!\nJe devrais le mettre en pièces...",
+   "brut_fr": "Grrrh... Comment ose-t-il entraîner\nma fille chérie dans l'iniquité! Je\ndevrais le mettre en pièces...",
    "brut_en": "Hrrrgh...[SP]How[SP]dare[SP]he[SP]lure[SP]my[SP]beloved[SP]daughter\nonto[SP]the[SP]path[SP]of[SP]iniquity![SP]I[SP]should[SP]tear[SP]him\nlimb[SP]from[SP]limb...",
    "data_size": 256,
    "budget": 248
@@ -3540,7 +3666,13 @@
        "nl": true
       },
       {
-       "t": "aux cheveux bleus. La délinquance d'un enfant"
+       "t": "aux cheveux bleus. La délinquance d'un "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " enfant"
       },
       {
        "nl": true
@@ -3575,7 +3707,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vois! Ce doit être la faute de ce vaurien\naux cheveux bleus. La délinquance d'un enfant\nest très influencée par ses fréquentations.",
+   "brut_fr": "Je vois! Ce doit être la faute de ce vaurien\naux cheveux bleus. La délinquance d'un [1205][U+000F] enfant\nest très influencée par ses fréquentations.",
    "brut_en": "I[SP]see[SP]now![SP]This[SP]must[SP]be[SP]that[SP]wastrel[SP]blue-head's\nfault.[SP]I[SP]hear[SP]that[SP]a[SP]child's[SP]delinquency[SP]is\ngreatly[SP]affected[SP]by[SP]the[SP]company[SP]she[SP]keeps.",
    "data_size": 310,
    "budget": 302
@@ -3595,13 +3727,13 @@
        "nl": true
       },
       {
-       "t": "ma fille chérie dans l'iniquité!"
+       "t": "ma fille chérie dans l'iniquité! Je"
       },
       {
        "nl": true
       },
       {
-       "t": "Je devrais le mettre en pièces..."
+       "t": "devrais le mettre en pièces..."
       }
      ]
     }
@@ -3630,7 +3762,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Grrrh... Comment ose-t-il entraîner\nma fille chérie dans l'iniquité!\nJe devrais le mettre en pièces...",
+   "brut_fr": "Grrrh... Comment ose-t-il entraîner\nma fille chérie dans l'iniquité! Je\ndevrais le mettre en pièces...",
    "brut_en": "Hrrrgh...[SP]How[SP]dare[SP]he[SP]lure[SP]my[SP]beloved[SP]daughter\nonto[SP]the[SP]path[SP]of[SP]iniquity![SP]I[SP]should[SP]tear[SP]him\nlimb[SP]from[SP]limb...",
    "data_size": 258,
    "budget": 250
@@ -3651,6 +3783,9 @@
       },
       {
        "t": "semble s'être calmée. Je craignais que Lisa"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -3685,7 +3820,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'étrange maladie du Lycée Seven Sisters\nsemble s'être calmée. Je craignais que Lisa\nne l'attrape, mais c'est terminé maintenant.",
+   "brut_fr": "L'étrange maladie du Lycée Seven Sisters\nsemble s'être calmée. Je craignais que Lisa[1205][U+000F]\nne l'attrape, mais c'est terminé maintenant.",
    "brut_en": "The[SP]strange[SP]illness[SP]befalling[SP]Seven[SP]Sisters\nHigh[SP]seems[SP]to[SP]have[SP]calmed.[SP]I[SP]was[SP]worried[SP]Lisa\nmight[SP]contract[SP]it,[SP]but[SP]it's[SP]over[SP]and[SP]done[SP]now.",
    "data_size": 312,
    "budget": 304
@@ -3705,7 +3840,13 @@
        "nl": true
       },
       {
-       "t": "Quelle regrettable idée qu'un tel événement"
+       "t": "Quelle regrettable idée qu'un tel "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " événement"
       },
       {
        "nl": true
@@ -3740,7 +3881,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Kasugayama organise un bal masqué, vraiment?\nQuelle regrettable idée qu'un tel événement\nétranger se tienne dans un lycée japonais.",
+   "brut_fr": "Kasugayama organise un bal masqué, vraiment?\nQuelle regrettable idée qu'un tel [1205][U+000F] événement\nétranger se tienne dans un lycée japonais.",
    "brut_en": "Kasugayama[SP]High[SP]is[SP]throwing[SP]a[SP]masquerade,[SP]eh?\nHow[SP]regrettable[SP]that[SP]such[SP]a[SP]foreign[SP]event[SP]will\nbe[SP]taking[SP]place[SP]at[SP]a[SP]Japanese[SP]school...",
    "data_size": 304,
    "budget": 296
@@ -3763,10 +3904,19 @@
        "t": "Les jeunes façonneront l'avenir du pays,"
       },
       {
+       "pause": true
+      },
+      {
        "nl": true
       },
       {
-       "t": "j'aurais aimé qu'ils maîtrisent ses traditions..."
+       "t": "j'aurais aimé qu'ils maîtrisent ses"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "traditions..."
       }
      ]
     }
@@ -3795,7 +3945,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La danse japonaise n'est-elle pas préférable?\nLes jeunes façonneront l'avenir du pays,\nj'aurais aimé qu'ils maîtrisent ses traditions...",
+   "brut_fr": "La danse japonaise n'est-elle pas préférable?\nLes jeunes façonneront l'avenir du pays,[1205][U+000F]\nj'aurais aimé qu'ils maîtrisent ses\ntraditions...",
    "brut_en": "Don't[SP]you[SP]think[SP]Japanese[SP]dances[SP]are[SP]better?\nAs[SP]the[SP]young[SP]will[SP]shape[SP]this[SP]country's[SP]future,\nI[SP]wish[SP]they[SP]were[SP]better[SP]learned[SP]in[SP]its[SP]ways...",
    "data_size": 314,
    "budget": 306
@@ -3815,19 +3965,19 @@
        "pause": true
       },
       {
-       "t": " Hmm... Jamais entendu"
+       "t": " Hmm... Jamais"
       },
       {
        "nl": true
       },
       {
-       "t": "parler d'une telle chose. Vous confondez"
+       "t": "entendu parler d'une telle chose."
       },
       {
        "nl": true
       },
       {
-       "t": "avec un cirque masqué?"
+       "t": "Vous confondez avec un cirque masqué?"
       }
      ]
     }
@@ -3862,7 +4012,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Cercle masqué?[1205][U+000F] Hmm... Jamais entendu\nparler d'une telle chose. Vous confondez\navec un cirque masqué?",
+   "brut_fr": "Le Cercle masqué?[1205][U+000F] Hmm... Jamais\nentendu parler d'une telle chose.\nVous confondez avec un cirque masqué?",
    "brut_en": "Masked[SP]Circle?[1205][U+000F][SP]Hmm...[SP]I've[SP]never[SP]heard[SP]of[SP]such\na[SP]thing.[SP]Perhaps[SP]you've[SP]confused[SP]it[SP]for[SP]the\nmasked[SP]circus?",
    "data_size": 254,
    "budget": 246
@@ -3876,19 +4026,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je me rappelle soudain que plusieurs"
+       "t": "Je me rappelle soudain que"
       },
       {
        "nl": true
       },
       {
-       "t": "élèves de Seven sont venus chercher Lisa"
+       "t": "plusieurs élèves de Seven sont"
       },
       {
        "nl": true
       },
       {
-       "t": "tout à l'heure."
+       "t": "venus chercher Lisa tout à l'heure."
       }
      ]
     }
@@ -3917,7 +4067,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me rappelle soudain que plusieurs\nélèves de Seven sont venus chercher Lisa\ntout à l'heure.",
+   "brut_fr": "Je me rappelle soudain que\nplusieurs élèves de Seven sont\nvenus chercher Lisa tout à l'heure.",
    "brut_en": "I[SP]am[SP]suddenly[SP]reminded[SP]that[SP]a[SP]number[SP]of\nstudents[SP]from[SP]Sevens[SP]came[SP]looking[SP]for[SP]Lisa\na[SP]moment[SP]ago.",
    "data_size": 232,
    "budget": 224
@@ -3931,19 +4081,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ils ont laissé un nombre surprenant de"
+       "t": "Ils ont laissé un nombre surprenant"
       },
       {
        "nl": true
       },
       {
-       "t": "fiches d'autographes, disant avoir espéré"
+       "t": "de fiches d'autographes, disant"
       },
       {
        "nl": true
       },
       {
-       "t": "que Lisa les signe..."
+       "t": "avoir espéré que Lisa les signe..."
       }
      ]
     }
@@ -3972,7 +4122,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils ont laissé un nombre surprenant de\nfiches d'autographes, disant avoir espéré\nque Lisa les signe...",
+   "brut_fr": "Ils ont laissé un nombre surprenant\nde fiches d'autographes, disant\navoir espéré que Lisa les signe...",
    "brut_en": "They[SP]left[SP]behind[SP]a[SP]startling[SP]number[SP]of\nautograph[SP]slips,[SP]saying[SP]they[SP]had[SP]hoped[SP]to\nhave[SP]Lisa[SP]sign[SP]them...",
    "data_size": 246,
    "budget": 238
@@ -3992,13 +4142,10 @@
        "pause": true
       },
       {
-       "t": " Hm?"
-      },
-      {
        "nl": true
       },
       {
-       "t": "Un groupe d'idoles? Hélas, ma culture"
+       "t": "Hm? Un groupe d'idoles? Hélas, ma culture"
       },
       {
        "nl": true
@@ -4039,7 +4186,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Où est Lisa? N'était-elle pas avec vous?[1205][U+000F] Hm?\nUn groupe d'idoles? Hélas, ma culture\nmusicale se limite aux ballades enka.",
+   "brut_fr": "Où est Lisa? N'était-elle pas avec vous?[1205][U+000F]\nHm? Un groupe d'idoles? Hélas, ma culture\nmusicale se limite aux ballades enka.",
    "brut_en": "Where[SP]is[SP]Lisa?[SP]Was[SP]she[SP]not[SP]with[SP]you?[1205][U+000F][SP]Hm?\nAn[SP]idol[SP]group?[SP]Hahaha,[SP]alas,[SP]my[SP]musical\nawareness[SP]extends[SP]only[SP]to[SP]enka[SP]ballads.",
    "data_size": 284,
    "budget": 276
@@ -4068,10 +4215,16 @@
        "t": "souhaite sortir... Son regard a l'éclat"
       },
       {
+       "pause": true
+      },
+      {
+       "t": " de"
+      },
+      {
        "nl": true
       },
       {
-       "t": "de quelqu'un à la résolution d'acier..."
+       "t": "quelqu'un à la résolution d'acier..."
       }
      ]
     }
@@ -4106,7 +4259,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm...[1205][U+000A] Malgré cette vague de terrorisme, Lisa\nsouhaite sortir... Son regard a l'éclat\nde quelqu'un à la résolution d'acier...",
+   "brut_fr": "Hm...[1205][U+000A] Malgré cette vague de terrorisme, Lisa\nsouhaite sortir... Son regard a l'éclat[1205][U+000F] de\nquelqu'un à la résolution d'acier...",
    "brut_en": "Hm...[1205][U+000A][SP]Despite[SP]this[SP]wave[SP]of[SP]terrorism,[SP]Lisa\nwishes[SP]to[SP]go[SP]out...[SP]Her[SP]eyes[SP]have[SP]the[SP]gleam[SP]of\none[SP]whose[SP]resolve[SP]is[SP]strong[SP]as[SP]steel...",
    "data_size": 302,
    "budget": 294
@@ -4120,19 +4273,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je crois que Lisa a appris quelque chose vital."
+       "t": "Je crois que Lisa a appris quelque"
       },
       {
        "nl": true
       },
       {
-       "t": "C'est le devoir d'un père de la laisser"
+       "t": "chose vital. C'est le devoir d'un"
       },
       {
        "nl": true
       },
       {
-       "t": "agir en silence... Je prie pour ton retour, ma fille."
+       "t": "père de la laisser"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " agir en silence..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je prie pour ton retour, ma fille."
       }
      ]
     }
@@ -4161,7 +4326,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je crois que Lisa a appris quelque chose vital.\nC'est le devoir d'un père de la laisser\nagir en silence... Je prie pour ton retour, ma fille.",
+   "brut_fr": "Je crois que Lisa a appris quelque\nchose vital. C'est le devoir d'un\npère de la laisser[1205][U+000F] agir en silence...\nJe prie pour ton retour, ma fille.",
    "brut_en": "I[SP]believe[SP]Lisa[SP]has[SP]learned[SP]something[SP]vital.[SP]It\nis[SP]a[SP]father's[SP]duty[SP]to[SP]silently[SP]let[SP]her[SP]have[SP]her\nway...[SP]I[SP]pray[SP]for[SP]your[SP]safe[SP]return,[SP]my[SP]daughter.",
    "data_size": 326,
    "budget": 318
@@ -4175,19 +4340,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'entends parler d'un petit groupe qui a stoppé"
+       "t": "J'entends parler d'un petit groupe qui a"
       },
       {
        "nl": true
       },
       {
-       "t": "l'attentat de Smile Hirasaka. Vouloir"
+       "t": "stoppé l'attentat de Smile Hirasaka. Vouloir"
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "risquer leurs vies... De vrais enfants du Japon!"
+       "t": "risquer leurs vies... De vrais enfants du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Japon!"
       }
      ]
     }
@@ -4216,7 +4390,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'entends parler d'un petit groupe qui a stoppé\nl'attentat de Smile Hirasaka. Vouloir\nrisquer leurs vies... De vrais enfants du Japon!",
+   "brut_fr": "J'entends parler d'un petit groupe qui a\nstoppé l'attentat de Smile Hirasaka. Vouloir[1205][U+000F]\nrisquer leurs vies... De vrais enfants du\nJapon!",
    "brut_en": "I[SP]hear[SP]of[SP]a[SP]small[SP]band[SP]who[SP]stopped[SP]the[SP]bombing\nof[SP]Smile[SP]Hirasaka.[SP]That[SP]willingness[SP]to[SP]risk\ntheir[SP]lives...[SP]They[SP]are[SP]true[SP]children[SP]of[SP]Japan!",
    "data_size": 316,
    "budget": 308
@@ -4230,19 +4404,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a bien des théories sur l'identité du"
+       "t": "Il y a bien des théories sur l'identité"
       },
       {
        "nl": true
       },
       {
-       "t": "coupable, mais ce sont les rumeurs les plus"
+       "t": "du coupable, mais ce sont les rumeurs les"
       },
       {
        "nl": true
       },
       {
-       "t": "absurdes. "
+       "t": "plus"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " absurdes. "
       },
       {
        "enc": "Le Bataillon"
@@ -4283,7 +4463,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a bien des théories sur l'identité du\ncoupable, mais ce sont les rumeurs les plus\nabsurdes. [1432][NULL][NULL][0014]Le Bataillon[1432][NULL][NULL][0014], vraiment!",
+   "brut_fr": "Il y a bien des théories sur l'identité\ndu coupable, mais ce sont les rumeurs les\nplus[1205][U+000F] absurdes. [1432][NULL][NULL][0014]Le Bataillon[1432][NULL][NULL][0014], vraiment!",
    "brut_en": "There[SP]are[SP]many[SP]theories[SP]as[SP]to[SP]the[SP]culprit's\nidentity,[SP]but[SP]all[SP]of[SP]them[SP]are[SP]the[SP]most[SP]absurd\nrumors.[SP][1432][NULL][NULL][0014]Last[SP]Battalion[1432][NULL][NULL][0014][SP]indeed!",
    "data_size": 296,
    "budget": 288
@@ -4297,13 +4477,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hm? Lisa n'a pas l'air bien..."
+       "t": "Hm? Lisa n'a pas l'air bien... Est-ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Est-ce qu'il s'est passé quelque chose?"
+       "t": "qu'il s'est passé quelque chose?"
       }
      ]
     }
@@ -4332,7 +4512,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hm? Lisa n'a pas l'air bien...\nEst-ce qu'il s'est passé quelque chose?",
+   "brut_fr": "Hm? Lisa n'a pas l'air bien... Est-ce\nqu'il s'est passé quelque chose?",
    "brut_en": "Hm?[SP]Is[SP]something[SP]the[SP]matter[SP]with[SP]Lisa?\nShe[SP]doesn't[SP]seem[SP]well...[SP]Did[SP]something\nhappen?",
    "data_size": 210,
    "budget": 202
@@ -4346,13 +4526,16 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'est-ce qui ne va pas avec Lisa? Je n'avais"
+       "t": "Qu'est-ce qui ne va pas avec Lisa? Je"
       },
       {
        "nl": true
       },
       {
-       "t": "jamais vu ce visage si douloureux..."
+       "t": "n'avais jamais vu ce visage si douloureux..."
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
@@ -4387,7 +4570,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'est-ce qui ne va pas avec Lisa? Je n'avais\njamais vu ce visage si douloureux...\nSauf peut-être une fois, autrefois...",
+   "brut_fr": "Qu'est-ce qui ne va pas avec Lisa? Je\nn'avais jamais vu ce visage si douloureux...[1205][U+000F]\nSauf peut-être une fois, autrefois...",
    "brut_en": "What[SP]is[SP]the[SP]matter[SP]with[SP]Lisa?[SP]I've[SP]never[SP]known\nher[SP]expression[SP]to[SP]be[SP]so[SP]pained...[SP]Well,[SP]save\nperhaps[SP]for[SP]once[SP]in[SP]the[SP]past...",
    "data_size": 286,
    "budget": 278
@@ -4401,19 +4584,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je ne l'oublierai jamais... Elle avait cette même"
+       "t": "Je ne l'oublierai jamais... Elle"
       },
       {
        "nl": true
       },
       {
-       "t": "expression il y a dix ans... Qu'a-t-il pu"
+       "t": "avait cette même expression il y a"
       },
       {
        "nl": true
       },
       {
-       "t": "se passer?"
+       "t": "dix ans... Qu'a-t-il pu"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " se passer?"
       }
      ]
     }
@@ -4442,7 +4631,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne l'oublierai jamais... Elle avait cette même\nexpression il y a dix ans... Qu'a-t-il pu\nse passer?",
+   "brut_fr": "Je ne l'oublierai jamais... Elle\navait cette même expression il y a\ndix ans... Qu'a-t-il pu[1205][U+000F] se passer?",
    "brut_en": "I'll[SP]never[SP]forget[SP]it...[SP]She[SP]wore[SP]that[SP]same\nexpression[SP]ten[SP]years[SP]ago...[SP]What[SP]could[SP]have\nhappened[SP]to[SP]cause[SP]it?",
    "data_size": 256,
    "budget": 248

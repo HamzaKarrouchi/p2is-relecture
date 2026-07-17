@@ -96,19 +96,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aïe, ça craint. Je sais que réparer des"
+       "t": "Aïe, ça craint. Je sais que réparer des trucs"
       },
       {
        "nl": true
       },
       {
-       "t": "trucs c'est pas ta tasse de thé alors rentre"
+       "t": "c'est pas ta tasse de thé alors rentre"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " plutôt"
       },
       {
        "nl": true
       },
       {
-       "t": "plutôt en train. Voilà, le message est passée."
+       "t": "en train. Voilà, le message est passée."
       }
      ]
     }
@@ -137,7 +143,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aïe, ça craint. Je sais que réparer des\ntrucs c'est pas ta tasse de thé alors rentre\nplutôt en train. Voilà, le message est passée.",
+   "brut_fr": "Aïe, ça craint. Je sais que réparer des trucs\nc'est pas ta tasse de thé alors rentre[1205][U+000F] plutôt\nen train. Voilà, le message est passée.",
    "brut_en": "Yikes![SP]This[SP]looks[SP]bad.[SP]I[SP]know[SP]you're[SP]not[SP]that\ngood[SP]at[SP]fixing[SP]stuff,[SP]so[SP]you[SP]might[SP]wanna[SP]take\nthe[SP]train[SP]home.[SP]Well,[SP]I[SP]delivered[SP]my[SP]message.",
    "data_size": 312,
    "budget": 304
@@ -157,7 +163,13 @@
        "hero": "prenom"
       },
       {
-       "t": "! Tu ne m'échapperas pas cette fois."
+       "t": "! Tu ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "m'échapperas pas cette fois."
       }
      ]
     }
@@ -186,7 +198,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah! Te voilà [1113]! Tu ne m'échapperas pas cette fois.",
+   "brut_fr": "Ah! Te voilà [1113]! Tu ne\nm'échapperas pas cette fois.",
    "brut_en": "Aha![SP]There[SP]you[SP]are,[SP][1113]![SP]You're[SP]not\ngetting[SP]away[SP]from[SP]me[SP]this[SP]time.",
    "data_size": 162,
    "budget": 154
@@ -206,13 +218,7 @@
        "nl": true
       },
       {
-       "t": "de ce que tu veux faire après le"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "lycée?"
+       "t": "de ce que tu veux faire après le lycée?"
       }
      ]
     }
@@ -241,7 +247,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon, venons-en au faits. As-tu décidé\nde ce que tu veux faire après le\nlycée?",
+   "brut_fr": "Bon, venons-en au faits. As-tu décidé\nde ce que tu veux faire après le lycée?",
    "brut_en": "Well[SP]then,[SP]let's[SP]get[SP]straight[SP]to[SP]business.\nHave[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?",
    "data_size": 226,
    "budget": 218
@@ -255,7 +261,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "As-tu décidé de ce que tu veux faire après le lycée?"
+       "t": "As-tu décidé de ce que tu veux faire après"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le lycée?"
       }
      ]
     }
@@ -279,11 +291,18 @@
    "choix_fr": {
     "options": [
      "Ouais, c'est bon.",
+     "[1205]",
      "Pas encore."
     ],
     "question": [
      {
-      "t": "As-tu décidé de ce que tu veux faire après le lycée?"
+      "t": "As-tu décidé de ce que tu veux faire après"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "le lycée?"
      }
     ]
    },
@@ -304,7 +323,7 @@
      }
     ]
    },
-   "brut_fr": "As-tu décidé de ce que tu veux faire après le lycée?\n[1208][0002][1432][NULL][NULL][0014]Ouais, c'est bon.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas encore.[1432][NULL][NULL][0014]",
+   "brut_fr": "As-tu décidé de ce que tu veux faire après\nle lycée?\n[1208][0002][1432][NULL][NULL][0014]Ouais, c'est bon.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Pas encore.[1432][NULL][NULL][0014]",
    "brut_en": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?\n[1208][0002][1432][NULL][NULL][0014]Yeah,[SP]I've[SP]decided.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]yet.[1432][NULL][NULL][0014]",
    "data_size": 234,
    "budget": 226
@@ -367,13 +386,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je vois. Rien ne presse après tout. C'est ta vie alors"
+       "t": "Je vois. Rien ne presse après tout."
       },
       {
        "nl": true
       },
       {
-       "t": "réfléchis-y bien avant de faire ton choix."
+       "t": "C'est ta vie alors réfléchis-y bien"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avant de faire ton choix."
       }
      ]
     }
@@ -402,7 +427,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vois. Rien ne presse après tout. C'est ta vie alors\nréfléchis-y bien avant de faire ton choix.",
+   "brut_fr": "Je vois. Rien ne presse après tout.\nC'est ta vie alors réfléchis-y bien\navant de faire ton choix.",
    "brut_en": "I[SP]see.[SP]Well,[SP]there's[SP]no[SP]rush.[SP]It's[SP]your[SP]life,\nso[SP]think[SP]hard[SP]about[SP]it[SP]before[SP]you[SP]make[SP]your\ndecision.",
    "data_size": 230,
    "budget": 222
@@ -484,13 +509,13 @@
        "pause": true
       },
       {
-       "t": "J-Je vous attendais! Je savais que"
+       "t": " J-Je vous attendais! Je"
       },
       {
        "nl": true
       },
       {
-       "t": "vous finiriez par arriver!"
+       "t": "savais que vous finiriez par arriver!"
       }
      ]
     }
@@ -519,7 +544,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "E-Euh...[1205][001E]J-Je vous attendais! Je savais que\nvous finiriez par arriver!",
+   "brut_fr": "E-Euh...[1205][001E] J-Je vous attendais! Je\nsavais que vous finiriez par arriver!",
    "brut_en": "U-Umm...[1205][001E][SP]I-I[SP]was[SP]just[SP]waiting[SP]around![SP]I[SP]knew\nyou[SP]guys[SP]would[SP]show[SP]up[SP]soon!",
    "data_size": 172,
    "budget": 164
@@ -539,13 +564,13 @@
        "hero": "nom"
       },
       {
-       "t": ". Il a trop la"
+       "t": ". Il a trop"
       },
       {
        "nl": true
       },
       {
-       "t": "classe en ce moment!"
+       "t": "la classe en ce moment!"
       }
      ]
     }
@@ -574,7 +599,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oooh, C'est [1112]. Il a trop la\nclasse en ce moment!",
+   "brut_fr": "Oooh, C'est [1112]. Il a trop\nla classe en ce moment!",
    "brut_en": "Oooh,[SP]it's[SP][1112]-senpai.[SP]He's[SP]gotten[SP]so\ncool[SP]lately!",
    "data_size": 118,
    "budget": 110

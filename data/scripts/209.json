@@ -25,6 +25,9 @@
        "t": "importante: la vérité indéniable que certaines"
       },
       {
+       "pause": true
+      },
+      {
        "nl": true
       },
       {
@@ -63,7 +66,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hahahaha![1205][001E] Vous avez appris une leçon\nimportante: la vérité indéniable que certaines\nchoses ne peuvent être changées dans le monde!",
+   "brut_fr": "Hahahaha![1205][001E] Vous avez appris une leçon\nimportante: la vérité indéniable que certaines[1205][U+000F]\nchoses ne peuvent être changées dans le monde!",
    "brut_en": "Hahahahaha![1205][001E][SP]You've[SP]all[SP]learned[SP]something[SP]very\nimportant[SP]here:[SP]the[SP]undeniable[SP]truth[SP]of[SP]the\nworld[SP]that[SP]some[SP]things[SP]cannot[SP]be[SP]changed!",
    "data_size": 304,
    "budget": 296
@@ -77,19 +80,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis l'ombre de l'humanité. Tant qu'il y aura"
+       "t": "Je suis l'ombre de l'humanité. Tant qu'il y"
       },
       {
        "nl": true
       },
       {
-       "t": "des ténébres dans vos coeurs, je serais là."
+       "t": "aura des ténébres dans vos coeurs, je serais "
+      },
+      {
+       "pause": true
       },
       {
        "nl": true
       },
       {
-       "t": "Voici l'ultime calvaire du Chaos Rampant!"
+       "t": "là. Voici l'ultime calvaire du Chaos Rampant!"
       }
      ]
     }
@@ -118,7 +124,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis l'ombre de l'humanité. Tant qu'il y aura\ndes ténébres dans vos coeurs, je serais là.\nVoici l'ultime calvaire du Chaos Rampant!",
+   "brut_fr": "Je suis l'ombre de l'humanité. Tant qu'il y\naura des ténébres dans vos coeurs, je serais [1205][U+000F]\nlà. Voici l'ultime calvaire du Chaos Rampant!",
    "brut_en": "I[SP]am[SP]the[SP]shadow[SP]of[SP]humanity.[SP]As[SP]long[SP]as[SP]there\nis[SP]darkness[SP]in[SP]your[SP]hearts,[SP]I'll[SP]never[SP]go[SP]away.\nBehold[SP]the[SP]Crawling[SP]Chaos'[SP]final[SP]ordeal!",
    "data_size": 306,
    "budget": 298
@@ -132,22 +138,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il reste un moyen de changer les choses..."
+       "t": "Il reste un moyen de changer les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "choses..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Effacer votre rencontre durant cette soirée"
+       "t": " Effacer votre rencontre"
       },
       {
        "nl": true
       },
       {
-       "t": "d'été..."
+       "t": "durant cette soirée"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " d'été..."
       }
      ]
     }
@@ -179,7 +194,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il reste un moyen de changer les choses...[1205][001E]\nEffacer votre rencontre durant cette soirée\nd'été...",
+   "brut_fr": "Il reste un moyen de changer les\nchoses...[1205][001E] Effacer votre rencontre\ndurant cette soirée[1205][U+000F] d'été...",
    "brut_en": "There[SP]is[SP]one[SP]way[SP]left[SP]to[SP]change[SP]things...[1205][001E]\nTo[SP]erase[SP]the[SP]fact[SP]of[SP]your[SP]meeting[SP]on[SP]that\nsummer[SP]evening...",
    "data_size": 236,
    "budget": 228
@@ -193,13 +208,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les premiers fils de ce destin funeste"
+       "t": "Les premiers fils de ce destin"
       },
       {
        "nl": true
       },
       {
-       "t": "furent tissés ce jour-là..."
+       "t": "funeste furent tissés ce jour-là..."
       }
      ]
     }
@@ -222,7 +237,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les premiers fils de ce destin funeste\nfurent tissés ce jour-là...",
+   "brut_fr": "Les premiers fils de ce destin\nfuneste furent tissés ce jour-là...",
    "brut_en": "The[SP]first[SP]strings[SP]in[SP]his[SP]wicked[SP]web[SP]of\nfate[SP]were[SP]spun[SP]on[SP]that[SP]day...",
    "data_size": 166,
    "budget": 158
@@ -236,19 +251,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si ce seul moment cesse d'exister, cela créera"
+       "t": "Si ce seul moment cesse d'exister, cela"
       },
       {
        "nl": true
       },
       {
-       "t": "une autre ligne temporelle, une ne menant"
+       "t": "créera une autre ligne temporelle, une"
       },
       {
        "nl": true
       },
       {
-       "t": "pas à cette tragédie..."
+       "t": "ne menant"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pas à cette tragédie..."
       }
      ]
     }
@@ -277,7 +298,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si ce seul moment cesse d'exister, cela créera\nune autre ligne temporelle, une ne menant\npas à cette tragédie...",
+   "brut_fr": "Si ce seul moment cesse d'exister, cela\ncréera une autre ligne temporelle, une\nne menant[1205][U+000F] pas à cette tragédie...",
    "brut_en": "If[SP]that[SP]one[SP]point[SP]ceases[SP]to[SP]exist,[SP]it[SP]will\ngive[SP]rise[SP]to[SP]an[SP]alternate[SP]timeline,[SP]one[SP]which\ndoes[SP]not[SP]lead[SP]to[SP]this[SP]tragedy...",
    "data_size": 272,
    "budget": 264
@@ -365,19 +386,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Même sans les illusions de Xibalba et les"
+       "t": "Même sans les illusions de Xibalba"
       },
       {
        "nl": true
       },
       {
-       "t": "crânes, votre volonté est assez forte pour"
+       "t": "et les crânes, votre volonté est"
       },
       {
        "nl": true
       },
       {
-       "t": "changer la réalité."
+       "t": "assez forte pour changer la réalité."
       }
      ]
     }
@@ -406,7 +427,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Même sans les illusions de Xibalba et les\ncrânes, votre volonté est assez forte pour\nchanger la réalité.",
+   "brut_fr": "Même sans les illusions de Xibalba\net les crânes, votre volonté est\nassez forte pour changer la réalité.",
    "brut_en": "Even[SP]without[SP]the[SP]illusions[SP]of[SP]Xibalba[SP]and[SP]the\ncrystal[SP]skulls,[SP]your[SP]strong[SP]wills[SP]are[SP]enough\nto[SP]change[SP]reality.",
    "data_size": 248,
    "budget": 240
@@ -420,22 +441,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oui... Le pouvoir ayant créé votre monde"
+       "t": "Oui... Le pouvoir ayant créé votre monde est"
       },
       {
        "nl": true
       },
       {
-       "t": "est semblable à votre force intérieure..."
+       "t": "semblable à votre force intérieure..."
       },
       {
        "pause": true
       },
       {
+       "t": " Dans"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Dans l'inconscient collectif, c'est possible."
+       "t": "l'inconscient collectif, c'est "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " possible."
       }
      ]
     }
@@ -470,7 +500,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oui... Le pouvoir ayant créé votre monde\nest semblable à votre force intérieure...[1205][001E]\nDans l'inconscient collectif, c'est possible.",
+   "brut_fr": "Oui... Le pouvoir ayant créé votre monde est\nsemblable à votre force intérieure...[1205][001E] Dans\nl'inconscient collectif, c'est [1205][U+000F] possible.",
    "brut_en": "Yes...[SP]The[SP]power[SP]that[SP]created[SP]your[SP]world[SP]is\nthe[SP]same[SP]as[SP]your[SP]inner[SP]strength...[1205][001E][SP]In[SP]this\ncollective[SP]unconsciousness,[SP]it[SP]is[SP]possible.",
    "data_size": 294,
    "budget": 286
@@ -490,22 +520,31 @@
        "pause": true
       },
       {
-       "t": " qu'on peut tout redémarrer...?"
+       "t": " qu'on peut tout"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "redémarrer...?"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "En échange du reste... nos souvenirs et"
+       "t": " En échange du reste..."
       },
       {
        "nl": true
       },
       {
-       "t": "notre passé..."
+       "t": "nos souvenirs et"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " notre passé..."
       }
      ]
     }
@@ -543,7 +582,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous dites...[1205][001E] qu'on peut tout redémarrer...?[1205][001E]\nEn échange du reste... nos souvenirs et\nnotre passé...",
+   "brut_fr": "Vous dites...[1205][001E] qu'on peut tout\nredémarrer...?[1205][001E] En échange du reste...\nnos souvenirs et[1205][U+000F] notre passé...",
    "brut_en": "Are[SP]you[SP]saying...[1205][001E][SP]we[SP]can[SP]reset[SP]everything...?[1205][001E]\nIn[SP]exchange[SP]for[SP]all[SP]of[SP]it...[SP]our[SP]memories\nand[SP]pasts...",
    "data_size": 228,
    "budget": 220
@@ -557,7 +596,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Donc, j'oublierais tout le monde...!?"
+       "t": "Donc, j'oublierais tout le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "monde...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Non... non, je veux pas!"
       },
       {
        "pause": true
@@ -566,19 +617,7 @@
        "nl": true
       },
       {
-       "t": "Non... non, je veux pas!"
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Il n'y a"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pas d'autres moyens!?"
+       "t": "Il n'y a pas d'autres moyens!?"
       }
      ]
     }
@@ -616,7 +655,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Donc, j'oublierais tout le monde...!?[1205][001E]\nNon... non, je veux pas![1205][001E] Il n'y a\npas d'autres moyens!?",
+   "brut_fr": "Donc, j'oublierais tout le\nmonde...!?[1205][001E] Non... non, je veux pas![1205][001E]\nIl n'y a pas d'autres moyens!?",
    "brut_en": "Does[SP]that[SP]mean[SP]I'll[SP]forget[SP]everyone...!?[1205][001E]\nNo...[SP]No,[SP]I[SP]don't[SP]want[SP]that![1205][001E][SP]Isn't[SP]there\nany[SP]other[SP]way!?",
    "data_size": 226,
    "budget": 218
@@ -630,19 +669,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il n'y en a pas, avec les pouvoirs actuels."
+       "t": "Il n'y en a pas, avec les pouvoirs actuels. Il"
       },
       {
        "nl": true
       },
       {
-       "t": "Il tire sa force des émotions négatives de"
+       "t": "tire sa force des émotions négatives de"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " gens"
       },
       {
        "nl": true
       },
       {
-       "t": "gens désirant inconsciemment la destruction..."
+       "t": "désirant inconsciemment la destruction..."
       }
      ]
     }
@@ -671,7 +716,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il n'y en a pas, avec les pouvoirs actuels.\nIl tire sa force des émotions négatives de\ngens désirant inconsciemment la destruction...",
+   "brut_fr": "Il n'y en a pas, avec les pouvoirs actuels. Il\ntire sa force des émotions négatives de[1205][U+000F] gens\ndésirant inconsciemment la destruction...",
    "brut_en": "There[SP]is[SP]none[SP]here,[SP]in[SP]the[SP]seat[SP]of[SP]his[SP]power.\nHe[SP]draws[SP]strength[SP]from[SP]the[SP]negative[SP]emotions\nof[SP]people[SP]unconsciously[SP]desiring[SP]destruction...",
    "data_size": 306,
    "budget": 298
@@ -685,16 +730,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pour l'arrêter, l'humanité elle-même doit changer..."
-      },
-      {
-       "pause": true
+       "t": "Pour l'arrêter, l'humanité elle-même doit"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous devez créer ce nouveau monde."
+       "t": "changer..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous devez créer ce nouveau monde."
       }
      ]
     }
@@ -723,7 +771,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pour l'arrêter, l'humanité elle-même doit changer...[1205][001E]\nVous devez créer ce nouveau monde.",
+   "brut_fr": "Pour l'arrêter, l'humanité elle-même doit\nchanger...[1205][001E] Vous devez créer ce nouveau monde.",
    "brut_en": "If[SP]you[SP]are[SP]to[SP]stop[SP]him,[SP]then[SP]mankind[SP]itself\nmust[SP]change...[1205][001E][SP]You[SP]must[SP]create[SP]this[SP]new[SP]world.",
    "data_size": 214,
    "budget": 206
@@ -786,13 +834,13 @@
        "pause": true
       },
       {
-       "t": " Je m'autoriserais pas à"
+       "t": " Je m'autoriserais"
       },
       {
        "nl": true
       },
       {
-       "t": "oublier tout ça!"
+       "t": "pas à oublier tout ça!"
       }
      ]
     }
@@ -821,7 +869,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu l'as dit...[1205][001E] Je m'autoriserais pas à\noublier tout ça!",
+   "brut_fr": "Tu l'as dit...[1205][001E] Je m'autoriserais\npas à oublier tout ça!",
    "brut_en": "Damn[SP]straight...[1205][001E][SP]I'm[SP]not[SP]gonna[SP]let[SP]myself\nforget[SP]any[SP]of[SP]this!",
    "data_size": 154,
    "budget": 146
@@ -835,16 +883,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si ce bâtard a tout planifié, faisons-le..."
-      },
-      {
-       "pause": true
+       "t": "Si ce bâtard a tout planifié,"
       },
       {
        "nl": true
       },
       {
-       "t": "On va lui montrer que tout se passe toujours comme il le veut."
+       "t": "faisons-le..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On va lui montrer que tout"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "se passe "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " toujours comme il le veut."
       }
      ]
     }
@@ -879,7 +942,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si ce bâtard a tout planifié, faisons-le...[1205][001E]\nOn va lui montrer que tout se passe toujours comme il le veut.",
+   "brut_fr": "Si ce bâtard a tout planifié,\nfaisons-le...[1205][001E] On va lui montrer que tout\nse passe [1205][U+000F] toujours comme il le veut.",
    "brut_en": "If[SP]that[SP]bastard[SP]set[SP]all[SP]of[SP]this[SP]up,[SP]then[SP]let's\ndo[SP]this...[1205][001E][SP]We'll[SP]show[SP]him[SP]that[SP]not[SP]everything\ngoes[SP]his[SP]way.",
    "data_size": 244,
    "budget": 236
@@ -936,13 +999,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bien, concentrez et visualisez votre nouvelle réalité."
+       "t": "Bien, concentrez et visualisez votre"
       },
       {
        "nl": true
       },
       {
-       "t": "Votre volonté vous guidera vers un autre état."
+       "t": "nouvelle réalité. Votre volonté vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "guidera vers un autre "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " état."
       }
      ]
     }
@@ -971,7 +1046,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien, concentrez et visualisez votre nouvelle réalité.\nVotre volonté vous guidera vers un autre état.",
+   "brut_fr": "Bien, concentrez et visualisez votre\nnouvelle réalité. Votre volonté vous\nguidera vers un autre [1205][U+000F] état.",
    "brut_en": "Then[SP]concentrate[SP]and[SP]envision[SP]your[SP]new[SP]reality.\nThe[SP]strength[SP]of[SP]your[SP]will[SP]shall[SP]lead[SP]you[SP]to\nanother[SP]state.",
    "data_size": 242,
    "budget": 234
@@ -991,42 +1066,42 @@
        "pause": true
       },
       {
-       "t": " Je suis"
+       "t": " Je suis certaine"
       },
       {
        "nl": true
       },
       {
-       "t": "certaine de pas t'oublier maintenant, "
+       "t": "de pas t'oublier maintenant, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": "..."
+       "t": "... "
       },
       {
-       "nl": true
+       "pause": true
       }
      ]
     },
     {
-     "nom": "Philémon",
+     "nom": "Philémon Maintenant... on ne se reverra pas",
      "seg": [
       {
-       "t": "Maintenant... on ne se reverra pas avant"
+       "t": "avant longtemps. Souhaites-tu dire quelque"
       },
       {
        "nl": true
       },
       {
-       "t": "longtemps. Souhaites-tu dire quelque chose avant"
+       "t": "chose"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "de partir?"
+       "t": " avant de partir?"
       }
      ]
     }
@@ -1084,7 +1159,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pour porter chance...[1205][001E] Je suis\ncertaine de pas t'oublier maintenant, [1113]...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Philémon\nMaintenant... on ne se reverra pas avant\nlongtemps. Souhaites-tu dire quelque chose avant\nde partir?",
+   "brut_fr": "C'est pour porter chance...[1205][001E] Je suis certaine\nde pas t'oublier maintenant, [1113]... [E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Philémon Maintenant... on ne se reverra pas\navant longtemps. Souhaites-tu dire quelque\nchose[1205][U+000F] avant de partir?",
    "brut_en": "Just[SP]a[SP]little[SP]something[SP]for[SP]luck...[1205][001E][SP]I'm[SP]sure\nI[SP]won't[SP]forget[SP]you[SP]now,[SP][1113]...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Philemon\nNow...[SP]We[SP]will[SP]not[SP]see[SP]each[SP]other[SP]again[SP]for\nsome[SP]time.[SP]Is[SP]there[SP]anything[SP]you[SP]would[SP]like\nto[SP]say[SP]before[SP]you[SP]go?",
    "data_size": 428,
    "budget": 420
@@ -1098,7 +1173,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Souhaites-tu dire quelque chose avant de partir?"
+       "t": "Souhaites-tu dire quelque chose avant de "
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "partir?"
       }
      ]
     }
@@ -1121,12 +1202,18 @@
    ],
    "choix_fr": {
     "options": [
-     "Remercier",
+     "Remercier[1205]",
      "Frapper"
     ],
     "question": [
      {
-      "t": "Souhaites-tu dire quelque chose avant de partir?"
+      "t": "Souhaites-tu dire quelque chose avant de "
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "partir?"
      }
     ]
    },
@@ -1147,7 +1234,7 @@
      }
     ]
    },
-   "brut_fr": "Souhaites-tu dire quelque chose avant de partir?\n[1208][0002]Remercier\nFrapper",
+   "brut_fr": "Souhaites-tu dire quelque chose avant de \npartir?\n[1208][0002]Remercier[1205][U+000F]\nFrapper",
    "brut_en": "Is[SP]there[SP]anything[SP]you[SP]would[SP]like[SP]to[SP]say\nbefore[SP]you[SP]go?\n[1208][0002]Thank[SP]him\nHit[SP]him",
    "data_size": 178,
    "budget": 170
@@ -1167,7 +1254,13 @@
        "nl": true
       },
       {
-       "t": "que vous surpassiez les lois inexprimées du"
+       "t": "que vous surpassiez les lois inexprimées "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " du"
       },
       {
        "nl": true
@@ -1202,7 +1295,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nul besoin de me remercier. Je prierais pour\nque vous surpassiez les lois inexprimées du\ndestin et vous rappelez de chacun... Adieu.",
+   "brut_fr": "Nul besoin de me remercier. Je prierais pour\nque vous surpassiez les lois inexprimées [1205][U+000F] du\ndestin et vous rappelez de chacun... Adieu.",
    "brut_en": "There[SP]is[SP]no[SP]need[SP]to[SP]thank[SP]me.[SP]I[SP]shall[SP]pray\nthat[SP]you[SP]break[SP]through[SP]the[SP]unwritten[SP]laws[SP]of\ndestiny[SP]and[SP]remember[SP]each[SP]other...[SP]Farewell.",
    "data_size": 294,
    "budget": 286
@@ -1216,13 +1309,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je suis Philémon, résident de l'interstice entre"
+       "t": "Je suis Philémon, résident de l'interstice"
       },
       {
        "nl": true
       },
       {
-       "t": "le conscient et l'inconscient des âmes..."
+       "t": "entre le conscient et l'inconscient des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "âmes..."
       }
      ]
     }
@@ -1251,7 +1350,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je suis Philémon, résident de l'interstice entre\nle conscient et l'inconscient des âmes...",
+   "brut_fr": "Je suis Philémon, résident de l'interstice\nentre le conscient et l'inconscient des\nâmes...",
    "brut_en": "I[SP]am[SP]Philemon,[SP]a[SP]dweller[SP]in[SP]the[SP]rift[SP]between\nconsciousness[SP]and[SP]unconsciousness[SP]of[SP]all\nsouls...",
    "data_size": 218,
    "budget": 210

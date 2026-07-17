@@ -13,19 +13,19 @@
        "enc": "Je l'ai fait,"
       },
       {
-       "t": "! Idiot d'Eikichi!"
+       "t": "! Idiot d'Eikichi! Juste après"
       },
       {
        "nl": true
       },
       {
-       "t": "Juste après avoir dit de ne pas avoir de pensées"
+       "t": "avoir dit de ne pas avoir de pensées"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "comme ça!"
+       "t": " comme ça!"
       }
      ]
     }
@@ -57,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Je l'ai fait,[1432][NULL][NULL][0014]! Idiot d'Eikichi!\nJuste après avoir dit de ne pas avoir de pensées\ncomme ça!",
+   "brut_fr": "[1432][NULL][NULL][0014]Je l'ai fait,[1432][NULL][NULL][0014]! Idiot d'Eikichi! Juste après\navoir dit de ne pas avoir de pensées[1205][U+000F] comme ça!",
    "brut_en": "[1432][NULL][NULL][0014]I[SP]did[SP]it,[1432][NULL][NULL][0014][SP]my[SP]ass![SP]Stupid[SP]Eikichi![SP]And[SP]after\nwe[SP]just[SP]talked[SP]about[SP]not[SP]thinking[SP]of[SP]stuff\nlike[SP]that!",
    "data_size": 232,
    "budget": 224
@@ -71,13 +71,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bahaha! Désolé, désolé."
+       "t": "Bahaha! Désolé, désolé. Mais j'ai uniquement"
       },
       {
        "nl": true
       },
       {
-       "t": "Mais j'ai uniquement peur de ça, c'est bon maintenant!"
+       "t": "peur de ça, c'est bon maintenant!"
       }
      ]
     }
@@ -100,7 +100,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bahaha! Désolé, désolé.\nMais j'ai uniquement peur de ça, c'est bon maintenant!",
+   "brut_fr": "Bahaha! Désolé, désolé. Mais j'ai uniquement\npeur de ça, c'est bon maintenant!",
    "brut_en": "Bwahahah![SP]Sorry,[SP]sorry.[SP]But[SP]that[SP]was[SP]the[SP]only\nthing[SP]I'm[SP]scared[SP]of,[SP]so[SP]we're[SP]good!",
    "data_size": 188,
    "budget": 180
@@ -114,13 +114,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oui, je vois que t'as appris ta leçon."
+       "t": "Oui, je vois que t'as appris"
       },
       {
        "nl": true
       },
       {
-       "t": "Allez, c'est parti."
+       "t": "ta leçon. Allez, c'est parti."
       }
      ]
     }
@@ -143,7 +143,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oui, je vois que t'as appris ta leçon.\nAllez, c'est parti.",
+   "brut_fr": "Oui, je vois que t'as appris\nta leçon. Allez, c'est parti.",
    "brut_en": "Yes,[SP]I[SP]can[SP]see[SP]you've[SP]learned[SP]your[SP]lesson.\nC'mon,[SP]let's[SP]go...",
    "data_size": 144,
    "budget": 136
@@ -157,13 +157,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je me sens bien! Je ne suis plus le même Eikichi!"
+       "t": "Je me sens bien! Je ne suis plus le même"
       },
       {
        "nl": true
       },
       {
-       "t": "Désormais appelez-moi Eikichi 2!"
+       "t": "Eikichi! Désormais appelez-moi Eikichi 2!"
       }
      ]
     }
@@ -192,7 +192,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me sens bien! Je ne suis plus le même Eikichi!\nDésormais appelez-moi Eikichi 2!",
+   "brut_fr": "Je me sens bien! Je ne suis plus le même\nEikichi! Désormais appelez-moi Eikichi 2!",
    "brut_en": "Ow![SP]I[SP]feel[SP]good![SP]I'm[SP]not[SP]the[SP]same[SP]Michel\nyou[SP]knew[SP]anymore![SP]From[SP]now[SP]on,[SP]consider[SP]me\nMichel[SP]Mark[SP]2!",
    "data_size": 222,
    "budget": 214
@@ -212,7 +212,13 @@
        "pause": true
       },
       {
-       "t": " Eikichi est toujours aussi stupide qu'avant."
+       "t": " Eikichi est toujours"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aussi stupide qu'avant."
       }
      ]
     }
@@ -241,7 +247,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pfff...[1205][001E] Eikichi est toujours aussi stupide qu'avant.",
+   "brut_fr": "Pfff...[1205][001E] Eikichi est toujours\naussi stupide qu'avant.",
    "brut_en": "Geez...[1205][001E][SP]Eikichi[SP]hasn't[SP]gotten[SP]any[SP]smarter\nsince[SP]we[SP]were[SP]kids.",
    "data_size": 148,
    "budget": 140
@@ -255,16 +261,22 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ça me rappelle quand il a pleuré après être tombé"
+       "t": "Ça me rappelle quand il a pleuré après"
       },
       {
        "nl": true
       },
       {
-       "t": "dans une gouttière car il ne regardait pas"
+       "t": "être tombé dans une gouttière car il"
       },
       {
        "nl": true
+      },
+      {
+       "t": "ne regardait pas"
+      },
+      {
+       "pause": true
       },
       {
        "t": " où il marchait."
@@ -296,7 +308,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça me rappelle quand il a pleuré après être tombé\ndans une gouttière car il ne regardait pas\n où il marchait.",
+   "brut_fr": "Ça me rappelle quand il a pleuré après\nêtre tombé dans une gouttière car il\nne regardait pas[1205][U+000F] où il marchait.",
    "brut_en": "It[SP]reminds[SP]me[SP]of[SP]the[SP]time[SP]he[SP]wasn't[SP]looking\nwhere[SP]he[SP]was[SP]going,[SP]and[SP]got[SP]stuck[SP]in[SP]the\ngutter[SP]and[SP]cried[SP]his[SP]eyes[SP]out.",
    "data_size": 252,
    "budget": 244
@@ -316,13 +328,13 @@
        "pause": true
       },
       {
-       "t": " Père n'a"
-      },
-      {
        "nl": true
       },
       {
-       "t": "jamais parlé de ça..."
+       "t": "Père n'a jamais parlé de ça..."
+      },
+      {
+       "pause": true
       },
       {
        "pause": true
@@ -372,7 +384,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les pensées qui deviennent réelles...[1205][001E] Père n'a\njamais parlé de ça...[1205][001E]\nQu’est-ce que c’est que Xibalba?",
+   "brut_fr": "Les pensées qui deviennent réelles...[1205][001E]\nPère n'a jamais parlé de ça...[1205][001E][1205][U+000F]\nQu’est-ce que c’est que Xibalba?",
    "brut_en": "Thoughts[SP]becoming[SP]reality...[1205][001E][SP]Father[SP]never\ntold[SP]me[SP]anything[SP]about[SP]this...[1205][001E][SP]What[SP]in[SP]the\nworld[SP]is[SP]Xibalba?",
    "data_size": 230,
    "budget": 222
@@ -398,13 +410,19 @@
        "pause": true
       },
       {
-       "t": " Eh bah sacrées"
+       "t": " Eh"
       },
       {
        "nl": true
       },
       {
-       "t": "pensées, en tout cas."
+       "t": "bah sacrées"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pensées, en tout cas."
       }
      ]
     }
@@ -439,7 +457,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On est maintenant sûrs qu'à Xibalba\nles pensées deviennent réelles.[1205][001E] Eh bah sacrées\npensées, en tout cas.",
+   "brut_fr": "On est maintenant sûrs qu'à Xibalba\nles pensées deviennent réelles.[1205][001E] Eh\nbah sacrées[1205][U+000F] pensées, en tout cas.",
    "brut_en": "At[SP]least[SP]we[SP]know[SP]for[SP]sure[SP]now[SP]that[SP]here[SP]in\nXibalba,[SP]thoughts[SP]become[SP]reality.[1205][001E][SP]Well,[SP]some\nthoughts,[SP]anyway.",
    "data_size": 234,
    "budget": 226

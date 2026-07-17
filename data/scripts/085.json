@@ -59,13 +59,7 @@
        "pause": true
       },
       {
-       "t": " Vous n'étiez pas du"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Bataillon."
+       "t": " Vous n'étiez pas du Bataillon."
       }
      ]
     }
@@ -94,7 +88,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vois...[1205][001E] Vous n'étiez pas du\nBataillon.",
+   "brut_fr": "Je vois...[1205][001E] Vous n'étiez pas du Bataillon.",
    "brut_en": "I[SP]see...[1205][001E][SP]So[SP]you[SP]weren't[SP]part[SP]of[SP]the\nLast[SP]Battalion.",
    "data_size": 138,
    "budget": 130
@@ -114,13 +108,13 @@
        "pause": true
       },
       {
-       "t": " C'est"
+       "t": " C'est quoi"
       },
       {
        "nl": true
       },
       {
-       "t": "quoi ce... bata... lion... machin!?"
+       "t": "ce... bata... lion... machin!?"
       }
      ]
     }
@@ -149,7 +143,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On vous le demande...[1205][001E] C'est\nquoi ce... bata... lion... machin!?",
+   "brut_fr": "On vous le demande...[1205][001E] C'est quoi\nce... bata... lion... machin!?",
    "brut_en": "We[SP]keep[SP]asking[SP]you...[1205][001E][SP]What[SP]is[SP]this...\nbattle...[SP]lion...[SP]thing!?",
    "data_size": 158,
    "budget": 150
@@ -169,13 +163,13 @@
        "hero": "prenom"
       },
       {
-       "t": ". Ça va? La ville"
+       "t": ". Ça va? La"
       },
       {
        "nl": true
       },
       {
-       "t": "était un chaos, hein?"
+       "t": "ville était un chaos, hein?"
       }
      ]
     }
@@ -204,7 +198,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Yo, [1113]. Ça va? La ville\nétait un chaos, hein?",
+   "brut_fr": "Yo, [1113]. Ça va? La\nville était un chaos, hein?",
    "brut_en": "Yo,[SP][1113].[SP]No[SP]problems?[SP]The[SP]city[SP]was[SP]a\nmess,[SP]huh?",
    "data_size": 118,
    "budget": 110
@@ -218,25 +212,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je pige rien aux délires de"
+       "t": "Je pige rien aux délires de cette"
       },
       {
        "nl": true
       },
       {
-       "t": "cette femme..."
+       "t": "femme..."
       },
       {
        "pause": true
       },
       {
-       "t": " Sérieux,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "il se passe quoi?"
+       "t": " Sérieux, il se passe quoi?"
       }
      ]
     }
@@ -262,7 +250,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je pige rien aux délires de\ncette femme...[1205][001E] Sérieux,\nil se passe quoi?",
+   "brut_fr": "Je pige rien aux délires de cette\nfemme...[1205][001E] Sérieux, il se passe quoi?",
    "brut_en": "I[SP]can't[SP]make[SP]sense[SP]of[SP]this[SP]woman's[SP]ravings...[1205][001E]\nSeriously,[SP]what's[SP]going[SP]on?",
    "data_size": 178,
    "budget": 170
@@ -276,31 +264,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "On a répandu la rumeur, comme"
+       "t": "On a répandu la rumeur, comme Maya l'a"
       },
       {
        "nl": true
       },
       {
-       "t": "Maya l'a suggéré, mais..."
+       "t": "suggéré, mais..."
       },
       {
        "pause": true
       },
       {
-       "t": " Le reste"
+       "t": " Le reste est incertain."
       },
       {
        "nl": true
       },
       {
-       "t": "est incertain. On devrait se préparer"
+       "t": "On devrait se préparer"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "au pire."
+       "t": " au pire."
       }
      ]
     }
@@ -335,7 +323,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On a répandu la rumeur, comme\nMaya l'a suggéré, mais...[1205][001E] Le reste\nest incertain. On devrait se préparer\nau pire.",
+   "brut_fr": "On a répandu la rumeur, comme Maya l'a\nsuggéré, mais...[1205][001E] Le reste est incertain.\nOn devrait se préparer[1205][U+000F] au pire.",
    "brut_en": "We[SP]spread[SP]the[SP]rumor,[SP]like[SP]Maya-san[SP]suggested,\nbut...[1205][001E][SP]The[SP]rest[SP]is[SP]still[SP]up[SP]in[SP]the[SP]air.[SP]We[SP]should\nbrace[SP]ourselves[SP]for[SP]the[SP]worst.",
    "data_size": 282,
    "budget": 274
@@ -380,25 +368,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Les enfants affirment avoir été"
+       "t": "... Les enfants affirment avoir été sauvés"
       },
       {
        "nl": true
       },
       {
-       "t": "sauvés par les cinq individus"
+       "t": "par les cinq individus actuellement"
       },
       {
        "nl": true
       },
       {
-       "t": "actuellement recherchés pour"
+       "t": "recherchés pour"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "incendie criminel."
+       "t": " incendie criminel."
       }
      ]
     }
@@ -427,7 +415,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Les enfants affirment avoir été\nsauvés par les cinq individus\nactuellement recherchés pour\nincendie criminel.",
+   "brut_fr": "... Les enfants affirment avoir été sauvés\npar les cinq individus actuellement\nrecherchés pour[1205][U+000F] incendie criminel.",
    "brut_en": "...And[SP]we've[SP]just[SP]heard[SP]from[SP]the[SP]children\nwho[SP]claim[SP]to[SP]have[SP]been[SP]saved[SP]by[SP]the[SP]five\nindividuals[SP]currently[SP]wanted[SP]for[SP]arson.",
    "data_size": 280,
    "budget": 272
@@ -441,31 +429,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une version les dépeint comme de"
+       "t": "Une version les dépeint comme de vicieux"
       },
       {
        "nl": true
       },
       {
-       "t": "vicieux terroristes, l'autre en fait"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "des héros..."
+       "t": "terroristes, l'autre en fait des héros..."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais laquelle de"
-      },
-      {
        "nl": true
       },
       {
-       "t": "ces rumeurs est vraie?"
+       "t": "Mais laquelle de"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ces rumeurs est vraie?"
       }
      ]
     }
@@ -500,7 +485,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une version les dépeint comme de\nvicieux terroristes, l'autre en fait\ndes héros...[1205][001E] Mais laquelle de\nces rumeurs est vraie?",
+   "brut_fr": "Une version les dépeint comme de vicieux\nterroristes, l'autre en fait des héros...[1205][001E]\nMais laquelle de[1205][U+000F] ces rumeurs est vraie?",
    "brut_en": "One[SP]side[SP]of[SP]the[SP]story[SP]paints[SP]them[SP]as[SP]vicious\nterrorists,[SP]while[SP]the[SP]other[SP]portrays[SP]them[SP]as\nheroes...[1205][001E][SP]But[SP]which[SP]of[SP]the[SP]rumors[SP]is[SP]true?",
    "data_size": 300,
    "budget": 292
@@ -563,25 +548,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Certains disent que c'est l'œuvre"
+       "t": "Certains disent que c'est l'œuvre de"
       },
       {
        "nl": true
       },
       {
-       "t": "de radicaux du Führer,"
+       "t": "radicaux du Führer, cherchant des"
       },
       {
        "nl": true
       },
       {
-       "t": "cherchant des ruines antiques cachées"
+       "t": "ruines antiques cachées"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "dans Sumaru..."
+       "t": " dans Sumaru..."
       }
      ]
     }
@@ -610,7 +595,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Certains disent que c'est l'œuvre\nde radicaux du Führer,\ncherchant des ruines antiques cachées\ndans Sumaru...",
+   "brut_fr": "Certains disent que c'est l'œuvre de\nradicaux du Führer, cherchant des\nruines antiques cachées[1205][U+000F] dans Sumaru...",
    "brut_en": "Some[SP]are[SP]claiming[SP]that[SP]it[SP]was[SP]the[SP]work[SP]of\nthe[SP]remaining[SP]radicals[SP]of[SP]the[SP]Fuhrer[SP]seeking\nancient[SP]ruins[SP]hidden[SP]in[SP]Sumaru[SP]City...",
    "data_size": 286,
    "budget": 278
@@ -633,19 +618,19 @@
        "enc": "Bataillon"
       },
       {
-       "t": " existe. C'est une"
+       "t": " existe. C'est une rumeur"
       },
       {
        "nl": true
       },
       {
-       "t": "rumeur infondée, purement et"
+       "t": "infondée, purement et"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "simplement."
+       "t": " simplement."
       }
      ]
     }
@@ -677,7 +662,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est absurde! Impossible que ce\n[1432][NULL][NULL][0014]Bataillon[1432][NULL][NULL][0014] existe. C'est une\nrumeur infondée, purement et\nsimplement.",
+   "brut_fr": "C'est absurde! Impossible que ce\n[1432][NULL][NULL][0014]Bataillon[1432][NULL][NULL][0014] existe. C'est une rumeur\ninfondée, purement et[1205][U+000F] simplement.",
    "brut_en": "That's[SP]preposterous![SP]There's[SP]no[SP]way[SP]this\n[1432][NULL][NULL][0014]Last[SP]Battalion[1432][NULL][NULL][0014][SP]could[SP]exist.[SP]It's[SP]a\nbaseless[SP]rumor,[SP]pure[SP]and[SP]simple.",
    "data_size": 306,
    "budget": 298
@@ -691,25 +676,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous dites ça, mais des récits du"
+       "t": "Vous dites ça, mais des récits du monde"
       },
       {
        "nl": true
       },
       {
-       "t": "monde entier suggèrent qu'il"
+       "t": "entier suggèrent qu'il existe! Des témoins"
       },
       {
        "nl": true
       },
       {
-       "t": "existe! Des témoins fiables disent"
+       "t": "fiables disent"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "que le Führer vit..."
+       "t": " que le Führer vit..."
       }
      ]
     }
@@ -738,7 +723,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous dites ça, mais des récits du\nmonde entier suggèrent qu'il\nexiste! Des témoins fiables disent\nque le Führer vit...",
+   "brut_fr": "Vous dites ça, mais des récits du monde\nentier suggèrent qu'il existe! Des témoins\nfiables disent[1205][U+000F] que le Führer vit...",
    "brut_en": "So[SP]you[SP]say,[SP]but[SP]there[SP]are[SP]accounts[SP]from\naround[SP]the[SP]globe[SP]hinting[SP]at[SP]its[SP]existence!\nReliable[SP]witnesses[SP]say[SP]the[SP]Fuhrer[SP]lives...",
    "data_size": 302,
    "budget": 294
@@ -752,19 +737,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ils ont raison! Le Bataillon"
+       "t": "Ils ont raison! Le Bataillon existe!"
       },
       {
        "nl": true
       },
       {
-       "t": "existe! Ce sont eux qui ont"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "tué Kashihara!"
+       "t": "Ce sont eux qui ont tué Kashihara!"
       }
      ]
     }
@@ -787,7 +766,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils ont raison! Le Bataillon\nexiste! Ce sont eux qui ont\ntué Kashihara!",
+   "brut_fr": "Ils ont raison! Le Bataillon existe!\nCe sont eux qui ont tué Kashihara!",
    "brut_en": "They're[SP]right![SP]The[SP]Last[SP]Battalion[SP]does\nexist![SP]It[SP]was[SP]them[SP]who[SP]killed[SP]Kashihara!",
    "data_size": 190,
    "budget": 182
@@ -850,19 +829,19 @@
        "pause": true
       },
       {
-       "t": " Bien, tout le monde"
+       "t": " Bien, tout le monde est là."
       },
       {
        "nl": true
       },
       {
-       "t": "est là. Pourriez-vous commencer"
+       "t": "Pourriez-vous commencer par dire ce que vous"
       },
       {
        "nl": true
       },
       {
-       "t": "par dire ce que vous savez?"
+       "t": "savez?"
       }
      ]
     }
@@ -897,7 +876,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh, euh...[1205][001E] Bien, tout le monde\nest là. Pourriez-vous commencer\npar dire ce que vous savez?",
+   "brut_fr": "Oh, euh...[1205][001E] Bien, tout le monde est là.\nPourriez-vous commencer par dire ce que vous\nsavez?",
    "brut_en": "Oh,[SP]uh...[1205][001E][SP]Okay,[SP]I[SP]guess[SP]everyone's[SP]here\nnow,[SP]so[SP]could[SP]you[SP]start[SP]by[SP]telling[SP]us[SP]what\nyou[SP]know?",
    "data_size": 214,
    "budget": 206
@@ -911,19 +890,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Avant ça, je veux savoir certaines"
+       "t": "Avant ça, je veux savoir certaines choses."
       },
       {
        "nl": true
       },
       {
-       "t": "choses. Comment... connaissez-vous"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "l'Oracle de Maia?"
+       "t": "Comment... connaissez-vous l'Oracle de Maia?"
       }
      ]
     }
@@ -952,7 +925,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Avant ça, je veux savoir certaines\nchoses. Comment... connaissez-vous\nl'Oracle de Maia?",
+   "brut_fr": "Avant ça, je veux savoir certaines choses.\nComment... connaissez-vous l'Oracle de Maia?",
    "brut_en": "Before[SP]that,[SP]I[SP]want[SP]to[SP]know[SP]some[SP]things\nfrom[SP]you.[SP]How...[SP]do[SP]you[SP]know[SP]about[SP]the\nOracle[SP]of[SP]Maia?",
    "data_size": 220,
    "budget": 212
@@ -972,19 +945,13 @@
        "pause": true
       },
       {
-       "t": " Il est donc"
+       "t": " Il est donc indéniable"
       },
       {
        "nl": true
       },
       {
-       "t": "indéniable que le Cercle masqué"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "est le Bataillon!"
+       "t": "que le Cercle masqué est le Bataillon!"
       }
      ]
     }
@@ -1013,7 +980,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "A-Alors c'est ça!?[1205][001E] Il est donc\nindéniable que le Cercle masqué\nest le Bataillon!",
+   "brut_fr": "A-Alors c'est ça!?[1205][001E] Il est donc indéniable\nque le Cercle masqué est le Bataillon!",
    "brut_en": "S-So[SP]that's[SP]it!?[1205][001E][SP]Then[SP]there's[SP]no[SP]denying[SP]that\nthe[SP]Masked[SP]Circle[SP]is[SP]the[SP]Last[SP]Battalion!",
    "data_size": 208,
    "budget": 200
@@ -1027,19 +994,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le Bataillon est l'unité"
+       "t": "Le Bataillon est l'unité qui a"
       },
       {
        "nl": true
       },
       {
-       "t": "qui a aidé le Führer à"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "fuir en secret!"
+       "t": "aidé le Führer à fuir en secret!"
       }
      ]
     }
@@ -1062,7 +1023,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Bataillon est l'unité\nqui a aidé le Führer à\nfuir en secret!",
+   "brut_fr": "Le Bataillon est l'unité qui a\naidé le Führer à fuir en secret!",
    "brut_en": "The[SP]Last[SP]Battalion[SP]is[SP]an[SP]elite[SP]unit[SP]which\nhelped[SP]the[SP]Fuhrer[SP]escape[SP]in[SP]secret!",
    "data_size": 186,
    "budget": 178
@@ -1076,25 +1037,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Une armée folle avec des armes de"
+       "t": "Une armée folle avec des armes de pointe et"
       },
       {
        "nl": true
       },
       {
-       "t": "pointe et une relique ayant absorbé le"
+       "t": "une relique ayant absorbé le sang du Christ,"
       },
       {
        "nl": true
       },
       {
-       "t": "sang du Christ, résolue à assouvir la"
+       "t": "résolue à assouvir la"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "rancune du Führer!"
+       "t": " rancune du Führer!"
       }
      ]
     }
@@ -1123,7 +1084,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une armée folle avec des armes de\npointe et une relique ayant absorbé le\nsang du Christ, résolue à assouvir la\nrancune du Führer!",
+   "brut_fr": "Une armée folle avec des armes de pointe et\nune relique ayant absorbé le sang du Christ,\nrésolue à assouvir la[1205][U+000F] rancune du Führer!",
    "brut_en": "An[SP]insane[SP]army[SP]with[SP]cutting-edge[SP]weaponry[SP]and\na[SP]powerful[SP]relic[SP]that[SP]absorbed[SP]Christ's[SP]blood,\nbent[SP]on[SP]enacting[SP]the[SP]Fuhrer's[SP]grudge!",
    "data_size": 292,
    "budget": 284
@@ -1192,19 +1153,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tout est dans ce livre... Ce qu'ils"
+       "t": "Tout est dans ce livre... Ce qu'ils font est"
       },
       {
        "nl": true
       },
       {
-       "t": "font est conforme à l'Oracle de Maia"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "dans l'"
+       "t": "conforme à l'Oracle de Maia dans l'"
       },
       {
        "enc": "In Lak'ech"
@@ -1245,7 +1200,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tout est dans ce livre... Ce qu'ils\nfont est conforme à l'Oracle de Maia\ndans l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014]!",
+   "brut_fr": "Tout est dans ce livre... Ce qu'ils font est\nconforme à l'Oracle de Maia dans l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014]!",
    "brut_en": "It's[SP]all[SP]in[SP]this[SP]book...[SP]Everything[SP]they're\ndoing[SP]is[SP]in[SP]accordance[SP]with[SP]the[SP]Oracle[SP]of\nMaia[SP]in[SP]the[SP][1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014]!",
    "data_size": 266,
    "budget": 258
@@ -1259,31 +1214,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'Oracle de Maia fut laissé par les"
+       "t": "L'Oracle de Maia fut laissé par les aliens"
       },
       {
        "nl": true
       },
       {
-       "t": "aliens Pléiadiens qui ont civilisé"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "les humains..."
+       "t": "Pléiadiens qui ont civilisé les humains..."
       },
       {
        "pause": true
       },
       {
-       "t": " C'est un message"
-      },
-      {
        "nl": true
       },
       {
-       "t": "confié par les Maïens!"
+       "t": "C'est un message"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " confié par les Maïens!"
       }
      ]
     }
@@ -1315,7 +1267,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'Oracle de Maia fut laissé par les\naliens Pléiadiens qui ont civilisé\nles humains...[1205][001E] C'est un message\nconfié par les Maïens!",
+   "brut_fr": "L'Oracle de Maia fut laissé par les aliens\nPléiadiens qui ont civilisé les humains...[1205][001E]\nC'est un message[1205][U+000F] confié par les Maïens!",
    "brut_en": "The[SP]Oracle[SP]of[SP]Maia[SP]was[SP]left[SP]by[SP]the[SP]Pleiades\naliens[SP]who[SP]gifted[SP]humans[SP]with[SP]civilization...[1205][001E]\nIt's[SP]a[SP]message[SP]entrusted[SP]to[SP]us[SP]by[SP]the[SP]Maians!",
    "data_size": 306,
    "budget": 298
@@ -1372,25 +1324,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Vous pensiez qu'on a évolué du singe"
+       "t": "Vous pensiez qu'on a évolué du singe tout"
       },
       {
        "nl": true
       },
       {
-       "t": "tout seuls!? L'histoire n'a pas la"
+       "t": "seuls!? L'histoire n'a pas la réponse!"
       },
       {
        "nl": true
       },
       {
-       "t": "réponse! Comment l'Homme est allé"
+       "t": "Comment l'Homme est allé"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "si loin, si vite!?"
+       "t": " si loin, si vite!?"
       }
      ]
     }
@@ -1419,7 +1371,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Vous pensiez qu'on a évolué du singe\ntout seuls!? L'histoire n'a pas la\nréponse! Comment l'Homme est allé\nsi loin, si vite!?",
+   "brut_fr": "Vous pensiez qu'on a évolué du singe tout\nseuls!? L'histoire n'a pas la réponse!\nComment l'Homme est allé[1205][U+000F] si loin, si vite!?",
    "brut_en": "Did[SP]you[SP]really[SP]think[SP]we[SP]evolved[SP]from[SP]apes[SP]on\nour[SP]own!?[SP]The[SP]answers[SP]aren't[SP]in[SP]the[SP]history\nbooks![SP]How[SP]did[SP]man[SP]come[SP]so[SP]far,[SP]so[SP]fast!?",
    "data_size": 292,
    "budget": 284
@@ -1439,19 +1391,19 @@
        "nl": true
       },
       {
-       "t": "présence passée! Cela prouve que"
+       "t": "présence passée! Cela prouve que l'humanité"
       },
       {
        "nl": true
       },
       {
-       "t": "l'humanité a été guidée par une"
+       "t": "a été guidée par une"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "race avancée!"
+       "t": " race avancée!"
       }
      ]
     }
@@ -1480,7 +1432,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a des preuves mondiales de leur\nprésence passée! Cela prouve que\nl'humanité a été guidée par une\nrace avancée!",
+   "brut_fr": "Il y a des preuves mondiales de leur\nprésence passée! Cela prouve que l'humanité\na été guidée par une[1205][U+000F] race avancée!",
    "brut_en": "There's[SP]evidence[SP]all[SP]over[SP]the[SP]world[SP]of[SP]their\npresence[SP]in[SP]ancient[SP]times![SP]It[SP]proves[SP]that\nmankind[SP]was[SP]guided[SP]by[SP]an[SP]advanced[SP]race!",
    "data_size": 284,
    "budget": 276
@@ -1494,19 +1446,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Kashihara, qui a tenté de le"
+       "t": "Kashihara, qui a tenté de le prouver, était"
       },
       {
        "nl": true
       },
       {
-       "t": "prouver, était un homme bon"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "avec des rêves concrets..."
+       "t": "un homme bon avec des rêves concrets..."
       }
      ]
     }
@@ -1535,7 +1481,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Kashihara, qui a tenté de le\nprouver, était un homme bon\navec des rêves concrets...",
+   "brut_fr": "Kashihara, qui a tenté de le prouver, était\nun homme bon avec des rêves concrets...",
    "brut_en": "Kashihara,[SP]who[SP]tried[SP]to[SP]prove[SP]it,[SP]was[SP]a\nkind[SP]man[SP]with[SP]a[SP]strong[SP]resolve[SP]and[SP]concrete\ndreams...",
    "data_size": 218,
    "budget": 210
@@ -1549,25 +1495,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai travaillé avec le médium Sudou"
+       "t": "J'ai travaillé avec le médium Sudou et"
       },
       {
        "nl": true
       },
       {
-       "t": "et Kashihara..."
+       "t": "Kashihara..."
       },
       {
        "pause": true
       },
       {
-       "t": " Ce livre est le"
+       "t": " Ce livre est le fruit de notre"
       },
       {
        "nl": true
       },
       {
-       "t": "fruit de notre rêve..."
+       "t": "rêve..."
       }
      ]
     }
@@ -1602,7 +1548,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai travaillé avec le médium Sudou\net Kashihara...[1205][001E] Ce livre est le\nfruit de notre rêve...",
+   "brut_fr": "J'ai travaillé avec le médium Sudou et\nKashihara...[1205][001E] Ce livre est le fruit de notre\nrêve...",
    "brut_en": "I[SP]worked[SP]with[SP]Sudou-kun,[SP]the[SP]medium,[SP]and\nKashihara...[1205][001E][SP]This[SP]book[SP]is[SP]the[SP]fruit[SP]of\nwe[SP]three's[SP]dream...",
    "data_size": 234,
    "budget": 226
@@ -1683,31 +1629,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sous nous, le monde souterrain où"
+       "t": "Sous nous, le monde souterrain où dorment"
       },
       {
        "nl": true
       },
       {
-       "t": "dorment les Maïens..."
+       "t": "les Maïens..."
       },
       {
        "pause": true
       },
       {
-       "t": " Le Vaisseau"
+       "t": " Le Vaisseau Xibalba y est!"
       },
       {
        "nl": true
       },
       {
-       "t": "Xibalba y est! De nombreuses"
+       "t": "De nombreuses"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "civilisations y sont nées..."
+       "t": " civilisations y sont nées..."
       }
      ]
     }
@@ -1742,7 +1688,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sous nous, le monde souterrain où\ndorment les Maïens...[1205][001E] Le Vaisseau\nXibalba y est! De nombreuses\ncivilisations y sont nées...",
+   "brut_fr": "Sous nous, le monde souterrain où dorment\nles Maïens...[1205][001E] Le Vaisseau Xibalba y est!\nDe nombreuses[1205][U+000F] civilisations y sont nées...",
    "brut_en": "Underneath[SP]us[SP]is[SP]the[SP]netherworld[SP]where[SP]the\nMaians[SP]sleep...[1205][001E][SP]The[SP]Starship[SP]Xibalba[SP]is[SP]there!\nAll[SP]sorts[SP]of[SP]civilizations[SP]originated[SP]here...",
    "data_size": 306,
    "budget": 298
@@ -1756,31 +1702,37 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais les anciens Maïens d'ici"
+       "t": "Mais les anciens Maïens d'ici sont morts dans"
       },
       {
        "nl": true
       },
       {
-       "t": "sont morts dans une guerre civile"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "intergalactique..."
+       "t": "une guerre civile intergalactique..."
       },
       {
        "pause": true
       },
       {
-       "t": " Les vainqueurs,"
+       "t": " Les"
       },
       {
        "nl": true
       },
       {
-       "t": "les Bolontiku, contrôlent Xibalba..."
+       "t": "vainqueurs,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " les Bolontiku, contrôlent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba..."
       }
      ]
     }
@@ -1815,7 +1767,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais les anciens Maïens d'ici\nsont morts dans une guerre civile\nintergalactique...[1205][001E] Les vainqueurs,\nles Bolontiku, contrôlent Xibalba...",
+   "brut_fr": "Mais les anciens Maïens d'ici sont morts dans\nune guerre civile intergalactique...[1205][001E] Les\nvainqueurs,[1205][U+000F] les Bolontiku, contrôlent\nXibalba...",
    "brut_en": "But[SP]the[SP]ancient[SP]Maians[SP]that[SP]thrived[SP]here[SP]died\nin[SP]an[SP]intergalactic[SP]civil[SP]war...[1205][001E][SP]The[SP]victors[SP]were\nthe[SP]Bolontiku[SP]race[SP]that[SP]controls[SP]Xibalba...",
    "data_size": 314,
    "budget": 306
@@ -1829,31 +1781,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les mythes mayas le prouvent. Bien"
+       "t": "Les mythes mayas le prouvent. Bien que cette"
       },
       {
        "nl": true
       },
       {
-       "t": "que cette civilisation soit un"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "souvenir ancien..."
+       "t": "civilisation soit un souvenir ancien..."
       },
       {
        "pause": true
       },
       {
-       "t": " Leurs ruines"
-      },
-      {
        "nl": true
       },
       {
-       "t": "étaient modelées sur Sumaru."
+       "t": "Leurs ruines"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " étaient modelées sur Sumaru."
       }
      ]
     }
@@ -1888,7 +1837,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les mythes mayas le prouvent. Bien\nque cette civilisation soit un\nsouvenir ancien...[1205][001E] Leurs ruines\nétaient modelées sur Sumaru.",
+   "brut_fr": "Les mythes mayas le prouvent. Bien que cette\ncivilisation soit un souvenir ancien...[1205][001E]\nLeurs ruines[1205][U+000F] étaient modelées sur Sumaru.",
    "brut_en": "The[SP]Mayan[SP]myths[SP]of[SP]South[SP]America[SP]prove[SP]it.\nThough[SP]that[SP]civilization[SP]is[SP]an[SP]ancient[SP]memory\nnow...[1205][001E][SP]Their[SP]ruins[SP]were[SP]all[SP]modeled[SP]on[SP]Sumaru.",
    "data_size": 306,
    "budget": 298
@@ -1908,33 +1857,30 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Pourquoi le Cercle masqué et le"
+       "t": " Pourquoi le Cercle"
       },
       {
        "nl": true
       },
       {
-       "t": "Bataillon veulent ce Xibalba?"
+       "t": "masqué et le Bataillon veulent ce Xibalba?"
       },
       {
-       "nl": true
+       "pause": true
       }
      ]
     },
     {
-     "nom": "Mme Idéale",
+     "nom": "Mme Idéale Car quand l'Oracle sera",
      "seg": [
       {
-       "t": "Car quand l'Oracle sera accompli,"
+       "t": "accompli,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Xibalba et les crânes de cristal"
+       "t": " Xibalba et les crânes de cristal"
       },
       {
        "nl": true
@@ -1995,7 +1941,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Q-Quelle imagination...[1205][001E]\nPourquoi le Cercle masqué et le\nBataillon veulent ce Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Mme Idéale\nCar quand l'Oracle sera accompli,\nXibalba et les crânes de cristal\nexauceront le rêve de l'humanité...",
+   "brut_fr": "Q-Quelle imagination...[1205][001E] Pourquoi le Cercle\nmasqué et le Bataillon veulent ce Xibalba?[1205][U+000F]\n[E1][E2][E3][E4][NULL][NULL]\"Mme Idéale Car quand l'Oracle sera\naccompli,[1205][U+000F] Xibalba et les crânes de cristal\nexauceront le rêve de l'humanité...",
    "brut_en": "T-Talk[SP]about[SP]a[SP]fertile[SP]imagination...[1205][001E]\nSo[SP]why[SP]is[SP]the[SP]Masked[SP]Circle[SP]and[SP]Last\nBattalion[SP]after[SP]this[SP]Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nBecause[SP]when[SP]the[SP]Oracle[SP]is[SP]fulfilled,\nXibalba[SP]and[SP]the[SP]crystal[SP]skulls[SP]will[SP]grant\nmankind's[SP]ultimate[SP]dream...",
    "data_size": 490,
    "budget": 482
@@ -2015,16 +1961,19 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Un état transhumain où on saisira"
+       "t": " Un état"
       },
       {
        "nl": true
       },
       {
-       "t": "le vrai sens de la vie."
+       "t": "transhumain où on saisira le vrai sens de la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vie."
       }
      ]
     }
@@ -2056,7 +2005,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça fera de nous des Idéaliens...[1205][001E]\nUn état transhumain où on saisira\nle vrai sens de la vie.",
+   "brut_fr": "Ça fera de nous des Idéaliens...[1205][001E] Un état\ntranshumain où on saisira le vrai sens de la\nvie.",
    "brut_en": "It[SP]will[SP]end[SP]in[SP]us[SP]becoming[SP]Idealians...[1205][001E]\nA[SP]transhuman[SP]state[SP]where[SP]we[SP]will[SP]understand\nthe[SP]true[SP]meaning[SP]of[SP]life.",
    "data_size": 254,
    "budget": 246
@@ -2125,13 +2074,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est loin d'être bien! En échange"
+       "t": "C'est loin d'être bien! En échange de"
       },
       {
        "nl": true
       },
       {
-       "t": "de l'évolution de certains, l'humanité"
+       "t": "l'évolution de certains, l'humanité"
       },
       {
        "nl": true
@@ -2166,7 +2115,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est loin d'être bien! En échange\nde l'évolution de certains, l'humanité\npérira! On évolue face à l'extinction!",
+   "brut_fr": "C'est loin d'être bien! En échange de\nl'évolution de certains, l'humanité\npérira! On évolue face à l'extinction!",
    "brut_en": "It's[SP]far[SP]from[SP]good![SP]In[SP]exchange[SP]for[SP]the\nevolution[SP]of[SP]a[SP]few,[SP]mankind[SP]will[SP]perish!\nOrganisms[SP]evolve[SP]when[SP]they[SP]face[SP]extinction!",
    "data_size": 280,
    "budget": 272
@@ -2198,10 +2147,10 @@
        "t": "C'est pour ça qu'on a gardé ça"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "secret!"
+       "t": " secret!"
       }
      ]
     }
@@ -2233,7 +2182,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand les formes-pensées Bolontiku\nprendront corps, ils détruiront tout![1205][001E]\nC'est pour ça qu'on a gardé ça\nsecret!",
+   "brut_fr": "Quand les formes-pensées Bolontiku\nprendront corps, ils détruiront tout![1205][001E]\nC'est pour ça qu'on a gardé ça[1205][U+000F] secret!",
    "brut_en": "When[SP]the[SP]Bolontiku[SP]thoughtforms[SP]take[SP]physical\nbodies,[SP]they[SP]will[SP]bring[SP]destruction[SP]to[SP]all![1205][001E]\nThat's[SP]why[SP]we[SP]didn't[SP]go[SP]public[SP]with[SP]this!",
    "data_size": 298,
    "budget": 290
@@ -2247,19 +2196,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "...Je veux vous montrer ici la"
+       "t": "... Je veux vous montrer ici la dernière"
       },
       {
        "nl": true
       },
       {
-       "t": "dernière sortie de notre division"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "livre, l'"
+       "t": "sortie de notre division livre, l'"
       },
       {
        "enc": "In Lak'ech"
@@ -2291,7 +2234,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...Je veux vous montrer ici la\ndernière sortie de notre division\nlivre, l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014].",
+   "brut_fr": "... Je veux vous montrer ici la dernière\nsortie de notre division livre, l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014].",
    "brut_en": "...I[SP]want[SP]to[SP]show[SP]you[SP]here[SP]the[SP]latest[SP]release\nfrom[SP]our[SP]book[SP]division,[SP]the[SP][1432][NULL][NULL][0014]In[SP]Lak'ech.[1432][NULL][NULL][0014]",
    "data_size": 254,
    "budget": 246
@@ -2305,25 +2248,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il est rempli de vérités choquantes,"
+       "t": "Il est rempli de vérités choquantes, du"
       },
       {
        "nl": true
       },
       {
-       "t": "du Bataillon au gigantesque"
+       "t": "Bataillon au gigantesque OVNI lié à ces"
       },
       {
        "nl": true
       },
       {
-       "t": "OVNI lié à ces incidents. Lisez-le,"
+       "t": "incidents. Lisez-le,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ou vous raterez quelque"
       },
       {
        "nl": true
       },
       {
-       "t": "ou vous raterez quelque chose!"
+       "t": "chose!"
       }
      ]
     }
@@ -2352,7 +2301,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il est rempli de vérités choquantes,\ndu Bataillon au gigantesque\nOVNI lié à ces incidents. Lisez-le,\nou vous raterez quelque chose!",
+   "brut_fr": "Il est rempli de vérités choquantes, du\nBataillon au gigantesque OVNI lié à ces\nincidents. Lisez-le,[1205][U+000F] ou vous raterez quelque\nchose!",
    "brut_en": "It's[SP]full[SP]of[SP]shocking[SP]truths,[SP]from[SP]the[SP]Last\nBattalion[SP]to[SP]a[SP]giant[SP]UFO[SP]that[SP]ties[SP]into[SP]these\nincidents.[SP]Read[SP]it,[SP]or[SP]you'll[SP]be[SP]missing[SP]out!",
    "data_size": 322,
    "budget": 314
@@ -2378,16 +2327,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Nous avions l'ordre strict de ne"
+       "t": " Nous avions"
       },
       {
        "nl": true
       },
       {
-       "t": "jamais le rendre public!"
+       "t": "l'ordre strict de ne jamais le rendre public!"
       }
      ]
     }
@@ -2425,7 +2371,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N-Non...![1205][001E] S-Sudou a fait ça...?[1205][001E]\nNous avions l'ordre strict de ne\njamais le rendre public!",
+   "brut_fr": "N-Non...![1205][001E] S-Sudou a fait ça...?[1205][001E] Nous avions\nl'ordre strict de ne jamais le rendre public!",
    "brut_en": "N-No...![1205][001E][SP]D-Did[SP]Sudou-kun[SP]do[SP]this...?[1205][001E]\nWe[SP]were[SP]under[SP]strict[SP]orders[SP]never[SP]to[SP]go\npublic[SP]with[SP]it!",
    "data_size": 224,
    "budget": 216
@@ -2592,13 +2538,7 @@
        "pause": true
       },
       {
-       "t": " Tu"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "as dit quoi...?"
+       "t": " Tu as dit quoi...?"
       }
      ]
     }
@@ -2627,7 +2567,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "......![1205][001E] Attends...[1205][001E] Tu\nas dit quoi...?",
+   "brut_fr": "......![1205][001E] Attends...[1205][001E] Tu as dit quoi...?",
    "brut_en": "......![1205][001E][SP]W-Wait...[1205][001E][SP]What[SP]did[SP]you[SP]just[SP]say...?",
    "data_size": 122,
    "budget": 114
@@ -2647,25 +2587,19 @@
        "pause": true
       },
       {
-       "t": " Ton vrai nom est"
+       "t": " Ton vrai nom est Lisa,"
       },
       {
        "nl": true
       },
       {
-       "t": "Lisa, non...!?"
+       "t": "non...!?"
       },
       {
        "pause": true
       },
       {
-       "t": " M-Me dis pas que lui"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "aussi...!?"
+       "t": " M-Me dis pas que lui aussi...!?"
       }
      ]
     }
@@ -2700,7 +2634,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ça me rappelle...[1205][001E] Ton vrai nom est\nLisa, non...!?[1205][001E] M-Me dis pas que lui\naussi...!?",
+   "brut_fr": "Ça me rappelle...[1205][001E] Ton vrai nom est Lisa,\nnon...!?[1205][001E] M-Me dis pas que lui aussi...!?",
    "brut_en": "That[SP]reminds[SP]me...[1205][001E][SP]Your[SP]actual[SP]name[SP]is[SP]Lisa,\nright...!?[1205][001E][SP]D-Don't[SP]tell[SP]me,[SP]him[SP]too...!?",
    "data_size": 206,
    "budget": 198
@@ -2802,22 +2736,22 @@
        "pause": true
       },
       {
-       "t": " Je dirai la vérité..."
+       "t": " Je dirai la vérité... sur le"
       },
       {
        "nl": true
       },
       {
-       "t": "sur le Cercle masqué... sur Joker..."
+       "t": "Cercle masqué... sur Joker..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "tout!"
+       "t": " tout!"
       }
      ]
     }
@@ -2855,7 +2789,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pitié... Venez au Sanctuaire Alaya\navec moi![1205][001E] Je dirai la vérité...\nsur le Cercle masqué... sur Joker...[1205][001E]\ntout!",
+   "brut_fr": "Pitié... Venez au Sanctuaire Alaya\navec moi![1205][001E] Je dirai la vérité... sur le\nCercle masqué... sur Joker...[1205][001E][1205][U+000F] tout!",
    "brut_en": "Please...[SP]Come[SP]with[SP]me[SP]to[SP]the[SP]Alaya[SP]Shrine![1205][001E]\nI'll[SP]tell[SP]you[SP]the[SP]truth...[SP]about[SP]the[SP]Masked\nCircle...[SP]about[SP]Joker...[1205][001E][SP]everything!",
    "data_size": 280,
    "budget": 272
@@ -2881,19 +2815,13 @@
        "pause": true
       },
       {
-       "t": " Le Cercle"
+       "t": " Le Cercle masqué n'est"
       },
       {
        "nl": true
       },
       {
-       "t": "masqué n'est pas une armée bizarre"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "comme elle l'a dit!"
+       "t": "pas une armée bizarre comme elle l'a dit!"
       }
      ]
     }
@@ -2928,7 +2856,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je...[1205][001E] Je comprends...![1205][001E] Le Cercle\nmasqué n'est pas une armée bizarre\ncomme elle l'a dit!",
+   "brut_fr": "Je...[1205][001E] Je comprends...![1205][001E] Le Cercle masqué n'est\npas une armée bizarre comme elle l'a dit!",
    "brut_en": "I...[1205][001E][SP]I[SP]understand[SP]everything...![1205][001E][SP]The[SP]Masked\nCircle[SP]isn't[SP]some[SP]weird[SP]army[SP]like[SP]she[SP]said!",
    "data_size": 206,
    "budget": 198
@@ -2948,16 +2876,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Je suis sûre que vous vous"
+       "t": " Je suis sûre"
       },
       {
        "nl": true
       },
       {
-       "t": "rappellerez aussi...!"
+       "t": "que vous vous rappellerez aussi...!"
       }
      ]
     }
@@ -2983,7 +2908,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Allons au Sanctuaire Alaya![1205][001E]\nJe suis sûre que vous vous\nrappellerez aussi...!",
+   "brut_fr": "Allons au Sanctuaire Alaya![1205][001E] Je suis sûre\nque vous vous rappellerez aussi...!",
    "brut_en": "Please,[SP]we[SP]need[SP]to[SP]go[SP]to[SP]the[SP]Alaya[SP]Shrine![1205][001E]\nIf[SP]we[SP]go,[SP]I'm[SP]sure[SP]you'll[SP]remember[SP]too...!",
    "data_size": 198,
    "budget": 190
@@ -3067,13 +2992,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu'y a-t-il? J'ai un truc sur"
+       "t": "Qu'y a-t-il? J'ai un truc"
       },
       {
        "nl": true
       },
       {
-       "t": "le visage?"
+       "t": "sur le visage?"
       },
       {
        "pause": true
@@ -3108,7 +3033,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'y a-t-il? J'ai un truc sur\nle visage?[1205][001E] P'tit gars...",
+   "brut_fr": "Qu'y a-t-il? J'ai un truc\nsur le visage?[1205][001E] P'tit gars...",
    "brut_en": "What's[SP]wrong?[SP]Is[SP]there[SP]something[SP]on[SP]my\nface?[1205][001E][SP]Little[SP]boy...",
    "data_size": 142,
    "budget": 134
@@ -3134,19 +3059,19 @@
        "pause": true
       },
       {
-       "t": " J'ai hâte"
+       "t": " J'ai hâte d'entendre"
       },
       {
        "nl": true
       },
       {
-       "t": "d'entendre l'histoire que Lisa va"
+       "t": "l'histoire que Lisa va"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "nous y raconter..."
+       "t": " nous y raconter..."
       }
      ]
     }
@@ -3181,7 +3106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé... Quittons ce taudis pour le\nSanctuaire Alaya.[1205][001E] J'ai hâte\nd'entendre l'histoire que Lisa va\nnous y raconter...",
+   "brut_fr": "Hé... Quittons ce taudis pour le\nSanctuaire Alaya.[1205][001E] J'ai hâte d'entendre\nl'histoire que Lisa va[1205][U+000F] nous y raconter...",
    "brut_en": "Heh...[SP]Let's[SP]leave[SP]this[SP]dump[SP]and[SP]get[SP]to[SP]the\nAlaya[SP]Shrine.[1205][001E][SP]I[SP]can't[SP]wait[SP]to[SP]hear[SP]the[SP]yarn\nLisa's[SP]going[SP]to[SP]spin[SP]there...",
    "data_size": 260,
    "budget": 252
@@ -3201,16 +3126,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Surtout les péchés qui ne peuvent"
+       "t": " Surtout les"
       },
       {
        "nl": true
       },
       {
-       "t": "jamais être lavés..."
+       "t": "péchés qui ne peuvent jamais être lavés..."
       }
      ]
     }
@@ -3236,7 +3158,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Parfois, mieux vaut oublier.[1205][001E]\nSurtout les péchés qui ne peuvent\njamais être lavés...",
+   "brut_fr": "Parfois, mieux vaut oublier.[1205][001E] Surtout les\npéchés qui ne peuvent jamais être lavés...",
    "brut_en": "Sometimes[SP]things[SP]are[SP]best[SP]left[SP]forgotten.[1205][001E]\nEspecially[SP]sins[SP]that[SP]can[SP]never[SP]be[SP]cleansed...",
    "data_size": 200,
    "budget": 192
@@ -3250,13 +3172,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hélas, ça ne marche pas ainsi."
+       "t": "Hélas, ça ne marche pas ainsi. Il"
       },
       {
        "nl": true
       },
       {
-       "t": "Il faut expier ses péchés, non...?"
+       "t": "faut expier ses péchés, non...?"
       },
       {
        "pause": true
@@ -3297,7 +3219,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hélas, ça ne marche pas ainsi.\nIl faut expier ses péchés, non...?[1205][001E]\nMaintenant, allons au Mt. Iwato.",
+   "brut_fr": "Hélas, ça ne marche pas ainsi. Il\nfaut expier ses péchés, non...?[1205][001E]\nMaintenant, allons au Mt. Iwato.",
    "brut_en": "Sadly,[SP]though,[SP]that's[SP]not[SP]how[SP]it[SP]goes[SP]in\nlife.[SP]Sins[SP]must[SP]be[SP]atoned[SP]for,[SP]no...?[1205][001E]\nNow[SP]let's[SP]go[SP]to[SP]Mt.[SP]Iwato.",
    "data_size": 236,
    "budget": 228
@@ -3323,10 +3245,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Tu es CE ...!?"
+       "t": " Tu es CE ...!?"
       }
      ]
     }
@@ -3361,7 +3280,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est... C'est dingue...[1205][001E] Tu...[1205][001E]\nTu es CE [1114]...!?",
+   "brut_fr": "C'est... C'est dingue...[1205][001E] Tu...[1205][001E] Tu es CE [1114]...!?",
    "brut_en": "This...[SP]This[SP]is[SP]crazy...[1205][001E][SP]You...[1205][001E][SP]You're\nTHAT[SP][1114]...!?",
    "data_size": 136,
    "budget": 128
@@ -3381,25 +3300,16 @@
        "pause": true
       },
       {
-       "t": " Que"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "vous prend-il tous?"
+       "t": " Que vous prend-il tous?"
       },
       {
        "pause": true
       },
       {
-       "t": " Même Maya"
-      },
-      {
        "nl": true
       },
       {
-       "t": "n'est pas dans son état normal..."
+       "t": "Même Maya n'est pas dans son état normal..."
       }
      ]
     }
@@ -3440,7 +3350,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle comprend tout...?[1205][001E] Que\nvous prend-il tous?[1205][001E] Même Maya\nn'est pas dans son état normal...",
+   "brut_fr": "Elle comprend tout...?[1205][001E] Que vous prend-il tous?[1205][001E]\nMême Maya n'est pas dans son état normal...",
    "brut_en": "She[SP]understands[SP]everything...?[1205][001E][SP]What's[SP]gotten\ninto[SP]you[SP]all?[1205][001E][SP]Even[SP]Maya-san's[SP]not[SP]her[SP]usual\nself...",
    "data_size": 226,
    "budget": 218
@@ -3460,13 +3370,13 @@
        "pause": true
       },
       {
-       "t": " Et"
+       "t": " Et maintenant"
       },
       {
        "nl": true
       },
       {
-       "t": "maintenant jouer au "
+       "t": "jouer au "
       },
       {
        "enc": "Cercle masqué"
@@ -3478,16 +3388,19 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Il y a tant de choses que je saisis"
+       "t": " Il y a tant"
       },
       {
        "nl": true
       },
       {
-       "t": "pas..."
+       "t": "de choses que je saisis"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pas..."
       }
      ]
     }
@@ -3531,7 +3444,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les aliens... Le Führer...[1205][001E] Et\nmaintenant jouer au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]...!?[1205][001E]\nIl y a tant de choses que je saisis\npas...",
+   "brut_fr": "Les aliens... Le Führer...[1205][001E] Et maintenant\njouer au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]...!?[1205][001E] Il y a tant\nde choses que je saisis[1205][U+000F] pas...",
    "brut_en": "Aliens...[SP]The[SP]Fuhrer...[1205][001E][SP]And[SP]now[SP]this[SP]about\n[1432][NULL][NULL][0014]playing[SP]the[SP]Masked[SP]Circle[1432][NULL][NULL][0014]...!?[1205][001E][SP]There's[SP]so\nmuch[SP]I[SP]don't[SP]understand...",
    "data_size": 272,
    "budget": 264
@@ -3545,25 +3458,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "La rumeur des concours devrait"
+       "t": "La rumeur des concours devrait se"
       },
       {
        "nl": true
       },
       {
-       "t": "se réaliser. Je m'occupe de les"
+       "t": "réaliser. Je m'occupe de les envoyer. Vous"
       },
       {
        "nl": true
       },
       {
-       "t": "envoyer. Vous êtes trop occupés"
+       "t": "êtes trop occupés"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "pour le faire, pas vrai?"
+       "t": " pour le faire, pas vrai?"
       }
      ]
     }
@@ -3592,7 +3505,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La rumeur des concours devrait\nse réaliser. Je m'occupe de les\nenvoyer. Vous êtes trop occupés\npour le faire, pas vrai?",
+   "brut_fr": "La rumeur des concours devrait se\nréaliser. Je m'occupe de les envoyer. Vous\nêtes trop occupés[1205][U+000F] pour le faire, pas vrai?",
    "brut_en": "The[SP]magazine[SP]sweepstakes[SP]rumor[SP]should[SP]come\ntrue[SP]now.[SP]I'll[SP]handle[SP]sending[SP]them[SP]in.[SP]You're\ntoo[SP]busy[SP]to[SP]do[SP]it[SP]yourselves,[SP]right?",
    "data_size": 274,
    "budget": 266
@@ -3606,7 +3519,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bonjour ! Que puis-je faire ?"
+       "t": "Bonjour! Que puis-je faire?"
       }
      ]
     }
@@ -3624,13 +3537,13 @@
    "choix_fr": {
     "options": [
      "Participer aux concours",
-     "Parler à Tamaki",
+     "Parler à Tamaki[1205]",
      "Rien",
      "Quitter l'agence"
     ],
     "question": [
      {
-      "t": "Bonjour ! Que puis-je faire ?"
+      "t": "Bonjour! Que puis-je faire?"
      }
     ]
    },
@@ -3647,7 +3560,7 @@
      }
     ]
    },
-   "brut_fr": "Bonjour ! Que puis-je faire ?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\nQuitter l'agence",
+   "brut_fr": "Bonjour! Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki[1205][U+000F]\nRien\nQuitter l'agence",
    "brut_en": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
    "data_size": 264,
    "budget": 256
@@ -3661,7 +3574,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Que puis-je faire ?"
+       "t": "Que puis-je faire?"
       }
      ]
     }
@@ -3679,13 +3592,13 @@
    "choix_fr": {
     "options": [
      "Participer aux concours",
-     "Parler à Tamaki",
+     "Parler à Tamaki[1205]",
      "Rien",
      "Quitter l'agence"
     ],
     "question": [
      {
-      "t": "Que puis-je faire ?"
+      "t": "Que puis-je faire?"
      }
     ]
    },
@@ -3702,7 +3615,7 @@
      }
     ]
    },
-   "brut_fr": "Que puis-je faire ?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\n[1210][U+0159]Quitter l'agence",
+   "brut_fr": "Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki[1205][U+000F]\nRien\n[1210][U+0159]Quitter l'agence",
    "brut_en": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
    "data_size": 238,
    "budget": 230
@@ -3734,7 +3647,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur les concours",
+     "Sur les concours[1205]",
      "Rien"
     ],
     "question": [
@@ -3755,7 +3668,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nSur les concours\nRien",
+   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nSur les concours[1205][U+000F]\nRien",
    "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
    "data_size": 192,
    "budget": 184
@@ -3769,25 +3682,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Avez-vous vérifié vos précédents"
+       "t": "Avez-vous vérifié vos précédents concours?"
       },
       {
        "nl": true
       },
       {
-       "t": "concours? Les prix sont envoyés"
+       "t": "Les prix sont envoyés chez Lisa-chan, revenez"
       },
       {
        "nl": true
       },
       {
-       "t": "chez Lisa-chan, revenez quand vous"
+       "t": "quand vous"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "aurez vu si vous avez gagné."
+       "t": " aurez vu si vous avez gagné."
       }
      ]
     }
@@ -3816,7 +3729,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Avez-vous vérifié vos précédents\nconcours? Les prix sont envoyés\nchez Lisa-chan, revenez quand vous\naurez vu si vous avez gagné.",
+   "brut_fr": "Avez-vous vérifié vos précédents concours?\nLes prix sont envoyés chez Lisa-chan, revenez\nquand vous[1205][U+000F] aurez vu si vous avez gagné.",
    "brut_en": "Oh,[SP]did[SP]you[SP]check[SP]the[SP]ones[SP]you[SP]entered[SP]last\ntime?[SP]You[SP]get[SP]the[SP]prizes[SP]at[SP]Lisa-chan's[SP]house,\nso[SP]come[SP]back[SP]after[SP]you've[SP]seen[SP]if[SP]you[SP]won.",
    "data_size": 290,
    "budget": 282
@@ -4101,7 +4014,7 @@
        "nl": true
       },
       {
-       "t": "gagner un prix.Faut de la chance!"
+       "t": "gagner un prix. Faut de la chance!"
       }
      ]
     }
@@ -4130,7 +4043,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est comme une loterie. Vous\nenvoyez des magazines pour tenter de\ngagner un prix.[1121]Faut de la chance!",
+   "brut_fr": "C'est comme une loterie. Vous\nenvoyez des magazines pour tenter de\ngagner un prix.[1121] Faut de la chance!",
    "brut_en": "A[SP]sweepstakes[SP]is[SP]kind[SP]of[SP]like[SP]a[SP]raffle.[SP]You\nsend[SP]in[SP]magazines[SP]for[SP]chances[SP]to[SP]win[SP]a[SP]cool\nprize.[1121]It[SP]takes[SP]luck[SP]to[SP]win!",
    "data_size": 256,
    "budget": 248
@@ -4144,25 +4057,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Achetez des magazines de concours"
+       "t": "Achetez des magazines de concours chez"
       },
       {
        "nl": true
       },
       {
-       "t": "chez Satomi Tadashi, apportez-les-moi"
+       "t": "Satomi Tadashi, apportez-les-moi et je les"
       },
       {
        "nl": true
       },
       {
-       "t": "et je les enverrai. Les prix"
+       "t": "enverrai. Les prix"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "vont chez Lisa-chan."
+       "t": " vont chez Lisa-chan."
       }
      ]
     }
@@ -4191,7 +4104,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Achetez des magazines de concours\nchez Satomi Tadashi, apportez-les-moi\net je les enverrai. Les prix\nvont chez Lisa-chan.",
+   "brut_fr": "Achetez des magazines de concours chez\nSatomi Tadashi, apportez-les-moi et je les\nenverrai. Les prix[1205][U+000F] vont chez Lisa-chan.",
    "brut_en": "First[SP]buy[SP]Sweepstakes[SP]Magazines[SP]at[SP]Satomi\nTadashi,[SP]then[SP]bring[SP]them[SP]to[SP]me[SP]and[SP]I'll[SP]send\nthem[SP]in.[SP]Any[SP]prizes[SP]go[SP]to[SP]Lisa-chan's[SP]house.",
    "data_size": 286,
    "budget": 278
@@ -4205,25 +4118,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Y a quelques règles! Une seule"
+       "t": "Y a quelques règles! Une seule participation"
       },
       {
        "nl": true
       },
       {
-       "t": "participation à la fois. Pas de"
+       "t": "à la fois. Pas de nouvelles entrées tant que"
       },
       {
        "nl": true
       },
       {
-       "t": "nouvelles entrées tant que les résultats"
+       "t": "les résultats"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "ne sont pas là. C'est comme ça."
+       "t": " ne sont pas là. C'est comme ça."
       }
      ]
     }
@@ -4252,7 +4165,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Y a quelques règles! Une seule\nparticipation à la fois. Pas de\nnouvelles entrées tant que les résultats\nne sont pas là. C'est comme ça.",
+   "brut_fr": "Y a quelques règles! Une seule participation\nà la fois. Pas de nouvelles entrées tant que\nles résultats[1205][U+000F] ne sont pas là. C'est comme ça.",
    "brut_en": "There[SP]are[SP]a[SP]few[SP]rules![SP]You[SP]can[SP]only[SP]enter[SP]one\ncontest[SP]at[SP]a[SP]time.[SP]No[SP]more[SP]entries[SP]until[SP]the\nlast[SP]results[SP]are[SP]in.[SP]That's[SP]just[SP]how[SP]it[SP]works.",
    "data_size": 298,
    "budget": 290
@@ -4272,19 +4185,19 @@
        "nl": true
       },
       {
-       "t": "participation. Plus vous en"
+       "t": "participation. Plus vous en envoyez,"
       },
       {
        "nl": true
       },
       {
-       "t": "envoyez, plus vous avez de"
+       "t": "plus vous avez de"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "chances de gagner."
+       "t": " chances de gagner."
       }
      ]
     }
@@ -4313,7 +4226,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aussi, max 99 magazines par\nparticipation. Plus vous en\nenvoyez, plus vous avez de\nchances de gagner.",
+   "brut_fr": "Aussi, max 99 magazines par\nparticipation. Plus vous en envoyez,\nplus vous avez de[1205][U+000F] chances de gagner.",
    "brut_en": "Also,[SP]you[SP]can[SP]only[SP]send[SP]in[SP]99[SP]magazines[SP]per\nentry.[SP]The[SP]more[SP]you[SP]send,[SP]the[SP]better[SP]your\nchances[SP]of[SP]winning.",
    "data_size": 234,
    "budget": 226
@@ -4333,19 +4246,19 @@
        "nl": true
       },
       {
-       "t": "temps. Ne restez pas à attendre."
+       "t": "temps. Ne restez pas à attendre. Vous"
       },
       {
        "nl": true
       },
       {
-       "t": "Vous devez vous balader dans"
+       "t": "devez vous balader dans"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "les donjons."
+       "t": " les donjons."
       }
      ]
     }
@@ -4374,7 +4287,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Enfin, les résultats prennent du\ntemps. Ne restez pas à attendre.\nVous devez vous balader dans\nles donjons.",
+   "brut_fr": "Enfin, les résultats prennent du\ntemps. Ne restez pas à attendre. Vous\ndevez vous balader dans[1205][U+000F] les donjons.",
    "brut_en": "Finally,[SP]it[SP]takes[SP]time[SP]for[SP]the[SP]results[SP]to\ncome[SP]in.[SP]You[SP]can't[SP]just[SP]sit[SP]around[SP]and[SP]wait.\nYou[SP]have[SP]to[SP]walk[SP]around[SP]dungeons.",
    "data_size": 264,
    "budget": 256
@@ -4388,19 +4301,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le reste dépend de votre chance!"
+       "t": "Le reste dépend de votre chance! En insistant,"
       },
       {
        "nl": true
       },
       {
-       "t": "En insistant, vous pourriez obtenir"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "des objets rares..."
+       "t": "vous pourriez obtenir des objets rares..."
       }
      ]
     }
@@ -4429,7 +4336,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le reste dépend de votre chance!\nEn insistant, vous pourriez obtenir\ndes objets rares...",
+   "brut_fr": "Le reste dépend de votre chance! En insistant,\nvous pourriez obtenir des objets rares...",
    "brut_en": "The[SP]rest[SP]is[SP]up[SP]to[SP]persistence[SP]and[SP]luck!\nIf[SP]you[SP]keep[SP]at[SP]it,[SP]you[SP]might[SP]get[SP]yourself\nsome[SP]rare[SP]items...",
    "data_size": 224,
    "budget": 216
@@ -4449,25 +4356,22 @@
        "nl": true
       },
       {
-       "t": "Cercle masqué n'est pas le"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Bataillon..."
+       "t": "Cercle masqué n'est pas le Bataillon..."
       },
       {
        "pause": true
       },
       {
-       "t": " Le Cercle masqué suit-il"
-      },
-      {
        "nl": true
       },
       {
-       "t": "ce livre?"
+       "t": "Le Cercle masqué suit-il"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ce livre?"
       }
      ]
     }
@@ -4499,7 +4403,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Même si cette prof a tort et que le\nCercle masqué n'est pas le\nBataillon...[1205][001E] Le Cercle masqué suit-il\nce livre?",
+   "brut_fr": "Même si cette prof a tort et que le\nCercle masqué n'est pas le Bataillon...[1205][001E]\nLe Cercle masqué suit-il[1205][U+000F] ce livre?",
    "brut_en": "Even[SP]if[SP]this[SP]teacher[SP]is[SP]wrong[SP]and[SP]the[SP]Masked\nCircle[SP]isn't[SP]the[SP]same[SP]as[SP]the[SP]Last[SP]Battalion...[1205][001E]\nIs[SP]the[SP]Masked[SP]Circle[SP]following[SP]that[SP]book?",
    "data_size": 296,
    "budget": 288
@@ -4519,25 +4423,31 @@
        "pause": true
       },
       {
+       "t": " J'ai"
+      },
+      {
        "nl": true
       },
       {
-       "t": "J'ai du mal à croire que ça existe."
+       "t": "du mal à croire que ça existe."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Mais j'ai un mauvais pressentiment"
+       "t": " Mais j'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "quand même..."
+       "t": "un mauvais pressentiment"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " quand même..."
       }
      ]
     }
@@ -4575,7 +4485,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ruines mayas... un vieux vaisseau...[1205][001E]\nJ'ai du mal à croire que ça existe.[1205][001E]\nMais j'ai un mauvais pressentiment\nquand même...",
+   "brut_fr": "Ruines mayas... un vieux vaisseau...[1205][001E] J'ai\ndu mal à croire que ça existe.[1205][001E] Mais j'ai\nun mauvais pressentiment[1205][U+000F] quand même...",
    "brut_en": "Mayan[SP]ruins...[SP]an[SP]ancient[SP]spaceship...[1205][001E][SP]I[SP]have\na[SP]hard[SP]time[SP]believing[SP]this[SP]stuff[SP]exists.[1205][001E]\nBut[SP]I[SP]have[SP]a[SP]bad[SP]feeling[SP]anyway...",
    "data_size": 276,
    "budget": 268
@@ -4589,19 +4499,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je m'occuperai de la paperasse"
+       "t": "Je m'occuperai de la paperasse des"
       },
       {
        "nl": true
       },
       {
-       "t": "des concours, tant que vous"
+       "t": "concours, tant que vous m'apportez"
       },
       {
        "nl": true
       },
       {
-       "t": "m'apportez des magazines de concours."
+       "t": "des magazines de concours."
       }
      ]
     }
@@ -4630,7 +4540,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'occuperai de la paperasse\ndes concours, tant que vous\nm'apportez des magazines de concours.",
+   "brut_fr": "Je m'occuperai de la paperasse des\nconcours, tant que vous m'apportez\ndes magazines de concours.",
    "brut_en": "I'll[SP]handle[SP]the[SP]scutwork[SP]of[SP]making\nsweepstakes[SP]entries,[SP]just[SP]as[SP]long[SP]as\nyou[SP]bring[SP]me[SP]Sweepstakes[SP]Magazines.",
    "data_size": 238,
    "budget": 230
@@ -4644,19 +4554,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "O-On a appris un terrible secret!"
+       "t": "O-On a appris un terrible secret! Ce goût du"
       },
       {
        "nl": true
       },
       {
-       "t": "Ce goût du danger et de la violence"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "appelle un homme..."
+       "t": "danger et de la violence appelle un homme..."
       }
      ]
     }
@@ -4685,7 +4589,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "O-On a appris un terrible secret!\nCe goût du danger et de la violence\nappelle un homme...",
+   "brut_fr": "O-On a appris un terrible secret! Ce goût du\ndanger et de la violence appelle un homme...",
    "brut_en": "W-We've[SP]learned[SP]a[SP]terrible[SP]secret![SP]It's[SP]this\ntaste[SP]of[SP]danger[SP]and[SP]violence[SP]that[SP]calls[SP]to\na[SP]man...",
    "data_size": 220,
    "budget": 212
@@ -4705,25 +4609,25 @@
        "pause": true
       },
       {
-       "t": " L'heure de révéler mes"
+       "t": " L'heure de révéler mes vrais"
       },
       {
        "nl": true
       },
       {
-       "t": "vrais pouvoirs a sonné..."
+       "t": "pouvoirs a sonné..."
       },
       {
        "pause": true
       },
       {
-       "t": " Oh, je"
+       "t": " Oh, je devrais"
       },
       {
        "nl": true
       },
       {
-       "t": "devrais trouver une tenue de combat!"
+       "t": "trouver une tenue de combat!"
       }
      ]
     }
@@ -4764,7 +4668,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé...[1205][001E] L'heure de révéler mes\nvrais pouvoirs a sonné...[1205][001E] Oh, je\ndevrais trouver une tenue de combat!",
+   "brut_fr": "Hé...[1205][001E] L'heure de révéler mes vrais\npouvoirs a sonné...[1205][001E] Oh, je devrais\ntrouver une tenue de combat!",
    "brut_en": "Heh...[1205][001E][SP]I-It[SP]seems[SP]the[SP]time[SP]to[SP]reveal[SP]my[SP]true\npowers[SP]has[SP]come...[1205][001E][SP]Ooh,[SP]I[SP]should[SP]get[SP]a[SP]new\ncombat[SP]outfit!",
    "data_size": 240,
    "budget": 232
@@ -4851,7 +4755,7 @@
    "choix_fr": {
     "options": [
      "L'In Lak'ech",
-     "Le Bataillon",
+     "Le Bataillon[1205]",
      "La laisser seule"
     ],
     "question": [
@@ -4872,7 +4776,7 @@
      }
     ]
    },
-   "brut_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon\nLa laisser seule",
+   "brut_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon[1205][U+000F]\nLa laisser seule",
    "brut_en": "What[SP]should[SP]I[SP]do...!?\n[1208][U+0003]Ask[SP]about[SP]the[SP]In[SP]Lak'ech\nAsk[SP]about[SP]the[SP]Last[SP]Battalion\nLeave[SP]her[SP]be",
    "data_size": 212,
    "budget": 204
@@ -4947,7 +4851,7 @@
    "choix_fr": {
     "options": [
      "Sur Kashihara",
-     "Sur Sudou",
+     "Sur Sudou[1205]",
      "Le contenu",
      "Les Maïens",
      "L'Énergie Idéale"
@@ -4972,7 +4876,7 @@
      }
     ]
    },
-   "brut_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maïens\nL'Énergie Idéale",
+   "brut_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou[1205][U+000F]\nLe contenu\nLes Maïens\nL'Énergie Idéale",
    "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?\n[1208][U+0005]About[SP]Kashihara\nAbout[SP]Sudou\nAbout[SP]its[SP]contents\nAbout[SP]Maians\nAbout[SP]Ideal[SP]Energy",
    "data_size": 286,
    "budget": 278
@@ -4986,19 +4890,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il enseignait l'histoire à Septs Sœurs."
+       "t": "Il enseignait l'histoire à Septs Sœurs. Il"
       },
       {
        "nl": true
       },
       {
-       "t": "Il était tourmenté à l'idée que"
+       "t": "était tourmenté à l'idée que l'histoire"
       },
       {
        "nl": true
       },
       {
-       "t": "l'histoire qu'il enseignait soit fausse..."
+       "t": "qu'il enseignait soit fausse..."
       }
      ]
     }
@@ -5027,7 +4931,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il enseignait l'histoire à Septs Sœurs.\nIl était tourmenté à l'idée que\nl'histoire qu'il enseignait soit fausse...",
+   "brut_fr": "Il enseignait l'histoire à Septs Sœurs. Il\nétait tourmenté à l'idée que l'histoire\nqu'il enseignait soit fausse...",
    "brut_en": "He[SP]was[SP]a[SP]world[SP]history[SP]teacher[SP]at[SP]Sevens[SP]with\nme.[SP]He[SP]was[SP]always[SP]tormented[SP]that[SP]the[SP]history\nhe[SP]taught[SP]his[SP]students[SP]might[SP]be[SP]untrue...",
    "data_size": 296,
    "budget": 288
@@ -5041,25 +4945,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'était un rêveur aimant ses"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "élèves."
+       "t": "C'était un rêveur aimant ses élèves."
       },
       {
        "pause": true
       },
       {
-       "t": " Pourtant il est mort de façon"
+       "t": " Pourtant"
       },
       {
        "nl": true
       },
       {
-       "t": "si épouvantable..."
+       "t": "il est mort de façon si épouvantable..."
       }
      ]
     }
@@ -5088,7 +4986,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'était un rêveur aimant ses\nélèves.[1205][001E] Pourtant il est mort de façon\nsi épouvantable...",
+   "brut_fr": "C'était un rêveur aimant ses élèves.[1205][001E] Pourtant\nil est mort de façon si épouvantable...",
    "brut_en": "He[SP]was[SP]a[SP]dreamer,[SP]who[SP]loved[SP]his[SP]students[SP]very\nmuch.[1205][001E][SP]Yet[SP]he[SP]died[SP]in[SP]such[SP]a[SP]dreadful[SP]way...",
    "data_size": 214,
    "budget": 206
@@ -5145,13 +5043,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Et on l'a trouvé mort, écrasé par"
+       "t": "Et on l'a trouvé mort, écrasé par les"
       },
       {
        "nl": true
       },
       {
-       "t": "les engrenages de la tour de l'horloge!"
+       "t": "engrenages de la tour de l'horloge!"
       },
       {
        "nl": true
@@ -5186,7 +5084,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Et on l'a trouvé mort, écrasé par\nles engrenages de la tour de l'horloge!\nLe Bataillon a tué Kashihara!",
+   "brut_fr": "Et on l'a trouvé mort, écrasé par les\nengrenages de la tour de l'horloge!\nLe Bataillon a tué Kashihara!",
    "brut_en": "And[SP]then[SP]he[SP]was[SP]found[SP]dead,[SP]crushed[SP]between\nthe[SP]gears[SP]in[SP]the[SP]school's[SP]clock[SP]tower!\nThe[SP]Last[SP]Battalion[SP]killed[SP]Kashihara!",
    "data_size": 270,
    "budget": 262
@@ -5209,13 +5107,13 @@
        "nl": true
       },
       {
-       "t": "C'était un garçon timide, effrayé par"
+       "t": "C'était un garçon timide, effrayé"
       },
       {
        "nl": true
       },
       {
-       "t": "son père très strict."
+       "t": "par son père très strict."
       }
      ]
     }
@@ -5247,7 +5145,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sudou était élève à Septs Sœurs...[1205][001E]\nC'était un garçon timide, effrayé par\nson père très strict.",
+   "brut_fr": "Sudou était élève à Septs Sœurs...[1205][001E]\nC'était un garçon timide, effrayé\npar son père très strict.",
    "brut_en": "Sudou-kun[SP]was[SP]at[SP]Sevens[SP]too,[SP]as[SP]a[SP]student...[1205][001E]\nHe[SP]was[SP]a[SP]timid[SP]boy,[SP]afraid[SP]of[SP]his[SP]extremely\nstrict[SP]father.",
    "data_size": 242,
    "budget": 234
@@ -5261,25 +5159,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il faisait des problèmes, disait"
+       "t": "Il faisait des problèmes, disait entendre des"
       },
       {
        "nl": true
       },
       {
-       "t": "entendre des voix, et la rumeur en"
+       "t": "voix, et la rumeur en faisait un pyromane."
       },
       {
        "nl": true
       },
       {
-       "t": "faisait un pyromane. Mais il était"
+       "t": "Mais il était"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "dévoué à Kashihara..."
+       "t": " dévoué à Kashihara..."
       }
      ]
     }
@@ -5308,7 +5206,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il faisait des problèmes, disait\nentendre des voix, et la rumeur en\nfaisait un pyromane. Mais il était\ndévoué à Kashihara...",
+   "brut_fr": "Il faisait des problèmes, disait entendre des\nvoix, et la rumeur en faisait un pyromane.\nMais il était[1205][U+000F] dévoué à Kashihara...",
    "brut_en": "He[SP]was[SP]a[SP]troublemaker[SP]who[SP]complained[SP]of\nhearing[SP]voices,[SP]and[SP]was[SP]rumored[SP]to[SP]be[SP]an\narsonist.[SP]But[SP]he[SP]was[SP]devoted[SP]to[SP]Kashihara...",
    "data_size": 282,
    "budget": 274
@@ -5322,25 +5220,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est Kashihara qui a remarqué le"
+       "t": "C'est Kashihara qui a remarqué le don"
       },
       {
        "nl": true
       },
       {
-       "t": "don de Sudou. C'était un médium"
+       "t": "de Sudou. C'était un médium capable"
       },
       {
        "nl": true
       },
       {
-       "t": "capable d'entendre les voix des"
+       "t": "d'entendre les voix des"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Maïens."
+       "t": " Maïens."
       }
      ]
     }
@@ -5369,7 +5267,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est Kashihara qui a remarqué le\ndon de Sudou. C'était un médium\ncapable d'entendre les voix des\nMaïens.",
+   "brut_fr": "C'est Kashihara qui a remarqué le don\nde Sudou. C'était un médium capable\nd'entendre les voix des[1205][U+000F] Maïens.",
    "brut_en": "It[SP]was[SP]Kashihara[SP]who[SP]noticed[SP]Sudou-kun's\ngift.[SP]He[SP]was[SP]a[SP]medium[SP]capable[SP]of[SP]hearing\nthe[SP]voices[SP]of[SP]the[SP]Maians.",
    "data_size": 246,
    "budget": 238
@@ -5438,19 +5336,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Sudou a dû nous trahir et parler de"
+       "t": "Sudou a dû nous trahir et parler de Xibalba"
       },
       {
        "nl": true
       },
       {
-       "t": "Xibalba au Bataillon! C'est"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "la seule explication!"
+       "t": "au Bataillon! C'est la seule explication!"
       }
      ]
     }
@@ -5479,7 +5371,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Sudou a dû nous trahir et parler de\nXibalba au Bataillon! C'est\nla seule explication!",
+   "brut_fr": "Sudou a dû nous trahir et parler de Xibalba\nau Bataillon! C'est la seule explication!",
    "brut_en": "Sudou-kun[SP]must[SP]have[SP]betrayed[SP]us[SP]and[SP]told[SP]the\nLast[SP]Battalion[SP]about[SP]Xibalba![SP]It's[SP]the[SP]only\nexplanation!",
    "data_size": 234,
    "budget": 226
@@ -5499,25 +5391,28 @@
        "t": " signifie "
       },
       {
-       "enc": "tu es un autre moi"
+       "enc": "tu es un autre"
       },
       {
        "nl": true
       },
       {
-       "t": "en maya."
+       "enc": "moi"
+      },
+      {
+       "t": " en maya."
       },
       {
        "pause": true
       },
       {
-       "t": " C'est ainsi qu'on dit de"
+       "t": " C'est ainsi qu'on dit"
       },
       {
        "nl": true
       },
       {
-       "t": "l'oracle canalisé par Sudou."
+       "t": "de l'oracle canalisé par Sudou."
       }
      ]
     }
@@ -5561,7 +5456,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014] signifie [1432][NULL][NULL][0014]tu es un autre moi[1432][NULL][NULL][0014]\nen maya.[1205][001E] C'est ainsi qu'on dit de\nl'oracle canalisé par Sudou.",
+   "brut_fr": "[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014] signifie [1432][NULL][NULL][0014]tu es un autre\nmoi[1432][NULL][NULL][0014] en maya.[1205][001E] C'est ainsi qu'on dit\nde l'oracle canalisé par Sudou.",
    "brut_en": "[1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014][SP]means[SP][1432][NULL][NULL][0014]you[SP]are[SP]another[SP]me[1432][NULL][NULL][0014][SP]in\nMayan.[1205][001E][SP]It's[SP]what[SP]we[SP]called[SP]the[SP]oracle[SP]that\nSudou-kun[SP]channeled.",
    "data_size": 272,
    "budget": 264
@@ -5581,25 +5476,22 @@
        "nl": true
       },
       {
-       "t": "évolution, bien que cette ère soit"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "finie."
+       "t": "évolution, bien que cette ère soit finie."
       },
       {
        "pause": true
       },
       {
-       "t": " Notre civilisation en"
-      },
-      {
        "nl": true
       },
       {
-       "t": "est un vestige..."
+       "t": "Notre civilisation en"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " est un vestige..."
       }
      ]
     }
@@ -5634,7 +5526,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Maïens ont jadis guidé notre\névolution, bien que cette ère soit\nfinie.[1205][001E] Notre civilisation en\nest un vestige...",
+   "brut_fr": "Les Maïens ont jadis guidé notre\névolution, bien que cette ère soit finie.[1205][001E]\nNotre civilisation en[1205][U+000F] est un vestige...",
    "brut_en": "The[SP]Maians[SP]guided[SP]our[SP]evolution[SP]once,[SP]though\nthat[SP]stage[SP]is[SP]now[SP]lost.[1205][001E][SP]Our[SP]civilization[SP]as\nit[SP]stands[SP]is[SP]a[SP]remnant[SP]from[SP]then...",
    "data_size": 284,
    "budget": 276
@@ -5703,31 +5595,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Xibalba est la clé de notre évolution."
+       "t": "Xibalba est la clé de notre évolution. On"
       },
       {
        "nl": true
       },
       {
-       "t": "On ne peut évoluer sans lui..."
+       "t": "ne peut évoluer sans lui..."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais ce"
+       "t": " Mais ce sera"
       },
       {
        "nl": true
       },
       {
-       "t": "sera au prix de l'extinction de"
+       "t": "au prix de l'extinction de"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "ce monde!"
+       "t": " ce monde!"
       }
      ]
     }
@@ -5762,7 +5654,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Xibalba est la clé de notre évolution.\nOn ne peut évoluer sans lui...[1205][001E] Mais ce\nsera au prix de l'extinction de\nce monde!",
+   "brut_fr": "Xibalba est la clé de notre évolution. On\nne peut évoluer sans lui...[1205][001E] Mais ce sera\nau prix de l'extinction de[1205][U+000F] ce monde!",
    "brut_en": "Xibalba[SP]is[SP]the[SP]key[SP]to[SP]our[SP]evolution.[SP]We[SP]can't\nevolve[SP]without[SP]it...[1205][001E][SP]But[SP]it[SP]will[SP]come[SP]at[SP]the\ncost[SP]of[SP]this[SP]world's[SP]extinction!",
    "data_size": 282,
    "budget": 274
@@ -5776,25 +5668,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'Oracle promet le retour de Xibalba"
+       "t": "L'Oracle promet le retour de Xibalba et la"
       },
       {
        "nl": true
       },
       {
-       "t": "et la fin de tout! C'est pour cela"
+       "t": "fin de tout! C'est pour cela que Kashihara"
       },
       {
        "nl": true
       },
       {
-       "t": "que Kashihara a caché sa découverte,"
+       "t": "a caché sa découverte,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "et pourtant...!"
+       "t": " et pourtant...!"
       }
      ]
     }
@@ -5823,7 +5715,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'Oracle promet le retour de Xibalba\net la fin de tout! C'est pour cela\nque Kashihara a caché sa découverte,\net pourtant...!",
+   "brut_fr": "L'Oracle promet le retour de Xibalba et la\nfin de tout! C'est pour cela que Kashihara\na caché sa découverte,[1205][U+000F] et pourtant...!",
    "brut_en": "The[SP]Oracle[SP]promises[SP]the[SP]revival[SP]of[SP]Xibalba\nand[SP]an[SP]end[SP]to[SP]everything![SP]Kashihara[SP]sealed\nhis[SP]discovery[SP]for[SP]that[SP]reason,[SP]and[SP]yet...!",
    "data_size": 288,
    "budget": 280
@@ -5843,19 +5735,19 @@
        "nl": true
       },
       {
-       "t": "Leurs deux factions étaient dans"
+       "t": "Leurs deux factions étaient dans un"
       },
       {
        "nl": true
       },
       {
-       "t": "un état perpétuel de guerre"
+       "t": "état perpétuel de guerre"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "galactique..."
+       "t": " galactique..."
       }
      ]
     }
@@ -5884,7 +5776,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Maïens venaient des Pléiades.\nLeurs deux factions étaient dans\nun état perpétuel de guerre\ngalactique...",
+   "brut_fr": "Les Maïens venaient des Pléiades.\nLeurs deux factions étaient dans un\nétat perpétuel de guerre[1205][U+000F] galactique...",
    "brut_en": "The[SP]Maians[SP]came[SP]here[SP]from[SP]the[SP]Pleiades.\nThe[SP]two[SP]factions[SP]amongst[SP]them[SP]were[SP]in[SP]a\nperpetual[SP]state[SP]of[SP]galactic[SP]war...",
    "data_size": 260,
    "budget": 252
@@ -5910,19 +5802,19 @@
        "pause": true
       },
       {
-       "t": " Et"
+       "t": " Et craignaient"
       },
       {
        "nl": true
       },
       {
-       "t": "craignaient les Bolontiku comme dieux"
+       "t": "les Bolontiku comme dieux"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "des enfers..."
+       "t": " des enfers..."
       }
      ]
     }
@@ -5957,7 +5849,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Mayas vénéraient les Oxlahuntiku\ncomme dieux de lumière...[1205][001E] Et\ncraignaient les Bolontiku comme dieux\ndes enfers...",
+   "brut_fr": "Les Mayas vénéraient les Oxlahuntiku\ncomme dieux de lumière...[1205][001E] Et craignaient\nles Bolontiku comme dieux[1205][U+000F] des enfers...",
    "brut_en": "The[SP]Mayans[SP]worshipped[SP]the[SP]Oxlahuntiku[SP]as[SP]gods\nof[SP]light...[1205][001E][SP]While[SP]they[SP]feared[SP]the[SP]Bolontiku\nas[SP]gods[SP]of[SP]the[SP]netherworld...",
    "data_size": 274,
    "budget": 266
@@ -5971,28 +5863,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Leur guerre a consumé notre système"
+       "t": "Leur guerre a consumé notre système solaire"
       },
       {
        "nl": true
       },
       {
-       "t": "solaire et les Oxlahuntiku ont péri..."
+       "t": "et les Oxlahuntiku ont péri..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "C'est la source des mythes courants"
+       "t": " C'est la"
       },
       {
        "nl": true
       },
       {
-       "t": "sur le Déluge."
+       "t": "source des mythes courants"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " sur le Déluge."
       }
      ]
     }
@@ -6027,7 +5922,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Leur guerre a consumé notre système\nsolaire et les Oxlahuntiku ont péri...[1205][001E]\nC'est la source des mythes courants\nsur le Déluge.",
+   "brut_fr": "Leur guerre a consumé notre système solaire\net les Oxlahuntiku ont péri...[1205][001E] C'est la\nsource des mythes courants[1205][U+000F] sur le Déluge.",
    "brut_en": "Their[SP]war[SP]consumed[SP]this[SP]solar[SP]system,[SP]and[SP]the\nOxlahuntiku[SP]perished...[1205][001E][SP]Those[SP]events[SP]are[SP]the\nsource[SP]of[SP]common[SP]legends[SP]of[SP]the[SP]flood.",
    "data_size": 294,
    "budget": 286
@@ -6041,19 +5936,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Mais la victoire a coûté aux"
+       "t": "Mais la victoire a coûté aux Bolontiku! Ils"
       },
       {
        "nl": true
       },
       {
-       "t": "Bolontiku! Ils ont épuisé leur"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "énergie et ont dû s'endormir!"
+       "t": "ont épuisé leur énergie et ont dû s'endormir!"
       }
      ]
     }
@@ -6082,7 +5971,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais la victoire a coûté aux\nBolontiku! Ils ont épuisé leur\nénergie et ont dû s'endormir!",
+   "brut_fr": "Mais la victoire a coûté aux Bolontiku! Ils\nont épuisé leur énergie et ont dû s'endormir!",
    "brut_en": "But[SP]the[SP]victory[SP]took[SP]its[SP]toll[SP]on[SP]the\nBolontiku![SP]They[SP]ran[SP]out[SP]of[SP]power[SP]and[SP]were\nforced[SP]into[SP]slumber!",
    "data_size": 230,
    "budget": 222
@@ -6163,19 +6052,19 @@
        "pause": true
       },
       {
-       "t": " C'est une"
+       "t": " C'est une énergie"
       },
       {
        "nl": true
       },
       {
-       "t": "énergie psychologique basée sur"
+       "t": "psychologique basée sur"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "les idéaux."
+       "t": " les idéaux."
       }
      ]
     }
@@ -6210,7 +6099,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'Énergie Idéale est le pouvoir de\npensée des vivants...[1205][001E] C'est une\nénergie psychologique basée sur\nles idéaux.",
+   "brut_fr": "L'Énergie Idéale est le pouvoir de\npensée des vivants...[1205][001E] C'est une énergie\npsychologique basée sur[1205][U+000F] les idéaux.",
    "brut_en": "Ideal[SP]Energy[SP]is[SP]the[SP]power[SP]of[SP]thought[SP]held[SP]by\nus[SP]living[SP]beings...[1205][001E][SP]It's[SP]a[SP]psychological\nenergy[SP]based[SP]on[SP]one's[SP]ideals.",
    "data_size": 266,
    "budget": 258
@@ -6224,31 +6113,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "L'énergie augmente quand on est"
+       "t": "L'énergie augmente quand on est passionné"
       },
       {
        "nl": true
       },
       {
-       "t": "passionné par ses idéaux ou quand"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "son rêve se réalise."
+       "t": "par ses idéaux ou quand son rêve se réalise."
       },
       {
        "pause": true
       },
       {
-       "t": " Elle se nourrit"
-      },
-      {
        "nl": true
       },
       {
-       "t": "de la joie de vivre."
+       "t": "Elle se nourrit"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de la joie de vivre."
       }
      ]
     }
@@ -6283,7 +6169,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'énergie augmente quand on est\npassionné par ses idéaux ou quand\nson rêve se réalise.[1205][001E] Elle se nourrit\nde la joie de vivre.",
+   "brut_fr": "L'énergie augmente quand on est passionné\npar ses idéaux ou quand son rêve se réalise.[1205][001E]\nElle se nourrit[1205][U+000F] de la joie de vivre.",
    "brut_en": "The[SP]energy[SP]is[SP]heightened[SP]most[SP]when[SP]one[SP]is\npassionate[SP]about[SP]one's[SP]ideals,[SP]or[SP]when[SP]one's\ndream[SP]comes[SP]true.[1205][001E][SP]It's[SP]fed[SP]by[SP]joie[SP]de[SP]vivre.",
    "data_size": 298,
    "budget": 290
@@ -6303,22 +6189,25 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Les crânes de cristal sont des Ooparts"
+       "t": " Les"
       },
       {
        "nl": true
       },
       {
-       "t": "placés dans notre histoire pour la"
+       "t": "crânes de cristal sont des Ooparts placés"
       },
       {
        "nl": true
       },
       {
-       "t": "récolter!"
+       "t": "dans notre histoire pour la"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " récolter!"
       }
      ]
     }
@@ -6350,7 +6239,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est la source de pouvoir maïenne...[1205][001E]\nLes crânes de cristal sont des Ooparts\nplacés dans notre histoire pour la\nrécolter!",
+   "brut_fr": "C'est la source de pouvoir maïenne...[1205][001E] Les\ncrânes de cristal sont des Ooparts placés\ndans notre histoire pour la[1205][U+000F] récolter!",
    "brut_en": "Ideal[SP]Energy[SP]is[SP]the[SP]Maian[SP]source[SP]of[SP]power...[1205][001E]\nAnd[SP]the[SP]crystal[SP]skulls[SP]are[SP]OOPArts[SP]planted\nin[SP]mankind's[SP]history[SP]to[SP]collect[SP]it!",
    "data_size": 282,
    "budget": 274
@@ -6364,25 +6253,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est la clé de Xibalba et de sa"
+       "t": "C'est la clé de Xibalba et de sa source"
       },
       {
        "nl": true
       },
       {
-       "t": "source de pouvoir! Qui contrôle"
+       "t": "de pouvoir! Qui contrôle Xibalba et"
       },
       {
        "nl": true
       },
       {
-       "t": "Xibalba et l'Énergie contrôle"
+       "t": "l'Énergie contrôle"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "le destin humain!"
+       "t": " le destin humain!"
       }
      ]
     }
@@ -6411,7 +6300,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est la clé de Xibalba et de sa\nsource de pouvoir! Qui contrôle\nXibalba et l'Énergie contrôle\nle destin humain!",
+   "brut_fr": "C'est la clé de Xibalba et de sa source\nde pouvoir! Qui contrôle Xibalba et\nl'Énergie contrôle[1205][U+000F] le destin humain!",
    "brut_en": "They're[SP]the[SP]keys[SP]to[SP]Xibalba[SP]and[SP]its[SP]power\nsource![SP]Whoever[SP]controls[SP]Xibalba[SP]and[SP]Ideal\nEnergy[SP]shall[SP]control[SP]mankind's[SP]fate!",
    "data_size": 274,
    "budget": 266
@@ -6519,13 +6408,7 @@
        "pause": true
       },
       {
-       "t": " Vous savez ça,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "j'espère."
+       "t": " Vous savez ça, j'espère."
       }
      ]
     }
@@ -6554,7 +6437,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le plus grand et pire dictateur du\nsiècle![1205][001E] Vous savez ça,\nj'espère.",
+   "brut_fr": "Le plus grand et pire dictateur du\nsiècle![1205][001E] Vous savez ça, j'espère.",
    "brut_en": "The[SP]greatest[SP]and[SP]worst[SP]dictator[SP]of[SP]the\ncentury![1205][001E][SP]You[SP]know[SP]that[SP]much,[SP]I[SP]hope.",
    "data_size": 186,
    "budget": 178
@@ -6568,25 +6451,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Savez-vous pourquoi il a lancé une"
+       "t": "Savez-vous pourquoi il a lancé une guerre"
       },
       {
        "nl": true
       },
       {
-       "t": "guerre mondiale? Son but était de"
+       "t": "mondiale? Son but était de pousser l'Homme"
       },
       {
        "nl": true
       },
       {
-       "t": "pousser l'Homme à l'extinction pour"
+       "t": "à l'extinction pour"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "hâter son évolution!"
+       "t": " hâter son évolution!"
       }
      ]
     }
@@ -6615,7 +6498,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Savez-vous pourquoi il a lancé une\nguerre mondiale? Son but était de\npousser l'Homme à l'extinction pour\nhâter son évolution!",
+   "brut_fr": "Savez-vous pourquoi il a lancé une guerre\nmondiale? Son but était de pousser l'Homme\nà l'extinction pour[1205][U+000F] hâter son évolution!",
    "brut_en": "But[SP]do[SP]you[SP]know[SP]why[SP]he[SP]started[SP]a[SP]world[SP]war?\nHis[SP]true[SP]goal[SP]was[SP]to[SP]drive[SP]man[SP]to[SP]the[SP]brink\nof[SP]extinction[SP]and[SP]hasten[SP]our[SP]evolution!",
    "data_size": 286,
    "budget": 278
@@ -6629,25 +6512,31 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il l'a dit! C'est un sorcier immortel"
+       "t": "Il l'a dit! C'est un sorcier immortel ayant"
       },
       {
        "nl": true
       },
       {
-       "t": "ayant appris la magie de mystiques"
+       "t": "appris la magie de mystiques mayas. Il"
       },
       {
        "nl": true
       },
       {
-       "t": "mayas. Il convoitait les secrets des"
+       "t": "convoitait les secrets des"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ruines du monde"
       },
       {
        "nl": true
       },
       {
-       "t": "ruines du monde entier!"
+       "t": "entier!"
       }
      ]
     }
@@ -6682,7 +6571,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il l'a dit! C'est un sorcier immortel\nayant appris la magie de mystiques\nmayas. Il convoitait les secrets des\nruines du monde entier!",
+   "brut_fr": "Il l'a dit! C'est un sorcier immortel ayant\nappris la magie de mystiques mayas. Il\nconvoitait les secrets des[1205][U+000F] ruines du monde\nentier!",
    "brut_en": "He[SP]said[SP]so[SP]himself![1205][001E][SP]He's[SP]an[SP]immortal[SP]sorcerer\nwho[SP]learned[SP]magic[SP]from[SP]Mayan[SP]mystics.[SP]He\ncraved[SP]the[SP]secrets[SP]of[SP]ruins[SP]around[SP]the[SP]world!",
    "data_size": 300,
    "budget": 292
@@ -6702,19 +6591,19 @@
        "nl": true
       },
       {
-       "t": "suicidé, mais il est bel et bien"
+       "t": "suicidé, mais il est bel et bien vivant!"
       },
       {
        "nl": true
       },
       {
-       "t": "vivant! D'innombrables rumeurs le"
+       "t": "D'innombrables rumeurs le"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "disent."
+       "t": " disent."
       }
      ]
     }
@@ -6743,7 +6632,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On vous a appris à l'école qu'il s'est\nsuicidé, mais il est bel et bien\nvivant! D'innombrables rumeurs le\ndisent.",
+   "brut_fr": "On vous a appris à l'école qu'il s'est\nsuicidé, mais il est bel et bien vivant!\nD'innombrables rumeurs le[1205][U+000F] disent.",
    "brut_en": "You[SP]probably[SP]learned[SP]in[SP]school[SP]that[SP]he[SP]killed\nhimself,[SP]but[SP]he's[SP]very[SP]much[SP]alive![SP]There[SP]are\ncountless[SP]rumors[SP]saying[SP]so.",
    "data_size": 268,
    "budget": 260
@@ -6812,25 +6701,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Le Bataillon se terre dans une"
+       "t": "Le Bataillon se terre dans une base secrète"
       },
       {
        "nl": true
       },
       {
-       "t": "base secrète au Pôle Sud ou en"
+       "t": "au Pôle Sud ou en Amérique du Sud,"
       },
       {
        "nl": true
       },
       {
-       "t": "Amérique du Sud, complotant pour"
+       "t": "complotant pour"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "atteindre le but du Führer!"
+       "t": " atteindre le but du Führer!"
       }
      ]
     }
@@ -6859,7 +6748,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Bataillon se terre dans une\nbase secrète au Pôle Sud ou en\nAmérique du Sud, complotant pour\natteindre le but du Führer!",
+   "brut_fr": "Le Bataillon se terre dans une base secrète\nau Pôle Sud ou en Amérique du Sud,\ncomplotant pour[1205][U+000F] atteindre le but du Führer!",
    "brut_en": "The[SP]Last[SP]Battalion[SP]lurks[SP]in[SP]a[SP]secret[SP]base\nsomewhere[SP]in[SP]the[SP]South[SP]Pole[SP]or[SP]South[SP]America,\nwhere[SP]they[SP]plot[SP]to[SP]fulfill[SP]the[SP]Fuhrer's[SP]goal!",
    "data_size": 298,
    "budget": 290
@@ -6928,25 +6817,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les plus redoutables forment le"
+       "t": "Les plus redoutables forment le noyau"
       },
       {
        "nl": true
       },
       {
-       "t": "noyau du Bataillon... Une unité"
+       "t": "du Bataillon... Une unité secrète"
       },
       {
        "nl": true
       },
       {
-       "t": "secrète appelée l'Ordre de la Sainte"
+       "t": "appelée l'Ordre de la Sainte"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Lance..."
+       "t": " Lance..."
       }
      ]
     }
@@ -6975,7 +6864,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les plus redoutables forment le\nnoyau du Bataillon... Une unité\nsecrète appelée l'Ordre de la Sainte\nLance...",
+   "brut_fr": "Les plus redoutables forment le noyau\ndu Bataillon... Une unité secrète\nappelée l'Ordre de la Sainte[1205][U+000F] Lance...",
    "brut_en": "The[SP]most[SP]fearsome[SP]of[SP]them[SP]are[SP]the[SP]core[SP]of\nthe[SP]Last[SP]Battalion...[SP]A[SP]secret[SP]unit[SP]called\nthe[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance...",
    "data_size": 262,
    "budget": 254
@@ -6989,19 +6878,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Cet Ordre aurait soi-disant"
+       "t": "Cet Ordre aurait soi-disant découvert la Lance"
       },
       {
        "nl": true
       },
       {
-       "t": "découvert la Lance du Destin, une"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "relique du miracle du Christ!"
+       "t": "du Destin, une relique du miracle du Christ!"
       }
      ]
     }
@@ -7030,7 +6913,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cet Ordre aurait soi-disant\ndécouvert la Lance du Destin, une\nrelique du miracle du Christ!",
+   "brut_fr": "Cet Ordre aurait soi-disant découvert la Lance\ndu Destin, une relique du miracle du Christ!",
    "brut_en": "This[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance[SP]has[SP]supposedly\ndiscovered[SP]the[SP]Spear[SP]of[SP]Destiny,[SP]a[SP]relic[SP]of\nChrist's[SP]miracle!",
    "data_size": 242,
    "budget": 234
@@ -7044,19 +6927,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "On dit que quiconque possède la Lance"
+       "t": "On dit que quiconque possède la Lance du"
       },
       {
        "nl": true
       },
       {
-       "t": "du Destin dominera le monde..."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Faites attention!"
+       "t": "Destin dominera le monde... Faites attention!"
       }
      ]
     }
@@ -7085,7 +6962,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On dit que quiconque possède la Lance\ndu Destin dominera le monde...\nFaites attention!",
+   "brut_fr": "On dit que quiconque possède la Lance du\nDestin dominera le monde... Faites attention!",
    "brut_en": "It[SP]is[SP]said[SP]that[SP]whoever[SP]possesses[SP]the[SP]Spear\nof[SP]Destiny[SP]will[SP]rule[SP]the[SP]world...[SP]You[SP]must\nbe[SP]careful!",
    "data_size": 228,
    "budget": 220
@@ -7099,13 +6976,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Si vous ne vouliez rien savoir,"
+       "t": "Si vous ne vouliez rien"
       },
       {
        "nl": true
       },
       {
-       "t": "pourquoi me parler!?"
+       "t": "savoir, pourquoi me parler!?"
       }
      ]
     }
@@ -7128,7 +7005,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si vous ne vouliez rien savoir,\npourquoi me parler!?",
+   "brut_fr": "Si vous ne vouliez rien\nsavoir, pourquoi me parler!?",
    "brut_en": "If[SP]you[SP]didn't[SP]need[SP]to[SP]know[SP]anything,[SP]then\nwhy[SP]did[SP]you[SP]talk[SP]to[SP]me!?",
    "data_size": 164,
    "budget": 156
@@ -7163,7 +7040,10 @@
        "nl": true
       },
       {
-       "t": "quelle affaire vous amène ?"
+       "t": "quelle affaire vous amène?"
+      },
+      {
+       "pause": true
       }
      ]
     }
@@ -7203,7 +7083,7 @@
     "options": [
      "Répandre rumeurs",
      "Vérifier rumeurs",
-     "Parler au Chef",
+     "Parler au Chef[1205]",
      "Annuler",
      "Quitter l'agence"
     ],
@@ -7230,7 +7110,10 @@
       "nl": true
      },
      {
-      "t": "quelle affaire vous amène ?"
+      "t": "quelle affaire vous amène?"
+     },
+     {
+      "pause": true
      }
     ]
    },
@@ -7269,7 +7152,7 @@
      }
     ]
    },
-   "brut_fr": "Le Cercle masqué et le Bataillon...[1205][001E]\nÇa pourrait être un problème.[1205][001E] Alors,\nquelle affaire vous amène ?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\n[1210][U+0159]Quitter l'agence",
+   "brut_fr": "Le Cercle masqué et le Bataillon...[1205][001E]\nÇa pourrait être un problème.[1205][001E] Alors,\nquelle affaire vous amène?[1205][U+000F]\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef[1205][U+000F]\nAnnuler\n[1210][U+0159]Quitter l'agence",
    "brut_en": "The[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion...[1205][001E]\nThis[SP]could[SP]be[SP]a[SP]problem.[1205][001E][SP]Now,[SP]what[SP]business\ndo[SP]you[SP]have[SP]with[SP]us[SP]today?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
    "data_size": 448,
    "budget": 440
@@ -7301,7 +7184,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur les rumeurs",
+     "Sur les rumeurs[1205]",
      "Sélection cachée"
     ],
     "question": [
@@ -7322,7 +7205,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Sélection cachée",
+   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs[1205][U+000F]\n[1210][NULL]Sélection cachée",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
    "data_size": 204,
    "budget": 196
@@ -7336,7 +7219,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Autre chose ?"
+       "t": "Autre chose?"
       }
      ]
     }
@@ -7354,14 +7237,14 @@
    "choix_fr": {
     "options": [
      "Répandre rumeurs",
-     "Vérifier rumeurs",
+     "Vérifier rumeurs[1205]",
      "Parler au Chef",
      "Annuler",
      "Quitter l'agence"
     ],
     "question": [
      {
-      "t": "Autre chose ?"
+      "t": "Autre chose?"
      }
     ]
    },
@@ -7379,7 +7262,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose ?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
+   "brut_fr": "Autre chose?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs[1205][U+000F]\nParler au Chef\nAnnuler\nQuitter l'agence",
    "brut_en": "Anything[SP]else?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
    "data_size": 240,
    "budget": 232
@@ -7411,7 +7294,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur les rumeurs",
+     "Sur les rumeurs[1205]",
      "Sélection cachée"
     ],
     "question": [
@@ -7432,7 +7315,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Sélection cachée",
+   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs[1205][U+000F]\n[1210][NULL]Sélection cachée",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
    "data_size": 204,
    "budget": 196
@@ -7446,13 +7329,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Dans de vieux dossiers, j'ai trouvé"
+       "t": "Dans de vieux dossiers, j'ai"
       },
       {
        "nl": true
       },
       {
-       "t": "un rapport sur Kashihara."
+       "t": "trouvé un rapport sur Kashihara."
       }
      ]
     }
@@ -7475,7 +7358,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Dans de vieux dossiers, j'ai trouvé\nun rapport sur Kashihara.",
+   "brut_fr": "Dans de vieux dossiers, j'ai\ntrouvé un rapport sur Kashihara.",
    "brut_en": "Looking[SP]into[SP]some[SP]old[SP]records,[SP]I[SP]found[SP]an\ninvestigation[SP]report[SP]on[SP]your[SP]man[SP]Kashihara.",
    "data_size": 212,
    "budget": 204
@@ -7495,22 +7378,25 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "On dirait qu'il a fouillé sur"
+       "t": " On dirait"
       },
       {
        "nl": true
       },
       {
-       "t": "Kashihara. C'est sur le bureau, si"
+       "t": "qu'il a fouillé sur Kashihara. C'est sur"
       },
       {
        "nl": true
       },
       {
-       "t": "ça vous intéresse."
+       "t": "le bureau, si"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " ça vous intéresse."
       }
      ]
     }
@@ -7542,7 +7428,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L'ancien habitant de ce corps...[1205][001E]\nOn dirait qu'il a fouillé sur\nKashihara. C'est sur le bureau, si\nça vous intéresse.",
+   "brut_fr": "L'ancien habitant de ce corps...[1205][001E] On dirait\nqu'il a fouillé sur Kashihara. C'est sur\nle bureau, si[1205][U+000F] ça vous intéresse.",
    "brut_en": "The[SP]former[SP]inhabitant[SP]of[SP]this[SP]body...[1205][001E]\nSeems[SP]he[SP]did[SP]some[SP]digging[SP]into[SP]Kashihara.\nIt's[SP]on[SP]the[SP]desk,[SP]if[SP]you're[SP]interested.",
    "data_size": 284,
    "budget": 276
@@ -7556,25 +7442,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tout ce qu'on peut faire, c'est"
+       "t": "Tout ce qu'on peut faire, c'est répandre"
       },
       {
        "nl": true
       },
       {
-       "t": "répandre quelques rumeurs ici et là."
+       "t": "quelques rumeurs ici et là. Le reste"
       },
       {
        "nl": true
       },
       {
-       "t": "Le reste dépend de vous. Bon..."
+       "t": "dépend de vous. Bon..."
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "À plus tard."
+       "t": " À plus tard."
       }
      ]
     }
@@ -7603,7 +7489,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tout ce qu'on peut faire, c'est\nrépandre quelques rumeurs ici et là.\nLe reste dépend de vous. Bon...\nÀ plus tard.",
+   "brut_fr": "Tout ce qu'on peut faire, c'est répandre\nquelques rumeurs ici et là. Le reste\ndépend de vous. Bon...[1205][U+000F] À plus tard.",
    "brut_en": "All[SP]we[SP]can[SP]do[SP]for[SP]you[SP]is[SP]to[SP]spread[SP]some\nrumors[SP]here[SP]and[SP]there.[SP]The[SP]rest[SP]is[SP]all[SP]up\nto[SP]you.[SP]Well[SP]then...[SP]Be[SP]seeing[SP]ya.",
    "data_size": 274,
    "budget": 266
@@ -7617,13 +7503,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les concours, hein...? Parlez à"
+       "t": "Les concours, hein...? Parlez"
       },
       {
        "nl": true
       },
       {
-       "t": "Tamaki pour y participer."
+       "t": "à Tamaki pour y participer."
       }
      ]
     }
@@ -7646,7 +7532,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les concours, hein...? Parlez à\nTamaki pour y participer.",
+   "brut_fr": "Les concours, hein...? Parlez\nà Tamaki pour y participer.",
    "brut_en": "Sweepstakes,[SP]huh...?[SP]Talk[SP]to[SP]Tamaki-kun[SP]if\nyou[SP]want[SP]to[SP]enter[SP]them.",
    "data_size": 172,
    "budget": 164
@@ -7660,19 +7546,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "100 yens, stp, miaou"
+       "t": "100 yens, stp, miaou 100 yens,"
       },
       {
        "nl": true
       },
       {
-       "t": "100 yens, stp, miaou"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "100 yens, stp, miaou"
+       "t": "stp, miaou 100 yens, stp, miaou"
       }
      ]
     }
@@ -7701,7 +7581,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "100 yens, stp, miaou[1432][NULL][NULL][U+0007]\n100 yens, stp, miaou[1432][NULL][NULL][U+0007]\n100 yens, stp, miaou[1432][NULL][NULL][U+0007]",
+   "brut_fr": "100 yens, stp, miaou[1432][NULL][NULL][U+0007] 100 yens,\nstp, miaou[1432][NULL][NULL][U+0007] 100 yens, stp, miaou[1432][NULL][NULL][U+0007]",
    "brut_en": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
    "data_size": 192,
    "budget": 184
@@ -7766,25 +7646,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "T'es fauché, miaou"
+       "t": "T'es fauché, miaou Montre-moi un menteur, je"
       },
       {
        "nl": true
       },
       {
-       "t": "Montre-moi un menteur, je te montrerai"
+       "t": "te montrerai un voleur, miaou"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "un voleur, miaou"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Sors d'ici, fsh"
+       "t": " Sors d'ici, fsh"
       }
      ]
     }
@@ -7813,7 +7687,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "T'es fauché, miaou[1432][NULL][NULL][U+0007]\nMontre-moi un menteur, je te montrerai\nun voleur, miaou[1432][NULL][NULL][U+0007]\nSors d'ici, fsh[1432][NULL][NULL][U+0007]",
+   "brut_fr": "T'es fauché, miaou[1432][NULL][NULL][U+0007] Montre-moi un menteur, je\nte montrerai un voleur, miaou[1432][NULL][NULL][U+0007][1205][U+000F] Sors d'ici, fsh[1432][NULL][NULL][U+0007]",
    "brut_en": "Oh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][U+0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][U+0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][U+0007]",
    "data_size": 250,
    "budget": 242
@@ -7833,19 +7707,19 @@
        "pause": true
       },
       {
+       "t": " Tu m'as nourri 20"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Tu m'as nourri 20 fois, miaou"
+       "t": "fois, miaou"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "J'en attends plus, miaou"
+       "t": " J'en attends plus, miaou"
       }
      ]
     }
@@ -7880,7 +7754,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ronron... Je suis ému[1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 20 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nJ'en attends plus, miaou[1432][NULL][NULL][U+0007]",
+   "brut_fr": "Ronron... Je suis ému[1432][NULL][NULL][U+0007][1205][U+000F] Tu m'as nourri 20\nfois, miaou[1432][NULL][NULL][U+0007][1205][U+000F] J'en attends plus, miaou[1432][NULL][NULL][U+0007]",
    "brut_en": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][U+0007][1205][U+000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][U+0007]",
    "data_size": 228,
    "budget": 220
@@ -7900,19 +7774,19 @@
        "pause": true
       },
       {
+       "t": " Tu m'as nourri 50 fois,"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Tu m'as nourri 50 fois, ronron"
+       "t": "ronron"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Tu es si généreux, ronrrrron"
+       "t": " Tu es si généreux, ronrrrron"
       }
      ]
     }
@@ -7947,7 +7821,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Miaourveilleux![1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 50 fois, ronron[1432][NULL][NULL][U+0007][1205][U+000F]\nTu es si généreux, ronrrrron[1432][NULL][NULL][U+0007]",
+   "brut_fr": "Miaourveilleux![1432][NULL][NULL][U+0007][1205][U+000F] Tu m'as nourri 50 fois,\nronron[1432][NULL][NULL][U+0007][1205][U+000F] Tu es si généreux, ronrrrron[1432][NULL][NULL][U+0007]",
    "brut_en": "Meowvelous![1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][U+0007][1205][U+000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][U+0007]",
    "data_size": 244,
    "budget": 236
@@ -7967,19 +7841,19 @@
        "pause": true
       },
       {
+       "t": " Tu m'as nourri 80 fois,"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Tu m'as nourri 80 fois, miaou"
+       "t": "miaou"
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Tu caches quelque chose, miaou?"
+       "t": " Tu caches quelque chose, miaou?"
       }
      ]
     }
@@ -8014,7 +7888,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Super, miaou![1205][U+000F]\nTu m'as nourri 80 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nTu caches quelque chose, miaou?",
+   "brut_fr": "Super, miaou![1205][U+000F] Tu m'as nourri 80 fois,\nmiaou[1432][NULL][NULL][U+0007][1205][U+000F] Tu caches quelque chose, miaou?",
    "brut_en": "Amazing,[SP]meow![1205][U+000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
    "data_size": 224,
    "budget": 216
@@ -8034,19 +7908,19 @@
        "pause": true
       },
       {
+       "t": " Tout pile 100"
+      },
+      {
        "nl": true
       },
       {
-       "t": "Tout pile 100 repas..."
+       "t": "repas..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "J'ai récolté 10 000 yens, miaou!"
+       "t": " J'ai récolté 10 000 yens, miaou!"
       }
      ]
     }
@@ -8081,7 +7955,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le moment est venu, miaou...[1205][U+000F]\nTout pile 100 repas...[1205][U+000F]\nJ'ai récolté 10 000 yens, miaou!",
+   "brut_fr": "Le moment est venu, miaou...[1205][U+000F] Tout pile 100\nrepas...[1205][U+000F] J'ai récolté 10 000 yens, miaou!",
    "brut_en": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][U+000F]\nAn[SP]even[SP]100[SP]feedings...[1205][U+000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
    "data_size": 234,
    "budget": 226
@@ -8095,16 +7969,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je m'en veux de recevoir tant, miaou!"
-      },
-      {
-       "pause": true
+       "t": "Je m'en veux de recevoir tant,"
       },
       {
        "nl": true
       },
       {
-       "t": "J'ai un présent pour toi!"
+       "t": "miaou!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai un présent pour toi!"
       }
      ]
     }
@@ -8130,7 +8007,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'en veux de recevoir tant, miaou![1205][U+000F]\nJ'ai un présent pour toi!",
+   "brut_fr": "Je m'en veux de recevoir tant,\nmiaou![1205][U+000F] J'ai un présent pour toi!",
    "brut_en": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][U+000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!",
    "data_size": 190,
    "budget": 182
@@ -8212,7 +8089,7 @@
        "pause": true
       },
       {
-       "t": "Radin!"
+       "t": " Radin!"
       }
      ]
     }
@@ -8235,7 +8112,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...[1205][U+000F]Radin!",
+   "brut_fr": "...[1205][U+000F] Radin!",
    "brut_en": "...[1205][U+000F]Cheaps-cat!",
    "data_size": 76,
    "budget": 68
@@ -8249,13 +8126,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "La porte ne s'ouvre pas, miaou"
+       "t": "La porte ne s'ouvre pas,"
       },
       {
        "nl": true
       },
       {
-       "t": "Arrête d'essayer, miaou"
+       "t": "miaou Arrête d'essayer, miaou"
       }
      ]
     }
@@ -8278,7 +8155,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La porte ne s'ouvre pas, miaou[1432][NULL][NULL][U+0007]\nArrête d'essayer, miaou[1432][NULL][NULL][U+0007]",
+   "brut_fr": "La porte ne s'ouvre pas,\nmiaou[1432][NULL][NULL][U+0007] Arrête d'essayer, miaou[1432][NULL][NULL][U+0007]",
    "brut_en": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][U+0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][U+0007]",
    "data_size": 174,
    "budget": 166
@@ -8347,19 +8224,19 @@
        "nl": true
       },
       {
-       "t": "contre le Cercle masqué..."
+       "t": "contre le Cercle masqué... ou plutôt,"
       },
       {
        "nl": true
       },
       {
-       "t": "ou plutôt, contre le Bataillon,"
+       "t": "contre le Bataillon,"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "n'est-ce pas!?"
+       "t": " n'est-ce pas!?"
       }
      ]
     }
@@ -8394,7 +8271,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Prends l'[E4][NULL][NULL][U+0006]In Lak'ech[E4][NULL][NULL][0002]! Tu te bats\ncontre le Cercle masqué...\nou plutôt, contre le Bataillon,\nn'est-ce pas!?",
+   "brut_fr": "Prends l'[E4][NULL][NULL][U+0006]In Lak'ech[E4][NULL][NULL][0002]! Tu te bats\ncontre le Cercle masqué... ou plutôt,\ncontre le Bataillon,[1205][U+000F] n'est-ce pas!?",
    "brut_en": "T-Take[SP]the[SP][E4][NULL][NULL][U+0006]In[SP]Lak'ech[E4][NULL][NULL][0002][SP]with[SP]you![SP]You[SP]are\nfighting[SP]the[SP]Masked[SP]Circle...[SP]or[SP]rather,\nthe[SP]Last[SP]Battalion,[SP]aren't[SP]you!?",
    "data_size": 274,
    "budget": 266
@@ -8482,13 +8359,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Apporte-moi les rumeurs que tu"
+       "t": "Apporte-moi les rumeurs que"
       },
       {
        "nl": true
       },
       {
-       "t": "entends des colporteurs."
+       "t": "tu entends des colporteurs."
       }
      ]
     }
@@ -8511,7 +8388,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Apporte-moi les rumeurs que tu\nentends des colporteurs.",
+   "brut_fr": "Apporte-moi les rumeurs que\ntu entends des colporteurs.",
    "brut_en": "You'll[SP]need[SP]to[SP]bring[SP]me[SP]rumors[SP]you[SP]hear[SP]from\nrumormongers.",
    "data_size": 156,
    "budget": 148
@@ -8568,19 +8445,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu peux te rappeler des rumeurs déjà"
+       "t": "Tu peux te rappeler des rumeurs déjà en"
       },
       {
        "nl": true
       },
       {
-       "t": "en circulation en me demandant de"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "les vérifier."
+       "t": "circulation en me demandant de les vérifier."
       }
      ]
     }
@@ -8609,7 +8480,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu peux te rappeler des rumeurs déjà\nen circulation en me demandant de\nles vérifier.",
+   "brut_fr": "Tu peux te rappeler des rumeurs déjà en\ncirculation en me demandant de les vérifier.",
    "brut_en": "You[SP]can[SP]remind[SP]yourself[SP]which[SP]rumors[SP]are\nalready[SP]circulating[SP]by[SP]asking[SP]me[SP]to[SP]check\nrumors.",
    "data_size": 220,
    "budget": 212
@@ -8623,19 +8494,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Non seulement tu peux voir celles que"
+       "t": "Non seulement tu peux voir celles"
       },
       {
        "nl": true
       },
       {
-       "t": "j'ai diffusées, mais aussi celles"
+       "t": "que j'ai diffusées, mais aussi"
       },
       {
        "nl": true
       },
       {
-       "t": "que les démons répandent."
+       "t": "celles que les démons répandent."
       }
      ]
     }
@@ -8664,7 +8535,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non seulement tu peux voir celles que\nj'ai diffusées, mais aussi celles\nque les démons répandent.",
+   "brut_fr": "Non seulement tu peux voir celles\nque j'ai diffusées, mais aussi\ncelles que les démons répandent.",
    "brut_en": "Not[SP]only[SP]can[SP]you[SP]remember[SP]which[SP]rumors[SP]I've\nbeen[SP]putting[SP]out[SP]there[SP]for[SP]you,[SP]you[SP]can[SP]see\nwhich[SP]ones[SP]demons[SP]are[SP]spreading.",
    "data_size": 280,
    "budget": 272
@@ -8684,7 +8555,7 @@
        "nl": true
       },
       {
-       "t": "C'est bien celle-là ?"
+       "t": "C'est bien celle-là?"
       }
      ]
     }
@@ -8707,7 +8578,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
@@ -8718,7 +8589,7 @@
       "nl": true
      },
      {
-      "t": "C'est bien celle-là ?"
+      "t": "C'est bien celle-là?"
      }
     ]
    },
@@ -8739,7 +8610,7 @@
      }
     ]
    },
-   "brut_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
    "data_size": 182,
    "budget": 174
@@ -8759,7 +8630,7 @@
        "nl": true
       },
       {
-       "t": "Toujours partant ?"
+       "t": "Toujours partant?"
       }
      ]
     }
@@ -8782,7 +8653,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui",
+     "Oui[1205]",
      "Non"
     ],
     "question": [
@@ -8793,7 +8664,7 @@
       "nl": true
      },
      {
-      "t": "Toujours partant ?"
+      "t": "Toujours partant?"
      }
     ]
    },
@@ -8814,7 +8685,7 @@
      }
     ]
    },
-   "brut_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant ?\n[1208][0002]Oui\nNon",
+   "brut_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]\nNon",
    "brut_en": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
    "data_size": 206,
    "budget": 198

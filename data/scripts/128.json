@@ -16,16 +16,13 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Est-ce là l'étendue de ta soif"
+       "t": " Est-ce là"
       },
       {
        "nl": true
       },
       {
-       "t": "de destruction?"
+       "t": "l'étendue de ta soif de destruction?"
       }
      ]
     }
@@ -54,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est tout? Quel gâchis...[1205][001E]\nEst-ce là l'étendue de ta soif\nde destruction?",
+   "brut_fr": "C'est tout? Quel gâchis...[1205][001E] Est-ce là\nl'étendue de ta soif de destruction?",
    "brut_en": "Is[SP]that[SP]all?[SP]What[SP]a[SP]waste...[1205][001E][SP]Is[SP]this[SP]the\nextent[SP]of[SP]your[SP]hunger[SP]for[SP]destruction?",
    "data_size": 198,
    "budget": 190
@@ -74,13 +71,7 @@
        "pause": true
       },
       {
-       "t": " Comment savez-vous"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "cela...?"
+       "t": " Comment savez-vous cela...?"
       }
      ]
     }
@@ -103,7 +94,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Argh...[1205][001E] Comment savez-vous\ncela...?",
+   "brut_fr": "Argh...[1205][001E] Comment savez-vous cela...?",
    "brut_en": "Ngh...[1205][001E][SP]How[SP]do[SP]you[SP]know[SP]about[SP]that...?",
    "data_size": 100,
    "budget": 92
@@ -123,37 +114,31 @@
        "pause": true
       },
       {
-       "t": " Ahaha..."
+       "t": " Ahaha... Après tout ce"
       },
       {
        "nl": true
       },
       {
-       "t": "Après tout ce temps, tu tiens à"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "la vie à présent?"
+       "t": "temps, tu tiens à la vie à présent?"
       },
       {
        "pause": true
       },
       {
-       "t": " Même un rien"
+       "t": " Même un"
       },
       {
        "nl": true
       },
       {
-       "t": "comme toi ne peut abandonner"
+       "t": "rien"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "ses rêves..."
+       "t": " comme toi ne peut abandonner ses rêves..."
       }
      ]
     }
@@ -194,7 +179,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Nous savons tout.[1205][001E] Ahaha...\nAprès tout ce temps, tu tiens à\nla vie à présent?[1205][001E] Même un rien\ncomme toi ne peut abandonner\nses rêves...",
+   "brut_fr": "Nous savons tout.[1205][001E] Ahaha... Après tout ce\ntemps, tu tiens à la vie à présent?[1205][001E] Même un\nrien[1205][U+000F] comme toi ne peut abandonner ses rêves...",
    "brut_en": "There[SP]is[SP]nothing[SP]we[SP]do[SP]not[SP]know.[1205][001E][SP]Hahaha...\nAfter[SP]so[SP]long,[SP]you[SP]cling[SP]to[SP]life[SP]now?[1205][001E][SP]Even[SP]a\nnothing[SP]like[SP]you[SP]can't[SP]abandon[SP]your[SP]dreams...",
    "data_size": 310,
    "budget": 302
@@ -208,34 +193,34 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu as encore des attaches."
+       "t": "Tu as encore des attaches. On n'a"
       },
       {
        "nl": true
       },
       {
-       "t": "On n'a que faire d'un pantin"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "brisé."
+       "t": "que faire d'un pantin brisé."
       },
       {
        "pause": true
       },
       {
-       "t": " Auf Wiedersehen..."
-      },
-      {
-       "pause": true
+       "t": " Auf"
       },
       {
        "nl": true
       },
       {
-       "t": "Retourne au néant."
+       "t": "Wiedersehen..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Retourne au néant."
       }
      ]
     }
@@ -273,7 +258,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu as encore des attaches.\nOn n'a que faire d'un pantin\nbrisé.[1205][001E] Auf Wiedersehen...[1205][001E]\nRetourne au néant.",
+   "brut_fr": "Tu as encore des attaches. On n'a\nque faire d'un pantin brisé.[1205][001E] Auf\nWiedersehen...[1205][001E][1205][U+000F] Retourne au néant.",
    "brut_en": "You[SP]still[SP]have[SP]attachments.[SP]We[SP]have[SP]no[SP]need\nof[SP]a[SP]broken[SP]marionette.[1205][001E][SP]Auf[SP]Wiedersehen...[1205][001E]\nReturn[SP]to[SP]the[SP]abyss[SP]of[SP]unconsciousness.",
    "data_size": 298,
    "budget": 290
@@ -324,13 +309,7 @@
        "pause": true
       },
       {
-       "t": " on va"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "péter un câble..."
+       "t": " on va péter un câble..."
       },
       {
        "pause": true
@@ -342,10 +321,10 @@
        "t": "Je vous dirai pas de dégager!"
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Amenez-vous!"
+       "t": " Amenez-vous!"
       }
      ]
     }
@@ -386,7 +365,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Là, tout de suite...[1205][001E] on va\npéter un câble...[1205][001E]\nJe vous dirai pas de dégager!\nAmenez-vous!",
+   "brut_fr": "Là, tout de suite...[1205][001E] on va péter un câble...[1205][001E]\nJe vous dirai pas de dégager![1205][U+000F] Amenez-vous!",
    "brut_en": "Right[SP]now...[1205][001E][SP]we're[SP]this[SP]close[SP]to[SP]bursting\nsome[SP]blood[SP]vessels...[1205][001E][SP]I[SP]ain't[SP]gonna[SP]tell[SP]you\nto[SP]get[SP]lost![SP]Come[SP]get[SP]us!",
    "data_size": 260,
    "budget": 252

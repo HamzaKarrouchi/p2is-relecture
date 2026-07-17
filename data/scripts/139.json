@@ -41,22 +41,28 @@
      "nom": null,
      "seg": [
       {
-       "t": "Wunderbar...! Une apparence si majestueuse est"
+       "t": "Wunderbar...! Une apparence si"
       },
       {
        "nl": true
       },
       {
-       "t": "digne de la vraie ville du Führer..."
+       "t": "majestueuse est digne de la vraie"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ville du Führer..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
+       "pause": true
       },
       {
-       "t": "Der Führer Staat!"
+       "t": " Der Führer Staat!"
       }
      ]
     }
@@ -88,7 +94,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Wunderbar...! Une apparence si majestueuse est\ndigne de la vraie ville du Führer...[1205][001E]\nDer Führer Staat!",
+   "brut_fr": "Wunderbar...! Une apparence si\nmajestueuse est digne de la vraie\nville du Führer...[1205][001E][1205][U+000F] Der Führer Staat!",
    "brut_en": "Wunderbar...![SP]Such[SP]a[SP]dignified[SP]appearance[SP]is\nworthy[SP]of[SP]the[SP]true[SP]city[SP]for[SP]a[SP]Fuhrer...[1205][001E]\nThe[SP]Fuhrer[SP]Staat!",
    "data_size": 234,
    "budget": 226
@@ -108,13 +114,10 @@
        "pause": true
       },
       {
-       "t": " Regarde!"
-      },
-      {
        "nl": true
       },
       {
-       "t": "Père avait raison!"
+       "t": "Regarde! Père avait raison!"
       }
      ]
     }
@@ -143,7 +146,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hahaha... Aaaahahahahaha![1205][001E] Regarde!\nPère avait raison!",
+   "brut_fr": "Hahaha... Aaaahahahahaha![1205][001E]\nRegarde! Père avait raison!",
    "brut_en": "Hahaha....[SP]Aaaahahahahaha![1205][001E][SP]Look![SP]What\nFather[SP]said[SP]was[SP]true!",
    "data_size": 146,
    "budget": 138
@@ -206,25 +209,16 @@
        "pause": true
       },
       {
-       "t": " Non... Ce que"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "je voulais..."
+       "t": " Non... Ce que je voulais..."
       },
       {
        "pause": true
       },
       {
-       "t": " pas..."
-      },
-      {
        "nl": true
       },
       {
-       "t": "cette chose horrible...!"
+       "t": "pas... cette chose horrible...!"
       }
      ]
     }
@@ -259,7 +253,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Urgh...!?[1205][001E] Non... Ce que\nje voulais...[1205][001E] pas...\ncette chose horrible...!",
+   "brut_fr": "Urgh...!?[1205][001E] Non... Ce que je voulais...[1205][001E]\npas... cette chose horrible...!",
    "brut_en": "Ngh...!?[1205][001E][SP]No...[SP]What...[SP]I[SP]wanted...[1205][001E][SP]wasn't...\nthis[SP]horrible...[SP]thing...!",
    "data_size": 174,
    "budget": 166
@@ -427,19 +421,25 @@
        "pause": true
       },
       {
-       "t": " Si vous ne"
+       "t": " Si"
       },
       {
        "nl": true
       },
       {
-       "t": "vous dépêchez pas, vous serez une autre"
+       "t": "vous ne vous dépêchez pas, vous serez une"
       },
       {
        "nl": true
       },
       {
-       "t": "victime de la destruction du monde!"
+       "t": "autre"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " victime de la destruction du monde!"
       }
      ]
     }
@@ -474,7 +474,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cet endroit va s'effondrer bientôt![1205][001E] Si vous ne\nvous dépêchez pas, vous serez une autre\nvictime de la destruction du monde!",
+   "brut_fr": "Cet endroit va s'effondrer bientôt![1205][001E] Si\nvous ne vous dépêchez pas, vous serez une\nautre[1205][U+000F] victime de la destruction du monde!",
    "brut_en": "This[SP]place[SP]will[SP]collapse[SP]soon![1205][001E][SP]If[SP]you[SP]don't\nhurry[SP]and[SP]get[SP]on[SP]with[SP]it,[SP]you'll[SP]be[SP]another\ncasualty[SP]of[SP]the[SP]world's[SP]destruction!",
    "data_size": 278,
    "budget": 270
@@ -598,16 +598,19 @@
        "pause": true
       },
       {
-       "t": " qui a tué sœurette..."
-      },
-      {
-       "pause": true
+       "t": " qui a tué"
       },
       {
        "nl": true
       },
       {
-       "t": "qui a tué maman..."
+       "t": "sœurette..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " qui a tué maman..."
       },
       {
        "pause": true
@@ -657,7 +660,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Urgh... C'est [1113]...[1205][001E] qui a tué sœurette...[1205][001E]\nqui a tué maman...[1205][001E] hein, papa...?",
+   "brut_fr": "Urgh... C'est [1113]...[1205][001E] qui a tué\nsœurette...[1205][001E] qui a tué maman...[1205][001E] hein, papa...?",
    "brut_en": "Ngh...[SP]It[SP]was[SP][1113]...[1205][001E][SP]who[SP]killed[SP]Big[SP]Sis...[1205][001E]\nwho[SP]killed[SP]our[SP]Mama...[1205][001E][SP]right,[SP]Papa...?",
    "data_size": 194,
    "budget": 186
@@ -714,10 +717,7 @@
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "je suis... je..."
+       "t": " je suis... je..."
       }
      ]
     }
@@ -746,7 +746,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Jun...?[1205][001E] Qui suis-je?[1205][001E]\nje suis... je...",
+   "brut_fr": "Jun...?[1205][001E] Qui suis-je?[1205][001E] je suis... je...",
    "brut_en": "Jun...?[1205][001E][SP]Who...[SP]am[SP]I...?[1205][001E][SP]I'm...[SP]I'm...",
    "data_size": 106,
    "budget": 98
@@ -766,16 +766,19 @@
        "pause": true
       },
       {
-       "t": " Tu es Joker..."
-      },
-      {
-       "pause": true
+       "t": " Tu es"
       },
       {
        "nl": true
       },
       {
-       "t": "Tue... Tue... Tue..."
+       "t": "Joker..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tue... Tue... Tue..."
       }
      ]
     }
@@ -807,7 +810,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "N'oublie pas...[1205][001E] Tu es Joker...[1205][001E]\nTue... Tue... Tue...",
+   "brut_fr": "N'oublie pas...[1205][001E] Tu es\nJoker...[1205][001E] Tue... Tue... Tue...",
    "brut_en": "Don't[SP]forget...[1205][001E][SP]You[SP]are[SP]Joker...[1205][001E]\nKill...[SP]Kill...[SP]Kill...",
    "data_size": 160,
    "budget": 152

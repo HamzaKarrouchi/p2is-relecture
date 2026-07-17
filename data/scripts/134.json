@@ -16,7 +16,7 @@
        "pause": true
       },
       {
-       "t": "Pardon... Pardon!"
+       "t": " Pardon... Pardon!"
       },
       {
        "pause": true
@@ -57,7 +57,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "*Snif* Soeurette...[1205][001E]Pardon... Pardon![1205][U+000F]\nJe... n'ai pas pu te sauver...",
+   "brut_fr": "*Snif* Soeurette...[1205][001E] Pardon... Pardon![1205][U+000F]\nJe... n'ai pas pu te sauver...",
    "brut_en": "*sob*[SP]Big[SP]Sis...[1205][001E][SP]I'm[SP]sorry...[SP]I'm[SP]sorry![1205][001E]\nI...[SP]I[SP]couldn't[SP]save[SP]you...",
    "data_size": 164,
    "budget": 156
@@ -77,19 +77,19 @@
        "pause": true
       },
       {
-       "t": "C'est faux, Jun..."
+       "t": " C'est faux, Jun..."
       },
       {
        "pause": true
       },
       {
-       "t": "Ce que nous venons"
+       "t": " Ce que nous"
       },
       {
        "nl": true
       },
       {
-       "t": "de voir n'est jamais arrivé!"
+       "t": "venons de voir n'est jamais arrivé!"
       }
      ]
     }
@@ -124,7 +124,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non...![1205][001E]C'est faux, Jun...[1205][001E]Ce que nous venons\nde voir n'est jamais arrivé!",
+   "brut_fr": "Non...![1205][001E] C'est faux, Jun...[1205][001E] Ce que nous\nvenons de voir n'est jamais arrivé!",
    "brut_en": "No...![1205][001E][SP]That[SP]wasn't[SP]it,[SP]Jun...[1205][001E][SP]What[SP]we[SP]just\nsaw[SP]wasn't[SP]what[SP]happened[SP]at[SP]all!",
    "data_size": 182,
    "budget": 174
@@ -144,25 +144,16 @@
        "pause": true
       },
       {
-       "t": " a essayé de sauver"
+       "t": " a essayé de sauver Maya..."
       },
       {
        "nl": true
-      },
-      {
-       "t": "Maya... "
       },
       {
        "pause": true
       },
       {
-       "t": "Ce n'était pas notre faute!"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Souviens toi!"
+       "t": "Ce n'était pas notre faute! Souviens toi!"
       }
      ]
     }
@@ -203,7 +194,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est vrai... [1205][001E][1114] a essayé de sauver\nMaya... [1205][001E]Ce n'était pas notre faute!\nSouviens toi!",
+   "brut_fr": "C'est vrai... [1205][001E][1114] a essayé de sauver Maya...\n[1205][001E]Ce n'était pas notre faute! Souviens toi!",
    "brut_en": "That's[SP]right...[1205][001E][SP][1114][SP]tried[SP]to[SP]save\nBig[SP]Maya...[1205][001E][SP]We're[SP]to[SP]blame[SP]here![SP]You[SP]gotta\nremember!",
    "data_size": 204,
    "budget": 196
@@ -278,19 +269,19 @@
        "pause": true
       },
       {
-       "t": "C'est impossible que tu sois"
+       "t": " C'est impossible que"
       },
       {
        "nl": true
       },
       {
-       "t": "soeurette!"
+       "t": "tu sois soeurette!"
       },
       {
        "hero": "prenom"
       },
       {
-       "t": " l'a tuée! "
+       "t": " l'a tuée!"
       }
      ]
     }
@@ -325,7 +316,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est faux...[1205][001E]C'est impossible que tu sois\nsoeurette![1113] l'a tuée! ",
+   "brut_fr": "C'est faux...[1205][001E] C'est impossible que\ntu sois soeurette![1113] l'a tuée!",
    "brut_en": "That's[SP]a[SP]lie...[1205][001E][SP]There's[SP]no[SP]way[SP]you[SP]could[SP]be\nBig[SP]Sis![SP][1113][SP]killed[SP]her!",
    "data_size": 156,
    "budget": 148
@@ -363,13 +354,10 @@
        "pause": true
       },
       {
-       "t": " Au fond, Jun"
-      },
-      {
        "nl": true
       },
       {
-       "t": "sait déjà tout ça..."
+       "t": "Au fond, Jun sait déjà tout ça..."
       }
      ]
     }
@@ -416,7 +404,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une [E4][NULL][NULL][U+0006]fleur de framboisier[E4][NULL][NULL][0002]...[1205][001E] [1432][NULL][NULL][0014]Le regret[1432][NULL][NULL][0014]...[1205][001E] Au fond, Jun\nsait déjà tout ça...",
+   "brut_fr": "Une [E4][NULL][NULL][U+0006]fleur de framboisier[E4][NULL][NULL][0002]...[1205][001E] [1432][NULL][NULL][0014]Le regret[1432][NULL][NULL][0014]...[1205][001E]\nAu fond, Jun sait déjà tout ça...",
    "brut_en": "A[SP][E4][NULL][NULL][U+0006]Raspberry[SP]flower[E4][NULL][NULL][0002]...[1205][001E][SP][1432][NULL][NULL][0014]Regret[1432][NULL][NULL][0014]...[1205][001E][SP]Deep[SP]down,\nJun-kun[SP]knows[SP]all[SP]this[SP]already...",
    "data_size": 212,
    "budget": 204
@@ -448,13 +436,19 @@
        "pause": true
       },
       {
-       "t": " Quelqu'un qui rend"
+       "t": " Quelqu'un"
       },
       {
        "nl": true
       },
       {
-       "t": "les rumeurs réalité..."
+       "t": "qui rend"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " les rumeurs réalité..."
       }
      ]
     }
@@ -495,7 +489,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais quelque chose l'empêche de voir\nla vérité...[1205][001E] Ou quelqu'un...[1205][001E] Quelqu'un qui rend\nles rumeurs réalité...",
+   "brut_fr": "Mais quelque chose l'empêche de voir\nla vérité...[1205][001E] Ou quelqu'un...[1205][001E] Quelqu'un\nqui rend[1205][U+000F] les rumeurs réalité...",
    "brut_en": "But[SP]something[SP]is[SP]stopping[SP]him[SP]from[SP]realizing\nthe[SP]truth...[1205][001E][SP]Or[SP]someone...[1205][001E][SP]Someone[SP]who's\nmaking[SP]rumors[SP]become[SP]reality...",
    "data_size": 264,
    "budget": 256
@@ -512,13 +506,13 @@
        "enc": "Le regret..."
       },
       {
-       "t": "... Jun n'a pas changé du tout..."
+       "t": "... Jun n'a pas changé du"
       },
       {
        "nl": true
       },
       {
-       "t": "Le vrai Jun est toujours là!"
+       "t": "tout... Le vrai Jun est toujours là!"
       }
      ]
     }
@@ -553,7 +547,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Le regret...[1432][NULL][NULL][0014]... Jun n'a pas changé du tout...\nLe vrai Jun est toujours là!",
+   "brut_fr": "[1432][NULL][NULL][0014]Le regret...[1432][NULL][NULL][0014]... Jun n'a pas changé du\ntout... Le vrai Jun est toujours là!",
    "brut_en": "[1432][NULL][NULL][0014]Regret[1432][NULL][NULL][0014]...[1205][001E][SP]Jun[SP]hasn't[SP]changed[SP]at[SP]all...[1205][001E]\nThe[SP]real[SP]Jun[SP]is[SP]still[SP]in[SP]there!",
    "data_size": 188,
    "budget": 180
@@ -631,19 +625,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je me souviens, Philémon nous a dit..."
+       "t": "Je me souviens, Philémon nous a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dit..."
       },
       {
        "pause": true
       },
       {
-       "nl": true
-      },
-      {
-       "t": "Nous devons sauver Jun des griffes du"
+       "t": " Nous devons sauver Jun des"
       },
       {
        "nl": true
+      },
+      {
+       "t": "griffes du "
       },
       {
        "enc": " Chaos Rampant "
@@ -687,7 +687,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me souviens, Philémon nous a dit...[1205][001E]\nNous devons sauver Jun des griffes du\n[1432][NULL][NULL][0014] Chaos Rampant [1432][NULL][NULL][0014]...",
+   "brut_fr": "Je me souviens, Philémon nous a\ndit...[1205][001E] Nous devons sauver Jun des\ngriffes du [1432][NULL][NULL][0014] Chaos Rampant [1432][NULL][NULL][0014]...",
    "brut_en": "I[SP]remember[SP]Philemon[SP]telling[SP]us...[1205][001E][SP]we[SP]had\nto[SP]save[SP]Jun-kun[SP]from[SP]the[SP]clutches[SP]of[SP]the\n[1432][NULL][NULL][0014]Crawling[SP]Chaos[1432][NULL][NULL][0014]...",
    "data_size": 240,
    "budget": 232
@@ -707,19 +707,19 @@
        "pause": true
       },
       {
-       "t": " Je parie que"
+       "t": " Je parie"
       },
       {
        "nl": true
       },
       {
-       "t": "c'est ce qui réalise les rumeurs..."
+       "t": "que c'est ce qui réalise les"
       },
       {
        "nl": true
       },
       {
-       "t": "Et ce qui contrôle Jun..."
+       "t": "rumeurs... Et ce qui contrôle Jun..."
       }
      ]
     }
@@ -760,7 +760,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu'est-ce que c'est que ça?[1205][001E] Je parie que\nc'est ce qui réalise les rumeurs...\nEt ce qui contrôle Jun...",
+   "brut_fr": "Qu'est-ce que c'est que ça?[1205][001E] Je parie\nque c'est ce qui réalise les\nrumeurs... Et ce qui contrôle Jun...",
    "brut_en": "What[SP]in[SP]the[SP]world[SP]is[SP]that?[1205][001E][SP]I[SP]bet[SP]it's[SP]what's\nmaking[SP]rumors[SP]into[SP]reality...[1205][001E][SP]And[SP]controlling\nJun-kun[SP]too...",
    "data_size": 240,
    "budget": 232
@@ -774,25 +774,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'ai pas oublié que Jun a changé Ken et"
+       "t": "J'ai pas oublié que Jun a changé Ken et les"
       },
       {
        "nl": true
       },
       {
-       "t": "les autres en Ombres..."
+       "t": "autres en Ombres..."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais ça reste"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "mon ami."
+       "t": " Mais ça reste mon ami."
       }
      ]
     }
@@ -827,7 +821,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai pas oublié que Jun a changé Ken et\nles autres en Ombres...[1205][001E] Mais ça reste\nmon ami.",
+   "brut_fr": "J'ai pas oublié que Jun a changé Ken et les\nautres en Ombres...[1205][001E] Mais ça reste mon ami.",
    "brut_en": "I[SP]haven't[SP]forgotten[SP]that[SP]Jun[SP]turned[SP]Ken[SP]and\nthe[SP]guys[SP]into[SP]shadowmen...[1205][001E][SP]But[SP]he's[SP]my[SP]good\nfriend[SP]all[SP]the[SP]same.",
    "data_size": 248,
    "budget": 240
@@ -841,25 +835,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les souvenirs de cet été là me sont"
+       "t": "Les souvenirs de cet été là me"
       },
       {
        "nl": true
       },
       {
-       "t": "chers..."
+       "t": "sont chers..."
       },
       {
        "pause": true
       },
       {
-       "t": " À Ginko et Maya aussi."
+       "t": " À Ginko et Maya"
       },
       {
        "nl": true
       },
       {
-       "t": "Pour nous tous, en fait..."
+       "t": "aussi. Pour nous tous, en fait..."
       }
      ]
     }
@@ -894,7 +888,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les souvenirs de cet été là me sont\nchers...[1205][001E] À Ginko et Maya aussi.\nPour nous tous, en fait...",
+   "brut_fr": "Les souvenirs de cet été là me\nsont chers...[1205][001E] À Ginko et Maya\naussi. Pour nous tous, en fait...",
    "brut_en": "The[SP]memories[SP]from[SP]that[SP]summer[SP]are[SP]important\nto[SP]me...[1205][001E][SP]For[SP]Ginko[SP]and[SP]Big[SP]Maya,[SP]too.[SP]For[SP]all\nof[SP]us,[SP]really...",
    "data_size": 244,
    "budget": 236
