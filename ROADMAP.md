@@ -10,6 +10,26 @@ dont MMAP03).
 Suite de tests : **141 tests JS + 24 tests Python, tous verts** + 2 scripts
 `e2e/` (Playwright, hors CI).
 
+## 🔀 Fork P2-FR-IS-PSP resynchronisé — miroir complet (2) (2026-07-21)
+
+Deuxième miroir complet : l'upstream réel de chenetulipe avait 1499 commits
+d'avance depuis le miroir du 07-17 (correctifs de formatage/débordement dont
+une balise `[1101]` de troncature auto, `Mr Bunbun` traduit, dictionnaire mis
+à jour...). Même méthode que d'habitude (contenu, pas `git merge` — historique
+racine sans parent) : [PR #41](https://github.com/HamzaKarrouchi/P2-FR-IS-PSP/pull/41)
+côté trad, réappliquant CI/`nom_fr`/`script_120` + 240 des 248 corrections de
+Seb (6 fusionnées avec les correctifs de mise en forme indépendants faits
+par chenetulipe entre-temps, 8 exclues — déjà équivalentes ou adjacentes à
+une balise `[1101]` qu'on ne recalcule pas sans certitude).
+[PR #17](https://github.com/HamzaKarrouchi/p2is-relecture/pull/17) : `data/`
+régénéré côté ce dépôt.
+
+Branche `pr-chenetulipe-seb-2026-07-21` préparée (basée directement sur
+l'historique réel de chenetulipe, 240 corrections de traduction uniquement)
+pour proposer les corrections de Seb en amont — la création de PR cross-repo
+vers `chenetulipe/*` est hors du périmètre GitHub de cette session, lien de
+comparaison fourni à Hamza pour ouverture manuelle.
+
 ## 📥 248 corrections de Seb via le panier → issues (2026-07-21)
 
 Seb a proposé 248 corrections de relecture réparties sur 27 issues GitHub
