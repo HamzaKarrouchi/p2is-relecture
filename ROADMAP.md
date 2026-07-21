@@ -5,9 +5,29 @@
 
 État actuel : **v1 complète (T1-T21)** + **refonte visuelle Velvet Editorial** +
 **infra repo** (CI/CD, hooks, issues) + **export panier → issue GitHub** +
-**édition des réponses de menus** + **406 scripts** (399 + 7 scripts spéciaux).
-Suite de tests : **128 tests JS + 24 tests Python, tous verts** + 2 scripts
+**édition des réponses de menus** + **407 scripts** (400 + 7 scripts spéciaux,
+dont MMAP03).
+Suite de tests : **141 tests JS + 24 tests Python, tous verts** + 2 scripts
 `e2e/` (Playwright, hors CI).
+
+## 📥 248 corrections de Seb via le panier → issues (2026-07-21)
+
+Seb a proposé 248 corrections de relecture réparties sur 27 issues GitHub
+(#12 à #39, certaines scindées en plusieurs parties par la limite de longueur
+d'URL) créées entre le 2026-07-19 et le 2026-07-21 via le panier du site.
+Traitées **dans l'ordre de création des issues** (demande explicite de Seb :
+il corrige parfois dans une issue postérieure une entrée déjà proposée avant,
+par oubli) — 6 cas où une entrée (script, id) a été reproposée dans une issue
+plus récente, la version la plus récente retenue à chaque fois (script_008
+id28, script_010 id17, script_011 id5/9/12, script_019 id22). Issue #23,
+fermée par Seb lui-même une minute après sa création, non reprise.
+
+[PR #40](https://github.com/HamzaKarrouchi/P2-FR-IS-PSP/pull/40) côté trad
+(19 fichiers `script_000` à `script_020`, 0 mismatch sur 248) + régénération
+`data/` côté ce dépôt
+([PR #15](https://github.com/HamzaKarrouchi/p2is-relecture/pull/15)). Les 27
+issues fermées manuellement (le mot-clé `Closes` en liste virgule n'a fermé
+que la première automatiquement).
 
 ## 🗺️ Scripts spéciaux : CD_SHOP, F_BE, MMAP01-06 (2026-07-08)
 
