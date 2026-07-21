@@ -22,7 +22,7 @@
        "nl": true
       },
       {
-       "t": "chaque groupe. Punaise, quel égoïste!"
+       "t": "chaque groupe. Bon sang, quel égoïste!"
       }
      ]
     }
@@ -51,7 +51,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce stupide Boss n'est pas là non\nplus! Il y a toujours un boulet dans\nchaque groupe. Punaise, quel égoïste!",
+   "brut_fr": "Ce stupide Boss n'est pas là non\nplus! Il y a toujours un boulet dans\nchaque groupe. Bon sang, quel égoïste!",
    "brut_en": "That[SP]stupid[SP]Boss[SP]isn't[SP]here[SP]either!\nThere's[SP]always[SP]one[SP]bad[SP]apple[SP]in[SP]every\nbunch.[SP]Geez,[SP]he's[SP]so[SP]self-centered!",
    "data_size": 242,
    "budget": 234
@@ -120,19 +120,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Hmm... Je m'inquiète aussi pour"
+       "t": "Hmm... Je m'inquiète aussi pour Eikichi."
       },
       {
        "nl": true
       },
       {
-       "t": "Eikichi. J'espère qu'on pourra"
+       "t": "J'espère qu'on pourra entrer dans"
       },
       {
        "nl": true
       },
       {
-       "t": "entrer dans ce salon secret..."
+       "t": "ce salon secret..."
       }
      ]
     }
@@ -161,7 +161,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hmm... Je m'inquiète aussi pour\nEikichi. J'espère qu'on pourra\nentrer dans ce salon secret...",
+   "brut_fr": "Hmm... Je m'inquiète aussi pour Eikichi.\nJ'espère qu'on pourra entrer dans\nce salon secret...",
    "brut_en": "Hmm...[SP]I'm[SP]worried[SP]about[SP]Eikichi-kun,[SP]too.\nHopefully[SP]we[SP]can[SP]find[SP]a[SP]way[SP]into[SP]this\nsecret[SP]lounge...",
    "data_size": 216,
    "budget": 208
@@ -175,7 +175,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu es plutôt mortel avec ce katana, "
+       "t": "Tu es redoutable avec ce katana, "
       },
       {
        "hero": "prenom"
@@ -207,7 +207,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu es plutôt mortel avec ce katana, [1113].",
+   "brut_fr": "Tu es redoutable avec ce katana, [1113].",
    "brut_en": "You're[SP]pretty[SP]deadly[SP]with[SP]that[SP]katana,\n[1113].",
    "data_size": 108,
    "budget": 100
@@ -228,9 +228,6 @@
       },
       {
        "t": "tu te débrouilles bien. Je parie que tu"
-      },
-      {
-       "pause": true
       },
       {
        "nl": true
@@ -265,7 +262,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un vieux pote était un as au katana, mais\ntu te débrouilles bien. Je parie que tu[1205][U+000F]\nsais aussi te servir de tes poings, hein?",
+   "brut_fr": "Un vieux pote était un as au katana, mais\ntu te débrouilles bien. Je parie que tu\nsais aussi te servir de tes poings, hein?",
    "brut_en": "One[SP]of[SP]my[SP]old[SP]pals[SP]was[SP]a[SP]whiz[SP]with[SP]a[SP]katana,\nbut[SP]you're[SP]not[SP]bad[SP]yourself.[SP]Bet[SP]you're[SP]pretty\nhandy[SP]with[SP]your[SP]fists[SP]too,[SP]huh?",
    "data_size": 272,
    "budget": 264
@@ -309,7 +306,6 @@
    "choix_fr": {
     "options": [
      "Ouais.",
-     "[1205]",
      "Pas vraiment."
     ],
     "question": [
@@ -341,7 +337,7 @@
      }
     ]
    },
-   "brut_fr": "Tu sais aussi te servir de tes poings, \nhein?\n[1208][0002][1432][NULL][NULL][0014]Ouais.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Pas vraiment.[1432][NULL][NULL][0014]",
+   "brut_fr": "Tu sais aussi te servir de tes poings, \nhein?\n[1208][0002][1432][NULL][NULL][0014]Ouais.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas vraiment.[1432][NULL][NULL][0014]",
    "brut_en": "Bet[SP]you're[SP]pretty[SP]handy[SP]with[SP]your[SP]fists\ntoo,[SP]huh?\n[1208][0002][1432][NULL][NULL][0014]Yeah.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]really.[1432][NULL][NULL][0014]",
    "data_size": 196,
    "budget": 188
@@ -569,19 +565,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ces rassemblements sont nuls, mais faut voir"
+       "t": "Ces réunions sont nuls, mais faut voir ça"
       },
       {
        "nl": true
       },
       {
-       "t": "ça comme un billet gratuit pour une fête."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " Ça"
+       "t": "comme un billet gratuit pour une fête. Ça"
       },
       {
        "nl": true
@@ -616,7 +606,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ces rassemblements sont nuls, mais faut voir\nça comme un billet gratuit pour une fête.[1205][U+000F] Ça\nvaut le coup pour réduire sa bouche, bref.",
+   "brut_fr": "Ces réunions sont nuls, mais faut voir ça\ncomme un billet gratuit pour une fête. Ça\nvaut le coup pour réduire sa bouche, bref.",
    "brut_en": "These[SP]gatherings[SP]are[SP]so[SP]lame,[SP]but[SP]it[SP]helps[SP]to\nthink[SP]of[SP]it[SP]as[SP]a[SP]free[SP]ticket[SP]to[SP]a[SP]party.[SP]It's\nworth[SP]it[SP]to[SP]have[SP]a[SP]smaller[SP]mouth,[SP]anyway.",
    "data_size": 322,
    "budget": 314

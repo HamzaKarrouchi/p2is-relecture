@@ -201,13 +201,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Bon, Papy! Respire un coup"
+       "t": "Bon, Papy! Respire un coup et essaye"
       },
       {
        "nl": true
       },
       {
-       "t": "et essaye de te rappeler où."
+       "t": "de te rappeler où tu l'as rangée."
       }
      ]
     }
@@ -230,7 +230,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bon, Papy! Respire un coup\net essaye de te rappeler où.",
+   "brut_fr": "Bon, Papy! Respire un coup et essaye\nde te rappeler où tu l'as rangée.",
    "brut_en": "Alright,[SP]gramps![SP]Breathe[SP]deep[SP]and[SP]try\nto[SP]remember[SP]with[SP]me[SP]where[SP]you[SP]put[SP]it.",
    "data_size": 178,
    "budget": 170
@@ -244,13 +244,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qui sait quand il s'en"
+       "t": "Qui sait quand il s'en souviendra..."
       },
       {
        "nl": true
       },
       {
-       "t": "souviendra... Cherchons nous-mêmes."
+       "t": " Cherchons par nous-mêmes."
       }
      ]
     }
@@ -273,7 +273,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qui sait quand il s'en\nsouviendra... Cherchons nous-mêmes.",
+   "brut_fr": "Qui sait quand il s'en souviendra...\n Cherchons par nous-mêmes.",
    "brut_en": "Who[SP]knows[SP]when[SP]this[SP]guy'll[SP]remember...\nIt'd[SP]be[SP]faster[SP]to[SP]look[SP]ourselves.",
    "data_size": 170,
    "budget": 162
@@ -349,7 +349,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Au fait, papy. Je me demande... C'est quoi?"
+       "t": "Au fait, papy. Je me demandais... C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quoi ça?"
       }
      ]
     }
@@ -372,7 +378,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Au fait, papy. Je me demande... C'est quoi?",
+   "brut_fr": "Au fait, papy. Je me demandais... C'est\nquoi ça?",
    "brut_en": "By[SP]the[SP]way,[SP]gramps.[SP]I[SP]keep[SP]wondering...\nWhat's[SP]that?",
    "data_size": 132,
    "budget": 124
@@ -478,7 +484,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Génial! J'ai la clé. En route vers cette tour!"
+       "t": "Génial! J'ai la clé. En route vers cette"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tour!"
       }
      ]
     }
@@ -501,7 +513,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Génial! J'ai la clé. En route vers cette tour!",
+   "brut_fr": "Génial! J'ai la clé. En route vers cette\ntour!",
    "brut_en": "Hot[SP]diggity![SP]I[SP]found[SP]us[SP]the[SP]key.\nNow[SP]let's[SP]get[SP]to[SP]that[SP]clock[SP]tower!",
    "data_size": 160,
    "budget": 152
@@ -576,7 +588,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Aiya! Ça pue!"
+       "t": "Aiyah! Ça pue!"
       }
      ]
     }
@@ -593,7 +605,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aiya! Ça pue!",
+   "brut_fr": "Aiyah! Ça pue!",
    "brut_en": "Aiyah![SP]So[SP]musty!",
    "data_size": 56,
    "budget": 48
@@ -607,13 +619,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Purée! On a aéré ces futons"
+       "t": "Purée! Ces futons ont pas été lavé depuis"
       },
       {
        "nl": true
       },
       {
-       "t": "cette décennie? Pas de clé."
+       "t": "combien d'années? Aucune clé ici."
       }
      ]
     }
@@ -636,7 +648,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Purée! On a aéré ces futons\ncette décennie? Pas de clé.",
+   "brut_fr": "Purée! Ces futons ont pas été lavé depuis\ncombien d'années? Aucune clé ici.",
    "brut_en": "Geez![SP]Have[SP]these[SP]futons[SP]been[SP]aired[SP]out\nthis[SP]decade!?[SP]I[SP]don't[SP]see[SP]any[SP]key[SP]here.",
    "data_size": 180,
    "budget": 172
@@ -736,7 +748,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Pas de clé, mais des plats."
+       "t": "Aucune clé ici, il y a que des plats."
       },
       {
        "pause": true
@@ -745,7 +757,13 @@
        "nl": true
       },
       {
-       "t": "Elle s'occupe bien du papy."
+       "t": "Qu'importe ce qu'elle dit, cette femme"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "s'occupe bien de papy."
       }
      ]
     }
@@ -777,7 +795,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pas de clé, mais des plats.[1205][001E]\nElle s'occupe bien du papy.",
+   "brut_fr": "Aucune clé ici, il y a que des plats.[1205][001E]\nQu'importe ce qu'elle dit, cette femme\ns'occupe bien de papy.",
    "brut_en": "No[SP]key[SP]here,[SP]but[SP]plenty[SP]of[SP]side[SP]dishes.[1205][001E]\nWhatever[SP]she[SP]says,[SP]that[SP]lady[SP]seems[SP]to[SP]be\ntaking[SP]good[SP]care[SP]of[SP]gramps.",
    "data_size": 244,
    "budget": 236
@@ -797,7 +815,7 @@
        "nl": true
       },
       {
-       "t": "Pas facile de vieillir."
+       "t": "C'est pas facile de vieillir."
       }
      ]
     }
@@ -820,7 +838,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hohoho! Il s'égare si vite.\nPas facile de vieillir.",
+   "brut_fr": "Hohoho! Il s'égare si vite.\nC'est pas facile de vieillir.",
    "brut_en": "Hohoho![SP]This[SP]man[SP]loses[SP]things[SP]so\neasily.[SP]It's[SP]not[SP]easy,[SP]getting[SP]old.",
    "data_size": 168,
    "budget": 160

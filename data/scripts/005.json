@@ -389,7 +389,13 @@
        "nl": true
       },
       {
-       "t": "voulais poursuivre ton rêve... N'est-ce pas?"
+       "t": "voulais poursuivre ton rêve..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "N'est-ce pas?"
       }
      ]
     }
@@ -418,7 +424,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ton masque ne me trompe pas. Je sais. Tu\nvoulais poursuivre ton rêve... N'est-ce pas?",
+   "brut_fr": "Ton masque ne me trompe pas. Je sais. Tu\nvoulais poursuivre ton rêve...\nN'est-ce pas?",
    "brut_en": "The[SP]poker[SP]face[SP]doesn't[SP]fool[SP]me.[SP]I[SP]know.\nYou[SP]wanted[SP]to[SP]follow[SP]your[SP]dream...\nIsn't[SP]that[SP]so?",
    "data_size": 202,
    "budget": 194
@@ -536,13 +542,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Ton masque ne trompe pas. T'es un cancre qui"
+       "t": "Ton masque ne me trompe pas. T'es un "
       },
       {
        "nl": true
       },
       {
-       "t": "sait même pas ce qu'il veut faire de sa vie."
+       "t": "cancre qui sait même pas ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qu'il veut faire de sa vie."
       }
      ]
     }
@@ -571,7 +583,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ton masque ne trompe pas. T'es un cancre qui\nsait même pas ce qu'il veut faire de sa vie.",
+   "brut_fr": "Ton masque ne me trompe pas. T'es un \ncancre qui sait même pas ce\nqu'il veut faire de sa vie.",
    "brut_en": "The[SP]poker[SP]face[SP]doesn't[SP]fool[SP]me.[SP]I[SP]know.\nYou're[SP]a[SP]dunce[SP]who[SP]doesn't[SP]even[SP]know[SP]what\nhe[SP]wants[SP]to[SP]do.",
    "data_size": 218,
    "budget": 210
@@ -928,7 +940,7 @@
        "pause": true
       },
       {
-       "t": " Z'avez oublié!?"
+       "t": " Vous avez oublié!?"
       }
      ]
     }
@@ -951,7 +963,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non...[1205][001E] Z'avez oublié!?",
+   "brut_fr": "Non...[1205][001E] Vous avez oublié!?",
    "brut_en": "No...[1205][001E][SP]Do[SP]you[SP]not[SP]remember!?",
    "data_size": 82,
    "budget": 74
@@ -1886,7 +1898,7 @@
        "pause": true
       },
       {
-       "t": " Je ne veux plus penser..."
+       "t": " Je ne veux plus y penser..."
       }
      ]
     }
@@ -1927,7 +1939,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je voulais... devenir médecin...[1205][001E] Mais ça\nn'arrivera jamais...[1205][001E] Je ne veux plus penser...",
+   "brut_fr": "Je voulais... devenir médecin...[1205][001E] Mais ça\nn'arrivera jamais...[1205][001E] Je ne veux plus y penser...",
    "brut_en": "I[SP]wanted...[SP]to[SP]be[SP]a[SP]doctor...[1205][001E][SP]But[SP]that'll\nnever[SP]happen...[1205][001E][SP]I[SP]don't[SP]want[SP]to[SP]think\nanymore...",
    "data_size": 216,
    "budget": 208
@@ -2111,7 +2123,13 @@
        "nl": true
       },
       {
-       "t": "Si on reste pas ensemble, vous allez crever!"
+       "t": "Si on reste pas ensemble, vous allez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "crever!"
       }
      ]
     }
@@ -2146,7 +2164,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Doucement, vous deux![1205][001E] C'est un vrai monstre!\nSi on reste pas ensemble, vous allez crever!",
+   "brut_fr": "Doucement, vous deux![1205][001E] C'est un vrai monstre!\nSi on reste pas ensemble, vous allez\ncrever!",
    "brut_en": "Whoa[SP]there,[SP]both[SP]of[SP]you![1205][001E][SP]You're[SP]up[SP]against\na[SP]real[SP]monster[SP]here![SP]If[SP]we[SP]don't[SP]stick\ntogether,[SP]you'll[SP]die!",
    "data_size": 232,
    "budget": 224
@@ -2236,7 +2254,7 @@
        "nl": true
       },
       {
-       "t": "tuer ce type, ou on est tous foutus."
+       "t": "tuer ce type sinon on est tous foutus."
       }
      ]
     }
@@ -2265,7 +2283,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qui nous croirait!?[1205][001E] Faut s'armer et\ntuer ce type, ou on est tous foutus.",
+   "brut_fr": "Qui nous croirait!?[1205][001E] Faut s'armer et\ntuer ce type sinon on est tous foutus.",
    "brut_en": "Who'd[SP]believe[SP]us!?[1205][001E][SP]We[SP]gotta[SP]arm[SP]up[SP]and\nkill[SP]that[SP]guy,[SP]or[SP]we're[SP]all[SP]screwed.",
    "data_size": 182,
    "budget": 174
@@ -2340,7 +2358,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "En attendant, préparez-vous à vous défendre..."
+       "t": "En attendant, préparez-vous à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vous défendre..."
       }
      ]
     }
@@ -2363,7 +2387,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "En attendant, préparez-vous à vous défendre...",
+   "brut_fr": "En attendant, préparez-vous à\nvous défendre...",
    "brut_en": "While[SP]I[SP]do[SP]that,[SP]you[SP]should[SP]prepare[SP]to\ndefend[SP]yourselves...",
    "data_size": 140,
    "budget": 132

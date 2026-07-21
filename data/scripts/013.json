@@ -177,13 +177,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Orientation finie pour aujourd'hui! Défié"
+       "t": "Orientation du jour terminée!"
       },
       {
        "nl": true
       },
       {
-       "t": "Maître Joker et vous n'aurez jamais la paix!"
+       "t": "Arrêtez de défier Maître Joker ou vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "n'aurez jamais la paix!"
       }
      ]
     }
@@ -212,7 +218,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Orientation finie pour aujourd'hui! Défié\nMaître Joker et vous n'aurez jamais la paix!",
+   "brut_fr": "Orientation du jour terminée!\nArrêtez de défier Maître Joker ou vous\nn'aurez jamais la paix!",
    "brut_en": "Guidance[SP]sessions[SP]are[SP]over[SP]for[SP]today!\nSo[SP]long[SP]as[SP]you[SP]defy[SP]Master[SP]Joker,[SP]you\nwill[SP]never[SP]find[SP]peace!",
    "data_size": 240,
    "budget": 232
@@ -257,7 +263,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est pas le 4e étage!? Bah..."
+       "t": "On est pas au 4e étage!? Bah..."
       },
       {
        "pause": true
@@ -292,7 +298,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pas le 4e étage!? Bah...[1205][001E]\nÇa suffirait même pas à le tuer.",
+   "brut_fr": "On est pas au 4e étage!? Bah...[1205][001E]\nÇa suffirait même pas à le tuer.",
    "brut_en": "Isn't[SP]this[SP]the[SP]fourth[SP]floor!?[SP]Eh...[1205][001E]\nI[SP]doubt[SP]even[SP]that[SP]would[SP]kill[SP]him.",
    "data_size": 170,
    "budget": 162
@@ -312,13 +318,13 @@
        "pause": true
       },
       {
-       "t": " Il se bat"
+       "t": " Il combat"
       },
       {
        "nl": true
       },
       {
-       "t": "contre un péché au fond de son cœur..."
+       "t": "un péché caché au fond de son cœur..."
       }
      ]
     }
@@ -347,7 +353,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Joker... Il est tellement seul.[1205][001E] Il se bat\ncontre un péché au fond de son cœur...",
+   "brut_fr": "Joker... Il est tellement seul.[1205][001E] Il combat\nun péché caché au fond de son cœur...",
    "brut_en": "Joker...[SP]He's[SP]so[SP]alone.[1205][001E][SP]He's[SP]struggling\nwith[SP]a[SP]sin[SP]in[SP]the[SP]depths[SP]of[SP]his[SP]heart...",
    "data_size": 186,
    "budget": 178
@@ -425,19 +431,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je frémis devant son visage. La"
+       "t": "Je frémis devant son visage."
       },
       {
        "nl": true
       },
       {
-       "t": "lune révèle ma ressemblance. Toi"
+       "t": "La Lune révèle ma ressemblance."
       },
       {
        "nl": true
       },
       {
-       "t": "Doppelganger, mon pâle compagnon!"
+       "t": "Toi Doppelganger, mon pâle compagnon!"
       }
      ]
     }
@@ -466,7 +472,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Je frémis devant son visage. La\nlune révèle ma ressemblance. Toi\nDoppelganger, mon pâle compagnon!",
+   "brut_fr": "[1432][NULL][NULL][0014]Je frémis devant son visage.\nLa Lune révèle ma ressemblance.\nToi Doppelganger, mon pâle compagnon!",
    "brut_en": "[1432][NULL][NULL][0014]I[SP]shudder[SP]when[SP]I[SP]behold[SP]his[SP]face.\nThe[SP]moon[SP]reveals[SP]to[SP]me[SP]my[SP]own[SP]likeness.\nYou[SP]Doppelganger,[SP]you[SP]pale[SP]companion!",
    "data_size": 252,
    "budget": 244
@@ -480,13 +486,19 @@
      "nom": null,
      "seg": [
       {
-       "enc": "Pourquoi imites-tu mon mal d'amour, Qui me"
+       "enc": "Pourquoi imites-tu mon mal d'amour,"
       },
       {
        "nl": true
       },
       {
-       "enc": "torturait en ce lieu Tant de nuits passées?"
+       "enc": "Qui me torturait en ce lieu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Tant de nuits passées?"
       }
      ]
     }
@@ -515,7 +527,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Pourquoi imites-tu mon mal d'amour, Qui me\ntorturait en ce lieu Tant de nuits passées?[1432][NULL][NULL][0014]",
+   "brut_fr": "[1432][NULL][NULL][0014]Pourquoi imites-tu mon mal d'amour,\nQui me torturait en ce lieu\nTant de nuits passées?[1432][NULL][NULL][0014]",
    "brut_en": "[1432][NULL][NULL][0014]Why[SP]do[SP]you[SP]mimic[SP]my[SP]lovesickness,\nThat[SP]tormented[SP]me[SP]at[SP]this[SP]place\nFor[SP]so[SP]many[SP]nights[SP]in[SP]the[SP]past?[1432][NULL][NULL][0014]",
    "data_size": 232,
    "budget": 224
@@ -596,7 +608,7 @@
        "pause": true
       },
       {
-       "t": " Vous insinuez pas que"
+       "t": " T'insinues quand même pas que"
       },
       {
        "nl": true
@@ -649,7 +661,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Euh, Maya...[1205][001E] Vous insinuez pas que\nJoker est le doppelganger de [1113]?",
+   "brut_fr": "Euh, Maya...[1205][001E] T'insinues quand même pas que\nJoker est le doppelganger de [1113]?",
    "brut_en": "Uh,[SP]Maya-san...[1205][001E][SP]You're[SP]not[SP]suggesting\nthat[SP]Joker[SP]is[SP][1113]'s[SP]doppelganger,\nare[SP]you?",
    "data_size": 186,
    "budget": 178
@@ -663,13 +675,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh non! Je voyais juste des points"
+       "t": "Oh, non! Je voyais juste des points"
       },
       {
        "nl": true
       },
       {
-       "t": "communs. Oublie, "
+       "t": "communs. Oublie ça, "
       },
       {
        "hero": "prenom"
@@ -707,7 +719,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh non! Je voyais juste des points\ncommuns. Oublie, [1113]-kun.",
+   "brut_fr": "Oh, non! Je voyais juste des points\ncommuns. Oublie ça, [1113]-kun.",
    "brut_en": "Oh,[SP]no![SP]I[SP]just[SP]thought[SP]there[SP]were\nsome[SP]similarities.[SP]Ah,[SP]ignore[SP]me,\n[1113]-kun.",
    "data_size": 170,
    "budget": 162
@@ -727,7 +739,13 @@
        "nl": true
       },
       {
-       "t": "pris notre seule piste vers Joker avec lui."
+       "t": "pris notre seule piste vers Joker avec"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "lui."
       }
      ]
     }
@@ -756,7 +774,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hé! On fait quoi? Hanya s'est tiré et a\npris notre seule piste vers Joker avec lui.",
+   "brut_fr": "Hé! On fait quoi? Hanya s'est tiré et a\npris notre seule piste vers Joker avec\nlui.",
    "brut_en": "Wai![SP]What[SP]should[SP]we[SP]do[SP]now?[SP]Hanya[SP]got\naway[SP]and[SP]took[SP]our[SP]only[SP]lead[SP]to[SP]Joker\nwith[SP]him.",
    "data_size": 192,
    "budget": 184
@@ -819,7 +837,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "On suit les rumeurs! Elles nous"
+       "t": "Suivons les rumeurs! Elles nous"
       },
       {
        "nl": true
@@ -848,7 +866,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On suit les rumeurs! Elles nous\nmèneront sûrement droit à Joker.",
+   "brut_fr": "Suivons les rumeurs! Elles nous\nmèneront sûrement droit à Joker.",
    "brut_en": "Let's[SP]chase[SP]the[SP]rumors![SP]They'll[SP]surely\nlead[SP]us[SP]straight[SP]to[SP]Joker.",
    "data_size": 152,
    "budget": 144
@@ -920,19 +938,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Doucement! Personne au lycée"
+       "t": "Doucement! Aucun élève de Kasugayama connu"
       },
       {
        "nl": true
       },
       {
-       "t": "Kasugayama que le grand Michel connaît"
+       "t": "du grand Michel n'aurait pu lancé une"
       },
       {
        "nl": true
       },
       {
-       "t": "n'aurait lancé une telle rumeur."
+       "t": "telle rumeur."
       }
      ]
     }
@@ -961,7 +979,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Doucement! Personne au lycée\nKasugayama que le grand Michel connaît\nn'aurait lancé une telle rumeur.",
+   "brut_fr": "Doucement! Aucun élève de Kasugayama connu\ndu grand Michel n'aurait pu lancé une\ntelle rumeur.",
    "brut_en": "Whoa[SP]there![SP]There's[SP]no[SP]one[SP]at[SP]Kasugayama\nHigh[SP]whom[SP]the[SP]great[SP]Michel[SP]knows[SP]of[SP]that\nwould[SP]start[SP]such[SP]a[SP]rumor.",
    "data_size": 242,
    "budget": 234
@@ -981,7 +999,13 @@
        "nl": true
       },
       {
-       "t": "on cherche, autant commencer ailleurs."
+       "t": "on doit enquêter, autant commencer"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ailleurs."
       }
      ]
     }
@@ -1010,7 +1034,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On perdrait notre temps à vérifier. Si\non cherche, autant commencer ailleurs.",
+   "brut_fr": "On perdrait notre temps à vérifier. Si\non doit enquêter, autant commencer\nailleurs.",
    "brut_en": "We'd[SP]be[SP]wasting[SP]our[SP]time[SP]checking[SP]it[SP]out.\nIf[SP]we're[SP]gonna[SP]search,[SP]let's[SP]start\nsomewhere[SP]else.",
    "data_size": 212,
    "budget": 204
@@ -1128,7 +1152,13 @@
        "nl": true
       },
       {
-       "t": "lever la malédiction... L'avez-vous vu!?"
+       "t": "pour lever la malédiction... L'avez-vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vu!?"
       }
      ]
     }
@@ -1157,7 +1187,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mon dieu! Le directeur est allé à la tour\nlever la malédiction... L'avez-vous vu!?",
+   "brut_fr": "Mon dieu! Le directeur est allé à la tour\npour lever la malédiction... L'avez-vous\nvu!?",
    "brut_en": "Omigosh![SP]I[SP]heard[SP]the[SP]principal[SP]went[SP]to\nthe[SP]clock[SP]tower[SP]to[SP]lift[SP]the[SP]emblem\ncurse...[SP]Did[SP]you[SP]see[SP]him!?",
    "data_size": 242,
    "budget": 234
@@ -1250,7 +1280,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il est pas mort!?"
+       "t": "Il est pas mort, hein!?"
       }
      ]
     }
@@ -1272,7 +1302,7 @@
     ],
     "question": [
      {
-      "t": "Il est pas mort!?"
+      "t": "Il est pas mort, hein!?"
      }
     ]
    },
@@ -1287,7 +1317,7 @@
      }
     ]
    },
-   "brut_fr": "Il est pas mort!?\n[1208][0002][1432][NULL][NULL][0014]Il est mort.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il s'en est sorti.[1432][NULL][NULL][0014]",
+   "brut_fr": "Il est pas mort, hein!?\n[1208][0002][1432][NULL][NULL][0014]Il est mort.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il s'en est sorti.[1432][NULL][NULL][0014]",
    "brut_en": "He's[SP]not[SP]dead,[SP]is[SP]he!?\n[1208][0002][1432][NULL][NULL][0014]He's[SP]dead.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]No,[SP]he[SP]made[SP]it.[1432][NULL][NULL][0014]",
    "data_size": 176,
    "budget": 168
@@ -1371,13 +1401,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je le savais! Notre directeur est invincible!"
+       "t": "Je le savais! Notre directeur est "
       },
       {
        "nl": true
       },
       {
-       "t": "Il reviendra quand on aura besoin de lui!"
+       "t": "invincible! Il reviendra quand on aura"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "besoin de lui!"
       }
      ]
     }
@@ -1406,7 +1442,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je le savais! Notre directeur est invincible!\nIl reviendra quand on aura besoin de lui!",
+   "brut_fr": "Je le savais! Notre directeur est \ninvincible! Il reviendra quand on aura\nbesoin de lui!",
    "brut_en": "I[SP]knew[SP]it![SP]Our[SP]dear[SP]principal[SP]is\ninvincible![SP]I[SP]bet[SP]he'll[SP]show[SP]up[SP]again\nin[SP]our[SP]hour[SP]of[SP]greatest[SP]need!",
    "data_size": 242,
    "budget": 234
