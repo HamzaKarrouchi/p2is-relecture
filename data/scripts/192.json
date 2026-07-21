@@ -132,16 +132,31 @@
      ]
     },
     {
-     "nom": "Jun[1205][U+000F] ...[1205][001E] J'aimerais...[1205][001E] que tu sois ma",
+     "nom": "Jun",
      "seg": [
       {
-       "t": "maman, Sœurette... "
+       "pause": true
+      },
+      {
+       "t": " ..."
       },
       {
        "pause": true
       },
       {
-       "t": " "
+       "t": " J'aimerais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que tu sois ma"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "maman, Sœurette..."
       }
      ]
     },
@@ -224,7 +239,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ta maman vient pas te chercher, Jun-kun? [E1][E2]\n[E3][E4][NULL][NULL]\"Jun[1205][U+000F] ...[1205][001E] J'aimerais...[1205][001E] que tu sois ma\nmaman, Sœurette... [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Jun Maman me\ndéteste...[1205][001E] Mais papa est super! Je le jure!",
+   "brut_fr": "Ta maman vient pas te chercher, Jun-kun? [E1][E2]\n[E3][E4][NULL][NULL]\"Jun\n[1205][U+000F] ...[1205][001E] J'aimerais...[1205][001E] que tu sois ma\nmaman, Sœurette...[E1][E2]\n[E3][E4][NULL][NULL]\"Jun Maman me\ndéteste...[1205][001E] Mais papa est super! Je le jure!",
    "brut_en": "Isn't[SP]your[SP]mom[SP]gonna[SP]come[SP]pick[SP]you[SP]up,[SP]Jun-kun?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\n...[1205][001E]I[SP]wish...[1205][001E][SP]I[SP]wish[SP]you[SP]were[SP]my[SP]Mama,\nBig[SP]Sis...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nMama...[SP]She[SP]hates[SP]me...[1205][001E][SP]But[SP]Papa's[SP]really\ngreat![SP]I[SP]swear!",
    "data_size": 388,
    "budget": 380
@@ -244,7 +259,7 @@
        "pause": true
       },
       {
-       "t": " Je t’accompagne!"
+       "t": " Je t'accompagne!"
       }
      ]
     }
@@ -267,7 +282,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh...[1205][001E] Je t’accompagne!",
+   "brut_fr": "Oh...[1205][001E] Je t'accompagne!",
    "brut_en": "Oh...[1205][001E][SP]Then[SP]I'll[SP]walk[SP]you[SP]home!",
    "data_size": 86,
    "budget": 78
@@ -281,7 +296,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Oh, bonjour... Merci de t’être occupé de Jun."
+       "t": "Oh, bonjour... Merci de t'être occupé de Jun."
       }
      ]
     }
@@ -304,7 +319,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oh, bonjour... Merci de t’être occupé de Jun.",
+   "brut_fr": "Oh, bonjour... Merci de t'être occupé de Jun.",
    "brut_en": "Oh,[SP]hello...[1205][001E][SP]Thanks[SP]for[SP]looking[SP]after[SP]Jun...",
    "data_size": 112,
    "budget": 104
@@ -373,12 +388,29 @@
        "pause": true
       },
       {
-       "t": " Euh, vous êtes le père de Jun-kun?"
+       "t": " Euh, vous êtes le père de Jun?"
       }
      ]
     },
     {
-     "nom": "Jun N-Non...![1205][001E] C'est...[1205][001E] mon oncle! [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Oncle",
+     "nom": "Jun N-Non...!",
+     "seg": [
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " mon oncle!"
+      }
+     ]
+    },
+    {
+     "nom": "Oncle",
      "seg": [
       {
        "t": "de Jun ..."
@@ -450,7 +482,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bonjour.[1205][001E] Euh, vous êtes le père de Jun-kun?\n[E1][E2][1205][U+000F][E3][E4][NULL][NULL]\"Jun N-Non...![1205][001E] C'est...[1205][001E] mon oncle! [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Oncle\nde Jun ...[1205][001E] Allez, rentrons. Jun?",
+   "brut_fr": "Bonjour.[1205][001E] Euh, vous êtes le père de Jun?[E1][E2]\n[E3][E4][NULL][NULL]\"Jun N-Non...!\n[1205][001E] C'est...[1205][001E] mon oncle![E1][E2]\n[E3][E4][NULL][NULL]\"Oncle\nde Jun ...[1205][001E] Allez, rentrons. Jun?",
    "brut_en": "Hello.[1205][001E][SP]Um...[SP]Are[SP]you[SP]Jun-kun's[SP]father?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nN-No...![1205][001E][SP]He's...[1205][001E][SP]He's[SP]my[SP]uncle!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun's[SP]uncle\n...[1205][001E]Come[SP]on...[SP]Let's[SP]go[SP]home.[SP]Jun...?",
    "data_size": 316,
    "budget": 308

@@ -622,13 +622,7 @@
        "nl": true
       },
       {
-       "t": "tellement "
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " de chance.. Je suis j-jaloux.."
+       "t": "tellement de chance.. Je suis j-jaloux.."
       }
      ]
     }
@@ -657,7 +651,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Est-ce-ce que toi, et umm, Lisa vous êtes\nplus qu'amis? Si c'est le cas t-t'as\ntellement [1205][U+000F] de chance.. Je suis j-jaloux..",
+   "brut_fr": "Est-ce-ce que toi, et umm, Lisa vous êtes\nplus qu'amis? Si c'est le cas t-t'as\ntellement de chance.. Je suis j-jaloux..",
    "brut_en": "A-Are[SP]you[SP]and,[SP]umm,[SP]L-Lisa-san[SP]m-more[SP]than\nj-just[SP]friends?[SP]I-If[SP]you[SP]are,[SP]y-you're[SP]so\nlucky...[SP]I'm[SP]j-j-jealous...",
    "data_size": 278,
    "budget": 270
@@ -741,16 +735,16 @@
        "t": "d'avoir pu me tirer hors du lit aujourd'hui..."
       },
       {
-       "pause": true
+       "nl": true
       },
       {
-       "pause": true
+       "t": "Mme. Saeko? Je crois l'avoir vue"
       },
       {
        "nl": true
       },
       {
-       "t": "Mme. Saeko? Je crois l'ai vu au premier étage"
+       "t": "au premier étage"
       }
      ]
     }
@@ -782,7 +776,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu viens vraiment me parler? Senpai? Contente\nd'avoir pu me tirer hors du lit aujourd'hui...[1205][001E][1205][U+000F]\nMme. Saeko? Je crois l'ai vu au premier étage",
+   "brut_fr": "Tu viens vraiment me parler? Senpai? Contente\nd'avoir pu me tirer hors du lit aujourd'hui...[1101]\nMme. Saeko? Je crois l'avoir vue\nau premier étage",
    "brut_en": "You'd[SP]take[SP]the[SP]time[SP]to[SP]talk[SP]to[SP]someone[SP]like[SP]me,\nSenpai?[SP]Glad[SP]I[SP]dragged[SP]myself[SP]to[SP]school[SP]today...[1205][001E]\nMs.[SP]Saeko?[SP]I[SP]saw[SP]her[SP]on[SP]the[SP]first[SP]floor.",
    "data_size": 336,
    "budget": 328
@@ -1061,47 +1055,32 @@
       },
       {
        "t": "à vélos, je crois."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
       }
      ]
     },
     {
-     "nom": "Le directeur du journal",
+     "nom": "Journaliste de l'école",
      "seg": [
       {
-       "t": "de l'école et notre éditeur, Kozy, n'est"
+       "t": "et notre éditeur, Kozy, n'est toujours"
       },
       {
        "nl": true
       },
       {
-       "t": "toujours pas revenue. Elle a "
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " disparue elle"
+       "t": "pas revenue."
       },
       {
        "nl": true
       },
       {
-       "t": "enquêtait sur la rumeur de la malédiction.."
-      },
-      {
-       "pause": true
+       "t": "Elle a disparu alors qu'elle enquêtait"
       },
       {
        "nl": true
       },
       {
-       "t": "Chikarin est introuvable aussi. Hmm.."
+       "t": "sur la rumeur de la malédiction...Chikarin est introuvable aussi. Hmm.."
       }
      ]
     }
@@ -1165,7 +1144,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J-j'y crois pas, tu me parles..![1205][001E] Ah tu\ncherches Mme. Saeko non?[1205][001E] Elle est à l'abri\nà vélos, je crois.[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Le directeur du journal\nde l'école et notre éditeur, Kozy, n'est\ntoujours pas revenue. Elle a [1205][U+000F] disparue elle\nenquêtait sur la rumeur de la malédiction..[1205][001E]\nChikarin est introuvable aussi. Hmm..",
+   "brut_fr": "J-j'y crois pas, tu me parles..![1205][001E] Ah tu\ncherches Mme. Saeko non?[1205][001E] Elle est à l'abri\nà vélos, je crois.[E1][E2]\n[E3][E4][NULL][NULL]\"Journaliste de l'école\net notre éditeur, Kozy, n'est toujours\npas revenue.[1101]\nElle a disparu alors qu'elle enquêtait\nsur la rumeur de la malédiction...[1101]Chikarin est introuvable aussi. Hmm..",
    "brut_en": "I-I[SP]can't[SP]believe[SP]you're[SP]actually[SP]talking[SP]to\nme...![1205][001E][SP]Y-You're[SP]looking[SP]for[SP]Ms.[SP]Saeko,[SP]right?[1205][001E]\nShe's[SP]at[SP]the[SP]bike[SP]stands,[SP]I[SP]think.[E1][E2]\n[E3][E4][NULL][NULL]\"School[SP]paper[SP]writer\nOur[SP]editor,[SP]Kozy,[SP]hasn't[SP]come[SP]back.[SP]She[SP]ran\nout,[SP]saying[SP]she[SP]was[SP]investigating[SP]the[SP]curse\nrumor...[1205][001E][SP]Chikarin[SP]isn't[SP]around[SP]either.[SP]Hmm...",
    "data_size": 642,
    "budget": 634
@@ -1252,19 +1231,19 @@
        "nl": true
       },
       {
-       "t": "de Kakasu, même si il est moche. J'aurais"
+       "t": "de Kakasu, même si il est moche."
       },
       {
        "nl": true
       },
       {
-       "t": "pu avoir "
+       "t": "J'aurais pu avoir une de leurs"
       },
       {
-       "pause": true
+       "nl": true
       },
       {
-       "t": " une de leurs emblêmes exorcisant"
+       "t": "emblêmes exorcisants."
       }
      ]
     }
@@ -1299,7 +1278,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Argh.[1205][001E] J'aurais du être en date avec un mec\nde Kakasu, même si il est moche. J'aurais\npu avoir [1205][U+000F] une de leurs emblêmes exorcisant",
+   "brut_fr": "Argh.[1205][001E] J'aurais du être en date avec un mec\nde Kakasu, même si il est moche.[1101]\nJ'aurais pu avoir une de leurs\nemblêmes exorcisants.",
    "brut_en": "Argh...[1205][001E][SP]I[SP]should've[SP]hooked[SP]up[SP]with[SP]a[SP]Cuss[SP]High\nguy,[SP]even[SP]if[SP]he[SP]was[SP]ugly.[SP]Then[SP]I[SP]could've[SP]had\none[SP]of[SP]their[SP]evil-repelling[SP]emblems.",
    "data_size": 302,
    "budget": 294

@@ -146,8 +146,14 @@
      ]
     },
     {
-     "nom": "Prince Taureau[1205][U+000F]",
+     "nom": "Prince Taureau",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
       {
        "t": "Ginji Sasaki..."
       },
@@ -155,13 +161,7 @@
        "pause": true
       },
       {
-       "t": " ou plutôt Prince Taureau,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "vous présente un nouveau membre."
+       "t": " ou plutôt Prince Taureau,vous présente un nouveau membre."
       }
      ]
     }
@@ -207,7 +207,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Gloire au Masque... [E1][E2] [E3][E4][NULL][NULL]\"Prince Taureau[1205][U+000F]\nGinji Sasaki...[1205][001E] ou plutôt Prince Taureau,\nvous présente un nouveau membre.",
+   "brut_fr": "Gloire au Masque... [E1][E2] [E3][E4][NULL][NULL]\"Prince Taureau\n[1205][U+000F]\nGinji Sasaki...[1205][001E] ou plutôt Prince Taureau,[1101]vous présente un nouveau membre.",
    "brut_en": "Glory[SP]to[SP]the[SP]Mask...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Prince[SP]Taurus\nI,[SP]Ginji[SP]Sasaki...[1205][001E][SP]rather,[SP]Prince[SP]Taurus,\nwould[SP]like[SP]to[SP]introduce[SP]a[SP]new[SP]member[SP]to\nyour[SP]group.",
    "data_size": 312,
    "budget": 304

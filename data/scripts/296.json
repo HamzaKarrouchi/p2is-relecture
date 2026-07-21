@@ -4501,10 +4501,10 @@
    "choix_fr": {
     "options": [
      "Invoquer Persona",
-     "Prendre Persona[1205]",
+     "Prendre Persona",
      "Rendre Persona",
      "Muter Persona",
-     "Parler à Igor[1205]",
+     "Parler à Igor",
      "Annuler",
      "Quitter"
     ],
@@ -4530,7 +4530,7 @@
      }
     ]
    },
-   "brut_fr": "Puis-je vous aider?\n[1208][U+0007]Invoquer Persona\nPrendre Persona[1205][U+000F]\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor[1205][U+000F]\nAnnuler\nQuitter",
+   "brut_fr": "Puis-je vous aider?\n[1208][U+0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
    "brut_en": "Is[SP]there[SP]anything[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
    "data_size": 280,
    "budget": 272
@@ -5353,10 +5353,10 @@
    "choix_fr": {
     "options": [
      "Personae",
-     "Obtention, invocation[1205]",
+     "Obtention, invocation",
      "Arcanes",
      "Croissance",
-     "Compatibilité[1205]",
+     "Compatibilité",
      "Page suivante",
      "Sélection cachée/retour"
     ],
@@ -5382,7 +5382,7 @@
      }
     ]
    },
-   "brut_fr": "Je vous écoute.\n[1208][U+0007]Personae\nObtention, invocation[1205][U+000F]\nArcanes\nCroissance\nCompatibilité[1205][U+000F]\nPage suivante\n[1210][U+0100]Sélection cachée/retour",
+   "brut_fr": "Je vous écoute.\n[1208][U+0007]Personae\nObtention, invocation\nArcanes\nCroissance\nCompatibilité\nPage suivante\n[1210][U+0100]Sélection cachée/retour",
    "brut_en": "Please,[SP]ask[SP]away.\n[1208][U+0007]Personas\nTaking[SP]on[SP]and[SP]invoking\nArcanas\nPersona[SP]growth\nPersona[SP]compatibility\nNext[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
    "data_size": 296,
    "budget": 288
@@ -5414,10 +5414,10 @@
    "choix_fr": {
     "options": [
      "Cartes Tarot",
-     "Cartes Matériaux[1205]",
+     "Cartes Matériaux",
      "Cartes Compétences",
      "Cartes Encens",
-     "Cartes Persona[1205]",
+     "Cartes Persona",
      "Page suiv.",
      "Page préc.",
      "Sélection cachée/retour"
@@ -5445,7 +5445,7 @@
      }
     ]
    },
-   "brut_fr": "Allez-y.\n[1208][U+0008]Cartes Tarot\nCartes Matériaux[1205][U+000F]\nCartes Compétences\nCartes Encens\nCartes Persona[1205][U+000F]\nPage suiv.\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
+   "brut_fr": "Allez-y.\n[1208][U+0008]Cartes Tarot\nCartes Matériaux\nCartes Compétences\nCartes Encens\nCartes Persona\nPage suiv.\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
    "brut_en": "Please,[SP]ask[SP]away.\n[1208][U+0008]Tarot[SP]Cards\nMaterial[SP]Cards\nSkill[SP]Cards\nIncense[SP]Cards\nPersona[SP]Cards\nNext[SP]Page\nPrevious[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
    "data_size": 304,
    "budget": 296
@@ -5477,10 +5477,10 @@
    "choix_fr": {
     "options": [
      "Bases d'invocation",
-     "Changement mystique[1205]",
+     "Changement mystique",
      "Mutation",
      "Contact",
-     "Personnalité des démons[1205]",
+     "Personnalité des démons",
      "Page préc.",
      "Sélection cachée/retour"
     ],
@@ -5506,7 +5506,7 @@
      }
     ]
    },
-   "brut_fr": "Je vous écoute.\n[1208][U+0007]Bases d'invocation\nChangement mystique[1205][U+000F]\nMutation\nContact\nPersonnalité des démons[1205][U+000F]\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
+   "brut_fr": "Je vous écoute.\n[1208][U+0007]Bases d'invocation\nChangement mystique\nMutation\nContact\nPersonnalité des démons\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
    "brut_en": "Please,[SP]ask[SP]away.\n[1208][U+0007]Summoning[SP]basics\nMystic[SP]change\nMutation\nContacting\nDemon[SP]personalities\nPrevious[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
    "data_size": 292,
    "budget": 284
@@ -12288,7 +12288,6 @@
     "options": [
      "Je ne sais pas.",
      "C'est un secret.",
-     "[1205]",
      "Pour le découvrir.",
      "Jamais réfléchi."
     ],
@@ -12311,7 +12310,7 @@
      }
     ]
    },
-   "brut_fr": "Pourquoi êtes-vous né?\n[1208][U+0004][1432][NULL][NULL][0014]Je ne sais pas.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]C'est un secret.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Pour le découvrir.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Jamais réfléchi.[1432][NULL][NULL][0014]",
+   "brut_fr": "Pourquoi êtes-vous né?\n[1208][U+0004][1432][NULL][NULL][0014]Je ne sais pas.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]C'est un secret.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pour le découvrir.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Jamais réfléchi.[1432][NULL][NULL][0014]",
    "brut_en": "For[SP]what[SP]reason[SP]were[SP]you[SP]born?\n[1208][U+0004][1432][NULL][NULL][0014]I[SP]don't[SP]know.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'll[SP]never[SP]tell.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]To[SP]find[SP]that[SP]answer.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Never[SP]thought[SP]about[SP]it.[1432][NULL][NULL][0014]",
    "data_size": 310,
    "budget": 302
@@ -14107,7 +14106,7 @@
    "choix_fr": {
     "options": [
      "Une carte",
-     "Parler[1205]",
+     "Parler",
      "Annuler",
      "Quitter"
     ],
@@ -14130,7 +14129,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0004]Une carte\nParler[1205][U+000F]\nAnnuler\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0004]Une carte\nParler\nAnnuler\nQuitter",
    "brut_en": "Anything[SP]else?\n[1208][U+0004]Request[SP]card\nTalk\nCancel\nLeave",
    "data_size": 134,
    "budget": 126
@@ -14162,7 +14161,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler création de cartes[1205]",
+     "Parler création de cartes",
      "Sélection cachée"
     ],
     "question": [
@@ -14183,7 +14182,7 @@
      }
     ]
    },
-   "brut_fr": "Bien. De quoi parle-t-on?\n[1208][U+0003]Bavarder\nParler création de cartes[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Bien. De quoi parle-t-on?\n[1208][U+0003]Bavarder\nParler création de cartes\n[1210][U+0100]Sélection cachée",
    "brut_en": "Okay.[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]card[SP]creation\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 236,
    "budget": 228
@@ -14975,7 +14974,7 @@
    "choix_fr": {
     "options": [
      "Tarot Libre",
-     "Comment les obtenir[1205]",
+     "Comment les obtenir",
      "Comment les utiliser"
     ],
     "question": [
@@ -14996,7 +14995,7 @@
      }
     ]
    },
-   "brut_fr": "Que voulez-vous savoir?\n[1208][U+0003]Tarot Libre\nComment les obtenir[1205][U+000F]\nComment les utiliser",
+   "brut_fr": "Que voulez-vous savoir?\n[1208][U+0003]Tarot Libre\nComment les obtenir\nComment les utiliser",
    "brut_en": "What[SP]did[SP]you[SP]want[SP]to[SP]ask[SP]about?\n[1208][U+0003]Free[SP]Tarot\nHow[SP]to[SP]obtain[SP]them\nHow[SP]to[SP]use[SP]them",
    "data_size": 198,
    "budget": 190
@@ -16023,10 +16022,10 @@
    "choix_fr": {
     "options": [
      "Invoquer Persona",
-     "Prendre Persona[1205]",
+     "Prendre Persona",
      "Rendre Persona",
      "Muter Persona",
-     "Parler à Igor[1205]",
+     "Parler à Igor",
      "Annuler",
      "Quitter"
     ],
@@ -16052,7 +16051,7 @@
      }
     ]
    },
-   "brut_fr": "Comment puis-je vous servir?\n[1208][U+0007]Invoquer Persona\nPrendre Persona[1205][U+000F]\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor[1205][U+000F]\nAnnuler\nQuitter",
+   "brut_fr": "Comment puis-je vous servir?\n[1208][U+0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
    "brut_en": "How[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
    "data_size": 278,
    "budget": 270
@@ -16095,10 +16094,10 @@
    ],
    "choix_fr": {
     "options": [
-     "Invoquer Persona[1205]",
+     "Invoquer Persona",
      "Prendre Persona",
      "Rendre Persona",
-     "Muter Persona[1205]",
+     "Muter Persona",
      "Parler à Igor",
      "Annuler",
      "Quitter"
@@ -16137,7 +16136,7 @@
      }
     ]
    },
-   "brut_fr": "Bienvenue dans la Chambre de Velours.\nQue puis-je pour vous?\n[1208][U+0007]Invoquer Persona[1205][U+000F]\nPrendre Persona\nRendre Persona\n[1210][U+0621]Muter Persona[1205][U+000F]\nParler à Igor\nAnnuler\nQuitter",
+   "brut_fr": "Bienvenue dans la Chambre de Velours.\nQue puis-je pour vous?\n[1208][U+0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
    "brut_en": "Welcome[SP]to[SP]the[SP]Velvet[SP]Room.\nHow[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
    "data_size": 334,
    "budget": 326
@@ -16214,7 +16213,7 @@
    "choix_fr": {
     "options": [
      "Demander carte",
-     "Parler[1205]",
+     "Parler",
      "Annuler",
      "Quitter"
     ],
@@ -16282,7 +16281,7 @@
      }
     ]
    },
-   "brut_fr": "Le Tarot est un modèle du cœur. Le cœur \naffecte\nle destin.[1205][001E] Voudriez-vous que je vous[1205][U+000F]\npeigne quelque chose?\n[1208][U+0004]Demander carte\nParler[1205][U+000F]\nAnnuler\nQuitter",
+   "brut_fr": "Le Tarot est un modèle du cœur. Le cœur \naffecte\nle destin.[1205][001E] Voudriez-vous que je vous[1205][U+000F]\npeigne quelque chose?\n[1208][U+0004]Demander carte\nParler\nAnnuler\nQuitter",
    "brut_en": "The[SP]Tarot[SP]is[SP]a[SP]model[SP]of[SP]the[SP]heart.[SP]One's[SP]heart\naffects[SP]one's[SP]destiny.[1205][001E][SP]Now,[SP]would[SP]you[SP]like[SP]me\nto[SP]paint[SP]you[SP]something?\n[1208][U+0004]Request[SP]card\nTalk\nCancel\nLeave",
    "data_size": 342,
    "budget": 334
@@ -16619,7 +16618,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -16645,7 +16644,7 @@
      }
     ]
    },
-   "brut_fr": "Voulez-vous vous séparer de\ncette Persona?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Voulez-vous vous séparer de\ncette Persona?\n[1208][0002]Oui\nNon",
    "brut_en": "Are[SP]you[SP]sure[SP]you[SP]want[SP]to[SP]let[SP]go[SP]of[SP]this[SP]Persona?\n[1208][0002]Yes\nNo",
    "data_size": 136,
    "budget": 128

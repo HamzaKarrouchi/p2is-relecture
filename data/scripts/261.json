@@ -95,16 +95,7 @@
        "nl": true
       },
       {
-       "t": "étoiles pour le prix, la saveur et les "
-      },
-      {
-       "pause": true
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "portions."
+       "t": "étoiles pour le prix, la saveur et les portions."
       }
      ]
     }
@@ -139,7 +130,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Cet endroit a été mentionné dans notre\nmagazine partenaire, Gourmet King.[1205][001E] Trois\nétoiles pour le prix, la saveur et les [1205][U+000F]\nportions.",
+   "brut_fr": "Cet endroit a été mentionné dans notre\nmagazine partenaire, Gourmet King.[1205][001E] Trois\nétoiles pour le prix, la saveur et les [1101]portions.",
    "brut_en": "I[SP]remember[SP]when[SP]this[SP]place[SP]got[SP]a[SP]writeup[SP]in[SP]our\nsister[SP]magazine,[SP]Gourmet[SP]King.[1205][001E][SP]It[SP]got[SP]three[SP]stars\nfor[SP]its[SP]price,[SP]flavor,[SP]and[SP]generous[SP]portions.",
    "data_size": 310,
    "budget": 302
@@ -309,7 +300,7 @@
     "options": [
      "Manger ici",
      "Parler au chef",
-     "Non merci[1205]",
+     "Non merci",
      "Sortir"
     ],
     "question": [
@@ -352,7 +343,7 @@
      }
     ]
    },
-   "brut_fr": "Bienvenue les jeunes! Beau poisson\naujourd'hui. Mangez, mangez! C'est pas \ncher![1205][U+000F]\n[1208][U+0004]Manger ici\nParler au chef\nNon merci[1205][U+000F]\nSortir",
+   "brut_fr": "Bienvenue les jeunes! Beau poisson\naujourd'hui. Mangez, mangez! C'est pas \ncher![1205][U+000F]\n[1208][U+0004]Manger ici\nParler au chef\nNon merci\nSortir",
    "brut_en": "Hey[SP]there,[SP]kids![SP]I've[SP]got[SP]some[SP]nice[SP]fish\nin[SP]today.[SP]Eat[SP]up,[SP]eat[SP]up![SP]It[SP]won't[SP]cost[SP]much!\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]chef\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 302,
    "budget": 294
@@ -384,7 +375,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler du repas[1205]",
+     "Parler du repas",
      "Sélection cachée"
     ],
     "question": [
@@ -405,7 +396,7 @@
      }
     ]
    },
-   "brut_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 202,
    "budget": 194
@@ -449,7 +440,7 @@
    "choix_fr": {
     "options": [
      "Manger ici",
-     "Parler au chef[1205]",
+     "Parler au chef",
      "Annuler",
      "Partir"
     ],
@@ -484,7 +475,7 @@
      }
     ]
    },
-   "brut_fr": "Parfait![1205][U+000A] Autre chose?\n[1208][U+0004]Manger ici\nParler au chef[1205][U+000F]\nAnnuler\nPartir",
+   "brut_fr": "Parfait![1205][U+000A] Autre chose?\n[1208][U+0004]Manger ici\nParler au chef\nAnnuler\nPartir",
    "brut_en": "Okay,[SP]then![1205][U+000A][SP]Anything[SP]else?\n[1208][U+0004]Dine[SP]in\nTalk[SP]with[SP]the[SP]chef\nCancel\nLeave",
    "data_size": 162,
    "budget": 154
@@ -516,7 +507,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler du repas[1205]",
+     "Parler du repas",
      "Sélection cachée"
     ],
     "question": [
@@ -537,7 +528,7 @@
      }
     ]
    },
-   "brut_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 202,
    "budget": 194
@@ -832,7 +823,7 @@
    "choix_fr": {
     "options": [
      "Demander des rumeurs",
-     "Parler à Toro[1205]",
+     "Parler à Toro",
      "Non merci"
     ],
     "question": [
@@ -853,7 +844,7 @@
      }
     ]
    },
-   "brut_fr": "Que puis-je pour vous?\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Toro[1205][U+000F]\nNon merci",
+   "brut_fr": "Que puis-je pour vous?\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Toro\nNon merci",
    "brut_en": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toro\nNever[SP]mind",
    "data_size": 196,
    "budget": 188
@@ -885,7 +876,7 @@
    "choix_fr": {
     "options": [
      "Rumeurs armureries",
-     "Rumeurs armures[1205]",
+     "Rumeurs armures",
      "Autres rumeurs",
      "Rien"
     ],
@@ -908,7 +899,7 @@
      }
     ]
    },
-   "brut_fr": "Sur quoi?\n[1208][U+0004][1210][U+0476]Rumeurs armureries\n[1210][U+0477]Rumeurs armures[1205][U+000F]\n[1210][U+0478]Autres rumeurs\nRien",
+   "brut_fr": "Sur quoi?\n[1208][U+0004][1210][U+0476]Rumeurs armureries\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien",
    "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
    "data_size": 240,
    "budget": 232
@@ -940,7 +931,7 @@
    "choix_fr": {
     "options": [
      "Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
      "Aucun"
@@ -965,7 +956,7 @@
      }
     ]
    },
-   "brut_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
+   "brut_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
    "brut_en": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
    "data_size": 166,
    "budget": 158
@@ -997,7 +988,7 @@
    "choix_fr": {
     "options": [
      "Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
      "Aucun"
@@ -1022,7 +1013,7 @@
      }
     ]
    },
-   "brut_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
+   "brut_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
    "brut_en": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
    "data_size": 166,
    "budget": 158
@@ -1054,7 +1045,7 @@
    "choix_fr": {
     "options": [
      "Tirages de magazines",
-     "Rumeurs sur Mu[1205]",
+     "Rumeurs sur Mu",
      "Armes légendaires",
      "Aucune"
     ],
@@ -1077,7 +1068,7 @@
      }
     ]
    },
-   "brut_fr": "Sur quoi?\n[1208][U+0004][1210][U+0472]Tirages de magazines\n[1210][U+0473]Rumeurs sur Mu[1205][U+000F]\n[1210][U+0474]Armes légendaires\nAucune",
+   "brut_fr": "Sur quoi?\n[1208][U+0004][1210][U+0472]Tirages de magazines\n[1210][U+0473]Rumeurs sur Mu\n[1210][U+0474]Armes légendaires\nAucune",
    "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
    "data_size": 274,
    "budget": 266
@@ -4611,16 +4602,7 @@
        "nl": true
       },
       {
-       "t": "les routes et tunnels... Ajoutons les "
-      },
-      {
-       "pause": true
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "montagnes."
+       "t": "les routes et tunnels... Ajoutons les montagnes."
       }
      ]
     }
@@ -4649,7 +4631,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On a aperçu le Vieux Sauteur au Mont\nKatatsumuri. Je croyais qu'il apparaissait sur\nles routes et tunnels... Ajoutons les [1205][U+000F]\nmontagnes.",
+   "brut_fr": "On a aperçu le Vieux Sauteur au Mont\nKatatsumuri. Je croyais qu'il apparaissait sur\nles routes et tunnels... Ajoutons les [1101]montagnes.",
    "brut_en": "There've[SP]been[SP]sightings[SP]of[SP]the[SP]Jumping[SP]Geezer\nat[SP]Mt.[SP]Katatsumuri.[SP]I[SP]thought[SP]it[SP]showed[SP]up[SP]on\nroads[SP]and[SP]tunnels...[SP]add[SP]mountains[SP]to[SP]the[SP]list.",
    "data_size": 316,
    "budget": 308
@@ -4669,7 +4651,7 @@
        "pause": true
       },
       {
-       "t": " J'ai entendu quelque chose"
+       "t": " J'ai ouï quelque chose"
       },
       {
        "nl": true
@@ -4681,7 +4663,7 @@
        "pause": true
       },
       {
-       "t": " K-Kudan... Kudan est à"
+       "t": " Kudan... Kudan est à"
       },
       {
        "nl": true
@@ -4693,25 +4675,19 @@
        "pause": true
       },
       {
-       "t": " Non, je ne veux pas"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "y penser! "
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
+       "t": " Non, j'veux pasy penser!"
       }
      ]
     },
     {
-     "nom": "Sushi Royalty Vous savez pour",
+     "nom": "Sushi Royalty",
      "seg": [
+      {
+       "t": "Vous savez pour"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "le CD de Giga Macho?"
       },
@@ -4719,13 +4695,7 @@
        "pause": true
       },
       {
-       "t": " On dit qu'il existe."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Je veux savoir quels morceaux sont dessus."
+       "t": " On dit qu'il existe.Je veux savoir quels morceaux sont dessus."
       }
      ]
     }
@@ -4801,7 +4771,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Argh...[1205][U+000F] J'ai entendu quelque chose\nd'horrible...[1205][U+000F] K-Kudan... Kudan est à\nl'usine abandonnée...[1205][U+000F] Non, je ne veux pas\ny penser![E1][E2] [1205][U+000F] [E3][E4][NULL][NULL]\"Sushi Royalty Vous savez pour\nle CD de Giga Macho?[1205][U+000F] On dit qu'il existe.\nJe veux savoir quels morceaux sont dessus.",
+   "brut_fr": "Argh...[1205][U+000F] J'ai ouï quelque chose\nd'horrible...[1205][U+000F] Kudan... Kudan est à\nl'usine abandonnée...[1205][U+000F] Non, j'veux pas[1101]y penser![E1][E2]\n[E3][E4][NULL][NULL]\"Sushi Royalty\nVous savez pour\nle CD de Giga Macho?[1205][U+000F] On dit qu'il existe.[1101]Je veux savoir quels morceaux sont dessus.",
    "brut_en": "Gah...[1205][U+000F][SP]I[SP]heard[SP]something[SP]awful...[1205][U+000F][SP]K-Kudan's...\nKudan's[SP]at[SP]the[SP]abandoned[SP]factory...[1205][U+000F][SP]No,[SP]I[SP]don't\nwant[SP]to[SP]think[SP]about[SP]it![E1][E2]\n\n\n[E3][E4][NULL][NULL]\"Sushi[SP]Royalty\nYou[SP]know[SP]about[SP]Giga[SP]Macho's[SP]secret[SP]CD?[1205][U+000F]\nI[SP]hear[SP]there[SP]is[SP]one.[SP]I'd[SP]love[SP]to[SP]know[SP]what\nkind[SP]of[SP]tracks[SP]are[SP]on[SP]it.",
    "data_size": 552,
    "budget": 544

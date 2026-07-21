@@ -281,12 +281,6 @@
       },
       {
        "t": "Je le disais... "
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
       }
      ]
     },
@@ -367,7 +361,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai dit...[1205][001E] que le temps...[1205][001E] doit rester figé...[1205][001E]\nJe le disais... [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Maya\nIl a disparu![1205][U+000F]\nJ'ai l'impression... que je l'ai...",
+   "brut_fr": "J'ai dit...[1205][001E] que le temps...[1205][001E] doit rester figé...[1205][001E]\nJe le disais... [E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIl a disparu![1205][001E]\nJ'ai l'impression... que je l'ai...",
    "brut_en": "I[SP]said...[1205][001E][SP]that[SP]time...[1205][001E][SP]must[SP]not[SP]be[SP]set\nfree...[1205][001E][SP]I[SP]said[SP]it...[1205][001E][SP]so[SP]often...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHe[SP]disappeared![1205][001E][SP]But...[SP]I[SP]feel[SP]like[SP]I've...",
    "data_size": 318,
    "budget": 310
@@ -1090,19 +1084,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Les Pléiades ont libéré le temps..."
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": " "
+       "t": "Les Pléiades ont libéré le temps...  "
       }
      ]
     },
     {
      "nom": "Joker",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
       {
        "t": "La vengeance n'est pas mon seul mobile."
       }
@@ -1132,7 +1126,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les Pléiades ont libéré le temps...\n[E1][E2] [E3][E4][NULL][NULL]\"Joker\nLa vengeance n'est pas mon seul mobile.",
+   "brut_fr": "Les Pléiades ont libéré le temps... [E1][E2] [E3][E4][NULL][NULL]\"Joker\n[1205][U+000F]\nLa vengeance n'est pas mon seul mobile.",
    "brut_en": "The[SP]seven[SP]Pleaides[SP]set[SP]the[SP]frozen[SP]time[SP]free...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Joker\nRevenge[SP]isn't[SP]my[SP]only[SP]motive.",
    "data_size": 204,
    "budget": 196

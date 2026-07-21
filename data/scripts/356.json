@@ -896,13 +896,7 @@
        "nl": true
       },
       {
-       "t": "plateau comme ça... Ça me rendra vraiment"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "heureuse...?"
+       "t": "plateau comme ça... Ça me rendra vraimentheureuse...?"
       }
      ]
     }
@@ -940,7 +934,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais quand même...[1205][U+000F] Est-ce la meilleure\nfaçon...?[1205][U+000F] Qu'on me remette mon but sur un\nplateau comme ça... Ça me rendra vraiment\nheureuse...?",
+   "brut_fr": "Mais quand même...[1205][U+000F] Est-ce la meilleure\nfaçon...?[1205][U+000F] Qu'on me remette mon but sur un\nplateau comme ça... Ça me rendra vraiment[1101]heureuse...?",
    "brut_en": "Then[SP]again...[1205][U+000F][SP]Is[SP]that[SP]really[SP]the[SP]best[SP]way...?[1205][U+000F]\nHaving[SP]my[SP]purpose[SP]just[SP]giftwrapped[SP]for[SP]me[SP]like\nthat...[SP]Will[SP]that[SP]really[SP]make[SP]me[SP]happy...?",
    "data_size": 324,
    "budget": 316
@@ -1070,7 +1064,7 @@
    "choix_fr": {
     "options": [
      "Soigner",
-     "Parler à l'esthéticienne[1205]",
+     "Parler à l'esthéticienne",
      "Laisser tomber",
      "Quitter"
     ],
@@ -1093,7 +1087,7 @@
      }
     ]
    },
-   "brut_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soigner\nParler à l'esthéticienne[1205][U+000F]\nLaisser tomber\nQuitter",
+   "brut_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soigner\nParler à l'esthéticienne\nLaisser tomber\nQuitter",
    "brut_en": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
    "data_size": 212,
    "budget": 204
@@ -1450,7 +1444,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -1482,7 +1476,7 @@
      }
     ]
    },
-   "brut_fr": "Bien. Ce sera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Bien. Ce sera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui\nNon",
    "brut_en": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?\n[1208][0002]Yes\nNo",
    "data_size": 220,
    "budget": 212
@@ -1850,7 +1844,7 @@
    "choix_fr": {
     "options": [
      "Soigner",
-     "Parler à l'esthéticienne[1205]",
+     "Parler à l'esthéticienne",
      "Laisser tomber",
      "Quitter"
     ],
@@ -1873,7 +1867,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler à l'esthéticienne[1205][U+000F]\nLaisser tomber\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler à l'esthéticienne\nLaisser tomber\nQuitter",
    "brut_en": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
    "data_size": 200,
    "budget": 192

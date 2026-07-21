@@ -10,19 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un haltère!? C'est pas drôle... Je serais"
+       "t": "Un haltère!? C'est pas drôle... Je serai"
       },
       {
        "nl": true
       },
       {
-       "t": "morte s'il m'était tombé dessus! "
+       "t": "morte s'il tombait dessus!"
       }
      ]
     },
     {
-     "nom": "Maya[1205][U+000F]",
+     "nom": "Maya",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
       {
        "t": "Grazie, "
       },
@@ -67,7 +73,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un haltère!? C'est pas drôle... Je serais\nmorte s'il m'était tombé dessus! [E1][E2][E3][1121][E4][NULL][NULL]\"Maya[1205][U+000F]\nGrazie, [1113]... Je t'en dois une.",
+   "brut_fr": "Un haltère!? C'est pas drôle... Je serai\nmorte s'il tombait dessus![E1][E2][E3][1121][E4][NULL][NULL]\"Maya\n[1205][U+000F]\nGrazie, [1113]... Je t'en dois une.",
    "brut_en": "A[SP]barbell!?[SP]Th-This[SP]isn't[SP]funny...[SP]I'd[SP]be\ndead[SP]if[SP]that[SP]had[SP]landed[SP]on[SP]me!\n[E1][E2][E3][1121][E4][NULL][NULL]\"Maya\nG-Grazie,[SP][1113]-kun...[SP]I[SP]owe[SP]you[SP]one.",
    "data_size": 260,
    "budget": 252

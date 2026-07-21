@@ -397,13 +397,7 @@
        "pause": true
       },
       {
-       "t": " Mais aussi de la bonté et de"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "l'empathie."
+       "t": " Mais aussi de la bonté et del'empathie."
       }
      ]
     }
@@ -444,7 +438,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Les désirs cachés du coeur humain donnent\nforme aux rumeurs.[1205][U+000F] L'humain a une part\nsombre...[1205][U+000F] Mais aussi de la bonté et de\nl'empathie.",
+   "brut_fr": "Les désirs cachés du coeur humain donnent\nforme aux rumeurs.[1205][U+000F] L'humain a une part\nsombre...[1205][U+000F] Mais aussi de la bonté et de[1101]l'empathie.",
    "brut_en": "Rumors[SP]are[SP]the[SP]desire[SP]lurking[SP]in[SP]human[SP]hearts\ngiven[SP]form.[1205][U+000F][SP]Man[SP]has[SP]a[SP]dark[SP]side,[SP]alas...[1205][U+000F][SP]But\nhe[SP]is[SP]also[SP]capable[SP]of[SP]kindness[SP]and[SP]empathy.",
    "data_size": 294,
    "budget": 286
@@ -555,10 +549,10 @@
    "choix_fr": {
     "options": [
      "Acheter",
-     "Vendre    [1205]",
+     "Vendre",
      "Manger",
      "Discuter",
-     "Rien merci[1205]",
+     "Rien merci",
      "Filer"
     ],
     "question": [
@@ -582,7 +576,7 @@
      }
     ]
    },
-   "brut_fr": "Salut. Ce sera quoi?\n[1208][U+0006]Acheter    \nVendre    [1205][U+000F]\nManger \nDiscuter     \nRien merci[1205][U+000F]\nFiler",
+   "brut_fr": "Salut. Ce sera quoi?\n[1208][U+0006]Acheter    \nVendre    \nManger \nDiscuter     \nRien merci\nFiler",
    "brut_en": "Hey[SP]there.[SP]What'll[SP]it[SP]be?\n[1208][U+0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave",
    "data_size": 202,
    "budget": 194
@@ -614,10 +608,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -643,7 +637,7 @@
      }
     ]
    },
-   "brut_fr": "Tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "What're[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 304,
    "budget": 296
@@ -675,7 +669,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Parler du repas",
      "Sélection cachée"
     ],
@@ -698,7 +692,7 @@
      }
     ]
    },
-   "brut_fr": "Alors, tu veux parler de quoi?\n[1208][U+0004]Bavarder\nParler boutique[1205][U+000F]\nParler du repas\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Alors, tu veux parler de quoi?\n[1208][U+0004]Bavarder\nParler boutique\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 248,
    "budget": 240
@@ -730,10 +724,10 @@
    "choix_fr": {
     "options": [
      "Acheter",
-     "Vendre    [1205]",
+     "Vendre",
      "Manger",
      "Discuter",
-     "Rien merci[1205]",
+     "Rien merci",
      "Filer"
     ],
     "question": [
@@ -757,7 +751,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0006]Acheter    \nVendre    [1205][U+000F]\nManger \nDiscuter     \nRien merci[1205][U+000F]\nFiler",
+   "brut_fr": "Autre chose?\n[1208][U+0006]Acheter    \nVendre    \nManger \nDiscuter     \nRien merci\nFiler",
    "brut_en": "Anythin'[SP]else?\n[1208][U+0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave",
    "data_size": 180,
    "budget": 172
@@ -789,10 +783,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -818,7 +812,7 @@
      }
     ]
    },
-   "brut_fr": "Tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "What're[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 304,
    "budget": 296
@@ -850,7 +844,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Parler du repas",
      "Sélection cachée"
     ],
@@ -873,7 +867,7 @@
      }
     ]
    },
-   "brut_fr": "Alors, tu veux parler de quoi?\n[1208][U+0004]Bavarder\nParler boutique[1205][U+000F]\nParler du repas\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Alors, tu veux parler de quoi?\n[1208][U+0004]Bavarder\nParler boutique\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 248,
    "budget": 240
@@ -1449,18 +1443,18 @@
       },
       {
        "t": "Hirasaka?"
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
       }
      ]
     },
     {
-     "nom": "Lycéen en échec Pleins de soldats",
+     "nom": "Lycéen en échec",
      "seg": [
+      {
+       "t": "Pleins de soldats"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "du Bata-truc y sont entrés."
       },
@@ -1468,13 +1462,7 @@
        "pause": true
       },
       {
-       "t": " Et juste après les"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "gars du Cercle Masqué les ont suivis dedans."
+       "t": " Et juste après lesgars du Cercle Masqué les ont suivis dedans."
       }
      ]
     }
@@ -1535,7 +1523,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mec, j'ai vu un truc terrifiant.[1205][U+000F] Tu vois cet\nimmeuble bizarre là où était le Smile\nHirasaka?[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Lycéen en échec Pleins de soldats\ndu Bata-truc y sont entrés.[1205][U+000F] Et juste après les\ngars du Cercle Masqué les ont suivis dedans.",
+   "brut_fr": "Mec, j'ai vu un truc terrifiant.[1205][U+000F] Tu vois cet\nimmeuble bizarre là où était le Smile\nHirasaka?[E1][E2]\n[E3][E4][NULL][NULL]\"Lycéen en échec\nPleins de soldats\ndu Bata-truc y sont entrés.[1205][U+000F] Et juste après les[1101]gars du Cercle Masqué les ont suivis dedans.",
    "brut_en": "Man,[SP]I[SP]just[SP]saw[SP]something[SP]that[SP]scared[SP]the[SP]life\nout[SP]of[SP]me.[1205][U+000F][SP]You[SP]know[SP]how[SP]that[SP]weird[SP]building\nshowed[SP]up[SP]where[SP]Smile[SP]Hirasaka[SP]was?[E1][E2]\n[E3][E4][NULL][NULL]\"Washout[SP]student\nTons[SP]of[SP]those[SP]soldiers[SP]from[SP]the[SP]Last[SP]Whatever\nwent[SP]in[SP]there.[1205][U+000F][SP]Then[SP]the[SP]Masked[SP]Circle[SP]guys\nrushed[SP]in[SP]to[SP]follow[SP]them.",
    "data_size": 578,
    "budget": 570
@@ -3146,8 +3134,17 @@
      ]
     },
     {
-     "nom": "Eikichi[1205][U+000F] J'ai",
+     "nom": "Eikichi",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "fini..."
       },
@@ -3234,7 +3231,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "... D'accord...[1205][U+000F] Bah, ça change rien...[1205][U+000F] Bien,\nc'est parti![E1][E2][E3] > Eikichi mange...[1107][E2][E3][E4][NULL][NULL]\"Eikichi[1205][U+000F] J'ai\nfini...[1205][U+000F] le Ramen...[1205][U+000F] au Yaourt...[1205][U+000F] Beuurp...!",
+   "brut_fr": "... D'accord...[1205][U+000F] Bah, ça change rien...[1205][U+000F] Bien,\nc'est parti![E3] > Eikichi mange...[1107][E2][E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\n[1205][U+000F] J'ai\nfini...[1205][U+000F] le Ramen...[1205][U+000F] au Yaourt...[1205][U+000F] Beuurp...!",
    "brut_en": "...Fine...[1205][U+000F][SP]It[SP]doesn't[SP]change[SP]anything...[1205][U+000F]\nAlright,[SP]here[SP]goes![E1][E2][E3]\n>[SP]Eikichi[SP]is[SP]eating...[1107][E2][E3][E4][NULL][NULL]\"Eikichi\nI[SP]ate[SP]it...[1205][U+000F][SP]the[SP]yogurt...[1205][U+000F][SP]ramen...[1205][U+000F]\nUrrrp...!",
    "data_size": 336,
    "budget": 328
@@ -3656,7 +3653,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -3688,7 +3685,7 @@
      }
     ]
    },
-   "brut_fr": "Ça fait [120E][NULL] yen.\nÇa te va?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Ça fait [120E][NULL] yen.\nÇa te va?\n[1208][0002]Oui\nNon",
    "brut_en": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[1208][0002]Yes\nNo",
    "data_size": 114,
    "budget": 106
@@ -4178,7 +4175,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -4210,7 +4207,7 @@
      }
     ]
    },
-   "brut_fr": "Ça fait [120E][NULL] yen.\nÇa te va?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Ça fait [120E][NULL] yen.\nÇa te va?\n[1208][0002]Oui\nNon",
    "brut_en": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[1208][0002]Yes\nNo",
    "data_size": 114,
    "budget": 106

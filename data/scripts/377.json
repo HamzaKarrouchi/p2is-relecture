@@ -1156,7 +1156,7 @@
     "options": [
      "Soigner",
      "Parler",
-     "Annuler[1205]",
+     "Annuler",
      "Quitter"
     ],
     "question": [
@@ -1178,7 +1178,7 @@
      }
     ]
    },
-   "brut_fr": "Quoi alors?[111F][1208][U+0004]Soigner\nParler\nAnnuler[1205][U+000F]\nQuitter",
+   "brut_fr": "Quoi alors?[111F][1208][U+0004]Soigner\nParler\nAnnuler\nQuitter",
    "brut_en": "What'll[SP]it[SP]be?[111F][1208][U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave",
    "data_size": 120,
    "budget": 112
@@ -1347,13 +1347,7 @@
        "pause": true
       },
       {
-       "t": " pourras économiser un"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "peu au final.> Erreur Aucun BIT de saut."
+       "t": " pourras économiser unpeu au final.> Erreur Aucun BIT de saut."
       },
       {
        "nl": true
@@ -1406,7 +1400,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mes tarifs dépendent de la valeur du\nmarché pour les soins, mais je soigne tout\nle monde, donc tu [1205][U+000F] pourras économiser un\npeu au final.[E1][E2][E3]> Erreur Aucun BIT de saut.\nContactez Kanada,[1205][U+000F] ou plutôt votre chef QA.",
+   "brut_fr": "Mes tarifs dépendent de la valeur du\nmarché pour les soins, mais je soigne tout\nle monde, donc tu [1205][U+000F] pourras économiser un[1101]peu au final.[E1][E2][E3]> Erreur Aucun BIT de saut.\nContactez Kanada,[1205][U+000F] ou plutôt votre chef QA.",
    "brut_en": "My[SP]fees[SP]depend[SP]on[SP]the[SP]current[SP]market[SP]value[SP]for\nhealing,[SP]but[SP]I[SP]do[SP]cure[SP]everyone,[SP]so[SP]you[SP]might\nsave[SP]a[SP]little[SP]in[SP]the[SP]long[SP]run.[E1][E2][E3]>[SP]Error\nNo[SP]BIT[SP]found[SP]to[SP]jump[SP]to.[SP]Please[SP]contact[SP]Kanada.\nOr[SP]more[SP]likely[SP]your[SP]QA[SP]lead.",
    "data_size": 442,
    "budget": 434
@@ -1571,7 +1565,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -1603,7 +1597,7 @@
      }
     ]
    },
-   "brut_fr": "Ca fait [120E][NULL]yen.\nTu payes?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Ca fait [120E][NULL]yen.\nTu payes?\n[1208][0002]Oui\nNon",
    "brut_en": "Yeah,[SP]that's[SP][120E][NULL][SP]yen.\nYou[SP]gonna[SP]pay[SP]up?\n[1208][0002]Yes\nNo",
    "data_size": 118,
    "budget": 110
@@ -1870,7 +1864,7 @@
    "choix_fr": {
     "options": [
      "Soigner",
-     "Parler[1205]",
+     "Parler",
      "Annuler",
      "Quitter"
     ],
@@ -1893,7 +1887,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler[1205][U+000F]\nAnnuler\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler\nAnnuler\nQuitter",
    "brut_en": "Anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave",
    "data_size": 120,
    "budget": 112

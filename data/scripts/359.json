@@ -2361,7 +2361,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Manger[1205]",
+     "Manger",
      "Parler au gamin",
      "Non merci",
      "Partir"
@@ -2409,7 +2409,7 @@
      }
     ]
    },
-   "brut_fr": "Hé.[1205][U+000F] Tu surfes sur le net à cette heure?\nT'as que ça à faire. Bof.\n[1208][U+0004]Manger[1205][U+000F]\nParler au gamin\nNon merci\nPartir",
+   "brut_fr": "Hé.[1205][U+000F] Tu surfes sur le net à cette heure?\nT'as que ça à faire. Bof.\n[1208][U+0004]Manger\nParler au gamin\nNon merci\nPartir",
    "brut_en": "Hey.[1205][U+000F][SP]Surfing[SP]the[SP]net[SP]this[SP]early[SP]in[SP]the[SP]day?\nMust[SP]have[SP]a[SP]lot[SP]of[SP]time[SP]on[SP]your[SP]hands.[SP]Whatevs.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
    "data_size": 312,
    "budget": 304
@@ -2441,7 +2441,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler du repas[1205]",
+     "Parler du repas",
      "Sélection cachée"
     ],
     "question": [
@@ -2462,7 +2462,7 @@
      }
     ]
    },
-   "brut_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "Yeah,[SP]what's[SP]up.\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 186,
    "budget": 178
@@ -2506,7 +2506,7 @@
    "choix_fr": {
     "options": [
      "Manger",
-     "Parler au gamin[1205]",
+     "Parler au gamin",
      "Non merci",
      "Partir"
     ],
@@ -2541,7 +2541,7 @@
      }
     ]
    },
-   "brut_fr": "Ouais...[1205][U+000F] C'est tout?\n[1208][U+0004]Manger\nParler au gamin[1205][U+000F]\nNon merci\nPartir",
+   "brut_fr": "Ouais...[1205][U+000F] C'est tout?\n[1208][U+0004]Manger\nParler au gamin\nNon merci\nPartir",
    "brut_en": "Sure...[1205][U+000F][SP]Was[SP]that[SP]it?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
    "data_size": 170,
    "budget": 162
@@ -2573,7 +2573,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler du repas[1205]",
+     "Parler du repas",
      "Sélection cachée"
     ],
     "question": [
@@ -2594,7 +2594,7 @@
      }
     ]
    },
-   "brut_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "Yeah,[SP]what's[SP]up.\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 186,
    "budget": 178
@@ -5277,13 +5277,7 @@
        "pause": true
       },
       {
-       "t": " propre site. Rien n'est"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "connu de lui, mais il semble collectecter"
+       "t": " propre site. Rien n'estconnu de lui, mais il semble collectecter"
       },
       {
        "nl": true
@@ -5339,7 +5333,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est ta première fois ici.[1205][U+000F] Moi c'est Baofu.\nJe gère ce site.[E1][E2] Baofu Colporteur de rumeurs\nen ligne avec son [1205][U+000F] propre site. Rien n'est\nconnu de lui, mais il semble collectecter\ndes rumeurs dans un but [1205][U+000F] précis.",
+   "brut_fr": "C'est ta première fois ici.[1205][U+000F] Moi c'est Baofu.\nJe gère ce site.[E1][E2] Baofu Colporteur de rumeurs\nen ligne avec son [1205][U+000F] propre site. Rien n'est[1101]connu de lui, mais il semble collectecter\ndes rumeurs dans un but [1205][U+000F] précis.",
    "brut_en": "Looks[SP]like[SP]this[SP]is[SP]your[SP]first[SP]time[SP]here.[1205][U+000F]\nName's[SP]Baofu.[SP]I[SP]run[SP]this[SP]website.[E1][E2]Baofu\nAn[SP]online[SP]rumormonger[SP]with[SP]his[SP]own[SP]rumor[SP]site.\nNothing[SP]is[SP]known[SP]about[SP]him,[SP]but[SP]he[SP]seems[SP]to\nbe[SP]gathering[SP]rumors[SP]for[SP]a[SP]specific[SP]purpose.",
    "data_size": 452,
    "budget": 444
@@ -5545,31 +5539,31 @@
    "choix_fr": {
     "options": [
      "Demander des rumeurs",
-     "Parler à Baofu[1205]",
+     "Parler à Baofu",
      "Annuler",
      "[1109][E2][E3]> Choisissez un sujet.",
-     "[1208]Rumeurs armureries[1205]",
+     "[1208]Rumeurs armureries",
      "Rumeurs armures",
      "Autres rumeurs",
-     "Rien[1205]",
+     "Rien",
      "[1109][E2][E3]> Choisissez une région.",
      "[1208]Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
-     "Aucune[1205]",
+     "Aucune",
      "[1109][E2][E3]> Choisissez une région.",
      "[1208]Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
-     "Aucune[1205]",
+     "Aucune",
      "[1109][E2][E3]> Choisissez un sujet.",
      "[1208]Concours magazines",
-     "Rumeurs Mu[1205]",
+     "Rumeurs Mu",
      "Armes légendaires",
      "Aucun",
-     "[1109][E2][E3]> Vérifié.[1205]",
+     "[1109][E2][E3]> Vérifié.",
      "Soumettre.",
      "Patientez après envoi."
     ],
@@ -5616,7 +5610,7 @@
      }
     ]
    },
-   "brut_fr": "Tiens, de retour.[E1][E2][E3]> Choisissez une option.\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Baofu[1205][U+000F]\nAnnuler\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0476]Rumeurs armureries[1205][U+000F]\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien[1205][U+000F]\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune[1205][U+000F]\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki[1205][U+000F]\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucune[1205][U+000F]\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0472]Concours magazines\n[1210][U+0473]Rumeurs Mu[1205][U+000F]\n[1210][U+0474]Armes légendaires\nAucun\n[1109][E2][E3]> Vérifié.[1205][U+000F]\nSoumettre.\nPatientez après envoi.",
+   "brut_fr": "Tiens, de retour.[E1][E2][E3]> Choisissez une option.\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Baofu\nAnnuler\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0476]Rumeurs armureries\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucune\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0472]Concours magazines\n[1210][U+0473]Rumeurs Mu\n[1210][U+0474]Armes légendaires\nAucun\n[1109][E2][E3]> Vérifié.\nSoumettre.\nPatientez après envoi.",
    "brut_en": "Hey,[SP]you're[SP]back.[E1][E2][E3]>[SP]Select[SP]an[SP]option.\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Baofu\nCancel\n[1109][E2][E3]>[SP]Select[SP]a[SP]topic.\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]subject.\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them\n[1109][E2][E3]>[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait.",
    "data_size": 994,
    "budget": 986
@@ -12515,7 +12509,7 @@
        "nl": true
       },
       {
-       "t": "fantaisie — trop flippant si c'est "
+       "t": "fantaisie - trop flippant si c'est "
       },
       {
        "pause": true
@@ -12550,7 +12544,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Selon les rumeurs, les fleurs du parc Aoba\nparlent. J'espère que c'est juste une\nfantaisie — trop flippant si c'est [1205][U+000F] vrai.",
+   "brut_fr": "Selon les rumeurs, les fleurs du parc Aoba\nparlent. J'espère que c'est juste une\nfantaisie - trop flippant si c'est [1205][U+000F] vrai.",
    "brut_en": "According[SP]to[SP]the[SP]rumors,[SP]the[SP]flowers[SP]at[SP]Aoba\nPark[SP]can[SP]talk.[SP]I[SP]hope[SP]that's[SP]just[SP]someone's\nfantasy--it'd[SP]be[SP]too[SP]scary[SP]if[SP]it[SP]was[SP]real.",
    "data_size": 288,
    "budget": 280
@@ -12624,7 +12618,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -12656,7 +12650,7 @@
      }
     ]
    },
-   "brut_fr": "Ça fait [120E][NULL] yens.\nVous voulez ça?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Ça fait [120E][NULL] yens.\nVous voulez ça?\n[1208][0002]Oui\nNon",
    "brut_en": "That's[SP][120E][NULL][SP]yen[SP]in[SP]total.\nDo[SP]you[SP]want[SP]it?\n[1208][0002]Yes\nNo",
    "data_size": 128,
    "budget": 120

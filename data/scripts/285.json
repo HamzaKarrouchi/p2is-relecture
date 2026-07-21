@@ -284,13 +284,7 @@
        "pause": true
       },
       {
-       "t": " Les gens... peuvent être"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "pitoyables dans ces moments-là..."
+       "t": " Les gens... peuvent êtrepitoyables dans ces moments-là..."
       }
      ]
     }
@@ -328,7 +322,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils doivent être desespérés pour\npenser pouvoir évoluer et fuir la fin\ndu monde.[1205][U+000F] Les gens... peuvent être\npitoyables dans ces moments-là...",
+   "brut_fr": "Ils doivent être desespérés pour\npenser pouvoir évoluer et fuir la fin\ndu monde.[1205][U+000F] Les gens... peuvent être[1101]pitoyables dans ces moments-là...",
    "brut_en": "They[SP]must[SP]be[SP]desperate[SP]to[SP]believe[SP]that[SP]they[SP]can\nevolve[SP]and[SP]escape[SP]this[SP]world's[SP]destruction.[1205][U+000F]\nPeople...[1205][U+000F][SP]can[SP]be[SP]pitiful[SP]at[SP]times[SP]like[SP]this...",
    "data_size": 304,
    "budget": 296
@@ -879,7 +873,7 @@
    "choix_fr": {
     "options": [
      "Parlons rumeurs",
-     "Discuter un peu[1205]",
+     "Discuter un peu",
      "Rien merci"
     ],
     "question": [
@@ -900,7 +894,7 @@
      }
     ]
    },
-   "brut_fr": "Que puis-je pour toi?\n[1208][U+0003][1210][U+0475]Parlons rumeurs\nDiscuter un peu[1205][U+000F]\nRien merci",
+   "brut_fr": "Que puis-je pour toi?\n[1208][U+0003][1210][U+0475]Parlons rumeurs\nDiscuter un peu\nRien merci",
    "brut_en": "What[SP]can[SP]this[SP]old[SP]man[SP]do[SP]for[SP]you[SP]today?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toku-san\nNever[SP]mind",
    "data_size": 234,
    "budget": 226
@@ -932,7 +926,7 @@
    "choix_fr": {
     "options": [
      "Magasin d'armes",
-     "Magasin d'armures[1205]",
+     "Magasin d'armures",
      "Autres",
      "Aucun"
     ],
@@ -955,7 +949,7 @@
      }
     ]
    },
-   "brut_fr": "Quel genre de rumeur veux-tu entendre?\n[1208][U+0004][1210][U+0476]Magasin d'armes\n[1210][U+0477]Magasin d'armures[1205][U+000F]\n[1210][U+0478]Autres\nAucun",
+   "brut_fr": "Quel genre de rumeur veux-tu entendre?\n[1208][U+0004][1210][U+0476]Magasin d'armes\n[1210][U+0477]Magasin d'armures\n[1210][U+0478]Autres\nAucun",
    "brut_en": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNone",
    "data_size": 258,
    "budget": 250
@@ -987,7 +981,7 @@
    "choix_fr": {
     "options": [
      "Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
      "Rien"
@@ -1012,7 +1006,7 @@
      }
     ]
    },
-   "brut_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
+   "brut_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
    "brut_en": "For[SP]which[SP]region?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
    "data_size": 178,
    "budget": 170
@@ -1044,7 +1038,7 @@
    "choix_fr": {
     "options": [
      "Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
      "Rien"
@@ -1069,7 +1063,7 @@
      }
     ]
    },
-   "brut_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
+   "brut_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
    "brut_en": "For[SP]which[SP]region?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
    "data_size": 178,
    "budget": 170
@@ -1101,7 +1095,6 @@
    "choix_fr": {
     "options": [
      "Loteries de magazines",
-     "[1205]",
      "]Mu",
      "Arme légendaire",
      "Aucune"
@@ -1125,7 +1118,7 @@
      }
     ]
    },
-   "brut_fr": "Quel type de rumeur veux-tu entendre?[1208][U+0004][1210][U+0472]\nLoteries de magazines      \n[1205][U+000F]\n[1210][U+0473]]Mu       \n[1210][U+0474]Arme légendaire        \nAucune",
+   "brut_fr": "Quel type de rumeur veux-tu entendre?[1208][U+0004][1210][U+0472]\nLoteries de magazines      \n\n[1210][U+0473]]Mu       \n[1210][U+0474]Arme légendaire        \nAucune",
    "brut_en": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
    "data_size": 298,
    "budget": 290
@@ -1419,13 +1412,7 @@
        "pause": true
       },
       {
-       "t": " fait même appeler Comte... Donc"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "la rumeur ne m'étonne pas."
+       "t": " fait même appeler Comte... Doncla rumeur ne m'étonne pas."
       }
      ]
     }
@@ -1454,7 +1441,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il est assez suspect et s'exprime comme\ns'il pouvait voir à travers les gens.\nIl se [1205][U+000F] fait même appeler Comte... Donc\nla rumeur ne m'étonne pas.",
+   "brut_fr": "Il est assez suspect et s'exprime comme\ns'il pouvait voir à travers les gens.\nIl se [1205][U+000F] fait même appeler Comte... Donc[1101]la rumeur ne m'étonne pas.",
    "brut_en": "He's[SP]a[SP]rather[SP]suspicious[SP]man[SP]who[SP]talks[SP]as[SP]if[SP]he\ncan[SP]see[SP]through[SP]people.[SP]He[SP]even[SP]calls[SP]himself\na[SP]Count...[SP]So[SP]this[SP]rumor[SP]comes[SP]as[SP]no[SP]surprise.",
    "data_size": 332,
    "budget": 324
@@ -1866,13 +1853,7 @@
        "pause": true
       },
       {
-       "t": " fusil la prochaine"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "fois. Il n'est pas ordinaire."
+       "t": " fusil la prochainefois. Il n'est pas ordinaire."
       }
      ]
     }
@@ -1901,7 +1882,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Aussi, le Garçon là-bas aurait chassé\ndes voyous armés de couteaux, ajoutant\nqu'il aurait un[1205][U+000F] fusil la prochaine\nfois. Il n'est pas ordinaire.",
+   "brut_fr": "Aussi, le Garçon là-bas aurait chassé\ndes voyous armés de couteaux, ajoutant\nqu'il aurait un[1205][U+000F] fusil la prochaine[1101]fois. Il n'est pas ordinaire.",
    "brut_en": "I[SP]also[SP]hear[SP]the[SP]Garcon[SP]there[SP]drove[SP]away[SP]some\npunks[SP]who[SP]came[SP]with[SP]knives,[SP]and[SP]said[SP]he'd[SP]have\nrifles[SP]ready[SP]next[SP]time.[SP]He's[SP]no[SP]ordinary[SP]man.",
    "data_size": 326,
    "budget": 318
@@ -2638,8 +2619,17 @@
      ]
     },
     {
-     "nom": "Colporteur Toku [E4][NULL][NULL][U+0006]Rosa Candida[E4][NULL][NULL][0002] a une branche à",
+     "nom": "Colporteur Toku",
      "seg": [
+      {
+       "hl": "Rosa Candida"
+      },
+      {
+       "t": " a une branche à"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "Aoba, et ils"
       },
@@ -2653,16 +2643,7 @@
        "hl": "vraies armures"
       },
       {
-       "t": "."
-      },
-      {
-       "pause": true
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Leur "
+       "t": ".Leur "
       },
       {
        "hl": "sélection est misérable, mais les prix"
@@ -2759,7 +2740,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah, ce nouveau chef de Kakasu était le larbin\nde l'ancien Boss Mortel.[1205][U+000F] Le faible surpasse\nle fort...[1205][U+000F] D'accord, voilà ce que je sais.[E1][E2]\n[E3][E4][NULL][NULL]\"Colporteur Toku [E4][NULL][NULL][U+0006]Rosa Candida[E4][NULL][NULL][0002] a une branche à\nAoba, et ils[1205][U+000F] y vendraient de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002].[1205][U+000F]\nLeur [E4][NULL][NULL][U+0006]sélection est misérable, mais les prix\nde revente sont bons[E4][NULL][NULL][0002].",
+   "brut_fr": "Ah, ce nouveau chef de Kakasu était le larbin\nde l'ancien Boss Mortel.[1205][U+000F] Le faible surpasse\nle fort...[1205][U+000F] D'accord, voilà ce que je sais.[E1][E2]\n[E3][E4][NULL][NULL]\"Colporteur Toku\n[E4][NULL][NULL][U+0006]Rosa Candida[E4][NULL][NULL][0002] a une branche à\nAoba, et ils[1205][U+000F] y vendraient de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002].[1101]Leur [E4][NULL][NULL][U+0006]sélection est misérable, mais les prix\nde revente sont bons[E4][NULL][NULL][0002].",
    "brut_en": "Ah,[SP]so[SP]this[SP]new[SP]Leader[SP]at[SP]Kasugayama[SP]used[SP]to\nbe[SP]the[SP]Death[SP]Boss'[SP]underling.[1205][U+000F][SP]The[SP]low[SP]overcomes\nthe[SP]high...[1205][U+000F][SP]All[SP]right,[SP]here's[SP]what[SP]I[SP]know.[E1][E2]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nThere's[SP]a[SP]branch[SP]of[SP][E4][NULL][NULL][U+0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]and\nword[SP]is[SP]they[SP]sell[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002].[1205][U+000F][SP]Their[SP][E4][NULL][NULL][U+0006]selection\nis[SP]paltry,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]good[E4][NULL][NULL][0002].",
    "data_size": 712,
    "budget": 704
@@ -2867,13 +2848,7 @@
        "t": ". "
       },
       {
-       "hl": "Bon choix, mais mauvais prix de"
-      },
-      {
-       "nl": true
-      },
-      {
-       "hl": "revente"
+       "hl": "Bon choix, mais mauvais prix derevente"
       },
       {
        "t": "."
@@ -2929,7 +2904,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce magasin au style européen, [E4][NULL][NULL][U+0006]London Clothier[E4][NULL][NULL][0002],\nà Kounan.[1205][U+000A] Tu peux y acheter de [E4][NULL][NULL][U+0006]vraies [1205][U+000F]\narmures[E4][NULL][NULL][0002]. [E4][NULL][NULL][U+0006]Bon choix, mais mauvais prix de\nrevente[E4][NULL][NULL][0002].",
+   "brut_fr": "Ce magasin au style européen, [E4][NULL][NULL][U+0006]London Clothier[E4][NULL][NULL][0002],\nà Kounan.[1205][U+000A] Tu peux y acheter de [E4][NULL][NULL][U+0006]vraies [1205][U+000F]\narmures[E4][NULL][NULL][0002]. [E4][NULL][NULL][U+0006]Bon choix, mais mauvais prix de[1101]revente[E4][NULL][NULL][0002].",
    "brut_en": "There's[SP]a[SP]European-styled[SP]shop,[SP][E4][NULL][NULL][U+0006]London[SP]Clothier[E4][NULL][NULL][0002],\nin[SP]Kounan.[1205][U+000A][SP]You[SP]can[SP]buy[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP][E4][NULL][NULL][U+0006]Their\nselection[SP]is[SP]good,[SP]but[SP]the[SP]resale[SP]value[SP]isn't[E4][NULL][NULL][0002].",
    "data_size": 388,
    "budget": 380
@@ -3679,13 +3654,7 @@
        "nl": true
       },
       {
-       "t": "celles de Sumaru sont particulièrement"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "bizarres."
+       "t": "celles de Sumaru sont particulièrementbizarres."
       }
      ]
     }
@@ -3720,7 +3689,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est peut-être pour ça que les gens sont\naussi réceptifs aux rumeurs...[1205][U+000F] Ceci dit,\ncelles de Sumaru sont particulièrement\nbizarres.",
+   "brut_fr": "C'est peut-être pour ça que les gens sont\naussi réceptifs aux rumeurs...[1205][U+000F] Ceci dit,\ncelles de Sumaru sont particulièrement[1101]bizarres.",
    "brut_en": "Perhaps[SP]that's[SP]why[SP]people[SP]are[SP]so[SP]credible[SP]when\nit[SP]comes[SP]to[SP]rumors...[1205][U+000F][SP]Still,[SP]the[SP]rumors[SP]floating\naround[SP]Sumaru[SP]are[SP]particularly[SP]bizarre.",
    "data_size": 326,
    "budget": 318
@@ -3859,13 +3828,7 @@
        "pause": true
       },
       {
-       "t": " Assure-toi d'avoir des"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "informations alléchantes pour moi!"
+       "t": " Assure-toi d'avoir desinformations alléchantes pour moi!"
       }
      ]
     }
@@ -3894,7 +3857,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce sont les rumeurs que je connais.\nJe t'en dirais plus quand j'en aurais\nd'autres. [1205][U+000F] Assure-toi d'avoir des\ninformations alléchantes pour moi!",
+   "brut_fr": "Ce sont les rumeurs que je connais.\nJe t'en dirais plus quand j'en aurais\nd'autres. [1205][U+000F] Assure-toi d'avoir des[1101]informations alléchantes pour moi!",
    "brut_en": "That's[SP]all[SP]the[SP]rumors[SP]I[SP]know[SP]of.[SP]I'll[SP]tell[SP]you\nmore[SP]when[SP]a[SP]new[SP]one[SP]comes[SP]in.[SP]Make[SP]sure[SP]you\nhave[SP]some[SP]interesting[SP]information[SP]ready[SP]for[SP]me!",
    "data_size": 328,
    "budget": 320
@@ -4073,13 +4036,7 @@
        "nl": true
       },
       {
-       "t": "de météorite est la théorie la plus"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "populaire..."
+       "t": "de météorite est la théorie la pluspopulaire..."
       }
      ]
     }
@@ -4111,7 +4068,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a plein de rumeurs sur comment la Croix\nCosmique va amener la fin du monde.[1205][U+000F] La chute\nde météorite est la théorie la plus\npopulaire...",
+   "brut_fr": "Il y a plein de rumeurs sur comment la Croix\nCosmique va amener la fin du monde.[1205][U+000F] La chute\nde météorite est la théorie la plus[1101]populaire...",
    "brut_en": "There[SP]are[SP]tons[SP]of[SP]rumors[SP]going[SP]around[SP]about[SP]how\nthe[SP]Grand[SP]Cross[SP]will[SP]be[SP]the[SP]end[SP]of[SP]the[SP]world.[1205][U+000F]\nA[SP]meteor[SP]hitting[SP]is[SP]the[SP]most[SP]popular[SP]theory...",
    "data_size": 338,
    "budget": 330
@@ -4848,13 +4805,7 @@
        "nl": true
       },
       {
-       "t": "c'est... Peut-être juste ce que son nom"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "implie?"
+       "t": "c'est... Peut-être juste ce que son nomimplie?"
       }
      ]
     }
@@ -4889,7 +4840,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Apparemment le Vieux Rebondissant a été vu au\nMont Katatsumuri.[1205][U+000F] Je sais pas trop ce que\nc'est... Peut-être juste ce que son nom\nimplie?",
+   "brut_fr": "Apparemment le Vieux Rebondissant a été vu au\nMont Katatsumuri.[1205][U+000F] Je sais pas trop ce que\nc'est... Peut-être juste ce que son nom[1101]implie?",
    "brut_en": "They[SP]say[SP]the[SP]Jumping[SP]Geezer[SP]has[SP]been[SP]seen[SP]at\nMt.[SP]Katatsumuri.[1205][U+000F][SP]I[SP]don't[SP]really[SP]know[SP]what[SP]that\nis...[SP]Is[SP]it[SP]basically[SP]what[SP]the[SP]name[SP]implies?",
    "data_size": 330,
    "budget": 322
@@ -9772,13 +9723,7 @@
        "pause": true
       },
       {
-       "t": " Notre évolution"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "démarre!"
+       "t": " Notre évolutiondémarre!"
       }
      ]
     }
@@ -9819,7 +9764,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah! Voyez, mes frères![1205][U+000F] Une flèche de lumière\nfut tirée de l'école portant le fardeau du\ndestin des sept soeurs![1205][U+000F] Notre évolution\ndémarre!",
+   "brut_fr": "Ah! Voyez, mes frères![1205][U+000F] Une flèche de lumière\nfut tirée de l'école portant le fardeau du\ndestin des sept soeurs![1205][U+000F] Notre évolution[1101]démarre!",
    "brut_en": "Ah![SP]See,[SP]my[SP]brethren![1205][U+000F][SP]An[SP]arrow[SP]of[SP]light[SP]has[SP]been\nloosed[SP]from[SP]the[SP]school[SP]burdened[SP]with[SP]the[SP]fate[SP]of\nthe[SP]seven[SP]sisters![1205][U+000F][SP]Our[SP]evolution[SP]begins!",
    "data_size": 320,
    "budget": 312

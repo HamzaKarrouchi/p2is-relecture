@@ -437,37 +437,40 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tout ce qu'on pense, ça arrive..."
+       "t": "Ce qu'on pense arrive..."
       },
       {
        "pause": true
       },
       {
-       "t": " C'est"
+       "t": " C'est pourquoi"
       },
       {
        "nl": true
       },
       {
-       "t": "pourquoi Maya s'est disputée avec ce type"
+       "t": "Maya s'est disputée avec le type en blanc"
       },
       {
        "nl": true
       },
       {
-       "t": "en blanc sur qui était le plus "
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " fort. "
+       "t": "sur qui était le plus fort."
       }
      ]
     },
     {
-     "nom": "Maya[1205][U+000F] Oui, on va trouver le père de Jun. Tu",
+     "nom": "Maya",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "t": " Oui, on va trouver le père de Jun. Tu"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "le penses aussi, "
       },
@@ -539,7 +542,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tout ce qu'on pense, ça arrive...[1205][001E] C'est\npourquoi Maya s'est disputée avec ce type\nen blanc sur qui était le plus [1205][U+000F] fort. [E1][E2]\n[E3][E4][NULL][NULL]\"Maya[1205][U+000F] Oui, on va trouver le père de Jun. Tu\nle penses aussi, [1113]-kun? N'est-ce pas?",
+   "brut_fr": "Ce qu'on pense arrive...[1205][001E] C'est pourquoi\nMaya s'est disputée avec le type en blanc\nsur qui était le plus fort.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n[1205][U+000F] Oui, on va trouver le père de Jun. Tu\nle penses aussi, [1113]-kun? N'est-ce pas?",
    "brut_en": "Whatever[SP]you[SP]think[SP]of,[SP]happens...[1205][001E][SP]So[SP]that's\nwhy[SP]Maya-chan[SP]had[SP]the[SP]argument[SP]with[SP]that\nwhite[SP]suit[SP]about[SP]who[SP]was[SP]stronger.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nYes,[SP]we'll[SP]find[SP]Jun-kun's[SP]father[SP]next.\nYou[SP]think[SP]so[SP]too,[SP]right,[SP][1113]-kun?\nRight?",
    "data_size": 448,
    "budget": 440

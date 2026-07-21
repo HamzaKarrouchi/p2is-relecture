@@ -1148,26 +1148,20 @@
       },
       {
        "t": "mérites la mort!"
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
       }
      ]
     },
     {
-     "nom": "Roi Lion Je pourrais",
+     "nom": "Roi Lion",
      "seg": [
       {
-       "t": "dire pareil pour vous, Lady. Qu'avez"
+       "t": "Je pourrais"
       },
       {
        "nl": true
       },
       {
-       "t": "vous à dire après vos récents"
+       "t": "dire pareil pour vous, Lady. Qu'avezvous à dire après vos récents"
       },
       {
        "pause": true
@@ -1225,7 +1219,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oser trahir le Cercle Masqué et\nabandonner le festival des ombres... Tu\nmérites la mort![E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Roi Lion Je pourrais\ndire pareil pour vous, Lady. Qu'avez\nvous à dire après vos récents[1205][U+000F] échecs?",
+   "brut_fr": "Oser trahir le Cercle Masqué et\nabandonner le festival des ombres... Tu\nmérites la mort![E1][E2]\n[E3][E4][NULL][NULL]\"Roi Lion\nJe pourrais\ndire pareil pour vous, Lady. Qu'avez[1101]vous à dire après vos récents[1205][U+000F] échecs?",
    "brut_en": "For[SP]one[SP]so[SP]lowly[SP]to[SP]confess[SP]Masked[SP]Circle\nbusiness[SP]to[SP]outsiders[SP]and[SP]abandon[SP]the\nshadowed[SP]festival...[SP]You[SP]deserve[SP]death!\n[E1][E2]\n[E3][E4][NULL][NULL]\"King[SP]Leo\nI[SP]could[SP]say[SP]the[SP]same[SP]about[SP]you,[SP]Lady.[SP]What[SP]do\nyou[SP]have[SP]to[SP]say[SP]in[SP]your[SP]defense[SP]after[SP]the\nrecent[SP]debacles?",
    "data_size": 512,
    "budget": 504
@@ -1245,33 +1239,27 @@
        "nl": true
       },
       {
-       "t": "sauvage, mais tu as livré le festival des"
+       "t": "sauvage, t'as livré le festival"
       },
       {
        "nl": true
       },
       {
-       "t": "ombres aux vermines!"
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
+       "t": "aux vermines!"
       }
      ]
     },
     {
-     "nom": "Roi Lion Si tu veux",
+     "nom": "Roi Lion",
      "seg": [
       {
-       "t": "assister à l'accomplissement de l'Oracle de"
+       "t": "Si tu veux"
       },
       {
        "nl": true
       },
       {
-       "t": "Maia, alors accepte la"
+       "t": "assister à l'accomplissement de l'Oracle deMaia, alors accepte la"
       },
       {
        "pause": true
@@ -1329,7 +1317,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Non seulement tu as ignoré la danse\nsauvage, mais tu as livré le festival des\nombres aux vermines![E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Roi Lion Si tu veux\nassister à l'accomplissement de l'Oracle de\nMaia, alors accepte la[1205][U+000F] punition de l'Exalté",
+   "brut_fr": "Non seulement tu as ignoré la danse\nsauvage, t'as livré le festival\naux vermines![E1][E2]\n[E3][E4][NULL][NULL]\"Roi Lion\nSi tu veux\nassister à l'accomplissement de l'Oracle de[1101]Maia, alors accepte la[1205][U+000F] punition de l'Exalté",
    "brut_en": "Not[SP]only[SP]did[SP]you[SP]let[SP]the[SP]wild[SP]dance[SP]slide,\nyou[SP]abandoned[SP]the[SP]shadowed[SP]festival[SP]to\nvermin.\n[E1][E2]\n[E3][E4][NULL][NULL]\"King[SP]Leo\nIf[SP]you[SP]wish[SP]to[SP]be[SP]present[SP]to[SP]witness[SP]the\nfulfillment[SP]of[SP]the[SP]Oracle[SP]of[SP]Maia,[SP]I[SP]suggest\nyou[SP]accept[SP]the[SP]Exalted[SP]One's[SP]punishment...",
    "data_size": 500,
    "budget": 492

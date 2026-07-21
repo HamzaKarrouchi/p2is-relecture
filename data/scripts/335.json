@@ -171,13 +171,7 @@
        "nl": true
       },
       {
-       "t": "s'il ne l'avait pas fait, bien plus auraient"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "péri."
+       "t": "s'il ne l'avait pas fait, bien plus auraientpéri."
       }
      ]
     }
@@ -212,7 +206,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je me demande si Jun-kun se sent coupable\nd'avoir ordonné de protéger les gens...[1205][U+0019] Mais[1205][U+000F]\ns'il ne l'avait pas fait, bien plus auraient\npéri.",
+   "brut_fr": "Je me demande si Jun-kun se sent coupable\nd'avoir ordonné de protéger les gens...[1205][U+0019] Mais[1205][U+000F]\ns'il ne l'avait pas fait, bien plus auraient[1101]péri.",
    "brut_en": "I[SP]wonder[SP]if[SP]Jun-kun[SP]feels[SP]guilty[SP]about[SP]giving\nthe[SP]order[SP]to[SP]protect[SP]the[SP]city's[SP]people...[1205][U+0019][SP]But\nif[SP]he[SP]hadn't,[SP]even[SP]more[SP]people[SP]would[SP]have[SP]died.",
    "data_size": 302,
    "budget": 294
@@ -392,10 +386,10 @@
    ],
    "choix_fr": {
     "options": [
-     "Acheter armure[1205]",
+     "Acheter armure",
      "Acheter accessoires",
      "Vendre objets",
-     "Parler à la vendeuse[1205]",
+     "Parler à la vendeuse",
      "Laisser tomber",
      "Quitter le magasin"
     ],
@@ -432,7 +426,7 @@
      }
     ]
    },
-   "brut_fr": "Bienvenue chez Anima Mundi. Que \ndésirez-vous?\n[1208][U+0006]Acheter armure[1205][U+000F]\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse[1205][U+000F]\nLaisser tomber\nQuitter le magasin",
+   "brut_fr": "Bienvenue chez Anima Mundi. Que \ndésirez-vous?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter le magasin",
    "brut_en": "Ah,[SP]welcome[SP]to[SP]Anima[SP]Mundi,[SP]where[SP]all[SP]fashion\nsprings[SP]from.[SP]How[SP]may[SP]I[SP]help[SP]you?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 374,
    "budget": 366
@@ -464,10 +458,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -493,7 +487,7 @@
      }
     ]
    },
-   "brut_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 332,
    "budget": 324
@@ -525,10 +519,10 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée",
      "[1109][E2][E3][121D]ATTENTION[E4]",
-     "Aucun bit actif. Vérifiez ceci.[1205]",
+     "Aucun bit actif. Vérifiez ceci.",
      "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
      "-Kanada"
@@ -556,7 +550,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+   "brut_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
    "brut_en": "What[SP]is[SP]it[SP]you[SP]want[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
    "data_size": 454,
    "budget": 446
@@ -588,10 +582,10 @@
    "choix_fr": {
     "options": [
      "Acheter armure",
-     "Acheter accessoires[1205]",
+     "Acheter accessoires",
      "Vendre objets",
      "Parler à la vendeuse",
-     "Laisser tomber[1205]",
+     "Laisser tomber",
      "Quitter"
     ],
     "question": [
@@ -615,7 +609,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires[1205][U+000F]\nVendre objets\nParler à la vendeuse\nLaisser tomber[1205][U+000F]\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter",
    "brut_en": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 302,
    "budget": 294
@@ -647,10 +641,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -676,7 +670,7 @@
      }
     ]
    },
-   "brut_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 332,
    "budget": 324
@@ -708,7 +702,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée"
     ],
     "question": [
@@ -729,7 +723,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
    "brut_en": "What[SP]is[SP]it[SP]you[SP]wish[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 218,
    "budget": 210

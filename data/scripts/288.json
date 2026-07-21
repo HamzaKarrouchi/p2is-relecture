@@ -445,8 +445,17 @@
      ]
     },
     {
-     "nom": "Eikichi[1205][U+000F] A-Alors la dame d'ici est partie",
+     "nom": "Eikichi",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "t": " A-Alors la dame d'ici est partie"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "battre le Bataillon!? C-C'est de la folie!"
       }
@@ -509,7 +518,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Déviée...?[1205][U+000F] Mes souvenirs...[1205][U+000A] modifiés?[1205][U+000F]\nImpossible...[1205][U+000A] Mais ça devait être...[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi[1205][U+000F] A-Alors la dame d'ici est partie\nbattre le Bataillon!? C-C'est de la folie!",
+   "brut_fr": "Déviée...?[1205][U+000F] Mes souvenirs...[1205][U+000A] modifiés?[1205][U+000F]\nImpossible...[1205][U+000A] Mais ça devait être...[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\n[1205][U+000F] A-Alors la dame d'ici est partie\nbattre le Bataillon!? C-C'est de la folie!",
    "brut_en": "Deviates...?[1205][U+000F][SP]My[SP]memories...[1205][U+000A][SP]changed?[1205][U+000F][SP]It[SP]can't\nbe...[1205][U+000A][SP]But[SP]that[SP]must[SP]have[SP]been...[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nTh-Then[SP]the[SP]lady[SP]who[SP]was[SP]here[SP]took[SP]off[SP]to[SP]fight\nthe[SP]Last[SP]Battalion!?[SP]C-C'mon,[SP]that's[SP]crazy!",
    "data_size": 412,
    "budget": 404
@@ -1671,12 +1680,6 @@
       },
       {
        "t": "l'In Lak'ech, leur expiation destinée."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
       }
      ]
     },
@@ -1733,7 +1736,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ceux qui ont oublié leur passé réalisent, via\nl'In Lak'ech, leur expiation destinée.[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Maya\nHéhé... T'es pas d'accord, [1113]-kun?",
+   "brut_fr": "Ceux qui ont oublié leur passé réalisent, via\nl'In Lak'ech, leur expiation destinée.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHéhé... T'es pas d'accord, [1113]-kun?",
    "brut_en": "People[SP]who[SP]have[SP]forgotten[SP]the[SP]memories[SP]of[SP]their\npast[SP]are[SP]beginning[SP]to[SP]realize,[SP]through[SP]the[SP]In\nLak'ech,[SP]the[SP]atonement[SP]they[SP]are[SP]destined[SP]for.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHeh...[SP]Don't[SP]you[SP]think[SP]so,[SP][1113]-kun?",
    "data_size": 390,
    "budget": 382
@@ -2348,10 +2351,10 @@
    "choix_fr": {
     "options": [
      "Acheter armes",
-     "Acheter accessoires[1205]",
+     "Acheter accessoires",
      "Vendre objets",
      "Parler au Comte",
-     "Rien[1205]",
+     "Rien",
      "Quitter"
     ],
     "question": [
@@ -2375,7 +2378,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires[1205][U+000F]\nVendre objets\nParler au Comte\nRien[1205][U+000F]\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nParler au Comte\nRien\nQuitter",
    "brut_en": "Is[SP]there[SP]anything[SP]else?\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 246,
    "budget": 238
@@ -2407,10 +2410,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -2436,7 +2439,7 @@
      }
     ]
    },
-   "brut_fr": "Et que voudriez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Et que voudriez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "And[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 328,
    "budget": 320
@@ -2468,13 +2471,13 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée",
      "[1109][E2][E3][121D]ATTENTION[E4]",
-     "Aucun bit actif. Vérifiez ceci.[1205]",
+     "Aucun bit actif. Vérifiez ceci.",
      "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "No bits are up. Plese check this.",
-     "-Kanada[E1][E2][E3][121D]ATTENTION[E4][1205]",
+     "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
      "-Kanada"
     ],
@@ -2503,7 +2506,7 @@
      }
     ]
    },
-   "brut_fr": "Et de quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nNo bits are up. Plese check this.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002][1205][U+000F]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+   "brut_fr": "Et de quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nNo bits are up. Plese check this.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
    "brut_en": "And[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Plese[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
    "data_size": 562,
    "budget": 554
@@ -4960,18 +4963,18 @@
       },
       {
        "t": "Hahahaha!"
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
       }
      ]
     },
     {
-     "nom": "Cercle masqué member Aaaaagh...",
+     "nom": "Membre du Cercle",
      "seg": [
+      {
+       "t": "Aaaaagh..."
+      },
+      {
+       "nl": true
+      },
       {
        "t": "Le temps tourne..."
       },
@@ -5052,7 +5055,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hahahaha, amusant! Cette ville devrait\nbrûler! Ça me fera me sentir mieux!\nHahahaha![E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Cercle masqué member Aaaaagh...\nLe temps tourne...[1205][U+000F] Il manque un truc en\nmoi...[1205][U+000F] Arrête... Arrête cette horloge!",
+   "brut_fr": "Hahahaha, amusant! Cette ville devrait\nbrûler! Ça me fera me sentir mieux!\nHahahaha![E1][E2]\n[E3][E4][NULL][NULL]\"Membre du Cercle\nAaaaagh...\nLe temps tourne...[1205][U+000F] Il manque un truc en\nmoi...[1205][U+000F] Arrête... Arrête cette horloge!",
    "brut_en": "Hahahaha,[SP]what[SP]fun![SP]This[SP]city[SP]should[SP]burn[SP]to\nthe[SP]ground![SP]That's[SP]what'll[SP]make[SP]me[SP]feel[SP]better!\nHahahaha![E1][E2]\n[E3][E4][NULL][NULL]\"Masked[SP]Circle[SP]member\nAaaaagh...[SP]Time's[SP]spinning...[1205][U+000F][SP]Something's\nmissing[SP]from[SP]inside[SP]me...[1205][U+000F][SP]Stop[SP]it...[SP]Stop\nthis[SP]clock!",
    "data_size": 512,
    "budget": 504
@@ -5740,7 +5743,7 @@
     "options": [
      "Acheter armes",
      "Acheter accessoires",
-     "Vendre objets[1205]",
+     "Vendre objets",
      "Parler au Comte",
      "Rien",
      "Quitter"
@@ -5808,7 +5811,7 @@
      }
     ]
    },
-   "brut_fr": "Bienvenue au Time Castle...[1205][U+000A] Le temps\ns'écoule rapidement et sans cesse.[1205][U+000A]\nMaintenant, que voulez-vous?[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets[1205][U+000F]\nParler au Comte\nRien\nQuitter",
+   "brut_fr": "Bienvenue au Time Castle...[1205][U+000A] Le temps\ns'écoule rapidement et sans cesse.[1205][U+000A]\nMaintenant, que voulez-vous?[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nParler au Comte\nRien\nQuitter",
    "brut_en": "Welcome[SP]to[SP]Time[SP]Castle...[1205][U+000A][SP]The[SP]onrush[SP]of[SP]time[SP]is\nswift[SP]and[SP]unceasing.[1205][U+000A][SP]Now,[SP]state[SP]your[SP]business.\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 396,
    "budget": 388
@@ -5840,10 +5843,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Sell armor[1205]",
+     "Sell armor",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -5869,7 +5872,7 @@
      }
     ]
    },
-   "brut_fr": "Et que voudriez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Sell armor[1205][U+000F]\n[111F][1210][U+0100][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Et que voudriez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Sell armor\n[111F][1210][U+0100][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "And[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 332,
    "budget": 324
@@ -5901,13 +5904,13 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée",
      "[1109][E2][E3][121D]ATTENTION[E4]",
-     "Aucun bit actif. Vérifiez ceci.[1205]",
+     "Aucun bit actif. Vérifiez ceci.",
      "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
-     "-Kanada[E1][E2][E3][121D]ATTENTION[E4][1205]",
+     "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
      "-Kanada"
     ],
@@ -5936,7 +5939,7 @@
      }
     ]
    },
-   "brut_fr": "Et de quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002][1205][U+000F]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+   "brut_fr": "Et de quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
    "brut_en": "And[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
    "data_size": 564,
    "budget": 556
@@ -6010,7 +6013,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -6042,7 +6045,7 @@
      }
     ]
    },
-   "brut_fr": "Total: [120E][NULL] yens.\nCela vous convient-il?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Total: [120E][NULL] yens.\nCela vous convient-il?\n[1208][0002]Oui\nNon",
    "brut_en": "That[SP]will[SP]be[SP]a[SP]total[SP]of[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
    "data_size": 142,
    "budget": 134

@@ -361,13 +361,7 @@
        "pause": true
       },
       {
-       "t": " et est partie"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "infiltrer le club pour leur parler."
+       "t": " et est partieinfiltrer le club pour leur parler."
       }
      ]
     }
@@ -396,7 +390,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Elle a découvert que les gars de Kakasu\nrépandant la rumeur de la maladie\nétaient au Zodiac,[1205][U+000F] et est partie\ninfiltrer le club pour leur parler.",
+   "brut_fr": "Elle a découvert que les gars de Kakasu\nrépandant la rumeur de la maladie\nétaient au Zodiac,[1205][U+000F] et est partie[1101]infiltrer le club pour leur parler.",
    "brut_en": "She[SP]found[SP]out[SP]the[SP]Cuss[SP]High[SP]guys[SP]who[SP]spread[SP]the\nrumor[SP]about[SP]the[SP]disease[SP]were[SP]at[SP]Zodiac,[SP]so[SP]she\nwent[SP]to[SP]infiltrate[SP]the[SP]club[SP]and[SP]talk[SP]to[SP]them.",
    "data_size": 332,
    "budget": 324
@@ -3637,8 +3631,14 @@
      ]
     },
     {
-     "nom": "Maya L'Oracle devrait détailler comment",
+     "nom": "Maya",
      "seg": [
+      {
+       "t": "L'Oracle devrait détailler comment"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "la "
       },
@@ -3695,7 +3695,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est près de la grande horloge que le\ndestin s'est mis en marche. Vous ne pouvez\nplus empêcher l'Oracle de se réaliser.[1205][U+000F] Hé.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya L'Oracle devrait détailler comment\nla [1205][U+000F] Terre va être annihilée.",
+   "brut_fr": "C'est près de la grande horloge que le\ndestin s'est mis en marche. Vous ne pouvez\nplus empêcher l'Oracle de se réaliser.[1205][U+000F] Hé.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nL'Oracle devrait détailler comment\nla [1205][U+000F] Terre va être annihilée.",
    "brut_en": "Fate[SP]began[SP]its[SP]workings[SP]alongside[SP]that[SP]large\nclock.[SP]Nothing[SP]you[SP]do[SP]now[SP]can[SP]slow[SP]the\nfulfillment[SP]of[SP]the[SP]Oracle.[1205][U+000F][SP]Heh.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThe[SP]Oracle[SP]should[SP]go[SP]into[SP]the[SP]details[SP]of[SP]how\nthe[SP]Earth[SP]will[SP]be[SP]annihilated.",
    "data_size": 430,
    "budget": 422
@@ -4840,7 +4840,7 @@
    "choix_fr": {
     "options": [
      "Parlons rumeurs",
-     "Discuter un peu   [1205]",
+     "Discuter un peu",
      "Rien merci"
     ],
     "question": [
@@ -4861,7 +4861,7 @@
      }
     ]
    },
-   "brut_fr": "Quoi d'neuf? Je peux t'aider?\n[1208][U+0003][1210][U+0475]Parlons rumeurs \nDiscuter un peu   [1205][U+000F]\nRien merci",
+   "brut_fr": "Quoi d'neuf? Je peux t'aider?\n[1208][U+0003][1210][U+0475]Parlons rumeurs \nDiscuter un peu   \nRien merci",
    "brut_en": "What's[SP]up?[SP]Need[SP]something?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Chikarin\nNever[SP]mind",
    "data_size": 208,
    "budget": 200
@@ -4893,7 +4893,7 @@
    "choix_fr": {
     "options": [
      "Magasin d'armes",
-     "Magasin d'armures[1205]",
+     "Magasin d'armures",
      "Autres",
      "Aucun"
     ],
@@ -4916,7 +4916,7 @@
      }
     ]
    },
-   "brut_fr": "Quel type de rumeur t'intéresse?\n[1208][U+0004][1210][U+0476]Magasin d'armes   \n[1210][U+0477]Magasin d'armures[1205][U+000F]\n[1210][U+0478]Autres      \nAucun",
+   "brut_fr": "Quel type de rumeur t'intéresse?\n[1208][U+0004][1210][U+0476]Magasin d'armes   \n[1210][U+0477]Magasin d'armures\n[1210][U+0478]Autres      \nAucun",
    "brut_en": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
    "data_size": 248,
    "budget": 240
@@ -4948,7 +4948,7 @@
    "choix_fr": {
     "options": [
      "Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
      "Rien"
@@ -4973,7 +4973,7 @@
      }
     ]
    },
-   "brut_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
+   "brut_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
    "brut_en": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
    "data_size": 210,
    "budget": 202
@@ -5005,7 +5005,7 @@
    "choix_fr": {
     "options": [
      "Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
      "Rien"
@@ -5030,7 +5030,7 @@
      }
     ]
    },
-   "brut_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
+   "brut_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
    "brut_en": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
    "data_size": 210,
    "budget": 202
@@ -5067,7 +5067,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Loteries de magazines      [1205]",
+     "Loteries de magazines",
      "Mu",
      "Arme légendaire",
      "Aucune"
@@ -5097,7 +5097,7 @@
      }
     ]
    },
-   "brut_fr": "De quelle rumeur tu veux avoir les \ndétails?\n[1208][U+0004][1210][U+0472]Loteries de magazines      [1205][U+000F]\n[1210][U+0473]Mu       \n[1210][U+0474]Arme légendaire        \nAucune",
+   "brut_fr": "De quelle rumeur tu veux avoir les \ndétails?\n[1208][U+0004][1210][U+0472]Loteries de magazines      \n[1210][U+0473]Mu       \n[1210][U+0474]Arme légendaire        \nAucune",
    "brut_en": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
    "data_size": 294,
    "budget": 286
@@ -5641,13 +5641,7 @@
        "nl": true
       },
       {
-       "t": "toujours, une rumeur sur Kakasu! Quant à la"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "tienne..."
+       "t": "toujours, une rumeur sur Kakasu! Quant à latienne..."
       }
      ]
     }
@@ -5682,7 +5676,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hmm? Le Boss des Calbutes du lycée Kakasu\nprend sa retraite?[1205][U+000F] Excellent! Ça sert\ntoujours, une rumeur sur Kakasu! Quant à la\ntienne...",
+   "brut_fr": "Hmm? Le Boss des Calbutes du lycée Kakasu\nprend sa retraite?[1205][U+000F] Excellent! Ça sert\ntoujours, une rumeur sur Kakasu! Quant à la[1101]tienne...",
    "brut_en": "Hmm?[SP]The[SP]Undie[SP]Boss[SP]at[SP]Kasugayama[SP]High[SP]is\nstepping[SP]down?[1205][U+000F][SP]That's[SP]amazing![SP]We[SP]can[SP]always\nuse[SP]rumors[SP]about[SP]Cuss[SP]High![SP]Now[SP]for[SP]yours...",
    "data_size": 318,
    "budget": 310
@@ -5881,13 +5875,7 @@
        "nl": true
       },
       {
-       "hl": "bon choix, mais le prix de revente est"
-      },
-      {
-       "nl": true
-      },
-      {
-       "hl": "abyssal"
+       "hl": "bon choix, mais le prix de revente estabyssal"
       },
       {
        "t": "."
@@ -5943,7 +5931,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Bien, tu savais que le café [E4][NULL][NULL][U+0006]Jolly Roger[E4][NULL][NULL][0002] à\nKounan [E4][NULL][NULL][U+0006]vendait de vraies armes[E4][NULL][NULL][0002]?[1205][U+000F] Il y a [E4][NULL][NULL][U+0006]du très\nbon choix, mais le prix de revente est\nabyssal[E4][NULL][NULL][0002].",
+   "brut_fr": "Bien, tu savais que le café [E4][NULL][NULL][U+0006]Jolly Roger[E4][NULL][NULL][0002] à\nKounan [E4][NULL][NULL][U+0006]vendait de vraies armes[E4][NULL][NULL][0002]?[1205][U+000F] Il y a [E4][NULL][NULL][U+0006]du très\nbon choix, mais le prix de revente est[1101]abyssal[E4][NULL][NULL][0002].",
    "brut_en": "Okay,[SP]did[SP]you[SP]know[SP]the[SP][E4][NULL][NULL][U+0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]cafe[SP]in\nKounan[SP][E4][NULL][NULL][U+0006]sells[SP]real[SP]weapons[E4][NULL][NULL][0002]?[1205][U+000F][SP]Their[SP][E4][NULL][NULL][U+0006]selection[SP]is\ngreat,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]the[SP]pits[E4][NULL][NULL][0002].",
    "data_size": 370,
    "budget": 362
@@ -8062,13 +8050,7 @@
        "nl": true
       },
       {
-       "t": "contacts m'apportent plus rien"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "d'intéressant..."
+       "t": "contacts m'apportent plus riend'intéressant..."
       }
      ]
     }
@@ -8103,7 +8085,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai pas entendu de rumeurs récemment.\nJ'imagine que c'est à cause des attaques?[1205][U+000F] Mes\ncontacts m'apportent plus rien\nd'intéressant...",
+   "brut_fr": "J'ai pas entendu de rumeurs récemment.\nJ'imagine que c'est à cause des attaques?[1205][U+000F] Mes\ncontacts m'apportent plus rien[1101]d'intéressant...",
    "brut_en": "I[SP]haven't[SP]heard[SP]any[SP]new[SP]rumors[SP]lately.[SP]Think\nit's[SP]because[SP]of[SP]all[SP]the[SP]attacks?[1205][U+000F][SP]I[SP]just[SP]can't\nget[SP]anything[SP]from[SP]any[SP]of[SP]my[SP]contacts...",
    "data_size": 316,
    "budget": 308
@@ -8749,13 +8731,7 @@
        "pause": true
       },
       {
-       "t": " Sont-ils"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "innocents?"
+       "t": " Sont-ilsinnocents?"
       }
      ]
     }
@@ -8790,7 +8766,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais les mômes juste avant ont dit que les\ncinq gars des portraits-robots sont des[1205][U+000F] héros\naffrontant le Cercle Masqué.[1205][U+000F] Sont-ils\ninnocents?",
+   "brut_fr": "Mais les mômes juste avant ont dit que les\ncinq gars des portraits-robots sont des[1205][U+000F] héros\naffrontant le Cercle Masqué.[1205][U+000F] Sont-ils[1101]innocents?",
    "brut_en": "But[SP]the[SP]kids[SP]who[SP]were[SP]just[SP]here[SP]said[SP]the[SP]five[SP]guys\nin[SP]the[SP]composite[SP]sketches[SP]were[SP]heroes[SP]fighting\nthe[SP]Masked[SP]Circle.[1205][U+000F][SP]Could[SP]they[SP]be[SP]innocent?",
    "data_size": 308,
    "budget": 300
@@ -9453,13 +9429,7 @@
        "pause": true
       },
       {
-       "t": " appétit"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "revient."
+       "t": " appétitrevient."
       }
      ]
     }
@@ -9488,7 +9458,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ils ont publié les portraits-robots des\ncoupables, donc on peut se relaxer. Ils se\nferont arrêter d'ici peu. Fiou... mon [1205][U+000F] appétit\nrevient.",
+   "brut_fr": "Ils ont publié les portraits-robots des\ncoupables, donc on peut se relaxer. Ils se\nferont arrêter d'ici peu. Fiou... mon [1205][U+000F] appétit[1101]revient.",
    "brut_en": "They[SP]released[SP]composite[SP]sketches[SP]of[SP]the[SP]culprits,\nso[SP]we[SP]can[SP]rest[SP]easy.[SP]They'll[SP]be[SP]arrested[SP]soon\nenough.[SP]Whew...[SP]my[SP]appetite's[SP]coming[SP]back.",
    "data_size": 302,
    "budget": 294
@@ -9563,7 +9533,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Je m'en fous! On peut pas juste partir"
+       "t": "M'en fous! On peut pas juste partir"
       },
       {
        "nl": true
@@ -9586,8 +9556,17 @@
      ]
     },
     {
-     "nom": "Lycéenne[1205][U+000F] Oh, Lisa!",
+     "nom": "Lycéenne",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "t": " Oh, Lisa!"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "J'ai vu le poster! Roh, fais pas genre."
       },
@@ -9595,13 +9574,7 @@
        "pause": true
       },
       {
-       "t": " J'ai"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "compris à la seconde où je l'ai vu!"
+       "t": " J'aicompris à la seconde où je l'ai vu!"
       }
      ]
     }
@@ -9662,7 +9635,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je m'en fous! On peut pas juste partir\nd'ici?[1205][U+000F] Qui sait quand les soldats vont venir\nattaquer ici aussi!?[E1][E2] [E3][E4][NULL][NULL]\"Lycéenne[1205][U+000F] Oh, Lisa!\nJ'ai vu le poster! Roh, fais pas genre.[1205][U+000F] J'ai\ncompris à la seconde où je l'ai vu!",
+   "brut_fr": "M'en fous! On peut pas juste partir\nd'ici?[1205][U+000F] Qui sait quand les soldats vont venir\nattaquer ici aussi!?[E1][E2] [E3][E4][NULL][NULL]\"Lycéenne\n[1205][U+000F] Oh, Lisa!\nJ'ai vu le poster! Roh, fais pas genre.[1205][U+000F] J'ai[1101]compris à la seconde où je l'ai vu!",
    "brut_en": "I[SP]don't[SP]care![SP]Can[SP]we[SP]please[SP]just[SP]get[SP]out[SP]of\nhere?[1205][U+000F][SP]Who[SP]knows[SP]when[SP]those[SP]soldiers[SP]might\ninvade[SP]here[SP]too!?[E1][E2]\n[E3][E4][NULL][NULL]\"Female[SP]student\nOh,[SP]Lisa![SP]I[SP]saw[SP]the[SP]poster![SP]Geez,[SP]don't[SP]tease\nus[SP]like[SP]that.[1205][U+000F][SP]I[SP]totally[SP]figured[SP]it[SP]out[SP]anyway\nas[SP]soon[SP]as[SP]I[SP]saw[SP]it!",
    "data_size": 508,
    "budget": 500
@@ -10453,7 +10426,8 @@
    "choix_fr": {
     "options": [
      "La réécouter",
-     "Je m'en rappelle bien."
+     "Je m'en rappelle bien.",
+     "Refuser"
     ],
     "question": [
      {
@@ -10473,7 +10447,7 @@
      }
     ]
    },
-   "brut_fr": "T'en dis quoi?\n[1208][U+0003]La réécouter \n[1432][NULL][NULL][0014]Je m'en rappelle bien.[1432][NULL][NULL][0014][1205][U+000F]\nRefuser",
+   "brut_fr": "T'en dis quoi?\n[1208][U+0003]La réécouter \n[1432][NULL][NULL][0014]Je m'en rappelle bien.[1432][NULL][NULL][0014]\nRefuser",
    "brut_en": "What[SP]do[SP]you[SP]say?\n[1208][U+0003]Hear[SP]it[SP]again\n[1432][NULL][NULL][0014]I[SP]remember[SP]it[SP]well.[1432][NULL][NULL][0014]\nDon't[SP]listen",
    "data_size": 172,
    "budget": 164
@@ -10671,7 +10645,6 @@
     "options": [
      "À glacer le sang!",
      "Bof, non.",
-     "[1205]",
      "Pas autant que toi."
     ],
     "question": [
@@ -10692,7 +10665,7 @@
      }
     ]
    },
-   "brut_fr": "Verdict? C'était assez flippant?\n[1208][U+0003][1432][NULL][NULL][0014]À glacer le sang!    [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Bof, non.  [1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Pas autant que toi. [1432][NULL][NULL][0014]",
+   "brut_fr": "Verdict? C'était assez flippant?\n[1208][U+0003][1432][NULL][NULL][0014]À glacer le sang!    [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Bof, non.  [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas autant que toi. [1432][NULL][NULL][0014]",
    "brut_en": "How[SP]about[SP]it?[SP]Scary[SP]enough[SP]for[SP]you?\n[1208][U+0003][1432][NULL][NULL][0014]Very[SP]scary,[SP]actually![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]at[SP]all.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]as[SP]scary[SP]as[SP]you.[1432][NULL][NULL][0014]",
    "data_size": 258,
    "budget": 250
@@ -12015,15 +11988,15 @@
    ],
    "choix_fr": {
     "options": [
-     "Manger [1205]",
+     "Manger",
      "Discuter un peu",
      "Rien merci",
-     "Filer[1205]",
+     "Filer",
      "[1109][E2]",
-     "[E3][E4]\"Intérimaire[1205]",
+     "[E3][E4]\"Intérimaire",
      "Mais de quoi parlerons-nous donc?",
      "[1208]Bavarder",
-     "Parler du repas[1205]",
+     "Parler du repas",
      "Sélection cachée"
     ],
     "question": [
@@ -12063,7 +12036,7 @@
      }
     ]
    },
-   "brut_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][U+0004]Manger [1205][U+000F]\nDiscuter un peu       \nRien merci\nFiler[1205][U+000F]\n[1109][E2]\n\n[E3][E4][NULL][NULL]\"Intérimaire[1205][U+000F]\nMais de quoi parlerons-nous donc?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][U+0004]Manger \nDiscuter un peu       \nRien merci\nFiler\n[1109][E2]\n\n[E3][E4][NULL][NULL]\"Intérimaire\nMais de quoi parlerons-nous donc?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave\n[1109][E2]\n\n[E3][E4][NULL][NULL]\"Part-timer\nBut[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 466,
    "budget": 458
@@ -12095,7 +12068,7 @@
    "choix_fr": {
     "options": [
      "Manger",
-     "Discuter un peu       [1205]",
+     "Discuter un peu",
      "Rien merci",
      "Filer"
     ],
@@ -12118,7 +12091,7 @@
      }
     ]
    },
-   "brut_fr": "Requerriez-vous autre chose?\n[1208][U+0004]Manger \nDiscuter un peu       [1205][U+000F]\nRien merci\nFiler",
+   "brut_fr": "Requerriez-vous autre chose?\n[1208][U+0004]Manger \nDiscuter un peu       \nRien merci\nFiler",
    "brut_en": "Will[SP]you[SP]be[SP]requiring[SP]anything[SP]else?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave",
    "data_size": 206,
    "budget": 198
@@ -12150,7 +12123,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler du repas[1205]",
+     "Parler du repas",
      "Sélection cachée"
     ],
     "question": [
@@ -12171,7 +12144,7 @@
      }
     ]
    },
-   "brut_fr": "Mais de quoi parlerons-nous donc?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Mais de quoi parlerons-nous donc?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "But[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 220,
    "budget": 212
@@ -13242,7 +13215,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -13274,7 +13247,7 @@
      }
     ]
    },
-   "brut_fr": "Le total fait [120E][NULL] yens.\nVous les vendez?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Le total fait [120E][NULL] yens.\nVous les vendez?\n[1208][0002]Oui\nNon",
    "brut_en": "The[SP]total[SP]is[SP][120E][NULL][SP]yen,[SP]but[SP]will\nyou[SP]sell[SP]them?\n[1208][0002]Yes\nNo",
    "data_size": 144,
    "budget": 136
