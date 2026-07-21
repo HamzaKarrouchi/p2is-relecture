@@ -71,7 +71,7 @@
        "pause": true
       },
       {
-       "t": " Gah!"
+       "t": "Gah!"
       }
      ]
     }
@@ -106,7 +106,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A] Gah!",
+   "brut_fr": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A]Gah!",
    "brut_en": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A]Gah!",
    "data_size": 58,
    "budget": 50
@@ -553,7 +553,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Tu fumes..."
+       "t": "T'as fumé..."
       },
       {
        "pause": true
@@ -582,7 +582,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Tu fumes...[1205][001E] quoi?",
+   "brut_fr": "T'as fumé...[1205][001E] quoi?",
    "brut_en": "What...[1205][001E][SP]are[SP]you[SP]smoking?",
    "data_size": 74,
    "budget": 66
@@ -904,16 +904,22 @@
        "t": "Oui, chef! "
       },
       {
-       "enc": "La lâcheté est indigne d'un vrai"
+       "enc": "La lâcheté est indigne d'un"
       },
       {
        "nl": true
       },
       {
-       "enc": "homme!"
+       "enc": "vrai homme!"
       },
       {
-       "t": " On acceptera n'importe quelle punition!"
+       "t": " On acceptera n'importe quelle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "punition!"
       }
      ]
     }
@@ -948,7 +954,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Oui, chef! [1432][NULL][NULL][0014]La lâcheté est indigne d'un vrai\nhomme![1432][NULL][NULL][0014] On acceptera n'importe quelle punition!",
+   "brut_fr": "Oui, chef! [1432][NULL][NULL][0014]La lâcheté est indigne d'un\nvrai homme![1432][NULL][NULL][0014] On acceptera n'importe quelle\npunition!",
    "brut_en": "Yes,[SP]sir![SP][1432][NULL][NULL][0014]Cowardice[SP]is[SP]unbefitting[SP]of[SP]a\nreal[SP]man![1432][NULL][NULL][0014][SP]We'll[SP]take[SP]whatever[SP]punishment\nyou[SP]have[SP]in[SP]store!",
    "data_size": 268,
    "budget": 260

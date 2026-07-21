@@ -10,25 +10,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "J'avais entendu la rumeur sur ce"
+       "t": "J'avais moi aussi entendu la rumeur sur ce"
       },
       {
        "nl": true
       },
       {
-       "t": "salon secret, aussi..."
+       "t": "salon secret..."
       },
       {
        "pause": true
       },
       {
-       "t": " Mais le"
+       "t": " Mais le voir en vrai, c'est"
       },
       {
        "nl": true
       },
       {
-       "t": "voir en vrai, c'est assez bizarre."
+       "t": "assez bizarre."
       }
      ]
     }
@@ -63,7 +63,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'avais entendu la rumeur sur ce\nsalon secret, aussi...[1205][001E] Mais le\nvoir en vrai, c'est assez bizarre.",
+   "brut_fr": "J'avais moi aussi entendu la rumeur sur ce\nsalon secret...[1205][001E] Mais le voir en vrai, c'est\nassez bizarre.",
    "brut_en": "I'd[SP]heard[SP]the[SP]rumor[SP]about[SP]this[SP]secret\nlounge,[SP]too...[1205][001E][SP]But[SP]actually[SP]seeing[SP]it\nfor[SP]myself[SP]is[SP]kinda[SP]weird.",
    "data_size": 232,
    "budget": 224
@@ -83,13 +83,13 @@
        "nl": true
       },
       {
-       "t": "Quand la ville est elle devenue "
+       "t": "Quand la ville est-elle devenue"
       },
       {
        "pause": true
       },
       {
-       "t": " pourrie...?"
+       "t": " si pourrie...?"
       }
      ]
     }
@@ -118,7 +118,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Avant, je venais ici autant qu'au lycée.\nQuand la ville est elle devenue [1205][U+000F] pourrie...?",
+   "brut_fr": "Avant, je venais ici autant qu'au lycée.\nQuand la ville est-elle devenue[1205][U+000F] si pourrie...?",
    "brut_en": "I[SP]used[SP]to[SP]come[SP]here[SP]about[SP]as[SP]often[SP]as[SP]I\ncame[SP]to[SP]school.[SP]When[SP]did[SP]this[SP]city[SP]get\nso[SP]messed[SP]up...?",
    "data_size": 214,
    "budget": 206
@@ -132,13 +132,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Un rassemblement? Qui les a"
+       "t": "Un rassemblement? Je me demande quelle en"
       },
       {
        "nl": true
       },
       {
-       "t": "convoques ici? "
+       "t": "est la raison. Qui les a convoqués ici?"
       },
       {
        "pause": true
@@ -179,7 +179,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Un rassemblement? Qui les a\nconvoques ici? [1205][001E] Ça sent mauvais.",
+   "brut_fr": "Un rassemblement? Je me demande quelle en\nest la raison. Qui les a convoqués ici?[1205][001E] Ça sent mauvais.",
    "brut_en": "A[SP]gathering...?[SP]I[SP]wonder[SP]what[SP]that's\nabout.[SP]It[SP]seems[SP]like[SP]someone[SP]summoned[SP]them\nhere...[1205][001E][SP]I[SP]don't[SP]like[SP]the[SP]sound[SP]of[SP]this.",
    "data_size": 264,
    "budget": 256
@@ -193,13 +193,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Eikichi n'est pas là non plus. Si"
+       "t": "Eikichi n'est pas là non plus. Si on"
       },
       {
        "nl": true
       },
       {
-       "t": "on tarde, il va avoir des ennuis?"
+       "t": "tarde trop, il va avoir des ennuis, non?"
       }
      ]
     }
@@ -222,7 +222,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Eikichi n'est pas là non plus. Si\non tarde, il va avoir des ennuis?",
+   "brut_fr": "Eikichi n'est pas là non plus. Si on\ntarde trop, il va avoir des ennuis, non?",
    "brut_en": "Eikichi's[SP]not[SP]here[SP]either.[SP]Won't[SP]he[SP]be[SP]in\ntrouble[SP]if[SP]we[SP]don't[SP]hurry[SP]and[SP]go[SP]after[SP]him?",
    "data_size": 196,
    "budget": 188
@@ -236,13 +236,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "Content que mes poils aient disparu,"
+       "t": "Je suis content que mes poils de jambes"
       },
       {
        "nl": true
       },
       {
-       "t": "mais je déteste ces réunions."
+       "t": "aient disparu, mais je déteste venir à ces"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "réunions."
       }
      ]
     }
@@ -271,7 +277,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Content que mes poils aient disparu,\nmais je déteste ces réunions.",
+   "brut_fr": "Je suis content que mes poils de jambes\naient disparu, mais je déteste venir à ces\nréunions.",
    "brut_en": "I'm[SP]glad[SP]that[SP]my[SP]leg[SP]hair[SP]is[SP]completely[SP]gone,\nbut[SP]I[SP]really[SP]hate[SP]having[SP]to[SP]come[SP]to[SP]these\ngatherings.",
    "data_size": 232,
    "budget": 224
@@ -291,7 +297,13 @@
        "nl": true
       },
       {
-       "t": "dans mon bento. On me surveille?"
+       "t": "dans mon bento. J'ai l'impression qu'on me"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "surveille."
       }
      ]
     }
@@ -320,7 +332,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'était un choc de trouver une convocation\ndans mon bento. On me surveille?",
+   "brut_fr": "C'était un choc de trouver une convocation\ndans mon bento. J'ai l'impression qu'on me\nsurveille.",
    "brut_en": "It[SP]was[SP]a[SP]shock[SP]to[SP]find[SP]that[SP]summons[SP]at[SP]the\nbottom[SP]of[SP]my[SP]boxed[SP]lunch.[SP]Feels[SP]like[SP]I'm\nbeing[SP]watched.",
    "data_size": 230,
    "budget": 222
@@ -334,13 +346,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "Moi aussi, une convocation dans mon"
+       "t": "Moi aussi j'ai reçu une convocation dans"
       },
       {
        "nl": true
       },
       {
-       "t": "sac hier. On me suit peut-etre?"
+       "t": "mon sac hier. Genre, on me surveille?"
       }
      ]
     }
@@ -363,7 +375,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Moi aussi, une convocation dans mon\nsac hier. On me suit peut-etre?",
+   "brut_fr": "Moi aussi j'ai reçu une convocation dans\nmon sac hier. Genre, on me surveille?",
    "brut_en": "I[SP]totally[SP]had[SP]a[SP]summons[SP]in[SP]my[SP]purse[SP]too,\nyesterday?[SP]I[SP]was[SP]like,[SP]is[SP]someone[SP]stalking[SP]me?",
    "data_size": 212,
    "budget": 204
