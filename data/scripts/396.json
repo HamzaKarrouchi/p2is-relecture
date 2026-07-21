@@ -113,10 +113,31 @@
      ]
     },
     {
-     "nom": "Eikichi[1205][U+000F] H-Hé...![1205][001E] Tu as dit [1432][NULL][NULL][0014]Miyabi",
+     "nom": "Eikichi",
      "seg": [
       {
-       "t": "Hanakouji? Tu la connais!? Dis-moi!"
+       "pause": true
+      },
+      {
+       "t": " H-Hé...!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu as dit "
+      },
+      {
+       "enc": "Miyabi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Hanakouji"
+      },
+      {
+       "t": "? Tu la connais!? Dis-moi!"
       }
      ]
     }
@@ -171,7 +192,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Pas d'inquiétude. Elle doit dormir quelque\npart.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi[1205][U+000F] H-Hé...![1205][001E] Tu as dit [1432][NULL][NULL][0014]Miyabi\nHanakouji[1432][NULL][NULL][0014]? Tu la connais!? Dis-moi!",
+   "brut_fr": "Pas d'inquiétude. Elle doit dormir quelque\npart.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n[1205][U+000F] H-Hé...![1205][001E] Tu as dit [1432][NULL][NULL][0014]Miyabi\nHanakouji[1432][NULL][NULL][0014]? Tu la connais!? Dis-moi!",
    "brut_en": "Don't[SP]worry.[SP]I'm[SP]sure[SP]she's[SP]somewhere[SP]dozing\noff[SP]again.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nH-Hey...![1205][001E][SP]Did[SP]you[SP]just[SP]say[SP][1432][NULL][NULL][0014]Miyabi[SP]Hanakouji[1432][NULL][NULL][0014]?\nYou[SP]know[SP]Hanakouji-san!?[1205][001E][SP]Tell[SP]me!",
    "data_size": 362,
    "budget": 354
@@ -1626,13 +1647,13 @@
        "pause": true
       },
       {
-       "t": " Je n’ai pas le temps pour ça,"
+       "t": " Je n'ai pas le temps pour ça,"
       },
       {
        "nl": true
       },
       {
-       "t": "je les laisserai pour l’instant."
+       "t": "je les laisserai pour l'instant."
       }
      ]
     }
@@ -1661,7 +1682,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hmm...[1205][001E] Je n’ai pas le temps pour ça,\nje les laisserai pour l’instant.",
+   "brut_fr": "Hmm...[1205][001E] Je n'ai pas le temps pour ça,\nje les laisserai pour l'instant.",
    "brut_en": "Hmm...[1205][001E][SP]I[SP]don't[SP]have[SP]time[SP]for[SP]this,[SP]so[SP]I'll\nleave[SP]them[SP]alone[SP]for[SP]now.",
    "data_size": 162,
    "budget": 154
@@ -1736,13 +1757,13 @@
        "pause": true
       },
       {
-       "t": " Je suis sûr qu’elles"
+       "t": " Je suis sûr qu'elles"
       },
       {
        "nl": true
       },
       {
-       "t": "veulent juste m’inviter au karaoké"
+       "t": "veulent juste m'inviter au karaoké"
       },
       {
        "nl": true
@@ -1789,7 +1810,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "... Ça ira.[1205][001E] Je suis sûr qu’elles\nveulent juste m’inviter au karaoké\nou un truc idiot du [1205][U+000F] genre...",
+   "brut_fr": "... Ça ira.[1205][001E] Je suis sûr qu'elles\nveulent juste m'inviter au karaoké\nou un truc idiot du [1205][U+000F] genre...",
    "brut_en": "...That's[SP]okay.[1205][001E][SP]I'm[SP]sure[SP]they[SP]just[SP]want[SP]to[SP]ask\nme[SP]to[SP]go[SP]for[SP]karaoke[SP]or[SP]something[SP]stupid[SP]like\nthat...",
    "data_size": 226,
    "budget": 218
@@ -1809,7 +1830,7 @@
        "pause": true
       },
       {
-       "t": " L’ex d’Eikichi va au Seven!?"
+       "t": " L'ex d'Eikichi va au Seven!?"
       }
      ]
     }
@@ -1838,7 +1859,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quoi!?[1205][001E] L’ex d’Eikichi va au Seven!?",
+   "brut_fr": "Quoi!?[1205][001E] L'ex d'Eikichi va au Seven!?",
    "brut_en": "Whaaat!?[1205][001E][SP]Eikichi's[SP]ex-girlfriend[SP]goes\nto[SP]Sevens!?",
    "data_size": 122,
    "budget": 114
@@ -1901,7 +1922,7 @@
        "pause": true
       },
       {
-       "t": " Lisa a beaucoup d’amis, non?"
+       "t": " Lisa a beaucoup d'amis, non?"
       },
       {
        "pause": true
@@ -1910,7 +1931,7 @@
        "nl": true
       },
       {
-       "t": "Ça n’a pas l’air de... enfin..."
+       "t": "Ça n'a pas l'air de... enfin..."
       }
      ]
     }
@@ -1942,7 +1963,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "...[1205][001E] Lisa a beaucoup d’amis, non?[1205][001E]\nÇa n’a pas l’air de... enfin...",
+   "brut_fr": "...[1205][001E] Lisa a beaucoup d'amis, non?[1205][001E]\nÇa n'a pas l'air de... enfin...",
    "brut_en": "...[1205][001E]Lisa[SP]has[SP]a[SP]lot[SP]of[SP]friends,[SP]right?[1205][001E]\nIt[SP]doesn't[SP]seem[SP]like...[SP]well...",
    "data_size": 164,
    "budget": 156
@@ -2233,7 +2254,7 @@
      "nom": null,
      "seg": [
       {
-       "t": "Qu’est-ce qu’Eikichi fait tout seul?"
+       "t": "Qu'est-ce qu'Eikichi fait tout seul?"
       },
       {
        "pause": true
@@ -2245,7 +2266,7 @@
        "nl": true
       },
       {
-       "t": "demande si ce n’est pas lui qui s’est fait "
+       "t": "demande si ce n'est pas lui qui s'est fait "
       },
       {
        "pause": true
@@ -2254,7 +2275,7 @@
        "nl": true
       },
       {
-       "t": "larguer... Ça serait pas plutôt l’inverse?"
+       "t": "larguer... Ça serait pas plutôt l'inverse?"
       }
      ]
     }
@@ -2289,7 +2310,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Qu’est-ce qu’Eikichi fait tout seul?[1205][001E] Je me\ndemande si ce n’est pas lui qui s’est fait [1205][U+000F]\nlarguer... Ça serait pas plutôt l’inverse?",
+   "brut_fr": "Qu'est-ce qu'Eikichi fait tout seul?[1205][001E] Je me\ndemande si ce n'est pas lui qui s'est fait [1205][U+000F]\nlarguer... Ça serait pas plutôt l'inverse?",
    "brut_en": "What's[SP]Eikichi[SP]doing[SP]alone,[SP]anyway?[1205][001E][SP]I'm[SP]starting\nto[SP]wonder[SP]if[SP]it[SP]was[SP]him[SP]who[SP]dumped[SP]his[SP]ex...\nWouldn't[SP]it[SP]have[SP]been[SP]the[SP]other[SP]way[SP]around?",
    "data_size": 302,
    "budget": 294
@@ -2303,13 +2324,13 @@
      "nom": null,
      "seg": [
       {
-       "t": "L-Lisa-san… a-à la fête de l’école,"
+       "t": "L-Lisa-san... a-à la fête de l'école,"
       },
       {
        "nl": true
       },
       {
-       "t": "c’est sûr que tu seras Miss Seven!"
+       "t": "c'est sûr que tu seras Miss Seven!"
       }
      ]
     }
@@ -2338,7 +2359,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "L-Lisa-san… a-à la fête de l’école,\nc’est sûr que tu seras Miss Seven!",
+   "brut_fr": "L-Lisa-san... a-à la fête de l'école,\nc'est sûr que tu seras Miss Seven!",
    "brut_en": "L-L-L-Lisa-san...[SP]Wh-Wh-When[SP]we[SP]h-h-have[SP]our\nschool[SP]f-f-festival,[SP]M-M-Miss[SP]Sevens[SP]w-w-will\ndefinitely[SP]b-b-be[SP]you!",
    "data_size": 280,
    "budget": 272
@@ -2456,13 +2477,7 @@
        "pause": true
       },
       {
-       "t": " sais que t-tu aimes être"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "seule..."
+       "t": " sais que t-tu aimes êtreseule..."
       }
      ]
     }
@@ -2491,7 +2506,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je sais que t-tu as eu une m-mauvaise note au\nc-contrôle d'anglais pour épargner les\nautres... Je [1205][U+000F] sais que t-tu aimes être\nseule...",
+   "brut_fr": "Je sais que t-tu as eu une m-mauvaise note au\nc-contrôle d'anglais pour épargner les\nautres... Je [1205][U+000F] sais que t-tu aimes être[1101]seule...",
    "brut_en": "I[SP]know[SP]you[SP]t-t-took[SP]a[SP]bad[SP]g-g-grade[SP]on[SP]your\nEnglish[SP]t-test[SP]so[SP]the[SP]others[SP]wouldn't[SP]f-feel\nbad...[SP]I[SP]know[SP]you[SP]l-l-like[SP]to[SP]be[SP]alone...",
    "data_size": 314,
    "budget": 306
@@ -2505,19 +2520,19 @@
      "nom": null,
      "seg": [
       {
-       "t": "J’allais avouer mes sentiments à"
+       "t": "J'allais avouer mes sentiments à"
       },
       {
        "nl": true
       },
       {
-       "t": "Lisa-san quand j’irais mieux..."
+       "t": "Lisa-san quand j'irais mieux..."
       },
       {
        "nl": true
       },
       {
-       "t": "M-mais je n’y arrive toujours pas..."
+       "t": "M-mais je n'y arrive toujours pas..."
       }
      ]
     }
@@ -2546,7 +2561,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J’allais avouer mes sentiments à\nLisa-san quand j’irais mieux...\nM-mais je n’y arrive toujours pas...",
+   "brut_fr": "J'allais avouer mes sentiments à\nLisa-san quand j'irais mieux...\nM-mais je n'y arrive toujours pas...",
    "brut_en": "I[SP]was[SP]g-g-going[SP]to[SP]c-confess[SP]my[SP]love[SP]for\nL-L-Lisa-san[SP]when[SP]I[SP]got[SP]b-b-better...\nB-B-But[SP]I[SP]still[SP]c-can't...",
    "data_size": 246,
    "budget": 238
@@ -2621,7 +2636,7 @@
        "nl": true
       },
       {
-       "t": "Lisa. Euh… ils ont dit où ils allaient?"
+       "t": "Lisa. Euh... ils ont dit où ils allaient?"
       }
      ]
     }
@@ -2644,7 +2659,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ah oui, Sheba et Mee-ho te cherchaient,\nLisa. Euh… ils ont dit où ils allaient?",
+   "brut_fr": "Ah oui, Sheba et Mee-ho te cherchaient,\nLisa. Euh... ils ont dit où ils allaient?",
    "brut_en": "Oh[SP]yeah,[SP]Sheba[SP]and[SP]Mee-ho[SP]were[SP]looking[SP]for[SP]you,\nLisa.[SP]Uhh,[SP]did[SP]they[SP]say[SP]where[SP]they[SP]were[SP]going?",
    "data_size": 246,
    "budget": 238
@@ -2664,7 +2679,7 @@
        "nl": true
       },
       {
-       "t": "et sont partis en vitesse…"
+       "t": "et sont partis en vitesse..."
       }
      ]
     }
@@ -2687,7 +2702,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je crois qu'ils ont eu un appel\net sont partis en vitesse…",
+   "brut_fr": "Je crois qu'ils ont eu un appel\net sont partis en vitesse...",
    "brut_en": "I[SP]guess[SP]they[SP]got[SP]a[SP]phone[SP]call[SP]and[SP]both[SP]rushed\nout[SP]together...",
    "data_size": 180,
    "budget": 172
@@ -3074,7 +3089,7 @@
        "nl": true
       },
       {
-       "t": "ont-ils rompu? Je meurs d’envie de le savoir!"
+       "t": "ont-ils rompu? Je meurs d'envie de le savoir!"
       }
      ]
     }
@@ -3103,7 +3118,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "I-Intéressant... [1205][001E] Mais pourquoi exactement\nont-ils rompu? Je meurs d’envie de le savoir!",
+   "brut_fr": "I-Intéressant... [1205][001E] Mais pourquoi exactement\nont-ils rompu? Je meurs d'envie de le savoir!",
    "brut_en": "H-How[SP]interesting...[1205][001E][SP]But[SP]why[SP]exactly[SP]did[SP]they\nbreak[SP]up[SP]in[SP]the[SP]first[SP]place?[SP]I'm[SP]dying[SP]to[SP]know!",
    "data_size": 230,
    "budget": 222
@@ -3215,13 +3230,13 @@
        "nl": true
       },
       {
-       "t": "veut dire qu’il va la voir. J’espère"
+       "t": "veut dire qu'il va la voir. J'espère"
       },
       {
        "nl": true
       },
       {
-       "t": "qu’il ne sera "
+       "t": "qu'il ne sera "
       },
       {
        "pause": true
@@ -3256,7 +3271,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quoi? Tu y vas maintenant? Hein, ça\nveut dire qu’il va la voir. J’espère\nqu’il ne sera [1205][U+000F] pas trop déçu...",
+   "brut_fr": "Quoi? Tu y vas maintenant? Hein, ça\nveut dire qu'il va la voir. J'espère\nqu'il ne sera [1205][U+000F] pas trop déçu...",
    "brut_en": "What?[SP]You're[SP]going[SP]there[SP]now?[SP]Huh,[SP]that[SP]means\nhe'll[SP]see[SP]her.[SP]I[SP]hope[SP]he[SP]doesn't[SP]get[SP]his[SP]hopes\ncrushed[SP]too[SP]badly.",
    "data_size": 262,
    "budget": 254

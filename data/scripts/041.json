@@ -157,7 +157,6 @@
     "options": [
      "Attendons de voir.",
      "Allons la sauver!",
-     "[1205]",
      "Laisse-moi réfléchir..."
     ],
     "question": [
@@ -190,7 +189,7 @@
      }
     ]
    },
-   "brut_fr": "Allez, [1113], allons la sauver!\n[1208][U+0003][1432][NULL][NULL][0014]Attendons de voir.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Allons la sauver![1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Laisse-moi réfléchir...[1432][NULL][NULL][0014]",
+   "brut_fr": "Allez, [1113], allons la sauver!\n[1208][U+0003][1432][NULL][NULL][0014]Attendons de voir.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Allons la sauver![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Laisse-moi réfléchir...[1432][NULL][NULL][0014]",
    "brut_en": "C'mon,[SP][1113],[SP]let's[SP]go[SP]save[SP]her!\n[1208][U+0003][1432][NULL][NULL][0014]Let's[SP]wait[SP]and[SP]see[SP]what[SP]happens.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Let's[SP]go[SP]rescue[SP]her![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Let[SP]me[SP]think[SP]about[SP]this...[1432][NULL][NULL][0014]",
    "data_size": 298,
    "budget": 290
@@ -455,7 +454,7 @@
        "nl": true
       },
       {
-       "t": "du hall, donc tu ne peux pas sortir ici."
+       "t": "du hall, donc tu peux pas sortir ici."
       },
       {
        "pause": true
@@ -463,8 +462,14 @@
      ]
     },
     {
-     "nom": "Personel du concert Ce travail est",
+     "nom": "Personel du concert",
      "seg": [
+      {
+       "t": "Ce travail est"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "dûr. On se met"
       },
@@ -530,7 +535,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "On est sensé être gardiens à l'interieur\ndu hall, donc tu ne peux pas sortir ici.[1205][U+000F]\n[E1][E2][E3][E4][NULL][NULL]\"Personel du concert Ce travail est\ndûr. On se met[1205][U+000F] sur la ligne pour retenir\nles foules. T'as interêt à être prêt.",
+   "brut_fr": "On est sensé être gardiens à l'interieur\ndu hall, donc tu peux pas sortir ici.[1205][U+000F]\n[E1][E2][E3][E4][NULL][NULL]\"Personel du concert\nCe travail est\ndûr. On se met[1205][U+000F] sur la ligne pour retenir\nles foules. T'as interêt à être prêt.",
    "brut_en": "We're[SP]supposed[SP]to[SP]be[SP]guarding[SP]the[SP]inside\nof[SP]the[SP]concert[SP]hall,[SP]so[SP]you[SP]can't[SP]go[SP]out\nthere.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Concert[SP]staff\nThis[SP]job[SP]can[SP]get[SP]rough.[SP]We[SP]put[SP]ourselves[SP]on\nthe[SP]line[SP]to[SP]hold[SP]back[SP]the[SP]raving[SP]crowds.\nYou[SP]better[SP]be[SP]ready.",
    "data_size": 472,
    "budget": 464

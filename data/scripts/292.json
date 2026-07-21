@@ -180,27 +180,27 @@
        "nl": true
       },
       {
-       "t": "pas! "
+       "t": "pas!"
+      }
+     ]
+    },
+    {
+     "nom": "Eikichi",
+     "seg": [
+      {
+       "t": "Je crois en Jun."
       },
       {
        "pause": true
       },
       {
-       "t": " "
-      }
-     ]
-    },
-    {
-     "nom": "Eikichi Je crois en Jun.[1205][U+000F] Malgré les",
-     "seg": [
-      {
-       "t": "rumeurs, il reste lui-même. Il reviendra à"
+       "t": " Malgré les"
       },
       {
        "nl": true
       },
       {
-       "t": "la raison en revoyant grande Maya."
+       "t": "rumeurs, il reste lui-même. Il reviendra àla raison en revoyant grande Maya."
       }
      ]
     }
@@ -264,7 +264,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si la rumeur se répand et devient vraie, on\nva...[1205][U+000F] N-Non, c'est impossible, ça n'arrivera\npas![E1][E2] [1205][U+000F] [E3][E4][NULL][NULL]\"Eikichi Je crois en Jun.[1205][U+000F] Malgré les\nrumeurs, il reste lui-même. Il reviendra à\nla raison en revoyant grande Maya.",
+   "brut_fr": "Si la rumeur se répand et devient vraie, on\nva...[1205][U+000F] N-Non, c'est impossible, ça n'arrivera\npas![E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nJe crois en Jun.[1205][U+000F] Malgré les\nrumeurs, il reste lui-même. Il reviendra à[1101]la raison en revoyant grande Maya.",
    "brut_en": "If[SP]that[SP]rumor[SP]gets[SP]spread[SP]and[SP]becomes[SP]reality,\nthen[SP]we're[SP]gonna[SP]be...[1205][U+000F][SP]N-No[SP]way,[SP]that[SP]can't\nactually[SP]happen![E1][E2]\n\n[E3][E4][NULL][NULL]\"Eikichi\nI[SP]believe[SP]in[SP]Jun.[1205][U+000F][SP]No[SP]matter[SP]what[SP]rumors[SP]are\ngoing[SP]around,[SP]he's[SP]still[SP]himself.[SP]I'm[SP]sure\nhe'll[SP]come[SP]around[SP]once[SP]he[SP]sees[SP]Big[SP]Maya[SP]again.",
    "data_size": 548,
    "budget": 540
@@ -1132,8 +1132,14 @@
      ]
     },
     {
-     "nom": "Maya[1205][U+000F]",
+     "nom": "Maya",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
       {
        "t": "Jun-kun..."
       },
@@ -1141,13 +1147,7 @@
        "pause": true
       },
       {
-       "t": " Il veut porter le karma de toute"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "la ville seul."
+       "t": " Il veut porter le karma de toutela ville seul."
       },
       {
        "pause": true
@@ -1220,7 +1220,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Rassurez-vous. La rumeur a été répandue.\nEt... elle est devenue réalité.[1205][U+000F] C'est un\nautre résultat voulu par l'humanité.[E1][E2] [E3][E4][NULL][NULL]\"Maya[1205][U+000F]\nJun-kun...[1205][U+000A] Il veut porter le karma de toute\nla ville seul.[1205][U+000F] Il est vraiment trop gentil...",
+   "brut_fr": "Rassurez-vous. La rumeur a été répandue.\nEt... elle est devenue réalité.[1205][U+000F] C'est un\nautre résultat voulu par l'humanité.[E1][E2] [E3][E4][NULL][NULL]\"Maya\n[1205][U+000F]\nJun-kun...[1205][U+000A] Il veut porter le karma de toute[1101]la ville seul.[1205][U+000F] Il est vraiment trop gentil...",
    "brut_en": "Don't[SP]worry.[SP]The[SP]rumor[SP]has[SP]been[SP]spread.\nWhat's[SP]more...[SP]it's[SP]become[SP]reality.[1205][U+000F][SP]This[SP]is\nanother[SP]result[SP]that[SP]humanity[SP]desired.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nJun-kun...[1205][U+000A][SP]He's[SP]trying[SP]to[SP]carry[SP]the[SP]karma[SP]of\neveryone[SP]in[SP]the[SP]city[SP]by[SP]himself.[1205][U+000F][SP]He's[SP]too\nkind,[SP]really...",
    "data_size": 504,
    "budget": 496
@@ -1725,10 +1725,10 @@
    "choix_fr": {
     "options": [
      "Acheter objets",
-     "Vendre objets[1205]",
+     "Vendre objets",
      "Parler à Sœur n°3",
      "Voir objets",
-     "Rien[1205]",
+     "Rien",
      "Quitter"
     ],
     "question": [
@@ -1752,7 +1752,7 @@
      }
     ]
    },
-   "brut_fr": "Hihihi. Autre chose?\n[1208][U+0006]Acheter objets\nVendre objets[1205][U+000F]\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien[1205][U+000F]\nQuitter",
+   "brut_fr": "Hihihi. Autre chose?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien\nQuitter",
    "brut_en": "Heeheehee.[SP]Anything[SP]else?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 244,
    "budget": 236
@@ -1784,10 +1784,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -1813,7 +1813,7 @@
      }
     ]
    },
-   "brut_fr": "Alors, tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Alors, tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 324,
    "budget": 316
@@ -1845,7 +1845,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée"
     ],
     "question": [
@@ -1866,7 +1866,7 @@
      }
     ]
    },
-   "brut_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
    "brut_en": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 222,
    "budget": 214
@@ -3044,10 +3044,10 @@
    "choix_fr": {
     "options": [
      "Acheter objets",
-     "Vendre objets[1205]",
+     "Vendre objets",
      "Parler à Sœur n°3",
      "Voir objets",
-     "Rien[1205]",
+     "Rien",
      "Quitter"
     ],
     "question": [
@@ -3071,7 +3071,7 @@
      }
     ]
    },
-   "brut_fr": "Hihihi. Bienvenuuue! Que désires-tu?\n[1208][U+0006]Acheter objets\nVendre objets[1205][U+000F]\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien[1205][U+000F]\nQuitter",
+   "brut_fr": "Hihihi. Bienvenuuue! Que désires-tu?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien\nQuitter",
    "brut_en": "Heeheehee.[SP]Welcoooome![SP]What'll[SP]it[SP]be?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 268,
    "budget": 260
@@ -3103,10 +3103,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -3132,7 +3132,7 @@
      }
     ]
    },
-   "brut_fr": "Alors, que veux-tu vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Alors, que veux-tu vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 336,
    "budget": 328
@@ -3164,7 +3164,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée"
     ],
     "question": [
@@ -3185,7 +3185,7 @@
      }
     ]
    },
-   "brut_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
    "brut_en": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 222,
    "budget": 214
@@ -3259,7 +3259,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -3291,7 +3291,7 @@
      }
     ]
    },
-   "brut_fr": "Le total s'élève à [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Le total s'élève à [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui\nNon",
    "brut_en": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
    "data_size": 140,
    "budget": 132

@@ -1022,13 +1022,7 @@
        "pause": true
       },
       {
-       "t": " n'épargneront"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "personne..."
+       "t": " n'épargnerontpersonne..."
       }
      ]
     }
@@ -1057,7 +1051,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le plus proche tu es aux pôles, plus l'impact\nsera faible... Mais les tsunamis et\ntremblements de terre [1205][U+000F] n'épargneront\npersonne...",
+   "brut_fr": "Le plus proche tu es aux pôles, plus l'impact\nsera faible... Mais les tsunamis et\ntremblements de terre [1205][U+000F] n'épargneront[1101]personne...",
    "brut_en": "The[SP]closer[SP]you[SP]are[SP]to[SP]the[SP]poles,[SP]the[SP]lower[SP]the\nimpact[SP]will[SP]be...[SP]But[SP]the[SP]tsunamis[SP]and[SP]quakes\nwill[SP]still[SP]prevent[SP]anyone[SP]from[SP]surviving...",
    "data_size": 292,
    "budget": 284
@@ -1208,7 +1202,7 @@
    "choix_fr": {
     "options": [
      "Les rumeurs",
-     "écoute ta destinée[1205]",
+     "écoute ta destinée",
      "Parle avec la Génie",
      "Laisse tomber",
      "Quitter"
@@ -1233,7 +1227,7 @@
      }
     ]
    },
-   "brut_fr": "Que veux-tu?\n[1208][U+0005][1210][U+0475]Les rumeurs\nécoute ta destinée[1205][U+000F]\nParle avec la Génie\nLaisse tomber\nQuitter",
+   "brut_fr": "Que veux-tu?\n[1208][U+0005][1210][U+0475]Les rumeurs\nécoute ta destinée\nParle avec la Génie\nLaisse tomber\nQuitter",
    "brut_en": "For[SP]what[SP]have[SP]you[SP]sought[SP]me[SP]out[SP]today?\n[1208][U+0005][1210][U+0475]Ask[SP]about[SP]rumors\nHear[SP]your[SP]fortune\nTalk[SP]to[SP]the[SP]Sumaru[SP]Genie\nNever[SP]mind\nLeave",
    "data_size": 300,
    "budget": 292
@@ -2395,7 +2389,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -2439,7 +2433,7 @@
      }
     ]
    },
-   "brut_fr": "Très bien.[1205][U+000F] 3,000 yen.\nToujours d'accord?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Très bien.[1205][U+000F] 3,000 yen.\nToujours d'accord?\n[1208][0002]Oui\nNon",
    "brut_en": "Very[SP]well.[1205][U+000F][SP]The[SP]price[SP]will[SP]be[SP]3,000[SP]yen.\nDo[SP]you[SP]still[SP]wish[SP]this?\n[1208][0002]Yes\nNo",
    "data_size": 210,
    "budget": 202
@@ -4104,13 +4098,7 @@
      "nom": "Génie",
      "seg": [
       {
-       "t": "Sumaru, colporteuse de rumeurs Bientôt,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "tu seras parmi les pauvres, "
+       "t": "Sumaru, colporteuse de rumeurs Bientôt,tu seras parmi les pauvres, "
       },
       {
        "pause": true
@@ -4174,7 +4162,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le karma... Les émotions réprimées...[1205][U+000F]\nTa chance financière baissera.[1205][U+000F] [E3][E4][NULL][NULL]\"Génie\nSumaru, colporteuse de rumeurs Bientôt,\ntu seras parmi les pauvres, [1205][U+000F] contraint\nde vivre dans la faim et la misère.",
+   "brut_fr": "Le karma... Les émotions réprimées...[1205][U+000F]\nTa chance financière baissera.[1205][U+000F] [E3][E4][NULL][NULL]\"Génie\nSumaru, colporteuse de rumeurs Bientôt,[1101]tu seras parmi les pauvres, [1205][U+000F] contraint\nde vivre dans la faim et la misère.",
    "brut_en": "Man's[SP]karma...[SP]Repressed[SP]emotions...[1205][U+000F][SP]The[SP]card\ntells[SP]of[SP]a[SP]decrease[SP]in[SP]your[SP]luck[SP]with[SP]money.[1205][U+000F]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nFor[SP]the[SP]foreseeable[SP]future,[SP]you[SP]will[SP]be[SP]counted\namong[SP]the[SP]poor,[SP]forced[SP]to[SP]live[SP]in[SP]poverty[SP]and\nhunger.",
    "data_size": 512,
    "budget": 504
@@ -4206,7 +4194,7 @@
    "choix_fr": {
     "options": [
      "Magasins d'armes",
-     "Magasins d'armures[1205]",
+     "Magasins d'armures",
      "Autre",
      "Rien"
     ],
@@ -4229,7 +4217,7 @@
      }
     ]
    },
-   "brut_fr": "Que veux-tu savoir?\n[1208][U+0004][1210][U+0476]Magasins d'armes\n[1210][U+0477]Magasins d'armures[1205][U+000F]\n[1210][U+0478]Autre\nRien",
+   "brut_fr": "Que veux-tu savoir?\n[1208][U+0004][1210][U+0476]Magasins d'armes\n[1210][U+0477]Magasins d'armures\n[1210][U+0478]Autre\nRien",
    "brut_en": "Which[SP]stories[SP]would[SP]you[SP]have[SP]me[SP]tell?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
    "data_size": 268,
    "budget": 260
@@ -4261,7 +4249,7 @@
    "choix_fr": {
     "options": [
      "Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
      "Aucune"
@@ -4286,7 +4274,7 @@
      }
     ]
    },
-   "brut_fr": "Cadre de l'histoire?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
+   "brut_fr": "Cadre de l'histoire?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
    "brut_en": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
    "data_size": 228,
    "budget": 220
@@ -4318,7 +4306,7 @@
    "choix_fr": {
     "options": [
      "Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
      "Aucune"
@@ -4343,7 +4331,7 @@
      }
     ]
    },
-   "brut_fr": "Cadre de l'histoire?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
+   "brut_fr": "Cadre de l'histoire?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
    "brut_en": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
    "data_size": 228,
    "budget": 220
@@ -4375,7 +4363,7 @@
    "choix_fr": {
     "options": [
      "Concours de magazine",
-     "Rumeurs de Mu[1205]",
+     "Rumeurs de Mu",
      "Armes légendaires",
      "Aucun"
     ],
@@ -4398,7 +4386,7 @@
      }
     ]
    },
-   "brut_fr": "Quel récit raconter?\n[1208][U+0004][1210][U+0472]Concours de magazine\n[1210][U+0473]Rumeurs de Mu[1205][U+000F]\n[1210][U+0474]Armes légendaires\nAucun",
+   "brut_fr": "Quel récit raconter?\n[1208][U+0004][1210][U+0472]Concours de magazine\n[1210][U+0473]Rumeurs de Mu\n[1210][U+0474]Armes légendaires\nAucun",
    "brut_en": "Which[SP]tale[SP]shall[SP]I[SP]relate?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
    "data_size": 280,
    "budget": 272
@@ -5946,7 +5934,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Lis-le[1205]",
+     "Lis-le",
      "Ne le lis pas"
     ],
     "question": [
@@ -5978,7 +5966,7 @@
      }
     ]
    },
-   "brut_fr": "Je veux juste que quelqu'un décide pour \nmoi! Lis mon avenir!\n[1208][0002]Lis-le[1205][U+000F]\nNe le lis pas",
+   "brut_fr": "Je veux juste que quelqu'un décide pour \nmoi! Lis mon avenir!\n[1208][0002]Lis-le\nNe le lis pas",
    "brut_en": "I[SP]just[SP]want[SP]someone[SP]to[SP]make[SP]the[SP]decision\nfor[SP]me![SP]Please,[SP]read[SP]my[SP]fortune!\n[1208][0002]Read[SP]it\nDon't[SP]read[SP]it",
    "data_size": 256,
    "budget": 248

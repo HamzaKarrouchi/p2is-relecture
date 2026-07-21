@@ -452,10 +452,10 @@
    ],
    "choix_fr": {
     "options": [
-     "Répandre rumeurs[1205]",
+     "Répandre rumeurs",
      "Vérifier rumeurs",
      "Parler au Chef",
-     "Annuler[1205]",
+     "Annuler",
      "Quitter l'agence"
     ],
     "question": [
@@ -490,7 +490,7 @@
      }
     ]
    },
-   "brut_fr": "Vous êtes là... Que vous amène\naujourd'hui?\n[1208][U+0005]Répandre rumeurs[1205][U+000F]\nVérifier rumeurs\nParler au Chef\nAnnuler[1205][U+000F]\nQuitter l'agence",
+   "brut_fr": "Vous êtes là... Que vous amène\naujourd'hui?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
    "brut_en": "You've[SP]come...[SP]What[SP]business[SP]do[SP]you[SP]have[SP]with\nus[SP]today?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
    "data_size": 318,
    "budget": 310
@@ -522,7 +522,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur les rumeurs[1205]",
+     "Sur les rumeurs",
      "Non-displayed selection"
     ],
     "question": [
@@ -543,7 +543,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs[1205][U+000F]\n[1210][NULL]Non-displayed selection",
+   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Non-displayed selection",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
    "data_size": 204,
    "budget": 196
@@ -575,7 +575,7 @@
    "choix_fr": {
     "options": [
      "Répandre rumeurs",
-     "Vérifier rumeurs[1205]",
+     "Vérifier rumeurs",
      "Parler au Chef",
      "Annuler",
      "Quitter l'agence"
@@ -600,7 +600,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs[1205][U+000F]\nParler au Chef\nAnnuler\nQuitter l'agence",
+   "brut_fr": "Autre chose?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
    "brut_en": "Anything[SP]else?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
    "data_size": 236,
    "budget": 228
@@ -632,7 +632,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur les rumeurs[1205]",
+     "Sur les rumeurs",
      "Non-displayed selection"
     ],
     "question": [
@@ -653,7 +653,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs[1205][U+000F]\n[1210][NULL]Non-displayed selection",
+   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Non-displayed selection",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
    "data_size": 204,
    "budget": 196
@@ -1628,7 +1628,7 @@
    "choix_fr": {
     "options": [
      "Participer aux concours",
-     "Parler à Tamaki[1205]",
+     "Parler à Tamaki",
      "Rien",
      "Quitter l'agence"
     ],
@@ -1651,7 +1651,7 @@
      }
     ]
    },
-   "brut_fr": "Salut! Que puis-je pour vous?\n[1208][U+0004]Participer aux concours\nParler à Tamaki[1205][U+000F]\nRien\nQuitter l'agence",
+   "brut_fr": "Salut! Que puis-je pour vous?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\nQuitter l'agence",
    "brut_en": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
    "data_size": 260,
    "budget": 252
@@ -1683,7 +1683,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur les concours[1205]",
+     "Sur les concours",
      "Rien"
     ],
     "question": [
@@ -1704,7 +1704,7 @@
      }
     ]
    },
-   "brut_fr": "Que puis-je pour vous?\n[1208][U+0003]Bavarder\nSur les concours[1205][U+000F]\nRien",
+   "brut_fr": "Que puis-je pour vous?\n[1208][U+0003]Bavarder\nSur les concours\nRien",
    "brut_en": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
    "data_size": 180,
    "budget": 172
@@ -4203,7 +4203,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -4235,7 +4235,7 @@
      }
     ]
    },
-   "brut_fr": "Celle-là, c'est la maison qui régale.\nC'est bien ce que tu veux?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Celle-là, c'est la maison qui régale.\nC'est bien ce que tu veux?\n[1208][0002]Oui\nNon",
    "brut_en": "This[SP]one's[SP]on[SP]the[SP]house.[SP]You're[SP]sure[SP]that's\nwhat[SP]you[SP]want,[SP]right?\n[1208][0002]Yes\nNo",
    "data_size": 190,
    "budget": 182
@@ -4278,7 +4278,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -4310,7 +4310,7 @@
      }
     ]
    },
-   "brut_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui\nNon",
    "brut_en": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
    "data_size": 206,
    "budget": 198

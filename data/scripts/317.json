@@ -1164,7 +1164,6 @@
     "options": [
      "Plus c'est gros, mieux.",
      "La moyenne, le top.",
-     "[1205]",
      "Plus c'est petit, mieux."
     ],
     "question": [
@@ -1197,7 +1196,7 @@
      }
     ]
    },
-   "brut_fr": "Pas vrai, [1113]?\n[1208][U+0003][1432][NULL][NULL][0014]Plus c'est gros, mieux.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]La moyenne, le top.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Plus c'est petit, mieux.[1432][NULL][NULL][0014]",
+   "brut_fr": "Pas vrai, [1113]?\n[1208][U+0003][1432][NULL][NULL][0014]Plus c'est gros, mieux.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]La moyenne, le top.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Plus c'est petit, mieux.[1432][NULL][NULL][0014]",
    "brut_en": "Right,[SP][1113]-kun?\n[1208][U+0003][1432][NULL][NULL][0014]The[SP]bigger[SP]the[SP]better.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Yeah,[SP]average[SP]is[SP]best.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]The[SP]smaller[SP]the[SP]better.[1432][NULL][NULL][0014]",
    "data_size": 240,
    "budget": 232
@@ -1822,8 +1821,17 @@
      ]
     },
     {
-     "nom": "Maya[1205][U+000F] Bientôt, les",
+     "nom": "Maya",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "t": " Bientôt, les"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "prophéties de ce livre deviendront réalité."
       }
@@ -1868,7 +1876,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Hahaha...[1205][U+000F] Pas de soucis. Sumaru croira en\nl'In Lak'ech bientôt.[E1][E2] [E3][E4][NULL][NULL]\"Maya[1205][U+000F] Bientôt, les\nprophéties de ce livre deviendront réalité.",
+   "brut_fr": "Hahaha...[1205][U+000F] Pas de soucis. Sumaru croira en\nl'In Lak'ech bientôt.[E1][E2] [E3][E4][NULL][NULL]\"Maya\n[1205][U+000F] Bientôt, les\nprophéties de ce livre deviendront réalité.",
    "brut_en": "Hahaha...[1205][U+000F][SP]No[SP]need[SP]to[SP]worry.[SP]Everyone[SP]in[SP]Sumaru\nwill[SP]believe[SP]in[SP]the[SP]In[SP]Lak'ech[SP]soon.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIn[SP]due[SP]time,[SP]that[SP]book's[SP]prophecies[SP]will\nbecome[SP]reality.",
    "data_size": 328,
    "budget": 320
@@ -2623,7 +2631,7 @@
    "choix_fr": {
     "options": [
      "Soin",
-     "Parler[1205]",
+     "Parler",
      "Rien",
      "Quitter"
     ],
@@ -2646,7 +2654,7 @@
      }
     ]
    },
-   "brut_fr": "Où soulager vos tensions aujourd'hui?\n[1208][U+0004]Soin\nParler[1205][U+000F]\nRien\nQuitter",
+   "brut_fr": "Où soulager vos tensions aujourd'hui?\n[1208][U+0004]Soin\nParler\nRien\nQuitter",
    "brut_en": "Now,[SP]where[SP]shall[SP]I[SP]relieve[SP]your[SP]tension[SP]today?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 224,
    "budget": 216
@@ -3070,7 +3078,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -3102,7 +3110,7 @@
      }
     ]
    },
-   "brut_fr": "Le soin coûtera 1200 yens.\nVous voulez le faire?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Le soin coûtera 1200 yens.\nVous voulez le faire?\n[1208][0002]Oui\nNon",
    "brut_en": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?\n[1208][0002]Yes\nNo",
    "data_size": 200,
    "budget": 192
@@ -4359,7 +4367,7 @@
    "choix_fr": {
     "options": [
      "Soin",
-     "Parler[1205]",
+     "Parler",
      "Rien",
      "Quitter"
     ],
@@ -4382,7 +4390,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0004]Soin\nParler[1205][U+000F]\nRien\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0004]Soin\nParler\nRien\nQuitter",
    "brut_en": "Anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 160,
    "budget": 152

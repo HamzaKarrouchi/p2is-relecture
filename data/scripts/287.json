@@ -1021,7 +1021,7 @@
    "choix_fr": {
     "options": [
      "Parler du tirage au sort",
-     "Parler avec le père de Ginko[1205]",
+     "Parler avec le père de Ginko",
      "Rien"
     ],
     "question": [
@@ -1042,7 +1042,7 @@
      }
     ]
    },
-   "brut_fr": "Avez-vous quelque chose à me dire?\n[1208][U+0003]Parler du tirage au sort\nParler avec le père de Ginko[1205][U+000F]\nRien",
+   "brut_fr": "Avez-vous quelque chose à me dire?\n[1208][U+0003]Parler du tirage au sort\nParler avec le père de Ginko\nRien",
    "brut_en": "Is[SP]there[SP]something[SP]you[SP]wish[SP]to[SP]discuss[SP]with[SP]me?\n[1208][U+0003]Ask[SP]about[SP]the[SP]sweepstakes\nTalk[SP]with[SP]Ginko's[SP]father\nNothing",
    "data_size": 258,
    "budget": 250
@@ -1264,13 +1264,7 @@
        "pause": true
       },
       {
-       "enc": " vous n'êtes pas gagnant cette"
-      },
-      {
-       "nl": true
-      },
-      {
-       "enc": "fois. Nous vous encourageons à continuer!"
+       "enc": " vous n'êtes pas gagnant cettefois. Nous vous encourageons à continuer!"
       }
      ]
     }
@@ -1311,7 +1305,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Hélas,[1205][U+000F] vous n'êtes pas gagnant cette\nfois. Nous vous encourageons à continuer![1432][NULL][NULL][0014]",
+   "brut_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Hélas,[1205][U+000F] vous n'êtes pas gagnant cette[1101]fois. Nous vous encourageons à continuer![1432][NULL][NULL][0014]",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
    "data_size": 516,
    "budget": 508
@@ -1349,13 +1343,7 @@
        "nl": true
       },
       {
-       "enc": "tirage. Félicitations! Vous avez été"
-      },
-      {
-       "nl": true
-      },
-      {
-       "enc": "sélectionné"
+       "enc": "tirage. Félicitations! Vous avez étésélectionné"
       },
       {
        "pause": true
@@ -1444,7 +1432,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Félicitations! Vous avez été\nsélectionné[1205][U+000F] comme gagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nen guise de prix. Continuez à participer![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez pas de place[1205][U+000F] pour un(e) autre [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
+   "brut_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Félicitations! Vous avez été[1101]sélectionné[1205][U+000F] comme gagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nen guise de prix. Continuez à participer![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez pas de place[1205][U+000F] pour un(e) autre [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner![E1][E2][E3]>[SP][1432][NULL][NULL][0014]Please[SP]accept[SP]this[SP][E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nas[SP]your[SP]prize.[SP]We[SP]encourage[SP]you[SP]to[SP]continue\nentering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014][E1][E2][E3]>[SP]You[SP]have[SP]no[SP]room[SP]for[SP]another\n[E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
    "data_size": 742,
    "budget": 734
@@ -1619,13 +1607,7 @@
        "pause": true
       },
       {
-       "t": " ma"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "place."
+       "t": " maplace."
       }
      ]
     }
@@ -1657,7 +1639,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je ne peux plus retenir ma fille à ce stade.[1205][U+000F]\nC'est pourquoi je voudrais vous confier sa\nsécurité. Veuillez veiller sur Lisa à [1205][U+000F] ma\nplace.",
+   "brut_fr": "Je ne peux plus retenir ma fille à ce stade.[1205][U+000F]\nC'est pourquoi je voudrais vous confier sa\nsécurité. Veuillez veiller sur Lisa à [1205][U+000F] ma[1101]place.",
    "brut_en": "I[SP]am[SP]powerless[SP]to[SP]stop[SP]my[SP]daughter[SP]at[SP]this[SP]point.[1205][U+000F]\nThat[SP]is[SP]why[SP]I'd[SP]like[SP]to[SP]entrust[SP]her[SP]safety[SP]to\nyou.[SP]Please[SP]look[SP]after[SP]Lisa[SP]in[SP]my[SP]stead.",
    "data_size": 316,
    "budget": 308
@@ -1692,13 +1674,7 @@
        "pause": true
       },
       {
-       "t": " S'attaquer aux lycées, quelle"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "audace!"
+       "t": " S'attaquer aux lycées, quelleaudace!"
       }
      ]
     }
@@ -1733,7 +1709,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "J'ai entendu que des soldats ont envahi le\nLycée Seven Sisters. Les élèves et profs[1205][U+000F]\nsont-ils sains?[1205][U+000F] S'attaquer aux lycées, quelle\naudace!",
+   "brut_fr": "J'ai entendu que des soldats ont envahi le\nLycée Seven Sisters. Les élèves et profs[1205][U+000F]\nsont-ils sains?[1205][U+000F] S'attaquer aux lycées, quelle[1101]audace!",
    "brut_en": "I[SP]heard[SP]the[SP]soldiers[SP]invaded[SP]Seven[SP]Sisters[SP]High\nas[SP]well.[SP]Are[SP]the[SP]students[SP]and[SP]teachers[SP]there\nsafe?[1205][U+000F][SP]What[SP]gall,[SP]attacking[SP]even[SP]the[SP]schools...!",
    "data_size": 324,
    "budget": 316

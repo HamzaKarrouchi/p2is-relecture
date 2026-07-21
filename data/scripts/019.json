@@ -962,19 +962,25 @@
      "nom": null,
      "seg": [
       {
-       "t": "Il y a une orga à rejoindre quand Maître"
+       "t": "Il y a une orga à rejoindre quand Maître Joker"
       },
       {
        "nl": true
       },
       {
-       "t": "Joker exauce ton vœu. Apparemment, cette"
+       "t": "exauce ton vœu. Apparemment, cette"
       },
       {
        "nl": true
       },
       {
-       "t": "réunion était une cérémonie d'initiation."
+       "t": "réunion"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " était une cérémonied'initiation."
       }
      ]
     }
@@ -1003,7 +1009,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il y a une orga à rejoindre quand Maître\nJoker exauce ton vœu. Apparemment, cette\nréunion était une cérémonie d'initiation.",
+   "brut_fr": "Il y a une orga à rejoindre quand Maître Joker\nexauce ton vœu. Apparemment, cette\nréunion[1205][U+000F] était une cérémonie[1101]d'initiation.",
    "brut_en": "There's[SP]an[SP]organization[SP]you[SP]have[SP]to[SP]join[SP]once\nMaster[SP]Joker[SP]grants[SP]your[SP]ideal.[SP]I[SP]heard[SP]the\ngathering[SP]was[SP]an[SP]initiation[SP]ceremony[SP]for[SP]it.",
    "data_size": 294,
    "budget": 286

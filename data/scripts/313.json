@@ -221,13 +221,7 @@
        "pause": true
       },
       {
-       "t": " pour une prophétie c'est vraiment"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "très con."
+       "t": " pour une prophétie c'est vraimenttrès con."
       }
      ]
     }
@@ -256,7 +250,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ce mec est fou, hein? Je sais pas si c'est à\ncause de l'Oracle ou quoi, mais devenir\npyromane[1205][U+000F] pour une prophétie c'est vraiment\ntrès con.",
+   "brut_fr": "Ce mec est fou, hein? Je sais pas si c'est à\ncause de l'Oracle ou quoi, mais devenir\npyromane[1205][U+000F] pour une prophétie c'est vraiment[1101]très con.",
    "brut_en": "That[SP]guy's[SP]nuts,[SP]isn't[SP]he?[SP]I[SP]don't[SP]know[SP]if[SP]it's\nbecause[SP]of[SP]this[SP]Oracle[SP]or[SP]whatever,[SP]but[SP]starting\nfires[SP]based[SP]on[SP]some[SP]prophecy[SP]is[SP]total[SP]BS.",
    "data_size": 302,
    "budget": 294
@@ -1920,8 +1914,14 @@
      ]
     },
     {
-     "nom": "Maya Chacun",
+     "nom": "Maya",
      "seg": [
+      {
+       "t": "Chacun"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "prétend souhaiter la paix, mais "
       },
@@ -1929,13 +1929,7 @@
        "pause": true
       },
       {
-       "t": " peut-être"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "qu'inconsciemment on souhaite tout"
+       "t": " peut-êtrequ'inconsciemment on souhaite tout"
       },
       {
        "nl": true
@@ -1999,7 +1993,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Peut-on réfuter la logique de Mme Ideal?[1205][U+000F]\nVous aussi vous intervertissez rêves et\nréalité[1205][U+000F] à votre avantage...[E1][E2] [E3][E4][NULL][NULL]\"Maya Chacun\nprétend souhaiter la paix, mais [1205][U+000F] peut-être\nqu'inconsciemment on souhaite tout\ndétruire pour[1205][U+000F] pouvoir repartir de zéro.",
+   "brut_fr": "Peut-on réfuter la logique de Mme Ideal?[1205][U+000F]\nVous aussi vous intervertissez rêves et\nréalité[1205][U+000F] à votre avantage...[E1][E2] [E3][E4][NULL][NULL]\"Maya\nChacun\nprétend souhaiter la paix, mais [1205][U+000F] peut-être[1101]qu'inconsciemment on souhaite tout\ndétruire pour[1205][U+000F] pouvoir repartir de zéro.",
    "brut_en": "Can[SP]you[SP]deny[SP]Ms.[SP]Ideal's[SP]line[SP]of[SP]thought?[1205][U+000F]\nAfter[SP]all,[SP]you're[SP]switching[SP]out[SP]dreams[SP]and\nreality[SP]for[SP]your[SP]own[SP]convenience...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nEveryone[SP]says[SP]they[SP]want[SP]peace,[SP]but[SP]maybe[SP]deep\ndown,[SP]they[SP]want[SP]to[SP]tear[SP]it[SP]all[SP]down[SP]and[SP]start\nover[SP]from[SP]the[SP]rubble.",
    "data_size": 516,
    "budget": 508
@@ -2037,13 +2031,7 @@
        "pause": true
       },
       {
-       "t": " En est-il de même pour"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "nous?"
+       "t": " En est-il de même pournous?"
       }
      ]
     }
@@ -2078,7 +2066,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Si le Bataillon s'est montré si vite, c'est\npeut-être qu'au fond les humains [1205][U+000F] souhaitent\nla fin du monde...[1205][U+000F] En est-il de même pour\nnous?",
+   "brut_fr": "Si le Bataillon s'est montré si vite, c'est\npeut-être qu'au fond les humains [1205][U+000F] souhaitent\nla fin du monde...[1205][U+000F] En est-il de même pour[1101]nous?",
    "brut_en": "The[SP]reason[SP]the[SP]Last[SP]Battalion[SP]caught[SP]on[SP]so[SP]fast\nmight[SP]be[SP]because[SP]man[SP]secretly[SP]wishes[SP]this[SP]world\nto[SP]be[SP]destroyed...[1205][U+000F][SP]Is[SP]the[SP]same[SP]true[SP]of[SP]us?",
    "data_size": 300,
    "budget": 292
@@ -2554,13 +2542,7 @@
        "pause": true
       },
       {
-       "t": " Je sais pas trop quoi en"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "penser."
+       "t": " Je sais pas trop quoi enpenser."
       }
      ]
     }
@@ -2598,7 +2580,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je sais que ce livre est la cause de tout\nça...[1205][U+000F] Mais honnêtement c'est les habitants\nqu'il faut blâmer.[1205][U+000F] Je sais pas trop quoi en\npenser.",
+   "brut_fr": "Je sais que ce livre est la cause de tout\nça...[1205][U+000F] Mais honnêtement c'est les habitants\nqu'il faut blâmer.[1205][U+000F] Je sais pas trop quoi en[1101]penser.",
    "brut_en": "I[SP]know[SP]that[SP]book[SP]is[SP]the[SP]cause[SP]of[SP]all[SP]this...[1205][U+000F]\nBut[SP]frankly,[SP]it's[SP]the[SP]people[SP]of[SP]Sumaru[SP]who[SP]are\nto[SP]blame.[1205][U+000F][SP]I[SP]don't[SP]know[SP]how[SP]to[SP]feel[SP]about[SP]that.",
    "data_size": 308,
    "budget": 300
@@ -2688,7 +2670,7 @@
    "choix_fr": {
     "options": [
      "Acheter",
-     "Vendre    [1205]",
+     "Vendre",
      "Discuter",
      "Rien merci",
      "S'en aller"
@@ -2713,7 +2695,7 @@
      }
     ]
    },
-   "brut_fr": "Tu veux encore autre chose?\n[1208][U+0005]Acheter  \nVendre    [1205][U+000F]\nDiscuter        \nRien merci\nS'en aller",
+   "brut_fr": "Tu veux encore autre chose?\n[1208][U+0005]Acheter  \nVendre    \nDiscuter        \nRien merci\nS'en aller",
    "brut_en": "You[SP]still[SP]want[SP]something?\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 214,
    "budget": 206
@@ -2745,10 +2727,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -2774,7 +2756,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'est-ce que t'as pour moi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Qu'est-ce que t'as pour moi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 320,
    "budget": 312
@@ -2806,7 +2788,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée"
     ],
     "question": [
@@ -2827,7 +2809,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi parler?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "De quoi parler?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
    "brut_en": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 206,
    "budget": 198
@@ -3991,13 +3973,7 @@
        "pause": true
       },
       {
-       "t": " car j'étais trop masculin, mais"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "c'est fini! Je suis enfin un homme!"
+       "t": " car j'étais trop masculin, maisc'est fini! Je suis enfin un homme!"
       }
      ]
     }
@@ -4040,7 +4016,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Ggggn... Aaagh...[1205][U+000A] Uaagh...[E1][E2] [E3][E4][NULL][NULL]\"Pas une\nfemme Haha... Toute ma vie on m'a\ndénigré[1205][U+000F] car j'étais trop masculin, mais\nc'est fini! Je suis enfin un homme!",
+   "brut_fr": "Ggggn... Aaagh...[1205][U+000A] Uaagh...[E1][E2] [E3][E4][NULL][NULL]\"Pas une\nfemme Haha... Toute ma vie on m'a\ndénigré[1205][U+000F] car j'étais trop masculin, mais[1101]c'est fini! Je suis enfin un homme!",
    "brut_en": "Uuunghhh..[SP]Aaaaagh...[1205][U+000A][SP]Uaaagh...[E1][E2]\n[E3][E4][NULL][NULL]\"Weird[SP]woman\nHahahah...[SP]I've[SP]been[SP]mocked[SP]all[SP]my[SP]life[SP]for\nbeing[SP]butch,[SP]but[SP]that[SP]ends[SP]today![SP]I've[SP]finally\nbecome[SP]a[SP]man!",
    "data_size": 366,
    "budget": 358
@@ -4364,8 +4340,14 @@
      ]
     },
     {
-     "nom": "Pas une femme Puis quand j'ai",
+     "nom": "Femme bizarre",
      "seg": [
+      {
+       "t": "Pas une femmePuis quand j'ai"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "dit non, ces "
       },
@@ -4449,7 +4431,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Quand je pense avoir trouvé de bons amis,\nleur bite prend le contrôle et ils me font\ndes avances.[1205][U+000F] [1205][U+000F] [E4][NULL][NULL]\"Pas une femme Puis quand j'ai\ndit non, ces [1432][NULL][NULL][0014]amis[1432][NULL][NULL][0014] sont [1205][U+000F] devenus distants...[1205][U+000F]\nC'est ce qui me débectais le plus.",
+   "brut_fr": "Quand je pense avoir trouvé de bons amis,\nleur bite prend le contrôle et ils me font\ndes avances.[1205][U+000F] [1205][U+000F] [E4][NULL][NULL]\"Femme bizarre\nPas une femme[1101]Puis quand j'ai\ndit non, ces [1432][NULL][NULL][0014]amis[1432][NULL][NULL][0014] sont [1205][U+000F] devenus distants...[1205][U+000F]\nC'est ce qui me débectais le plus.",
    "brut_en": "Just[SP]when[SP]I[SP]think[SP]we'd[SP]be[SP]getting[SP]to[SP]be[SP]good\nfriends,[SP]they'd[SP]let[SP]their[SP]dicks[SP]take[SP]over[SP]and\nmake[SP]a[SP]pass[SP]at[SP]me.\n[1205][U+000F]\n[E4][NULL][NULL]\"Weird[SP]woman\nWhen[SP]I[SP]said[SP]no,[SP]these[SP][1432][NULL][NULL][0014]friends[1432][NULL][NULL][0014][SP]of[SP]mine[SP]turned\nreal[SP]cold...[1205][U+000F][SP]That's[SP]the[SP]part[SP]I[SP]hated[SP]most.",
    "data_size": 486,
    "budget": 478
@@ -5108,7 +5090,7 @@
    "choix_fr": {
     "options": [
      "]Acheter",
-     "Vendre    [1205]",
+     "Vendre",
      "Discuter",
      "Rien merci",
      "S'en aller"
@@ -5133,7 +5115,7 @@
      }
     ]
    },
-   "brut_fr": "Ouais, tu veux quoi?\n[1208][U+0005]]Acheter  \nVendre    [1205][U+000F]\nDiscuter        \nRien merci\nS'en aller",
+   "brut_fr": "Ouais, tu veux quoi?\n[1208][U+0005]]Acheter  \nVendre    \nDiscuter        \nRien merci\nS'en aller",
    "brut_en": "Yeah,[SP]what[SP]do[SP]you[SP]want?\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 210,
    "budget": 202
@@ -5165,10 +5147,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -5194,7 +5176,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'est-ce que t'as pour moi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Qu'est-ce que t'as pour moi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 320,
    "budget": 312
@@ -5226,7 +5208,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée"
     ],
     "question": [
@@ -5247,7 +5229,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi parler?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "De quoi parler?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
    "brut_en": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 206,
    "budget": 198

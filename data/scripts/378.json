@@ -193,13 +193,7 @@
        "pause": true
       },
       {
-       "t": " Viens, ta leçon de thé"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "commence."
+       "t": " Viens, ta leçon de thécommence."
       }
      ]
     }
@@ -234,7 +228,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé\ncommence.",
+   "brut_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé[1101]commence.",
    "brut_en": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
    "data_size": 316,
    "budget": 308
@@ -345,13 +339,7 @@
        "pause": true
       },
       {
-       "t": " Viens, ta leçon de thé"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "commence."
+       "t": " Viens, ta leçon de thécommence."
       }
      ]
     }
@@ -386,7 +374,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé\ncommence.",
+   "brut_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé[1101]commence.",
    "brut_en": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
    "data_size": 316,
    "budget": 308
@@ -1088,12 +1076,6 @@
       },
       {
        "t": "rebelle. Le pauvre homme."
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
       }
      ]
     },
@@ -1165,7 +1147,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "La relation de Lisa avec son père est\ntendue. Quelle charge d'avoir un enfant si\nrebelle. Le pauvre homme.[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Yukino Mon père\nest parti avec une autre femme...[1205][001E] Je lui\ncasserais la gueule si je le [1205][U+000F] revoyais.",
+   "brut_fr": "La relation de Lisa avec son père est\ntendue. Quelle charge d'avoir un enfant si\nrebelle. Le pauvre homme.[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino Mon père\nest parti avec une autre femme...[1205][001E] Je lui\ncasserais la gueule si je le [1205][U+000F] revoyais.",
    "brut_en": "Lisa's[SP]relationship[SP]with[SP]her[SP]father[SP]seems\nstrained.[SP]What[SP]a[SP]burden[SP]for[SP]her[SP]parents[SP]to\nhave[SP]such[SP]a[SP]rebellious[SP]child.[SP]The[SP]poor[SP]man.[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nMy[SP]dad[SP]ran[SP]off[SP]one[SP]day[SP]with[SP]another[SP]woman...[1205][001E]\nI'd[SP]only[SP]kick[SP]his[SP]ass[SP]if[SP]I[SP]ever[SP]saw[SP]him[SP]again.",
    "data_size": 492,
    "budget": 484
@@ -1344,7 +1326,7 @@
    "choix_fr": {
     "options": [
      "Poser une question sur le tirage",
-     "Parler avec le père de Ginko[1205]",
+     "Parler avec le père de Ginko",
      "Rien"
     ],
     "question": [
@@ -1365,7 +1347,7 @@
      }
     ]
    },
-   "brut_fr": "Avez-vous quelque chose à me dire?\n[1208][U+0003]Poser une question sur le tirage\nParler avec le père de Ginko[1205][U+000F]\nRien",
+   "brut_fr": "Avez-vous quelque chose à me dire?\n[1208][U+0003]Poser une question sur le tirage\nParler avec le père de Ginko\nRien",
    "brut_en": "Is[SP]there[SP]something[SP]you[SP]wish[SP]to[SP]discuss[SP]with[SP]me?\n[1208][U+0003]Ask[SP]about[SP]the[SP]sweepstakes\nTalk[SP]with[SP]Ginko's[SP]father\nNothing",
    "data_size": 258,
    "budget": 250
@@ -1572,13 +1554,7 @@
        "nl": true
       },
       {
-       "enc": "Malheureusement, vous n'êtes pas gagnant"
-      },
-      {
-       "nl": true
-      },
-      {
-       "enc": "cette fois. Tentez à nouveau votre chance!"
+       "enc": "Malheureusement, vous n'êtes pas gagnantcette fois. Tentez à nouveau votre chance!"
       }
      ]
     }
@@ -1619,7 +1595,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci\na été livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnant\ncette fois. Tentez à nouveau votre chance![1432][NULL][NULL][0014]",
+   "brut_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci\na été livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnant[1101]cette fois. Tentez à nouveau votre chance![1432][NULL][NULL][0014]",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
    "data_size": 516,
    "budget": 508
@@ -1654,13 +1630,7 @@
        "nl": true
       },
       {
-       "enc": "Félicitations! Vous avez été sélectionné"
-      },
-      {
-       "nl": true
-      },
-      {
-       "enc": "gagnant!> "
+       "enc": "Félicitations! Vous avez été sélectionnégagnant!> "
       },
       {
        "t": "Veuillez accepter ceci "
@@ -1749,7 +1719,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci a\nété livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nFélicitations! Vous avez été sélectionné\ngagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter ceci [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002][1205][U+000F] en guise\nde prix. Tentez à nouveau votre chance![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez plus de place pour un autre[1205][U+000F] [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
+   "brut_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci a\nété livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nFélicitations! Vous avez été sélectionné[1101]gagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter ceci [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002][1205][U+000F] en guise\nde prix. Tentez à nouveau votre chance![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez plus de place pour un autre[1205][U+000F] [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
    "brut_en": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner![E1][E2][E3]>[SP][1432][NULL][NULL][0014]Please[SP]accept[SP]this[SP][E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nas[SP]your[SP]prize.[SP]We[SP]encourage[SP]you[SP]to[SP]continue\nentering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014][E1][E2][E3]>[SP]You[SP]have[SP]no[SP]room[SP]for[SP]another\n[E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
    "data_size": 742,
    "budget": 734

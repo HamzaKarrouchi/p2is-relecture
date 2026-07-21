@@ -236,19 +236,19 @@
        "nl": true
       },
       {
-       "t": "à l'épaule? "
-      },
-      {
-       "pause": true
-      },
-      {
-       "t": " "
+       "t": "à l'épaule?"
       }
      ]
     },
     {
-     "nom": "Eikichi J-Je veux dire, tu",
+     "nom": "Eikichi",
      "seg": [
+      {
+       "t": "J-Je veux dire, tu"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "fais ça depuis le Caracol..."
       },
@@ -256,13 +256,7 @@
        "pause": true
       },
       {
-       "t": "< Pourquoi"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "on ne laisserait "
+       "t": "< Pourquoion ne laisserait "
       },
       {
        "pause": true
@@ -338,7 +332,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "H-Hey là! Pourquoi tu te tiens comme ça\nà l'épaule? [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Eikichi J-Je veux dire, tu\nfais ça depuis le Caracol...[1205]< Pourquoi\non ne laisserait [1205][U+000F] pas Mr. Tomi y jeter\nun coup d'oeil![1205][001E] J-Je plaisante...",
+   "brut_fr": "H-Hey là! Pourquoi tu te tiens comme ça\nà l'épaule?[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nJ-Je veux dire, tu\nfais ça depuis le Caracol...[1205]< Pourquoi[1101]on ne laisserait [1205][U+000F] pas Mr. Tomi y jeter\nun coup d'oeil![1205][001E] J-Je plaisante...",
    "brut_en": "H-Hey[SP]there![SP]What're[SP]you[SP]holding[SP]onto[SP]your\nshoulder[SP]like[SP]that[SP]for?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nI-I[SP]mean,[SP]you've[SP]been[SP]doing[SP]that[SP]ever[SP]since\nthe[SP]Caracol...[1205]<[SP]Why[SP]don't[SP]we[SP]have[SP]Mr.[SP]Tomi\ntake[SP]a[SP]look[SP]at[SP]it![1205][001E][SP]J-Just[SP]kidding...",
    "data_size": 446,
    "budget": 438

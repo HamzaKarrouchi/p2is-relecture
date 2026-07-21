@@ -1387,7 +1387,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Manger ici[1205]",
+     "Manger ici",
      "Parler au gamin",
      "Laisser tomber",
      "Quitter"
@@ -1435,7 +1435,7 @@
      }
     ]
    },
-   "brut_fr": "Hé.[1205][U+000F] Tu surfs si tôt?\nT'as du temps à perdre. Bref.\n[1208][U+0004]Manger ici[1205][U+000F]\nParler au gamin\nLaisser tomber\nQuitter",
+   "brut_fr": "Hé.[1205][U+000F] Tu surfs si tôt?\nT'as du temps à perdre. Bref.\n[1208][U+0004]Manger ici\nParler au gamin\nLaisser tomber\nQuitter",
    "brut_en": "Hey.[1205][U+000F][SP]Surfing[SP]the[SP]net[SP]this[SP]early[SP]in[SP]the[SP]day?\nMust[SP]have[SP]a[SP]lot[SP]of[SP]time[SP]on[SP]your[SP]hands.[SP]Whatevs.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
    "data_size": 312,
    "budget": 304
@@ -1467,7 +1467,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler du repas[1205]",
+     "Parler du repas",
      "Sélection cachée"
     ],
     "question": [
@@ -1488,7 +1488,7 @@
      }
     ]
    },
-   "brut_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "Yeah,[SP]what's[SP]up.\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 186,
    "budget": 178
@@ -1532,7 +1532,7 @@
    "choix_fr": {
     "options": [
      "Manger ici",
-     "Parler[1205]",
+     "Parler",
      "Laisser tomber",
      "Quitter"
     ],
@@ -1567,7 +1567,7 @@
      }
     ]
    },
-   "brut_fr": "Ouais...[1205][U+000F] Tout?\n[1208][U+0004]Manger ici\nParler[1205][U+000F]\nLaisser tomber\nQuitter",
+   "brut_fr": "Ouais...[1205][U+000F] Tout?\n[1208][U+0004]Manger ici\nParler\nLaisser tomber\nQuitter",
    "brut_en": "Sure...[1205][U+000F][SP]Was[SP]that[SP]it?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
    "data_size": 170,
    "budget": 162
@@ -1599,7 +1599,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler du repas[1205]",
+     "Parler du repas",
      "Sélection cachée"
     ],
     "question": [
@@ -1620,7 +1620,7 @@
      }
     ]
    },
-   "brut_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "Yeah,[SP]what's[SP]up.\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 186,
    "budget": 178
@@ -1990,13 +1990,7 @@
        "pause": true
       },
       {
-       "t": " On sait rien de lui, mais il"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "collecte des rumeurs dans un but précis."
+       "t": " On sait rien de lui, mais ilcollecte des rumeurs dans un but précis."
       }
      ]
     }
@@ -2040,7 +2034,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Première visite.[1205][U+000F] Moi c'est Baofu. Je gère\nce site.[E1][E2] Baofu Colporteur en ligne avec son\npropre site.[1205][U+000F] On sait rien de lui, mais il\ncollecte des rumeurs dans un but précis.",
+   "brut_fr": "Première visite.[1205][U+000F] Moi c'est Baofu. Je gère\nce site.[E1][E2] Baofu Colporteur en ligne avec son\npropre site.[1205][U+000F] On sait rien de lui, mais il[1101]collecte des rumeurs dans un but précis.",
    "brut_en": "Looks[SP]like[SP]this[SP]is[SP]your[SP]first[SP]time[SP]here.[1205][U+000F]\nName's[SP]Baofu.[SP]I[SP]run[SP]this[SP]website.[E1][E2]Baofu\nAn[SP]online[SP]rumormonger[SP]with[SP]his[SP]own[SP]rumor[SP]site.\nNothing[SP]is[SP]known[SP]about[SP]him,[SP]but[SP]he[SP]seems[SP]to\nbe[SP]gathering[SP]rumors[SP]for[SP]a[SP]specific[SP]purpose.",
    "data_size": 452,
    "budget": 444
@@ -2243,31 +2237,31 @@
    "choix_fr": {
     "options": [
      "Demander des rumeurs",
-     "Parler avec Baofu[1205]",
+     "Parler avec Baofu",
      "Annuler",
      "[1109][E2][E3]> Choisis un sujet.",
-     "[1208]Rumeurs armureries[1205]",
+     "[1208]Rumeurs armureries",
      "Rumeurs armures",
      "Autres rumeurs",
-     "Rien[1205]",
+     "Rien",
      "[1109][E2][E3]> Choisis une région.",
      "[1208]Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
-     "Aucune[1205]",
+     "Aucune",
      "[1109][E2][E3]> Choisis une région.",
      "[1208]Rengedai",
-     "Yumezaki[1205]",
+     "Yumezaki",
      "Aoba",
      "Kounan",
-     "Aucune[1205]",
+     "Aucune",
      "[1109][E2][E3]> Choisis un sujet.",
      "[1208]Rumeurs concours",
-     "Rumeurs Mu[1205]",
+     "Rumeurs Mu",
      "Rumeurs armes légendaires",
      "Aucune",
-     "[1109][E2][E3]> Vérifié.[1205]",
+     "[1109][E2][E3]> Vérifié.",
      "Soumettre les infos.",
      "Après envoi, patientez."
     ],
@@ -2314,7 +2308,7 @@
      }
     ]
    },
-   "brut_fr": "Te revoilà.[E1][E2][E3]> Choisis une option.\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler avec Baofu[1205][U+000F]\nAnnuler\n[1109][E2][E3]> Choisis un sujet.\n[1208][U+0004][1210][U+0476]Rumeurs armureries[1205][U+000F]\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien[1205][U+000F]\n[1109][E2][E3]> Choisis une région.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune[1205][U+000F]\n[1109][E2][E3]> Choisis une région.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki[1205][U+000F]\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucune[1205][U+000F]\n[1109][E2][E3]> Choisis un sujet.\n[1208][U+0004][1210][U+0472]Rumeurs concours\n[1210][U+0473]Rumeurs Mu[1205][U+000F]\n[1210][U+0474]Rumeurs armes légendaires\nAucune\n[1109][E2][E3]> Vérifié.[1205][U+000F]\nSoumettre les infos.\nAprès envoi, patientez.",
+   "brut_fr": "Te revoilà.[E1][E2][E3]> Choisis une option.\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler avec Baofu\nAnnuler\n[1109][E2][E3]> Choisis un sujet.\n[1208][U+0004][1210][U+0476]Rumeurs armureries\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien\n[1109][E2][E3]> Choisis une région.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune\n[1109][E2][E3]> Choisis une région.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucune\n[1109][E2][E3]> Choisis un sujet.\n[1208][U+0004][1210][U+0472]Rumeurs concours\n[1210][U+0473]Rumeurs Mu\n[1210][U+0474]Rumeurs armes légendaires\nAucune\n[1109][E2][E3]> Vérifié.\nSoumettre les infos.\nAprès envoi, patientez.",
    "brut_en": "Hey,[SP]you're[SP]back.[E1][E2][E3]>[SP]Select[SP]an[SP]option.\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Baofu\nCancel\n[1109][E2][E3]>[SP]Select[SP]a[SP]topic.\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]subject.\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them\n[1109][E2][E3]>[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait.",
    "data_size": 994,
    "budget": 986
@@ -3194,13 +3188,7 @@
        "hl": "Donnée à une femme?"
       },
       {
-       "t": "> Notes: Le proprio"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "l'aurait donnée à une femme aux cheveux"
+       "t": "> Notes: Le propriol'aurait donnée à une femme aux cheveux"
       },
       {
        "nl": true
@@ -3292,7 +3280,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Endroit:[1205][U+000F][E4][NULL][NULL][U+0006] Rengedai - Time Castle[E4][NULL][NULL][0002][1205][U+000F] Rumeur:[1205][U+000F][E4][NULL][NULL][U+0006]\nArme légendaire vendue là[E4][NULL][NULL][0002][1205][U+000F] Commentaires:[1205][U+000F][E4][NULL][NULL][U+0006]\nDonnée à une femme?[E4][NULL][NULL][0002][E1][E2]> Notes: Le proprio\nl'aurait donnée à une femme aux cheveux\ncourts.[1205][U+000F] Personne ne sait qui c'est.",
+   "brut_fr": "Endroit:[1205][U+000F][E4][NULL][NULL][U+0006] Rengedai - Time Castle[E4][NULL][NULL][0002][1205][U+000F] Rumeur:[1205][U+000F][E4][NULL][NULL][U+0006]\nArme légendaire vendue là[E4][NULL][NULL][0002][1205][U+000F] Commentaires:[1205][U+000F][E4][NULL][NULL][U+0006]\nDonnée à une femme?[E4][NULL][NULL][0002][E1][E2]> Notes: Le proprio[1101]l'aurait donnée à une femme aux cheveux\ncourts.[1205][U+000F] Personne ne sait qui c'est.",
    "brut_en": "Location:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Rengedai[SP]-[SP]Time[SP]Castle[E4][NULL][NULL][0002][1205][U+000F]\nRumor:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Legendary[SP]weapon[SP]sold[SP]there[E4][NULL][NULL][0002][1205][U+000F]\nComments:[1205][U+000F][E4][NULL][NULL][U+0006][SP]Given[SP]away[SP]to[SP]a[SP]woman?[E4][NULL][NULL][0002][E1][E2]>[SP]Notes:\nIt[SP]seems[SP]the[SP]owner[SP]gave[SP]it[SP]away[SP]to[SP]a[SP]woman\nwith[SP]short[SP]hair.[1205][U+000F][SP]No[SP]one[SP]knows[SP]who[SP]this\nwoman[SP]might[SP]be.",
    "data_size": 534,
    "budget": 526
@@ -8764,7 +8752,7 @@
        "nl": true
       },
       {
-       "t": "parlent. J'espère que c'est une fantaisie—"
+       "t": "parlent. J'espère que c'est une fantaisie-"
       },
       {
        "nl": true
@@ -8799,7 +8787,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Selon les rumeurs, les fleurs du parc Aoba\nparlent. J'espère que c'est une fantaisie—\ntrop effrayant si c'était vrai.",
+   "brut_fr": "Selon les rumeurs, les fleurs du parc Aoba\nparlent. J'espère que c'est une fantaisie-\ntrop effrayant si c'était vrai.",
    "brut_en": "According[SP]to[SP]the[SP]rumors,[SP]the[SP]flowers[SP]at[SP]Aoba\nPark[SP]can[SP]talk.[SP]I[SP]hope[SP]that's[SP]just[SP]someone's\nfantasy--it'd[SP]be[SP]too[SP]scary[SP]if[SP]it[SP]was[SP]real.",
    "data_size": 288,
    "budget": 280
@@ -8873,7 +8861,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -8905,7 +8893,7 @@
      }
     ]
    },
-   "brut_fr": "Ça fait [120E][NULL] yens.\nVous le voulez?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Ça fait [120E][NULL] yens.\nVous le voulez?\n[1208][0002]Oui\nNon",
    "brut_en": "That's[SP][120E][NULL][SP]yen[SP]in[SP]total.\nDo[SP]you[SP]want[SP]it?\n[1208][0002]Yes\nNo",
    "data_size": 128,
    "budget": 120

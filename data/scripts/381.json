@@ -925,7 +925,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Propager rumeurs[1205]",
+     "Propager rumeurs",
      "Vérifier rumeurs",
      "Parler",
      "Annuler"
@@ -961,7 +961,7 @@
      }
     ]
    },
-   "brut_fr": "L'ordre est important. Ici, on suit les \nrègles.\n[1208][U+0004]Propager rumeurs[1205][U+000F]\nVérifier rumeurs\nParler\nAnnuler",
+   "brut_fr": "L'ordre est important. Ici, on suit les \nrègles.\n[1208][U+0004]Propager rumeurs\nVérifier rumeurs\nParler\nAnnuler",
    "brut_en": "Order[SP]is[SP]important[SP]no[SP]matter[SP]what[SP]you're[SP]trying\nto[SP]accomplish.[SP]We[SP]do[SP]things[SP]by[SP]the[SP]book[SP]here.\n[1208][U+0004]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel",
    "data_size": 340,
    "budget": 332
@@ -993,7 +993,7 @@
    "choix_fr": {
     "options": [
      "Parler",
-     "Infos rumeurs[1205]",
+     "Infos rumeurs",
      "Sélection non affichée"
     ],
     "question": [
@@ -1014,7 +1014,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Parler\nInfos rumeurs[1205][U+000F]\n[1210][NULL]Sélection non affichée",
+   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Parler\nInfos rumeurs\n[1210][NULL]Sélection non affichée",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
    "data_size": 204,
    "budget": 196
@@ -1107,7 +1107,7 @@
    "choix_fr": {
     "options": [
      "Propager rumeurs",
-     "Vérifier rumeurs[1205]",
+     "Vérifier rumeurs",
      "Parler",
      "Annuler"
     ],
@@ -1130,7 +1130,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0004]Propager rumeurs\nVérifier rumeurs[1205][U+000F]\nParler\nAnnuler",
+   "brut_fr": "Autre chose?\n[1208][U+0004]Propager rumeurs\nVérifier rumeurs\nParler\nAnnuler",
    "brut_en": "Anything[SP]else?\n[1208][U+0004]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel",
    "data_size": 182,
    "budget": 174
@@ -1162,7 +1162,7 @@
    "choix_fr": {
     "options": [
      "Parler",
-     "Infos rumeurs[1205]",
+     "Infos rumeurs",
      "Sélection non affichée"
     ],
     "question": [
@@ -1183,7 +1183,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Parler\nInfos rumeurs[1205][U+000F]\n[1210][NULL]Sélection non affichée",
+   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Parler\nInfos rumeurs\n[1210][NULL]Sélection non affichée",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
    "data_size": 204,
    "budget": 196
@@ -2385,7 +2385,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -2417,7 +2417,7 @@
      }
     ]
    },
-   "brut_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui\nNon",
    "brut_en": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
    "data_size": 182,
    "budget": 174
@@ -2460,7 +2460,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -2492,7 +2492,7 @@
      }
     ]
    },
-   "brut_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui\nNon",
    "brut_en": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
    "data_size": 206,
    "budget": 198

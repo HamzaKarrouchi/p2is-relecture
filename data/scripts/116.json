@@ -612,15 +612,21 @@
       },
       {
        "t": " Triste rappel du karma humain..."
-      },
-      {
-       "pause": true
       }
      ]
     },
     {
-     "nom": "Yukino Désolée...[1205][001E] Je sais que vous",
+     "nom": "Yukino Désolée...",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "t": " Je sais que vous"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "vous inquiétez pour Jun,"
       },
@@ -683,7 +689,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Le Führer aurait survécu plus de 50\nans...[1205][001E] Triste rappel du karma humain...[E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Yukino Désolée...[1205][001E] Je sais que vous\nvous inquiétez pour Jun,[1205][U+000F] mais...",
+   "brut_fr": "Le Führer aurait survécu plus de 50\nans...[1205][001E] Triste rappel du karma humain...[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino Désolée...\n[1205][001E] Je sais que vous\nvous inquiétez pour Jun,[1205][U+000F] mais...",
    "brut_en": "The[SP]returning[SP]Fuhrer,[SP]rumored[SP]to[SP]be[SP]alive[SP]for\nover[SP]50[SP]years...[1205][001E][SP]It's[SP]a[SP]sorry[SP]reminder[SP]of\nmankind's[SP]karma...[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nI'm[SP]sorry...[1205][001E][SP]I[SP]know[SP]you[SP]guys[SP]must[SP]be[SP]worried\nabout[SP]Jun,[SP]but...",
    "data_size": 394,
    "budget": 386

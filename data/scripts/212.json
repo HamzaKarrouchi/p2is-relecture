@@ -15,8 +15,14 @@
      ]
     },
     {
-     "nom": "Maman de Jun[1205][U+000F]",
+     "nom": "Maman de Jun",
      "seg": [
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
       {
        "t": "Merci Jun. C'est un "
       },
@@ -58,7 +64,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'était magnifique, Mère. [E1][E2] [E3][E4][NULL][NULL]\"Maman de Jun[1205][U+000F]\nMerci Jun. C'est un [E4][NULL][NULL][U+0006]pois de senteur[E4][NULL][NULL][0002], tu vois?",
+   "brut_fr": "C'était magnifique, Mère. [E1][E2] [E3][E4][NULL][NULL]\"Maman de Jun\n[1205][U+000F]\nMerci Jun. C'est un [E4][NULL][NULL][U+0006]pois de senteur[E4][NULL][NULL][0002], tu vois?",
    "brut_en": "That[SP]was[SP]a[SP]wonderful[SP]performance,[SP]Mother.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun's[SP]mother\nThank[SP]you,[SP]Jun.[SP]This[SP]is[SP]a[SP][E4][NULL][NULL][U+0006]sweet[SP]pea[E4][NULL][NULL][0002],[SP]yes?",
    "data_size": 244,
    "budget": 236

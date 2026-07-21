@@ -2409,10 +2409,10 @@
    ],
    "choix_fr": {
     "options": [
-     "Acheter armes[1205]",
+     "Acheter armes",
      "Acheter accessoires",
      "Vendre objets",
-     "Dîner ici[1205]",
+     "Dîner ici",
      "Parler au Garçon",
      "Non merci",
      "Quitter"
@@ -2457,7 +2457,7 @@
      }
     ]
    },
-   "brut_fr": "Bienvenue au Clair de Lune.[1205][U+000F]\nQue puis-je faire pour vous?\n[1208][U+0007][1210][U+03BC]Acheter armes[1205][U+000F]\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici[1205][U+000F]\nParler au Garçon\nNon merci\nQuitter",
+   "brut_fr": "Bienvenue au Clair de Lune.[1205][U+000F]\nQue puis-je faire pour vous?\n[1208][U+0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler au Garçon\nNon merci\nQuitter",
    "brut_en": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][U+000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][U+0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
    "data_size": 368,
    "budget": 360
@@ -2489,10 +2489,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -2518,7 +2518,7 @@
      }
     ]
    },
-   "brut_fr": "Que pouvez-vous me vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Que pouvez-vous me vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 324,
    "budget": 316
@@ -2550,13 +2550,13 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Parler du repas",
      "Sélection cachée",
-     "[1109][E2][E3][121D]ATTENTION[E4][1205]",
+     "[1109][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
      "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
-     "Aucun bit actif. Vérifiez ceci.[1205]",
+     "Aucun bit actif. Vérifiez ceci.",
      "-Kanada"
     ],
     "question": [
@@ -2583,7 +2583,7 @@
      }
     ]
    },
-   "brut_fr": "Que vouliez-vous demander?\n[1208][U+0004]Bavarder\n[1210][U+03BC]Parler boutique[1205][U+000F]\nParler du repas\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002][1205][U+000F]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada",
+   "brut_fr": "Que vouliez-vous demander?\n[1208][U+0004]Bavarder\n[1210][U+03BC]Parler boutique\nParler du repas\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
    "brut_en": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][U+0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
    "data_size": 504,
    "budget": 496
@@ -2615,10 +2615,10 @@
    "choix_fr": {
     "options": [
      "Acheter armes",
-     "Acheter accessoires[1205]",
+     "Acheter accessoires",
      "Vendre objets",
      "Dîner ici",
-     "Parler au Garçon[1205]",
+     "Parler au Garçon",
      "Non merci",
      "Quitter"
     ],
@@ -2644,7 +2644,7 @@
      }
     ]
    },
-   "brut_fr": "Il vous faudra autre chose?\n[1208][U+0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires[1205][U+000F]\n[1210][U+03BC]Vendre objets\nDîner ici\nParler au Garçon[1205][U+000F]\nNon merci\nQuitter",
+   "brut_fr": "Il vous faudra autre chose?\n[1208][U+0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler au Garçon\nNon merci\nQuitter",
    "brut_en": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]assist[SP]you[SP]with?\n[1208][U+0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]with[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
    "data_size": 318,
    "budget": 310
@@ -2676,10 +2676,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -2705,7 +2705,7 @@
      }
     ]
    },
-   "brut_fr": "Que pouvez-vous me vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Que pouvez-vous me vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 324,
    "budget": 316
@@ -2737,7 +2737,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Parler du repas",
      "Sélection cachée"
     ],
@@ -2760,7 +2760,7 @@
      }
     ]
    },
-   "brut_fr": "Que vouliez-vous demander?\n[1208][U+0004]Bavarder\n[1210][U+03BC]Parler boutique[1205][U+000F]\nParler du repas\n[1210][U+0100]Sélection cachée",
+   "brut_fr": "Que vouliez-vous demander?\n[1208][U+0004]Bavarder\n[1210][U+03BC]Parler boutique\nParler du repas\n[1210][U+0100]Sélection cachée",
    "brut_en": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][U+0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
    "data_size": 268,
    "budget": 260
@@ -3214,13 +3214,7 @@
        "pause": true
       },
       {
-       "t": " votre"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "cœur..."
+       "t": " votrecœur..."
       }
      ]
     }
@@ -3249,7 +3243,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Je vous attendrai toujours ici, avec des\nserviettes propres et des verres de vin. Tant\nque cet endroit a une place dans [1205][U+000F] votre\ncœur...",
+   "brut_fr": "Je vous attendrai toujours ici, avec des\nserviettes propres et des verres de vin. Tant\nque cet endroit a une place dans [1205][U+000F] votre[1101]cœur...",
    "brut_en": "I[SP]will[SP]always[SP]be[SP]awaiting[SP]your[SP]visits,[SP]with\nwhite[SP]napkins[SP]and[SP]clean[SP]wine[SP]glasses.[SP]So[SP]long\nas[SP]this[SP]restaurant[SP]has[SP]a[SP]place[SP]in[SP]your[SP]heart...",
    "data_size": 314,
    "budget": 306
@@ -3482,7 +3476,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -3514,7 +3508,7 @@
      }
     ]
    },
-   "brut_fr": "Cela fera [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Cela fera [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui\nNon",
    "brut_en": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?\n[1208][0002]Yes\nNo",
    "data_size": 150,
    "budget": 142
@@ -4453,7 +4447,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -4485,7 +4479,7 @@
      }
     ]
    },
-   "brut_fr": "Cela fera [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Cela fera [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui\nNon",
    "brut_en": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?\n[1208][0002]Yes\nNo",
    "data_size": 150,
    "budget": 142

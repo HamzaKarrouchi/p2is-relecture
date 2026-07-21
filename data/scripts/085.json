@@ -1726,13 +1726,7 @@
        "pause": true
       },
       {
-       "t": " les Bolontiku, contrôlent"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "Xibalba..."
+       "t": " les Bolontiku, contrôlentXibalba..."
       }
      ]
     }
@@ -1767,7 +1761,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais les anciens Maïens d'ici sont morts dans\nune guerre civile intergalactique...[1205][001E] Les\nvainqueurs,[1205][U+000F] les Bolontiku, contrôlent\nXibalba...",
+   "brut_fr": "Mais les anciens Maïens d'ici sont morts dans\nune guerre civile intergalactique...[1205][001E] Les\nvainqueurs,[1205][U+000F] les Bolontiku, contrôlent[1101]Xibalba...",
    "brut_en": "But[SP]the[SP]ancient[SP]Maians[SP]that[SP]thrived[SP]here[SP]died\nin[SP]an[SP]intergalactic[SP]civil[SP]war...[1205][001E][SP]The[SP]victors[SP]were\nthe[SP]Bolontiku[SP]race[SP]that[SP]controls[SP]Xibalba...",
    "data_size": 314,
    "budget": 306
@@ -1871,8 +1865,14 @@
      ]
     },
     {
-     "nom": "Mme Idéale Car quand l'Oracle sera",
+     "nom": "Mme Idéale",
      "seg": [
+      {
+       "t": "Car quand l'Oracle sera"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "accompli,"
       },
@@ -1941,7 +1941,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Q-Quelle imagination...[1205][001E] Pourquoi le Cercle\nmasqué et le Bataillon veulent ce Xibalba?[1205][U+000F]\n[E1][E2][E3][E4][NULL][NULL]\"Mme Idéale Car quand l'Oracle sera\naccompli,[1205][U+000F] Xibalba et les crânes de cristal\nexauceront le rêve de l'humanité...",
+   "brut_fr": "Q-Quelle imagination...[1205][001E] Pourquoi le Cercle\nmasqué et le Bataillon veulent ce Xibalba?[1205][U+000F]\n[E1][E2][E3][E4][NULL][NULL]\"Mme Idéale\nCar quand l'Oracle sera\naccompli,[1205][U+000F] Xibalba et les crânes de cristal\nexauceront le rêve de l'humanité...",
    "brut_en": "T-Talk[SP]about[SP]a[SP]fertile[SP]imagination...[1205][001E]\nSo[SP]why[SP]is[SP]the[SP]Masked[SP]Circle[SP]and[SP]Last\nBattalion[SP]after[SP]this[SP]Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nBecause[SP]when[SP]the[SP]Oracle[SP]is[SP]fulfilled,\nXibalba[SP]and[SP]the[SP]crystal[SP]skulls[SP]will[SP]grant\nmankind's[SP]ultimate[SP]dream...",
    "data_size": 490,
    "budget": 482
@@ -2266,13 +2266,7 @@
        "pause": true
       },
       {
-       "t": " ou vous raterez quelque"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "chose!"
+       "t": " ou vous raterez quelquechose!"
       }
      ]
     }
@@ -2301,7 +2295,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il est rempli de vérités choquantes, du\nBataillon au gigantesque OVNI lié à ces\nincidents. Lisez-le,[1205][U+000F] ou vous raterez quelque\nchose!",
+   "brut_fr": "Il est rempli de vérités choquantes, du\nBataillon au gigantesque OVNI lié à ces\nincidents. Lisez-le,[1205][U+000F] ou vous raterez quelque[1101]chose!",
    "brut_en": "It's[SP]full[SP]of[SP]shocking[SP]truths,[SP]from[SP]the[SP]Last\nBattalion[SP]to[SP]a[SP]giant[SP]UFO[SP]that[SP]ties[SP]into[SP]these\nincidents.[SP]Read[SP]it,[SP]or[SP]you'll[SP]be[SP]missing[SP]out!",
    "data_size": 322,
    "budget": 314
@@ -3537,7 +3531,7 @@
    "choix_fr": {
     "options": [
      "Participer aux concours",
-     "Parler à Tamaki[1205]",
+     "Parler à Tamaki",
      "Rien",
      "Quitter l'agence"
     ],
@@ -3560,7 +3554,7 @@
      }
     ]
    },
-   "brut_fr": "Bonjour! Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki[1205][U+000F]\nRien\nQuitter l'agence",
+   "brut_fr": "Bonjour! Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\nQuitter l'agence",
    "brut_en": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
    "data_size": 264,
    "budget": 256
@@ -3592,7 +3586,7 @@
    "choix_fr": {
     "options": [
      "Participer aux concours",
-     "Parler à Tamaki[1205]",
+     "Parler à Tamaki",
      "Rien",
      "Quitter l'agence"
     ],
@@ -3615,7 +3609,7 @@
      }
     ]
    },
-   "brut_fr": "Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki[1205][U+000F]\nRien\n[1210][U+0159]Quitter l'agence",
+   "brut_fr": "Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\n[1210][U+0159]Quitter l'agence",
    "brut_en": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
    "data_size": 238,
    "budget": 230
@@ -3647,7 +3641,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur les concours[1205]",
+     "Sur les concours",
      "Rien"
     ],
     "question": [
@@ -3668,7 +3662,7 @@
      }
     ]
    },
-   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nSur les concours[1205][U+000F]\nRien",
+   "brut_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nSur les concours\nRien",
    "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
    "data_size": 192,
    "budget": 184
@@ -4755,7 +4749,7 @@
    "choix_fr": {
     "options": [
      "L'In Lak'ech",
-     "Le Bataillon[1205]",
+     "Le Bataillon",
      "La laisser seule"
     ],
     "question": [
@@ -4776,7 +4770,7 @@
      }
     ]
    },
-   "brut_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon[1205][U+000F]\nLa laisser seule",
+   "brut_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon\nLa laisser seule",
    "brut_en": "What[SP]should[SP]I[SP]do...!?\n[1208][U+0003]Ask[SP]about[SP]the[SP]In[SP]Lak'ech\nAsk[SP]about[SP]the[SP]Last[SP]Battalion\nLeave[SP]her[SP]be",
    "data_size": 212,
    "budget": 204
@@ -4851,7 +4845,7 @@
    "choix_fr": {
     "options": [
      "Sur Kashihara",
-     "Sur Sudou[1205]",
+     "Sur Sudou",
      "Le contenu",
      "Les Maïens",
      "L'Énergie Idéale"
@@ -4876,7 +4870,7 @@
      }
     ]
    },
-   "brut_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou[1205][U+000F]\nLe contenu\nLes Maïens\nL'Énergie Idéale",
+   "brut_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maïens\nL'Énergie Idéale",
    "brut_en": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?\n[1208][U+0005]About[SP]Kashihara\nAbout[SP]Sudou\nAbout[SP]its[SP]contents\nAbout[SP]Maians\nAbout[SP]Ideal[SP]Energy",
    "data_size": 286,
    "budget": 278
@@ -6530,13 +6524,7 @@
        "pause": true
       },
       {
-       "t": " ruines du monde"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "entier!"
+       "t": " ruines du mondeentier!"
       }
      ]
     }
@@ -6571,7 +6559,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Il l'a dit! C'est un sorcier immortel ayant\nappris la magie de mystiques mayas. Il\nconvoitait les secrets des[1205][U+000F] ruines du monde\nentier!",
+   "brut_fr": "Il l'a dit! C'est un sorcier immortel ayant\nappris la magie de mystiques mayas. Il\nconvoitait les secrets des[1205][U+000F] ruines du monde[1101]entier!",
    "brut_en": "He[SP]said[SP]so[SP]himself![1205][001E][SP]He's[SP]an[SP]immortal[SP]sorcerer\nwho[SP]learned[SP]magic[SP]from[SP]Mayan[SP]mystics.[SP]He\ncraved[SP]the[SP]secrets[SP]of[SP]ruins[SP]around[SP]the[SP]world!",
    "data_size": 300,
    "budget": 292
@@ -7083,7 +7071,7 @@
     "options": [
      "Répandre rumeurs",
      "Vérifier rumeurs",
-     "Parler au Chef[1205]",
+     "Parler au Chef",
      "Annuler",
      "Quitter l'agence"
     ],
@@ -7152,7 +7140,7 @@
      }
     ]
    },
-   "brut_fr": "Le Cercle masqué et le Bataillon...[1205][001E]\nÇa pourrait être un problème.[1205][001E] Alors,\nquelle affaire vous amène?[1205][U+000F]\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef[1205][U+000F]\nAnnuler\n[1210][U+0159]Quitter l'agence",
+   "brut_fr": "Le Cercle masqué et le Bataillon...[1205][001E]\nÇa pourrait être un problème.[1205][001E] Alors,\nquelle affaire vous amène?[1205][U+000F]\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\n[1210][U+0159]Quitter l'agence",
    "brut_en": "The[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion...[1205][001E]\nThis[SP]could[SP]be[SP]a[SP]problem.[1205][001E][SP]Now,[SP]what[SP]business\ndo[SP]you[SP]have[SP]with[SP]us[SP]today?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
    "data_size": 448,
    "budget": 440
@@ -7184,7 +7172,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur les rumeurs[1205]",
+     "Sur les rumeurs",
      "Sélection cachée"
     ],
     "question": [
@@ -7205,7 +7193,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs[1205][U+000F]\n[1210][NULL]Sélection cachée",
+   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Sélection cachée",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
    "data_size": 204,
    "budget": 196
@@ -7237,7 +7225,7 @@
    "choix_fr": {
     "options": [
      "Répandre rumeurs",
-     "Vérifier rumeurs[1205]",
+     "Vérifier rumeurs",
      "Parler au Chef",
      "Annuler",
      "Quitter l'agence"
@@ -7262,7 +7250,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs[1205][U+000F]\nParler au Chef\nAnnuler\nQuitter l'agence",
+   "brut_fr": "Autre chose?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
    "brut_en": "Anything[SP]else?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
    "data_size": 240,
    "budget": 232
@@ -7294,7 +7282,7 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Sur les rumeurs[1205]",
+     "Sur les rumeurs",
      "Sélection cachée"
     ],
     "question": [
@@ -7315,7 +7303,7 @@
      }
     ]
    },
-   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs[1205][U+000F]\n[1210][NULL]Sélection cachée",
+   "brut_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Sélection cachée",
    "brut_en": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
    "data_size": 204,
    "budget": 196
@@ -8578,7 +8566,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -8610,7 +8598,7 @@
      }
     ]
    },
-   "brut_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui\nNon",
    "brut_en": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
    "data_size": 182,
    "budget": 174
@@ -8653,7 +8641,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -8685,7 +8673,7 @@
      }
     ]
    },
-   "brut_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui\nNon",
    "brut_en": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
    "data_size": 206,
    "budget": 198

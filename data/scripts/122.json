@@ -152,8 +152,20 @@
      ]
     },
     {
-     "nom": "Maya [1113]-kun...[1205][001E]",
+     "nom": "Maya",
      "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
       {
        "t": "Que faire pour Jun-kun?"
       },
@@ -161,13 +173,7 @@
        "pause": true
       },
       {
-       "t": " Je ne veux pas que"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "d'autres souffrent par ma faute..."
+       "t": " Je ne veux pas qued'autres souffrent par ma faute..."
       }
      ]
     }
@@ -234,7 +240,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "[1432][NULL][NULL][0014]Le cri du lion résonne au loin[1432][NULL][NULL][0014]...[1205][001E] La Grande\nCroix va vite commencer! Le Caracol doit\nêtre au sommet! Vite![1205][U+000F] [E1][E2] [E3][E4][NULL][NULL]\"Maya [1113]-kun...[1205][001E]\nQue faire pour Jun-kun?[1205][U+000F] Je ne veux pas que\nd'autres souffrent par ma faute...",
+   "brut_fr": "[1432][NULL][NULL][0014]Le cri du lion résonne au loin[1432][NULL][NULL][0014]...[1205][001E] La Grande\nCroix va vite commencer! Le Caracol doit\nêtre au sommet! Vite![1205][U+000F] [E1][E2] [E3][E4][NULL][NULL]\"Maya\n[1113]-kun...[1205][001E]\nQue faire pour Jun-kun?[1205][U+000F] Je ne veux pas que[1101]d'autres souffrent par ma faute...",
    "brut_en": "[1432][NULL][NULL][0014]The[SP]lion's[SP]roar[SP]echoes[SP]far[SP]and[SP]wide[1432][NULL][NULL][0014]...[1205][001E]\nThe[SP]Grand[SP]Cross[SP]will[SP]be[SP]starting[SP]soon!\nThe[SP]Caracol[SP]must[SP]be[SP]at[SP]the[SP]summit![SP]Hurry!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n[1113]-kun...[1205][001E][SP]What[SP]can[SP]I[SP]do[SP]for[SP]Jun-kun?\nI[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]suffer[SP]because\nof[SP]me...",
    "data_size": 486,
    "budget": 478

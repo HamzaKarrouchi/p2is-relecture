@@ -1661,7 +1661,7 @@
    "choix_fr": {
     "options": [
      "Acheter armures",
-     "Vendre objets[1205]",
+     "Vendre objets",
      "Parler",
      "Rien",
      "Quitter"
@@ -1686,7 +1686,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose?\n[1208][U+0005]Acheter armures\nVendre objets[1205][U+000F]\nParler\nRien\nQuitter",
+   "brut_fr": "Autre chose?\n[1208][U+0005]Acheter armures\nVendre objets\nParler\nRien\nQuitter",
    "brut_en": "Anything[SP]else?\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 208,
    "budget": 200
@@ -1718,10 +1718,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -1747,7 +1747,7 @@
      }
     ]
    },
-   "brut_fr": "Que voulez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Que voulez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 330,
    "budget": 322
@@ -1779,13 +1779,13 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée",
      "[1109][E2][E3][121D]ATTENTION[E4]",
-     "Aucun bit actif. Vérifiez ceci.[1205]",
+     "Aucun bit actif. Vérifiez ceci.",
      "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
-     "-Kanada[E1][E2][E3][121D]ATTENTION[E4][1205]",
+     "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
      "-Kanada"
     ],
@@ -1814,7 +1814,7 @@
      }
     ]
    },
-   "brut_fr": "Bien, que voulez-vous savoir?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002][1205][U+000F]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+   "brut_fr": "Bien, que voulez-vous savoir?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
    "brut_en": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
    "data_size": 572,
    "budget": 564
@@ -3113,13 +3113,7 @@
        "pause": true
       },
       {
-       "t": " de victoire? Alors"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "vous devez vous vêtir de fleurs."
+       "t": " de victoire? Alorsvous devez vous vêtir de fleurs."
       }
      ]
     }
@@ -3148,7 +3142,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est bien d'éparpiller bravement vos\npétales, mais ne préférez-vous pas\nêtre une fleur [1205][U+000F] de victoire? Alors\nvous devez vous vêtir de fleurs.",
+   "brut_fr": "C'est bien d'éparpiller bravement vos\npétales, mais ne préférez-vous pas\nêtre une fleur [1205][U+000F] de victoire? Alors[1101]vous devez vous vêtir de fleurs.",
    "brut_en": "It's[SP]one[SP]thing[SP]to[SP]scatter[SP]your[SP]petals[SP]bravely,\nbut[SP]wouldn't[SP]you[SP]rather[SP]blossom[SP]as[SP]a[SP]flower[SP]of\nvictory?[SP]Then[SP]you[SP]must[SP]clad[SP]yourself[SP]in[SP]blooms.",
    "data_size": 314,
    "budget": 306
@@ -3997,13 +3991,7 @@
        "nl": true
       },
       {
-       "t": "décents. Je gagne peu, mais je paie à"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "crédit..."
+       "t": "décents. Je gagne peu, mais je paie àcrédit..."
       }
      ]
     }
@@ -4032,7 +4020,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "Mais ne détestez-vous pas qu'on vous juge pour\nça? C'est pourquoi je veux des vêtements[1205][U+000F]\ndécents. Je gagne peu, mais je paie à\ncrédit...",
+   "brut_fr": "Mais ne détestez-vous pas qu'on vous juge pour\nça? C'est pourquoi je veux des vêtements[1205][U+000F]\ndécents. Je gagne peu, mais je paie à[1101]crédit...",
    "brut_en": "But[SP]wouldn't[SP]you[SP]hate[SP]for[SP]people[SP]to[SP]think[SP]less\nof[SP]you[SP]for[SP]that?[SP]That's[SP]why[SP]I[SP]want[SP]some[SP]decent\nclothes.[SP]My[SP]pay's[SP]low,[SP]but[SP]I[SP]can[SP]charge[SP]it...",
    "data_size": 316,
    "budget": 308
@@ -4341,13 +4329,7 @@
        "pause": true
       },
       {
-       "t": " humains connaissant le sens de la vie,"
-      },
-      {
-       "nl": true
-      },
-      {
-       "t": "non?"
+       "t": " humains connaissant le sens de la vie,non?"
       }
      ]
     }
@@ -4376,7 +4358,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "À quoi ressemblent les Idéaliens? Je suis\ncurieuse depuis que j'ai lu ce livre. Ce sont\ndes[1205][U+000F] humains connaissant le sens de la vie,\nnon?",
+   "brut_fr": "À quoi ressemblent les Idéaliens? Je suis\ncurieuse depuis que j'ai lu ce livre. Ce sont\ndes[1205][U+000F] humains connaissant le sens de la vie,[1101]non?",
    "brut_en": "What[SP]do[SP]you[SP]think[SP]Idealians[SP]are[SP]like?[SP]I've[SP]been\ncurious[SP]ever[SP]since[SP]reading[SP]that[SP]book.[SP]They're\nhumans[SP]who[SP]know[SP]the[SP]meaning[SP]of[SP]life,[SP]right?",
    "data_size": 312,
    "budget": 304
@@ -5323,10 +5305,10 @@
    ],
    "choix_fr": {
     "options": [
-     "Acheter armures[1205]",
+     "Acheter armures",
      "Vendre objets",
      "Parler",
-     "Rien[1205]",
+     "Rien",
      "Quitter"
     ],
     "question": [
@@ -5412,7 +5394,7 @@
      }
     ]
    },
-   "brut_fr": "Ah, bienvenue.[1205][U+000A] Nous ne vendons que les \nplus\nbeaux vêtements ici.[1205][U+000F] Qu'en dites-vous?[1205][U+000A]\nAchetez sans hésiter!\n[1208][U+0005]Acheter armures[1205][U+000F]\nVendre objets\nParler\nRien[1205][U+000F]\nQuitter",
+   "brut_fr": "Ah, bienvenue.[1205][U+000A] Nous ne vendons que les \nplus\nbeaux vêtements ici.[1205][U+000F] Qu'en dites-vous?[1205][U+000A]\nAchetez sans hésiter!\n[1208][U+0005]Acheter armures\nVendre objets\nParler\nRien\nQuitter",
    "brut_en": "Ah,[SP]welcome.[1205][U+000A][SP]We[SP]sell[SP]only[SP]the[SP]finest[SP]clothes\nhere.[1205][U+000F][SP]What[SP]do[SP]you[SP]think?[1205][U+000A][SP]Feel[SP]free[SP]to[SP]buy\nwithout[SP]hesitation!\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
    "data_size": 404,
    "budget": 396
@@ -5444,10 +5426,10 @@
    "choix_fr": {
     "options": [
      "Sélection cachée",
-     "Objets[1205]",
+     "Objets",
      "Armes",
      "Armure de tête",
-     "Armure[1205]",
+     "Armure",
      "Armure de jambes",
      "Accessoires"
     ],
@@ -5473,7 +5455,7 @@
      }
     ]
    },
-   "brut_fr": "Que voulez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_fr": "Que voulez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
    "brut_en": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
    "data_size": 330,
    "budget": 322
@@ -5505,13 +5487,13 @@
    "choix_fr": {
     "options": [
      "Bavarder",
-     "Parler boutique[1205]",
+     "Parler boutique",
      "Sélection cachée",
      "[1109][E2][E3][121D]ATTENTION[E4]",
-     "Aucun bit actif. Vérifiez ceci.[1205]",
+     "Aucun bit actif. Vérifiez ceci.",
      "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
-     "-Kanada[E1][E2][E3][121D]ATTENTION[E4][1205]",
+     "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
      "Aucun bit actif. Vérifiez ceci.",
      "-Kanada"
     ],
@@ -5540,7 +5522,7 @@
      }
     ]
    },
-   "brut_fr": "Bien, que voulez-vous savoir?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002][1205][U+000F]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+   "brut_fr": "Bien, que voulez-vous savoir?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
    "brut_en": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
    "data_size": 572,
    "budget": 564
@@ -5614,7 +5596,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -5646,7 +5628,7 @@
      }
     ]
    },
-   "brut_fr": "Total de [120E][NULL] yens.\nOk?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Total de [120E][NULL] yens.\nOk?\n[1208][0002]Oui\nNon",
    "brut_en": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
    "data_size": 132,
    "budget": 124

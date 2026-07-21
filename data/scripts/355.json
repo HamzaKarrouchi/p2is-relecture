@@ -139,7 +139,6 @@
     "options": [
      "De l'anglais.",
      "Du français.",
-     "[1205]",
      "Les voix."
     ],
     "question": [
@@ -160,7 +159,7 @@
      }
     ]
    },
-   "brut_fr": "De l'anglais? Ou du français?\n[1208][U+0003][1432][NULL][NULL][0014]De l'anglais.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Du français.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Les voix.[1432][NULL][NULL][0014]",
+   "brut_fr": "De l'anglais? Ou du français?\n[1208][U+0003][1432][NULL][NULL][0014]De l'anglais.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Du français.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Les voix.[1432][NULL][NULL][0014]",
    "brut_en": "Is[SP]it[SP]English?[SP]Or[SP]French,[SP]maybe?\n[1208][U+0003][1432][NULL][NULL][0014]It's[SP]English.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]French.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]the[SP]voices.[1432][NULL][NULL][0014]",
    "data_size": 232,
    "budget": 224
@@ -2590,7 +2589,7 @@
    "choix_fr": {
     "options": [
      "Soins",
-     "Parler à l'esthéticienne[1205]",
+     "Parler à l'esthéticienne",
      "Non merci",
      "Partir"
     ],
@@ -2613,7 +2612,7 @@
      }
     ]
    },
-   "brut_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne[1205][U+000F]\nNon merci\nPartir",
+   "brut_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne\nNon merci\nPartir",
    "brut_en": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
    "data_size": 212,
    "budget": 204
@@ -2976,7 +2975,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Oui[1205]",
+     "Oui",
      "Non"
     ],
     "question": [
@@ -3008,7 +3007,7 @@
      }
     ]
    },
-   "brut_fr": "Très bien. Ça fera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui[1205][U+000F]\nNon",
+   "brut_fr": "Très bien. Ça fera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui\nNon",
    "brut_en": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?\n[1208][0002]Yes\nNo",
    "data_size": 220,
    "budget": 212
@@ -3893,7 +3892,7 @@
    "choix_fr": {
     "options": [
      "Soins",
-     "Parler à l'esthéticienne[1205]",
+     "Parler à l'esthéticienne",
      "Non merci",
      "Partir"
     ],
@@ -3916,7 +3915,7 @@
      }
     ]
    },
-   "brut_fr": "Autre chose pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne[1205][U+000F]\nNon merci\nPartir",
+   "brut_fr": "Autre chose pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne\nNon merci\nPartir",
    "brut_en": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
    "data_size": 200,
    "budget": 192

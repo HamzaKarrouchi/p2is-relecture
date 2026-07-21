@@ -1060,34 +1060,37 @@
      "nom": null,
      "seg": [
       {
-       "t": "C'est pour porter chance..."
+       "t": "Pour porter chance..."
       },
       {
        "pause": true
       },
       {
-       "t": " Je suis certaine"
+       "t": " Je suis certaine de"
       },
       {
        "nl": true
       },
       {
-       "t": "de pas t'oublier maintenant, "
+       "t": "pas t'oublier maintenant, "
       },
       {
        "hero": "prenom"
       },
       {
-       "t": "... "
-      },
-      {
-       "pause": true
+       "t": "..."
       }
      ]
     },
     {
-     "nom": "Philémon Maintenant... on ne se reverra pas",
+     "nom": "Philémon",
      "seg": [
+      {
+       "t": "Maintenant... on ne se reverra pas"
+      },
+      {
+       "nl": true
+      },
       {
        "t": "avant longtemps. Souhaites-tu dire quelque"
       },
@@ -1159,7 +1162,7 @@
    ],
    "choix_fr": null,
    "choix_en": null,
-   "brut_fr": "C'est pour porter chance...[1205][001E] Je suis certaine\nde pas t'oublier maintenant, [1113]... [E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Philémon Maintenant... on ne se reverra pas\navant longtemps. Souhaites-tu dire quelque\nchose[1205][U+000F] avant de partir?",
+   "brut_fr": "Pour porter chance...[1205][001E] Je suis certaine de\npas t'oublier maintenant, [1113]...[E1][E2]\n[E3][E4][NULL][NULL]\"Philémon\nMaintenant... on ne se reverra pas\navant longtemps. Souhaites-tu dire quelque\nchose[1205][U+000F] avant de partir?",
    "brut_en": "Just[SP]a[SP]little[SP]something[SP]for[SP]luck...[1205][001E][SP]I'm[SP]sure\nI[SP]won't[SP]forget[SP]you[SP]now,[SP][1113]...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Philemon\nNow...[SP]We[SP]will[SP]not[SP]see[SP]each[SP]other[SP]again[SP]for\nsome[SP]time.[SP]Is[SP]there[SP]anything[SP]you[SP]would[SP]like\nto[SP]say[SP]before[SP]you[SP]go?",
    "data_size": 428,
    "budget": 420
@@ -1202,7 +1205,7 @@
    ],
    "choix_fr": {
     "options": [
-     "Remercier[1205]",
+     "Remercier",
      "Frapper"
     ],
     "question": [
@@ -1234,7 +1237,7 @@
      }
     ]
    },
-   "brut_fr": "Souhaites-tu dire quelque chose avant de \npartir?\n[1208][0002]Remercier[1205][U+000F]\nFrapper",
+   "brut_fr": "Souhaites-tu dire quelque chose avant de \npartir?\n[1208][0002]Remercier\nFrapper",
    "brut_en": "Is[SP]there[SP]anything[SP]you[SP]would[SP]like[SP]to[SP]say\nbefore[SP]you[SP]go?\n[1208][0002]Thank[SP]him\nHit[SP]him",
    "data_size": 178,
    "budget": 170
