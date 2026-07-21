@@ -1,0 +1,276 @@
+{
+ "no": 262,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Lycéen blessé",
+   "nom_en": "Bandaged male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*soupir* Je suis aussi tombé malade..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je me suis réveillé, visage enflé et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chauve! Allez-y, moquez-vous..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sigh* I've taken ill myself. I woke up"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this morning with a swollen face and a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bald spot. Laugh if you want..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "*soupir* Je suis aussi tombé malade...\nJe me suis réveillé, visage enflé et\nchauve! Allez-y, moquez-vous...",
+   "brut_en": "*sigh*[SP]I've[SP]taken[SP]ill[SP]myself.[SP]I[SP]woke[SP]up\nthis[SP]morning[SP]with[SP]a[SP]swollen[SP]face[SP]and[SP]a\nbald[SP]spot.[SP]Laugh[SP]if[SP]you[SP]want...",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 1,
+   "nom_fr": "Lycéenne blessée",
+   "nom_en": "Bandaged female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pas de bol, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-senpai. Surprenant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que le proviseur Hanya plaise autant. Il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est affreux, mais je l'adore... Pourquoi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bad luck, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-senpai. I'm surprised"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "at how popular Principal Hanya is."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " He's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "awful, but I like him... Why is that?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pas de bol, [1113]-senpai. Surprenant\nque le proviseur Hanya plaise autant. Il\nest affreux, mais je l'adore... Pourquoi?",
+   "brut_en": "Bad[SP]luck,[SP][1113]-senpai.[SP]I'm[SP]surprised\nat[SP]how[SP]popular[SP]Principal[SP]Hanya[SP]is.[1205][001E][SP]He's\nawful,[SP]but[SP]I[SP]like[SP]him...[SP]Why[SP]is[SP]that?",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 2,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu entretiens ta propre moto, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On dirait que les rumeurs étaient vraies"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sur tes talents avec les machines."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You maintain your own bike, right,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "? Looks like the rumors were true"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "about you being good with machines."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu entretiens ta propre moto, [1113]?\nOn dirait que les rumeurs étaient vraies[1205][U+000F]\nsur tes talents avec les machines.",
+   "brut_en": "You[SP]maintain[SP]your[SP]own[SP]bike,[SP]right,\n[1113]?[SP]Looks[SP]like[SP]the[SP]rumors[SP]were[SP]true\nabout[SP]you[SP]being[SP]good[SP]with[SP]machines.",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 3,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-senpai!? C'est si soudain... Je n'ai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas l'habitude... Mon cœur s'emballe... Mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec toi, je "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pourrais essayer!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-senpai!? This is so sudden..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm inexperienced... My heart's not"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ready..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But maybe for you, I could...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]-senpai!? C'est si soudain... Je n'ai\npas l'habitude... Mon cœur s'emballe... Mais\navec toi, je [1205][U+000F] pourrais essayer!",
+   "brut_en": "[1113]-senpai!?[SP]This[SP]is[SP]so[SP]sudden...[1205][001E]\nI'm[SP]inexperienced...[SP]My[SP]heart's[SP]not\nready...[1205][001E][SP]But[SP]maybe[SP]for[SP]you,[SP]I[SP]could...!",
+   "data_size": 262,
+   "budget": 254
+  }
+ ]
+}

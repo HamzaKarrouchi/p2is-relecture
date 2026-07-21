@@ -1,0 +1,2399 @@
+{
+ "no": 111,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je comprends..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je n'ai pas oublié..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Assez..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I get it..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I didn't forget..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So please,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "no more..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je comprends...[1205][001E] Je n'ai pas oublié...[1205][001E] Assez...",
+   "brut_en": "I[SP]get[SP]it...[1205][001E][SP]I[SP]didn't[SP]forget...[1205][001E][SP]So[SP]please,\nno[SP]more...",
+   "data_size": 136,
+   "budget": 128
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu t'en souviens..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "...?"
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Do you remember now..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "...?"
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu t'en souviens...[1205][001E] [1113]...?[1205][001E]",
+   "brut_en": "Do[SP]you[SP]remember[SP]now...[1205][001E][SP][1113]...?[1205][001E]",
+   "data_size": 88,
+   "budget": 80
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai tuée sœurette!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I killed our Big Sis!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je...[1205][001E] Je...[1205][001E] J'ai tuée sœurette!",
+   "brut_en": "I...[1205][001E][SP]I...[1205][001E][SP]I[SP]killed[SP]our[SP]Big[SP]Sis!",
+   "data_size": 94,
+   "budget": 86
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'était pas toi..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est ma faute..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It wasn't you..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " This is all my fault..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'était pas toi...[1205][001E] C'est ma faute...[1205][001E]",
+   "brut_en": "It[SP]wasn't[SP]you...[1205][001E][SP]This[SP]is[SP]all[SP]my[SP]fault...[1205][001E]",
+   "data_size": 116,
+   "budget": 108
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je... quel idiot! J'avais peur de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce que j'avais fait... je m'étais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "convaincu que c'était un rêve..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I... I'm such an idiot! I was so scared of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "what I did that I tried to convince myself"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it was all a dream..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je... quel idiot! J'avais peur de\nce que j'avais fait... je m'étais\nconvaincu que c'était un rêve...",
+   "brut_en": "I...[SP]I'm[SP]such[SP]an[SP]idiot![SP]I[SP]was[SP]so[SP]scared[SP]of\nwhat[SP]I[SP]did[SP]that[SP]I[SP]tried[SP]to[SP]convince[SP]myself\nit[SP]was[SP]all[SP]a[SP]dream...",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je savais."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Depuis que j'ai entendu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Cercle masqué"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai commencé à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "me souvenir que c'était réel..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I knew."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ever since I heard the name "
+      },
+      {
+       "enc": "Masked"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Circle"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I started to remember that what"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "happened was real..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je savais.[1205][001E] Depuis que j'ai entendu\n[1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]...[1205][001E] J'ai commencé à\nme souvenir que c'était réel...",
+   "brut_en": "I[SP]knew.[1205][001E][SP]Ever[SP]since[SP]I[SP]heard[SP]the[SP]name[SP][1432][NULL][NULL][0014]Masked\nCircle[1432][NULL][NULL][0014]...[1205][001E][SP]I[SP]started[SP]to[SP]remember[SP]that[SP]what\nhappened[SP]was[SP]real...",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 6,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ces dix ans..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'espérais que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'était un mauvais rêve..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The last ten years..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I had hoped it was all"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "just a bad dream..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ces dix ans...[1205][001E] J'espérais que\nc'était un mauvais rêve...[1205][001E]",
+   "brut_en": "The[SP]last[SP]ten[SP]years...[1205][001E][SP]I[SP]had[SP]hoped[SP]it[SP]was[SP]all\njust[SP]a[SP]bad[SP]dream...[1205][001E]",
+   "data_size": 160,
+   "budget": 152
+  },
+  {
+   "id": 7,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Au bout d'un moment, je ne savais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plus ce qui était réel."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai cru"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que j'avais tout imaginé..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eventually, I couldn't tell what was real"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "anymore."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I began to think it had all been"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in my head..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Au bout d'un moment, je ne savais\nplus ce qui était réel.[1205][001E] J'ai cru\nque j'avais tout imaginé...",
+   "brut_en": "Eventually,[SP]I[SP]couldn't[SP]tell[SP]what[SP]was[SP]real\nanymore.[1205][001E][SP]I[SP]began[SP]to[SP]think[SP]it[SP]had[SP]all[SP]been\nin[SP]my[SP]head...",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 8,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'est-il arrivé après?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What happened after that?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'est-il arrivé après?",
+   "brut_en": "What[SP]happened[SP]after[SP]that?",
+   "data_size": 76,
+   "budget": 68
+  },
+  {
+   "id": 9,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On a enfermé sœurette..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "s'y opposa jusqu'au bout..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pourquoi on l'enferma aussi..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We locked Big Sis in the shrine..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "was against it to the very end..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "why... we put him in too..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On a enfermé sœurette...[1205][001E] [1113]\ns'y opposa jusqu'au bout...[1205][001E] C'est\npourquoi on l'enferma aussi...",
+   "brut_en": "We[SP]locked[SP]Big[SP]Sis[SP]in[SP]the[SP]shrine...[1205][001E][SP][1113]\nwas[SP]against[SP]it[SP]to[SP]the[SP]very[SP]end...[1205][001E][SP]That's\nwhy...[SP]we[SP]put[SP]him[SP]in[SP]too...",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 10,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On pensait que si elle passait une nuit là,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "elle ne pourrait pas déménager..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On était"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de vrais gamins. C'était pas malin..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We thought if she spent one night there, she"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "wouldn't be able to move away..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We were such"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dumb kids. It didn't make much sense..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On pensait que si elle passait une nuit là,\nelle ne pourrait pas déménager...[1205][001E] On était[1205][U+000F]\nde vrais gamins. C'était pas malin...",
+   "brut_en": "We[SP]thought[SP]if[SP]she[SP]spent[SP]one[SP]night[SP]there,[SP]she\nwouldn't[SP]be[SP]able[SP]to[SP]move[SP]away...[1205][001E][SP]We[SP]were[SP]such\ndumb[SP]kids.[SP]It[SP]didn't[SP]make[SP]much[SP]sense...",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 11,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quand on est revenus le lendemain,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le sanctuaire avait brûlé..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "When we came back the next day, the shrine"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "had been burned to the ground..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quand on est revenus le lendemain,\nle sanctuaire avait brûlé...[1205][001E]",
+   "brut_en": "When[SP]we[SP]came[SP]back[SP]the[SP]next[SP]day,[SP]the[SP]shrine\nhad[SP]been[SP]burned[SP]to[SP]the[SP]ground...[1205][001E]",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 12,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'avais peur..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je croyais avoir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tué sœurette et "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I was scared..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I thought I had killed"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big Sis and "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'avais peur...[1205][001E] Je croyais avoir\ntué sœurette et [1113]...",
+   "brut_en": "I[SP]was[SP]scared...[1205][001E][SP]I[SP]thought[SP]I[SP]had[SP]killed\nBig[SP]Sis[SP]and[SP][1113]...",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 13,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun, Ginko et moi..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On a caché nos"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "masques ici en pleurant, et juré de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ne plus jamais se revoir..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun, Ginko, and me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We hid our masks in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this secret hideout, crying our eyes out,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and made one last rule never to meet again..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun, Ginko et moi...[1205][001E] On a caché nos\nmasques ici en pleurant, et juré de\nne plus jamais se revoir...",
+   "brut_en": "Jun,[SP]Ginko,[SP]and[SP]me...[1205][001E][SP]We[SP]hid[SP]our[SP]masks[SP]in\nthis[SP]secret[SP]hideout,[SP]crying[SP]our[SP]eyes[SP]out,\nand[SP]made[SP]one[SP]last[SP]rule[SP]never[SP]to[SP]meet[SP]again...",
+   "data_size": 290,
+   "budget": 282
+  },
+  {
+   "id": 14,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bien plus tard, j'ai appris que "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avait été poignardé mais avait survécu..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais je n'ai pas osé me montrer..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Way later, I heard a rumor that "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " had"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "been stabbed by the arsonist, but lived..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Still, I didn't dare show my face..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bien plus tard, j'ai appris que [1113]\navait été poignardé mais avait survécu...[1205][001E]\nMais je n'ai pas osé me montrer...",
+   "brut_en": "Way[SP]later,[SP]I[SP]heard[SP]a[SP]rumor[SP]that[SP][1113][SP]had\nbeen[SP]stabbed[SP]by[SP]the[SP]arsonist,[SP]but[SP]lived...[1205][001E]\nStill,[SP]I[SP]didn't[SP]dare[SP]show[SP]my[SP]face...",
+   "data_size": 266,
+   "budget": 258
+  },
+  {
+   "id": 15,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu as protégé sœurette jusqu'au bout..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mais moi... je l'ai... tuée...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You tried to protect our Big Sis to the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "very end..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But I... killed her...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu as protégé sœurette jusqu'au bout...[1205][001E]\nMais moi... je l'ai... tuée...!",
+   "brut_en": "You[SP]tried[SP]to[SP]protect[SP]our[SP]Big[SP]Sis[SP]to[SP]the\nvery[SP]end...[1205][001E][SP]But[SP]I...[SP]killed[SP]her...!",
+   "data_size": 182,
+   "budget": 174
+  },
+  {
+   "id": 16,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "< C'est faux. Elle est en vie..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "< You didn't. Big Sis is alive..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non...[1205]< C'est faux. Elle est en vie...",
+   "brut_en": "No...[1205]<[SP]You[SP]didn't.[SP]Big[SP]Sis[SP]is[SP]alive...",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 17,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quoi...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " M-Mais tu disais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qu'on l'avait tuée..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " B-But you just said we killed"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big Sis..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quoi...!?[1205][001E] M-Mais tu disais\nqu'on l'avait tuée...",
+   "brut_en": "What...!?[1205][001E][SP]B-But[SP]you[SP]just[SP]said[SP]we[SP]killed\nBig[SP]Sis...",
+   "data_size": 132,
+   "budget": 124
+  },
+  {
+   "id": 18,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quand le sanctuaire a brûlé..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "demandé à mon père d'appeler la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "police."
+      },
+      {
+       "pause": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais pas de corps retrouvé..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "When the shrine burned down and it became a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "huge deal..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I had my dad call the police."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But they said there were no bodies found..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quand le sanctuaire a brûlé...[1205][001E] J'ai\ndemandé à mon père d'appeler la\npolice.[1205][001E][1205][U+000F] Mais pas de corps retrouvé...",
+   "brut_en": "When[SP]the[SP]shrine[SP]burned[SP]down[SP]and[SP]it[SP]became[SP]a\nhuge[SP]deal...[1205][001E][SP]I[SP]had[SP]my[SP]dad[SP]call[SP]the[SP]police.[1205][001E]\nBut[SP]they[SP]said[SP]there[SP]were[SP]no[SP]bodies[SP]found...",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 19,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Voilà pourquoi tu étais si"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "perdue..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " T'étais une gamine."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So that's why you were so confused..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You were just a kid."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Voilà pourquoi tu étais si\nperdue...[1205][001E] T'étais une gamine.",
+   "brut_en": "So[SP]that's[SP]why[SP]you[SP]were[SP]so[SP]confused...[1205][001E]\nYou[SP]were[SP]just[SP]a[SP]kid.",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 20,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alors cette "
+      },
+      {
+       "enc": "sœurette"
+      },
+      {
+       "t": " est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "encore en vie? C'est bien!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Then this "
+      },
+      {
+       "enc": "Big Sis"
+      },
+      {
+       "t": " is still alive?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "That's good to hear."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Alors cette [1432][NULL][NULL][0014]sœurette[1432][NULL][NULL][0014] est\nencore en vie? C'est bien!",
+   "brut_en": "Then[SP]this[SP][1432][NULL][NULL][0014]Big[SP]Sis[1432][NULL][NULL][0014][SP]is[SP]still[SP]alive?\nThat's[SP]good[SP]to[SP]hear.",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 21,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous voyez pas? C'est Joker, sœurette!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No, it isn't!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Don't you see...?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big Sis is Joker!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non![1205][001E] Vous voyez pas? C'est Joker, sœurette!",
+   "brut_en": "No,[SP]it[SP]isn't![1205][001E][SP]Don't[SP]you[SP]see...?\nBig[SP]Sis[SP]is[SP]Joker!",
+   "data_size": 126,
+   "budget": 118
+  },
+  {
+   "id": 22,
+   "nom_fr": "Eikichi, [1113] & Yukino",
+   "nom_en": "Eikichi, [1113] & Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "......!?",
+   "brut_en": "......!?",
+   "data_size": 68,
+   "budget": 60
+  },
+  {
+   "id": 23,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Roi Lion a dit que Joker était "
+      },
+      {
+       "enc": "belle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "comme une déesse"
+      },
+      {
+       "t": "! Sœurette aussi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "King Leo said Joker was as "
+      },
+      {
+       "enc": "beautiful as a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "goddess"
+      },
+      {
+       "t": "! Big Sis was like that!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Roi Lion a dit que Joker était [1432][NULL][NULL][0014]belle\ncomme une déesse[1432][NULL][NULL][0014]! Sœurette aussi!",
+   "brut_en": "King[SP]Leo[SP]said[SP]Joker[SP]was[SP]as[SP][1432][NULL][NULL][0014]beautiful[SP]as[SP]a\ngoddess[1432][NULL][NULL][0014]![SP]Big[SP]Sis[SP]was[SP]like[SP]that!",
+   "data_size": 186,
+   "budget": 178
+  },
+  {
+   "id": 24,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous vous souvenez de votre péché..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So you finally remembered your sin..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous vous souvenez de votre péché...",
+   "brut_en": "So[SP]you[SP]finally[SP]remembered[SP]your[SP]sin...",
+   "data_size": 96,
+   "budget": 88
+  },
+  {
+   "id": 25,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est exact, je suis vivante."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je me suis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fait passer pour l'une de vous..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'attendais"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " que vous vous souveniez de tout!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's right, I'm alive."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I posed as one of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "your team to get my revenge... I was only"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "waiting for you to remember everything!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est exact, je suis vivante.[1205][001E] Je me suis\nfait passer pour l'une de vous...\nJ'attendais[1205][U+000F] que vous vous souveniez de tout!",
+   "brut_en": "That's[SP]right,[SP]I'm[SP]alive.[1205][001E][SP]I[SP]posed[SP]as[SP]one[SP]of\nyour[SP]team[SP]to[SP]get[SP]my[SP]revenge...[SP]I[SP]was[SP]only\nwaiting[SP]for[SP]you[SP]to[SP]remember[SP]everything!",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 26,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non...! N-Ne me dites pas que Maya..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No way...! D-Don't tell me Maya-san is...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non...! N-Ne me dites pas que Maya...",
+   "brut_en": "No[SP]way...![SP]D-Don't[SP]tell[SP]me[SP]Maya-san[SP]is...?",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 27,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pa-Pardon..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sœ-Sœurette..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "F... Forgive us..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Big... Sis..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pa-Pardon...[1205][001E] Sœ-Sœurette...",
+   "brut_en": "F...[SP]Forgive[SP]us...[1205][001E][SP]Big...[SP]Sis...",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 28,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous allez souffrir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la même terreur que moi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You'll suffer through the same terror"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that I had to!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non.[1205][001E] Vous allez souffrir\nla même terreur que moi!",
+   "brut_en": "No.[1205][001E][SP]You'll[SP]suffer[SP]through[SP]the[SP]same[SP]terror\nthat[SP]I[SP]had[SP]to!",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 29,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Prends ça!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Take this!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Prends ça!",
+   "brut_en": "Take[SP]this!",
+   "data_size": 42,
+   "budget": 34
+  },
+  {
+   "id": 30,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T-Toi...!? C'est impossible! Mes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "comparses auraient dû s'occuper de toi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y-You...!? That's impossible! My cohorts"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "should have dealt with you by now!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T-Toi...!? C'est impossible! Mes\ncomparses auraient dû s'occuper de toi!",
+   "brut_en": "Y-You...!?[SP]That's[SP]impossible![SP]My[SP]cohorts\nshould[SP]have[SP]dealt[SP]with[SP]you[SP]by[SP]now!",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 31,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une héroïne ne tombe pas si facilement!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A heroine can't go down that easy, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une héroïne ne tombe pas si facilement!",
+   "brut_en": "A[SP]heroine[SP]can't[SP]go[SP]down[SP]that[SP]easy,[SP]right?",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 32,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Deux Mayas...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Q-Qu'est-ce que...!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Two Mayas...!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Wh-What in the world--!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Deux Mayas...!?[1205][001E] Q-Qu'est-ce que...!?",
+   "brut_en": "Two[SP]Mayas...!?[1205][001E][SP]Wh-What[SP]in[SP]the[SP]world--!?",
+   "data_size": 110,
+   "budget": 102
+  },
+  {
+   "id": 33,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ciao! Désolée du retard."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ciao, everyone. Sorry I'm late."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ciao! Désolée du retard.",
+   "brut_en": "Ciao,[SP]everyone.[SP]Sorry[SP]I'm[SP]late.",
+   "data_size": 84,
+   "budget": 76
+  },
+  {
+   "id": 34,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cette Maya est une impostrice causée"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "par les rumeurs terroristes..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une espionne du Cercle masqué!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That Maya's an impostor, probably caused by"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "those terrorist rumors..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " She's a spy from"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the Masked Circle!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cette Maya est une impostrice causée\npar les rumeurs terroristes...[1205][001E] C'est\nune espionne du Cercle masqué!",
+   "brut_en": "That[SP]Maya's[SP]an[SP]impostor,[SP]probably[SP]caused[SP]by\nthose[SP]terrorist[SP]rumors...[1205][001E][SP]She's[SP]a[SP]spy[SP]from\nthe[SP]Masked[SP]Circle!",
+   "data_size": 236,
+   "budget": 228
+  },
+  {
+   "id": 35,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Toi..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et juste quand tout"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "commençait à aller si bien...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " And just when everything was starting"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to go so smoothly...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Toi...[1205][001E] Et juste quand tout\ncommençait à aller si bien...!",
+   "brut_en": "You...[1205][001E][SP]And[SP]just[SP]when[SP]everything[SP]was[SP]starting\nto[SP]go[SP]so[SP]smoothly...!",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 36,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "En effet..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous ne serez plus un obstacle..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Indeed..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You won't get in my way"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "any longer..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "En effet...[1205][001E] Vous ne serez plus un obstacle...",
+   "brut_en": "Indeed...[1205][001E][SP]You[SP]won't[SP]get[SP]in[SP]my[SP]way\nany[SP]longer...",
+   "data_size": 118,
+   "budget": 110
+  },
+  {
+   "id": 37,
+   "nom_fr": "[1113] & Maya",
+   "nom_en": "[1113] & Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "......!",
+   "brut_en": "......!",
+   "data_size": 44,
+   "budget": 36
+  },
+  {
+   "id": 38,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mon plan: leur faire croire que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "toi tu étais morte, pour les noyer"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dans le désespoir, a échoué..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "My plan to make them believe you were the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "one who died and drown them in despair has"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "been ruined..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mon plan: leur faire croire que\ntoi tu étais morte, pour les noyer\ndans le désespoir, a échoué...",
+   "brut_en": "My[SP]plan[SP]to[SP]make[SP]them[SP]believe[SP]you[SP]were[SP]the\none[SP]who[SP]died[SP]and[SP]drown[SP]them[SP]in[SP]despair[SP]has\nbeen[SP]ruined...",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 39,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Partez."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Si vous tenez à votre vie."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Leave now."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That is, if you value your life."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Partez.[1205][001E] Si vous tenez à votre vie.",
+   "brut_en": "Leave[SP]now.[1205][001E][SP]That[SP]is,[SP]if[SP]you[SP]value[SP]your[SP]life.",
+   "data_size": 114,
+   "budget": 106
+  },
+  {
+   "id": 40,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Désolée, mais c'est impossible..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "< Jun."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm sorry, but I can't do that..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "< Jun."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Désolée, mais c'est impossible...[1205]< Jun.",
+   "brut_en": "I'm[SP]sorry,[SP]but[SP]I[SP]can't[SP]do[SP]that...[1205]<[SP]Jun.",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 41,
+   "nom_fr": "Yukino, [1113], Eikichi & Ginko",
+   "nom_en": "Yukino, [1113], Eikichi & Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "......!?",
+   "brut_en": "......!?",
+   "data_size": 82,
+   "budget": 74
+  },
+  {
+   "id": 42,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je suis vivante..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "n'avez plus à souffrir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm alive..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You don't have to suffer"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "anymore..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je suis vivante...[1205][001E] Vous\nn'avez plus à souffrir.",
+   "brut_en": "I'm[SP]alive...[1205][001E][SP]You[SP]don't[SP]have[SP]to[SP]suffer\nanymore...",
+   "data_size": 122,
+   "budget": 114
+  },
+  {
+   "id": 43,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Arrête..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est impossible..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "t'a tuée...!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Stop..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That's impossible..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "killed you...!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Arrête...[1205][001E] C'est impossible...[1205][001E]\n[1113]t'a tuée...!",
+   "brut_en": "Stop...[1205][001E][SP]That's[SP]impossible...[1205][001E][SP][1113]\nkilled[SP]you...!",
+   "data_size": 122,
+   "budget": 114
+  },
+  {
+   "id": 44,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aucune raison de vous battre, toi et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Souviens-toi de cette nuit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dans le parc! Vous étiez presque--"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's no reason why you and "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "should fight..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Remember that night at the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "park? It was as if you two were--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aucune raison de vous battre, toi et\n[1113]...[1205][001E] Souviens-toi de cette nuit\ndans le parc! Vous étiez presque--",
+   "brut_en": "There's[SP]no[SP]reason[SP]why[SP]you[SP]and[SP][1113]-kun\nshould[SP]fight...[1205][001E][SP]Remember[SP]that[SP]night[SP]at[SP]the\npark?[SP]It[SP]was[SP]as[SP]if[SP]you[SP]two[SP]were--",
+   "data_size": 250,
+   "budget": 242
+  }
+ ]
+}

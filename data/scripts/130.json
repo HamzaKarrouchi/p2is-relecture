@@ -1,0 +1,437 @@
+{
+ "no": 130,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ombre de Yukino",
+   "nom_en": "Shadow Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Anna..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Des jouets!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Look, Anna..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " More toys."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Anna...[1205][001E] Des jouets!",
+   "brut_en": "Look,[SP]Anna...[1205][001E][SP]More[SP]toys.",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 1,
+   "nom_fr": "Anna",
+   "nom_en": "Anna",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jouets??"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Toys...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jouets??",
+   "brut_en": "Toys...?",
+   "data_size": 38,
+   "budget": 30
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ombre de Yukino",
+   "nom_en": "Shadow Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça fait mal quand tes rêves sont brisés,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "non?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Quand tu ne sais plus pourquoi tu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vis?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Alors tu n'as qu'à tout détruire."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Doesn't it hurt when your dreams are shattered?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "When you don't know what you're living for?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Then all you have to do is destroy everything."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça fait mal quand tes rêves sont brisés,\nnon?[1205][001E] Quand tu ne sais plus pourquoi tu\nvis?[1205][001E][1205][U+000F] Alors tu n'as qu'à tout détruire.",
+   "brut_en": "Doesn't[SP]it[SP]hurt[SP]when[SP]your[SP]dreams[SP]are[SP]shattered?[1205][001E]\nWhen[SP]you[SP]don't[SP]know[SP]what[SP]you're[SP]living[SP]for?[1205][001E]\nThen[SP]all[SP]you[SP]have[SP]to[SP]do[SP]is[SP]destroy[SP]everything.",
+   "data_size": 324,
+   "budget": 316
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kehhei! Dis pas ça avec la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tête de Yukino! Elle--!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kehhei! Don't say that crap with Yukino-san's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "face! She's--!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Kehhei! Dis pas ça avec la\ntête de Yukino! Elle--!",
+   "brut_en": "Kehhei![SP]Don't[SP]say[SP]that[SP]crap[SP]with[SP]Yukino-san's\nface![SP]She's--!",
+   "data_size": 144,
+   "budget": 136
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ombre de Yukino",
+   "nom_en": "Shadow Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je suis la vraie Yukino, idiote."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Viser une étoile à jamais hors de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "portée, c'est juste douloureux."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I am the real Yukino, idiot."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " And reaching for"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a star that's forever out of your grasp is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "just painful."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je suis la vraie Yukino, idiote.[1205][001E]\nViser une étoile à jamais hors de\nportée, c'est juste douloureux.",
+   "brut_en": "I[SP]am[SP]the[SP]real[SP]Yukino,[SP]idiot.[1205][001E][SP]And[SP]reaching[SP]for\na[SP]star[SP]that's[SP]forever[SP]out[SP]of[SP]your[SP]grasp[SP]is\njust[SP]painful.",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ombre de Yukino",
+   "nom_en": "Shadow Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je ne vivrai pas comme Fujii."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "m'amuserai, au diable les conséquences!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm not going to live like Fujii did."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'll have all the fun I want, and damn the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "consequences!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je ne vivrai pas comme Fujii.[1205][001E] Je\nm'amuserai, au diable les conséquences!",
+   "brut_en": "I'm[SP]not[SP]going[SP]to[SP]live[SP]like[SP]Fujii[SP]did.[1205][001E]\nI'll[SP]have[SP]all[SP]the[SP]fun[SP]I[SP]want,[SP]and[SP]damn[SP]the\nconsequences!",
+   "data_size": 232,
+   "budget": 224
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu viens de dire quoi!? Retire"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ça! Impossible que tu sois Yukki!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What did you just say!? Take that back!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "There's absolutely no way you're Yukki!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu viens de dire quoi!? Retire\nça! Impossible que tu sois Yukki!",
+   "brut_en": "What[SP]did[SP]you[SP]just[SP]say!?[SP]Take[SP]that[SP]back!\nThere's[SP]absolutely[SP]no[SP]way[SP]you're[SP]Yukki!",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Anna! Viens vers nous! La"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vraie Yukki attend dehors!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Anna-san! Come over to us! The real Yukki"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "is waiting outside!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Anna! Viens vers nous! La\nvraie Yukki attend dehors!",
+   "brut_en": "Anna-san![SP]Come[SP]over[SP]to[SP]us![SP]The[SP]real[SP]Yukki\nis[SP]waiting[SP]outside!",
+   "data_size": 144,
+   "budget": 136
+  },
+  {
+   "id": 8,
+   "nom_fr": "Anna",
+   "nom_en": "Anna",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yukino...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yukino...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Yukino...?",
+   "brut_en": "Yukino...?",
+   "data_size": 42,
+   "budget": 34
+  }
+ ]
+}

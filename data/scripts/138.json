@@ -1,0 +1,914 @@
+{
+ "no": 138,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi, [1113] & Ginko",
+   "nom_en": "Eikichi, [1113] & Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun!",
+   "brut_en": "Jun!",
+   "data_size": 58,
+   "budget": 50
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun! Pitié, arrête tes bêtises!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun-kun! Please stop this nonsense!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun! Pitié, arrête tes bêtises!",
+   "brut_en": "Jun-kun![SP]Please[SP]stop[SP]this[SP]nonsense!",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 2,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On dirait que tous les joueurs sont présents."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Les trois factions présentes peuvent "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " invoquer"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba et voir leurs souhaits exaucés."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It seems all the players have taken the stage."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The three factions here are qualified to raise"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba and have their desires granted."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On dirait que tous les joueurs sont présents.[1205][001E]\nLes trois factions présentes peuvent [1205][U+000F] invoquer\nXibalba et voir leurs souhaits exaucés.",
+   "brut_en": "It[SP]seems[SP]all[SP]the[SP]players[SP]have[SP]taken[SP]the[SP]stage.[1205][001E]\nThe[SP]three[SP]factions[SP]here[SP]are[SP]qualified[SP]to[SP]raise\nXibalba[SP]and[SP]have[SP]their[SP]desires[SP]granted.",
+   "data_size": 294,
+   "budget": 286
+  },
+  {
+   "id": 3,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Exactement. Mon Ordre de la Lance Sacrée,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "représentant le Zodiac, possède aussi ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pouvoir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Exactly. My Order of the Holy Lance,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "symbolizing the Zodiac, has those"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qualifications as well."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Exactement. Mon Ordre de la Lance Sacrée,\nreprésentant le Zodiac, possède aussi ce\npouvoir.",
+   "brut_en": "Exactly.[SP]My[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance,\nsymbolizing[SP]the[SP]Zodiac,[SP]has[SP]those\nqualifications[SP]as[SP]well.",
+   "data_size": 214,
+   "budget": 206
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ordre de lance sacrée",
+   "nom_en": "Order of the Holy Lance",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heil Führer! Sieg Reich!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heil Fuhrer! Sieg Reich!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Heil Führer! Sieg Reich!",
+   "brut_en": "Heil[SP]Fuhrer![SP]Sieg[SP]Reich!",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 5,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Seuls ceux nés sous la constellation de la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Croix Cosmique peuvent contrôler les cinq"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "crânes."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Only those born under the holy constellation"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of the Grand Cross can control the five skulls."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Seuls ceux nés sous la constellation de la\nCroix Cosmique peuvent contrôler les cinq\ncrânes.",
+   "brut_en": "Only[SP]those[SP]born[SP]under[SP]the[SP]holy[SP]constellation\nof[SP]the[SP]Grand[SP]Cross[SP]can[SP]control[SP]the[SP]five[SP]skulls.",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 6,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ha..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et que désire donc un fantôme"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "du passé réanimé par les rumeurs?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ha..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " And what would a ghost from the past,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "resurrected by rumors, wish for?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ha...[1205][001E] Et que désire donc un fantôme\ndu passé réanimé par les rumeurs?",
+   "brut_en": "Ha...[1205][001E][SP]And[SP]what[SP]would[SP]a[SP]ghost[SP]from[SP]the[SP]past,\nresurrected[SP]by[SP]rumors,[SP]wish[SP]for?",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 7,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Comme vous, marionnette"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de la roue de la fortune."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The same as you, marionette of the Wheel"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of Fortune."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Comme vous, marionnette\nde la roue de la fortune.",
+   "brut_en": "The[SP]same[SP]as[SP]you,[SP]marionette[SP]of[SP]the[SP]Wheel\nof[SP]Fortune.",
+   "data_size": 130,
+   "budget": 122
+  },
+  {
+   "id": 8,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Destruction et progrès..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Chez l'homme, ces"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pulsions contraires sont toujours en guerre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Destruction and progress..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " These contradictory"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "impulses are constantly at war within man."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Destruction et progrès...[1205][001E] Chez l'homme, ces\npulsions contraires sont toujours en guerre.",
+   "brut_en": "Destruction[SP]and[SP]progress...[1205][001E][SP]These[SP]contradictory\nimpulses[SP]are[SP]constantly[SP]at[SP]war[SP]within[SP]man.",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 9,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce sont vos peurs et vos attentes qui"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "m'ont invoqué. Et maintenant que je suis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ici,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " je me dois d'y répondre, nein?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It was your fears and expectations of them"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "which summoned me. And now that I am here,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I must live up to them, nein?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce sont vos peurs et vos attentes qui\nm'ont invoqué. Et maintenant que je suis\nici,[1205][U+000F] je me dois d'y répondre, nein?",
+   "brut_en": "It[SP]was[SP]your[SP]fears[SP]and[SP]expectations[SP]of[SP]them\nwhich[SP]summoned[SP]me.[SP]And[SP]now[SP]that[SP]I[SP]am[SP]here,\nI[SP]must[SP]live[SP]up[SP]to[SP]them,[SP]nein?",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 10,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est vrai... Mais c'est mon devoir. Je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "voudrais que tu partes..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Avec tes"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " déchets..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "True... But that's my duty. I wish you'd"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "leave, old man..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Along with that trash"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "over there..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est vrai... Mais c'est mon devoir. Je\nvoudrais que tu partes...[1205][001E] Avec tes[1205][U+000F] déchets...",
+   "brut_en": "True...[SP]But[SP]that's[SP]my[SP]duty.[SP]I[SP]wish[SP]you'd\nleave,[SP]old[SP]man...[1205][001E][SP]Along[SP]with[SP]that[SP]trash\nover[SP]there...",
+   "data_size": 216,
+   "budget": 208
+  },
+  {
+   "id": 11,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est faux, Jun! Les rêves"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ne doivent pas être offerts!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're wrong, Jun-kun! Dreams aren't meant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to be given!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est faux, Jun! Les rêves\nne doivent pas être offerts!",
+   "brut_en": "You're[SP]wrong,[SP]Jun-kun![SP]Dreams[SP]aren't[SP]meant\nto[SP]be[SP]given!",
+   "data_size": 132,
+   "budget": 124
+  },
+  {
+   "id": 12,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ils ne font sens que si tu les réalises par"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "toi-même! Si l'homme veut évoluer, alors..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They only have meaning when you achieve them"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "under your own power! If man wants to evolve,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "then..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ils ne font sens que si tu les réalises par\ntoi-même! Si l'homme veut évoluer, alors...",
+   "brut_en": "They[SP]only[SP]have[SP]meaning[SP]when[SP]you[SP]achieve[SP]them\nunder[SP]your[SP]own[SP]power![SP]If[SP]man[SP]wants[SP]to[SP]evolve,\nthen...",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 13,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Idiote..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu crois vraiment que tous les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "humains ont une vision si édulcorée du monde?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Foolish girl..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Do you believe that all humans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "have such a sugarcoated view of the world?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Idiote...[1205][001E] Tu crois vraiment que tous les\nhumains ont une vision si édulcorée du monde?",
+   "brut_en": "Foolish[SP]girl...[1205][001E][SP]Do[SP]you[SP]believe[SP]that[SP]all[SP]humans\nhave[SP]such[SP]a[SP]sugarcoated[SP]view[SP]of[SP]the[SP]world?",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 14,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "En effet... À cause de l'illusion de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "liberté, l'homme s'inquiète pour rien."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Indeed... The rampant illusion of freedom"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "causes man to worry over petty matters."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "En effet... À cause de l'illusion de\nliberté, l'homme s'inquiète pour rien.",
+   "brut_en": "Indeed...[SP]The[SP]rampant[SP]illusion[SP]of[SP]freedom\ncauses[SP]man[SP]to[SP]worry[SP]over[SP]petty[SP]matters.",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 15,
+   "nom_fr": "Führer",
+   "nom_en": "Fuhrer",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les masses voudront toujours un chef qui"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "décide à leur place..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " L'inquiétude du"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "futur provoque uniquement leur douleur!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The masses will always desire a leader who"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "decides everything for them..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Anxiety over"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the future only causes them pain!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les masses voudront toujours un chef qui\ndécide à leur place...[1205][001E] L'inquiétude du\nfutur provoque uniquement leur douleur!",
+   "brut_en": "The[SP]masses[SP]will[SP]always[SP]desire[SP]a[SP]leader[SP]who\ndecides[SP]everything[SP]for[SP]them...[1205][001E][SP]Anxiety[SP]over\nthe[SP]future[SP]only[SP]causes[SP]them[SP]pain!",
+   "data_size": 270,
+   "budget": 262
+  },
+  {
+   "id": 16,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est pourquoi moi, Joker, je guiderai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'Homme vers une nouvelle ère! L'Homme sera"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "libéré"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " des chaînes de la raison d'être!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That is why I, Joker, will lead mankind into"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a new era! Humanity will be freed from the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "suffocating chains of raison d'etre!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est pourquoi moi, Joker, je guiderai\nl'Homme vers une nouvelle ère! L'Homme sera\nlibéré[1205][U+000F] des chaînes de la raison d'être!",
+   "brut_en": "That[SP]is[SP]why[SP]I,[SP]Joker,[SP]will[SP]lead[SP]mankind[SP]into\na[SP]new[SP]era![SP]Humanity[SP]will[SP]be[SP]freed[SP]from[SP]the\nsuffocating[SP]chains[SP]of[SP]raison[SP]d'etre!",
+   "data_size": 272,
+   "budget": 264
+  },
+  {
+   "id": 17,
+   "nom_fr": "Joker",
+   "nom_en": "Joker",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les ailes de la mort renaissante!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Xibalba!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Behold the wings of death and rebirth!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Xibalba!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les ailes de la mort renaissante![1205][001E] Xibalba!",
+   "brut_en": "Behold[SP]the[SP]wings[SP]of[SP]death[SP]and[SP]rebirth![1205][001E]\nXibalba!",
+   "data_size": 122,
+   "budget": 114
+  }
+ ]
+}

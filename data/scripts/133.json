@@ -1,0 +1,410 @@
+{
+ "no": 133,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "! C'est toi le chef"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aujourd'hui!? Dit lui de rester!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "! You're the boss today, right!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Order her not to go!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1114]! C'est toi le chef\naujourd'hui!? Dit lui de rester!",
+   "brut_en": "[1114]![SP]You're[SP]the[SP]boss[SP]today,[SP]right!?\nOrder[SP]her[SP]not[SP]to[SP]go!",
+   "data_size": 136,
+   "budget": 128
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun! Dis quelque chose! Tu vas laisser"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "soeurette s'en aller comme ça!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun! You gotta say something! Are you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "gonna just let Big Sis go away!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun! Dis quelque chose! Tu vas laisser\nsoeurette s'en aller comme ça!?",
+   "brut_en": "Jun![SP]You[SP]gotta[SP]say[SP]something![SP]Are[SP]you\ngonna[SP]just[SP]let[SP]Big[SP]Sis[SP]go[SP]away!?",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 2,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "......"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "......",
+   "brut_en": "......",
+   "data_size": 32,
+   "budget": 24
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je ne te laisserai pas partir!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I won't let you..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I won't let you go!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je...[1205][001E] Je ne te laisserai pas partir!",
+   "brut_en": "I[SP]won't[SP]let[SP]you...[1205][001E][SP]I[SP]won't[SP]let[SP]you[SP]go!",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si on enferme soeurette là-bas jusqu'à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "demain elle ne pourra pas y aller!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If we lock Big Sis in the shrine until"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tomorrow, she won't be able to go!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si on enferme soeurette là-bas jusqu'à\ndemain elle ne pourra pas y aller!",
+   "brut_en": "If[SP]we[SP]lock[SP]Big[SP]Sis[SP]in[SP]the[SP]shrine[SP]until\ntomorrow,[SP]she[SP]won't[SP]be[SP]able[SP]to[SP]go!",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 5,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On ne peut pas! On..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "doit la laisser partir!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We can't, guys! We..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We have to let"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Big Sis go!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On ne peut pas! On...[1205][001E] On\ndoit la laisser partir!",
+   "brut_en": "We[SP]can't,[SP]guys![SP]We...[1205][001E][SP]We[SP]have[SP]to[SP]let\nBig[SP]Sis[SP]go!",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 6,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On va..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tuer soeurette, pas vrai?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We're gonna..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " kill Big Sis, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On va...[1205][001E] tuer soeurette, pas vrai?",
+   "brut_en": "We're[SP]gonna...[1205][001E][SP]kill[SP]Big[SP]Sis,[SP]right?",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pitié, laissez moi! "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "S'il-vous-plaît..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Jun!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Please let me out!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Please..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Help me, Jun-kun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pitié, laissez moi! [1205][001E]S'il-vous-plaît...[1205][001E] Jun!",
+   "brut_en": "Please[SP]let[SP]me[SP]out![1205][001E][SP]Please...[1205][001E][SP]Help[SP]me,[SP]Jun-kun!",
+   "data_size": 122,
+   "budget": 114
+  },
+  {
+   "id": 8,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pour qu'elle n'aille nulle part..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On va tuer soeurette, pas vrai?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "To make sure she can't go anywhere..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We're gonna kill Big Sis, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pour qu'elle n'aille nulle part...[1205][001E]\nOn va tuer soeurette, pas vrai?",
+   "brut_en": "To[SP]make[SP]sure[SP]she[SP]can't[SP]go[SP]anywhere...[1205][001E]\nWe're[SP]gonna[SP]kill[SP]Big[SP]Sis,[SP]right?",
+   "data_size": 168,
+   "budget": 160
+  }
+ ]
+}

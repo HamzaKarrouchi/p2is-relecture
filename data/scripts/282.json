@@ -1,0 +1,684 @@
+{
+ "no": 282,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Voix de fille",
+   "nom_en": "Girl's voice",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " La voici!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je peux avoir un autographe!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There she is!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Can I have your autograph!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh![1205][U+000F] La voici![1205][U+000F] Je peux avoir un autographe!?",
+   "brut_en": "Oh![1205][U+000F][SP]There[SP]she[SP]is![1205][U+000F][SP]Can[SP]I[SP]have[SP]your[SP]autograph!?",
+   "data_size": 134,
+   "budget": 126
+  },
+  {
+   "id": 1,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Steuplééé! On veut vraiment ton autographe!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pleeeease! We really want your autograph!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Steuplééé! On veut vraiment ton autographe!",
+   "brut_en": "Pleeeease![SP]We[SP]really[SP]want[SP]your[SP]autograph!",
+   "data_size": 122,
+   "budget": 114
+  },
+  {
+   "id": 2,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouais, on a pas arrêté de te chercher!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yeah, we've been looking all over for you!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouais, on a pas arrêté de te chercher!",
+   "brut_en": "Yeah,[SP]we've[SP]been[SP]looking[SP]all[SP]over[SP]for[SP]you!",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oooh, un autographe, hein?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bien sûr!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Tous en ligne! Ne vous bousculez pas!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ooooh, an autograph, is it?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sure thing!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Line up now! No pushing or shoving!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oooh, un autographe, hein?[1205][U+000F] Bien sûr![1205][U+000F]\nTous en ligne! Ne vous bousculez pas!",
+   "brut_en": "Ooooh,[SP]an[SP]autograph,[SP]is[SP]it?[1205][U+000F][SP]Sure[SP]thing![1205][U+000F]\nLine[SP]up[SP]now![SP]No[SP]pushing[SP]or[SP]shoving!",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 4,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu es qui?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Who're you?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu es qui?",
+   "brut_en": "Who're[SP]you?",
+   "data_size": 62,
+   "budget": 54
+  },
+  {
+   "id": 5,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allez, Lisa!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Juste un petit autographe!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'mon, Lisa!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Just one little autograph!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Allez, Lisa![1205][U+000F] Juste un petit autographe!?",
+   "brut_en": "C'mon,[SP]Lisa![1205][U+000F][SP]Just[SP]one[SP]little[SP]autograph!?",
+   "data_size": 124,
+   "budget": 116
+  },
+  {
+   "id": 6,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Gné!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Moi!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Me!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Why me!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Gné!?[1205][U+000F] Moi!?[1205][U+000F] Mais!?",
+   "brut_en": "Huh!?[1205][U+000F][SP]Me!?[1205][U+000F][SP]Why[SP]me!?",
+   "data_size": 68,
+   "budget": 60
+  },
+  {
+   "id": 7,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Roh, fais pas genre."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'était"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tellement évident sur l'affiche!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'mon, don't play dumb."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It was so obvious"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "by that poster!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Roh, fais pas genre.[1205][U+000F] C'était\ntellement évident sur l'affiche!",
+   "brut_en": "C'mon,[SP]don't[SP]play[SP]dumb.[1205][U+000F][SP]It[SP]was[SP]so[SP]obvious\nby[SP]that[SP]poster!",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 8,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bravo pour tes débuts sur scène!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " À quand"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la grande annonce?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça sert plus à rien"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de garder le secret entre vous trois..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Congrats on your public debut!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So when's the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "big announcement?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There's no sense keeping it"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a secret between you three anymore..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bravo pour tes débuts sur scène![1205][U+000F] À quand\nla grande annonce?[1205][U+000F] Ça sert plus à rien\nde garder le secret entre vous trois...",
+   "brut_en": "Congrats[SP]on[SP]your[SP]public[SP]debut![1205][U+000F][SP]So[SP]when's[SP]the\nbig[SP]announcement?[1205][U+000F][SP]There's[SP]no[SP]sense[SP]keeping[SP]it\na[SP]secret[SP]between[SP]you[SP]three[SP]anymore...",
+   "data_size": 300,
+   "budget": 292
+  },
+  {
+   "id": 9,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Débuts?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Affiche?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Une seconde,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de quoi vous parlez au juste?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Debut?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Poster?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Wait a second, what the hell"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "are you talking about?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Débuts?[1205][U+000F] Affiche?[1205][U+000F] Une seconde,\nde quoi vous parlez au juste?",
+   "brut_en": "Debut?[1205][U+000F][SP]Poster?[1205][U+000F][SP]Wait[SP]a[SP]second,[SP]what[SP]the[SP]hell\nare[SP]you[SP]talking[SP]about?",
+   "data_size": 162,
+   "budget": 154
+  },
+  {
+   "id": 10,
+   "nom_fr": "Lycéen",
+   "nom_en": "Male student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, d'accord..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu vas garder ça secret alors."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aww, okay..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So you still gotta keep it"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a secret."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh, d'accord...[1205][U+000F] Tu vas garder ça secret alors.",
+   "brut_en": "Aww,[SP]okay...[1205][U+000F][SP]So[SP]you[SP]still[SP]gotta[SP]keep[SP]it\na[SP]secret.",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 11,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ne la forçons pas."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On se retiendra de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "demander un autographe en attendant."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We shouldn't push it."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Let's hold off on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "getting an autograph until later."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ne la forçons pas.[1205][U+000F] On se retiendra de\ndemander un autographe en attendant.",
+   "brut_en": "We[SP]shouldn't[SP]push[SP]it.[1205][U+000F][SP]Let's[SP]hold[SP]off[SP]on\ngetting[SP]an[SP]autograph[SP]until[SP]later.",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 12,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Female student",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On va t'encourager à fond!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "J'espère que ton groupe aidera à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "restaurer la réputation"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de Seven!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We'll totally be rooting for you, though!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I hope your group can help restore Sevens'"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "reputation!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On va t'encourager à fond![1205][U+000F]\nJ'espère que ton groupe aidera à\nrestaurer la réputation[1205][U+000F] de Seven!",
+   "brut_en": "We'll[SP]totally[SP]be[SP]rooting[SP]for[SP]you,[SP]though![1205][U+000F]\nI[SP]hope[SP]your[SP]group[SP]can[SP]help[SP]restore[SP]Sevens'\nreputation!",
+   "data_size": 236,
+   "budget": 228
+  }
+ ]
+}

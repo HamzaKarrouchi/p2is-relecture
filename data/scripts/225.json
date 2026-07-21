@@ -1,0 +1,97 @@
+{
+ "no": 225,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Son masque... Il n'est pas là..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est passé ici? Mais pourquoi...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "His mask... It isn't here..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Don't tell me"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "he's been here? But why...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Son masque... Il n'est pas là...[1205][001E] Il\nest passé ici? Mais pourquoi...?",
+   "brut_en": "His[SP]mask...[SP]It[SP]isn't[SP]here...[1205][001E][SP]Don't[SP]tell[SP]me\nhe's[SP]been[SP]here?[SP]But[SP]why...?",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est ici qu'il avait caché son masque..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This should be the place where he hid"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "his mask..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est ici qu'il avait caché son masque...",
+   "brut_en": "This[SP]should[SP]be[SP]the[SP]place[SP]where[SP]he[SP]hid\nhis[SP]mask...",
+   "data_size": 126,
+   "budget": 118
+  }
+ ]
+}

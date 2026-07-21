@@ -1,0 +1,195 @@
+{
+ "no": 212,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'était magnifique, Mère.  "
+      }
+     ]
+    },
+    {
+     "nom": "Maman de Jun",
+     "seg": [
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Merci Jun. C'est un "
+      },
+      {
+       "hl": "pois de senteur"
+      },
+      {
+       "t": ", tu vois?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That was a wonderful performance, Mother."
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Jun's mother",
+     "seg": [
+      {
+       "t": "Thank you, Jun. This is a "
+      },
+      {
+       "hl": "sweet pea"
+      },
+      {
+       "t": ", yes?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'était magnifique, Mère. [E1][E2] [E3][E4][NULL][NULL]\"Maman de Jun\n[1205][U+000F]\nMerci Jun. C'est un [E4][NULL][NULL][U+0006]pois de senteur[E4][NULL][NULL][0002], tu vois?",
+   "brut_en": "That[SP]was[SP]a[SP]wonderful[SP]performance,[SP]Mother.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun's[SP]mother\nThank[SP]you,[SP]Jun.[SP]This[SP]is[SP]a[SP][E4][NULL][NULL][U+0006]sweet[SP]pea[E4][NULL][NULL][0002],[SP]yes?",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 1,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai décidé de faire des études"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'enseignement après mon diplôme. Je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vais être"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " professeur, comme Père."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've decided to go to the department of"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "education after I graduate. I'm going to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be a teacher, like Father."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai décidé de faire des études\nd'enseignement après mon diplôme. Je\nvais être[1205][U+000F] professeur, comme Père.",
+   "brut_en": "I've[SP]decided[SP]to[SP]go[SP]to[SP]the[SP]department[SP]of\neducation[SP]after[SP]I[SP]graduate.[SP]I'm[SP]going[SP]to\nbe[SP]a[SP]teacher,[SP]like[SP]Father.",
+   "data_size": 234,
+   "budget": 226
+  },
+  {
+   "id": 2,
+   "nom_fr": "Mère de Jun",
+   "nom_en": "Jun's mother",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraiment! Ça lui ferait tellement plaisir."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On a pas diné ensemble depuis des lustres."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " vais cuisiner ton plat préféré ce soir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Really! I'm sure he'd be delighted to hear it."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It's been a while since we all had dinner"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "together, so I'll cook your favorite tonight."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraiment! Ça lui ferait tellement plaisir.\nOn a pas diné ensemble depuis des lustres.\nJe[1205][U+000F] vais cuisiner ton plat préféré ce soir.",
+   "brut_en": "Really![SP]I'm[SP]sure[SP]he'd[SP]be[SP]delighted[SP]to[SP]hear[SP]it.\nIt's[SP]been[SP]a[SP]while[SP]since[SP]we[SP]all[SP]had[SP]dinner\ntogether,[SP]so[SP]I'll[SP]cook[SP]your[SP]favorite[SP]tonight.",
+   "data_size": 306,
+   "budget": 298
+  }
+ ]
+}

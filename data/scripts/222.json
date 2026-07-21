@@ -1,0 +1,425 @@
+{
+ "no": 222,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! Il ne plaisantait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas, y'a des bombes partout!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! He wasn't kidding! There's bombs"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "all over the place!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aiyah! Il ne plaisantait\npas, y'a des bombes partout!",
+   "brut_en": "Aiyah![SP]He[SP]wasn't[SP]kidding![SP]There's[SP]bombs\nall[SP]over[SP]the[SP]place!",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! On se dépêche et on sort! J'ai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tout sauf envie de finir carbonisée!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! We gotta hurry and book it!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I don't want to end up a crispy critter!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]! On se dépêche et on sort! J'ai\ntout sauf envie de finir carbonisée!",
+   "brut_en": "[1113]![SP]We[SP]gotta[SP]hurry[SP]and[SP]book[SP]it!\nI[SP]don't[SP]want[SP]to[SP]end[SP]up[SP]a[SP]crispy[SP]critter!",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On est incapables de désamorcer les bombes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "! Essayons plutôt de trouver la devinette!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's not like we know how to defuse bombs"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "anyway! Let's focus on the hunt for that riddle!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On est incapables de désamorcer les bombes\n! Essayons plutôt de trouver la devinette!",
+   "brut_en": "It's[SP]not[SP]like[SP]we[SP]know[SP]how[SP]to[SP]defuse[SP]bombs\nanyway![SP]Let's[SP]focus[SP]on[SP]the[SP]hunt[SP]for[SP]that[SP]riddle!",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Là, je rejoins Ginko! Si le plus grand des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "musiciens en devenir cassait sa pipe, mes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fans du monde entier seraient dévastés!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm with Ginko on this one! If the future's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "greatest musician kicked the bucket here, my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fans around the world would be crushed!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Là, je rejoins Ginko! Si le plus grand des\nmusiciens en devenir cassait sa pipe, mes\nfans du monde entier seraient dévastés!",
+   "brut_en": "I'm[SP]with[SP]Ginko[SP]on[SP]this[SP]one![SP]If[SP]the[SP]future's\ngreatest[SP]musician[SP]kicked[SP]the[SP]bucket[SP]here,[SP]my\nfans[SP]around[SP]the[SP]world[SP]would[SP]be[SP]crushed!",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nous devons réfléchir à sa prochaine cible."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il faut stopper les plans du Roi Lion, ou"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'autres innocents s'y retrouveront mêlés!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The question is, what's his next target?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "If we leave King Leo to his own devices, more"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "innocent people will be dragged into this!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Nous devons réfléchir à sa prochaine cible.\nIl faut stopper les plans du Roi Lion, ou[1205][U+000F]\nd'autres innocents s'y retrouveront mêlés!",
+   "brut_en": "The[SP]question[SP]is,[SP]what's[SP]his[SP]next[SP]target?\nIf[SP]we[SP]leave[SP]King[SP]Leo[SP]to[SP]his[SP]own[SP]devices,[SP]more\ninnocent[SP]people[SP]will[SP]be[SP]dragged[SP]into[SP]this!",
+   "data_size": 280,
+   "budget": 272
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Personne d'autre ne devrait vivre ça..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No one else should have to go through"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Personne d'autre ne devrait vivre ça...",
+   "brut_en": "No[SP]one[SP]else[SP]should[SP]have[SP]to[SP]go[SP]through\nthis...",
+   "data_size": 112,
+   "budget": 104
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nous allons arrêter à sa folie!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We're definitely stopping this madness!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Nous allons arrêter à sa folie!",
+   "brut_en": "We're[SP]definitely[SP]stopping[SP]this[SP]madness!",
+   "data_size": 100,
+   "budget": 92
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Clairement! C'est indigne d'une héroine de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "s'arrêter avant d'avoir réalisé son rêve!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I agree! It's unbecoming of a heroine to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "make a stopover before her dream comes true!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Clairement! C'est indigne d'une héroine de\ns'arrêter avant d'avoir réalisé son rêve!",
+   "brut_en": "I[SP]agree![SP]It's[SP]unbecoming[SP]of[SP]a[SP]heroine[SP]to\nmake[SP]a[SP]stopover[SP]before[SP]her[SP]dream[SP]comes[SP]true!",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 8,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a trop de bombes pour espérer les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "désarmer individuellement! Il vaut"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mieux abandonner"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " la salle de concert."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's no time to disarm each individual"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bomb with so many here! I think we have to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "give up on the concert hall."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a trop de bombes pour espérer les\ndésarmer individuellement! Il vaut\nmieux abandonner[1205][U+000F] la salle de concert.",
+   "brut_en": "There's[SP]no[SP]time[SP]to[SP]disarm[SP]each[SP]individual\nbomb[SP]with[SP]so[SP]many[SP]here![SP]I[SP]think[SP]we[SP]have[SP]to\ngive[SP]up[SP]on[SP]the[SP]concert[SP]hall.",
+   "data_size": 252,
+   "budget": 244
+  }
+ ]
+}

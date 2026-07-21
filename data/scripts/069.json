@@ -1,0 +1,191 @@
+{
+ "no": 69,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Sailor-suited girl",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun! "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]! [1113]!",
+   "brut_en": "[1113]-kun![SP][1113]-kun!",
+   "data_size": 76,
+   "budget": 68
+  },
+  {
+   "id": 1,
+   "nom_fr": "Lycéenne",
+   "nom_en": "Sailor-suited girl",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", tu m'entends!? S'il te"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plaît..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Réponds-moi! "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun, can you hear me!? Please..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Answer me! "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113], tu m'entends!? S'il te\nplaît...[1205][001E] Réponds-moi! [1113]!",
+   "brut_en": "[1113]-kun,[SP]can[SP]you[SP]hear[SP]me!?[SP]Please...[1205][001E]\nAnswer[SP]me![SP][1113]-kun!",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 2,
+   "nom_fr": "Jeune homme fou",
+   "nom_en": "Insane young man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Heehee..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hyahaha!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hyaaaahahahahaaaa!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Heehee..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hyahaha!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hyaaaahahahahaaaa!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Heh...[1205][001E] Heehee...[1205][001E] Hyahaha![1205][001E] Hyaaaahahahahaaaa!",
+   "brut_en": "Heh...[1205][001E][SP]Heehee...[1205][001E][SP]Hyahaha![1205][001E][SP]Hyaaaahahahahaaaa!",
+   "data_size": 146,
+   "budget": 138
+  }
+ ]
+}

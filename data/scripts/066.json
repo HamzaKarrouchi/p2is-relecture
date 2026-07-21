@@ -1,0 +1,345 @@
+{
+ "no": 66,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bon sang..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Trop tard!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dammit..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We were too late!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bon sang...[1205][001E] Trop tard!",
+   "brut_en": "Dammit...[1205][001E][SP]We[SP]were[SP]too[SP]late!",
+   "data_size": 86,
+   "budget": 78
+  },
+  {
+   "id": 1,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Anna!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Elle n'est pas là... Pourquoi faire ça!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Anna!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " She's not here... Why would she"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "do this!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Anna![1205][001E] Elle n'est pas là... Pourquoi faire ça!?",
+   "brut_en": "Anna![1205][001E][SP]She's[SP]not[SP]here...[SP]Why[SP]would[SP]she\ndo[SP]this!?",
+   "data_size": 124,
+   "budget": 116
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Purée! C'est terrible! C'est quoi cet"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oracle de Maia pour que le Cercle masqué"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fasse des choses aussi horribles!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Kehhei! This is terrible! What is this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Oracle of Maia, anyway, that makes the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Masked Circle do such horrible things!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Purée! C'est terrible! C'est quoi cet\nOracle de Maia pour que le Cercle masqué\nfasse des choses aussi horribles!?",
+   "brut_en": "Kehhei![SP]This[SP]is[SP]terrible![SP]What[SP]is[SP]this\nOracle[SP]of[SP]Maia,[SP]anyway,[SP]that[SP]makes[SP]the\nMasked[SP]Circle[SP]do[SP]such[SP]horrible[SP]things!?",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yasuo est mort aussi..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sommes-nous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bloqués dans la recherche de Joker!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yasuo's dead, too..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Does this mean we've"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "hit a wall in our search for Joker!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Yasuo est mort aussi...[1205][001E] Sommes-nous\nbloqués dans la recherche de Joker!?",
+   "brut_en": "Yasuo's[SP]dead,[SP]too...[1205][001E][SP]Does[SP]this[SP]mean[SP]we've\nhit[SP]a[SP]wall[SP]in[SP]our[SP]search[SP]for[SP]Joker!?",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Où il y a des rumeurs, Joker y est, non?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Allons en ville demander aux gens s'ils ont"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des rumeurs sur le Cercle masqué et Joker!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Guys, wherever rumors are, Joker's there too,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "right? Let's go out in the city and ask people"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "for rumors about the Masked Circle and Joker!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Où il y a des rumeurs, Joker y est, non?\nAllons en ville demander aux gens s'ils ont[1205][U+000F]\ndes rumeurs sur le Cercle masqué et Joker!",
+   "brut_en": "Guys,[SP]wherever[SP]rumors[SP]are,[SP]Joker's[SP]there[SP]too,\nright?[SP]Let's[SP]go[SP]out[SP]in[SP]the[SP]city[SP]and[SP]ask[SP]people\nfor[SP]rumors[SP]about[SP]the[SP]Masked[SP]Circle[SP]and[SP]Joker!",
+   "data_size": 298,
+   "budget": 290
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On apprendra sûrement des trucs!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm sure we'll learn something new!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On apprendra sûrement des trucs!",
+   "brut_en": "I'm[SP]sure[SP]we'll[SP]learn[SP]something[SP]new!",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 6,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a forcément une raison pour"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qu'Anna soit cadre du Cercle masqué..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There must be a reason why Anna became an"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "executive in the Masked Circle..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a forcément une raison pour\nqu'Anna soit cadre du Cercle masqué...[1205][001E]",
+   "brut_en": "There[SP]must[SP]be[SP]a[SP]reason[SP]why[SP]Anna[SP]became[SP]an\nexecutive[SP]in[SP]the[SP]Masked[SP]Circle...[1205][001E]",
+   "data_size": 180,
+   "budget": 172
+  }
+ ]
+}

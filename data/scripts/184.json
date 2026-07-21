@@ -1,0 +1,547 @@
+{
+ "no": 184,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "L-La chance Jun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " j-je n'arrive pas à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c-croire que ton p-père t'offre ça..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y-You're s-so lucky, Jun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I c-can't believe"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "your d-d-dad buys you s-stuff like this..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "L-La chance Jun...[1205][001E] j-je n'arrive pas à\nc-croire que ton p-père t'offre ça...",
+   "brut_en": "Y-You're[SP]s-so[SP]lucky,[SP]Jun...[1205][001E][SP]I[SP]c-can't[SP]believe\nyour[SP]d-d-dad[SP]buys[SP]you[SP]s-stuff[SP]like[SP]this...",
+   "data_size": 208,
+   "budget": 200
+  },
+  {
+   "id": 1,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eheh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je te montrerai quelques"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "étoiles. Père en connaît un paquet!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eheheh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'll show you some stars, too."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Papa knows lots about the stars!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eheh...[1205][001E] Je te montrerai quelques\nétoiles. Père en connaît un paquet!",
+   "brut_en": "Eheheh...[1205][001E][SP]I'll[SP]show[SP]you[SP]some[SP]stars,[SP]too.\nPapa[SP]knows[SP]lots[SP]about[SP]the[SP]stars!",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, c'est tellement cool! Le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mien est toujours occupé..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wow, that's so cool! My daddy's always busy"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "with his job."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Wow, c'est tellement cool! Le\nmien est toujours occupé...",
+   "brut_en": "Wow,[SP]that's[SP]so[SP]cool![SP]My[SP]daddy's[SP]always[SP]busy\nwith[SP]his[SP]job.",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dis Jun! Il est comment ton papa?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, Jun! What's your daddy like?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Dis Jun! Il est comment ton papa?",
+   "brut_en": "Hey,[SP]Jun![SP]What's[SP]your[SP]daddy[SP]like?",
+   "data_size": 90,
+   "budget": 82
+  },
+  {
+   "id": 4,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Euhh..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bahh..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Um..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Well..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Euhh...[1205][001E]...[1205][001E] Bahh...",
+   "brut_en": "Huh?[1205][001E][SP]Um...[1205][001E][SP]Well...",
+   "data_size": 64,
+   "budget": 56
+  },
+  {
+   "id": 5,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il est... trop fort et..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Incroyable..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vraiment!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "H-He's really cool and strong and great..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Really!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il est... trop fort et...\nIncroyable...[1205][001E] Vraiment!",
+   "brut_en": "H-He's[SP]really[SP]cool[SP]and[SP]strong[SP]and[SP]great...[1205][001E]\nReally!",
+   "data_size": 124,
+   "budget": 116
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sérieux...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai pas de père, je suis un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "peu jalouse..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tu as de la chance Jun-kun!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Seriously...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I don't have a dad, so I'm"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "kinda jealous..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You're so lucky, Jun-kun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sérieux...?[1205][001E] J'ai pas de père, je suis un\npeu jalouse...[1205][001E] Tu as de la chance Jun-kun!",
+   "brut_en": "Seriously...?[1205][001E][SP]I[SP]don't[SP]have[SP]a[SP]dad,[SP]so[SP]I'm\nkinda[SP]jealous...[1205][001E][SP]You're[SP]so[SP]lucky,[SP]Jun-kun!",
+   "data_size": 196,
+   "budget": 188
+  },
+  {
+   "id": 7,
+   "nom_fr": "Fille pleurnicharde",
+   "nom_en": "Sniveling brat",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Menteuse! Ta mère a dit à la mienne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que ton père est un "
+      },
+      {
+       "enc": "éreinté"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You're such a liar! Your mom told my mom that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "your daddy is a "
+      },
+      {
+       "enc": "deadbeat"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Menteuse! Ta mère a dit à la mienne\nque ton père est un [1432][NULL][NULL][0014]éreinté[1432][NULL][NULL][0014]!",
+   "brut_en": "You're[SP]such[SP]a[SP]liar![SP]Your[SP]mom[SP]told[SP]my[SP]mom[SP]that\nyour[SP]daddy[SP]is[SP]a[SP][1432][NULL][NULL][0014]deadbeat[1432][NULL][NULL][0014]!",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 8,
+   "nom_fr": "Fille pénible",
+   "nom_en": "Annoying brat",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Menteuse, ton nez s'allonge!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est un bon à rien!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Liar, liar, pants on fire! Deadbeat dad!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Deadbeat!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Menteuse, ton nez s'allonge!\nC'est un bon à rien!",
+   "brut_en": "Liar,[SP]liar,[SP]pants[SP]on[SP]fire![SP]Deadbeat[SP]dad!\nDeadbeat!",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Arrêtez ça tout de suite!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey! Stop that right now!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Arrêtez ça tout de suite!",
+   "brut_en": "Hey![SP]Stop[SP]that[SP]right[SP]now!",
+   "data_size": 72,
+   "budget": 64
+  },
+  {
+   "id": 10,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-Ne fais p-pas attention..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Elles"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "m'ont d-déja dit p-p-pire..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "D-Don't worry about those k-kids..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " They"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "say even m-meaner s-stuff to m-me..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "N-Ne fais p-pas attention...[1205][001E] Elles\nm'ont d-déja dit p-p-pire...",
+   "brut_en": "D-Don't[SP]worry[SP]about[SP]those[SP]k-kids...[1205][001E][SP]They\nsay[SP]even[SP]m-meaner[SP]s-stuff[SP]to[SP]m-me...",
+   "data_size": 186,
+   "budget": 178
+  }
+ ]
+}

@@ -1,0 +1,636 @@
+{
+ "no": 98,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oui... C'est là où tu l'as caché, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's right... This was where you hid yours,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oui... C'est là où tu l'as caché, [1113]...[1205][001E]",
+   "brut_en": "That's[SP]right...[SP]This[SP]was[SP]where[SP]you[SP]hid[SP]yours,\n[1113]...[1205][001E]",
+   "data_size": 128,
+   "budget": 120
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On devait tout sceller afin que nos pécher"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nous rattrapent pas..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Incluant nos"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "souvenirs..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je suis désolé, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We must've sealed everything so that our"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sins wouldn't catch up to us..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Including"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "our memories..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm sorry, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On devait tout sceller afin que nos pécher\nnous rattrapent pas...[1205][001E] Incluant nos\nsouvenirs...[1205][001E] Je suis désolé, [1113]...",
+   "brut_en": "We[SP]must've[SP]sealed[SP]everything[SP]so[SP]that[SP]our\nsins[SP]wouldn't[SP]catch[SP]up[SP]to[SP]us...[1205][001E][SP]Including\nour[SP]memories...[1205][001E][SP]I'm[SP]sorry,[SP][1113]...",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Le  que j'ai connu était plus"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "énergique..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est sûrement notre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "faute si tu es devenu si froid."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The  I knew then was a lot more"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "energetic..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's probably our fault that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you became so distant."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Le [1114] que j'ai connu était plus\nénergique...[1205][001E] C'est sûrement notre\nfaute si tu es devenu si froid.[1205][001E]",
+   "brut_en": "The[SP][1114][SP]I[SP]knew[SP]then[SP]was[SP]a[SP]lot[SP]more\nenergetic...[1205][001E][SP]It's[SP]probably[SP]our[SP]fault[SP]that\nyou[SP]became[SP]so[SP]distant.[1205][001E]",
+   "data_size": 230,
+   "budget": 222
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je sais que les mots ne font pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tous..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais je n'ai aucun autre choix"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "que de m'excuser."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je suis désolé..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I know that words can never be enough..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But there's nothing else I can do now"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "besides apologize."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I'm so sorry..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je sais que les mots ne font pas\ntous...[1205][001E] Mais je n'ai aucun autre choix\nque de m'excuser.[1205][001E] Je suis désolé...",
+   "brut_en": "I[SP]know[SP]that[SP]words[SP]can[SP]never[SP]be[SP]enough...[1205][001E]\nBut[SP]there's[SP]nothing[SP]else[SP]I[SP]can[SP]do[SP]now\nbesides[SP]apologize.[1205][001E][SP]I'm[SP]so[SP]sorry...",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu connais la phrase la plus utile au monde?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Do you know what the most convenient phrase"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in the world is?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu connais la phrase la plus utile au monde?",
+   "brut_en": "Do[SP]you[SP]know[SP]what[SP]the[SP]most[SP]convenient[SP]phrase\nin[SP]the[SP]world[SP]is?",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est "
+      },
+      {
+       "enc": "Je suis désolé."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Quiconque qui"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "entend ça, qu'il soit blessé ou en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "colère, se doit"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de pardonner..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's "
+      },
+      {
+       "enc": "I'm sorry."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Anyone who hears that is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "obligated to forgive, no matter how hurt or"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "angry they may be..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est [1432][NULL][NULL][0014]Je suis désolé.[1432][NULL][NULL][0014][1205][001E] Quiconque qui\nentend ça, qu'il soit blessé ou en\ncolère, se doit[1205][U+000F] de pardonner...",
+   "brut_en": "It's[SP][1432][NULL][NULL][0014]I'm[SP]sorry.[1432][NULL][NULL][0014][1205][001E][SP]Anyone[SP]who[SP]hears[SP]that[SP]is\nobligated[SP]to[SP]forgive,[SP]no[SP]matter[SP]how[SP]hurt[SP]or\nangry[SP]they[SP]may[SP]be...",
+   "data_size": 252,
+   "budget": 244
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il n'y a pas plus ignoble comme phrase."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Elle est utilisé pour échapper à tes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pécher "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " tout en les léguant à autrui..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's no more disgusting phrase in all the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "world. It's used to displace your suffering"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "onto others so you can escape your sins..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il n'y a pas plus ignoble comme phrase.\nElle est utilisé pour échapper à tes\npécher [1205][U+000F] tout en les léguant à autrui...",
+   "brut_en": "There's[SP]no[SP]more[SP]disgusting[SP]phrase[SP]in[SP]all[SP]the\nworld.[SP]It's[SP]used[SP]to[SP]displace[SP]your[SP]suffering\nonto[SP]others[SP]so[SP]you[SP]can[SP]escape[SP]your[SP]sins...",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tes souffrances deviennent les leurs au"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "moment où tu l'emploi. Une chose peu être"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "impardonable mais bon, si on est désolé..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The moment you employ it, your suffering"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "becomes the other person's. A thing can be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "unforgivable, but oh, if they apologize..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tes souffrances deviennent les leurs au\nmoment où tu l'emploi. Une chose peu être[1205][U+000F]\nimpardonable mais bon, si on est désolé...",
+   "brut_en": "The[SP]moment[SP]you[SP]employ[SP]it,[SP]your[SP]suffering\nbecomes[SP]the[SP]other[SP]person's.[SP]A[SP]thing[SP]can[SP]be\nunforgivable,[SP]but[SP]oh,[SP]if[SP]they[SP]apologize...",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je dirai qu'il n'y a aucune raison de les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "accepter. Tu n'as pas à les pardonner."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Enlève le masque de ta conscience."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I say there's no reason to accept that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "suffering. You don't have to forgive them."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Cast aside the mask of your conscience."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je dirai qu'il n'y a aucune raison de les\naccepter. Tu n'as pas à les pardonner.\nEnlève le masque de ta conscience.",
+   "brut_en": "I[SP]say[SP]there's[SP]no[SP]reason[SP]to[SP]accept[SP]that\nsuffering.[SP]You[SP]don't[SP]have[SP]to[SP]forgive[SP]them.\nCast[SP]aside[SP]the[SP]mask[SP]of[SP]your[SP]conscience.",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 9,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Je suis désolé"
+      },
+      {
+       "t": ", une phrase"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ignoble...? Je crois pas."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "I'm sorry"
+      },
+      {
+       "t": " is a disgusting phrase...?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I don't think so."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Je suis désolé[1432][NULL][NULL][0014], une phrase\nignoble...? Je crois pas.",
+   "brut_en": "[1432][NULL][NULL][0014]I'm[SP]sorry[1432][NULL][NULL][0014][SP]is[SP]a[SP]disgusting[SP]phrase...?\nI[SP]don't[SP]think[SP]so.",
+   "data_size": 150,
+   "budget": 142
+  }
+ ]
+}

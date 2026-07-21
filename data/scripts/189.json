@@ -1,0 +1,789 @@
+{
+ "no": 189,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé,"
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On marche depuis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "longtemps, non? Je suis crevée..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Haven't we been walking for"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a long time? I'm tired..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé,[1113]...[1205][001E] On marche depuis\nlongtemps, non? Je suis crevée...",
+   "brut_en": "Hey,[SP][1113]...[1205][001E][SP]Haven't[SP]we[SP]been[SP]walking[SP]for\na[SP]long[SP]time?[SP]I'm[SP]tired...",
+   "data_size": 152,
+   "budget": 144
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y a pas une source de soin quelque part!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Isn't there a healing spring around anywhere!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Y a pas une source de soin quelque part!?",
+   "brut_en": "Isn't[SP]there[SP]a[SP]healing[SP]spring[SP]around[SP]anywhere!?",
+   "data_size": 114,
+   "budget": 106
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est vrai..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On n'a pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vu Igor depuis un moment."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You've got a point..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We haven't seen Igor's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "face in a while, either."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est vrai...[1205][001E] On n'a pas\nvu Igor depuis un moment.",
+   "brut_en": "You've[SP]got[SP]a[SP]point...[1205][001E][SP]We[SP]haven't[SP]seen[SP]Igor's\nface[SP]in[SP]a[SP]while,[SP]either.",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'aimerais changer quelques Personae..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I kinda wish we could have a chance to switch"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "out some of our Personas..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'aimerais changer quelques Personae...",
+   "brut_en": "I[SP]kinda[SP]wish[SP]we[SP]could[SP]have[SP]a[SP]chance[SP]to[SP]switch\nout[SP]some[SP]of[SP]our[SP]Personas...",
+   "data_size": 172,
+   "budget": 164
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On est mal..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Pas le temps de retourner en"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ville, et même si on pouvait..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tenez bon."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We're in a real fix..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " There's no time to go"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "back to the city and no way to get there if"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "we could. Just hang in there, guys."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On est mal...[1205][001E] Pas le temps de retourner en\nville, et même si on pouvait...[1205][U+000F] Tenez bon.",
+   "brut_en": "We're[SP]in[SP]a[SP]real[SP]fix...[1205][001E][SP]There's[SP]no[SP]time[SP]to[SP]go\nback[SP]to[SP]the[SP]city[SP]and[SP]no[SP]way[SP]to[SP]get[SP]there[SP]if\nwe[SP]could.[SP]Just[SP]hang[SP]in[SP]there,[SP]guys.",
+   "data_size": 272,
+   "budget": 264
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Au moins, les gars du Bataillon"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sont bloqués aussi..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "At least those Last Battalion guys can't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "get out either..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Au moins, les gars du Bataillon\nsont bloqués aussi...",
+   "brut_en": "At[SP]least[SP]those[SP]Last[SP]Battalion[SP]guys[SP]can't\nget[SP]out[SP]either...",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 6,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ils sont fiers de leur matos high-tech, non?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ils ont peut-être un"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " moyen d'entrer et sortir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They're proud of all their high-tech gizmos,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aren't they? I wonder if they brought anything"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "they can use to get in and out of here."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ils sont fiers de leur matos high-tech, non?\nIls ont peut-être un[1205][U+000F] moyen d'entrer et sortir.",
+   "brut_en": "They're[SP]proud[SP]of[SP]all[SP]their[SP]high-tech[SP]gizmos,\naren't[SP]they?[SP]I[SP]wonder[SP]if[SP]they[SP]brought[SP]anything\nthey[SP]can[SP]use[SP]to[SP]get[SP]in[SP]and[SP]out[SP]of[SP]here.",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 7,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Inutile d'espérer un miracle..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Avançons."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No use hoping for a miracle..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Let's just go."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Inutile d'espérer un miracle...[1205][001E] Avançons.",
+   "brut_en": "No[SP]use[SP]hoping[SP]for[SP]a[SP]miracle...[1205][001E][SP]Let's[SP]just[SP]go.",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 8,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Attends, regarde..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Cette porte dit "
+      },
+      {
+       "enc": "Velvet"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Room"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et l'autre,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "enc": "Source de Trish"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wait, look..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " This door says "
+      },
+      {
+       "enc": "Velvet Room"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "And the one over here says "
+      },
+      {
+       "enc": "Trish's Spring."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Attends, regarde...[1205][001E] Cette porte dit [1432][NULL][NULL][0014]Velvet\nRoom[1432][NULL][NULL][0014]...[1205][001E] Et l'autre,[1205][U+000F] [1432][NULL][NULL][0014]Source de Trish[1432][NULL][NULL][0014].",
+   "brut_en": "Wait,[SP]look...[1205][001E][SP]This[SP]door[SP]says[SP][1432][NULL][NULL][0014]Velvet[SP]Room[1432][NULL][NULL][0014]...[1205][001E]\nAnd[SP]the[SP]one[SP]over[SP]here[SP]says[SP][1432][NULL][NULL][0014]Trish's[SP]Spring.[1432][NULL][NULL][0014]",
+   "data_size": 230,
+   "budget": 222
+  },
+  {
+   "id": 9,
+   "nom_fr": "Eikichi, Maya & Ginko",
+   "nom_en": "Eikichi, Maya & Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Sérieux!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Seriously!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein...?[1205][001E] Sérieux!?",
+   "brut_en": "Huh...?[1205][001E][SP]Seriously!?",
+   "data_size": 96,
+   "budget": 88
+  },
+  {
+   "id": 10,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yes! Quelle chance! On y va, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! We're so lucky! Let's go, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Yes! Quelle chance! On y va, [1113]!",
+   "brut_en": "Aiyah![SP]We're[SP]so[SP]lucky![SP]Let's[SP]go,[SP][1113]!",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 11,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ô déesse du destin, merci! Merci! On fonce!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, goddess of destiny, thank you! Thank you!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Let's break on through!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ô déesse du destin, merci! Merci! On fonce!",
+   "brut_en": "Oh,[SP]goddess[SP]of[SP]destiny,[SP]thank[SP]you![SP]Thank[SP]you!\nLet's[SP]break[SP]on[SP]through!",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 12,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A-Ah..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y-Yikes..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "A-Ah...[1205][001E]",
+   "brut_en": "Y-Yikes...[1205][001E]",
+   "data_size": 46,
+   "budget": 38
+  },
+  {
+   "id": 13,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ça sent le piège! Vite, suivons-les!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh man, this has to be some kind of trap!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We need to hurry after them!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ça sent le piège! Vite, suivons-les!",
+   "brut_en": "Oh[SP]man,[SP]this[SP]has[SP]to[SP]be[SP]some[SP]kind[SP]of[SP]trap!\nWe[SP]need[SP]to[SP]hurry[SP]after[SP]them!",
+   "data_size": 158,
+   "budget": 150
+  },
+  {
+   "id": 14,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vais voir Eikichi. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ","
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "toi et Jun, suivez Lisa!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'll go after Eikichi-kun. "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you and Jun-kun follow Lisa!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vais voir Eikichi. [1113],\ntoi et Jun, suivez Lisa!",
+   "brut_en": "I'll[SP]go[SP]after[SP]Eikichi-kun.[SP][1113]-kun,\nyou[SP]and[SP]Jun-kun[SP]follow[SP]Lisa!",
+   "data_size": 144,
+   "budget": 136
+  },
+  {
+   "id": 15,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Maya a raison. Allons-y,"
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Big Maya's right, I think. Let's go, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Maya a raison. Allons-y,[1113]!",
+   "brut_en": "Big[SP]Maya's[SP]right,[SP]I[SP]think.[SP]Let's[SP]go,[SP][1113]!",
+   "data_size": 96,
+   "budget": 88
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "no": 221,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! Il restait des gens ici!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! There's still people here!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aiyah! Il restait des gens ici!",
+   "brut_en": "Aiyah![SP]There's[SP]still[SP]people[SP]here!",
+   "data_size": 90,
+   "budget": 82
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pourquoi vous êtes là!? Sortez,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'endroit est rempli de bombes!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What're you guys doing here!? You gotta run!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "There's bombs everywhere!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pourquoi vous êtes là!? Sortez,\nl'endroit est rempli de bombes!",
+   "brut_en": "What're[SP]you[SP]guys[SP]doing[SP]here!?[SP]You[SP]gotta[SP]run!\nThere's[SP]bombs[SP]everywhere!",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 2,
+   "nom_fr": "Personnel",
+   "nom_en": "Concert staff",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vraiment!? C-Ce n'est pas drôle..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "S-Seriously!? How!? That ain't funny!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vraiment!? C-Ce n'est pas drôle...",
+   "brut_en": "S-Seriously!?[SP]How!?[SP]That[SP]ain't[SP]funny!",
+   "data_size": 114,
+   "budget": 106
+  },
+  {
+   "id": 3,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allez, on a vraiment pas le temps de discuter!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alright, we don't have time to fool around"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "either!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Allez, on a vraiment pas le temps de discuter!",
+   "brut_en": "Alright,[SP]we[SP]don't[SP]have[SP]time[SP]to[SP]fool[SP]around\neither!",
+   "data_size": 126,
+   "budget": 118
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je laisserais pas faire ces"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tarés! Pas vrai, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'll never let those creeps get their way!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Right, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je laisserais pas faire ces\ntarés! Pas vrai, [1113]!?",
+   "brut_en": "I'll[SP]never[SP]let[SP]those[SP]creeps[SP]get[SP]their[SP]way!\nRight,[SP][1113]!?",
+   "data_size": 130,
+   "budget": 122
+  },
+  {
+   "id": 5,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! On se dépêche et on sort! J'ai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tout sauf envie de finir carbonisée!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! We gotta hurry and book it!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I don't want to end up a crispy critter!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]! On se dépêche et on sort! J'ai\ntout sauf envie de finir carbonisée!",
+   "brut_en": "[1113]![SP]We[SP]gotta[SP]hurry[SP]and[SP]book[SP]it!\nI[SP]don't[SP]want[SP]to[SP]end[SP]up[SP]a[SP]crispy[SP]critter!",
+   "data_size": 166,
+   "budget": 158
+  },
+  {
+   "id": 6,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non, pas une trace de devinette dans ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "coin! Où est-ce que cet enfoiré l'a cachée!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't see any riddle here either! That rat"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bastard! Where the hell did he hide it!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non, pas une trace de devinette dans ce\ncoin! Où est-ce que cet enfoiré l'a cachée!?",
+   "brut_en": "I[SP]don't[SP]see[SP]any[SP]riddle[SP]here[SP]either![SP]That[SP]rat\nbastard![SP]Where[SP]the[SP]hell[SP]did[SP]he[SP]hide[SP]it!?",
+   "data_size": 198,
+   "budget": 190
+  },
+  {
+   "id": 7,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Là, je rejoins Ginko! Si le plus grand des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "musiciens en devenir cassait sa pipe, mes"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fans du monde entier seraient dévastés!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm with Ginko on this one! If the future's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "greatest musician kicked the bucket here, my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fans around the world would be crushed!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Là, je rejoins Ginko! Si le plus grand des\nmusiciens en devenir cassait sa pipe, mes\nfans du monde entier seraient dévastés!",
+   "brut_en": "I'm[SP]with[SP]Ginko[SP]on[SP]this[SP]one![SP]If[SP]the[SP]future's\ngreatest[SP]musician[SP]kicked[SP]the[SP]bucket[SP]here,[SP]my\nfans[SP]around[SP]the[SP]world[SP]would[SP]be[SP]crushed!",
+   "data_size": 284,
+   "budget": 276
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bien dit Lisa! On ne joue pas impunément"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec les rêves et les espoirs des gens."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's right, Lisa! No one should get away"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "with toying with people's hopes and dreams."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bien dit Lisa! On ne joue pas impunément\navec les rêves et les espoirs des gens.",
+   "brut_en": "That's[SP]right,[SP]Lisa![SP]No[SP]one[SP]should[SP]get[SP]away\nwith[SP]toying[SP]with[SP]people's[SP]hopes[SP]and[SP]dreams.",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Clairement! C'est indigne d'une héroine de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "s'arrêter avant d'avoir réalisé son rêve!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I agree! It's unbecoming of a heroine to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "make a stopover before her dream comes true!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Clairement! C'est indigne d'une héroine de\ns'arrêter avant d'avoir réalisé son rêve!",
+   "brut_en": "I[SP]agree![SP]It's[SP]unbecoming[SP]of[SP]a[SP]heroine[SP]to\nmake[SP]a[SP]stopover[SP]before[SP]her[SP]dream[SP]comes[SP]true!",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 10,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ici non plus, je ne trouve rien..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "devrait peut-être changer de pièce."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't see anything here either..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Maybe we're looking in the wrong room."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ici non plus, je ne trouve rien...[1205][001E] On\ndevrait peut-être changer de pièce.",
+   "brut_en": "I[SP]don't[SP]see[SP]anything[SP]here[SP]either...[1205][001E]\nMaybe[SP]we're[SP]looking[SP]in[SP]the[SP]wrong[SP]room.",
+   "data_size": 178,
+   "budget": 170
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "no": 71,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Écolier",
+   "nom_en": "Grade-schooler",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Au secours! A l'aide!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Help! Someone help!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Au secours! A l'aide!",
+   "brut_en": "Help![SP]Someone[SP]help!",
+   "data_size": 80,
+   "budget": 72
+  },
+  {
+   "id": 1,
+   "nom_fr": "Écolier",
+   "nom_en": "Grade-schooler",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hrrrrgh! Nnnnngh! Ugh..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hrrrrgh! Nnnnngh! Ugh..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hrrrrgh! Nnnnngh! Ugh...",
+   "brut_en": "Hrrrrgh![SP]Nnnnngh![SP]Ugh...",
+   "data_size": 90,
+   "budget": 82
+  },
+  {
+   "id": 2,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ca ne va pas. L'ascenseur est cassé."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's no good. The elevator's broken."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ca ne va pas. L'ascenseur est cassé.",
+   "brut_en": "It's[SP]no[SP]good.[SP]The[SP]elevator's[SP]broken.",
+   "data_size": 100,
+   "budget": 92
+  },
+  {
+   "id": 3,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Écarte-toi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Step aside."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Écarte-toi.",
+   "brut_en": "Step[SP]aside.",
+   "data_size": 48,
+   "budget": 40
+  },
+  {
+   "id": 4,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu parles d'une situation... Bon, on va juste"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le sortir de là. J'ai besoin de ton aide là, !"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Talk about an odd situation... Oh well,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "we'll just have to pull him out. I need"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "your help here, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu parles d'une situation... Bon, on va juste\nle sortir de là. J'ai besoin de ton aide là, [u+1113]!",
+   "brut_en": "Talk[SP]about[SP]an[SP]odd[SP]situation...[SP]Oh[SP]well,\nwe'll[SP]just[SP]have[SP]to[SP]pull[SP]him[SP]out.[SP]I[SP]need\nyour[SP]help[SP]here,[SP][1113]!",
+   "data_size": 222,
+   "budget": 214
+  }
+ ]
+}

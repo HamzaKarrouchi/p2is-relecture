@@ -1,0 +1,981 @@
+{
+ "no": 201,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "M-maman..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "*sob* Mama..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "M-maman...",
+   "brut_en": "*sob*[SP]Mama...",
+   "data_size": 46,
+   "budget": 38
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Quoi qu'en disent les"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "autres, on a besoin de toi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Jun-kun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " No matter who else says they don't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "need you, we need you."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Jun...[1205][001E] Quoi qu'en disent les\nautres, on a besoin de toi.",
+   "brut_en": "Jun-kun...[1205][001E][SP]No[SP]matter[SP]who[SP]else[SP]says[SP]they[SP]don't\nneed[SP]you,[SP]we[SP]need[SP]you.",
+   "data_size": 162,
+   "budget": 154
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu nous abandonnerais...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You would leave us behind...?"
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu nous abandonnerais...?",
+   "brut_en": "You[SP]would[SP]leave[SP]us[SP]behind...?[1205][001E]",
+   "data_size": 84,
+   "budget": 76
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu laisserais tomber "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "...? Ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "garçon qui est presque ton autre toi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You'd leave "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun behind...?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "The boy who's practically your other self?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu laisserais tomber [1113]...? Ce\ngarçon qui est presque ton autre toi?",
+   "brut_en": "You'd[SP]leave[SP][1113]-kun[SP]behind...?\nThe[SP]boy[SP]who's[SP]practically[SP]your[SP]other[SP]self?",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 4,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1113]...",
+   "brut_en": "[1113]...",
+   "data_size": 28,
+   "budget": 20
+  },
+  {
+   "id": 5,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je me souviens... de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tout"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vite... il faut l'arrêter"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I finally... remember everything..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "We need to hurry... and defeat him..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je...[1205][001E] Je me souviens... de\ntout[1205][001E] Vite... il faut l'arrêter",
+   "brut_en": "I...[1205][001E][SP]I[SP]finally...[SP]remember[SP]everything...[1205][001E]\nWe[SP]need[SP]to[SP]hurry...[SP]and[SP]defeat[SP]him...",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 6,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Lui"
+      },
+      {
+       "t": "...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ton père...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Him"
+      },
+      {
+       "t": "...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You mean your dad?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Lui[1432][NULL][NULL][0014]...?[1205][001E] Ton père...?",
+   "brut_en": "[1432][NULL][NULL][0014]Him[1432][NULL][NULL][0014]...?[1205][001E][SP]You[SP]mean[SP]your[SP]dad?",
+   "data_size": 96,
+   "budget": 88
+  },
+  {
+   "id": 7,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "He's..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il...",
+   "brut_en": "He's...",
+   "data_size": 34,
+   "budget": 26
+  },
+  {
+   "id": 8,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous saurez quand vous le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "verrez."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On doit continuer"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You'll know when you see him."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We have to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "keep going..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous saurez quand vous le\nverrez.[1205][001E] On doit continuer",
+   "brut_en": "You'll[SP]know[SP]when[SP]you[SP]see[SP]him.[1205][001E][SP]We[SP]have[SP]to\nkeep[SP]going...",
+   "data_size": 132,
+   "budget": 124
+  },
+  {
+   "id": 9,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On a connu le père de Jun..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yeah..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We met Jun's dad back then..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouais...[1205][001E] On a connu le père de Jun...",
+   "brut_en": "Yeah...[1205][001E][SP]We[SP]met[SP]Jun's[SP]dad[SP]back[SP]then...",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 10,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On aurait dit le fantôme de l'horloge,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais c'était quelqu'un d'autre."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Alors,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qui est le vrai père de Jun...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "He looked like the ghost at the clock tower,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "but it was a completely different person."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "So which one is Jun's real dad...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On aurait dit le fantôme de l'horloge,\nmais c'était quelqu'un d'autre.[1205][001E] Alors,\nqui est le vrai père de Jun...?",
+   "brut_en": "He[SP]looked[SP]like[SP]the[SP]ghost[SP]at[SP]the[SP]clock[SP]tower,\nbut[SP]it[SP]was[SP]a[SP]completely[SP]different[SP]person.[1205][001E]\nSo[SP]which[SP]one[SP]is[SP]Jun's[SP]real[SP]dad...?",
+   "data_size": 270,
+   "budget": 262
+  },
+  {
+   "id": 11,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'me dispute souvent avec mon vieux parce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qu'il m'impose ses rêves..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais je n'ai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jamais pensé à ce qu'il ressentait..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I fight with my old man all the time because"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I hate how he pushes his dreams on me..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But I"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "never bothered to think about how he felt..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'me dispute souvent avec mon vieux parce\nqu'il m'impose ses rêves...[1205][001E] Mais je n'ai\njamais pensé à ce qu'il ressentait...",
+   "brut_en": "I[SP]fight[SP]with[SP]my[SP]old[SP]man[SP]all[SP]the[SP]time[SP]because\nI[SP]hate[SP]how[SP]he[SP]pushes[SP]his[SP]dreams[SP]on[SP]me...[1205][001E][SP]But[SP]I\nnever[SP]bothered[SP]to[SP]think[SP]about[SP]how[SP]he[SP]felt...",
+   "data_size": 300,
+   "budget": 292
+  },
+  {
+   "id": 12,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "À l'époque..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On passait tout notre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "temps à imaginer comment était son père"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Back then..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We used to speculate all the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "time about what Jun-kun's dad was like..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "À l'époque...[1205][001E] On passait tout notre\ntemps à imaginer comment était son père",
+   "brut_en": "Back[SP]then...[1205][001E][SP]We[SP]used[SP]to[SP]speculate[SP]all[SP]the\ntime[SP]about[SP]what[SP]Jun-kun's[SP]dad[SP]was[SP]like...",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 13,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Attend..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est impossible "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'est la seule chose sensée..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Wait..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " He can't be..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " But it's the only"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "thing that makes sense..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Attend...[1205][001E] C'est impossible [1205][001E] Mais\nc'est la seule chose sensée...",
+   "brut_en": "Wait...[1205][001E][SP]He[SP]can't[SP]be...[1205][001E][SP]But[SP]it's[SP]the[SP]only\nthing[SP]that[SP]makes[SP]sense...",
+   "data_size": 162,
+   "budget": 154
+  },
+  {
+   "id": 14,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On ne réalise sa chance que lorsqu'on la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "perd..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'espère que ce n'est pas ton cas..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You can't tell how lucky you have it until"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you don't have it anymore..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I hope that's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "not the case with you..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On ne réalise sa chance que lorsqu'on la\nperd...[1205][001E] J'espère que ce n'est pas ton cas...",
+   "brut_en": "You[SP]can't[SP]tell[SP]how[SP]lucky[SP]you[SP]have[SP]it[SP]until\nyou[SP]don't[SP]have[SP]it[SP]anymore...[1205][001E][SP]I[SP]hope[SP]that's\nnot[SP]the[SP]case[SP]with[SP]you...",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 15,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'pige rien..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le type de l'autre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jour n'était pas le père de Jun?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't get this at all..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Isn't the guy we"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "met back then Jun's dad?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'pige rien...[1205][001E] Le type de l'autre\njour n'était pas le père de Jun?",
+   "brut_en": "I[SP]don't[SP]get[SP]this[SP]at[SP]all...[1205][001E][SP]Isn't[SP]the[SP]guy[SP]we\nmet[SP]back[SP]then[SP]Jun's[SP]dad?",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 16,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je n'ai jamais réfléchi à si"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je me considérais chanceux"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I never thought about whether or not I"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "consider myself lucky..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je n'ai jamais réfléchi à si\nje me considérais chanceux",
+   "brut_en": "I[SP]never[SP]thought[SP]about[SP]whether[SP]or[SP]not[SP]I\nconsider[SP]myself[SP]lucky...",
+   "data_size": 154,
+   "budget": 146
+  },
+  {
+   "id": 17,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais en voyant Maya et Jun, je me dis que j'ai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de la chance d'avoir un père comme le mien..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But when I look at Big Maya and Jun,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I think I'm probably lucky to at least"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "have a dad like mine..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais en voyant Maya et Jun, je me dis que j'ai\nde la chance d'avoir un père comme le mien...",
+   "brut_en": "But[SP]when[SP]I[SP]look[SP]at[SP]Big[SP]Maya[SP]and[SP]Jun,\nI[SP]think[SP]I'm[SP]probably[SP]lucky[SP]to[SP]at[SP]least\nhave[SP]a[SP]dad[SP]like[SP]mine...",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 18,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'y crois pas..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Tout est de ma faute..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Comment pourrais-je expier cela? Père..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I can't believe this..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " This is all my fault..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "How can I atone for this? Father..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'y crois pas...[1205][001E] Tout est de ma faute...[1205][001E]\nComment pourrais-je expier cela? Père...",
+   "brut_en": "I[SP]can't[SP]believe[SP]this...[1205][001E][SP]This[SP]is[SP]all[SP]my[SP]fault...[1205][001E]\nHow[SP]can[SP]I[SP]atone[SP]for[SP]this?[SP]Father...",
+   "data_size": 194,
+   "budget": 186
+  }
+ ]
+}

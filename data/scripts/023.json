@@ -1,0 +1,649 @@
+{
+ "no": 23,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Gamin",
+   "nom_en": "Boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On se ressemble?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Do you think we're alike?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé, [1113].[1205][001E] On se ressemble?",
+   "brut_en": "Hey,[SP][1113].[1205][001E][SP]Do[SP]you[SP]think[SP]we're[SP]alike?",
+   "data_size": 88,
+   "budget": 80
+  },
+  {
+   "id": 1,
+   "nom_fr": "Gamin",
+   "nom_en": "Boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouais..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ça me va aussi."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yeah..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I don't mind, either."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouais...[1205][001E] Ça me va aussi.",
+   "brut_en": "Yeah...[1205][001E][SP]I[SP]don't[SP]mind,[SP]either.",
+   "data_size": 80,
+   "budget": 72
+  },
+  {
+   "id": 2,
+   "nom_fr": "Gamin",
+   "nom_en": "Boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cool!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh yeah!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cool!",
+   "brut_en": "Oh[SP]yeah!",
+   "data_size": 34,
+   "budget": 26
+  },
+  {
+   "id": 3,
+   "nom_fr": "Gamin",
+   "nom_en": "Boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est le trésor que Papa ma"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "donné. Tu peux le prendre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This is my treasure. Papa gave it to me."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You can have it, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est le trésor que Papa ma\ndonné. Tu peux le prendre.",
+   "brut_en": "This[SP]is[SP]my[SP]treasure.[SP]Papa[SP]gave[SP]it[SP]to[SP]me.[1205][001E]\nYou[SP]can[SP]have[SP]it,[SP][1113].",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 4,
+   "nom_fr": "Gamin",
+   "nom_en": "Boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est bon..., enfin... tu es moi Et je suis"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "toi. C'est comme si je l'avais encore!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's okay. I mean, you're practically me."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "And I'm you. It'll be like I still have it!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est bon..., enfin... tu es moi Et je suis\ntoi. C'est comme si je l'avais encore!",
+   "brut_en": "It's[SP]okay.[SP]I[SP]mean,[SP]you're[SP]practically[SP]me.\nAnd[SP]I'm[SP]you.[SP]It'll[SP]be[SP]like[SP]I[SP]still[SP]have[SP]it!",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 5,
+   "nom_fr": "Gamin",
+   "nom_en": "Boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est pas... ton trésor? J'croyais que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ton père te l'avait donné... Tu peux pas..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Isn't this..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " your treasure? I thought"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "your dad gave this to you. You can't..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est pas... ton trésor? J'croyais que\nton père te l'avait donné... Tu peux pas...",
+   "brut_en": "Isn't[SP]this...[1205][001E][SP]your[SP]treasure?[SP]I[SP]thought\nyour[SP]dad[SP]gave[SP]this[SP]to[SP]you.[SP]You[SP]can't...",
+   "data_size": 178,
+   "budget": 170
+  },
+  {
+   "id": 6,
+   "nom_fr": "Gamin",
+   "nom_en": "Boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ok... je comprends. C'est a moi maintenant!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay, I understand. It'll be my treasure now!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ok... je comprends. C'est a moi maintenant!",
+   "brut_en": "Okay,[SP]I[SP]understand.[SP]It'll[SP]be[SP]my[SP]treasure[SP]now!",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 7,
+   "nom_fr": "Gamin",
+   "nom_en": "Boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ahaha! T'es le meilleur, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ahahahaha! You're the greatest, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ahaha! T'es le meilleur, [1113]!",
+   "brut_en": "Ahahahaha![SP]You're[SP]the[SP]greatest,[SP][1113]!",
+   "data_size": 86,
+   "budget": 78
+  },
+  {
+   "id": 8,
+   "nom_fr": "Gamin",
+   "nom_en": "Boy",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quoi qu'il arrive... on va tenir notre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "promesse! Pour toujours et à jamais!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No matter what happens, we're gonna keep our"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "promise to each other! Forever and ever!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Quoi qu'il arrive... on va tenir notre\npromesse! Pour toujours et à jamais!",
+   "brut_en": "No[SP]matter[SP]what[SP]happens,[SP]we're[SP]gonna[SP]keep[SP]our\npromise[SP]to[SP]each[SP]other![SP]Forever[SP]and[SP]ever!",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 9,
+   "nom_fr": "",
+   "nom_en": "Drunk young man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "À plus, patron... J'reviendrai..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ouais, j'te promets."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Seeya, barkeep. I'll come again..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Yeah, I promise."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "À plus, patron... J'reviendrai...\nOuais, j'te promets.",
+   "brut_en": "Seeya,[SP]barkeep.[SP]I'll[SP]come[SP]again...\nYeah,[SP]I[SP]promise.",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 10,
+   "nom_fr": "",
+   "nom_en": "Drunk young man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein? Vous devriez pas traîner dehors"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "si tard... Vous deviendrez jamais des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "citoyens "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " modèles comme ça, vous savez?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh? You kids shouldn't be out so late."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You'll never grow up to be upstanding"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "citizens like that, you know?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein? Vous devriez pas traîner dehors\nsi tard... Vous deviendrez jamais des\ncitoyens [1205][U+000F] modèles comme ça, vous savez?",
+   "brut_en": "Huh?[SP]You[SP]kids[SP]shouldn't[SP]be[SP]out[SP]so[SP]late.[1205][U+000A]\nYou'll[SP]never[SP]grow[SP]up[SP]to[SP]be[SP]upstanding\ncitizens[SP]like[SP]that,[SP]you[SP]know?",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 11,
+   "nom_fr": "",
+   "nom_en": "Drunk young man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bien joué! T'as la classe, Kaoru..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et t'es même pas saoul. On dirait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "un mec qui réalise ses rêves."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Alright!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Looking good there, Kaoru, and not"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "at all drunk. Looking like a man who's living"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "up to his dreams."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bien joué! T'as la classe, Kaoru...\net t'es même pas saoul. On dirait\nun mec qui réalise ses rêves.",
+   "brut_en": "Alright![1205][U+000A][SP]Looking[SP]good[SP]there,[SP]Kaoru,[SP]and[SP]not\nat[SP]all[SP]drunk.[SP]Looking[SP]like[SP]a[SP]man[SP]who's[SP]living\nup[SP]to[SP]his[SP]dreams.",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 12,
+   "nom_fr": "",
+   "nom_en": "Drunk young man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé... moi j'vais rentrer maintenant..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Alors vous, les gamins, rentrez aussi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, I'm gonna head home now..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " so you kids"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "should go home, too!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé... moi j'vais rentrer maintenant...\nAlors vous, les gamins, rentrez aussi!",
+   "brut_en": "Hey,[SP]I'm[SP]gonna[SP]head[SP]home[SP]now...[1205][U+000A][SP]so[SP]you[SP]kids\nshould[SP]go[SP]home,[SP]too!",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 13,
+   "nom_fr": "",
+   "nom_en": "Drunk young man",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sinon j'vais être obligé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de vous arrêter... haha."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Or else I'll have to arrest you, haha."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sinon j'vais être obligé\nde vous arrêter... haha.",
+   "brut_en": "Or[SP]else[SP]I'll[SP]have[SP]to[SP]arrest[SP]you,[SP]haha.",
+   "data_size": 118,
+   "budget": 110
+  }
+ ]
+}

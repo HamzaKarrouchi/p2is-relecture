@@ -1,0 +1,207 @@
+{
+ "no": 114,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est ici que j'ai passé la nuit avec"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun... Où j'ai joué avec vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tous... Tant de bons souvenirs ici..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This is where I spent that night with"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Where I played with you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "all..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So many great memories here..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est ici que j'ai passé la nuit avec\n[1113]-kun... Où j'ai joué avec vous\ntous... Tant de bons souvenirs ici...",
+   "brut_en": "This[SP]is[SP]where[SP]I[SP]spent[SP]that[SP]night[SP]with\n[1113]-kun...[1205][001E][SP]Where[SP]I[SP]played[SP]with[SP]you\nall...[1205][001E][SP]So[SP]many[SP]great[SP]memories[SP]here...",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais il nous en manque un..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But we're still short one man..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais il nous en manque un...",
+   "brut_en": "But[SP]we're[SP]still[SP]short[SP]one[SP]man...",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ouais... Trouvons Jun! On est le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Cercle Masqué, c'est possible!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yeah..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Let's go get Jun! We of the Masked"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Circle can do this!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ouais... Trouvons Jun! On est le\nCercle Masqué, c'est possible!",
+   "brut_en": "Yeah...[1205][001E][SP]Let's[SP]go[SP]get[SP]Jun![SP]We[SP]of[SP]the[SP]Masked\nCircle[SP]can[SP]do[SP]this!",
+   "data_size": 152,
+   "budget": 144
+  },
+  {
+   "id": 3,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est Tamaki? On doit demander quelque chose à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mme Okamura. Tu peux me mettre en relation--"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Is this Tamaki? Good timing. We need to ask"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ms. Okamura something. Could you get her"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "on the--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est Tamaki? On doit demander quelque chose à\nMme Okamura. Tu peux me mettre en relation--",
+   "brut_en": "Is[SP]this[SP]Tamaki?[SP]Good[SP]timing.[SP]We[SP]need[SP]to[SP]ask\nMs.[SP]Okamura[SP]something.[SP]Could[SP]you[SP]get[SP]her\non[SP]the--",
+   "data_size": 210,
+   "budget": 202
+  }
+ ]
+}

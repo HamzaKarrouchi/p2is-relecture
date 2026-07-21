@@ -1,0 +1,615 @@
+{
+ "no": 59,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "... Ouïlle! Si tu l'avais vu venir,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", t'aurais pu faire un truc au"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "lieu de rester planté là à regarder!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Owww! If you saw that coming, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ","
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you could've done something about it"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "instead of just watching it happen!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "... Ouïlle! Si tu l'avais vu venir,\n[1113], t'aurais pu faire un truc au\nlieu de rester planté là à regarder!",
+   "brut_en": "...Owww![SP]If[SP]you[SP]saw[SP]that[SP]coming,[SP][1113],\nyou[SP]could've[SP]done[SP]something[SP]about[SP]it\ninstead[SP]of[SP]just[SP]watching[SP]it[SP]happen!",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "... Oouch! Hé, t'as sauvé Maya quand"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'est arrivé, pourquoi pas moi!?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Owww! Hey! You saved Maya-san when"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this happened, so why not me!?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "... Oouch! Hé, t'as sauvé Maya quand\nc'est arrivé, pourquoi pas moi!?",
+   "brut_en": "...Owww![SP]Hey![SP]You[SP]saved[SP]Maya-san[SP]when\nthis[SP]happened,[SP]so[SP]why[SP]not[SP]me!?",
+   "data_size": 164,
+   "budget": 156
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! Regardez ces maillots de bain! Si"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "portait un truc pareil..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Aaaaaa!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah! Check out those swimsuits!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "If "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " ever wore something like"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Eeeee!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Aiyah! Regardez ces maillots de bain! Si\n[1113]portait un truc pareil...[1205][001E] Aaaaaa!",
+   "brut_en": "Aiyah![SP]Check[SP]out[SP]those[SP]swimsuits!\nIf[SP][1113][SP]ever[SP]wore[SP]something[SP]like\nthat...[1205][001E][SP]Eeeee!",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce gars était membre du Cercle Masqué"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aussi? ... Il avait pas l'air plutôt"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "classe? Mais"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " pas autant que toi, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Was that guy a Masked Circle member too?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "...Didn't he look kinda cool? Not nearly"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "as cool as you, of course, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce gars était membre du Cercle Masqué\naussi? ... Il avait pas l'air plutôt\nclasse? Mais[1205][U+000F] pas autant que toi, [1113]!",
+   "brut_en": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][1113]!",
+   "data_size": 246,
+   "budget": 238
+  },
+  {
+   "id": 4,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce mec s'est enfui à la seconde où il"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a vu nos visages! Il est clairement"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "suspect. On le suit, "
+      },
+      {
+       "hero": "prenom"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That guy ran off the second he saw our faces!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "He's suspicious, all right. Let's chase him"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "down, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce mec s'est enfui à la seconde où il\na vu nos visages! Il est clairement\nsuspect. On le suit, [1113]",
+   "brut_en": "That[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][1113]!",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'en peux plus de tout ces pièges bizarres!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ce Roi Lion me tape sur les nerfs! Même"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " si"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'étais déjà en colère contre lui."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I'm sick of these weird traps everywhere!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "That King Leo's getting on my nerves!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Though I've always been mad at him, really."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'en peux plus de tout ces pièges bizarres!\nCe Roi Lion me tape sur les nerfs! Même[1205][U+000F] si\nj'étais déjà en colère contre lui.",
+   "brut_en": "I'm[SP]sick[SP]of[SP]these[SP]weird[SP]traps[SP]everywhere!\nThat[SP]King[SP]Leo's[SP]getting[SP]on[SP]my[SP]nerves!\nThough[SP]I've[SP]always[SP]been[SP]mad[SP]at[SP]him,[SP]really.",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce type..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " J'ai l'impression de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'avoir déjà vu. Bon, on le poursuit!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That guy..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I feel like I've seen him"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "somewhere. Well, after him, I guess!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce type...[1205][001E] J'ai l'impression de\nl'avoir déjà vu. Bon, on le poursuit!",
+   "brut_en": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 7,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tu sais ce qui serait utile? Une Persona"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qui localise les transmetteurs. On"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pourrais"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " demander à Igor de nous créer ça?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Y'know what would be useful? A Persona that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "could search for transmitters. I wonder if"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "we can ask Igor to make us one."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Tu sais ce qui serait utile? Une Persona\nqui localise les transmetteurs. On\npourrais[1205][U+000F] demander à Igor de nous créer ça?",
+   "brut_en": "Y'know[SP]what[SP]would[SP]be[SP]useful?[SP]A[SP]Persona[SP]that\ncould[SP]search[SP]for[SP]transmitters.[SP]I[SP]wonder[SP]if\nwe[SP]can[SP]ask[SP]Igor[SP]to[SP]make[SP]us[SP]one.",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 8,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si ce gars est dans le Cercle Masqué,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "c'est l'occasion de lui faire cracher"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des infos sur Joker. Pourchassons-le."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If that guy's in the Masked Circle, this is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "our chance to pump him for information about"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Joker. Let's hunt him down."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si ce gars est dans le Cercle Masqué,\nc'est l'occasion de lui faire cracher\ndes infos sur Joker. Pourchassons-le.",
+   "brut_en": "If[SP]that[SP]guy's[SP]in[SP]the[SP]Masked[SP]Circle,[SP]this[SP]is\nour[SP]chance[SP]to[SP]pump[SP]him[SP]for[SP]information[SP]about\nJoker.[SP]Let's[SP]hunt[SP]him[SP]down.",
+   "data_size": 258,
+   "budget": 250
+  },
+  {
+   "id": 9,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "... Ouïlle! Si tu l'avais vu venir,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ", t'aurais pu faire un truc au"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "lieu de rester planté là à regarder!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...Owww! If you saw that coming, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": ","
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you could've done something about it"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "instead of just watching it happen!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "... Ouïlle! Si tu l'avais vu venir,\n[1113], t'aurais pu faire un truc au\nlieu de rester planté là à regarder!",
+   "brut_en": "...Owww![SP]If[SP]you[SP]saw[SP]that[SP]coming,[SP][1113],\nyou[SP]could've[SP]done[SP]something[SP]about[SP]it\ninstead[SP]of[SP]just[SP]watching[SP]it[SP]happen!",
+   "data_size": 244,
+   "budget": 236
+  }
+ ]
+}

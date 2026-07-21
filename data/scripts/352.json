@@ -1,0 +1,2153 @@
+{
+ "no": 352,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ma mère ne mettrait pas ces fringues..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hé, ta mère en porte, Ginko?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "My mom wouldn't wear clothes like these..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Hey, does your mom wear this stuff, Ginko?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ma mère ne mettrait pas ces fringues...[1205][U+000F]\nHé, ta mère en porte, Ginko?",
+   "brut_en": "My[SP]mom[SP]wouldn't[SP]wear[SP]clothes[SP]like[SP]these...[1205][U+000F]\nHey,[SP]does[SP]your[SP]mom[SP]wear[SP]this[SP]stuff,[SP]Ginko?",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 1,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pas question. Elle est toujours en kimono."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Même les Japonaises n'en ont pas autant"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qu'elle."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "No way. She's always dressed in a kimono."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Not even native Japanese women have as many"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "kimonos as her."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pas question. Elle est toujours en kimono.[1205][U+000F]\nMême les Japonaises n'en ont pas autant\nqu'elle.",
+   "brut_en": "No[SP]way.[SP]She's[SP]always[SP]dressed[SP]in[SP]a[SP]kimono.[1205][U+000F]\nNot[SP]even[SP]native[SP]Japanese[SP]women[SP]have[SP]as[SP]many\nkimonos[SP]as[SP]her.",
+   "data_size": 228,
+   "budget": 220
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé, Jun."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ta mère porte ce genre de vêtements?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, Jun."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Does your mom wear clothes like these?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé, Jun.[1205][U+000A] Ta mère porte ce genre de vêtements?",
+   "brut_en": "Hey,[SP]Jun.[1205][U+000A][SP]Does[SP]your[SP]mom[SP]wear[SP]clothes[SP]like[SP]these?",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 3,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ma mère..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je crois que oui, en fait."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "My mother..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I think she would, actually."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ma mère...[1205][U+000F] Je crois que oui, en fait.",
+   "brut_en": "My[SP]mother...[1205][U+000F][SP]I[SP]think[SP]she[SP]would,[SP]actually.",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 4,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bienvenue."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Quelque chose vous plaît?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Que "
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vêtements superbes."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Achetez sans crainte."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Welcome."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Like what you see?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " We only carry the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "most beautiful clothing here."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " So feel free to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "buy with confidence."
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Acheter armure",
+     "Acheter accessoires",
+     "Vendre objets",
+     "Parler à la vendeuse",
+     "Laisser tomber",
+     "Quitter la boutique"
+    ],
+    "question": [
+     {
+      "t": "Bienvenue."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Quelque chose vous plaît?"
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Que "
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "des"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "vêtements superbes."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Achetez sans crainte."
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Buy armor",
+     "Buy accessories",
+     "Sell items",
+     "Talk to the saleswoman",
+     "Never mind",
+     "Leave the store"
+    ],
+    "question": [
+     {
+      "t": "Welcome."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " Like what you see?"
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " We only carry the"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "most beautiful clothing here."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " So feel free to"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "buy with confidence."
+     }
+    ]
+   },
+   "brut_fr": "Bienvenue.[1205][U+000A] Quelque chose vous plaît?[1205][U+000A] Que \ndes\nvêtements superbes.[1205][U+000F] Achetez sans crainte.\n[1208][U+0006]Acheter armure\n[1210][U+036A]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter la boutique",
+   "brut_en": "Welcome.[1205][U+000A][SP]Like[SP]what[SP]you[SP]see?[1205][U+000A][SP]We[SP]only[SP]carry[SP]the\nmost[SP]beautiful[SP]clothing[SP]here.[1205][U+000F][SP]So[SP]feel[SP]free[SP]to\nbuy[SP]with[SP]confidence.\n[1208][U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
+   "data_size": 452,
+   "budget": 444
+  },
+  {
+   "id": 5,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que voulez-vous vendre?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What would you like to sell?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Sélection cachée",
+     "Objets",
+     "Armes",
+     "Armure de tête",
+     "Armure",
+     "Armure de jambes",
+     "Accessoires"
+    ],
+    "question": [
+     {
+      "t": "Que voulez-vous vendre?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Undisplayed selection",
+     "Sell items",
+     "Sell weapons",
+     "Sell head armor",
+     "Sell armor",
+     "Sell leg armor",
+     "Sell accessories"
+    ],
+    "question": [
+     {
+      "t": "What would you like to sell?"
+     }
+    ]
+   },
+   "brut_fr": "Que voulez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_en": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+   "data_size": 330,
+   "budget": 322
+  },
+  {
+   "id": 6,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bien, que voulez-vous savoir?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay, what do you want to know?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Parler boutique",
+     "Sélection cachée",
+     "[1109][E2][E3][121D]ATTENTION[E4]",
+     "Aucun bit actif. Vérifiez ceci.",
+     "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
+     "Aucun bit actif. Vérifiez ceci.",
+     "-Kanada"
+    ],
+    "question": [
+     {
+      "t": "Bien, que voulez-vous savoir?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about shopping",
+     "Undisplayed selection",
+     "[1109][E2][E3][121D]CAUTION[E4]",
+     "No bits are up. Please check this.",
+     "-Kanada[E1][E2][E3][121D]CAUTION[E4]",
+     "No bits are up. Please check this.",
+     "-Kanada"
+    ],
+    "question": [
+     {
+      "t": "Okay, what do you want to know?"
+     }
+    ]
+   },
+   "brut_fr": "Bien, que voulez-vous savoir?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+   "brut_en": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
+   "data_size": 454,
+   "budget": 446
+  },
+  {
+   "id": 7,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Autre chose?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Anything else?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Acheter armure",
+     "Acheter accessoires",
+     "Vendre objets",
+     "Parler",
+     "Laisser tomber",
+     "Quitter"
+    ],
+    "question": [
+     {
+      "t": "Autre chose?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Buy armor",
+     "Buy accessories",
+     "Sell items",
+     "Talk to the saleswoman",
+     "Never mind",
+     "Leave the store"
+    ],
+    "question": [
+     {
+      "t": "Anything else?"
+     }
+    ]
+   },
+   "brut_fr": "Autre chose?\n[1208][U+0006]Acheter armure\n[1210][U+036A]Acheter accessoires\nVendre objets\nParler\nLaisser tomber\nQuitter",
+   "brut_en": "Anything[SP]else?\n[1208][U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 8,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que voulez-vous vendre?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What would you like to sell?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Sélection cachée",
+     "Objets",
+     "Armes",
+     "Armure de tête",
+     "Armure",
+     "Armure de jambes",
+     "Accessoires"
+    ],
+    "question": [
+     {
+      "t": "Que voulez-vous vendre?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Undisplayed selection",
+     "Sell items",
+     "Sell weapons",
+     "Sell head armor",
+     "Sell armor",
+     "Sell leg armor",
+     "Sell accessories"
+    ],
+    "question": [
+     {
+      "t": "What would you like to sell?"
+     }
+    ]
+   },
+   "brut_fr": "Que voulez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+   "brut_en": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+   "data_size": 330,
+   "budget": 322
+  },
+  {
+   "id": 9,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bien, que voulez-vous savoir?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay, what do you want to know?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Bavarder",
+     "Parler boutique",
+     "Sélection cachée",
+     "[1109][E2][E3][121D]ATTENTION[E4]",
+     "Aucun bit actif. Vérifiez ceci.",
+     "-Kanada[E1][E2][E3][121D]ATTENTION[E4]",
+     "Aucun bit actif. Vérifiez ceci.",
+     "-Kanada"
+    ],
+    "question": [
+     {
+      "t": "Bien, que voulez-vous savoir?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Make small talk",
+     "Ask about shopping",
+     "Undisplayed selection",
+     "[1109][E2][E3][121D]CAUTION[E4]",
+     "No bits are up. Please check this.",
+     "-Kanada[E1][E2][E3][121D]CAUTION[E4]",
+     "No bits are up. Please check this.",
+     "-Kanada"
+    ],
+    "question": [
+     {
+      "t": "Okay, what do you want to know?"
+     }
+    ]
+   },
+   "brut_fr": "Bien, que voulez-vous savoir?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+   "brut_en": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
+   "data_size": 454,
+   "budget": 446
+  },
+  {
+   "id": 10,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous êtes impatients de devenir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des Idéaliens?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Hihi... Vous faites"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "fausse route, j'en ai peur."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Are you thrilled to become an Idealian soon?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Heheheh... You're misreading the whole"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "situation."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous êtes impatients de devenir\ndes Idéaliens?[1205][U+000F] Hihi... Vous faites\nfausse route, j'en ai peur.",
+   "brut_en": "Are[SP]you[SP]thrilled[SP]to[SP]become[SP]an[SP]Idealian[SP]soon?[1205][U+000F]\nHeheheh...[SP]You're[SP]misreading[SP]the[SP]whole\nsituation.",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 11,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Un pissenlit reste un pissenlit."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Ils"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "peuvent devenir des Idéaliens, mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jamais aussi beaux que nous, les roses."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dandelions will always be dandelions."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " They can"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "evolve into Idealians, but they'll never be as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "beautiful as we roses."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Un pissenlit reste un pissenlit.[1205][U+000F] Ils\npeuvent devenir des Idéaliens, mais\njamais aussi beaux que nous, les roses.",
+   "brut_en": "Dandelions[SP]will[SP]always[SP]be[SP]dandelions.[1205][U+000F][SP]They[SP]can\nevolve[SP]into[SP]Idealians,[SP]but[SP]they'll[SP]never[SP]be[SP]as\nbeautiful[SP]as[SP]we[SP]roses.",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 12,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cela dit... avec ces vêtements, vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vous en approcherez peut-être..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Though... if you wear these clothes, perhaps"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you'll approximate it..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cela dit... avec ces vêtements, vous\nvous en approcherez peut-être...",
+   "brut_en": "Though...[SP]if[SP]you[SP]wear[SP]these[SP]clothes,[SP]perhaps\nyou'll[SP]approximate[SP]it...",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 13,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Si l'humanité doit évoluer en Idéaliens,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nous devons montrer l'exemple, en tant que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "leaders de mode aux dernières tendances."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If mankind is going to evolve into Idealians,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "we need to do our part, as trendsetters leading"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the way with the newest fashions."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Si l'humanité doit évoluer en Idéaliens,\nnous devons montrer l'exemple, en tant que\nleaders de mode aux dernières tendances.",
+   "brut_en": "If[SP]mankind[SP]is[SP]going[SP]to[SP]evolve[SP]into[SP]Idealians,\nwe[SP]need[SP]to[SP]do[SP]our[SP]part,[SP]as[SP]trendsetters[SP]leading\nthe[SP]way[SP]with[SP]the[SP]newest[SP]fashions.",
+   "data_size": 286,
+   "budget": 278
+  },
+  {
+   "id": 14,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est pourquoi!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Voici notre nouvelle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "armure."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Même un pissenlit, en la portant,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "se rapprochera d'une belle rose."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And so!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I present our newest armor."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " While you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "may only be a dandelion, equip this and you'll"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "be one step closer to a beautiful rose."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est pourquoi![1205][U+000A] Voici notre nouvelle\narmure.[1205][U+000F] Même un pissenlit, en la portant,\nse rapprochera d'une belle rose.",
+   "brut_en": "And[SP]so![1205][U+000A][SP]I[SP]present[SP]our[SP]newest[SP]armor.[1205][U+000F][SP]While[SP]you\nmay[SP]only[SP]be[SP]a[SP]dandelion,[SP]equip[SP]this[SP]and[SP]you'll\nbe[SP]one[SP]step[SP]closer[SP]to[SP]a[SP]beautiful[SP]rose.",
+   "data_size": 304,
+   "budget": 296
+  },
+  {
+   "id": 15,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une fois nos produits vus, vous ne voudrez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plus acheter ailleurs. Revenez nous voir!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Once you've seen our products, you won't want"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to shop anywhere else. Please come again."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une fois nos produits vus, vous ne voudrez\nplus acheter ailleurs. Revenez nous voir!",
+   "brut_en": "Once[SP]you've[SP]seen[SP]our[SP]products,[SP]you[SP]won't[SP]want\nto[SP]shop[SP]anywhere[SP]else.[SP]Please[SP]come[SP]again.",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 16,
+   "nom_fr": "Femme bavarde",
+   "nom_en": "Chatty woman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous avez entendu?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Le Bataillon"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vient d'envahir ce bâtiment bizarre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey, have you heard?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " The Last Battalion just"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "stormed into that weird building."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous avez entendu?[1205][U+000F] Le Bataillon\nvient d'envahir ce bâtiment bizarre.",
+   "brut_en": "Hey,[SP]have[SP]you[SP]heard?[1205][U+000F][SP]The[SP]Last[SP]Battalion[SP]just\nstormed[SP]into[SP]that[SP]weird[SP]building.",
+   "data_size": 196,
+   "budget": 188
+  },
+  {
+   "id": 17,
+   "nom_fr": "Femme bavarde",
+   "nom_en": "Chatty woman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je me demande ce qu'ils font dedans..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pas vous?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous voulez savoir, non?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I wonder what they're doing in there..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Don't you?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " You want to know too, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je me demande ce qu'ils font dedans...[1205][U+000F]\nPas vous?[1205][U+000F] Vous voulez savoir, non?",
+   "brut_en": "I[SP]wonder[SP]what[SP]they're[SP]doing[SP]in[SP]there...[1205][U+000F]\nDon't[SP]you?[1205][U+000F][SP]You[SP]want[SP]to[SP]know[SP]too,[SP]right?",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 18,
+   "nom_fr": "Femme aisée",
+   "nom_en": "Wealthy woman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "J'ai toujours voulu être riche."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je parle ainsi"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "et porte des habits coûteux, mais en vrai je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "suis dans le rouge."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je bosse pour payer."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I've always wanted to be rich."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I talk like this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and wear expensive clothes, but really, we're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "in the red..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I work to repay my debt..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "J'ai toujours voulu être riche.[1205][U+000F] Je parle ainsi\net porte des habits coûteux, mais en vrai je\nsuis dans le rouge.[1205][U+000F] Je bosse pour payer.",
+   "brut_en": "I've[SP]always[SP]wanted[SP]to[SP]be[SP]rich.[1205][U+000F][SP]I[SP]talk[SP]like[SP]this\nand[SP]wear[SP]expensive[SP]clothes,[SP]but[SP]really,[SP]we're\nin[SP]the[SP]red...[1205][U+000F][SP]I[SP]work[SP]to[SP]repay[SP]my[SP]debt...",
+   "data_size": 314,
+   "budget": 306
+  },
+  {
+   "id": 19,
+   "nom_fr": "Femme aisée",
+   "nom_en": "Wealthy woman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Même si j'évolue en Idéalienne,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ça ne me rendra pas riche."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Even if I evolve into an Idealian, that won't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "make me rich."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Même si j'évolue en Idéalienne,\nça ne me rendra pas riche.",
+   "brut_en": "Even[SP]if[SP]I[SP]evolve[SP]into[SP]an[SP]Idealian,[SP]that[SP]won't\nmake[SP]me[SP]rich.",
+   "data_size": 156,
+   "budget": 148
+  },
+  {
+   "id": 20,
+   "nom_fr": "Femme aisée",
+   "nom_en": "Wealthy woman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Serai-je heureuse?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Trouverai-je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la vraie joie, un sens à ma vie?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Will I at least be happy?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Will I find true"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "joy... a purpose to my life?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Serai-je heureuse?[1205][U+000F] Trouverai-je\nla vraie joie, un sens à ma vie?",
+   "brut_en": "Will[SP]I[SP]at[SP]least[SP]be[SP]happy?[1205][U+000F][SP]Will[SP]I[SP]find[SP]true\njoy...[SP]a[SP]purpose[SP]to[SP]my[SP]life?",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 21,
+   "nom_fr": "Femme aisée",
+   "nom_en": "Wealthy woman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Honnêtement, je ne sais pas ce qu'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "le bonheur ni le malheur d'ailleurs."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Honestly, I don't know what happiness is,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "or unhappiness for that matter."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Honnêtement, je ne sais pas ce qu'est\nle bonheur ni le malheur d'ailleurs.",
+   "brut_en": "Honestly,[SP]I[SP]don't[SP]know[SP]what[SP]happiness[SP]is,\nor[SP]unhappiness[SP]for[SP]that[SP]matter.",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 22,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hé!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est la cabine d'essayage."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " N'entrez"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas si vous n'en avez pas besoin."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hey!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That's the dressing room."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Don't go in"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there if you don't need to use it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hé![1205][U+000A] C'est la cabine d'essayage.[1205][U+000A] N'entrez\npas si vous n'en avez pas besoin.",
+   "brut_en": "Hey![1205][U+000A][SP]That's[SP]the[SP]dressing[SP]room.[1205][U+000A][SP]Don't[SP]go[SP]in\nthere[SP]if[SP]you[SP]don't[SP]need[SP]to[SP]use[SP]it.",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 23,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous n'avez rien à vendre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Looks like you have nothing to sell."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous n'avez rien à vendre.",
+   "brut_en": "Looks[SP]like[SP]you[SP]have[SP]nothing[SP]to[SP]sell.",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 24,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Total:  yens."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Ça vous convient?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Your total will be  yen."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is that okay?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "Total:  yens."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Ça vous convient?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "Your total will be  yen."
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Is that okay?"
+     }
+    ]
+   },
+   "brut_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui\nNon",
+   "brut_en": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
+   "data_size": 132,
+   "budget": 124
+  },
+  {
+   "id": 25,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Besoin d'aide pour les achats?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You need me to explain how to shop?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Besoin d'aide pour les achats?",
+   "brut_en": "You[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 26,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Commençons par les achats. Sélectionnez "
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Acheter armure"
+      },
+      {
+       "t": " pour acheter depuis notre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "stock."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay... Let's cover buying first. Select "
+      },
+      {
+       "enc": "Buy"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "armor"
+      },
+      {
+       "t": " and you can purchase from our stock"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of amazing armor."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Commençons par les achats. Sélectionnez [1432][NULL][NULL][0014]\nAcheter armure[1432][NULL][NULL][0014] pour acheter depuis notre\nstock.",
+   "brut_en": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 27,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Certaines ne conviennent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas à tous, vérifiez avant."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Some armor will only fit certain individuals."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Be sure to read the fine print before buying!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Certaines ne conviennent\npas à tous, vérifiez avant.",
+   "brut_en": "Some[SP]armor[SP]will[SP]only[SP]fit[SP]certain[SP]individuals.\nBe[SP]sure[SP]to[SP]read[SP]the[SP]fine[SP]print[SP]before[SP]buying!",
+   "data_size": 214,
+   "budget": 206
+  },
+  {
+   "id": 28,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ensuite, la vente. Sélectionnez "
+      },
+      {
+       "enc": "Vendre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "objets"
+      },
+      {
+       "t": " puis choisissez le type d'objet à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vendre."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Choisissez enfin l'objet à vendre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Next, selling. Select "
+      },
+      {
+       "enc": "Sell items"
+      },
+      {
+       "t": " and then"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "choose which type of item you'd like to sell."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Finally, select which item to sell."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre.[1205][U+000F] Choisissez enfin l'objet à vendre.",
+   "brut_en": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
+   "data_size": 294,
+   "budget": 286
+  },
+  {
+   "id": 29,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Revente à environ la moitié du prix."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Objets équipés ou spéciaux non vendables."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The resale price is roughly half the original"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "price. You can't sell anything you're wearing,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "or certain special items. That about does it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Revente à environ la moitié du prix.\nObjets équipés ou spéciaux non vendables.",
+   "brut_en": "The[SP]resale[SP]price[SP]is[SP]roughly[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you're[SP]wearing,\nor[SP]certain[SP]special[SP]items.[SP]That[SP]about[SP]does[SP]it.",
+   "data_size": 308,
+   "budget": 300
+  },
+  {
+   "id": 30,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Besoin d'aide pour les achats?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You need me to explain how to shop?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Besoin d'aide pour les achats?",
+   "brut_en": "You[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?",
+   "data_size": 102,
+   "budget": 94
+  },
+  {
+   "id": 31,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Commençons par les achats. Sélectionnez "
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "Acheter armure"
+      },
+      {
+       "t": " pour acheter depuis notre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "stock."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay... Let's cover buying first. Select "
+      },
+      {
+       "enc": "Buy"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "armor"
+      },
+      {
+       "t": " and you can purchase from our stock"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of amazing armor."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Commençons par les achats. Sélectionnez [1432][NULL][NULL][0014]\nAcheter armure[1432][NULL][NULL][0014] pour acheter depuis notre\nstock.",
+   "brut_en": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 32,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Certaines ne conviennent"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas à tous, vérifiez avant."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Some armor will only fit certain individuals."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Be sure to read the fine print before buying!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Certaines ne conviennent\npas à tous, vérifiez avant.",
+   "brut_en": "Some[SP]armor[SP]will[SP]only[SP]fit[SP]certain[SP]individuals.\nBe[SP]sure[SP]to[SP]read[SP]the[SP]fine[SP]print[SP]before[SP]buying!",
+   "data_size": 214,
+   "budget": 206
+  },
+  {
+   "id": 33,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous pouvez aussi acheter"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "des accessoires chez nous."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Apart from that, you can also buy accessories"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "from us."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous pouvez aussi acheter\ndes accessoires chez nous.",
+   "brut_en": "Apart[SP]from[SP]that,[SP]you[SP]can[SP]also[SP]buy[SP]accessories\nfrom[SP]us.",
+   "data_size": 140,
+   "budget": 132
+  },
+  {
+   "id": 34,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Certains accessoires ont des"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "restrictions d'équipement."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Some accessories have restrictions on who can"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "equip them, so be careful."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Certains accessoires ont des\nrestrictions d'équipement.",
+   "brut_en": "Some[SP]accessories[SP]have[SP]restrictions[SP]on[SP]who[SP]can\nequip[SP]them,[SP]so[SP]be[SP]careful.",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 35,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ensuite, la vente. Sélectionnez "
+      },
+      {
+       "enc": "Vendre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "objets"
+      },
+      {
+       "t": " puis choisissez le type d'objet à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vendre."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Choisissez enfin l'objet à vendre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Next, selling. Select "
+      },
+      {
+       "enc": "Sell items"
+      },
+      {
+       "t": " and then"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "choose which type of item you'd like to sell."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Finally, select which item to sell."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre.[1205][U+000F] Choisissez enfin l'objet à vendre.",
+   "brut_en": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
+   "data_size": 294,
+   "budget": 286
+  },
+  {
+   "id": 36,
+   "nom_fr": "Vendeuse",
+   "nom_en": "Saleswoman",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Revente à environ la moitié du prix."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Objets équipés ou spéciaux non vendables."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The resale price is roughly half the original"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "price. You can't sell anything you're wearing,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "or certain special items. That about does it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Revente à environ la moitié du prix.\nObjets équipés ou spéciaux non vendables.",
+   "brut_en": "The[SP]resale[SP]price[SP]is[SP]roughly[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you're[SP]wearing,\nor[SP]certain[SP]special[SP]items.[SP]That[SP]about[SP]does[SP]it.",
+   "data_size": 308,
+   "budget": 300
+  }
+ ]
+}

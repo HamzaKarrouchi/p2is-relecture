@@ -1,0 +1,374 @@
+{
+ "no": 154,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Fanna!? "
+      },
+      {
+       "enc": "Extrêmement jalouse"
+      },
+      {
+       "t": "!? Ne dis pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ça, Jun! Dis plutôt un amour intense!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Fanna!? "
+      },
+      {
+       "enc": "Extremely jealous"
+      },
+      {
+       "t": "!? Don't call it"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that, Jun! Call it intense love instead!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Fanna!? [1432][NULL][NULL][0014]Extrêmement jalouse[1432][NULL][NULL][0014]!? Ne dis pas\nça, Jun! Dis plutôt un amour intense!",
+   "brut_en": "Fanna!?[SP][1432][NULL][NULL][0014]Extremely[SP]jealous[1432][NULL][NULL][0014]!?[SP]Don't[SP]call[SP]it\nthat,[SP]Jun![SP]Call[SP]it[SP]intense[SP]love[SP]instead!",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je sais pas pour l'"
+      },
+      {
+       "enc": "amour et la beauté"
+      },
+      {
+       "t": ","
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mais pour la jalousie c'est dans le mille!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je parie que des cornes lui iraient bien."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I dunno about the "
+      },
+      {
+       "enc": "love and beauty"
+      },
+      {
+       "t": " part, but"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the jealousy stuff hits the nail on the head!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I bet she'd look great with horns."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je sais pas pour l'[1432][NULL][NULL][0014]amour et la beauté[1432][NULL][NULL][0014],\nmais pour la jalousie c'est dans le mille![1205][U+000F]\nJe parie que des cornes lui iraient bien.",
+   "brut_en": "I[SP]dunno[SP]about[SP]the[SP][1432][NULL][NULL][0014]love[SP]and[SP]beauty[1432][NULL][NULL][0014][SP]part,[SP]but\nthe[SP]jealousy[SP]stuff[SP]hits[SP]the[SP]nail[SP]on[SP]the[SP]head!\nI[SP]bet[SP]she'd[SP]look[SP]great[SP]with[SP]horns.",
+   "data_size": 292,
+   "budget": 284
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Lisa a l'air bien calme avant de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "devoir s'affronter elle-même..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "For someone who's going to be fighting"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "herself soon, Lisa seems pretty relaxed..."
+      },
+      {
+       "pause": true
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Lisa a l'air bien calme avant de\ndevoir s'affronter elle-même...[1205][001E]",
+   "brut_en": "For[SP]someone[SP]who's[SP]going[SP]to[SP]be[SP]fighting\nherself[SP]soon,[SP]Lisa[SP]seems[SP]pretty[SP]relaxed...[1205][001E]",
+   "data_size": 188,
+   "budget": 180
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est grâce à Jun, Eikichi..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Et toi aussi,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bien sûr."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous irez bien, peu importe quand"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "je partirai."
+      }
+     ]
+    },
+    {
+     "nom": "Jun Le Taureau...",
+     "seg": [
+      {
+       "pause": true
+      },
+      {
+       "t": " Lié à la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "terre, il symbolise l'amour et la beauté,ainsi que richesse et fertilité..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This is all thanks to Jun-kun, Eikichi-kun..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "And you too, of course."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I think you'll be fine"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "no matter when I go."
+      },
+      {
+       "nl": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "nl": true
+      }
+     ]
+    },
+    {
+     "nom": "Jun",
+     "seg": [
+      {
+       "t": "Taurus..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's associated with earth and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "symbolizes love and beauty, as well as"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "wealth and fertility..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est grâce à Jun, Eikichi...[1205][001E] Et toi aussi,\nbien sûr.[1205][001E] Vous irez bien, peu importe quand\nje partirai.[E1][E2]\n[E3][E4][NULL][NULL]\"Jun Le Taureau...\n[1205][001E] Lié à la\nterre, il symbolise l'amour et la beauté,[1101]ainsi que richesse et fertilité...",
+   "brut_en": "This[SP]is[SP]all[SP]thanks[SP]to[SP]Jun-kun,[SP]Eikichi-kun...[1205][001E]\nAnd[SP]you[SP]too,[SP]of[SP]course.[1205][001E][SP]I[SP]think[SP]you'll[SP]be[SP]fine\nno[SP]matter[SP]when[SP]I[SP]go.\n[E1][E2]\n\n\n[E3][E4][NULL][NULL]\"Jun\nTaurus...[1205][001E][SP]It's[SP]associated[SP]with[SP]earth[SP]and\nsymbolizes[SP]love[SP]and[SP]beauty,[SP]as[SP]well[SP]as\nwealth[SP]and[SP]fertility...",
+   "data_size": 496,
+   "budget": 488
+  },
+  {
+   "id": 4,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Les Taureaux sont très jaloux, cette"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "constellation va donc à merveille à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Lisa."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " > Inscription sur le relief."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Tauruses are also known to be extremely"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "jealous, so I think this constellation fits"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Lisa like a glove."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "> There's an inscription in the relief."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Les Taureaux sont très jaloux, cette\nconstellation va donc à merveille à\nLisa.[1205][U+000F] [E1][E2][E3]> Inscription sur le relief.",
+   "brut_en": "Tauruses[SP]are[SP]also[SP]known[SP]to[SP]be[SP]extremely\njealous,[SP]so[SP]I[SP]think[SP]this[SP]constellation[SP]fits\nLisa[SP]like[SP]a[SP]glove.\n[E1][E2][E3]>[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.",
+   "data_size": 310,
+   "budget": 302
+  }
+ ]
+}

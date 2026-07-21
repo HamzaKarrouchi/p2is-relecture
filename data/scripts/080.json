@@ -1,0 +1,220 @@
+{
+ "no": 80,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Umm, je suppose que c'est le volant... Hein?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Il n'y a pas de freins... "
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Bon, tant pis."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Umm, I guess this is the steering wheel..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Huh? There's no brakes..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Well, I'll make do."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Umm, je suppose que c'est le volant... Hein?\nIl n'y a pas de freins... [1205][001E] Bon, tant pis.",
+   "brut_en": "Umm,[SP]I[SP]guess[SP]this[SP]is[SP]the[SP]steering[SP]wheel...\nHuh?[SP]There's[SP]no[SP]brakes...[1205][001E][SP]Well,[SP]I'll[SP]make[SP]do.",
+   "data_size": 202,
+   "budget": 194
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est parti!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Here goes nothing!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est parti!",
+   "brut_en": "Here[SP]goes[SP]nothing!",
+   "data_size": 58,
+   "budget": 50
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Owww! Aiyah!? Maya, tu peux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vraiment piloter ce truc?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Owwww! Aiyah!? Maya-san, can you actually"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pilot this thing?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Owww! Aiyah!? Maya, tu peux\nvraiment piloter ce truc?",
+   "brut_en": "Owwww![SP]Aiyah!?[SP]Maya-san,[SP]can[SP]you[SP]actually\npilot[SP]this[SP]thing?",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 3,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je ne veux pas être impoli, tu veux pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "laisser quelqu'un d'autre conduire?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't mean to be rude, babe, but shouldn't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you let someone else handle this?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je ne veux pas être impoli, tu veux pas\nlaisser quelqu'un d'autre conduire?",
+   "brut_en": "I[SP]don't[SP]mean[SP]to[SP]be[SP]rude,[SP]babe,[SP]but[SP]shouldn't\nyou[SP]let[SP]someone[SP]else[SP]handle[SP]this?",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Allez, c'était juste un petit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "oups! J'gère maintenant!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'mon, that was just a little oopsie!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I've got it now!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Allez, c'était juste un petit\noups! J'gère maintenant!",
+   "brut_en": "C'mon,[SP]that[SP]was[SP]just[SP]a[SP]little[SP]oopsie!\nI've[SP]got[SP]it[SP]now!",
+   "data_size": 130,
+   "budget": 122
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "no": 48,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'as trouvé le transmetteur, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Did you find the transmitter, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'as trouvé le transmetteur, [1113]-kun?",
+   "brut_en": "Did[SP]you[SP]find[SP]the[SP]transmitter,[SP][1113]-kun?",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Donc c'était pas au 4ème étage... J'ai"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rien trouvé de tel au 3ème étage non plus."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "So it wasn't on the fourth floor..."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I didn't find anything like it on the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "third floor, either."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Donc c'était pas au 4ème étage... J'ai\nrien trouvé de tel au 3ème étage non plus.",
+   "brut_en": "So[SP]it[SP]wasn't[SP]on[SP]the[SP]fourth[SP]floor...\nI[SP]didn't[SP]find[SP]anything[SP]like[SP]it[SP]on[SP]the\nthird[SP]floor,[SP]either.",
+   "data_size": 210,
+   "budget": 202
+  }
+ ]
+}

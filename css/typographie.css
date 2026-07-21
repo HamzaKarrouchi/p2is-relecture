@@ -1,0 +1,16 @@
+/* Polices auto-hébergées — Velvet Editorial */
+@font-face{ font-family:"Cormorant Garamond"; font-style:normal; font-weight:500;
+  font-display:swap; src:url("../font/cormorant-500.woff2") format("woff2"); }
+@font-face{ font-family:"Cormorant Garamond"; font-style:italic; font-weight:600;
+  font-display:swap; src:url("../font/cormorant-italic-600.woff2") format("woff2"); }
+@font-face{ font-family:"Libre Baskerville"; font-style:normal; font-weight:400;
+  font-display:swap; src:url("../font/libre-baskerville-400.woff2") format("woff2"); }
+@font-face{ font-family:"Libre Baskerville"; font-style:normal; font-weight:700;
+  font-display:swap; src:url("../font/libre-baskerville-700.woff2") format("woff2"); }
+@font-face{ font-family:"Libre Baskerville"; font-style:italic; font-weight:400;
+  font-display:swap; src:url("../font/libre-baskerville-italic-400.woff2") format("woff2"); }
+
+:root{
+  --ff-titre:"Cormorant Garamond", Georgia, "Times New Roman", serif;
+  --ff-corps:"Libre Baskerville", Georgia, "Times New Roman", serif;
+}

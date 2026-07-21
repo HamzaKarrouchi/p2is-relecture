@@ -1,0 +1,647 @@
+{
+ "no": 391,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eeeet... Action! Bienvenue au Cinéma Climax"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de Sumaru! C'est votre première visite?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Annnnnd... Action!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Welcome to Sumaru City's Climax Theater!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Is this your first time here?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eeeet... Action! Bienvenue au Cinéma Climax\nde Sumaru! C'est votre première visite?",
+   "brut_en": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]Sumaru[SP]City's[SP]Climax[SP]Theater!\nIs[SP]this[SP]your[SP]first[SP]time[SP]here?",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 1,
+   "nom_fr": "???",
+   "nom_en": "???",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je m'appelle Mitsugi, et je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "serai votre guide. Enchanté!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "My name is Mitsugi, and I'll be your guide"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to the theater. Nice to meet you!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je m'appelle Mitsugi, et je\nserai votre guide. Enchanté!",
+   "brut_en": "My[SP]name[SP]is[SP]Mitsugi,[SP]and[SP]I'll[SP]be[SP]your[SP]guide\nto[SP]the[SP]theater.[SP]Nice[SP]to[SP]meet[SP]you!",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 2,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ici, des films avec la technologie"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la plus avancée qui soit."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Here you can view films using the most"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "advanced technologies available."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ici, des films avec la technologie\nla plus avancée qui soit.",
+   "brut_en": "Here[SP]you[SP]can[SP]view[SP]films[SP]using[SP]the[SP]most\nadvanced[SP]technologies[SP]available.",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 3,
+   "nom_fr": "Mitsugi, la guide du cinéma",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On raconte que l'image est si"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nette qu'on a presque l'impression"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de "
+      },
+      {
+       "hl": "vivre réellement le film"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "They say that the pictures are so clear and"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "crisp that it feels almost as if you're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "really experiencing the events of the film"
+      },
+      {
+       "t": "!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On raconte que l'image est si\nnette qu'on a presque l'impression\nde [E4][NULL][NULL][U+0006]vivre réellement le film[E4][NULL][NULL][0002]!",
+   "brut_en": "They[SP]say[SP]that[SP]the[SP]pictures[SP]are[SP]so[SP]clear[SP]and\ncrisp[SP]that[SP]it[SP]feels[SP]almost[SP]as[SP]if[SP]you're\n[E4][NULL][NULL][U+0006]really[SP]experiencing[SP]the[SP]events[SP]of[SP]the[SP]film[E4][NULL][NULL][0002]!",
+   "data_size": 332,
+   "budget": 324
+  },
+  {
+   "id": 4,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous gagnez aussi des points à chaque film"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vu en entier. Ces points s'accumulent!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You'll also earn points each time you watch"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a movie all the way to the end. These points"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "will add up!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous gagnez aussi des points à chaque film\nvu en entier. Ces points s'accumulent!",
+   "brut_en": "You'll[SP]also[SP]earn[SP]points[SP]each[SP]time[SP]you[SP]watch\na[SP]movie[SP]all[SP]the[SP]way[SP]to[SP]the[SP]end.[SP]These[SP]points\nwill[SP]add[SP]up!",
+   "data_size": 264,
+   "budget": 256
+  },
+  {
+   "id": 5,
+   "nom_fr": "Mitsugi, la guide du cinéma",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Votre niveau de membre dépend de vos"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "points. Vous commencerez au rang"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "Framboise noire"
+      },
+      {
+       "t": " et vous progresserez!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Your membership level is determined by the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "amount of points you have. You'll start at"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hl": "Black Raspberry"
+      },
+      {
+       "t": " and work your way up!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Votre niveau de membre dépend de vos\npoints. Vous commencerez au rang[1205][U+000F]\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et vous progresserez!",
+   "brut_en": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
+   "data_size": 340,
+   "budget": 332
+  },
+  {
+   "id": 6,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et bien sûr, plus vous êtes un bon client,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plus je serai ravie de vous voir revenir"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "encore et encore. Amusez-vous bien!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And, of course, the better a patron you are,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the happier I'll be to see you visiting our"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "theater again and again. Have fun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et bien sûr, plus vous êtes un bon client,\nplus je serai ravie de vous voir revenir\nencore et encore. Amusez-vous bien!",
+   "brut_en": "And,[SP]of[SP]course,[SP]the[SP]better[SP]a[SP]patron[SP]you[SP]are,\nthe[SP]happier[SP]I'll[SP]be[SP]to[SP]see[SP]you[SP]visiting[SP]our\ntheater[SP]again[SP]and[SP]again.[SP]Have[SP]fun!",
+   "data_size": 308,
+   "budget": 300
+  },
+  {
+   "id": 7,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "... Quoi? Mon service impeccable et"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mes excellentes explications ne vous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "suffisent pas?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous plaisantez?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "...What? Wasn't my impeccable service"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and masterful explanation enough?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You've got to be joking."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "... Quoi? Mon service impeccable et\nmes excellentes explications ne vous\nsuffisent pas?[1205][U+000F] Vous plaisantez?",
+   "brut_en": "...What?[SP]Wasn't[SP]my[SP]impeccable[SP]service\nand[SP]masterful[SP]explanation[SP]enough?\nYou've[SP]got[SP]to[SP]be[SP]joking.",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 8,
+   "nom_fr": "Mitsugi",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nous vous offrons déjà une expérience"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "incomparable avec les films les plus"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "réalistes"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " qui soient! Que demander de plus?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We're already giving you the unparalleled"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "experience of seeing the most realistic movies"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "known to man! What more could you want?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Nous vous offrons déjà une expérience\nincomparable avec les films les plus\nréalistes[1205][U+000F] qui soient! Que demander de plus?",
+   "brut_en": "We're[SP]already[SP]giving[SP]you[SP]the[SP]unparalleled\nexperience[SP]of[SP]seeing[SP]the[SP]most[SP]realistic[SP]movies\nknown[SP]to[SP]man![SP]What[SP]more[SP]could[SP]you[SP]want?",
+   "data_size": 320,
+   "budget": 312
+  },
+  {
+   "id": 9,
+   "nom_fr": "Mitsugi, la guide du cinéma",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Merci pour votre travail! Je vous ai observé."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Impressionnant! Laissez-moi débloquer"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nouveau mode.>BGMajouté à la Galerie."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Thanks for your hard work! I've been watching,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and I gotta say, I'm impressed! Let me unlock"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a new mode for you.> BGM was added to the Gallery."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Merci pour votre travail! Je vous ai observé.\nImpressionnant! Laissez-moi débloquer[1205][U+000F] un\nnouveau mode.[E1][E2][E3]>[1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014]ajouté à la Galerie.",
+   "brut_en": "Thanks[SP]for[SP]your[SP]hard[SP]work![SP]I've[SP]been[SP]watching,\nand[SP]I[SP]gotta[SP]say,[SP]I'm[SP]impressed![SP]Let[SP]me[SP]unlock\na[SP]new[SP]mode[SP]for[SP]you.[E1][E2][E3]>[SP][1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014][SP]was[SP]added[SP]to[SP]the[SP]Gallery.",
+   "data_size": 372,
+   "budget": 364
+  },
+  {
+   "id": 10,
+   "nom_fr": "Mitsugi, la guide du cinéma",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ici écoutez la musique principale."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Here you can play music from the main story."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ici écoutez la musique principale.",
+   "brut_en": "Here[SP]you[SP]can[SP]play[SP]music[SP]from[SP]the[SP]main[SP]story.",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 11,
+   "nom_fr": "Mitsugi, la guide du cinéma",
+   "nom_en": "Mitsugi, the Theater Guide",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dans Config, passez de l'Original au Remix"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pour profiter des versions nouvelles ou"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "anciennes"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " de ces thèmes cultes."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "If you go to Config and switch between Original"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and Remixed, you can enjoy new or old versions"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of those classic themes."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Dans Config, passez de l'Original au Remix\npour profiter des versions nouvelles ou\nanciennes[1205][U+000F] de ces thèmes cultes.",
+   "brut_en": "If[SP]you[SP]go[SP]to[SP]Config[SP]and[SP]switch[SP]between[SP]Original\nand[SP]Remixed,[SP]you[SP]can[SP]enjoy[SP]new[SP]or[SP]old[SP]versions\nof[SP]those[SP]classic[SP]themes.",
+   "data_size": 302,
+   "budget": 294
+  }
+ ]
+}

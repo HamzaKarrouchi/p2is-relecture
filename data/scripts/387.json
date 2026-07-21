@@ -1,0 +1,855 @@
+{
+ "no": 387,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Qu'es que c'est que ça?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "scène? C'est même éclairé..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dude, what is this...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Some kinda stage?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "There's even lighting..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Qu'es que c'est que ça?[1205][U+000F] Une\nscène? C'est même éclairé...",
+   "brut_en": "Dude,[SP]what[SP]is[SP]this...?[1205][U+000F][SP]Some[SP]kinda[SP]stage?\nThere's[SP]even[SP]lighting...",
+   "data_size": 160,
+   "budget": 152
+  },
+  {
+   "id": 1,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On fait demi-tour?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est vrai qu'on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pourra pas faire le plein"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "d'équipement sinon. Aller, on y va."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh, are we heading back for a bit?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Guess we"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "can't stock up on weapons and stuff otherwise."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Okay, let's go."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On fait demi-tour?[1205][U+000F] C'est vrai qu'on\npourra pas faire le plein\nd'équipement sinon. Aller, on y va.",
+   "brut_en": "Oh,[SP]are[SP]we[SP]heading[SP]back[SP]for[SP]a[SP]bit?[1205][U+000F][SP]Guess[SP]we\ncan't[SP]stock[SP]up[SP]on[SP]weapons[SP]and[SP]stuff[SP]otherwise.\nOkay,[SP]let's[SP]go.",
+   "data_size": 242,
+   "budget": 234
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est une mauvaise idée de se"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rapprocher. Ca pourrait être un piège."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What is that...? I don't think we should get"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "too close. It could be a trap..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est une mauvaise idée de se\nrapprocher. Ca pourrait être un piège.",
+   "brut_en": "What[SP]is[SP]that...?[SP]I[SP]don't[SP]think[SP]we[SP]should[SP]get\ntoo[SP]close.[SP]It[SP]could[SP]be[SP]a[SP]trap...",
+   "data_size": 176,
+   "budget": 168
+  },
+  {
+   "id": 3,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On dirait que le Bataillon peut être utile"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de temps à autre."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Autant en profiter!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Looks like the Last Battalion makes something"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "useful every now and then."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Well, might as well"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "take advantage of it!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On dirait que le Bataillon peut être utile\nde temps à autre.[1205][U+000F] Autant en profiter!",
+   "brut_en": "Looks[SP]like[SP]the[SP]Last[SP]Battalion[SP]makes[SP]something\nuseful[SP]every[SP]now[SP]and[SP]then.[1205][U+000F][SP]Well,[SP]might[SP]as[SP]well\ntake[SP]advantage[SP]of[SP]it!",
+   "data_size": 254,
+   "budget": 246
+  },
+  {
+   "id": 4,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Cette marque..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est le"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "bataillon qui à laissé ça?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "This mark..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Did the Last Battalion leave"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this here...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Cette marque...[1205][U+000F] C'est le\nbataillon qui à laissé ça?",
+   "brut_en": "This[SP]mark...[1205][U+000F][SP]Did[SP]the[SP]Last[SP]Battalion[SP]leave\nthis[SP]here...?",
+   "data_size": 134,
+   "budget": 126
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm... On ne peut pas le récupérer."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Estimons nous heureux d'avoir ça."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm... Well, we can't exactly swim upriver to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "get back. Let's just count ourselves lucky"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to have this."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hmm... On ne peut pas le récupérer.\nEstimons nous heureux d'avoir ça.",
+   "brut_en": "Hmm...[SP]Well,[SP]we[SP]can't[SP]exactly[SP]swim[SP]upriver[SP]to\nget[SP]back.[SP]Let's[SP]just[SP]count[SP]ourselves[SP]lucky\nto[SP]have[SP]this.",
+   "data_size": 224,
+   "budget": 216
+  },
+  {
+   "id": 6,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On dirait un téléporteur."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On devrait"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pouvoir l'activer en appuyant sur le bouton"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à l'intérieur. Mais où il pourrait ammener?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It looks like... a teleporter..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I think we"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "can activate it just by getting on and pushing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a button. But where does it lead...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On dirait un téléporteur.[1205][U+000F] On devrait\npouvoir l'activer en appuyant sur le bouton\nà l'intérieur. Mais où il pourrait ammener?",
+   "brut_en": "It[SP]looks[SP]like...[SP]a[SP]teleporter...[1205][U+000F][SP]I[SP]think[SP]we\ncan[SP]activate[SP]it[SP]just[SP]by[SP]getting[SP]on[SP]and[SP]pushing\na[SP]button.[SP]But[SP]where[SP]does[SP]it[SP]lead...?",
+   "data_size": 276,
+   "budget": 268
+  },
+  {
+   "id": 7,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On dirait que le Bataillon ne s'en est "
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "même pas servi."
+      },
+      {
+       "nl": true
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "Comme s'il était fait pour nous...> Se "
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "téléporter à Seven?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's strange..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It doesn't look as though the"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Last Battalion even used this."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's like they"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "left it just for us...> Warp to Sevens?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Oui",
+     "Non"
+    ],
+    "question": [
+     {
+      "t": "On dirait que le Bataillon ne s'en est "
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "même pas servi."
+     },
+     {
+      "nl": true
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": "Comme s'il était fait pour nous...> Se "
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "téléporter à Seven?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Yes",
+     "No"
+    ],
+    "question": [
+     {
+      "t": "It's strange..."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " It doesn't look as though the"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "Last Battalion even used this."
+     },
+     {
+      "pause": true
+     },
+     {
+      "t": " It's like they"
+     },
+     {
+      "nl": true
+     },
+     {
+      "t": "left it just for us...> Warp to Sevens?"
+     }
+    ]
+   },
+   "brut_fr": "On dirait que le Bataillon ne s'en est \nmême pas servi.\n[1205][U+000F]Comme s'il était fait pour nous...[E1][E2][E3]> Se \ntéléporter à Seven?\n[1208][0002]Oui\nNon",
+   "brut_en": "It's[SP]strange...[1205][U+000F][SP]It[SP]doesn't[SP]look[SP]as[SP]though[SP]the\nLast[SP]Battalion[SP]even[SP]used[SP]this.[1205][U+000F][SP]It's[SP]like[SP]they\nleft[SP]it[SP]just[SP]for[SP]us...[E1][E2][E3]>[SP]Warp[SP]to[SP]Sevens?\n[1208][0002]Yes\nNo",
+   "data_size": 314,
+   "budget": 306
+  },
+  {
+   "id": 8,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ahh!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " C'est quoi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aiyah!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " What's this?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ahh!?[1205][U+000F] C'est quoi?",
+   "brut_en": "Aiyah!?[1205][U+000F][SP]What's[SP]this?",
+   "data_size": 66,
+   "budget": 58
+  },
+  {
+   "id": 9,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bah, je sais pas moi..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Une scène"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "peut être? Tu vois pas l'éclairage?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Heh, can't you tell?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " It's a stage, duh!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "It even has its own lighting setup!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bah, je sais pas moi...[1205][U+000F] Une scène\npeut être? Tu vois pas l'éclairage?",
+   "brut_en": "Heh,[SP]can't[SP]you[SP]tell?[1205][U+000F][SP]It's[SP]a[SP]stage,[SP]duh!\nIt[SP]even[SP]has[SP]its[SP]own[SP]lighting[SP]setup!",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 10,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "AH"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ha!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "AH",
+   "brut_en": "Ha!",
+   "data_size": 32,
+   "budget": 24
+  },
+  {
+   "id": 11,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Est-ce que tout le monde est prêt?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Parce que le spectacle commence!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's showtime!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Are you ready, Xibalba!?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Because"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Michel's about to rock your socks off!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Est-ce que tout le monde est prêt?[1205][U+000F]\nParce que le spectacle commence!",
+   "brut_en": "It's[SP]showtime![1205][U+000F][SP]Are[SP]you[SP]ready,[SP]Xibalba!?[1205][U+000F][SP]Because\nMichel's[SP]about[SP]to[SP]rock[SP]your[SP]socks[SP]off!",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 12,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haaaaa..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "( \"Maya E-Eikichi!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Haaaaa..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": "("
+      }
+     ]
+    },
+    {
+     "nom": "Maya",
+     "seg": [
+      {
+       "t": "E-Eikichi-kun!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Haaaaa...[1205]( [E3][E4][NULL][NULL]\"Maya E-Eikichi!",
+   "brut_en": "Haaaaa...[1205](\n[E3][E4][NULL][NULL]\"Maya\nE-Eikichi-kun!",
+   "data_size": 98,
+   "budget": 90
+  },
+  {
+   "id": 13,
+   "nom_fr": "Jun",
+   "nom_en": "Jun",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non! Maya!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "N-No, don't! Big Maya!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non! Maya!",
+   "brut_en": "N-No,[SP]don't![SP]Big[SP]Maya!",
+   "data_size": 62,
+   "budget": 54
+  },
+  {
+   "id": 14,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh non! "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! Ça doit être--"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Th-This is bad, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "! I-It's gotta be--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh non! [1113]! Ça doit être--",
+   "brut_en": "Th-This[SP]is[SP]bad,[SP][1113]![SP]I-It's[SP]gotta[SP]be--",
+   "data_size": 94,
+   "budget": 86
+  }
+ ]
+}

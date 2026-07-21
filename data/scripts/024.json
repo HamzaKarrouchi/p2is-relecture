@@ -1,0 +1,2053 @@
+{
+ "no": 24,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ho Oi Dik!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": " est mignon quand il dort!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ho Oi Dik!"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "'s so cute"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "when he's asleep!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ho Oi Dik![1205][001E] [1113] est mignon quand il dort!",
+   "brut_en": "Ho[SP]Oi[SP]Dik![1205][001E][SP][1113]'s[SP]so[SP]cute\nwhen[SP]he's[SP]asleep!",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 1,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eh bien, on dirait que tout le monde va mieux."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Devrait-on réfléchir à comment sortir d'ici?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well, looks like everyone's feeling much"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "better. Should we start thinking seriously"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "about how to get out of here?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eh bien, on dirait que tout le monde va mieux.\nDevrait-on réfléchir à comment sortir d'ici?",
+   "brut_en": "Well,[SP]looks[SP]like[SP]everyone's[SP]feeling[SP]much\nbetter.[SP]Should[SP]we[SP]start[SP]thinking[SP]seriously\nabout[SP]how[SP]to[SP]get[SP]out[SP]of[SP]here?",
+   "data_size": 252,
+   "budget": 244
+  },
+  {
+   "id": 2,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On s'est tous focalisés sur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "l'idée qu'il n'y a pas d'issue."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We've all been too focused on the idea that"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "there's no exit."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On s'est tous focalisés sur\nl'idée qu'il n'y a pas d'issue.",
+   "brut_en": "We've[SP]all[SP]been[SP]too[SP]focused[SP]on[SP]the[SP]idea[SP]that\nthere's[SP]no[SP]exit.",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Vous savez ce qu'on dit: "
+      },
+      {
+       "enc": "L'essentiel est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "invisible pour les yeux."
+      },
+      {
+       "t": " Pas vrai,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "You know what they say: "
+      },
+      {
+       "enc": "What's most"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "important can't be seen with one's eyes."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Right, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Vous savez ce qu'on dit: [1432][NULL][NULL][0014]L'essentiel est\ninvisible pour les yeux.[1432][NULL][NULL][0014] Pas vrai,\n[1113]-kun?",
+   "brut_en": "You[SP]know[SP]what[SP]they[SP]say:[SP][1432][NULL][NULL][0014]What's[SP]most\nimportant[SP]can't[SP]be[SP]seen[SP]with[SP]one's[SP]eyes.[1432][NULL][NULL][0014]\nRight,[SP][1113]-kun?",
+   "data_size": 218,
+   "budget": 210
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm!? Qu'est-ce qu'ils ont...?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hm!? What's going on with them...?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hm!? Qu'est-ce qu'ils ont...?",
+   "brut_en": "Hm!?[SP]What's[SP]going[SP]on[SP]with[SP]them...?",
+   "data_size": 92,
+   "budget": 84
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Il y a sûrement une faille qui"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "nous échappe. La clé pour résoudre"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cette rumeur est le miroir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "There's probably a loophole we're"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "overlooking. The key to cracking this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumor's logic is the mirror."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Il y a sûrement une faille qui\nnous échappe. La clé pour résoudre\ncette rumeur est le miroir.",
+   "brut_en": "There's[SP]probably[SP]a[SP]loophole[SP]we're\noverlooking.[SP]The[SP]key[SP]to[SP]cracking[SP]this\nrumor's[SP]logic[SP]is[SP]the[SP]mirror.",
+   "data_size": 222,
+   "budget": 214
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Faisons le point sur ce que nous"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "savons et trouvons une sortie!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now let's sort through what we know one"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "more time and think of a way out!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Faisons le point sur ce que nous\nsavons et trouvons une sortie!",
+   "brut_en": "Now[SP]let's[SP]sort[SP]through[SP]what[SP]we[SP]know[SP]one\nmore[SP]time[SP]and[SP]think[SP]of[SP]a[SP]way[SP]out!",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 7,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "La rumeur dit qu'une fois dans"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cet abri anti-aérien, on ne peut"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "plus sortir, non? Mais pourquoi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "The rumor was that once you're in this"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "air raid shelter, you can't get out, right?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "But why is that?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "La rumeur dit qu'une fois dans\ncet abri anti-aérien, on ne peut\nplus sortir, non? Mais pourquoi?",
+   "brut_en": "The[SP]rumor[SP]was[SP]that[SP]once[SP]you're[SP]in[SP]this\nair[SP]raid[SP]shelter,[SP]you[SP]can't[SP]get[SP]out,[SP]right?\nBut[SP]why[SP]is[SP]that?",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pourquoi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But why is that?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Vous ignorez où est la sortie.",
+     "Il n'y a pas de sortie."
+    ],
+    "question": [
+     {
+      "t": "Pourquoi?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "You don't know where the exit is.",
+     "There is no exit."
+    ],
+    "question": [
+     {
+      "t": "But why is that?"
+     }
+    ]
+   },
+   "brut_fr": "Pourquoi?\n[1208][0002][1432][NULL][NULL][0014]Vous ignorez où est la sortie.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il n'y a pas de sortie.[1432][NULL][NULL][0014]",
+   "brut_en": "But[SP]why[SP]is[SP]that?\n[1208][0002][1432][NULL][NULL][0014]You[SP]don't[SP]know[SP]where[SP]the[SP]exit[SP]is.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]There[SP]is[SP]no[SP]exit.[1432][NULL][NULL][0014]",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Autre question. Quelqu'un"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "est-il déjà sorti de cet abri?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay, next question. Has anyone escaped"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "from this shelter?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Autre question. Quelqu'un\nest-il déjà sorti de cet abri?",
+   "brut_en": "Okay,[SP]next[SP]question.[SP]Has[SP]anyone[SP]escaped\nfrom[SP]this[SP]shelter?",
+   "data_size": 138,
+   "budget": 130
+  },
+  {
+   "id": 10,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Quelqu'un s'est-il déjà échappé?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Has anyone escaped from this shelter?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Non, personne.",
+     "Il y a eu une personne."
+    ],
+    "question": [
+     {
+      "t": "Quelqu'un s'est-il déjà échappé?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Nope, no one.",
+     "There was one person."
+    ],
+    "question": [
+     {
+      "t": "Has anyone escaped from this shelter?"
+     }
+    ]
+   },
+   "brut_fr": "Quelqu'un s'est-il déjà échappé?\n[1208][0002][1432][NULL][NULL][0014]Non, personne.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il y a eu une personne.[1432][NULL][NULL][0014]",
+   "brut_en": "Has[SP]anyone[SP]escaped[SP]from[SP]this[SP]shelter?\n[1208][0002][1432][NULL][NULL][0014]Nope,[SP]no[SP]one.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]There[SP]was[SP]one[SP]person.[1432][NULL][NULL][0014]",
+   "data_size": 204,
+   "budget": 196
+  },
+  {
+   "id": 11,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Et comment cette personne a fait dans la"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "rumeur? Elle a utilisé quelque chose, non?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Quoi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "And how did the person in the rumor escape?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "They used a certain something, right?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "What was it?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Et comment cette personne a fait dans la\nrumeur? Elle a utilisé quelque chose, non?\nQuoi?",
+   "brut_en": "And[SP]how[SP]did[SP]the[SP]person[SP]in[SP]the[SP]rumor[SP]escape?\nThey[SP]used[SP]a[SP]certain[SP]something,[SP]right?\nWhat[SP]was[SP]it?",
+   "data_size": 210,
+   "budget": 202
+  },
+  {
+   "id": 12,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'était quoi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What was it?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Boussole.",
+     "Miroir."
+    ],
+    "question": [
+     {
+      "t": "C'était quoi?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "A compass.",
+     "A mirror."
+    ],
+    "question": [
+     {
+      "t": "What was it?"
+     }
+    ]
+   },
+   "brut_fr": "C'était quoi?\n[1208][0002][1432][NULL][NULL][0014]Boussole.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Miroir.[1432][NULL][NULL][0014]",
+   "brut_en": "What[SP]was[SP]it?\n[1208][0002][1432][NULL][NULL][0014]A[SP]compass.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]A[SP]mirror.[1432][NULL][NULL][0014]",
+   "data_size": 124,
+   "budget": 116
+  },
+  {
+   "id": 13,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Voilà notre problème, vu"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qu'on a plus de miroir..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Now here's our problem, since we don't have"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a mirror anymore..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Voilà notre problème, vu\nqu'on a plus de miroir...",
+   "brut_en": "Now[SP]here's[SP]our[SP]problem,[SP]since[SP]we[SP]don't[SP]have\na[SP]mirror[SP]anymore...",
+   "data_size": 146,
+   "budget": 138
+  },
+  {
+   "id": 14,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que font les miroirs? Ils"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "reflètent des choses, non?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What do mirrors really do? They reflect"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "things, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Que font les miroirs? Ils\nreflètent des choses, non?",
+   "brut_en": "What[SP]do[SP]mirrors[SP]really[SP]do?[SP]They[SP]reflect\nthings,[SP]right?",
+   "data_size": 130,
+   "budget": 122
+  },
+  {
+   "id": 15,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que reflète un miroir?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What does a mirror reflect?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Tout ce qui est à portée.",
+     "Ton visage."
+    ],
+    "question": [
+     {
+      "t": "Que reflète un miroir?"
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "Everything in range.",
+     "Your own face."
+    ],
+    "question": [
+     {
+      "t": "What does a mirror reflect?"
+     }
+    ]
+   },
+   "brut_fr": "Que reflète un miroir?\n[1208][0002][1432][NULL][NULL][0014]Tout ce qui est à portée.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ton visage.[1432][NULL][NULL][0014]",
+   "brut_en": "What[SP]does[SP]a[SP]mirror[SP]reflect?\n[1208][0002][1432][NULL][NULL][0014]Everything[SP]in[SP]range.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Your[SP]own[SP]face.[1432][NULL][NULL][0014]",
+   "data_size": 184,
+   "budget": 176
+  },
+  {
+   "id": 16,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ok, que veux-tu dire par "
+      },
+      {
+       "enc": "tout ce"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "qui est à portée"
+      },
+      {
+       "t": "!? Continue..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Okay, and what do you mean by "
+      },
+      {
+       "enc": "everything"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "in range"
+      },
+      {
+       "t": "!? Keep going..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ok, que veux-tu dire par [1432][NULL][NULL][0014]tout ce\nqui est à portée[1432][NULL][NULL][0014]!? Continue...",
+   "brut_en": "Okay,[SP]and[SP]what[SP]do[SP]you[SP]mean[SP]by[SP][1432][NULL][NULL][0014]everything\nin[SP]range[1432][NULL][NULL][0014]!?[SP]Keep[SP]going...",
+   "data_size": 168,
+   "budget": 160
+  },
+  {
+   "id": 17,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Continue..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Keep going..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": {
+    "options": [
+     "Regarder sous les jupes?",
+     "Voir indirectement."
+    ],
+    "question": [
+     {
+      "t": "Continue..."
+     }
+    ]
+   },
+   "choix_en": {
+    "options": [
+     "You can look up skirts?",
+     "You can see things indirectly."
+    ],
+    "question": [
+     {
+      "t": "Keep going..."
+     }
+    ]
+   },
+   "brut_fr": "Continue...\n[1208][0002][1432][NULL][NULL][0014]Regarder sous les jupes?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Voir indirectement.[1432][NULL][NULL][0014]",
+   "brut_en": "Keep[SP]going...\n[1208][0002][1432][NULL][NULL][0014]You[SP]can[SP]look[SP]up[SP]skirts?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]You[SP]can[SP]see[SP]things[SP]indirectly.[1432][NULL][NULL][0014]",
+   "data_size": 194,
+   "budget": 186
+  },
+  {
+   "id": 18,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je pense que la personne de la rumeur a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "réussi par hasard, mais elle a trouvé"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "une sortie"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " reflétée dans le miroir!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I think whoever escaped in the rumor managed"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "it by accident, but they did it by finding"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "an exit reflected in the mirror!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je pense que la personne de la rumeur a\nréussi par hasard, mais elle a trouvé\nune sortie[1205][U+000F] reflétée dans le miroir!",
+   "brut_en": "I[SP]think[SP]whoever[SP]escaped[SP]in[SP]the[SP]rumor[SP]managed\nit[SP]by[SP]accident,[SP]but[SP]they[SP]did[SP]it[SP]by[SP]finding\nan[SP]exit[SP]reflected[SP]in[SP]the[SP]mirror!",
+   "data_size": 262,
+   "budget": 254
+  },
+  {
+   "id": 19,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vois... Si la rumeur dit que personne ne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "sait où est la sortie, alors la sortie"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " existe!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I get it... If the rumor is that no one"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "knows where the exit is, then the exit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "does exist!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vois... Si la rumeur dit que personne ne\nsait où est la sortie, alors la sortie[1205][U+000F] existe!",
+   "brut_en": "I[SP]get[SP]it...[SP]If[SP]the[SP]rumor[SP]is[SP]that[SP]no[SP]one\nknows[SP]where[SP]the[SP]exit[SP]is,[SP]then[SP]the[SP]exit\ndoes[SP]exist!",
+   "data_size": 206,
+   "budget": 198
+  },
+  {
+   "id": 20,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Exact! "
+      },
+      {
+       "enc": "Ne pas savoir"
+      },
+      {
+       "t": " n'est pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pareil que "
+      },
+      {
+       "enc": "ne pas exister"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " On"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a juste sauté aux conclusions."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Right! "
+      },
+      {
+       "enc": "Not knowing"
+      },
+      {
+       "t": " isn't the same thing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "as "
+      },
+      {
+       "enc": "not existing"
+      },
+      {
+       "t": "..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " That was just us jumping"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to conclusions."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Exact! [1432][NULL][NULL][0014]Ne pas savoir[1432][NULL][NULL][0014] n'est pas\npareil que [1432][NULL][NULL][0014]ne pas exister[1432][NULL][NULL][0014]...[1205][001E] On\na juste sauté aux conclusions.",
+   "brut_en": "Right![SP][1432][NULL][NULL][0014]Not[SP]knowing[1432][NULL][NULL][0014][SP]isn't[SP]the[SP]same[SP]thing\nas[SP][1432][NULL][NULL][0014]not[SP]existing[1432][NULL][NULL][0014]...[1205][001E][SP]That[SP]was[SP]just[SP]us[SP]jumping\nto[SP]conclusions.",
+   "data_size": 256,
+   "budget": 248
+  },
+  {
+   "id": 21,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ahaha! J'avais des doutes que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce soit le cas depuis le--"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ahaha! I had my suspicions that would be"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "the case right from the--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ahaha! J'avais des doutes que\nce soit le cas depuis le--",
+   "brut_en": "Ahaha![SP]I[SP]had[SP]my[SP]suspicions[SP]that[SP]would[SP]be\nthe[SP]case[SP]right[SP]from[SP]the--",
+   "data_size": 160,
+   "budget": 152
+  },
+  {
+   "id": 22,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sans miroir, on n'a aucun moyen de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la chercher indirectement! Si on"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ne la voit pas, on ne sort pas!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But with no mirror, there's no way for us to"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "indirectly look for it! If we can't see it,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "we still can't get out!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Sans miroir, on n'a aucun moyen de\nla chercher indirectement! Si on\nne la voit pas, on ne sort pas!",
+   "brut_en": "But[SP]with[SP]no[SP]mirror,[SP]there's[SP]no[SP]way[SP]for[SP]us[SP]to\nindirectly[SP]look[SP]for[SP]it![SP]If[SP]we[SP]can't[SP]see[SP]it,\nwe[SP]still[SP]can't[SP]get[SP]out!",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 23,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Faux! C'est l'heure de sortir ça?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Not so! Is it time for me to bust this out?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Faux! C'est l'heure de sortir ça?",
+   "brut_en": "Not[SP]so![SP]Is[SP]it[SP]time[SP]for[SP]me[SP]to[SP]bust[SP]this[SP]out?",
+   "data_size": 112,
+   "budget": 104
+  },
+  {
+   "id": 24,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Gagné! Prends la sortie en photo"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "avec l'appareil pour la voir, non?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ding ding ding! If you use your digital"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "camera, you can take pictures of the exit"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and look at it, right?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Gagné! Prends la sortie en photo\navec l'appareil pour la voir, non?",
+   "brut_en": "Ding[SP]ding[SP]ding![SP]If[SP]you[SP]use[SP]your[SP]digital\ncamera,[SP]you[SP]can[SP]take[SP]pictures[SP]of[SP]the[SP]exit\nand[SP]look[SP]at[SP]it,[SP]right?",
+   "data_size": 230,
+   "budget": 222
+  },
+  {
+   "id": 25,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Waouh! Elle est apparue! Elle est là!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Whoa! It showed up! The exit's right there!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Waouh! Elle est apparue! Elle est là!",
+   "brut_en": "Whoa![SP]It[SP]showed[SP]up![SP]The[SP]exit's[SP]right[SP]there!",
+   "data_size": 112,
+   "budget": 104
+  },
+  {
+   "id": 26,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nous: 1, Rumeur: 0! Allez, il n'y a plus"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aucune raison de traîner ici. Sortons d'ici!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Us: 1, Rumor: 0! C'mon, there's no reason"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "to stick around anymore. Let's get out"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of here!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Nous: 1, Rumeur: 0! Allez, il n'y a plus\naucune raison de traîner ici. Sortons d'ici!",
+   "brut_en": "Us:[SP]1,[SP]Rumor:[SP]0![SP]C'mon,[SP]there's[SP]no[SP]reason\nto[SP]stick[SP]around[SP]anymore.[SP]Let's[SP]get[SP]out\nof[SP]here!",
+   "data_size": 200,
+   "budget": 192
+  },
+  {
+   "id": 27,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Correct! On ne peut pas sortir car la rumeur"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dit que "
+      },
+      {
+       "enc": "personne ne sait où est"
+      },
+      {
+       "pause": true
+      },
+      {
+       "enc": " la sortie."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Correct! The reason we can't get out is"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "because the rumor says "
+      },
+      {
+       "enc": "no one knows where"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "the exit is."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Correct! On ne peut pas sortir car la rumeur\ndit que [1432][NULL][NULL][0014]personne ne sait où est[1205][U+000F] la sortie.[1432][NULL][NULL][0014]",
+   "brut_en": "Correct![SP]The[SP]reason[SP]we[SP]can't[SP]get[SP]out[SP]is\nbecause[SP]the[SP]rumor[SP]says[SP][1432][NULL][NULL][0014]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is.[1432][NULL][NULL][0014]",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 28,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non! Tu y es presque, mais c'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "pas ça. Réfléchis, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nope! Close, but that's not quite it."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Try and think back, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non! Tu y es presque, mais c'est\npas ça. Réfléchis, [1113]-kun.",
+   "brut_en": "Nope![SP]Close,[SP]but[SP]that's[SP]not[SP]quite[SP]it.\nTry[SP]and[SP]think[SP]back,[SP][1113]-kun.",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 29,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est exact!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "That's right!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est exact!",
+   "brut_en": "That's[SP]right!",
+   "data_size": 48,
+   "budget": 40
+  },
+  {
+   "id": 30,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bien que la rumeur dise que "
+      },
+      {
+       "enc": "personne"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "ne sait où est la sortie,"
+      },
+      {
+       "t": " il y"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "aurait une"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " personne qui a fui..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Though the rumor says "
+      },
+      {
+       "enc": "no one knows where"
+      },
+      {
+       "nl": true
+      },
+      {
+       "enc": "the exit is,"
+      },
+      {
+       "t": " there was supposedly one"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "person who did escape..."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bien que la rumeur dise que [1432][NULL][NULL][0014]personne\nne sait où est la sortie,[1432][NULL][NULL][0014] il y\naurait une[1205][U+000F] personne qui a fui...",
+   "brut_en": "Though[SP]the[SP]rumor[SP]says[SP][1432][NULL][NULL][0014]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is,[1432][NULL][NULL][0014][SP]there[SP]was[SP]supposedly[SP]one\nperson[SP]who[SP]did[SP]escape...",
+   "data_size": 244,
+   "budget": 236
+  },
+  {
+   "id": 31,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non! On serait condamnés. Essaie"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "de te souvenir, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nope! We'd be doomed if that was true."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Try and think back, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non! On serait condamnés. Essaie\nde te souvenir, [1113]-kun.",
+   "brut_en": "Nope![SP]We'd[SP]be[SP]doomed[SP]if[SP]that[SP]was[SP]true.\nTry[SP]and[SP]think[SP]back,[SP][1113]-kun.",
+   "data_size": 152,
+   "budget": 144
+  },
+  {
+   "id": 32,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Correct!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Correct!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Correct!",
+   "brut_en": "Correct!",
+   "data_size": 38,
+   "budget": 30
+  },
+  {
+   "id": 33,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "Personne ne sait où est la sortie,"
+      },
+      {
+       "t": " donc"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "tu ne sors pas. Mais la rumeur dit que"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quelqu'un est sorti avec un miroir."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "enc": "No one knows where the exit is,"
+      },
+      {
+       "t": " so you"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "can't get out... But rumor has it that one"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "person got out by using a mirror."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "[1432][NULL][NULL][0014]Personne ne sait où est la sortie,[1432][NULL][NULL][0014] donc\ntu ne sors pas. Mais la rumeur dit que\nquelqu'un est sorti avec un miroir.",
+   "brut_en": "[1432][NULL][NULL][0014]No[SP]one[SP]knows[SP]where[SP]the[SP]exit[SP]is,[1432][NULL][NULL][0014][SP]so[SP]you\ncan't[SP]get[SP]out...[SP]But[SP]rumor[SP]has[SP]it[SP]that[SP]one\nperson[SP]got[SP]out[SP]by[SP]using[SP]a[SP]mirror.",
+   "data_size": 268,
+   "budget": 260
+  },
+  {
+   "id": 34,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Non! C'est nous qui parlions d'une"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "boussole. Essaie de te souvenir, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Nope! We were the ones talking about a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "compass. Try and think back, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Non! C'est nous qui parlions d'une\nboussole. Essaie de te souvenir, [1113].",
+   "brut_en": "Nope![SP]We[SP]were[SP]the[SP]ones[SP]talking[SP]about[SP]a\ncompass.[SP]Try[SP]and[SP]think[SP]back,[SP][1113]-kun.",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 35,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oui! C'est ça! Tu n'es pas la seule chose"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "qui apparaît dans un miroir. Pense à"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "quand tu conduis une voiture ou ta moto!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Yes! That's it! You're not the only thing"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "that appears in a mirror. Think about when"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "you drive a car or ride your bike!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oui! C'est ça! Tu n'es pas la seule chose\nqui apparaît dans un miroir. Pense à\nquand tu conduis une voiture ou ta moto!",
+   "brut_en": "Yes![SP]That's[SP]it![SP]You're[SP]not[SP]the[SP]only[SP]thing\nthat[SP]appears[SP]in[SP]a[SP]mirror.[SP]Think[SP]about[SP]when\nyou[SP]drive[SP]a[SP]car[SP]or[SP]ride[SP]your[SP]bike!",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 36,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm... Si tu utilises un minuscule"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "miroir de maquillage, et si tu changeais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "son angle? Réfléchis, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hmm... Maybe if you're using a tiny cosmetics"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mirror, but even then, what if you changed its"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "angle? Try and think back, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hmm... Si tu utilises un minuscule\nmiroir de maquillage, et si tu changeais\nson angle? Réfléchis, [1113]-kun.",
+   "brut_en": "Hmm...[SP]Maybe[SP]if[SP]you're[SP]using[SP]a[SP]tiny[SP]cosmetics\nmirror,[SP]but[SP]even[SP]then,[SP]what[SP]if[SP]you[SP]changed[SP]its\nangle?[SP]Try[SP]and[SP]think[SP]back,[SP][1113]-kun.",
+   "data_size": 274,
+   "budget": 266
+  },
+  {
+   "id": 37,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bingo! C'est ça, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "C'est l'importance du miroir!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Bingo! That's right, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "That's the importance of the mirror!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Bingo! C'est ça, [1113]-kun!\nC'est l'importance du miroir!",
+   "brut_en": "Bingo![SP]That's[SP]right,[SP][1113]-kun!\nThat's[SP]the[SP]importance[SP]of[SP]the[SP]mirror!",
+   "data_size": 150,
+   "budget": 142
+  },
+  {
+   "id": 38,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Beurk! Les pervers avec qui on me met!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Uch! The pervs they stick me with,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I swear!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Beurk! Les pervers avec qui on me met!",
+   "brut_en": "Uch![SP]The[SP]pervs[SP]they[SP]stick[SP]me[SP]with,\nI[SP]swear!",
+   "data_size": 108,
+   "budget": 100
+  },
+  {
+   "id": 39,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eh bien, c'est tout pour ce soir!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Vous avez été un public formidable!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Well, that's been our show for tonight!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "You've been a great audience!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eh bien, c'est tout pour ce soir!\nVous avez été un public formidable!",
+   "brut_en": "Well,[SP]that's[SP]been[SP]our[SP]show[SP]for[SP]tonight!\nYou've[SP]been[SP]a[SP]great[SP]audience!",
+   "data_size": 160,
+   "budget": 152
+  }
+ ]
+}

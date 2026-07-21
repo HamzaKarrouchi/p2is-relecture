@@ -1,0 +1,934 @@
+{
+ "no": 47,
+ "entrees": [
+  {
+   "id": 0,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mec, ce sont les toilettes des filles."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "On a le droit d'être là? On fait quoi?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Dude, this is the ladies' room. Are we even"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "allowed in here? What're we gonna do?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mec, ce sont les toilettes des filles.\nOn a le droit d'être là? On fait quoi?",
+   "brut_en": "Dude,[SP]this[SP]is[SP]the[SP]ladies'[SP]room.[SP]Are[SP]we[SP]even\nallowed[SP]in[SP]here?[SP]What're[SP]we[SP]gonna[SP]do?",
+   "data_size": 190,
+   "budget": 182
+  },
+  {
+   "id": 1,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "On doit évacuer les clients avant de"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "chercher le transmetteur. Je peux"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "t'emprunter ton briquet,"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "We need to evacuate the customers before"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "we can go looking for the transmitter."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Can I borrow your lighter, "
+      },
+      {
+       "hero": "prenom"
+      },
+      {
+       "t": "-kun?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "On doit évacuer les clients avant de\nchercher le transmetteur. Je peux\nt'emprunter ton briquet,[1205][U+000F] [1113]-kun?",
+   "brut_en": "We[SP]need[SP]to[SP]evacuate[SP]the[SP]customers[SP]before\nwe[SP]can[SP]go[SP]looking[SP]for[SP]the[SP]transmitter.\nCan[SP]I[SP]borrow[SP]your[SP]lighter,[SP][1113]-kun?",
+   "data_size": 248,
+   "budget": 240
+  },
+  {
+   "id": 2,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Hein? Tu fumes, Maya-san?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Huh? I didn't know you smoked, Maya-san."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Hein? Tu fumes, Maya-san?",
+   "brut_en": "Huh?[SP]I[SP]didn't[SP]know[SP]you[SP]smoked,[SP]Maya-san.",
+   "data_size": 104,
+   "budget": 96
+  },
+  {
+   "id": 3,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "En fait, non. J'ai piqué cette"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "cigarette à ma colocataire."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't, actually. I swiped this cigarette"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "from my roommate."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "En fait, non. J'ai piqué cette\ncigarette à ma colocataire.",
+   "brut_en": "I[SP]don't,[SP]actually.[SP]I[SP]swiped[SP]this[SP]cigarette\nfrom[SP]my[SP]roommate.",
+   "data_size": 142,
+   "budget": 134
+  },
+  {
+   "id": 4,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Une coloc? Ooh... T'as un Chinyan?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "A roommate? Ooh... Do you have a Chinyan?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Une coloc? Ooh... T'as un Chinyan?",
+   "brut_en": "A[SP]roommate?[SP]Ooh...[SP]Do[SP]you[SP]have[SP]a[SP]Chinyan?",
+   "data_size": 106,
+   "budget": 98
+  },
+  {
+   "id": 5,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Désolée, mais ma coloc est une fille."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Sorry to disappoint, but my roommate's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "a girl."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Désolée, mais ma coloc est une fille.",
+   "brut_en": "Sorry[SP]to[SP]disappoint,[SP]but[SP]my[SP]roommate's\na[SP]girl.",
+   "data_size": 112,
+   "budget": 104
+  },
+  {
+   "id": 6,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Depuis que j'suis chez Coolest,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "j'ai pas l'temps pour un copain."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je suis mariée à mon boulot!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ever since I started at Coolest, I've been"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "too busy for a boyfriend. I'm pretty much"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "married to my job!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Depuis que j'suis chez Coolest,\nj'ai pas l'temps pour un copain.\nJe suis mariée à mon boulot!",
+   "brut_en": "Ever[SP]since[SP]I[SP]started[SP]at[SP]Coolest,[SP]I've[SP]been\ntoo[SP]busy[SP]for[SP]a[SP]boyfriend.[SP]I'm[SP]pretty[SP]much\nmarried[SP]to[SP]my[SP]job!",
+   "data_size": 226,
+   "budget": 218
+  },
+  {
+   "id": 7,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Houshounah! Ça a l'air horrible!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Je crois pas que je pourrais."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Houshounah! That sounds awful! I don't"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "think I'd be able to stand it."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Houshounah! Ça a l'air horrible!\nJe crois pas que je pourrais.",
+   "brut_en": "Houshounah![SP]That[SP]sounds[SP]awful![SP]I[SP]don't\nthink[SP]I'd[SP]be[SP]able[SP]to[SP]stand[SP]it.",
+   "data_size": 160,
+   "budget": 152
+  },
+  {
+   "id": 8,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Ce n'est pas une limitation. C'est"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "mon rêve depuis petite d'être"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "journaliste, ma vie me"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " comble."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I don't think of it as a limitation. It's"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "been my dream since I was little to be a"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "journalist, so my life's pretty fulfilling."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Ce n'est pas une limitation. C'est\nmon rêve depuis petite d'être\njournaliste, ma vie me[1205][U+000F] comble.",
+   "brut_en": "I[SP]don't[SP]think[SP]of[SP]it[SP]as[SP]a[SP]limitation.[SP]It's\nbeen[SP]my[SP]dream[SP]since[SP]I[SP]was[SP]little[SP]to[SP]be[SP]a\njournalist,[SP]so[SP]my[SP]life's[SP]pretty[SP]fulfilling.",
+   "data_size": 270,
+   "budget": 262
+  },
+  {
+   "id": 9,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je vis pour bosser! Hein, Yukki?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I live for my work! Right, Yukki?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je vis pour bosser! Hein, Yukki?",
+   "brut_en": "I[SP]live[SP]for[SP]my[SP]work![SP]Right,[SP]Yukki?",
+   "data_size": 86,
+   "budget": 78
+  },
+  {
+   "id": 10,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pour le travail...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Je ne sais pas"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "ce qui pousse les autres à vivre."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "For work, huh...?"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " I don't really know what"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "most people live for, I guess."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pour le travail...?[1205][001E] Je ne sais pas\nce qui pousse les autres à vivre.",
+   "brut_en": "For[SP]work,[SP]huh...?[1205][001E][SP]I[SP]don't[SP]really[SP]know[SP]what\nmost[SP]people[SP]live[SP]for,[SP]I[SP]guess.",
+   "data_size": 174,
+   "budget": 166
+  },
+  {
+   "id": 11,
+   "nom_fr": "Yukino",
+   "nom_en": "Yukino",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Mais au moins, j'aime penser que je"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "vis pour réaliser tous mes rêves."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "But at the very least, I like to think I'm"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "living to make my dreams come true."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Mais au moins, j'aime penser que je\nvis pour réaliser tous mes rêves.",
+   "brut_en": "But[SP]at[SP]the[SP]very[SP]least,[SP]I[SP]like[SP]to[SP]think[SP]I'm\nliving[SP]to[SP]make[SP]my[SP]dreams[SP]come[SP]true.",
+   "data_size": 180,
+   "budget": 172
+  },
+  {
+   "id": 12,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "C'est bizarre..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Maya-san me rappelle"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "la "
+      },
+      {
+       "enc": "Grande Sœur"
+      },
+      {
+       "t": " de mes rêves."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "It's strange..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " When I'm with Maya-san,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "I'm reminded of the "
+      },
+      {
+       "enc": "Big Sis"
+      },
+      {
+       "t": " I see in my"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "dreams."
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "C'est bizarre...[1205][001E] Maya-san me rappelle\nla [1432][NULL][NULL][0014]Grande Sœur[1432][NULL][NULL][0014] de mes rêves.",
+   "brut_en": "It's[SP]strange...[1205][001E][SP]When[SP]I'm[SP]with[SP]Maya-san,\nI'm[SP]reminded[SP]of[SP]the[SP][1432][NULL][NULL][0014]Big[SP]Sis[1432][NULL][NULL][0014][SP]I[SP]see[SP]in[SP]my\ndreams.",
+   "data_size": 220,
+   "budget": 212
+  },
+  {
+   "id": 13,
+   "nom_fr": "Ginko",
+   "nom_en": "Ginko",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi, ces rêves..."
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Eikichi, those dreams--"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Eikichi, ces rêves...",
+   "brut_en": "Eikichi,[SP]those[SP]dreams--",
+   "data_size": 68,
+   "budget": 60
+  },
+  {
+   "id": 14,
+   "nom_fr": "Agent d'entretien",
+   "nom_en": "Cleaning lady",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Que faites-vous ici les jeunes!?"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Mademoiselle! Interdit de fumer!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "What're you kids doing in here!? And you,"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Missy! No smoking in the restrooms!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Que faites-vous ici les jeunes!?\nMademoiselle! Interdit de fumer!",
+   "brut_en": "What're[SP]you[SP]kids[SP]doing[SP]in[SP]here!?[SP]And[SP]you,\nMissy![SP]No[SP]smoking[SP]in[SP]the[SP]restrooms!",
+   "data_size": 192,
+   "budget": 184
+  },
+  {
+   "id": 15,
+   "nom_fr": "Agent d'entretien",
+   "nom_en": "Cleaning lady",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh! Mon Dieu! Sales garnements!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Oh! Oh my! I told you so! You awful kids!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Oh! Mon Dieu! Sales garnements!",
+   "brut_en": "Oh![SP]Oh[SP]my![SP]I[SP]told[SP]you[SP]so![SP]You[SP]awful[SP]kids!",
+   "data_size": 120,
+   "budget": 112
+  },
+  {
+   "id": 16,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pardonnez-les pour moi, ma belle."
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Allez..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " Vous ne pouvez pas"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " oublier"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "à la demande d'un si beau spécimen?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pardon them for my sake, sweets. C'mon..."
+      },
+      {
+       "pause": true
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Can't you forgive and forget at the request"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "of such a beautiful specimen?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pardonnez-les pour moi, ma belle.\nAllez...[1205][001E] Vous ne pouvez pas[1205][U+000F] oublier\nà la demande d'un si beau spécimen?",
+   "brut_en": "Pardon[SP]them[SP]for[SP]my[SP]sake,[SP]sweets.[SP]C'mon...[1205][001E]\nCan't[SP]you[SP]forgive[SP]and[SP]forget[SP]at[SP]the[SP]request\nof[SP]such[SP]a[SP]beautiful[SP]specimen?",
+   "data_size": 260,
+   "budget": 252
+  },
+  {
+   "id": 17,
+   "nom_fr": "Femme de ménage",
+   "nom_en": "Cleaning lady",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "T'es un garçon!? Mon Dieu!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pervers! Un pervers aux toilettes!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Aren't you a boy!? Oh my goodness!"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "Pervert! Pervert in the stalls!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "T'es un garçon!? Mon Dieu!\nPervers! Un pervers aux toilettes!",
+   "brut_en": "Aren't[SP]you[SP]a[SP]boy!?[SP]Oh[SP]my[SP]goodness!\nPervert![SP]Pervert[SP]in[SP]the[SP]stalls!",
+   "data_size": 170,
+   "budget": 162
+  },
+  {
+   "id": 18,
+   "nom_fr": "Eikichi",
+   "nom_en": "Eikichi",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Pervers?"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "P-Pervert?"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Pervers?",
+   "brut_en": "P-Pervert?",
+   "data_size": 46,
+   "budget": 38
+  },
+  {
+   "id": 19,
+   "nom_fr": "Maya",
+   "nom_en": "Maya",
+   "bulles_fr": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "Je me sens mal pour lui... Mais"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "laissons Eikichi-kun gérer! On"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "doit vite trouver le"
+      },
+      {
+       "pause": true
+      },
+      {
+       "t": " transmetteur!"
+      }
+     ]
+    }
+   ],
+   "bulles_en": [
+    {
+     "nom": null,
+     "seg": [
+      {
+       "t": "I feel bad for him... But why don't we leave"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "this place to Eikichi-kun? We need to hurry"
+      },
+      {
+       "nl": true
+      },
+      {
+       "t": "and find the transmitter!"
+      }
+     ]
+    }
+   ],
+   "choix_fr": null,
+   "choix_en": null,
+   "brut_fr": "Je me sens mal pour lui... Mais\nlaissons Eikichi-kun gérer! On\ndoit vite trouver le[1205][U+000F] transmetteur!",
+   "brut_en": "I[SP]feel[SP]bad[SP]for[SP]him...[SP]But[SP]why[SP]don't[SP]we[SP]leave\nthis[SP]place[SP]to[SP]Eikichi-kun?[SP]We[SP]need[SP]to[SP]hurry\nand[SP]find[SP]the[SP]transmitter!",
+   "data_size": 248,
+   "budget": 240
+  }
+ ]
+}
